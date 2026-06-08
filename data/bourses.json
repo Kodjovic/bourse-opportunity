@@ -166,34 +166,6 @@
     "slug": "valar-scholarship-program"
   },
   {
-    "titre": "Bourse de master MasterCard Foundation pour étudiants africains",
-    "organisation": "MasterCard Foundation",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-06-30",
-    "deadline_texte": "30 juin 2026",
-    "niveau_etudes": [
-      "master"
-    ],
-    "domaines": [],
-    "pays_eligibles": [
-      "Afrique subsaharienne"
-    ],
-    "age_maximum": null,
-    "langue_requise": null,
-    "documents_requis": [
-      "CV",
-      "lettre de motivation"
-    ],
-    "lien_candidature": null,
-    "source_url": "https://example.com/test",
-    "statut": "ouvert",
-    "resume": "Bourse de master proposée par la MasterCard Foundation destinée aux étudiants africains. Elle couvre l'intégralité des frais de scolarité et s'adresse aux candidats au niveau master en Afrique subsaharienne. La deadline de candidature est fixée au 30 juin 2026.",
-    "extrait_le": "2026-06-01T09:42:51",
-    "slug": "bourse-de-master-mastercard-foundation-pour-etudiants-africains"
-  },
-  {
     "titre": "Internal Medicine Programme Scholarship",
     "organisation": "University of Edinburgh",
     "montant": null,

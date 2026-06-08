@@ -139,6 +139,33 @@
     "slug": "australian-government-research-training-program-scholarship-international"
   },
   {
+    "titre": "Valar Scholarship Program",
+    "organisation": "Valar",
+    "montant": null,
+    "devise": null,
+    "type_financement": "partielle",
+    "deadline": "2026-06-25",
+    "deadline_texte": "Round 1 application deadline for the upcoming class is June 25",
+    "niveau_etudes": [
+      "master",
+      "executive master"
+    ],
+    "domaines": [
+      "business",
+      "management"
+    ],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [],
+    "lien_candidature": "https://valar.quantic.edu/tuition/scholarship-opportunities/",
+    "source_url": "https://valar.quantic.edu/tuition/scholarship-opportunities/?fbclid=IwY2xjawSTDsJleHRuA2FlbQIxMABicmlkETF6YlFyM21pY0R6YlRFaXZsc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtuO937Yj2OHZ6B0oAj7QObxP1hf1KLN7ZqL_lSb83O4jwdqKlE4NAUFGOG6_aem_U-0_AEDPJddyvKg2F1FzZQ",
+    "statut": "ouvert",
+    "resume": "Le Valar Scholarship Program offre des bourses partielles pour les programmes MBA et Executive MBA. Les candidats peuvent demander à être considérés pour ces bourses lors de leur candidature. La date limite de dépôt pour le premier tour est le 25 juin.",
+    "extrait_le": "2026-06-08T02:59:03",
+    "slug": "valar-scholarship-program"
+  },
+  {
     "titre": "Bourse de master MasterCard Foundation pour étudiants africains",
     "organisation": "MasterCard Foundation",
     "montant": null,
@@ -165,6 +192,61 @@
     "resume": "Bourse de master proposée par la MasterCard Foundation destinée aux étudiants africains. Elle couvre l'intégralité des frais de scolarité et s'adresse aux candidats au niveau master en Afrique subsaharienne. La deadline de candidature est fixée au 30 juin 2026.",
     "extrait_le": "2026-06-01T09:42:51",
     "slug": "bourse-de-master-mastercard-foundation-pour-etudiants-africains"
+  },
+  {
+    "titre": "Internal Medicine Programme Scholarship",
+    "organisation": "University of Edinburgh",
+    "montant": null,
+    "devise": null,
+    "type_financement": "partielle",
+    "deadline": "2026-06-30",
+    "deadline_texte": "30 June 2026 at 23:59 UK Time",
+    "niveau_etudes": [
+      "master",
+      "pgcert",
+      "pgdip"
+    ],
+    "domaines": [
+      "médecine interne"
+    ],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [
+      "personal statement"
+    ],
+    "lien_candidature": "https://www.myed.ed.ac.uk",
+    "source_url": "https://registryservices.ed.ac.uk/scholarships-and-student-funding/prospective-postgraduates/online-learning-scholarships/internal?fbclid=IwY2xjawSTDrtleHRuA2FlbQIxMABicmlkETF6YlFyM21pY0R6YlRFaXZsc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlJ6tg-F4vbdIB3IaDabtbL0YzHXo7zfLKQjILOkfhBJlp0Big6IokMHihJc_aem_mo4bwEOsp_sqT9UDhEWVbA",
+    "statut": "ouvert",
+    "resume": "L'Université d'Édimbourg offre 5 bourses pour le MSc Internal Medicine en ligne, couvrant 66% des frais de scolarité pour l'année académique 2026-2027. Les candidats doivent être domiciliés et travailler dans certains pays éligibles, et avoir déjà été admis au programme. La sélection se base sur le mérite académique et une déclaration personnelle.",
+    "extrait_le": "2026-06-08T03:00:46",
+    "slug": "internal-medicine-programme-scholarship"
+  },
+  {
+    "titre": "The Business School Data Analytics (Online) Scholarship",
+    "organisation": "University of Edinburgh Business School",
+    "montant": 5000,
+    "devise": "GBP",
+    "type_financement": "partielle",
+    "deadline": "2026-07-01",
+    "deadline_texte": "23:59, 01 July 2026",
+    "niveau_etudes": [
+      "master"
+    ],
+    "domaines": [
+      "data analytics",
+      "decision analytics"
+    ],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [],
+    "lien_candidature": "https://www.business-school.ed.ac.uk/scholarships/data-analytics",
+    "source_url": "https://www.business-school.ed.ac.uk/scholarships/data-analytics?fbclid=IwY2xjawSTDrdleHRuA2FlbQIxMABicmlkETF6YlFyM21pY0R6YlRFaXZsc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtuO937Yj2OHZ6B0oAj7QObxP1hf1KLN7ZqL_lSb83O4jwdqKlE4NAUFGOG6_aem_U-0_AEDPJddyvKg2F1FzZQ",
+    "statut": "ouvert",
+    "resume": "Cette bourse de 5 000 £ est destinée aux étudiants admis au MSc Data and Decision Analytics (en ligne) de la Business School de l'Université d'Édimbourg, débutant en septembre 2026. Elle est attribuée sur la base du mérite académique et des qualités personnelles et professionnelles. Les candidats doivent avoir reçu une offre d'admission pour postuler.",
+    "extrait_le": "2026-06-08T03:01:29",
+    "slug": "the-business-school-data-analytics-online-scholarship"
   },
   {
     "titre": "Hubert H. Humphrey Fellowship Program 2027-2028",
@@ -412,5 +494,56 @@
     "resume": "L'Université de Tasmanie offre plusieurs programmes de bourses de recherche, dont la bourse du gouvernement australien RTP (Research Training Program) et la bourse d'études supérieures de Tasmanie (TGRS), d'une valeur de 34 315 AUD par an. Ces bourses couvrent les allocations de subsistance, les frais de scolarité pour les candidats internationaux admissibles, et les allocations de relocalisation, attribuées sur la base du mérite académique et de l'excellence en recherche.",
     "extrait_le": "2026-05-30T18:45:45",
     "slug": "australian-government-research-training-program-rtp-scholarships"
+  },
+  {
+    "titre": "UoPeople Scholarships",
+    "organisation": "University of the People",
+    "montant": null,
+    "devise": null,
+    "type_financement": "partielle",
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [
+      "associate",
+      "bachelor",
+      "master"
+    ],
+    "domaines": [],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [],
+    "lien_candidature": "https://www.uopeople.edu/tuition-free/scholarships/",
+    "source_url": "https://www.uopeople.edu/tuition-free/scholarships/?fbclid=IwY2xjawSTDsZleHRuA2FlbQIxMABicmlkETF6YlFyM21pY0R6YlRFaXZsc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHo1bNa5_7bDfH-UTbZwm83L9Ezfu3g8AsPPLaFA3nmFDjGW8Cz-SokUBJDto_aem_U_Yl-PmwreLXBBCQnlPweQ",
+    "statut": "ouvert",
+    "resume": "L'Université du Peuple (UoPeople) propose des bourses d'études aux étudiants rencontrant des difficultés financières. Les bourses couvrent partiellement les frais d'évaluation et de candidature, l'université étant gratuite en termes de frais de scolarité. Les candidats doivent d'abord être admis, puis postuler via le portail étudiant.",
+    "extrait_le": "2026-06-08T02:58:07",
+    "slug": "uopeople-scholarships"
+  },
+  {
+    "titre": "Enhanced Regional Scholarship for Africa",
+    "organisation": "University of Essex Online",
+    "montant": null,
+    "devise": null,
+    "type_financement": "partielle",
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [
+      "undergraduate",
+      "postgraduate"
+    ],
+    "domaines": [],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [],
+    "lien_candidature": "https://online.essex.ac.uk/discounts-and-scholarships/",
+    "source_url": "https://online.essex.ac.uk/discounts-and-scholarships/?fbclid=IwY2xjawSTDsBleHRuA2FlbQIxMABicmlkETF6YlFyM21pY0R6YlRFaXZsc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv-Cdoqfxf5fU-sOqFJhUXmmTjLSPxvUlOFWGpMTxdQguLG88opQE3eeh2ZD_aem_NcWMRSS0ViXpNFfh1TwinA",
+    "statut": "ouvert",
+    "resume": "L'University of Essex Online propose une bourse régionale améliorée pour les étudiants internationaux résidant en Afrique, offrant une réduction de 20% sur les frais de scolarité pour les cursus en ligne de premier cycle et de troisième cycle débutant en juillet 2026. Aucune demande séparée n'est nécessaire ; la bourse est appliquée après réception de la lettre d'offre officielle.",
+    "extrait_le": "2026-06-08T02:59:59",
+    "slug": "enhanced-regional-scholarship-for-africa"
   }
 ]

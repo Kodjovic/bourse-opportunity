@@ -1,0 +1,416 @@
+[
+  {
+    "titre": "Australia Awards Scholarships",
+    "organisation": "Gouvernement australien (DFAT)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-04-30",
+    "deadline_texte": "30 avril 2026 à 14h00 AEST",
+    "niveau_etudes": [
+      "licence",
+      "master"
+    ],
+    "domaines": [],
+    "pays_eligibles": [
+      "Algérie",
+      "Angola",
+      "Côte d'Ivoire",
+      "RDC",
+      "Égypte",
+      "Éthiopie",
+      "Ghana",
+      "Guinée",
+      "Gambie",
+      "Kenya",
+      "Madagascar",
+      "Malawi",
+      "Maroc",
+      "Mozambique",
+      "Namibie",
+      "Nigeria",
+      "Rwanda",
+      "Sierra Leone",
+      "Afrique du Sud",
+      "Tanzanie",
+      "Ouganda",
+      "Zambie",
+      "Zimbabwe"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [],
+    "lien_candidature": null,
+    "source_url": "https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships",
+    "statut": "ouvert",
+    "resume": "La bourse Australia Awards du gouvernement australien finance entièrement les études de licence et master pour les étudiants africains éligibles. Elle couvre les frais de scolarité, le billet d'avion, l'allocation d'installation, l'allocation de vie et l'assurance santé étudiante internationale.",
+    "extrait_le": "2026-05-30T15:29:24",
+    "slug": "australia-awards-scholarships"
+  },
+  {
+    "titre": "International Research Training Program Scholarship (IRTP)",
+    "organisation": "University of Technology Sydney",
+    "montant": 39000,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-03",
+    "deadline_texte": "03 juin 2026",
+    "niveau_etudes": [
+      "master",
+      "phd"
+    ],
+    "domaines": [],
+    "pays_eligibles": [
+      "Afrique subsaharienne"
+    ],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [],
+    "lien_candidature": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp",
+    "source_url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp?utm_id=97758_v0_s00_e233_tv2_tp2_a1den5f08gvbpa&fbclid=IwY2xjawSID7ZleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhMEuer3QAtk2W7iVlJdZHWKxi6aHUbzKlszgR4a8z17fIiqFS2YnJHL1s8L_aem_NrwrxPHhO25Pij3OhXpNlg",
+    "statut": "ouvert",
+    "resume": "Bourse entièrement financée par le gouvernement australien destinée aux étudiants étrangers poursuivant un doctorat ou un master par recherche. Elle couvre les frais de scolarité, une allocation de subsistance de $39,000 par an (exonérée d'impôt à compter du 01 janvier 2026) et l'assurance santé pour étudiants étrangers. Les candidatures sont ouvertes du 04 mai au 03 juin 2026.",
+    "extrait_le": "2026-05-30T18:46:43",
+    "slug": "international-research-training-program-scholarship-irtp"
+  },
+  {
+    "titre": "Featured Grant Guidelines - Together Women Rise",
+    "organisation": "Together Women Rise",
+    "montant": 42500,
+    "devise": "USD",
+    "type_financement": "grant",
+    "deadline": "2026-06-05",
+    "deadline_texte": "5 juin 2026 à 17h00 ET",
+    "niveau_etudes": [],
+    "domaines": [],
+    "pays_eligibles": [
+      "Afrique",
+      "Amérique latine",
+      "Caraïbes",
+      "Asie",
+      "Océanie"
+    ],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [
+      "budget organisationnel",
+      "budget du projet/programme",
+      "formulaire IRS 990 récent et précédent",
+      "formulaire d'admissibilité"
+    ],
+    "lien_candidature": "https://togetherwomenrise.org/apply-for-a-grant/",
+    "source_url": "https://togetherwomenrise.org/featured-grant-guidelines/?fbclid=IwY2xjawSIEL9leHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqAQhRMJF1O7XN7W5gu4vN92scK9EEfrxD-_O7IiHLkRF3SF1yjqFyd-ZCYY_aem_Zd53PTzzyfkDhXdAYioRjw#1769097032726-079bfff6-a122",
+    "statut": "ouvert",
+    "resume": "Together Women Rise attribue des bourses (Featured Grants) de 35 000 à 50 000 USD versées sur deux ans pour soutenir de nouveaux programmes, l'expansion de programmes existants et le renforcement des capacités dans les communautés à faible revenu du Sud Global, y compris l'Afrique. Les organisations doivent être dirigées par des femmes (au moins 50% de leadership féminin) et avoir au moins trois ans d'expérience opérationnelle.",
+    "extrait_le": "2026-05-30T18:51:24",
+    "slug": "featured-grant-guidelines-together-women-rise"
+  },
+  {
+    "titre": "Australian Government Research Training Program Scholarship (International)",
+    "organisation": "Flinders University",
+    "montant": 36061,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-18",
+    "deadline_texte": "18 juin 2026 à minuit (heure d'Australie centrale)",
+    "niveau_etudes": [
+      "phd",
+      "master"
+    ],
+    "domaines": [],
+    "pays_eligibles": [
+      "Tous les pays sauf la Nouvelle-Zélande"
+    ],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [
+      "CV",
+      "lettre de motivation",
+      "relevés de notes universitaires certifiés",
+      "proposition de recherche",
+      "rapports de référence académique",
+      "publications (maximum 5)"
+    ],
+    "lien_candidature": "https://www.flinders.edu.au/scholarships/australian-government-research-training-program-scholarship-international",
+    "source_url": "https://www.flinders.edu.au/scholarships/australian-government-research-training-program-scholarship-international?fbclid=IwY2xjawSID-dleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHql9XHK4h2kXeB7EqzPYTZXUL2qDPb3SbnIi9RJP45M5akHqhNHM-jZClJHW_aem_DnsQJTMk30yld7lI5R4Drg",
+    "statut": "ouvert",
+    "resume": "La bourse australienne de formation à la recherche (AGRTPS) pour les étudiants internationaux offre une allocation annuelle de 36 061 AUD exempte d'impôt pendant 3,5 ans pour un doctorat en recherche. Elle comprend également une allocation pour les frais de scolarité, une couverture de santé outre-mer et une allocation d'établissement pour les frais de réinstallation. Cette bourse hautement compétitive (5 places disponibles) est réservée aux étudiants ayant une excellente aptitude pour la recherche indépendante et prioritairement à ceux qui entreprennent un doctorat pour la première fois en Australie.",
+    "extrait_le": "2026-05-30T18:47:42",
+    "slug": "australian-government-research-training-program-scholarship-international"
+  },
+  {
+    "titre": "Bourse de master MasterCard Foundation pour étudiants africains",
+    "organisation": "MasterCard Foundation",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-30",
+    "deadline_texte": "30 juin 2026",
+    "niveau_etudes": [
+      "master"
+    ],
+    "domaines": [],
+    "pays_eligibles": [
+      "Afrique subsaharienne"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [
+      "CV",
+      "lettre de motivation"
+    ],
+    "lien_candidature": null,
+    "source_url": "https://example.com/test",
+    "statut": "ouvert",
+    "resume": "Bourse de master proposée par la MasterCard Foundation destinée aux étudiants africains. Elle couvre l'intégralité des frais de scolarité et s'adresse aux candidats au niveau master en Afrique subsaharienne. La deadline de candidature est fixée au 30 juin 2026.",
+    "extrait_le": "2026-06-01T09:42:51",
+    "slug": "bourse-de-master-mastercard-foundation-pour-etudiants-africains"
+  },
+  {
+    "titre": "Hubert H. Humphrey Fellowship Program 2027-2028",
+    "organisation": "U.S. Department of State",
+    "montant": null,
+    "devise": null,
+    "type_financement": "fellowship",
+    "deadline": "2026-07-03",
+    "deadline_texte": "July 3, 2026",
+    "niveau_etudes": [
+      "master",
+      "phd"
+    ],
+    "domaines": [
+      "Communications and Journalism",
+      "Law and Governance",
+      "Natural Resources Policy",
+      "Public and Economic Policy",
+      "Public Health Policy and Management"
+    ],
+    "pays_eligibles": [
+      "Togo"
+    ],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [
+      "English language certification (TOEFL/Duolingo/IELTS)"
+    ],
+    "lien_candidature": "https://tg.usembassy.gov/scholarship-opportunities/",
+    "source_url": "https://tg.usembassy.gov/scholarship-opportunities/?fbclid=IwY2xjawSRnlRleHRuA2FlbQIxMABicmlkETE5eTFPbmJIR0pHRVhWeTVtc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHldq56yKLRe7LfrPiAFnUpn7bJ0UYiSBGai-4NKavGxEjRhOek4-RPZKiVeg_aem_-sIx9t2mbKyLtSObDsNdkA",
+    "statut": "ouvert",
+    "resume": "Le programme Hubert H. Humphrey Fellowship 2027-2028 offre aux professionnels en milieu de carrière une opportunité de renforcer leurs compétences en leadership et de développer leur réseau professionnel aux États-Unis. Les candidats doivent être citoyens et résidents du Togo, posséder un diplôme universitaire de premier cycle, avoir au moins cinq ans d'expérience professionnelle et un bon niveau d'anglais. La date limite de candidature est le 3 juillet 2026.",
+    "extrait_le": "2026-06-06T17:57:50",
+    "slug": "hubert-h-humphrey-fellowship-program-2027-2028"
+  },
+  {
+    "titre": "PhD scholarship - RTP and DUPRS",
+    "organisation": "Deakin University",
+    "montant": 37450,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-25",
+    "deadline_texte": "25 octobre 2026",
+    "niveau_etudes": [
+      "phd",
+      "master recherche"
+    ],
+    "domaines": [],
+    "pays_eligibles": [
+      "Australie",
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [
+      "formulaire de candidature",
+      "justificatif d'études tertiaires"
+    ],
+    "lien_candidature": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs",
+    "source_url": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs?fbclid=IwY2xjawSIDb9leHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnsLHeVMRH2JM8hB_NLV7ZAswqIfJ9AuSzVgn7a_8MrzG65ZXXDgOKl-4f7Z_aem_zTwpADAxEX2Jyu8R69T8Nw",
+    "statut": "ouvert",
+    "resume": "Bourse de recherche financée par le gouvernement australien (RTP) ou par Deakin University (DUPRS), offrant une allocation annuelle de 37 450 AUD aux candidats nationaux et internationaux. Les bourses couvrent les frais de scolarité et fournissent une couverture santé pour les étudiants internationaux, avec une durée de trois ans pour les doctorats et deux ans pour les maîtrises en recherche.",
+    "extrait_le": "2026-05-30T18:38:09",
+    "slug": "phd-scholarship-rtp-and-duprs"
+  },
+  {
+    "titre": "Research Training Program (RTP)",
+    "organisation": "Department of Education, Australian Government",
+    "montant": null,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [
+      "master",
+      "phd"
+    ],
+    "domaines": [
+      "recherche"
+    ],
+    "pays_eligibles": [
+      "Australie"
+    ],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [],
+    "lien_candidature": null,
+    "source_url": "https://www.education.gov.au/research-block-grants/research-training-program?fbclid=IwY2xjawSICpdleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqAQhRMJF1O7XN7W5gu4vN92scK9EEfrxD-_O7IiHLkRF3SF1yjqFyd-ZCYY_aem_Zd53PTzzyfkDhXdAYioRjw",
+    "statut": "ouvert",
+    "resume": "Le Research Training Program (RTP) est un programme de financement du gouvernement australien qui soutient la formation des étudiants nationaux et internationaux en recherche doctorale et master. Les bourses RTP peuvent couvrir les frais de scolarité, une allocation de subsistance et les frais accessoires, avec des périodes de soutien de 3 à 4 ans pour les doctorats et jusqu'à 2 ans pour les masters en études à temps plein. Les candidatures doivent être faites directement auprès des établissements d'enseignement supérieur éligibles.",
+    "extrait_le": "2026-05-30T18:24:57",
+    "slug": "research-training-program-rtp"
+  },
+  {
+    "titre": "Graduate Research Scholarships",
+    "organisation": "University of Melbourne",
+    "montant": 135000,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "31 octobre (pour candidature en ligne)",
+    "niveau_etudes": [
+      "master",
+      "phd"
+    ],
+    "domaines": [
+      "sciences agricoles et vétérinaires",
+      "architecture et design",
+      "arts et sciences humaines",
+      "commerce et économie",
+      "éducation",
+      "ingénierie",
+      "environnement",
+      "santé",
+      "informatique",
+      "droit",
+      "musique et arts visuels et performants",
+      "sciences"
+    ],
+    "pays_eligibles": [
+      "Australie",
+      "international"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [
+      "formulaire de candidature en ligne"
+    ],
+    "lien_candidature": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
+    "source_url": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships?fbclid=IwY2xjawSIDP1leHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiTdXlLbaa-Th0d7ZzX1n1OCGhU2cPTS9GuVJZmnyjCQAbjqWsZkhm0kx94S_aem_U4m2j5BV6-Kz1hvd_u6qkA",
+    "statut": "ouvert",
+    "resume": "Les Graduate Research Scholarships de l'Université de Melbourne offrent une remise de frais complète et une allocation de subsistance pouvant atteindre 135 000 AUD aux étudiants nationaux et internationaux poursuivant un master ou doctorat par la recherche. La bourse couvre les frais de scolarité intégralement et fournit une allocation annuelle de 39 500 AUD pour les frais de subsistance, avec une considération automatique basée sur le mérite académique.",
+    "extrait_le": "2026-05-30T18:35:19",
+    "slug": "graduate-research-scholarships"
+  },
+  {
+    "titre": "Graduate research scholarships",
+    "organisation": "Macquarie University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Plusieurs dates selon le programme (janvier à avril 2026)",
+    "niveau_etudes": [
+      "master",
+      "phd",
+      "diplôme de recherche"
+    ],
+    "domaines": [],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [],
+    "lien_candidature": "https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/graduate-research-scholarships",
+    "source_url": "https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/scholarship-opportunities?utm_id=97758_v0_s00_e231_tv2_tp2_a1den5f08gvbpa&fbclid=IwY2xjawSIDUVleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqAQhRMJF1O7XN7W5gu4vN92scK9EEfrxD-_O7IiHLkRF3SF1yjqFyd-ZCYY_aem_Zd53PTzzyfkDhXdAYioRjw",
+    "statut": "ouvert",
+    "resume": "Macquarie University offre une gamme généreuse de bourses pour soutenir les chercheurs diplômés exceptionnels en studies de Graduate Diploma of Research, Master of Research et Doctor of Philosophy. Les bourses peuvent couvrir les frais de scolarité, les allocations de subsistance, l'assurance maladie pour les étudiants internationaux et d'autres frais, selon les programmes d'études.",
+    "extrait_le": "2026-05-30T18:36:09",
+    "slug": "graduate-research-scholarships"
+  },
+  {
+    "titre": "Research Degree Scholarships",
+    "organisation": "The Australian National University (ANU)",
+    "montant": null,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Round 1 International : 31 août chaque année; Round 1 Domestic : 31 octobre chaque année; Round 2 : 15 avril chaque année",
+    "niveau_etudes": [
+      "master",
+      "phd"
+    ],
+    "domaines": [],
+    "pays_eligibles": [
+      "Australie",
+      "Nouvelle-Zélande",
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [],
+    "lien_candidature": "https://research.anu.edu.au/postgraduate-research-candidates/research-degree-scholarships",
+    "source_url": "https://research.anu.edu.au/postgraduate-research-candidates/research-degree-scholarships?fbclid=IwY2xjawSIDjNleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqf4yGVgJpe8rbaQ558PlFCp3FNYBlC-E5C3uh0-VmkJd-y5X5HPv5EK7DsG_aem_iy9R2kR0D6CrrJ0zqDiNOw",
+    "statut": "ouvert",
+    "resume": "L'Université nationale australienne (ANU) propose des bourses de recherche compétitives pour les candidats au doctorat et à la maîtrise par la recherche. Ces bourses couvrent les frais de subsistance et les frais de scolarité, avec deux rondes d'allocation centrales par année. Les candidats doivent posséder un diplôme de première classe ou équivalent et sont admissibles qu'ils soient australiens, néo-zélandais ou internationaux.",
+    "extrait_le": "2026-05-30T18:40:36",
+    "slug": "research-degree-scholarships"
+  },
+  {
+    "titre": "PhD and Research Degree Scholarships at Griffith University",
+    "organisation": "Griffith University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Les candidatures pour 2026 sont fermées. Les bourses ouvertes au mérite pour 2027 s'ouvriront en juillet 2026",
+    "niveau_etudes": [
+      "phd",
+      "master recherche"
+    ],
+    "domaines": [],
+    "pays_eligibles": [
+      "Australie",
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [
+      "expression of interest"
+    ],
+    "lien_candidature": "https://www.griffith.edu.au/research-study/scholarships?fbclid=IwY2xjawSIDzpleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqf4yGVgJpe8rbaQ558PlFCp3FNYBlC-E5C3uh0-VmkJd-y5X5HPv5EK7DsG_aem_iy9R2kR0D6CrrJ0zqDiNOw",
+    "source_url": "https://www.griffith.edu.au/research-study/scholarships?fbclid=IwY2xjawSIDzpleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqf4yGVgJpe8rbaQ558PlFCp3FNYBlC-E5C3uh0-VmkJd-y5X5HPv5EK7DsG_aem_iy9R2kR0D6CrrJ0zqDiNOw",
+    "statut": "ouvert",
+    "resume": "Griffith University offre des bourses d'études complètes pour les doctorants et chercheurs, couvrant les frais de scolarité, l'assurance maladie et les allocations de subsistance. Les candidatures pour 2026 sont fermées, mais les bourses au mérite pour 2027 ouvriront en juillet 2026, avec certaines bourses spécifiques actuellement accessibles.",
+    "extrait_le": "2026-05-30T18:44:58",
+    "slug": "phd-and-research-degree-scholarships-at-griffith-university"
+  },
+  {
+    "titre": "Australian Government Research Training Program (RTP) Scholarships",
+    "organisation": "University of Tasmania",
+    "montant": 34315,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Plusieurs rounds : 1er décembre 2025, 1er février 2026, 1er avril 2026, 1er juin 2026, 1er octobre 2026",
+    "niveau_etudes": [
+      "master",
+      "phd"
+    ],
+    "domaines": [],
+    "pays_eligibles": [
+      "Australie",
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [
+      "CV",
+      "lettre de motivation",
+      "preuve de financement pour visa étudiant"
+    ],
+    "lien_candidature": "https://www.utas.edu.au/research/degrees/apply-now",
+    "source_url": "https://www.utas.edu.au/research/degrees/scholarships-and-fees?fbclid=IwY2xjawSID4BleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqAQhRMJF1O7XN7W5gu4vN92scK9EEfrxD-_O7IiHLkRF3SF1yjqFyd-ZCYY_aem_Zd53PTzzyfkDhXdAYioRjw",
+    "statut": "ouvert",
+    "resume": "L'Université de Tasmanie offre plusieurs programmes de bourses de recherche, dont la bourse du gouvernement australien RTP (Research Training Program) et la bourse d'études supérieures de Tasmanie (TGRS), d'une valeur de 34 315 AUD par an. Ces bourses couvrent les allocations de subsistance, les frais de scolarité pour les candidats internationaux admissibles, et les allocations de relocalisation, attribuées sur la base du mérite académique et de l'excellence en recherche.",
+    "extrait_le": "2026-05-30T18:45:45",
+    "slug": "australian-government-research-training-program-rtp-scholarships"
+  }
+]

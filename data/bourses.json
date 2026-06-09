@@ -781,6 +781,29 @@
     "slug": "university-of-calgary-international-entrance-scholarship"
   },
   {
+    "titre": "Rosa Luxemburg Foundation: Scholarship Programme for International Doctoral Students",
+    "organisation": "Rosa Luxemburg Foundation",
+    "montant": 1520,
+    "devise": "EUR",
+    "type_financement": "fellowship",
+    "deadline": null,
+    "deadline_texte": "1 October of each year",
+    "niveau_etudes": [
+      "phd"
+    ],
+    "domaines": [],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [],
+    "lien_candidature": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000220",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000220&fbclid=IwY2xjawSUYEtleHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsSZWJmm7mw18cXyaoBusuwlpXdpDsy4SK1ze5BL6PzftVKZAggX_d1XR8Kz_aem_Lsy4yXyvTvv6qRuxXbCC2A",
+    "statut": "ouvert",
+    "resume": "La Fondation Rosa Luxemburg offre des bourses aux doctorants internationaux pour réaliser leur thèse en Allemagne ou y effectuer un séjour de recherche. Les candidats doivent être acceptés dans un établissement d'enseignement supérieur allemand ou étranger et être supervisés par un professeur en Allemagne. La bourse mensuelle est de 1 400 EUR, complétée par une allocation de mobilité de 100 EUR et une somme forfaitaire de 20 EUR.",
+    "extrait_le": "2026-06-09T02:57:40",
+    "slug": "rosa-luxemburg-foundation-scholarship-programme-for-international-doctoral-students"
+  },
+  {
     "titre": "Coca-Cola MENA Scholarship Program 2014 to Study in USA",
     "organisation": "The Coca-Cola Company et US Department of State",
     "montant": null,

@@ -13,7 +13,7 @@ import { capitalize, slugifyClient } from "@/lib/utils";
 export const metadata: Metadata = {
   title: "Bourses africaines — toutes les opportunités",
   description:
-    "Le directory de bourses d'études pour les étudiants et chercheurs " +
+    "Le directory de bourses d&apos;études pour les étudiants et chercheurs " +
     "africains. Bourses ouvertes, entièrement financées, par niveau et par " +
     "pays.",
   alternates: { canonical: "/bourses" },
@@ -44,7 +44,7 @@ export default async function PageBoursesLanding() {
           {toutes.length} bourse{toutes.length > 1 ? "s" : ""} référencée
           {toutes.length > 1 ? "s" : ""}, dont {ouvertes.length} actuellement{" "}
           ouverte{ouvertes.length > 1 ? "s" : ""} aux candidatures. Parcours par
-          catégorie, niveau d'études, ou pays éligible.
+          catégorie, niveau d&apos;études, ou pays éligible.
         </p>
       </header>
 
@@ -87,11 +87,11 @@ export default async function PageBoursesLanding() {
         </section>
       )}
 
-      {/* Niveau d'études */}
+      {/* Niveau d&apos;études */}
       {niveaux.length > 0 && (
         <section className="mt-14">
           <h2 className="font-serif text-2xl font-semibold text-stone-900">
-            Par niveau d'études
+            Par niveau d&apos;études
           </h2>
           <div className="mt-1 h-px w-12 bg-stone-300" />
           <ul className="mt-6 flex flex-wrap gap-2">

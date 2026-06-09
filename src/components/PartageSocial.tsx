@@ -9,13 +9,14 @@ interface PartageSocialProps {
 
 export function PartageSocial({ titre, slug }: PartageSocialProps) {
   const [copie, setCopie] = useState(false);
-  const [fullUrl, setFullUrl] = useState("");
+  const [isClient, setIsClient] = useState(false);
 
   useEffect(() => {
-    // On construit l'URL complète uniquement côté client
-    setFullUrl(`${window.location.origin}/bourses/${slug}`);
-  }, [slug]);
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setIsClient(true);
+  }, []);
 
+  const fullUrl = isClient ? `${window.location.origin}/bourses/${slug}` : "";
   const urlEncodee = encodeURIComponent(fullUrl);
   const texteEncode = encodeURIComponent(`🎓 Super opportunité de bourse : ${titre}`);
 

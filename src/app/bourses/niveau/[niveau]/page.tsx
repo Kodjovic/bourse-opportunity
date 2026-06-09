@@ -14,7 +14,7 @@ type Props = {
 };
 
 // ------------------------------------------------------------------
-// SSG : une page par niveau d'études présent dans le JSON
+// SSG : une page par niveau d&apos;études présent dans le JSON
 // ------------------------------------------------------------------
 export async function generateStaticParams() {
   const niveaux = await getNiveauxUniques();
@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!label) return { title: "Niveau introuvable" };
   return {
     title: `Bourses ${capitalize(label)} pour étudiants africains`,
-    description: `Toutes les bourses d'études de niveau ${label} ouvertes aux candidats africains. Filtre par pays éligible et trouve celle qui correspond à ton profil.`,
+    description: `Toutes les bourses d&apos;études de niveau ${label} ouvertes aux candidats africains. Filtre par pays éligible et trouve celle qui correspond à ton profil.`,
     alternates: { canonical: `/bourses/niveau/${slug}` },
   };
 }
@@ -59,15 +59,15 @@ export default async function PageNiveau({ params }: Props) {
 
       <header className="mt-6 max-w-3xl">
         <p className="text-xs font-semibold uppercase tracking-[0.2em] text-orange-700">
-          Niveau d'études
+          Niveau d&apos;études
         </p>
         <h1 className="mt-2 font-serif text-4xl font-semibold leading-tight tracking-tight text-stone-900 sm:text-5xl">
           Bourses de niveau {capitalize(label)}
         </h1>
         <p className="mt-4 text-lg leading-relaxed text-stone-600">
-          Toutes les bourses d'études de niveau <strong>{label}</strong> ouvertes
+          Toutes les bourses d&apos;études de niveau <strong>{label}</strong> ouvertes
           aux étudiants et chercheurs africains. Affine la liste par pays
-          éligible, et consulte les conditions d'admission de chaque programme
+          éligible, et consulte les conditions d&apos;admission de chaque programme
           avant de candidater.
         </p>
       </header>

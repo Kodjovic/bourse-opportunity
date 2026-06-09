@@ -758,6 +758,29 @@
     "slug": "hubert-humphrey-fellowship-program"
   },
   {
+    "titre": "University of Calgary International Entrance Scholarship",
+    "organisation": "University of Calgary",
+    "montant": 20000,
+    "devise": "CAD",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [
+      "undergraduate"
+    ],
+    "domaines": [],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [],
+    "lien_candidature": "https://www.ucalgary.ca/registrar/awards/university-calgary-international-entrance-scholarship?fbclid=IwY2xjawSUXpJleHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrccSMA-_S_EIIXA84fE313OTyXrsmYP6tzFylpptTZ19ODRp286oFLuMGqR_aem_N2K7kjNYgrf9GIpLLg137Q",
+    "source_url": "https://www.ucalgary.ca/registrar/awards/university-calgary-international-entrance-scholarship?fbclid=IwY2xjawSUXpJleHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrccSMA-_S_EIIXA84fE313OTyXrsmYP6tzFylpptTZ19ODRp286oFLuMGqR_aem_N2K7kjNYgrf9GIpLLg137Q",
+    "statut": "ouvert",
+    "resume": "Cette bourse d'entrée internationale de l'Université de Calgary est offerte chaque année à deux étudiants internationaux de premier cycle. D'une valeur de 20 000 $ CAD renouvelable, elle exige un niveau d'anglais satisfaisant et est attribuée sur la base du mérite académique.",
+    "extrait_le": "2026-06-09T02:54:29",
+    "slug": "university-of-calgary-international-entrance-scholarship"
+  },
+  {
     "titre": "Coca-Cola MENA Scholarship Program 2014 to Study in USA",
     "organisation": "The Coca-Cola Company et US Department of State",
     "montant": null,

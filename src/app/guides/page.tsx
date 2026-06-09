@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 
 import { Breadcrumb } from "@/components/Breadcrumb";
 
@@ -32,12 +33,12 @@ export default function PageGuides() {
         <p className="text-stone-600">
           Cette section est en cours de rédaction. Reviens bientôt — ou
           parcours dès maintenant les{" "}
-          <a
+          <Link
             href="/bourses/ouvertes"
             className="font-medium text-orange-700 hover:underline"
           >
             bourses ouvertes
-          </a>
+          </Link>
           .
         </p>
       </div>

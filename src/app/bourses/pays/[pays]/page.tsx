@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!label) return { title: "Pays introuvable" };
   return {
     title: `Bourses pour les étudiants du ${label}`,
-    description: `Bourses d'études internationales accessibles aux candidats du ${label}. Toutes les opportunités pour étudier à l'étranger ou dans des programmes panafricains.`,
+    description: `Bourses d&apos;études internationales accessibles aux candidats du ${label}. Toutes les opportunités pour étudier à l&apos;étranger ou dans des programmes panafricains.`,
     alternates: { canonical: `/bourses/pays/${slug}` },
   };
 }
@@ -65,7 +65,7 @@ export default async function PagePays({ params }: Props) {
           Bourses pour les étudiants du {label}
         </h1>
         <p className="mt-4 text-lg leading-relaxed text-stone-600">
-          Toutes les bourses d'études ouvertes aux candidats originaires du{" "}
+          Toutes les bourses d&apos;études ouvertes aux candidats originaires du{" "}
           <strong>{label}</strong>. Que tu vises un master, un doctorat ou un
           programme de recherche, filtre par niveau et type de financement pour
           trouver la bourse la plus adaptée à ton projet.

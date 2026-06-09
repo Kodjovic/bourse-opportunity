@@ -36,7 +36,7 @@ export default async function PageBoursesOuvertes() {
         <p className="mt-4 text-lg leading-relaxed text-stone-600">
           Toutes les bourses pour étudiants et chercheurs africains qui
           acceptent encore les candidatures. Affine ta recherche par niveau
-          d'études ou pays éligible pour cibler celles qui te correspondent,
+          d&apos;études ou pays éligible pour cibler celles qui te correspondent,
           puis prépare ton dossier avant la date limite.
         </p>
       </header>

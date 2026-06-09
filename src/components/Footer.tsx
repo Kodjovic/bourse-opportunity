@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 import { getNiveauxUniques, getPaysUniques } from "@/lib/bourses";
+import { SITE_NAME } from "@/lib/site";
 import { capitalize, slugifyClient } from "@/lib/utils";
 
 /**
@@ -18,10 +19,10 @@ export async function Footer() {
           <div className="lg:col-span-1">
             <div className="font-serif text-xl font-semibold text-stone-900">
               <span aria-hidden className="mr-1.5">🌍</span>
-              Bourses africaines
+              {SITE_NAME}
             </div>
             <p className="mt-3 text-sm leading-relaxed text-stone-600">
-              Le directory des bourses d'études pour les étudiants et
+              Le directory des bourses d&apos;études pour les étudiants et
               chercheurs africains. Mis à jour régulièrement.
             </p>
           </div>
@@ -95,11 +96,6 @@ function ColonneLiens({
             </Link>
           </li>
         ))}
-      </ul>
-    </div>
-  );
-}
-      ))}
       </ul>
     </div>
   );

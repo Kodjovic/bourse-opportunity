@@ -46,9 +46,9 @@ export default async function PageEntierementFinancees() {
           Bourses entièrement financées
         </h1>
         <p className="mt-4 text-lg leading-relaxed text-stone-600">
-          Ces bourses couvrent l'intégralité des coûts : frais de scolarité,
+          Ces bourses couvrent l&apos;intégralité des coûts : frais de scolarité,
           voyage, logement, allocation de vie et assurance santé. Aucune
-          contribution financière à charge de l'étudiant — l'option la plus
+          contribution financière à charge de l&apos;étudiant — l&apos;option la plus
           accessible pour les profils talentueux mais sans moyens.
         </p>
       </header>

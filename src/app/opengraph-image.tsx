@@ -1,11 +1,12 @@
 import { ImageResponse } from "next/og";
 import { getAllBourses } from "@/lib/bourses";
+import { SITE_NAME, SITE_URL } from "@/lib/site";
 
 // Route segment config
 export const runtime = "nodejs";
 
 // Image metadata
-export const alt = "Bourses Africaines - Le directory des opportunités d'études";
+export const alt = `${SITE_NAME} - Le directory des opportunités d'études`;
 export const size = {
   width: 1200,
   height: 630,
@@ -81,7 +82,7 @@ export default async function Image() {
             textAlign: "center",
           }}
         >
-          Bourses Africaines
+          {SITE_NAME}
         </div>
 
         {/* Slogan */}
@@ -126,7 +127,7 @@ export default async function Image() {
             letterSpacing: "0.05em",
           }}
         >
-          bourses-africaines.com
+          {SITE_URL.replace(/^https?:\/\//, "")}
         </div>
       </div>
     ),

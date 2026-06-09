@@ -1,5 +1,6 @@
 import { ImageResponse } from "next/og";
 import { getBourseBySlug } from "@/lib/bourses";
+import { SITE_NAME, SITE_URL } from "@/lib/site";
 
 // Route segment config
 export const runtime = "nodejs";
@@ -149,7 +150,7 @@ export default async function Image({
             fontWeight: 500,
           }}
         >
-          bourses-africaines.com
+          {SITE_URL.replace(/^https?:\/\//, "")}
         </div>
       </div>
     ),

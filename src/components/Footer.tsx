@@ -60,7 +60,7 @@ export async function Footer() {
         </div>
 
         <div className="mt-10 flex flex-col gap-3 border-t border-stone-200 pt-6 text-sm text-stone-500 sm:flex-row sm:items-center sm:justify-between">
-          <p>© {new Date().getFullYear()} Bourses africaines. Tous droits réservés.</p>
+          <p>© {new Date().getFullYear()} {SITE_NAME}. Tous droits réservés.</p>
           <div className="flex gap-4">
             <Link href="/a-propos" className="hover:text-stone-900">
               À propos
@@ -95,6 +95,11 @@ function ColonneLiens({
             </Link>
           </li>
         ))}
+      </ul>
+    </div>
+  );
+}
+      ))}
       </ul>
     </div>
   );

@@ -106,6 +106,37 @@
     "slug": "featured-grant-guidelines-together-women-rise"
   },
   {
+    "titre": "Call for Proposals for Civil Society Organizations under the EU4 Gender Equality Regional Programme: Behavioural Change and Awareness Raising on Online and Technology-Facilitated Violence Against Women and Girls",
+    "organisation": "UN Women",
+    "montant": 200000,
+    "devise": "USD",
+    "type_financement": "grant",
+    "deadline": "2026-06-12",
+    "deadline_texte": "12 June 2026 at 12:00 CET",
+    "niveau_etudes": [],
+    "domaines": [
+      "gender equality",
+      "violence against women",
+      "behavioural change communication"
+    ],
+    "pays_eligibles": [
+      "Western Balkans"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [
+      "proposal",
+      "Terms of Reference",
+      "Partner Agreement"
+    ],
+    "lien_candidature": null,
+    "source_url": "https://eca.unwomen.org/en/programme-implementation/2026/05/unw-eca-ro-cfp-2026-01?fbclid=IwY2xjawSUPbtleHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHruWU_XME50_vqXlZ173ukk_3H33iXHJg7g6-mfhfofuchGxar-6y6BRwcHd_aem_-ZFTqSMV1r29wESw99b9Vw",
+    "statut": "ouvert",
+    "resume": "UN Women lance un appel à propositions pour les organisations de la société civile afin de mettre en œuvre une campagne régionale de changement de comportement sur la violence en ligne et facilitée par la technologie contre les femmes et les filles dans les Balkans occidentaux. Le budget indicatif est de 180 000 à 200 000 USD. La date limite de soumission est le 12 juin 2026.",
+    "extrait_le": "2026-06-09T00:30:14",
+    "slug": "call-for-proposals-for-civil-society-organizations-under-the-eu4-gender-equality-regional-programme-"
+  },
+  {
     "titre": "Australian Government Research Training Program Scholarship (International)",
     "organisation": "Flinders University",
     "montant": 36061,
@@ -136,6 +167,38 @@
     "statut": "ouvert",
     "resume": "La bourse australienne de formation à la recherche (AGRTPS) pour les étudiants internationaux offre une allocation annuelle de 36 061 AUD exempte d'impôt pendant 3,5 ans pour un doctorat en recherche. Elle comprend également une allocation pour les frais de scolarité, une couverture de santé outre-mer et une allocation d'établissement pour les frais de réinstallation. Cette bourse hautement compétitive (5 places disponibles) est réservée aux étudiants ayant une excellente aptitude pour la recherche indépendante et prioritairement à ceux qui entreprennent un doctorat pour la première fois en Australie.",
     "extrait_le": "2026-05-30T18:47:42",
+    "slug": "australian-government-research-training-program-scholarship-international"
+  },
+  {
+    "titre": "Australian Government Research Training Program Scholarship (International)",
+    "organisation": "Flinders University",
+    "montant": 36061,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-18",
+    "deadline_texte": "18 June 2026 midnight Australian Central Standard Time",
+    "niveau_etudes": [
+      "phd",
+      "master"
+    ],
+    "domaines": [],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [
+      "CV",
+      "lettre de motivation",
+      "relevés de notes",
+      "proposition de recherche",
+      "rapports de références",
+      "preuve de publication",
+      "preuve de compétence en anglais"
+    ],
+    "lien_candidature": "https://www.flinders.edu.au/scholarships/australian-government-research-training-program-scholarship-international",
+    "source_url": "https://www.flinders.edu.au/scholarships/australian-government-research-training-program-scholarship-international?fbclid=IwY2xjawSUPj5leHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHs3B13XecYO6giWWLSBQ0hKwTdLfWj-3C4Mt2SmH-MgzHLccbfon9GeNeJpP_aem_C3jnD0g2Xcxfxbxj8aUt-A",
+    "statut": "ouvert",
+    "resume": "La bourse Australian Government Research Training Program (AGRTPS) est destinée aux étudiants internationaux souhaitant effectuer un doctorat ou un master par recherche à Flinders University. Elle comprend une exemption de frais de scolarité, une allocation de subsistance de 36 061 AUD par an (2026) et une couverture santé. Les candidats doivent démontrer un excellent dossier académique et des publications récentes.",
+    "extrait_le": "2026-06-09T00:32:19",
     "slug": "australian-government-research-training-program-scholarship-international"
   },
   {
@@ -517,5 +580,286 @@
     "resume": "L'University of Essex Online propose une bourse régionale améliorée pour les étudiants internationaux résidant en Afrique, offrant une réduction de 20% sur les frais de scolarité pour les cursus en ligne de premier cycle et de troisième cycle débutant en juillet 2026. Aucune demande séparée n'est nécessaire ; la bourse est appliquée après réception de la lettre d'offre officielle.",
     "extrait_le": "2026-06-08T02:59:59",
     "slug": "enhanced-regional-scholarship-for-africa"
+  },
+  {
+    "titre": "British Master en 1 an - 100% en ligne",
+    "organisation": "University of Salford",
+    "montant": null,
+    "devise": null,
+    "type_financement": null,
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [
+      "master"
+    ],
+    "domaines": [
+      "administration des affaires",
+      "gestion globale",
+      "gestion de projet",
+      "gestion des services financiers",
+      "approvisionnement, logistique et gestion de la chaîne d'approvisionnement",
+      "marketing",
+      "gestion des ressources humaines",
+      "gestion des systèmes d'information",
+      "banque et finance internationales",
+      "comptabilité et finance",
+      "commerce international avec droit",
+      "finance d'entreprise internationale",
+      "gestion d'événements internationaux",
+      "commerce numérique",
+      "gestion de la fraude et des risques",
+      "gestion des opérations",
+      "finance et gestion des investissements",
+      "droit commercial international"
+    ],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [],
+    "lien_candidature": "https://www.rkc.edu/catalogue?r=masters_mt&j=fbSunWnew&utm_medium=paid&utm_source=fb&utm_id=6627446424267&utm_content=6627454998267&utm_term=6627448444267&utm_campaign=6627446424267&fbclid=IwY2xjawSUMpFleHRuA2FlbQEwAGFkaWQAAAZdiO7do3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR71BFDN0kOKE1JKPnxMxewZQLMGLBm2LdAFly-bCZtNMfHsl7qyOAMwIy-t6g_aem_kR2v99DngNrLVZsPDEUslw",
+    "source_url": "https://www.rkc.edu/catalogue?r=masters_mt&j=fbSunWnew&utm_medium=paid&utm_source=fb&utm_id=6627446424267&utm_content=6627454998267&utm_term=6627448444267&utm_campaign=6627446424267&fbclid=IwY2xjawSUMpFleHRuA2FlbQEwAGFkaWQAAAZdiO7do3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR71BFDN0kOKE1JKPnxMxewZQLMGLBm2LdAFly-bCZtNMfHsl7qyOAMwIy-t6g_aem_kR2v99DngNrLVZsPDEUslw",
+    "statut": "ouvert",
+    "resume": "L'University of Salford propose des masters en ligne 100% en un an, reconnus par le gouvernement britannique. Les programmes couvrent divers domaines comme la gestion, la finance, le marketing et le droit. Aucune information sur le financement ou les bourses n'est fournie.",
+    "extrait_le": "2026-06-09T00:26:25",
+    "slug": "british-master-en-1-an-100-en-ligne"
+  },
+  {
+    "titre": "PhD Graduate Teaching Assistantship Positions at the University of Eldoret, Kenya",
+    "organisation": "Regional Universities Forum for Capacity Building in Agriculture (RUFORUM)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "fellowship",
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [
+      "phd"
+    ],
+    "domaines": [
+      "Seed Science",
+      "Microbiology",
+      "Agricultural Extension Education",
+      "Agroforestry",
+      "Human Nutrition",
+      "Technology Education"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": 40,
+    "langue_requise": "anglais",
+    "documents_requis": [
+      "lettre de motivation",
+      "CV",
+      "relevés de notes et diplômes certifiés",
+      "note conceptuelle ou proposition de recherche",
+      "lettre de nomination"
+    ],
+    "lien_candidature": "https://www.uoeld.ac.ke/",
+    "source_url": "https://news.ruforum.org/call-for-applications-26-phd-graduate-teaching-assistantship-positions-at-the-university-of-eldoret-kenya/?fbclid=IwY2xjawSUPVtleHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHr7PpXsfhLDE1Pg-iiJi-ITpbRS0ZQq5vPkJvUX99wjFZT6YZoLHmegjUziL_aem_2n9aemfrY_imT86xPAe50w",
+    "statut": "ouvert",
+    "resume": "Le programme TAGDev 2.0, en partenariat avec la Mastercard Foundation, offre 26 postes d'assistant d'enseignement doctoral (GTA) à l'Université d'Eldoret au Kenya. Les candidats doivent être enseignants d'une université membre de RUFORUM et titulaires d'un master. La bourse comprend une exonération des frais de scolarité et un soutien à l'hébergement, et est ouverte aux candidats de moins de 40 ans.",
+    "extrait_le": "2026-06-09T00:28:53",
+    "slug": "phd-graduate-teaching-assistantship-positions-at-the-university-of-eldoret-kenya"
+  },
+  {
+    "titre": "Hubert Humphrey Fellowship Program",
+    "organisation": "U.S. Embassy in Malawi",
+    "montant": null,
+    "devise": null,
+    "type_financement": "fellowship",
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [
+      "graduate"
+    ],
+    "domaines": [
+      "Communications and Journalism",
+      "Law and Governance",
+      "Natural Resources",
+      "Public and Economic Policy",
+      "Public Health Policy and Management",
+      "Technology Policy and Management"
+    ],
+    "pays_eligibles": [
+      "Malawi"
+    ],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [],
+    "lien_candidature": "https://apply.iie.org/huberthhumphrey",
+    "source_url": "https://mw.usembassy.gov/the-hubert-humphrey-fellowship-program-2/?fbclid=IwY2xjawSUPqhleHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrPNHv_RksK8BjdU404uJUrxCHwG0PvUfHtKOxWybVIhl4zAG150v_yCh5TI_aem_LNp7OlUb5DSjnXZ1H7KQAQ",
+    "statut": "ouvert",
+    "resume": "Le Hubert Humphrey Fellowship Program est un programme de bourses non diplômant destiné aux professionnels en milieu de carrière du Malawi. Il offre une année d'études de niveau graduate, de développement du leadership et de collaboration professionnelle aux États-Unis. Les candidats doivent être citoyens ou résidents permanents du Malawi, posséder au moins un diplôme universitaire de premier cycle, cinq ans d'expérience professionnelle et des qualités de leadership.",
+    "extrait_le": "2026-06-09T00:34:14",
+    "slug": "hubert-humphrey-fellowship-program"
+  },
+  {
+    "titre": "Coca-Cola MENA Scholarship Program 2014 to Study in USA",
+    "organisation": "The Coca-Cola Company et US Department of State",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2014-04-18",
+    "deadline_texte": "18 avril 2014",
+    "niveau_etudes": [
+      "undergraduate"
+    ],
+    "domaines": [
+      "business"
+    ],
+    "pays_eligibles": [
+      "Algérie",
+      "Égypte",
+      "Jordanie",
+      "Maroc",
+      "Palestine",
+      "Tunisie"
+    ],
+    "age_maximum": 24,
+    "langue_requise": null,
+    "documents_requis": [
+      "formulaire de consentement signé"
+    ],
+    "lien_candidature": null,
+    "source_url": "https://www.opportunitiesforafricans.com/coca-cola-mena-scholarship-program-2014-to-study-in-usa/",
+    "statut": "fermé",
+    "resume": "Le programme Coca-Cola MENA offre une bourse complète à 100 étudiants de six pays du Moyen-Orient et d'Afrique du Nord pour participer à un programme commercial d'un mois à l'Université de l'Indiana. Le programme entièrement financé (voyage, hébergement, repas, frais) se déroulera de juin à juillet 2014 et comprend des séjours à l'Université de l'Indiana, au Département d'État américain à Washington D.C. et au siège mondial de Coca-Cola à Atlanta.",
+    "extrait_le": "2026-06-09T00:24:18",
+    "slug": "coca-cola-mena-scholarship-program-2014-to-study-in-usa"
+  },
+  {
+    "titre": "Chinese Government/AUC Scholarship 2017/2018 for Young Africans to Study in China (Fully Funded)",
+    "organisation": "African Union Commission - Department of Human Resources, Science and Technology",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2017-06-30",
+    "deadline_texte": "30 juin 2017",
+    "niveau_etudes": [
+      "master",
+      "phd"
+    ],
+    "domaines": [
+      "gestion",
+      "travail social",
+      "santé publique",
+      "communication internationale",
+      "transport",
+      "politique publique",
+      "administration publique",
+      "comptabilité",
+      "audit",
+      "gestion de l'environnement"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": 32,
+    "langue_requise": "anglais",
+    "documents_requis": [
+      "lettre de motivation",
+      "CV",
+      "certificats de diplômes",
+      "relevés de notes",
+      "page passeport",
+      "photographie d'identité",
+      "lettres de recommandation académiques",
+      "lettre de recommandation personnelle",
+      "certificat de santé"
+    ],
+    "lien_candidature": null,
+    "source_url": "https://www.opportunitiesforafricans.com/chinese-governmentauc-scholarship-20172018-for-young-africans-to-study-in-china-fully-funded/",
+    "statut": "fermé",
+    "resume": "Bourse complète offerte par le gouvernement chinois aux citoyens africains pour poursuivre des études de Master et PhD dans diverses universités chinoises durant l'année académique 2017/2018. Les candidats doivent être de nationalité africaine avec un diplôme de licence (au moins deuxième classe supérieure), maîtriser l'anglais et avoir maximum 32 ans.",
+    "extrait_le": "2026-06-09T00:24:18",
+    "slug": "chinese-government-auc-scholarship-2017-2018-for-young-africans-to-study-in-china-fully-funded"
+  },
+  {
+    "titre": "Sciences Po Emile-Boutmy (Undergraduate & Postgraduate) Scholarship 2018/2019 for Study in France",
+    "organisation": "Sciences Po",
+    "montant": 19000,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2018-01-03",
+    "deadline_texte": "3 janvier 2018 pour les masters, 26 avril 2018 pour les licences",
+    "niveau_etudes": [
+      "licence",
+      "master"
+    ],
+    "domaines": [],
+    "pays_eligibles": [
+      "États non-membres de l'Union européenne"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [
+      "Preuve de revenu",
+      "Documents expliquant la situation familiale",
+      "Test de langue"
+    ],
+    "lien_candidature": "https://www.sciencespo.fr/en/admissions/emile-boutmy-scholarship/",
+    "source_url": "https://www.opportunitiesforafricans.com/sciences-po-emile-boutmy-undergraduate-postgraduate-scholarship-20182019-for-study-in-france-funded/",
+    "statut": "fermé",
+    "resume": "La bourse Emile-Boutmy de Sciences Po est destinée aux meilleurs étudiants internationaux originaires de pays non-membres de l'Union européenne. Elle couvre une partie ou la totalité des frais de scolarité (jusqu'à 19 000€ pour le programme de licence et 10 000€ pour les masters) et tient compte des critères de mérite ainsi que de la situation sociale des candidats.",
+    "extrait_le": "2026-06-09T00:24:18",
+    "slug": "sciences-po-emile-boutmy-undergraduate-postgraduate-scholarship-2018-2019-for-study-in-france"
+  },
+  {
+    "titre": "Udacity Google Africa Scholarship Program 2018",
+    "organisation": "Google, Udacity, Andela",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2018-04-24",
+    "deadline_texte": "24 avril 2018",
+    "niveau_etudes": [
+      "formation professionnelle"
+    ],
+    "domaines": [
+      "développement web",
+      "développement mobile"
+    ],
+    "pays_eligibles": [
+      "Nigeria",
+      "Kenya",
+      "Afrique du Sud"
+    ],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [],
+    "lien_candidature": null,
+    "source_url": "https://www.opportunitiesforafricans.com/udacity-google-africa-scholarship-program-2018/",
+    "statut": "fermé",
+    "resume": "Google, en partenariat avec Andela et Udacity, offre 15 000 bourses mono-cours et 500 bourses nanodegree aux développeurs en herbe en Afrique. Le programme en ligne est disponible pour les résidents africains âgés d'au moins 18 ans souhaitant apprendre le développement web ou mobile, avec possibilité d'accès à des bourses complètes pour les meilleurs étudiants.",
+    "extrait_le": "2026-06-09T00:24:18",
+    "slug": "udacity-google-africa-scholarship-program-2018"
+  },
+  {
+    "titre": "DAAD In-Region Scholarship Programme Call for Scholarship Applications 2021 at the Stellenbosch University",
+    "organisation": "DAAD (Deutscher Akademischer Austauschdienst)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2020-06-02",
+    "deadline_texte": "2 juin 2020",
+    "niveau_etudes": [
+      "master",
+      "phd"
+    ],
+    "domaines": [
+      "Biologie moléculaire et génétique humaine"
+    ],
+    "pays_eligibles": [
+      "Afrique subsaharienne (excluant l'Afrique du Sud)"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [],
+    "lien_candidature": null,
+    "source_url": "https://www.opportunitiesforafricans.com/daad-in-region-scholarship-programme-call-for-scholarship-applications-2021/",
+    "statut": "fermé",
+    "resume": "Le programme DAAD In-Region offre des bourses complètes pour des études de Master et doctorat à Stellenbosch University en Afrique du Sud. Il s'adresse aux diplômés de l'Afrique subsaharienne (hors Afrique du Sud) ayant un niveau académique élevé et souhaitant poursuivre une carrière dans l'enseignement ou la recherche dans leur région. Les bourses couvrent les frais de scolarité et visent à renforcer les systèmes d'enseignement supérieur orientés vers le développement durable.",
+    "extrait_le": "2026-06-09T00:24:18",
+    "slug": "daad-in-region-scholarship-programme-call-for-scholarship-applications-2021-at-the-stellenbosch-univ"
   }
 ]

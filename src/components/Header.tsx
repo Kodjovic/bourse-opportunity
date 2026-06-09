@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 import { SearchForm } from "@/components/SearchForm";
+import { SITE_NAME } from "@/lib/site";
 
 const NAV_LIENS = [
   { href: "/bourses", label: "Bourses" },
@@ -17,7 +18,7 @@ export function Header() {
           className="flex items-center gap-2 font-serif text-xl font-semibold text-stone-900"
         >
           <span aria-hidden className="text-2xl leading-none">🌍</span>
-          Bourses africaines
+          {SITE_NAME}
         </Link>
 
         <nav

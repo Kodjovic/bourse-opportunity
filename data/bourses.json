@@ -804,15 +804,79 @@
     "slug": "rosa-luxemburg-foundation-scholarship-programme-for-international-doctoral-students"
   },
   {
+    "titre": "Study scholarships for STEM disciplines",
+    "organisation": "DAAD",
+    "montant": 992,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [
+      "master"
+    ],
+    "domaines": [
+      "mathématiques",
+      "informatique",
+      "sciences naturelles",
+      "ingénierie"
+    ],
+    "pays_eligibles": [
+      "pays en développement et émergents"
+    ],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [
+      "CV",
+      "lettre de motivation",
+      "relevés de notes",
+      "diplômes",
+      "preuve de compétences linguistiques"
+    ],
+    "lien_candidature": "https://www.daad-kenya.org/en/2026/06/03/the-call-for-scholarships-for-stem-subjects-is-out/",
+    "source_url": "https://www.daad-kenya.org/en/2026/06/03/the-call-for-scholarships-for-stem-subjects-is-out/?fbclid=IwY2xjawSVR35leHRuA2FlbQIxMABicmlkETE1MnY0eWJSZ0hodFQyVnNPc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmlp5-__qk8SvObkNwzN9D5P5MHxxRSaft2dH1fi0AOzRj8pK6_LB5pzdNhj_aem_kKFU4F7Y4c8C1Z3fbtf31Q",
+    "statut": "ouvert",
+    "resume": "Cette bourse DAAD finance un master complet en STEM (mathématiques, informatique, sciences naturelles, ingénierie) dans une université allemande. Elle s'adresse aux étudiants de pays en développement et émergents, avec une allocation mensuelle de 992 euros, une assurance, une indemnité de voyage et une allocation d'études annuelle. La sélection se fait sur dossier et entretien, et le programme doit débuter au semestre d'hiver 2027/2028.",
+    "extrait_le": "2026-06-10T00:39:32",
+    "slug": "study-scholarships-for-stem-disciplines"
+  },
+  {
+    "titre": "Rhodes Scholarship",
+    "organisation": "Rhodes Trust",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Applications for 2027 are now open; check eligibility and apply.",
+    "niveau_etudes": [
+      "master",
+      "phd"
+    ],
+    "domaines": [],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "anglais",
+    "documents_requis": [
+      "personal statement",
+      "academic statement",
+      "reference letters"
+    ],
+    "lien_candidature": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/",
+    "source_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/?utm_id=97758_v0_s00_e0_tv0&fbclid=IwY2xjawSVk9xleHRuA2FlbQIxMABicmlkETFnSHRFdHgyNFBEVnBQeTAyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl6F8AR81PwwBLbVn0uFzaoAB103ybxegA2cePWnN3BBCyxlh_ZUxB_9eStz_aem_ZmFrZWR1bW15MTZieXRlcw",
+    "statut": "ouvert",
+    "resume": "La bourse Rhodes est une opportunité de troisième cycle entièrement financée pour étudier à l'Université d'Oxford. Elle est ouverte aux étudiants du monde entier, avec des critères d'éligibilité variables selon les circonscriptions. Les candidatures pour l'entrée en octobre 2027 sont actuellement ouvertes.",
+    "extrait_le": "2026-06-10T00:53:11",
+    "slug": "rhodes-scholarship"
+  },
+  {
     "titre": "Coca-Cola MENA Scholarship Program 2014 to Study in USA",
-    "organisation": "The Coca-Cola Company et US Department of State",
+    "organisation": "The Coca-Cola Company & US Department of State",
     "montant": null,
     "devise": null,
     "type_financement": "bourse complète",
     "deadline": "2014-04-18",
     "deadline_texte": "18 avril 2014",
     "niveau_etudes": [
-      "undergraduate"
+      "licence"
     ],
     "domaines": [
       "business"
@@ -833,8 +897,8 @@
     "lien_candidature": null,
     "source_url": "https://www.opportunitiesforafricans.com/coca-cola-mena-scholarship-program-2014-to-study-in-usa/",
     "statut": "fermé",
-    "resume": "Le programme Coca-Cola MENA offre une bourse complète à 100 étudiants de six pays du Moyen-Orient et d'Afrique du Nord pour participer à un programme commercial d'un mois à l'Université de l'Indiana. Le programme entièrement financé (voyage, hébergement, repas, frais) se déroulera de juin à juillet 2014 et comprend des séjours à l'Université de l'Indiana, au Département d'État américain à Washington D.C. et au siège mondial de Coca-Cola à Atlanta.",
-    "extrait_le": "2026-06-09T00:24:18",
+    "resume": "Le programme Coca-Cola MENA offre une bourse complète à 100 étudiants de 6 pays du Moyen-Orient et d'Afrique du Nord pour suivre un programme d'affaires d'un mois à l'Indiana University. Le financement couvre les frais de voyage, l'hébergement, les repas et l'inscription, avec des visites à Washington D.C. et à Atlanta.",
+    "extrait_le": "2026-06-10T00:32:36",
     "slug": "coca-cola-mena-scholarship-program-2014-to-study-in-usa"
   },
   {
@@ -857,9 +921,9 @@
       "transport",
       "politique publique",
       "administration publique",
-      "comptabilité",
+      "finance",
       "audit",
-      "gestion de l'environnement"
+      "gestion environnementale"
     ],
     "pays_eligibles": [
       "Afrique"
@@ -869,49 +933,47 @@
     "documents_requis": [
       "lettre de motivation",
       "CV",
-      "certificats de diplômes",
-      "relevés de notes",
-      "page passeport",
-      "photographie d'identité",
-      "lettres de recommandation académiques",
-      "lettre de recommandation personnelle",
-      "certificat de santé"
+      "certificats et relevés de notes certifiés",
+      "page personnelle du passeport",
+      "photographie d'identité couleur",
+      "certificat de santé",
+      "recommandations académiques et personnelles"
     ],
     "lien_candidature": null,
     "source_url": "https://www.opportunitiesforafricans.com/chinese-governmentauc-scholarship-20172018-for-young-africans-to-study-in-china-fully-funded/",
     "statut": "fermé",
-    "resume": "Bourse complète offerte par le gouvernement chinois aux citoyens africains pour poursuivre des études de Master et PhD dans diverses universités chinoises durant l'année académique 2017/2018. Les candidats doivent être de nationalité africaine avec un diplôme de licence (au moins deuxième classe supérieure), maîtriser l'anglais et avoir maximum 32 ans.",
-    "extrait_le": "2026-06-09T00:24:18",
+    "resume": "Bourse complète offerte par le gouvernement chinois via la Commission de l'Union africaine pour permettre aux étudiants africains de poursuivre des études de Master dans diverses universités chinoises durant l'année académique 2017/2018. Les candidats doivent être des ressortissants africains ayant au minimum une licence avec mention bien, maîtriser l'anglais, et avoir moins de 32 ans. Les candidatures incluent l'envoi de documents via email à la Commission de l'Union africaine après candidature directe auprès des universités chinoises.",
+    "extrait_le": "2026-06-10T00:32:36",
     "slug": "chinese-government-auc-scholarship-2017-2018-for-young-africans-to-study-in-china-fully-funded"
   },
   {
     "titre": "Sciences Po Emile-Boutmy (Undergraduate & Postgraduate) Scholarship 2018/2019 for Study in France",
     "organisation": "Sciences Po",
-    "montant": 19000,
+    "montant": 10000,
     "devise": "EUR",
     "type_financement": "bourse complète",
     "deadline": "2018-01-03",
-    "deadline_texte": "3 janvier 2018 pour les masters, 26 avril 2018 pour les licences",
+    "deadline_texte": "3 janvier 2018 pour le master ; 26 avril 2018 pour le bachelor",
     "niveau_etudes": [
       "licence",
       "master"
     ],
     "domaines": [],
     "pays_eligibles": [
-      "États non-membres de l'Union européenne"
+      "Hors Union Européenne"
     ],
     "age_maximum": null,
     "langue_requise": null,
     "documents_requis": [
-      "Preuve de revenu",
-      "Documents expliquant la situation familiale",
-      "Test de langue"
+      "preuve de revenus",
+      "documents expliquant la situation familiale",
+      "test de langue"
     ],
-    "lien_candidature": "https://www.sciencespo.fr/en/admissions/emile-boutmy-scholarship/",
+    "lien_candidature": "https://www.sciencespo.fr/",
     "source_url": "https://www.opportunitiesforafricans.com/sciences-po-emile-boutmy-undergraduate-postgraduate-scholarship-20182019-for-study-in-france-funded/",
     "statut": "fermé",
-    "resume": "La bourse Emile-Boutmy de Sciences Po est destinée aux meilleurs étudiants internationaux originaires de pays non-membres de l'Union européenne. Elle couvre une partie ou la totalité des frais de scolarité (jusqu'à 19 000€ pour le programme de licence et 10 000€ pour les masters) et tient compte des critères de mérite ainsi que de la situation sociale des candidats.",
-    "extrait_le": "2026-06-09T00:24:18",
+    "resume": "La bourse Emile-Boutmy de Sciences Po offre aux meilleurs étudiants internationaux hors UE une aide financière pour étudier en France. Elle couvre partiellement ou entièrement les frais de scolarité et les frais de subsistance, avec des montants variables selon le profil et le niveau d'études (licence ou master).",
+    "extrait_le": "2026-06-10T00:32:36",
     "slug": "sciences-po-emile-boutmy-undergraduate-postgraduate-scholarship-2018-2019-for-study-in-france"
   },
   {
@@ -923,25 +985,27 @@
     "deadline": "2018-04-24",
     "deadline_texte": "24 avril 2018",
     "niveau_etudes": [
-      "formation professionnelle"
+      "débutant",
+      "intermédiaire"
     ],
     "domaines": [
       "développement web",
-      "développement mobile"
+      "développement mobile Android"
     ],
     "pays_eligibles": [
       "Nigeria",
       "Kenya",
-      "Afrique du Sud"
+      "Afrique du Sud",
+      "pays africains"
     ],
     "age_maximum": null,
-    "langue_requise": "anglais",
+    "langue_requise": null,
     "documents_requis": [],
     "lien_candidature": null,
     "source_url": "https://www.opportunitiesforafricans.com/udacity-google-africa-scholarship-program-2018/",
     "statut": "fermé",
-    "resume": "Google, en partenariat avec Andela et Udacity, offre 15 000 bourses mono-cours et 500 bourses nanodegree aux développeurs en herbe en Afrique. Le programme en ligne est disponible pour les résidents africains âgés d'au moins 18 ans souhaitant apprendre le développement web ou mobile, avec possibilité d'accès à des bourses complètes pour les meilleurs étudiants.",
-    "extrait_le": "2026-06-09T00:24:18",
+    "resume": "Google, Udacity et Andela offrent 15 000 bourses de cours unique et 500 bourses nanodiplôme aux développeurs aspirants en Afrique (Nigeria, Kenya, Afrique du Sud). Le programme, 100% en ligne, permet aux candidats de choisir entre le développement web ou mobile, avec placement dans des parcours débutant ou intermédiaire selon l'expérience. Les meilleurs étudiants peuvent accéder à des bourses complètes pour les programmes nanodiplôme en développement Android ou web.",
+    "extrait_le": "2026-06-10T00:32:36",
     "slug": "udacity-google-africa-scholarship-program-2018"
   },
   {
@@ -960,16 +1024,16 @@
       "Biologie moléculaire et génétique humaine"
     ],
     "pays_eligibles": [
-      "Afrique subsaharienne (excluant l'Afrique du Sud)"
+      "Afrique subsaharienne (à l'exclusion de l'Afrique du Sud)"
     ],
     "age_maximum": null,
-    "langue_requise": null,
+    "langue_requise": "langue d'instruction du programme",
     "documents_requis": [],
     "lien_candidature": null,
     "source_url": "https://www.opportunitiesforafricans.com/daad-in-region-scholarship-programme-call-for-scholarship-applications-2021/",
     "statut": "fermé",
-    "resume": "Le programme DAAD In-Region offre des bourses complètes pour des études de Master et doctorat à Stellenbosch University en Afrique du Sud. Il s'adresse aux diplômés de l'Afrique subsaharienne (hors Afrique du Sud) ayant un niveau académique élevé et souhaitant poursuivre une carrière dans l'enseignement ou la recherche dans leur région. Les bourses couvrent les frais de scolarité et visent à renforcer les systèmes d'enseignement supérieur orientés vers le développement durable.",
-    "extrait_le": "2026-06-09T00:24:18",
+    "resume": "Le programme DAAD In-Region offre des bourses d'études complètes pour des études de Master et doctorat aux diplômés de l'Afrique subsaharienne (à l'exclusion de l'Afrique du Sud) souhaitant poursuivre leurs études dans leur région. La bourse vise à développer les systèmes d'enseignement supérieur en Afrique subsaharienne et à former les futurs leaders académiques et professionnels qui contribueront au développement durable de leur région.",
+    "extrait_le": "2026-06-10T00:32:36",
     "slug": "daad-in-region-scholarship-programme-call-for-scholarship-applications-2021-at-the-stellenbosch-univ"
   }
 ]

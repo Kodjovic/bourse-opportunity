@@ -511,6 +511,108 @@
     "slug": "bourse-polish-school-medicine-edimbourg-2026"
   },
   {
+    "titre": "Programme de Bourse de Recherche 2027 de la Fondation Internationale Matsumae",
+    "seo_slug": "bourse-recherche-matsumae-japon-2027",
+    "organisation": "The Matsumae International Foundation",
+    "montant": 220000,
+    "devise": "JPY",
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-30",
+    "deadline_texte": "30 juin 2026 (heure normale du Japon)",
+    "niveau_etudes": [
+      "Doctorat",
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Sciences naturelles",
+      "Ingénierie",
+      "Médecine",
+      "Agriculture"
+    ],
+    "pays_eligibles": [
+      "Tous les pays sauf Japon"
+    ],
+    "age_maximum": 45,
+    "langue_requise": "Anglais ou Japonais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Raison de la candidature",
+      "Plan de recherche",
+      "CV et liste des publications",
+      "Lettre de recommandation",
+      "Copie du diplôme de doctorat",
+      "Lettre d'acceptation du professeur hôte"
+    ],
+    "avantages": [
+      "Allocation mensuelle de 220 000 JPY",
+      "Fonds d'arrivée de 120 000 JPY",
+      "Billet d'avion aller-retour en classe économique",
+      "Assurance voyage internationale",
+      "Voyage d'étude à Hiroshima"
+    ],
+    "eligibilite": [
+      "Être de nationalité non japonaise",
+      "Avoir un emploi à temps plein dans le pays d'origine",
+      "Détenir un doctorat au moment de la candidature",
+      "Âge maximum de 45 ans (né en 1981 ou après)",
+      "Ne pas avoir séjourné au Japon (sauf court séjour)",
+      "Obtenir une acceptation d'une institution hôte au Japon",
+      "Maîtrise suffisante de l'anglais ou du japonais"
+    ],
+    "procedure_etapes": [
+      "1. Obtenir l'acceptation d'un professeur hôte dans une institution japonaise.",
+      "2. Télécharger et remplir le formulaire de candidature officiel.",
+      "3. Préparer tous les documents requis (raison, plan de recherche, CV, lettre de recommandation, diplôme, lettre d'acceptation).",
+      "4. Envoyer les documents par email à application@mif-japan.org entre le 1er juin 2026 et le 30 juin 2026.",
+      "5. Attendre l'annonce des résultats fin novembre 2026."
+    ],
+    "contacts": [
+      "application@mif-japan.org",
+      "+81-3-3301-7600"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.mif-japan.org/en/fellowship/announcement/?fbclid=IwY2xjawScaFlleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHt3Wvk63ZKD0b0f3nJ1QVdqasX1zMxx9t6CjcjrR4XIrp62rC8rrO_rOExD9_aem_lI_EUlDI31fBCUBfpDiZ0w"
+      },
+      {
+        "label": "Annonce de la bourse (PDF)",
+        "url": "https://www.mif-japan.org/wp-content/uploads/2026/01/Fellowship-Annoucement-2027-1.pdf"
+      },
+      {
+        "label": "Brochure MIF (PDF)",
+        "url": "https://www.mif-japan.org/wp-content/uploads/2025/01/MIF-Booklet.pdf"
+      },
+      {
+        "label": "Formulaire de candidature (Word)",
+        "url": "https://www.mif-japan.org/wp-content/uploads/2026/01/Application-Form-2027_en.docx"
+      },
+      {
+        "label": "Raison de la candidature (Word)",
+        "url": "https://www.mif-japan.org/wp-content/uploads/2026/01/Reason-for-Application-2027_en.docx"
+      },
+      {
+        "label": "Page de contact",
+        "url": "https://www.mif-japan.org/en/contact/"
+      }
+    ],
+    "mots_cles": [
+      "bourse recherche Japon",
+      "Matsumae",
+      "bourse doctorat Japon",
+      "bourse postdoctorat Japon",
+      "financement recherche Japon",
+      "bourse 2027 Japon",
+      "bourse sciences naturelles Japon"
+    ],
+    "lien_candidature": "https://www.mif-japan.org/en/fellowship/announcement/",
+    "source_url": "https://www.mif-japan.org/en/fellowship/announcement/?fbclid=IwY2xjawScaFlleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHt3Wvk63ZKD0b0f3nJ1QVdqasX1zMxx9t6CjcjrR4XIrp62rC8rrO_rOExD9_aem_lI_EUlDI31fBCUBfpDiZ0w",
+    "statut": "ouvert",
+    "resume": "La Fondation Internationale Matsumae (MIF) offre un programme de bourse de recherche pour l'année 2027, destiné aux chercheurs non japonais titulaires d'un doctorat. D'une durée de six mois entre juin 2027 et mars 2028, la bourse comprend une allocation mensuelle de 220 000 JPY, un fonds d'arrivée, un billet d'avion aller-retour, une assurance et un voyage d'étude à Hiroshima. Les candidatures sont ouvertes du 1er au 30 juin 2026, et les résultats seront annoncés en novembre 2026.",
+    "extrait_le": "2026-06-15T05:12:43",
+    "slug": "bourse-recherche-matsumae-japon-2027"
+  },
+  {
     "titre": "Bourse Data Analytics (En ligne) de la Business School",
     "seo_slug": "bourse-data-analytics-online-edimbourg-2026",
     "organisation": "University of Edinburgh Business School",
@@ -868,6 +970,190 @@
     "adresse": "Madison Insurance House, 3rd floor, Upper Hill Close, P.O. Box 14050 00800 Nairobi",
     "extrait_le": "2026-06-15T03:20:26",
     "slug": "bourse-daad-stem-master-allemagne-2026"
+  },
+  {
+    "titre": "Programme MIPD 2027 Printemps - Pré-avis de candidature",
+    "seo_slug": "mipd-program-printemps-2027",
+    "organisation": "KDI School & WIPO",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Propriété intellectuelle",
+      "Développement"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Score de test d'anglais valide"
+    ],
+    "avantages": [],
+    "eligibilite": [
+      "Soumission à la fois à KDI School et au portail WIPO",
+      "Certificat de langue d'enseignement non accepté comme preuve de compétence en anglais"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le fichier joint pour des informations brèves.",
+      "2. Attendre les directives d'admission Printemps 2027 pour les détails complets.",
+      "3. Soumettre la candidature à KDI School via http://apply.kdischool.ac.kr",
+      "4. Soumettre la candidature au portail WIPO via https://welc.wipo.int/acc/index.jsf?page=aipCatalog.xhtml&lang=en&cc=MIPD_KDI#plus_MIPD_KDI"
+    ],
+    "contacts": [
+      "mipdadm@kdischool.ac.kr"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.kdischool.ac.kr/board.es?mid=a40401000000&bid=0014&list_no=19750&act=view&fbclid=IwY2xjawScaSxleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkgZimaLFkuL4aHZPUTnKpkmDp1DbBemvBoXUAgcRmedJgGHsg5YOmYzKvyW_aem_Yxwh0IOD9SMfvmFM_WrcRg"
+      },
+      {
+        "label": "Portail de candidature KDI School",
+        "url": "http://apply.kdischool.ac.kr"
+      },
+      {
+        "label": "Portail de candidature WIPO",
+        "url": "https://welc.wipo.int/acc/index.jsf?page=aipCatalog.xhtml&lang=en&cc=MIPD_KDI#plus_MIPD_KDI"
+      },
+      {
+        "label": "Pré-avis MIPD 2027 (PDF)",
+        "url": "https://www.kdischool.ac.kr/boardDownload.es?mid=a40401000000&bid=0014&list_no=19750&seq=1"
+      }
+    ],
+    "mots_cles": [
+      "MIPD",
+      "KDI School",
+      "WIPO",
+      "master",
+      "propriété intellectuelle",
+      "développement",
+      "Corée",
+      "2027",
+      "bourse"
+    ],
+    "lien_candidature": "http://apply.kdischool.ac.kr",
+    "source_url": "https://www.kdischool.ac.kr/board.es?mid=a40401000000&bid=0014&list_no=19750&act=view&fbclid=IwY2xjawScaSxleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkgZimaLFkuL4aHZPUTnKpkmDp1DbBemvBoXUAgcRmedJgGHsg5YOmYzKvyW_aem_Yxwh0IOD9SMfvmFM_WrcRg",
+    "statut": "ouvert",
+    "resume": "Le programme MIPD (Master en Propriété Intellectuelle et Développement) pour le printemps 2027 est ouvert aux candidatures du 1er juin au 31 juillet 2026. Organisé conjointement par KDI School et WIPO, ce programme dure environ un an (3 trimestres académiques). Les candidats doivent soumettre leur dossier à la fois sur le portail de KDI School et sur celui de WIPO. Les certificats de langue d'enseignement ne sont pas acceptés comme preuve de compétence en anglais ; un score valide à un test d'anglais approuvé est requis.",
+    "adresse": "263 NAMSEJONG-RO, SEJONG-SI, 30149, REPUBLIC OF KOREA",
+    "extrait_le": "2026-06-15T05:17:06",
+    "slug": "mipd-program-printemps-2027"
+  },
+  {
+    "titre": "Bourses CYD - Programme de talents pour la recherche en cyberdéfense",
+    "seo_slug": "bourses-cyd-cyberdefense-suisse-2026",
+    "organisation": "EPFL et Cyber-Defence (CYD) Campus",
+    "montant": null,
+    "devise": "CHF",
+    "type_financement": "bourse complète",
+    "deadline": "2026-08-19",
+    "deadline_texte": "19 août 2026 (17:00 CEST)",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat",
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Cyberdéfense",
+      "Sécurité",
+      "Science des données"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Relevés de notes",
+      "Lettre de motivation",
+      "Lettres de recommandation",
+      "Proposition de recherche"
+    ],
+    "avantages": [
+      "Allocation de subsistance pour master (6 mois)",
+      "Salaire pour doctorat (4 ans + 1 an possible)",
+      "Salaire pour postdoctorat (jusqu'à 2 ans)",
+      "Fonds de recherche",
+      "Fonds de conférence"
+    ],
+    "eligibilite": [
+      "Parcours académique et professionnel exceptionnel",
+      "Excellence comme critère principal",
+      "Relevés de notes excellents"
+    ],
+    "procedure_etapes": [
+      "1. Lire attentivement tous les documents du kit de candidature.",
+      "2. Préparer les documents requis (CV, relevés de notes, lettres, proposition).",
+      "3. Soumettre la candidature via la plateforme en ligne avant la date limite.",
+      "4. Pour doctorat et postdoctorat : étape 1 avant le 19 août 2026.",
+      "5. Participer à l'atelier en ligne le 7 juillet 2026 (optionnel)."
+    ],
+    "contacts": [
+      "research@epfl.ch",
+      "EPFL Research Office, Av. Auguste-Piccard 1, CH – 1015 Lausanne, research.office@epfl.ch"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/?fbclid=IwY2xjawScajVleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlyspt-9tCfuppOBUVAHQZOqQ34Do_VxrIo9W0FRzTX4dMTOW102Z8jPfPHj_aem_pvtqj7Hi-DZQQnGxjBY67w"
+      },
+      {
+        "label": "Kit de candidature Master Thesis",
+        "url": "https://drive.google.com/drive/folders/1lFWQ9cU0Oz-aE7n9YJXGrUS4R-zalTY9?usp=sharing"
+      },
+      {
+        "label": "Kit de candidature Doctorat et Postdoctorat (14e appel)",
+        "url": "https://drive.google.com/drive/folders/1KFmq1SOCr6APDNFtevyCkVd3hkZAF-v_?usp=sharing"
+      },
+      {
+        "label": "Plateforme de soumission",
+        "url": "https://epflresearchfunds.gomovein.com/information/index/5d77bf02089cc332e062a3a2/eng"
+      },
+      {
+        "label": "Inscription atelier en ligne",
+        "url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/workshop/"
+      },
+      {
+        "label": "Page Master Thesis Fellowship",
+        "url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-master/"
+      },
+      {
+        "label": "Page Doctoral Fellowship",
+        "url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-phd/"
+      },
+      {
+        "label": "Page Distinguished Postdoctoral Fellowship",
+        "url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/"
+      },
+      {
+        "label": "Page Proof of Concept Fellowship",
+        "url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-poc/"
+      }
+    ],
+    "mots_cles": [
+      "bourse cyberdéfense",
+      "bourse EPFL",
+      "bourse doctorat Suisse",
+      "bourse master cyber",
+      "bourse postdoctorat",
+      "CYD fellowship",
+      "recherche sécurité"
+    ],
+    "lien_candidature": "https://epflresearchfunds.gomovein.com/information/index/5d77bf02089cc332e062a3a2/eng",
+    "source_url": "https://www.epfl.ch/research/funding/epfl-programmes/cyd/?fbclid=IwY2xjawScajVleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlyspt-9tCfuppOBUVAHQZOqQ34Do_VxrIo9W0FRzTX4dMTOW102Z8jPfPHj_aem_pvtqj7Hi-DZQQnGxjBY67w",
+    "statut": "ouvert",
+    "resume": "Les bourses CYD sont un programme de talents pour la recherche en cyberdéfense, proposé par l'EPFL et le Cyber-Defence Campus. Elles offrent des financements pour des mémoires de master (6 mois), des doctorats (4 ans) et des postdoctorats (jusqu'à 2 ans), incluant salaire, fonds de recherche et de conférence. Le 14e appel est ouvert jusqu'au 19 août 2026 pour les doctorats et postdoctorats, tandis que les candidatures pour les masters sont acceptées en continu. Les candidats doivent faire preuve d'une excellence académique et professionnelle.",
+    "adresse": "EPFL Research Office  Av. Auguste-Piccard 1  CH – 1015 Lausanne",
+    "extrait_le": "2026-06-15T05:20:06",
+    "slug": "bourses-cyd-cyberdefense-suisse-2026"
   },
   {
     "titre": "Bourses postdoctorales ETH",

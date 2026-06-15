@@ -1,1039 +1,1347 @@
 [
   {
-    "titre": "Australia Awards Scholarships",
-    "organisation": "Gouvernement australien (DFAT)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-04-30",
-    "deadline_texte": "30 avril 2026 à 14h00 AEST",
-    "niveau_etudes": [
-      "licence",
-      "master"
-    ],
-    "domaines": [],
-    "pays_eligibles": [
-      "Algérie",
-      "Angola",
-      "Côte d'Ivoire",
-      "RDC",
-      "Égypte",
-      "Éthiopie",
-      "Ghana",
-      "Guinée",
-      "Gambie",
-      "Kenya",
-      "Madagascar",
-      "Malawi",
-      "Maroc",
-      "Mozambique",
-      "Namibie",
-      "Nigeria",
-      "Rwanda",
-      "Sierra Leone",
-      "Afrique du Sud",
-      "Tanzanie",
-      "Ouganda",
-      "Zambie",
-      "Zimbabwe"
-    ],
-    "age_maximum": null,
-    "langue_requise": null,
-    "documents_requis": [],
-    "lien_candidature": null,
-    "source_url": "https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships",
-    "statut": "ouvert",
-    "resume": "La bourse Australia Awards du gouvernement australien finance entièrement les études de licence et master pour les étudiants africains éligibles. Elle couvre les frais de scolarité, le billet d'avion, l'allocation d'installation, l'allocation de vie et l'assurance santé étudiante internationale.",
-    "extrait_le": "2026-05-30T15:29:24",
-    "slug": "australia-awards-scholarships"
-  },
-  {
-    "titre": "International Research Training Program Scholarship (IRTP)",
-    "organisation": "University of Technology Sydney",
-    "montant": 39000,
-    "devise": "AUD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-06-03",
-    "deadline_texte": "03 juin 2026",
-    "niveau_etudes": [
-      "master",
-      "phd"
-    ],
-    "domaines": [],
-    "pays_eligibles": [
-      "Afrique subsaharienne"
-    ],
-    "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [],
-    "lien_candidature": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp",
-    "source_url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp?utm_id=97758_v0_s00_e233_tv2_tp2_a1den5f08gvbpa&fbclid=IwY2xjawSID7ZleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhMEuer3QAtk2W7iVlJdZHWKxi6aHUbzKlszgR4a8z17fIiqFS2YnJHL1s8L_aem_NrwrxPHhO25Pij3OhXpNlg",
-    "statut": "ouvert",
-    "resume": "Bourse entièrement financée par le gouvernement australien destinée aux étudiants étrangers poursuivant un doctorat ou un master par recherche. Elle couvre les frais de scolarité, une allocation de subsistance de $39,000 par an (exonérée d'impôt à compter du 01 janvier 2026) et l'assurance santé pour étudiants étrangers. Les candidatures sont ouvertes du 04 mai au 03 juin 2026.",
-    "extrait_le": "2026-05-30T18:46:43",
-    "slug": "international-research-training-program-scholarship-irtp"
-  },
-  {
-    "titre": "Featured Grant Guidelines - Together Women Rise",
-    "organisation": "Together Women Rise",
-    "montant": 42500,
-    "devise": "USD",
-    "type_financement": "grant",
-    "deadline": "2026-06-05",
-    "deadline_texte": "5 juin 2026 à 17h00 ET",
-    "niveau_etudes": [],
-    "domaines": [],
-    "pays_eligibles": [
-      "Afrique",
-      "Amérique latine",
-      "Caraïbes",
-      "Asie",
-      "Océanie"
-    ],
-    "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [
-      "budget organisationnel",
-      "budget du projet/programme",
-      "formulaire IRS 990 récent et précédent",
-      "formulaire d'admissibilité"
-    ],
-    "lien_candidature": "https://togetherwomenrise.org/apply-for-a-grant/",
-    "source_url": "https://togetherwomenrise.org/featured-grant-guidelines/?fbclid=IwY2xjawSIEL9leHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqAQhRMJF1O7XN7W5gu4vN92scK9EEfrxD-_O7IiHLkRF3SF1yjqFyd-ZCYY_aem_Zd53PTzzyfkDhXdAYioRjw#1769097032726-079bfff6-a122",
-    "statut": "ouvert",
-    "resume": "Together Women Rise attribue des bourses (Featured Grants) de 35 000 à 50 000 USD versées sur deux ans pour soutenir de nouveaux programmes, l'expansion de programmes existants et le renforcement des capacités dans les communautés à faible revenu du Sud Global, y compris l'Afrique. Les organisations doivent être dirigées par des femmes (au moins 50% de leadership féminin) et avoir au moins trois ans d'expérience opérationnelle.",
-    "extrait_le": "2026-05-30T18:51:24",
-    "slug": "featured-grant-guidelines-together-women-rise"
-  },
-  {
-    "titre": "Call for Proposals for Civil Society Organizations under the EU4 Gender Equality Regional Programme: Behavioural Change and Awareness Raising on Online and Technology-Facilitated Violence Against Women and Girls",
-    "organisation": "UN Women",
-    "montant": 200000,
-    "devise": "USD",
-    "type_financement": "grant",
-    "deadline": "2026-06-12",
-    "deadline_texte": "12 June 2026 at 12:00 CET",
-    "niveau_etudes": [],
-    "domaines": [
-      "gender equality",
-      "violence against women",
-      "behavioural change communication"
-    ],
-    "pays_eligibles": [
-      "Western Balkans"
-    ],
-    "age_maximum": null,
-    "langue_requise": null,
-    "documents_requis": [
-      "proposal",
-      "Terms of Reference",
-      "Partner Agreement"
-    ],
-    "lien_candidature": null,
-    "source_url": "https://eca.unwomen.org/en/programme-implementation/2026/05/unw-eca-ro-cfp-2026-01?fbclid=IwY2xjawSUPbtleHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHruWU_XME50_vqXlZ173ukk_3H33iXHJg7g6-mfhfofuchGxar-6y6BRwcHd_aem_-ZFTqSMV1r29wESw99b9Vw",
-    "statut": "ouvert",
-    "resume": "UN Women lance un appel à propositions pour les organisations de la société civile afin de mettre en œuvre une campagne régionale de changement de comportement sur la violence en ligne et facilitée par la technologie contre les femmes et les filles dans les Balkans occidentaux. Le budget indicatif est de 180 000 à 200 000 USD. La date limite de soumission est le 12 juin 2026.",
-    "extrait_le": "2026-06-09T00:30:14",
-    "slug": "call-for-proposals-for-civil-society-organizations-under-the-eu4-gender-equality-regional-programme-"
-  },
-  {
-    "titre": "National Project Specialist (Fiji, Solomon Islands, Vanuatu and Samoa)",
-    "organisation": "FAO",
-    "montant": null,
-    "devise": null,
-    "type_financement": null,
-    "deadline": "2026-06-15",
-    "deadline_texte": "15/Jun/2026, 9:59:00 PM",
-    "niveau_etudes": [
-      "bachelor"
-    ],
-    "domaines": [
-      "fisheries",
-      "social science",
-      "gender",
-      "rural development",
-      "community development"
-    ],
-    "pays_eligibles": [
-      "Fiji",
-      "Solomon Islands",
-      "Vanuatu",
-      "Samoa"
-    ],
-    "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [
-      "CV",
-      "lettre de motivation"
-    ],
-    "lien_candidature": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=3487356&lang=en&fbclid=IwY2xjawSUQAVleHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiIozIzmQNwocZMB5cpjxeI6CYsAWNY3EInNw-YTY6QteNFi1OGBUspQRN17_aem_NhUQ31T1CBVV0l2MDCHyyg",
-    "source_url": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?job=3487356&lang=en&fbclid=IwY2xjawSUQAVleHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiIozIzmQNwocZMB5cpjxeI6CYsAWNY3EInNw-YTY6QteNFi1OGBUspQRN17_aem_NhUQ31T1CBVV0l2MDCHyyg",
-    "statut": "ouvert",
-    "resume": "La FAO recrute un National Project Specialist pour les îles Fidji, Salomon, Vanuatu et Samoa. Le poste consiste à fournir un soutien administratif et technique à la mise en œuvre d'un projet de renforcement de la pêche artisanale. Les candidats doivent être ressortissants d'un des quatre pays et justifier d'un diplôme universitaire et de trois ans d'expérience dans le secteur de la pêche ou du développement rural.",
-    "extrait_le": "2026-06-09T00:42:34",
-    "slug": "national-project-specialist-fiji-solomon-islands-vanuatu-and-samoa"
-  },
-  {
-    "titre": "Australian Government Research Training Program Scholarship (International)",
+    "titre": "Bourse du Programme de Formation à la Recherche du Gouvernement Australien (Internationale)",
+    "seo_slug": "bourse-gouvernement-australien-recherche-international-2026",
     "organisation": "Flinders University",
     "montant": 36061,
     "devise": "AUD",
     "type_financement": "bourse complète",
     "deadline": "2026-06-18",
-    "deadline_texte": "18 juin 2026 à minuit (heure d'Australie centrale)",
+    "deadline_texte": "18 juin 2026",
     "niveau_etudes": [
-      "phd",
-      "master"
+      "Doctorat",
+      "Master par recherche"
     ],
-    "domaines": [],
-    "pays_eligibles": [
-      "Tous les pays sauf la Nouvelle-Zélande"
-    ],
-    "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [
-      "CV",
-      "lettre de motivation",
-      "relevés de notes universitaires certifiés",
-      "proposition de recherche",
-      "rapports de référence académique",
-      "publications (maximum 5)"
-    ],
-    "lien_candidature": "https://www.flinders.edu.au/scholarships/australian-government-research-training-program-scholarship-international",
-    "source_url": "https://www.flinders.edu.au/scholarships/australian-government-research-training-program-scholarship-international?fbclid=IwY2xjawSID-dleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHql9XHK4h2kXeB7EqzPYTZXUL2qDPb3SbnIi9RJP45M5akHqhNHM-jZClJHW_aem_DnsQJTMk30yld7lI5R4Drg",
-    "statut": "ouvert",
-    "resume": "La bourse australienne de formation à la recherche (AGRTPS) pour les étudiants internationaux offre une allocation annuelle de 36 061 AUD exempte d'impôt pendant 3,5 ans pour un doctorat en recherche. Elle comprend également une allocation pour les frais de scolarité, une couverture de santé outre-mer et une allocation d'établissement pour les frais de réinstallation. Cette bourse hautement compétitive (5 places disponibles) est réservée aux étudiants ayant une excellente aptitude pour la recherche indépendante et prioritairement à ceux qui entreprennent un doctorat pour la première fois en Australie.",
-    "extrait_le": "2026-05-30T18:47:42",
-    "slug": "australian-government-research-training-program-scholarship-international"
-  },
-  {
-    "titre": "Australian Government Research Training Program Scholarship (International)",
-    "organisation": "Flinders University",
-    "montant": 36061,
-    "devise": "AUD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-06-18",
-    "deadline_texte": "18 June 2026 midnight Australian Central Standard Time",
-    "niveau_etudes": [
-      "phd",
-      "master"
-    ],
-    "domaines": [],
-    "pays_eligibles": [],
-    "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [
-      "CV",
-      "lettre de motivation",
-      "relevés de notes",
-      "proposition de recherche",
-      "rapports de références",
-      "preuve de publication",
-      "preuve de compétence en anglais"
-    ],
-    "lien_candidature": "https://www.flinders.edu.au/scholarships/australian-government-research-training-program-scholarship-international",
-    "source_url": "https://www.flinders.edu.au/scholarships/australian-government-research-training-program-scholarship-international?fbclid=IwY2xjawSUPj5leHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHs3B13XecYO6giWWLSBQ0hKwTdLfWj-3C4Mt2SmH-MgzHLccbfon9GeNeJpP_aem_C3jnD0g2Xcxfxbxj8aUt-A",
-    "statut": "ouvert",
-    "resume": "La bourse Australian Government Research Training Program (AGRTPS) est destinée aux étudiants internationaux souhaitant effectuer un doctorat ou un master par recherche à Flinders University. Elle comprend une exemption de frais de scolarité, une allocation de subsistance de 36 061 AUD par an (2026) et une couverture santé. Les candidats doivent démontrer un excellent dossier académique et des publications récentes.",
-    "extrait_le": "2026-06-09T00:32:19",
-    "slug": "australian-government-research-training-program-scholarship-international"
-  },
-  {
-    "titre": "Climate Finance Expert (Home based Retainer) - Bishkek, Kyrgyzstan",
-    "organisation": "UNOPS",
-    "montant": null,
-    "devise": null,
-    "type_financement": null,
-    "deadline": "2026-06-18",
-    "deadline_texte": "18-Jun-2026",
-    "niveau_etudes": [],
     "domaines": [
-      "climate finance",
-      "climate action",
-      "sustainable development"
+      "Tous domaines de recherche"
     ],
     "pays_eligibles": [
-      "Kyrgyzstan"
+      "Tous sauf Nouvelle-Zélande"
     ],
     "age_maximum": null,
-    "langue_requise": null,
-    "documents_requis": [],
-    "lien_candidature": "https://careers.unops.org/careersmarketplace/JobDetail/Climate-Finance-Expert-Home-based-Retainer-Bishkek-Kyrgyzstan/2929?fbclid=IwY2xjawSUQA5leHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHruWU_XME50_vqXlZ173ukk_3H33iXHJg7g6-mfhfofuchGxar-6y6BRwcHd_aem_-ZFTqSMV1r29wESw99b9Vw",
-    "source_url": "https://careers.unops.org/careersmarketplace/JobDetail/Climate-Finance-Expert-Home-based-Retainer-Bishkek-Kyrgyzstan/2929?fbclid=IwY2xjawSUQA5leHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHruWU_XME50_vqXlZ173ukk_3H33iXHJg7g6-mfhfofuchGxar-6y6BRwcHd_aem_-ZFTqSMV1r29wESw99b9Vw",
-    "statut": "ouvert",
-    "resume": "L'UNOPS recrute un expert en finance climatique basé à domicile pour soutenir le Kirghizistan dans la mise en œuvre de ses contributions déterminées au niveau national (CDN). Le consultant travaillera en étroite collaboration avec le ministère des Ressources naturelles pour identifier des projets, mobiliser des financements internationaux et préparer des notes de concept. Le poste est ouvert jusqu'au 18 juin 2026.",
-    "extrait_le": "2026-06-09T00:41:04",
-    "slug": "climate-finance-expert-home-based-retainer-bishkek-kyrgyzstan"
-  },
-  {
-    "titre": "Valar Scholarship Program",
-    "organisation": "Valar",
-    "montant": null,
-    "devise": null,
-    "type_financement": "partielle",
-    "deadline": "2026-06-25",
-    "deadline_texte": "Round 1 application deadline for the upcoming class is June 25",
-    "niveau_etudes": [
-      "master",
-      "executive master"
-    ],
-    "domaines": [
-      "business",
-      "management"
-    ],
-    "pays_eligibles": [],
-    "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [],
-    "lien_candidature": "https://valar.quantic.edu/tuition/scholarship-opportunities/",
-    "source_url": "https://valar.quantic.edu/tuition/scholarship-opportunities/?fbclid=IwY2xjawSTDsJleHRuA2FlbQIxMABicmlkETF6YlFyM21pY0R6YlRFaXZsc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtuO937Yj2OHZ6B0oAj7QObxP1hf1KLN7ZqL_lSb83O4jwdqKlE4NAUFGOG6_aem_U-0_AEDPJddyvKg2F1FzZQ",
-    "statut": "ouvert",
-    "resume": "Le Valar Scholarship Program offre des bourses partielles pour les programmes MBA et Executive MBA. Les candidats peuvent demander à être considérés pour ces bourses lors de leur candidature. La date limite de dépôt pour le premier tour est le 25 juin.",
-    "extrait_le": "2026-06-08T02:59:03",
-    "slug": "valar-scholarship-program"
-  },
-  {
-    "titre": "Internal Medicine Programme Scholarship",
-    "organisation": "University of Edinburgh",
-    "montant": null,
-    "devise": null,
-    "type_financement": "partielle",
-    "deadline": "2026-06-30",
-    "deadline_texte": "30 June 2026 at 23:59 UK Time",
-    "niveau_etudes": [
-      "master",
-      "pgcert",
-      "pgdip"
-    ],
-    "domaines": [
-      "médecine interne"
-    ],
-    "pays_eligibles": [],
-    "age_maximum": null,
-    "langue_requise": "anglais",
+    "langue_requise": "Anglais",
     "documents_requis": [
-      "personal statement"
+      "CV",
+      "Lettre de motivation",
+      "Relevés de notes universitaires certifiés",
+      "Proposition de recherche (500 mots)",
+      "Rapports de référents académiques (2)",
+      "Preuve de publications (max 5)",
+      "Preuve de compétence en anglais",
+      "Preuve d'accord du superviseur"
     ],
-    "lien_candidature": "https://www.myed.ed.ac.uk",
-    "source_url": "https://registryservices.ed.ac.uk/scholarships-and-student-funding/prospective-postgraduates/online-learning-scholarships/internal?fbclid=IwY2xjawSTDrtleHRuA2FlbQIxMABicmlkETF6YlFyM21pY0R6YlRFaXZsc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlJ6tg-F4vbdIB3IaDabtbL0YzHXo7zfLKQjILOkfhBJlp0Big6IokMHihJc_aem_mo4bwEOsp_sqT9UDhEWVbA",
+    "avantages": [
+      "Allocation de subsistance de 36 061 AUD par an (exonérée d'impôt)",
+      "Exonération des frais de scolarité (RTP) jusqu'à 4 ans",
+      "Allocation d'installation jusqu'à 1 485 AUD pour frais de déménagement et billets d'avion",
+      "Couverture santé Overseas Health Care"
+    ],
+    "eligibilite": [
+      "Être citoyen d'un pays autre que la Nouvelle-Zélande",
+      "Ne pas détenir la citoyenneté australienne, la résidence permanente australienne ou la citoyenneté néo-zélandaise",
+      "Commencer un diplôme supérieur par recherche en Australie pour la première fois",
+      "S'inscrire dans un domaine de recherche prioritaire de l'université",
+      "Satisfaire aux exigences d'entrée, y compris le niveau d'anglais (test valide jusqu'au 31 mars 2027)",
+      "S'engager à suivre un programme à temps plein"
+    ],
+    "procedure_etapes": [
+      "1. Contacter un superviseur académique à Flinders University et obtenir un accord informel.",
+      "2. Soumettre une demande d'admission au diplôme supérieur par recherche via Studylink.",
+      "3. Activer votre compte Flinders pour obtenir un FAN.",
+      "4. Soumettre une demande de bourse via le Student System pour le groupe International RHD Scholarship.",
+      "5. Joindre tous les documents requis (CV, relevés de notes, proposition de recherche, publications, rapports de référents, preuve d'anglais, preuve d'accord du superviseur).",
+      "6. S'assurer que les rapports de référents sont envoyés à hdr.scholarships@flinders.edu.au avant la date limite."
+    ],
+    "contacts": [
+      "hdr.scholarships@flinders.edu.au",
+      "1300 354 633"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.flinders.edu.au/scholarships/australian-government-research-training-program-scholarship-international"
+      },
+      {
+        "label": "Liste de contrôle et directives de candidature (PDF)",
+        "url": "https://www.flinders.edu.au/content/dam/documents/scholarships/scholarship-application-checklist-guidelines%20for%202027.pdf"
+      },
+      {
+        "label": "Foire aux questions (PDF)",
+        "url": "https://www.flinders.edu.au/content/dam/documents/scholarships/2027%20hdr-scholarships-international-fact-sheet.pdf"
+      },
+      {
+        "label": "Conditions d'attribution (PDF)",
+        "url": "https://www.flinders.edu.au/content/dam/documents/scholarships/agrtps-international-conditions-award_2027.pdf"
+      },
+      {
+        "label": "Couverture de publication (PDF)",
+        "url": "https://www.flinders.edu.au/content/dam/documents/scholarships/international%20publication-cover-sheet-main%202027.pdf"
+      },
+      {
+        "label": "Rapport confidentiel du référent (PDF)",
+        "url": "https://www.flinders.edu.au/content/dam/documents/scholarships/agrtpsiF"
+      },
+      {
+        "label": "Exigences de compétence en anglais pour HDR (PDF)",
+        "url": "https://www.flinders.edu.au/content/dam/documents/staff/policies/academic-students/english-language-proficiency-requirements-hdr.pdf"
+      },
+      {
+        "label": "Comment postuler pour une bourse",
+        "url": "https://students.flinders.edu.au/finances-and-admin/support/scholarships#how-to-apply-scholarship"
+      },
+      {
+        "label": "Portail de candidature Studylink",
+        "url": "https://student-flinders.studylink.com/index.cfm?event=security.showLogin&msg=eventsecured&fr=sp&en=default"
+      },
+      {
+        "label": "Activation du compte Flinders",
+        "url": "https://activate.flinders.edu.au/main"
+      },
+      {
+        "label": "Réactivation FAN",
+        "url": "https://eapplicant.flinders.edu.au/reactivate"
+      },
+      {
+        "label": "Trouver un superviseur",
+        "url": "https://www.flinders.edu.au/international/apply/apply-research-degree/find-research-supervisor"
+      },
+      {
+        "label": "Demande de diplôme par recherche",
+        "url": "https://www.flinders.edu.au/international/apply/apply-research-degree"
+      },
+      {
+        "label": "Comment postuler pour l'admission internationale",
+        "url": "https://www.flinders.edu.au/international/apply/apply-research-degree/how-to-apply"
+      },
+      {
+        "label": "AskFlinders (questions sur la bourse)",
+        "url": "https://askflinders.microsoftcrmportals.com/"
+      }
+    ],
+    "mots_cles": [
+      "bourse australienne",
+      "recherche doctorat",
+      "Flinders University",
+      "bourse internationale",
+      "RTP",
+      "AGRTPS",
+      "allocation de subsistance",
+      "études supérieures recherche"
+    ],
+    "lien_candidature": "https://student-flinders.studylink.com/index.cfm?event=security.showLogin&msg=eventsecured&fr=sp&en=default",
+    "source_url": "https://www.flinders.edu.au/scholarships/australian-government-research-training-program-scholarship-international",
     "statut": "ouvert",
-    "resume": "L'Université d'Édimbourg offre 5 bourses pour le MSc Internal Medicine en ligne, couvrant 66% des frais de scolarité pour l'année académique 2026-2027. Les candidats doivent être domiciliés et travailler dans certains pays éligibles, et avoir déjà été admis au programme. La sélection se base sur le mérite académique et une déclaration personnelle.",
-    "extrait_le": "2026-06-08T03:00:46",
-    "slug": "internal-medicine-programme-scholarship"
+    "resume": "La bourse du Programme de Formation à la Recherche du Gouvernement Australien (AGRTPS) à Flinders University offre une allocation de subsistance de 36 061 AUD par an, exonérée d'impôt, ainsi qu'une exonération des frais de scolarité et une couverture santé pour les étudiants internationaux poursuivant un doctorat ou un master par recherche. Cette bourse très compétitive est attribuée sur la base du mérite académique et du potentiel de recherche. Les candidats doivent avoir un superviseur, fournir jusqu'à cinq publications et satisfaire aux exigences de langue anglaise. La date limite de candidature est le 18 juin 2026.",
+    "adresse": "Level 0, Central Library, Bedford Park campus",
+    "extrait_le": "2026-06-15T02:32:57",
+    "slug": "bourse-gouvernement-australien-recherche-international-2026"
   },
   {
-    "titre": "The Business School Data Analytics (Online) Scholarship",
-    "organisation": "University of Edinburgh Business School",
-    "montant": 5000,
+    "titre": "Bourse Rhodes 2027 pour des études supérieures à l'Université d'Oxford",
+    "seo_slug": "bourse-rhodes-master-oxford-2027",
+    "organisation": "Rhodes Trust",
+    "montant": 20400,
     "devise": "GBP",
-    "type_financement": "partielle",
-    "deadline": "2026-07-01",
-    "deadline_texte": "23:59, 01 July 2026",
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026 (variable selon les circonscriptions)",
     "niveau_etudes": [
-      "master"
+      "Master",
+      "Doctorat"
     ],
     "domaines": [
-      "data analytics",
-      "decision analytics"
-    ],
-    "pays_eligibles": [],
-    "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [],
-    "lien_candidature": "https://www.business-school.ed.ac.uk/scholarships/data-analytics",
-    "source_url": "https://www.business-school.ed.ac.uk/scholarships/data-analytics?fbclid=IwY2xjawSTDrdleHRuA2FlbQIxMABicmlkETF6YlFyM21pY0R6YlRFaXZsc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtuO937Yj2OHZ6B0oAj7QObxP1hf1KLN7ZqL_lSb83O4jwdqKlE4NAUFGOG6_aem_U-0_AEDPJddyvKg2F1FzZQ",
-    "statut": "ouvert",
-    "resume": "Cette bourse de 5 000 £ est destinée aux étudiants admis au MSc Data and Decision Analytics (en ligne) de la Business School de l'Université d'Édimbourg, débutant en septembre 2026. Elle est attribuée sur la base du mérite académique et des qualités personnelles et professionnelles. Les candidats doivent avoir reçu une offre d'admission pour postuler.",
-    "extrait_le": "2026-06-08T03:01:29",
-    "slug": "the-business-school-data-analytics-online-scholarship"
-  },
-  {
-    "titre": "Hubert H. Humphrey Fellowship Program 2027-2028",
-    "organisation": "U.S. Department of State",
-    "montant": null,
-    "devise": null,
-    "type_financement": "fellowship",
-    "deadline": "2026-07-03",
-    "deadline_texte": "July 3, 2026",
-    "niveau_etudes": [
-      "master",
-      "phd"
-    ],
-    "domaines": [
-      "Communications and Journalism",
-      "Law and Governance",
-      "Natural Resources Policy",
-      "Public and Economic Policy",
-      "Public Health Policy and Management"
+      "Tous les domaines"
     ],
     "pays_eligibles": [
-      "Togo"
+      "Monde entier"
     ],
     "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [
-      "English language certification (TOEFL/Duolingo/IELTS)"
-    ],
-    "lien_candidature": "https://tg.usembassy.gov/scholarship-opportunities/",
-    "source_url": "https://tg.usembassy.gov/scholarship-opportunities/?fbclid=IwY2xjawSRnlRleHRuA2FlbQIxMABicmlkETE5eTFPbmJIR0pHRVhWeTVtc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHldq56yKLRe7LfrPiAFnUpn7bJ0UYiSBGai-4NKavGxEjRhOek4-RPZKiVeg_aem_-sIx9t2mbKyLtSObDsNdkA",
-    "statut": "ouvert",
-    "resume": "Le programme Hubert H. Humphrey Fellowship 2027-2028 offre aux professionnels en milieu de carrière une opportunité de renforcer leurs compétences en leadership et de développer leur réseau professionnel aux États-Unis. Les candidats doivent être citoyens et résidents du Togo, posséder un diplôme universitaire de premier cycle, avoir au moins cinq ans d'expérience professionnelle et un bon niveau d'anglais. La date limite de candidature est le 3 juillet 2026.",
-    "extrait_le": "2026-06-06T17:57:50",
-    "slug": "hubert-h-humphrey-fellowship-program-2027-2028"
-  },
-  {
-    "titre": "PhD scholarship - RTP and DUPRS",
-    "organisation": "Deakin University",
-    "montant": 37450,
-    "devise": "AUD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-10-25",
-    "deadline_texte": "25 octobre 2026",
-    "niveau_etudes": [
-      "phd",
-      "master recherche"
-    ],
-    "domaines": [],
-    "pays_eligibles": [
-      "Australie",
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": null,
-    "documents_requis": [
-      "formulaire de candidature",
-      "justificatif d'études tertiaires"
-    ],
-    "lien_candidature": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs",
-    "source_url": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs?fbclid=IwY2xjawSIDb9leHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnsLHeVMRH2JM8hB_NLV7ZAswqIfJ9AuSzVgn7a_8MrzG65ZXXDgOKl-4f7Z_aem_zTwpADAxEX2Jyu8R69T8Nw",
-    "statut": "ouvert",
-    "resume": "Bourse de recherche financée par le gouvernement australien (RTP) ou par Deakin University (DUPRS), offrant une allocation annuelle de 37 450 AUD aux candidats nationaux et internationaux. Les bourses couvrent les frais de scolarité et fournissent une couverture santé pour les étudiants internationaux, avec une durée de trois ans pour les doctorats et deux ans pour les maîtrises en recherche.",
-    "extrait_le": "2026-05-30T18:38:09",
-    "slug": "phd-scholarship-rtp-and-duprs"
-  },
-  {
-    "titre": "Research Training Program (RTP)",
-    "organisation": "Department of Education, Australian Government",
-    "montant": null,
-    "devise": "AUD",
-    "type_financement": "bourse complète",
-    "deadline": null,
-    "deadline_texte": null,
-    "niveau_etudes": [
-      "master",
-      "phd"
-    ],
-    "domaines": [
-      "recherche"
-    ],
-    "pays_eligibles": [
-      "Australie"
-    ],
-    "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [],
-    "lien_candidature": null,
-    "source_url": "https://www.education.gov.au/research-block-grants/research-training-program?fbclid=IwY2xjawSICpdleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqAQhRMJF1O7XN7W5gu4vN92scK9EEfrxD-_O7IiHLkRF3SF1yjqFyd-ZCYY_aem_Zd53PTzzyfkDhXdAYioRjw",
-    "statut": "ouvert",
-    "resume": "Le Research Training Program (RTP) est un programme de financement du gouvernement australien qui soutient la formation des étudiants nationaux et internationaux en recherche doctorale et master. Les bourses RTP peuvent couvrir les frais de scolarité, une allocation de subsistance et les frais accessoires, avec des périodes de soutien de 3 à 4 ans pour les doctorats et jusqu'à 2 ans pour les masters en études à temps plein. Les candidatures doivent être faites directement auprès des établissements d'enseignement supérieur éligibles.",
-    "extrait_le": "2026-05-30T18:24:57",
-    "slug": "research-training-program-rtp"
-  },
-  {
-    "titre": "Graduate Research Scholarships",
-    "organisation": "University of Melbourne",
-    "montant": 135000,
-    "devise": "AUD",
-    "type_financement": "bourse complète",
-    "deadline": null,
-    "deadline_texte": "31 octobre (pour candidature en ligne)",
-    "niveau_etudes": [
-      "master",
-      "phd"
-    ],
-    "domaines": [
-      "sciences agricoles et vétérinaires",
-      "architecture et design",
-      "arts et sciences humaines",
-      "commerce et économie",
-      "éducation",
-      "ingénierie",
-      "environnement",
-      "santé",
-      "informatique",
-      "droit",
-      "musique et arts visuels et performants",
-      "sciences"
-    ],
-    "pays_eligibles": [
-      "Australie",
-      "international"
-    ],
-    "age_maximum": null,
-    "langue_requise": null,
-    "documents_requis": [
-      "formulaire de candidature en ligne"
-    ],
-    "lien_candidature": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
-    "source_url": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships?fbclid=IwY2xjawSIDP1leHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiTdXlLbaa-Th0d7ZzX1n1OCGhU2cPTS9GuVJZmnyjCQAbjqWsZkhm0kx94S_aem_U4m2j5BV6-Kz1hvd_u6qkA",
-    "statut": "ouvert",
-    "resume": "Les Graduate Research Scholarships de l'Université de Melbourne offrent une remise de frais complète et une allocation de subsistance pouvant atteindre 135 000 AUD aux étudiants nationaux et internationaux poursuivant un master ou doctorat par la recherche. La bourse couvre les frais de scolarité intégralement et fournit une allocation annuelle de 39 500 AUD pour les frais de subsistance, avec une considération automatique basée sur le mérite académique.",
-    "extrait_le": "2026-05-30T18:35:19",
-    "slug": "graduate-research-scholarships"
-  },
-  {
-    "titre": "Graduate research scholarships",
-    "organisation": "Macquarie University",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": null,
-    "deadline_texte": "Plusieurs dates selon le programme (janvier à avril 2026)",
-    "niveau_etudes": [
-      "master",
-      "phd",
-      "diplôme de recherche"
-    ],
-    "domaines": [],
-    "pays_eligibles": [],
-    "age_maximum": null,
-    "langue_requise": null,
-    "documents_requis": [],
-    "lien_candidature": "https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/graduate-research-scholarships",
-    "source_url": "https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/scholarship-opportunities?utm_id=97758_v0_s00_e231_tv2_tp2_a1den5f08gvbpa&fbclid=IwY2xjawSIDUVleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqAQhRMJF1O7XN7W5gu4vN92scK9EEfrxD-_O7IiHLkRF3SF1yjqFyd-ZCYY_aem_Zd53PTzzyfkDhXdAYioRjw",
-    "statut": "ouvert",
-    "resume": "Macquarie University offre une gamme généreuse de bourses pour soutenir les chercheurs diplômés exceptionnels en studies de Graduate Diploma of Research, Master of Research et Doctor of Philosophy. Les bourses peuvent couvrir les frais de scolarité, les allocations de subsistance, l'assurance maladie pour les étudiants internationaux et d'autres frais, selon les programmes d'études.",
-    "extrait_le": "2026-05-30T18:36:09",
-    "slug": "graduate-research-scholarships"
-  },
-  {
-    "titre": "Research Degree Scholarships",
-    "organisation": "The Australian National University (ANU)",
-    "montant": null,
-    "devise": "AUD",
-    "type_financement": "bourse complète",
-    "deadline": null,
-    "deadline_texte": "Round 1 International : 31 août chaque année; Round 1 Domestic : 31 octobre chaque année; Round 2 : 15 avril chaque année",
-    "niveau_etudes": [
-      "master",
-      "phd"
-    ],
-    "domaines": [],
-    "pays_eligibles": [
-      "Australie",
-      "Nouvelle-Zélande",
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": null,
-    "documents_requis": [],
-    "lien_candidature": "https://research.anu.edu.au/postgraduate-research-candidates/research-degree-scholarships",
-    "source_url": "https://research.anu.edu.au/postgraduate-research-candidates/research-degree-scholarships?fbclid=IwY2xjawSIDjNleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqf4yGVgJpe8rbaQ558PlFCp3FNYBlC-E5C3uh0-VmkJd-y5X5HPv5EK7DsG_aem_iy9R2kR0D6CrrJ0zqDiNOw",
-    "statut": "ouvert",
-    "resume": "L'Université nationale australienne (ANU) propose des bourses de recherche compétitives pour les candidats au doctorat et à la maîtrise par la recherche. Ces bourses couvrent les frais de subsistance et les frais de scolarité, avec deux rondes d'allocation centrales par année. Les candidats doivent posséder un diplôme de première classe ou équivalent et sont admissibles qu'ils soient australiens, néo-zélandais ou internationaux.",
-    "extrait_le": "2026-05-30T18:40:36",
-    "slug": "research-degree-scholarships"
-  },
-  {
-    "titre": "PhD and Research Degree Scholarships at Griffith University",
-    "organisation": "Griffith University",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": null,
-    "deadline_texte": "Les candidatures pour 2026 sont fermées. Les bourses ouvertes au mérite pour 2027 s'ouvriront en juillet 2026",
-    "niveau_etudes": [
-      "phd",
-      "master recherche"
-    ],
-    "domaines": [],
-    "pays_eligibles": [
-      "Australie",
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [
-      "expression of interest"
-    ],
-    "lien_candidature": "https://www.griffith.edu.au/research-study/scholarships?fbclid=IwY2xjawSIDzpleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqf4yGVgJpe8rbaQ558PlFCp3FNYBlC-E5C3uh0-VmkJd-y5X5HPv5EK7DsG_aem_iy9R2kR0D6CrrJ0zqDiNOw",
-    "source_url": "https://www.griffith.edu.au/research-study/scholarships?fbclid=IwY2xjawSIDzpleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqf4yGVgJpe8rbaQ558PlFCp3FNYBlC-E5C3uh0-VmkJd-y5X5HPv5EK7DsG_aem_iy9R2kR0D6CrrJ0zqDiNOw",
-    "statut": "ouvert",
-    "resume": "Griffith University offre des bourses d'études complètes pour les doctorants et chercheurs, couvrant les frais de scolarité, l'assurance maladie et les allocations de subsistance. Les candidatures pour 2026 sont fermées, mais les bourses au mérite pour 2027 ouvriront en juillet 2026, avec certaines bourses spécifiques actuellement accessibles.",
-    "extrait_le": "2026-05-30T18:44:58",
-    "slug": "phd-and-research-degree-scholarships-at-griffith-university"
-  },
-  {
-    "titre": "Australian Government Research Training Program (RTP) Scholarships",
-    "organisation": "University of Tasmania",
-    "montant": 34315,
-    "devise": "AUD",
-    "type_financement": "bourse complète",
-    "deadline": null,
-    "deadline_texte": "Plusieurs rounds : 1er décembre 2025, 1er février 2026, 1er avril 2026, 1er juin 2026, 1er octobre 2026",
-    "niveau_etudes": [
-      "master",
-      "phd"
-    ],
-    "domaines": [],
-    "pays_eligibles": [
-      "Australie",
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": null,
+    "langue_requise": "Anglais",
     "documents_requis": [
       "CV",
-      "lettre de motivation",
-      "preuve de financement pour visa étudiant"
+      "Lettre de motivation",
+      "Relevés de notes",
+      "Lettres de recommandation",
+      "Preuve de compétence en anglais"
     ],
-    "lien_candidature": "https://www.utas.edu.au/research/degrees/apply-now",
-    "source_url": "https://www.utas.edu.au/research/degrees/scholarships-and-fees?fbclid=IwY2xjawSID4BleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqAQhRMJF1O7XN7W5gu4vN92scK9EEfrxD-_O7IiHLkRF3SF1yjqFyd-ZCYY_aem_Zd53PTzzyfkDhXdAYioRjw",
+    "avantages": [
+      "Frais de scolarité complets",
+      "Bourse annuelle de 20 400 £ (1 700 £/mois)",
+      "Frais de demande d'admission à Oxford",
+      "Frais de visa étudiant et IHS",
+      "Deux billets d'avion aller-retour en classe économique",
+      "Allocation d'installation",
+      "Aide pour le renouvellement de visa"
+    ],
+    "eligibilite": [
+      "Être âgé de 18 à 24 ans (ou jusqu'à 27 ans pour certaines circonscriptions)",
+      "Avoir obtenu un diplôme de premier cycle avec mention très bien",
+      "Être citoyen d'un pays éligible (liste par circonscription)",
+      "Faire preuve de leadership, d'intégrité et d'engagement envers le service public"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier votre éligibilité et la circonscription de candidature sur le site officiel.",
+      "2. Préparer les documents requis (CV, lettre de motivation, relevés de notes, lettres de recommandation).",
+      "3. Soumettre votre candidature en ligne via le portail dédié avant la date limite de votre circonscription.",
+      "4. Si présélectionné, participer à un entretien.",
+      "5. En cas de succès, accepter l'offre et entamer les démarches d'admission à Oxford."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/"
+      },
+      {
+        "label": "Critères de sélection",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/selection-criteria/"
+      },
+      {
+        "label": "Vérifier l'éligibilité et postuler",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/faqs/"
+      },
+      {
+        "label": "Conditions de tenure (PDF)",
+        "url": "https://www.rhodeshouse.ox.ac.uk/files/conditions-of-tenure/"
+      },
+      {
+        "label": "Inscription à la newsletter",
+        "url": "https://confirmsubscription.com/h/r/65B4B104DE9B6853"
+      }
+    ],
+    "mots_cles": [
+      "bourse rhodes",
+      "bourse oxford",
+      "bourse master",
+      "bourse doctorat",
+      "bourse internationale",
+      "bourse complète",
+      "royaume-uni",
+      "2027"
+    ],
+    "lien_candidature": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/",
+    "source_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/",
     "statut": "ouvert",
-    "resume": "L'Université de Tasmanie offre plusieurs programmes de bourses de recherche, dont la bourse du gouvernement australien RTP (Research Training Program) et la bourse d'études supérieures de Tasmanie (TGRS), d'une valeur de 34 315 AUD par an. Ces bourses couvrent les allocations de subsistance, les frais de scolarité pour les candidats internationaux admissibles, et les allocations de relocalisation, attribuées sur la base du mérite académique et de l'excellence en recherche.",
-    "extrait_le": "2026-05-30T18:45:45",
-    "slug": "australian-government-research-training-program-rtp-scholarships"
+    "resume": "La bourse Rhodes est la plus ancienne bourse internationale au monde, offrant aux étudiants exceptionnels la possibilité d'effectuer des études supérieures à temps plein à l'Université d'Oxford. Cette bourse complète couvre les frais de scolarité, une allocation annuelle de 20 400 £, les frais de visa et les billets d'avion. Les candidatures pour 2027 sont ouvertes ; les candidats doivent vérifier leur éligibilité et postuler via le site officiel avant la date limite de leur circonscription.",
+    "extrait_le": "2026-06-15T03:06:36",
+    "slug": "bourse-rhodes-master-oxford-2027"
   },
   {
-    "titre": "UoPeople Scholarships",
-    "organisation": "University of the People",
-    "montant": null,
-    "devise": null,
-    "type_financement": "partielle",
-    "deadline": null,
-    "deadline_texte": null,
-    "niveau_etudes": [
-      "associate",
-      "bachelor",
-      "master"
-    ],
-    "domaines": [],
-    "pays_eligibles": [],
-    "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [],
-    "lien_candidature": "https://www.uopeople.edu/tuition-free/scholarships/",
-    "source_url": "https://www.uopeople.edu/tuition-free/scholarships/?fbclid=IwY2xjawSTDsZleHRuA2FlbQIxMABicmlkETF6YlFyM21pY0R6YlRFaXZsc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHo1bNa5_7bDfH-UTbZwm83L9Ezfu3g8AsPPLaFA3nmFDjGW8Cz-SokUBJDto_aem_U_Yl-PmwreLXBBCQnlPweQ",
-    "statut": "ouvert",
-    "resume": "L'Université du Peuple (UoPeople) propose des bourses d'études aux étudiants rencontrant des difficultés financières. Les bourses couvrent partiellement les frais d'évaluation et de candidature, l'université étant gratuite en termes de frais de scolarité. Les candidats doivent d'abord être admis, puis postuler via le portail étudiant.",
-    "extrait_le": "2026-06-08T02:58:07",
-    "slug": "uopeople-scholarships"
-  },
-  {
-    "titre": "Enhanced Regional Scholarship for Africa",
-    "organisation": "University of Essex Online",
-    "montant": null,
-    "devise": null,
-    "type_financement": "partielle",
-    "deadline": null,
-    "deadline_texte": null,
-    "niveau_etudes": [
-      "undergraduate",
-      "postgraduate"
-    ],
-    "domaines": [],
-    "pays_eligibles": [
-      "Afrique"
-    ],
-    "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [],
-    "lien_candidature": "https://online.essex.ac.uk/discounts-and-scholarships/",
-    "source_url": "https://online.essex.ac.uk/discounts-and-scholarships/?fbclid=IwY2xjawSTDsBleHRuA2FlbQIxMABicmlkETF6YlFyM21pY0R6YlRFaXZsc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv-Cdoqfxf5fU-sOqFJhUXmmTjLSPxvUlOFWGpMTxdQguLG88opQE3eeh2ZD_aem_NcWMRSS0ViXpNFfh1TwinA",
-    "statut": "ouvert",
-    "resume": "L'University of Essex Online propose une bourse régionale améliorée pour les étudiants internationaux résidant en Afrique, offrant une réduction de 20% sur les frais de scolarité pour les cursus en ligne de premier cycle et de troisième cycle débutant en juillet 2026. Aucune demande séparée n'est nécessaire ; la bourse est appliquée après réception de la lettre d'offre officielle.",
-    "extrait_le": "2026-06-08T02:59:59",
-    "slug": "enhanced-regional-scholarship-for-africa"
-  },
-  {
-    "titre": "British Master en 1 an - 100% en ligne",
-    "organisation": "University of Salford",
-    "montant": null,
-    "devise": null,
-    "type_financement": null,
-    "deadline": null,
-    "deadline_texte": null,
-    "niveau_etudes": [
-      "master"
-    ],
-    "domaines": [
-      "administration des affaires",
-      "gestion globale",
-      "gestion de projet",
-      "gestion des services financiers",
-      "approvisionnement, logistique et gestion de la chaîne d'approvisionnement",
-      "marketing",
-      "gestion des ressources humaines",
-      "gestion des systèmes d'information",
-      "banque et finance internationales",
-      "comptabilité et finance",
-      "commerce international avec droit",
-      "finance d'entreprise internationale",
-      "gestion d'événements internationaux",
-      "commerce numérique",
-      "gestion de la fraude et des risques",
-      "gestion des opérations",
-      "finance et gestion des investissements",
-      "droit commercial international"
-    ],
-    "pays_eligibles": [],
-    "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [],
-    "lien_candidature": "https://www.rkc.edu/catalogue?r=masters_mt&j=fbSunWnew&utm_medium=paid&utm_source=fb&utm_id=6627446424267&utm_content=6627454998267&utm_term=6627448444267&utm_campaign=6627446424267&fbclid=IwY2xjawSUMpFleHRuA2FlbQEwAGFkaWQAAAZdiO7do3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR71BFDN0kOKE1JKPnxMxewZQLMGLBm2LdAFly-bCZtNMfHsl7qyOAMwIy-t6g_aem_kR2v99DngNrLVZsPDEUslw",
-    "source_url": "https://www.rkc.edu/catalogue?r=masters_mt&j=fbSunWnew&utm_medium=paid&utm_source=fb&utm_id=6627446424267&utm_content=6627454998267&utm_term=6627448444267&utm_campaign=6627446424267&fbclid=IwY2xjawSUMpFleHRuA2FlbQEwAGFkaWQAAAZdiO7do3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR71BFDN0kOKE1JKPnxMxewZQLMGLBm2LdAFly-bCZtNMfHsl7qyOAMwIy-t6g_aem_kR2v99DngNrLVZsPDEUslw",
-    "statut": "ouvert",
-    "resume": "L'University of Salford propose des masters en ligne 100% en un an, reconnus par le gouvernement britannique. Les programmes couvrent divers domaines comme la gestion, la finance, le marketing et le droit. Aucune information sur le financement ou les bourses n'est fournie.",
-    "extrait_le": "2026-06-09T00:26:25",
-    "slug": "british-master-en-1-an-100-en-ligne"
-  },
-  {
-    "titre": "PhD Graduate Teaching Assistantship Positions at the University of Eldoret, Kenya",
-    "organisation": "Regional Universities Forum for Capacity Building in Agriculture (RUFORUM)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "fellowship",
-    "deadline": null,
-    "deadline_texte": null,
-    "niveau_etudes": [
-      "phd"
-    ],
-    "domaines": [
-      "Seed Science",
-      "Microbiology",
-      "Agricultural Extension Education",
-      "Agroforestry",
-      "Human Nutrition",
-      "Technology Education"
-    ],
-    "pays_eligibles": [
-      "Afrique"
-    ],
-    "age_maximum": 40,
-    "langue_requise": "anglais",
-    "documents_requis": [
-      "lettre de motivation",
-      "CV",
-      "relevés de notes et diplômes certifiés",
-      "note conceptuelle ou proposition de recherche",
-      "lettre de nomination"
-    ],
-    "lien_candidature": "https://www.uoeld.ac.ke/",
-    "source_url": "https://news.ruforum.org/call-for-applications-26-phd-graduate-teaching-assistantship-positions-at-the-university-of-eldoret-kenya/?fbclid=IwY2xjawSUPVtleHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHr7PpXsfhLDE1Pg-iiJi-ITpbRS0ZQq5vPkJvUX99wjFZT6YZoLHmegjUziL_aem_2n9aemfrY_imT86xPAe50w",
-    "statut": "ouvert",
-    "resume": "Le programme TAGDev 2.0, en partenariat avec la Mastercard Foundation, offre 26 postes d'assistant d'enseignement doctoral (GTA) à l'Université d'Eldoret au Kenya. Les candidats doivent être enseignants d'une université membre de RUFORUM et titulaires d'un master. La bourse comprend une exonération des frais de scolarité et un soutien à l'hébergement, et est ouverte aux candidats de moins de 40 ans.",
-    "extrait_le": "2026-06-09T00:28:53",
-    "slug": "phd-graduate-teaching-assistantship-positions-at-the-university-of-eldoret-kenya"
-  },
-  {
-    "titre": "Hubert Humphrey Fellowship Program",
-    "organisation": "U.S. Embassy in Malawi",
-    "montant": null,
-    "devise": null,
-    "type_financement": "fellowship",
-    "deadline": null,
-    "deadline_texte": null,
-    "niveau_etudes": [
-      "graduate"
-    ],
-    "domaines": [
-      "Communications and Journalism",
-      "Law and Governance",
-      "Natural Resources",
-      "Public and Economic Policy",
-      "Public Health Policy and Management",
-      "Technology Policy and Management"
-    ],
-    "pays_eligibles": [
-      "Malawi"
-    ],
-    "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [],
-    "lien_candidature": "https://apply.iie.org/huberthhumphrey",
-    "source_url": "https://mw.usembassy.gov/the-hubert-humphrey-fellowship-program-2/?fbclid=IwY2xjawSUPqhleHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrPNHv_RksK8BjdU404uJUrxCHwG0PvUfHtKOxWybVIhl4zAG150v_yCh5TI_aem_LNp7OlUb5DSjnXZ1H7KQAQ",
-    "statut": "ouvert",
-    "resume": "Le Hubert Humphrey Fellowship Program est un programme de bourses non diplômant destiné aux professionnels en milieu de carrière du Malawi. Il offre une année d'études de niveau graduate, de développement du leadership et de collaboration professionnelle aux États-Unis. Les candidats doivent être citoyens ou résidents permanents du Malawi, posséder au moins un diplôme universitaire de premier cycle, cinq ans d'expérience professionnelle et des qualités de leadership.",
-    "extrait_le": "2026-06-09T00:34:14",
-    "slug": "hubert-humphrey-fellowship-program"
-  },
-  {
-    "titre": "University of Calgary International Entrance Scholarship",
-    "organisation": "University of Calgary",
-    "montant": 20000,
-    "devise": "CAD",
-    "type_financement": "bourse complète",
-    "deadline": null,
-    "deadline_texte": null,
-    "niveau_etudes": [
-      "undergraduate"
-    ],
-    "domaines": [],
-    "pays_eligibles": [],
-    "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [],
-    "lien_candidature": "https://www.ucalgary.ca/registrar/awards/university-calgary-international-entrance-scholarship?fbclid=IwY2xjawSUXpJleHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrccSMA-_S_EIIXA84fE313OTyXrsmYP6tzFylpptTZ19ODRp286oFLuMGqR_aem_N2K7kjNYgrf9GIpLLg137Q",
-    "source_url": "https://www.ucalgary.ca/registrar/awards/university-calgary-international-entrance-scholarship?fbclid=IwY2xjawSUXpJleHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrccSMA-_S_EIIXA84fE313OTyXrsmYP6tzFylpptTZ19ODRp286oFLuMGqR_aem_N2K7kjNYgrf9GIpLLg137Q",
-    "statut": "ouvert",
-    "resume": "Cette bourse d'entrée internationale de l'Université de Calgary est offerte chaque année à deux étudiants internationaux de premier cycle. D'une valeur de 20 000 $ CAD renouvelable, elle exige un niveau d'anglais satisfaisant et est attribuée sur la base du mérite académique.",
-    "extrait_le": "2026-06-09T02:54:29",
-    "slug": "university-of-calgary-international-entrance-scholarship"
-  },
-  {
-    "titre": "Rosa Luxemburg Foundation: Scholarship Programme for International Doctoral Students",
-    "organisation": "Rosa Luxemburg Foundation",
-    "montant": 1520,
-    "devise": "EUR",
-    "type_financement": "fellowship",
-    "deadline": null,
-    "deadline_texte": "1 October of each year",
-    "niveau_etudes": [
-      "phd"
-    ],
-    "domaines": [],
-    "pays_eligibles": [],
-    "age_maximum": null,
-    "langue_requise": null,
-    "documents_requis": [],
-    "lien_candidature": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000220",
-    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000220&fbclid=IwY2xjawSUYEtleHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsSZWJmm7mw18cXyaoBusuwlpXdpDsy4SK1ze5BL6PzftVKZAggX_d1XR8Kz_aem_Lsy4yXyvTvv6qRuxXbCC2A",
-    "statut": "ouvert",
-    "resume": "La Fondation Rosa Luxemburg offre des bourses aux doctorants internationaux pour réaliser leur thèse en Allemagne ou y effectuer un séjour de recherche. Les candidats doivent être acceptés dans un établissement d'enseignement supérieur allemand ou étranger et être supervisés par un professeur en Allemagne. La bourse mensuelle est de 1 400 EUR, complétée par une allocation de mobilité de 100 EUR et une somme forfaitaire de 20 EUR.",
-    "extrait_le": "2026-06-09T02:57:40",
-    "slug": "rosa-luxemburg-foundation-scholarship-programme-for-international-doctoral-students"
-  },
-  {
-    "titre": "Study scholarships for STEM disciplines",
+    "titre": "Bourse DAAD pour les matières STEM en Allemagne 2026",
+    "seo_slug": "bourse-daad-stem-master-allemagne-2026",
     "organisation": "DAAD",
-    "montant": 992,
+    "montant": null,
     "devise": "EUR",
     "type_financement": "bourse complète",
-    "deadline": null,
-    "deadline_texte": null,
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026",
     "niveau_etudes": [
-      "master"
+      "Master"
     ],
     "domaines": [
+      "Mathématiques",
+      "Informatique",
+      "Sciences naturelles",
+      "Ingénierie"
+    ],
+    "pays_eligibles": [
+      "Pays en développement et émergents"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand ou Anglais (selon programme)",
+    "documents_requis": [],
+    "avantages": [
+      "Financement complet du Master",
+      "Bourse mensuelle",
+      "Frais de voyage",
+      "Assurance",
+      "Allocation d'études"
+    ],
+    "eligibilite": [
+      "Être étudiant d'un pays en développement ou émergent",
+      "Avoir un premier diplôme reconnu en Allemagne (Bachelor) au plus tard à la date limite de candidature",
+      "Ne pas avoir déjà de Master",
+      "Être admis dans un programme de Master sans frais de scolarité en STEM dans une université allemande",
+      "Le programme doit débuter au semestre d'hiver 2026/27"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et les conditions sur le site DAAD",
+      "2. Trouver un programme de Master STEM sans frais de scolarité dans une université allemande",
+      "3. Préparer les documents requis (diplômes, relevés de notes, lettre de motivation, CV, etc.)",
+      "4. Soumettre la candidature via le portail DAAD avant la date limite"
+    ],
+    "contacts": [
+      "info.nairobi@daad.de",
+      "+254 (733) 92 99 29"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.daad-kenya.org/en/2026/06/03/the-call-for-scholarships-for-stem-subjects-is-out/"
+      },
+      {
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/studying-in-germany/scholarships/information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Plus d'informations sur la bourse",
+        "url": "http://daad.de/go/en/stipa57742130"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "master STEM",
+      "Allemagne",
+      "pays en développement",
+      "2026",
       "mathématiques",
       "informatique",
       "sciences naturelles",
       "ingénierie"
     ],
-    "pays_eligibles": [
-      "pays en développement et émergents"
-    ],
-    "age_maximum": null,
-    "langue_requise": "anglais",
-    "documents_requis": [
-      "CV",
-      "lettre de motivation",
-      "relevés de notes",
-      "diplômes",
-      "preuve de compétences linguistiques"
-    ],
-    "lien_candidature": "https://www.daad-kenya.org/en/2026/06/03/the-call-for-scholarships-for-stem-subjects-is-out/",
-    "source_url": "https://www.daad-kenya.org/en/2026/06/03/the-call-for-scholarships-for-stem-subjects-is-out/?fbclid=IwY2xjawSVR35leHRuA2FlbQIxMABicmlkETE1MnY0eWJSZ0hodFQyVnNPc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmlp5-__qk8SvObkNwzN9D5P5MHxxRSaft2dH1fi0AOzRj8pK6_LB5pzdNhj_aem_kKFU4F7Y4c8C1Z3fbtf31Q",
+    "lien_candidature": "http://daad.de/go/en/stipa57742130",
+    "source_url": "https://www.daad-kenya.org/en/2026/06/03/the-call-for-scholarships-for-stem-subjects-is-out/",
     "statut": "ouvert",
-    "resume": "Cette bourse DAAD finance un master complet en STEM (mathématiques, informatique, sciences naturelles, ingénierie) dans une université allemande. Elle s'adresse aux étudiants de pays en développement et émergents, avec une allocation mensuelle de 992 euros, une assurance, une indemnité de voyage et une allocation d'études annuelle. La sélection se fait sur dossier et entretien, et le programme doit débuter au semestre d'hiver 2027/2028.",
-    "extrait_le": "2026-06-10T00:39:32",
-    "slug": "study-scholarships-for-stem-disciplines"
+    "resume": "Le DAAD offre une bourse complète pour un Master en STEM (mathématiques, informatique, sciences naturelles, ingénierie) dans une université allemande aux étudiants de pays en développement et émergents. Le programme finance les frais de voyage, une bourse mensuelle et une assurance. Les candidatures sont ouvertes pour le semestre d'hiver 2026/27.",
+    "adresse": "Madison Insurance House, 3rd floor, Upper Hill Close, P.O. Box 14050 00800 Nairobi",
+    "extrait_le": "2026-06-15T03:20:26",
+    "slug": "bourse-daad-stem-master-allemagne-2026"
   },
   {
-    "titre": "Rhodes Scholarship",
-    "organisation": "Rhodes Trust",
+    "titre": "Bourses postdoctorales ETH",
+    "seo_slug": "bourses-postdoctorales-eth-zurich-2026",
+    "organisation": "ETH Zurich",
+    "montant": null,
+    "devise": "CHF",
+    "type_financement": "bourse complète",
+    "deadline": "2026-09-01",
+    "deadline_texte": "1 mars et 1 septembre de chaque année à 17h00 heure suisse",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Description du projet (partie 1 et 2)",
+      "Lettre d'invitation du professeur hôte",
+      "Deux lettres de recommandation externes",
+      "Certificat de doctorat ou attestation de date de soutenance"
+    ],
+    "avantages": [
+      "Salaire (100%, basé sur les standards ETH)",
+      "12 000 CHF par an pour les frais de recherche (incluant voyages et mobilité)"
+    ],
+    "eligibilite": [
+      "Les candidats doivent détenir un doctorat ou le terminer dans les 6 mois suivant la date limite",
+      "Doctorat obtenu au maximum 2 ans avant la date limite",
+      "Ne pas avoir obtenu le doctorat à l'ETH Zurich ou à l'Université de Zurich",
+      "Ne pas avoir résidé ou exercé une activité principale en Suisse pendant plus de 12 mois au cours des 3 dernières années",
+      "Ne pas avoir exercé une activité principale à l'ETH Zurich, EPF Lausanne, instituts de recherche du domaine ETH (PSI, WSL, Empa, Eawag) ou Université de Zurich pendant plus de 6 mois au cours des 3 dernières années",
+      "Avoir au moins une publication scientifique dans une revue à comité de lecture ou avoir reçu un prix pour la thèse de doctorat",
+      "Être soutenu par un professeur de l'ETH Zurich agissant comme mentor"
+    ],
+    "procedure_etapes": [
+      "1. Télécharger les modèles de description de projet (partie 1 et 2).",
+      "2. Remplir les modèles et préparer tous les documents requis (convertir en PDF).",
+      "3. S'inscrire sur eResearch (https://eresearch.ethz.ch) et créer un compte.",
+      "4. Cliquer sur 'My Applications' puis 'New Application' et sélectionner l'appel.",
+      "5. Remplir tous les champs obligatoires et télécharger les pièces jointes.",
+      "6. Ajouter le professeur hôte sur la page 'Participants' (il recevra un email pour télécharger ses documents).",
+      "7. Ajouter les deux référents sur la page 'References' et leur demander d'envoyer les lettres directement au Grants Office au moins 10 jours avant la date limite.",
+      "8. Valider le formulaire via 'Validation Summary', corriger les erreurs, puis cliquer sur 'Save And Close'.",
+      "9. Soumettre la candidature en cliquant sur 'Submit'.",
+      "10. Télécharger un PDF de la candidature pour vos archives."
+    ],
+    "contacts": [
+      "ethfellows@sl.ethz.ch",
+      "grantsoffice@ethz.ch"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://grantsoffice.ethz.ch/funding-opportunities/internal/eth-fellowships.html?fbclid=IwY2xjawSa3LZleHRuA2FlbQIxMABicmlkETEwSklXNXY0dWk1eFJXZ2Roc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHklDJ-WiNPUuhpZHCIZTtz3LzzW3MJOaMgqNSW2rGkXyp2j_pDG9-u8BZv0h_aem_Szi81vkvYCf3Kjad0YlOXQ"
+      },
+      {
+        "label": "Lignes directrices (PDF)",
+        "url": "https://ethz.ch/content/dam/ethz/main/research/Forschungsf%C3%B6rderung/ETH%20Fellows/ETHFellowsGuidelines.pdf"
+      },
+      {
+        "label": "Instructions CV (PDF)",
+        "url": "https://ethz.ch/content/dam/ethz/main/research/Forschungsf%C3%B6rderung/ETH%20Fellows/ETHFellowsCvInstructions.pdf"
+      },
+      {
+        "label": "FAQ (PDF)",
+        "url": "https://ethz.ch/content/dam/ethz/main/research/Forschungsf%C3%B6rderung/ETH%20Fellows/ETHFellowsFAQ.pdf"
+      },
+      {
+        "label": "Modèle description de projet partie 1 (DOCX)",
+        "url": "https://ethz.ch/content/dam/ethz/main/research/Forschungsf%C3%B6rderung/ETH%20Fellows/ETHFellowsProjectDescription_Part1.docx"
+      },
+      {
+        "label": "Modèle description de projet partie 2 (DOCX)",
+        "url": "https://ethz.ch/content/dam/ethz/main/research/Forschungsf%C3%B6rderung/ETH%20Fellows/ETHFellowsProjectDescription_Part2.docx"
+      },
+      {
+        "label": "Système de candidature eResearch",
+        "url": "https://eresearch.ethz.ch"
+      },
+      {
+        "label": "Commission de recherche ETH Zurich",
+        "url": "https://ethz.ch/en/the-eth-zurich/organisation/boards-university-groups-commissions/research-commission.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "ETH Zurich",
+      "postdoc",
+      "Suisse",
+      "recherche",
+      "financement",
+      "bourse complète",
+      "chercheurs",
+      "2026"
+    ],
+    "lien_candidature": "https://eresearch.ethz.ch/Login.aspx?ReturnUrl=%2f",
+    "source_url": "https://grantsoffice.ethz.ch/funding-opportunities/internal/eth-fellowships.html?fbclid=IwY2xjawSa3LZleHRuA2FlbQIxMABicmlkETEwSklXNXY0dWk1eFJXZ2Roc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHklDJ-WiNPUuhpZHCIZTtz3LzzW3MJOaMgqNSW2rGkXyp2j_pDG9-u8BZv0h_aem_Szi81vkvYCf3Kjad0YlOXQ",
+    "statut": "ouvert",
+    "resume": "Le programme ETH Fellowships de l'ETH Zurich offre des bourses postdoctorales prestigieuses aux jeunes chercheurs ayant démontré une excellence scientifique. D'une durée de deux ans, la bourse couvre le salaire complet et alloue 12 000 CHF par an pour les frais de recherche. Les candidatures, soutenues par un professeur hôte, sont évaluées deux fois par an avec un taux de succès de 15 à 20 %. Les candidats doivent avoir obtenu leur doctorat depuis moins de deux ans et ne pas avoir résidé en Suisse plus de 12 mois.",
+    "extrait_le": "2026-06-15T02:06:10",
+    "slug": "bourses-postdoctorales-eth-zurich-2026"
+  },
+  {
+    "titre": "Fondation Rosa Luxemburg : Programme de bourses pour doctorants internationaux",
+    "seo_slug": "bourse-rosa-luxemburg-doctorat-allemagne",
+    "organisation": "Rosa Luxemburg Foundation",
+    "montant": 1520,
+    "devise": "EUR",
+    "type_financement": "bourse mensuelle",
+    "deadline": "2026-10-01",
+    "deadline_texte": "1er octobre de chaque année",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Toutes disciplines sauf médicales"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand (B2 minimum)",
+    "documents_requis": [
+      "Diplôme de très bon niveau",
+      "Preuve d'acceptation dans une université allemande",
+      "Preuve de compétence en allemand B2",
+      "Preuve d'engagement social"
+    ],
+    "avantages": [
+      "Allocation mensuelle de 1400 EUR",
+      "Allocation de mobilité de 100 EUR",
+      "Allocation forfaitaire supplémentaire de 20 EUR"
+    ],
+    "eligibilite": [
+      "Doctorants internationaux particulièrement talentueux",
+      "Acceptation dans un établissement d'enseignement supérieur public ou accrédité en Allemagne ou à l'étranger",
+      "Supervision par un professeur d'université en Allemagne",
+      "Engagement social en accord avec les valeurs de la Fondation Rosa Luxemburg",
+      "Ne pas avoir séjourné en Allemagne plus de 15 mois au moment de la candidature (sauf études antérieures ou début du doctorat/séjour de recherche il y a plus de 15 mois)"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'éligibilité et les documents requis.",
+      "2. Préparer le dossier de candidature (diplômes, preuve d'acceptation, preuve de langue, preuve d'engagement social).",
+      "3. Soumettre la candidature via le portail DAAD avant le 1er octobre.",
+      "4. Consulter les informations supplémentaires sur le site de la Fondation Rosa Luxemburg."
+    ],
+    "contacts": [
+      "Rosa Luxemburg Foundation, Straße der Pariser Kommune 8A, 10243 Berlin, Germany",
+      "+49 (228) 882-180"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000220"
+      },
+      {
+        "label": "Visitez le site :",
+        "url": "https://www.rosalux.de/stiftung/studienwerk/stipendien/promotionsstipendium"
+      },
+      {
+        "label": "Site officiel de la Fondation Rosa Luxemburg",
+        "url": "https://www.rosalux.de/stiftung/studienwerk/stipendien/promotionsstipendium"
+      },
+      {
+        "label": "Page d'information sur la procédure de candidature",
+        "url": "https://www.rosalux.de/en/foundation/studienwerk/scholarships/doctoral-scholarship"
+      },
+      {
+        "label": "Informations importantes pour les candidats aux bourses DAAD",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Version PDF de l'annonce",
+        "url": "https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database.pdf?detail=10000220"
+      },
+      {
+        "label": "Exigences techniques du portail",
+        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat allemagne",
+      "fondation rosa luxemburg",
+      "bourse internationale doctorat",
+      "bourse DAAD",
+      "doctorat allemagne financement"
+    ],
+    "lien_candidature": "https://www.rosalux.de/stiftung/studienwerk/stipendien/promotionsstipendium",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000220",
+    "statut": "ouvert",
+    "resume": "La Fondation Rosa Luxemburg propose un programme de bourses pour doctorants internationaux souhaitant réaliser leur thèse en Allemagne. D'une durée maximale de 3 ans, la bourse comprend une allocation mensuelle de 1400 EUR, une allocation de mobilité de 100 EUR et un forfait de 20 EUR. Les candidats doivent être acceptés dans une université allemande, justifier d'un très bon diplôme, d'un engagement social et d'un niveau d'allemand B2. La date limite de candidature est le 1er octobre de chaque année.",
+    "adresse": "Rosa Luxemburg Foundation Straße der Pariser Kommune 8A 10243 Berlin Germany",
+    "extrait_le": "2026-06-15T02:25:10",
+    "slug": "bourse-rosa-luxemburg-doctorat-allemagne"
+  },
+  {
+    "titre": "Bourses de recherche pour diplômés - Université de Melbourne",
+    "seo_slug": "bourse-recherche-melbourne-2026",
+    "organisation": "University of Melbourne",
+    "montant": 39500,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-31",
+    "deadline_texte": "31 octobre 2026",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences agricoles et vétérinaires",
+      "Architecture, bâtiment, urbanisme et design",
+      "Arts, sciences humaines et sociales",
+      "Commerce et économie",
+      "Éducation",
+      "Ingénierie",
+      "Environnement",
+      "Santé",
+      "Technologies de l'information et informatique",
+      "Droit",
+      "Musique, arts visuels et du spectacle",
+      "Sciences"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Candidature au cours de recherche",
+      "Formulaire en ligne (pour étudiants différés ou actuels)"
+    ],
+    "avantages": [
+      "Exonération totale des frais de scolarité",
+      "Allocation de subsistance de 39 500 AUD par an",
+      "Prime de réinstallation de 2 000 AUD (déplacement depuis un autre État/territoire) ou 3 000 AUD (depuis l'étranger)",
+      "Couverture santé OSHC pour étudiants internationaux"
+    ],
+    "eligibilite": [
+      "Avoir postulé et satisfaire aux conditions d'admission à un diplôme de recherche supérieure à l'Université de Melbourne",
+      "Être actuellement inscrit dans un diplôme de recherche supérieure à l'Université de Melbourne",
+      "Être un étudiant national ou international"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un cours de recherche supérieure (Master par recherche ou Doctorat) à l'Université de Melbourne avant la date limite de candidature du cours.",
+      "2. Si vous êtes un nouvel étudiant, vous serez automatiquement considéré pour la bourse après avoir soumis votre candidature au cours.",
+      "3. Si vous avez accepté une offre de cours et différé votre commencement, soumettez le formulaire en ligne avant le 31 octobre pour être considéré l'année suivante.",
+      "4. Si vous êtes actuellement inscrit, soumettez le formulaire en ligne avant le 31 octobre pour être considéré l'année suivante.",
+      "5. Attendez la notification de l'ajout de la candidature à votre dossier (sous 10 jours ouvrés).",
+      "6. Les offres de bourses avec allocation et exonération sont faites séparément, généralement en même temps que les offres de cours."
+    ],
+    "contacts": [
+      "+61 3 9035 5511"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships"
+      },
+      {
+        "label": "Gérer ma bourse",
+        "url": "https://gradresearch.unimelb.edu.au/scholarships"
+      },
+      {
+        "label": "Conditions générales des bourses de recherche pour diplômés",
+        "url": "https://gradresearch.unimelb.edu.au/scholarships/graduate-research-scholarship-terms-and-conditions"
+      },
+      {
+        "label": "Guide des bourses",
+        "url": "https://scholarships.unimelb.edu.au/guide"
+      },
+      {
+        "label": "Comment postuler à un cours de recherche supérieure",
+        "url": "https://study.unimelb.edu.au/how-to-apply/graduate-research"
+      },
+      {
+        "label": "Formulaire de candidature en ligne (pour étudiants différés ou actuels)",
+        "url": "https://unimelb_admissions_scholarships.formstack.com/forms/graduate_research_scholarships_application"
+      }
+    ],
+    "mots_cles": [
+      "bourse recherche Melbourne",
+      "bourse doctorat Australie",
+      "bourse master recherche",
+      "University of Melbourne scholarship",
+      "bourse internationale Australie",
+      "Graduate Research Scholarship",
+      "bourse RTP",
+      "bourse MRS"
+    ],
+    "lien_candidature": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
+    "source_url": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
+    "statut": "ouvert",
+    "resume": "Les bourses de recherche pour diplômés de l'Université de Melbourne offrent une exonération totale des frais de scolarité et une allocation de subsistance pouvant atteindre 135 000 AUD sur la durée du programme. Destinées aux étudiants nationaux et internationaux de haut niveau inscrits en Master par recherche ou Doctorat, elles incluent également une prime de réinstallation et une couverture santé. La candidature est automatique pour les nouveaux étudiants, tandis que les étudiants actuels ou différés doivent soumettre un formulaire en ligne avant le 31 octobre.",
+    "adresse": "The University of Melbourne Grattan Street, Parkville Victoria 3010 Australia",
+    "extrait_le": "2026-06-15T02:58:04",
+    "slug": "bourse-recherche-melbourne-2026"
+  },
+  {
+    "titre": "Master en ligne de l'Université de Salford - 1 an - 100% en ligne",
+    "seo_slug": "master-en-ligne-salford-1-an",
+    "organisation": "University of Salford",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Administration des affaires",
+      "Gestion globale",
+      "Gestion de projet",
+      "Gestion des services financiers",
+      "Approvisionnement, logistique et gestion de la chaîne d'approvisionnement",
+      "Marketing",
+      "Gestion des ressources humaines",
+      "Gestion des systèmes d'information",
+      "Banque et finance internationales",
+      "Comptabilité et finance",
+      "Commerce international avec droit",
+      "Finance d'entreprise internationale",
+      "Gestion d'événements internationaux",
+      "Commerce numérique",
+      "Fraude et gestion des risques",
+      "Gestion des opérations",
+      "Finance et gestion des investissements",
+      "Droit commercial international (LLM)"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de demande",
+      "Diplômes",
+      "CV"
+    ],
+    "avantages": [
+      "Diplôme accrédité par le gouvernement britannique",
+      "Études 100% en ligne",
+      "Diplôme en 1 an",
+      "Flexibilité horaire"
+    ],
+    "eligibilite": [
+      "Avoir un diplôme de premier cycle",
+      "Maîtrise de l'anglais"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire sur la page",
+      "2. Recevoir le catalogue des cours",
+      "3. Postuler au programme choisi"
+    ],
+    "contacts": [
+      "hello@rkc.edu",
+      "+41 58 122 1111"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.rkc.edu/catalogue?r=masters_mt&j=fbSunWnew&utm_medium=paid&utm_source=fb&utm_id=6627446424267&utm_content=6627454998267&utm_term=6627448444267&utm_campaign=6627446424267&fbclid=IwY2xjawSUMpFleHRuA2FlbQEwAGFkaWQAAAZdiO7do3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR71BFDN0kOKE1JKPnxMxewZQLMGLBm2LdAFly-bCZtNMfHsl7qyOAMwIy-t6g_aem_kR2v99DngNrLVZsPDEUslw"
+      },
+      {
+        "label": "Politique de confidentialité",
+        "url": "https://www.rkc.edu/privacy-policy"
+      }
+    ],
+    "mots_cles": [
+      "master en ligne",
+      "université de salford",
+      "master 1 an",
+      "formation à distance",
+      "diplôme britannique"
+    ],
+    "lien_candidature": "https://www.rkc.edu/catalogue?r=masters_mt&j=fbSunWnew&utm_medium=paid&utm_source=fb&utm_id=6627446424267&utm_content=6627454998267&utm_term=6627448444267&utm_campaign=6627446424267&fbclid=IwY2xjawSUMpFleHRuA2FlbQEwAGFkaWQAAAZdiO7do3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR71BFDN0kOKE1JKPnxMxewZQLMGLBm2LdAFly-bCZtNMfHsl7qyOAMwIy-t6g_aem_kR2v99DngNrLVZsPDEUslw",
+    "source_url": "https://www.rkc.edu/catalogue?r=masters_mt&j=fbSunWnew&utm_medium=paid&utm_source=fb&utm_id=6627446424267&utm_content=6627454998267&utm_term=6627448444267&utm_campaign=6627446424267&fbclid=IwY2xjawSUMpFleHRuA2FlbQEwAGFkaWQAAAZdiO7do3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR71BFDN0kOKE1JKPnxMxewZQLMGLBm2LdAFly-bCZtNMfHsl7qyOAMwIy-t6g_aem_kR2v99DngNrLVZsPDEUslw",
+    "statut": "ouvert",
+    "resume": "L'Université de Salford propose des masters en ligne accrédités par le gouvernement britannique, réalisables en un an. Accessibles à distance, ces programmes couvrent de nombreux domaines comme la gestion, la finance ou le marketing. Les étudiants bénéficient d'une flexibilité totale et d'un diplôme reconnu internationalement.",
+    "adresse": "Head Office Kantonsstrasse 25 8807 Freienbach Switzerland",
+    "extrait_le": "2026-06-15T02:09:46",
+    "slug": "master-en-ligne-salford-1-an"
+  },
+  {
+    "titre": "Bourses UoPeople",
+    "seo_slug": "bourses-uopeople-2026",
+    "organisation": "University of the People (UoPeople)",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse partielle",
+    "deadline": null,
+    "deadline_texte": "Premier arrivé, premier servi",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Lettre de motivation expliquant le besoin financier"
+    ],
+    "avantages": [
+      "Prise en charge des frais d'évaluation (assessment fees)",
+      "Prise en charge des frais de candidature"
+    ],
+    "eligibilite": [
+      "Être admis à UoPeople",
+      "Avoir des difficultés financières",
+      "Avoir commencé les cours (possible)"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à l'admission à UoPeople via le lien apply.uopeople.edu",
+      "2. Une fois accepté, se connecter au portail étudiant (portal.uopeople.edu)",
+      "3. Aller dans la page Funding pour demander une bourse"
+    ],
+    "contacts": [
+      "admissions@uopeople.edu",
+      "+1 (626) 264-8880"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page d'admission",
+        "url": "https://apply.uopeople.edu/"
+      },
+      {
+        "label": "Portail étudiant",
+        "url": "https://portal.uopeople.edu/login"
+      },
+      {
+        "label": "Conditions générales des bourses",
+        "url": "https://uopeople.edu/tuition-free/scholarships/terms-conditions-uopeoples-scholarships/"
+      },
+      {
+        "label": "FAQ sur les bourses",
+        "url": "https://www.uopeople.edu/faq"
+      }
+    ],
+    "mots_cles": [
+      "bourse uopeople",
+      "université en ligne gratuite",
+      "bourse frais d'évaluation",
+      "bourse premier arrivé premier servi",
+      "bourse sans frais de scolarité"
+    ],
+    "lien_candidature": "https://apply.uopeople.edu/",
+    "source_url": "https://www.uopeople.edu/tuition-free/scholarships/",
+    "statut": "ouvert",
+    "resume": "L'University of the People (UoPeople) propose des bourses aux étudiants rencontrant des difficultés financières pour couvrir les frais d'évaluation et de candidature. Les bourses sont attribuées selon le principe du premier arrivé, premier servi. Pour postuler, il faut d'abord être admis à UoPeople, puis faire une demande via le portail étudiant. Aucune pièce justificative financière n'est demandée, seulement une lettre expliquant le besoin.",
+    "adresse": "221 West 10th St., 4th Floor #415 Wilmington, DE 19801",
+    "extrait_le": "2026-06-15T02:14:12",
+    "slug": "bourses-uopeople-2026"
+  },
+  {
+    "titre": "Bourses et réductions de l'Université d'Essex Online",
+    "seo_slug": "bourses-essex-online-2026",
+    "organisation": "University of Essex Online",
+    "montant": null,
+    "devise": "GBP",
+    "type_financement": "réduction de frais de scolarité",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Business",
+      "Finance",
+      "Marketing",
+      "Santé publique",
+      "Informatique",
+      "Cybersécurité",
+      "Éducation numérique",
+      "Gestion des technologies",
+      "Santé mentale",
+      "Psychologie organisationnelle"
+    ],
+    "pays_eligibles": [
+      "Afrique",
+      "Régions hors Royaume-Uni"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Réduction de 5% pour paiement intégral",
+      "Réduction de 10% pour anciens diplômés",
+      "Réduction de 10% pour partenaires corporatifs",
+      "Bourse régionale améliorée jusqu'à 20%",
+      "Bourse de cours de 10%"
+    ],
+    "eligibilite": [
+      "Étudier en ligne (non sur campus)",
+      "Pour la réduction de 5% : paiement intégral anticipé",
+      "Pour la réduction anciens diplômés : être diplômé de l'Université d'Essex ou d'Essex Online",
+      "Pour la réduction corporative : organisation avec 3+ employés ou à but non lucratif",
+      "Pour la bourse régionale améliorée : résider dans une région spécifique hors UK (Afrique : 20%)",
+      "Pour la bourse de cours : être admis dans un des Masters listés"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un cours en ligne via le site",
+      "2. Recevoir une lettre d'offre officielle",
+      "3. La bourse/réduction est appliquée automatiquement"
+    ],
+    "contacts": [
+      "enquiries@online.essex.ac.uk",
+      "+44 (0) 1206 489 358"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://online.essex.ac.uk/discounts-and-scholarships/"
+      },
+      {
+        "label": "Télécharger une brochure",
+        "url": "https://online.essex.ac.uk/prospectus-2"
+      },
+      {
+        "label": "Postuler maintenant",
+        "url": "https://online.essex.ac.uk/apply"
+      },
+      {
+        "label": "Réduction corporative",
+        "url": "https://online.essex.ac.uk/corporate-discounts/"
+      },
+      {
+        "label": "Contacter l'équipe des admissions",
+        "url": "https://online.essex.ac.uk/contact-us/"
+      },
+      {
+        "label": "ELCAS",
+        "url": "http://www.enhancedlearningcredits.com/"
+      },
+      {
+        "label": "Ressources Health Careers",
+        "url": "https://www.healthcareers.nhs.uk/career-planning/developing-your-health-career/doing-masters-degree"
+      },
+      {
+        "label": "Public Health",
+        "url": "https://www.publichealth.org/"
+      },
+      {
+        "label": "World Bank",
+        "url": "http://web.worldbank.org/"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "réduction",
+      "Essex Online",
+      "Master",
+      "licence",
+      "2026",
+      "Afrique",
+      "cours en ligne"
+    ],
+    "lien_candidature": "https://online.essex.ac.uk/apply",
+    "source_url": "https://online.essex.ac.uk/discounts-and-scholarships/",
+    "statut": "ouvert",
+    "resume": "L'Université d'Essex Online propose plusieurs réductions et bourses pour ses cours en ligne, notamment une réduction de 5% pour paiement intégral, 10% pour anciens diplômés, 10% pour partenaires corporatifs, une bourse régionale améliorée jusqu'à 20% pour les étudiants hors UK (dont 20% pour l'Afrique) et des bourses de cours de 10% pour certains Masters. Les candidatures se font en ligne et les bourses sont appliquées automatiquement après réception de l'offre.",
+    "extrait_le": "2026-06-15T02:37:38",
+    "slug": "bourses-essex-online-2026"
+  },
+  {
+    "titre": "Programme de Formation à la Recherche (RTP) - Bourse du Gouvernement Australien",
+    "seo_slug": "bourse-rtp-recherche-australie-2026",
+    "organisation": "Australian Government Department of Education",
+    "montant": 34315,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "À déterminer par chaque établissement",
+    "niveau_etudes": [
+      "Doctorat",
+      "Master de recherche"
+    ],
+    "domaines": [
+      "Tous les domaines de recherche"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "À déterminer par chaque établissement"
+    ],
+    "avantages": [
+      "Prise en charge des frais de scolarité",
+      "Allocation de subsistance (stipend)",
+      "Allocations pour frais annexes"
+    ],
+    "eligibilite": [
+      "Être admis dans un programme de recherche (doctorat ou master) dans un établissement d'enseignement supérieur australien éligible",
+      "Être un étudiant domestique ou international"
+    ],
+    "procedure_etapes": [
+      "1. Choisir un établissement d'enseignement supérieur éligible en Australie",
+      "2. Contacter directement l'établissement pour connaître les modalités de candidature",
+      "3. Soumettre le dossier de candidature selon les procédures de l'établissement"
+    ],
+    "contacts": [
+      "RBGrants@education.gov.au",
+      "1300 566 046"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.education.gov.au/research-block-grants/research-training-program?fbclid=IwY2xjawSICpdleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqAQhRMJF1O7XN7W5gu4vN92scK9EEfrxD-_O7IiHLkRF3SF1yjqFyd-ZCYY_aem_Zd53PTzzyfkDhXdAYioRjw"
+      },
+      {
+        "label": "FAQ pour les étudiants",
+        "url": "https://www.education.gov.au/research-block-grants/research-training-program/research-training-program-frequently-asked-questions-students"
+      },
+      {
+        "label": "FAQ pour les administrateurs",
+        "url": "https://www.education.gov.au/research-block-grants/research-training-program/research-training-program-rtp-frequently-asked-questions-university-administrators"
+      },
+      {
+        "label": "FAQ sur le stage industriel RTP",
+        "url": "https://www.education.gov.au/research-block-grants/research-training-program/faqs-research-training-program-industry-internship-weighting"
+      },
+      {
+        "label": "Liste des établissements éligibles",
+        "url": "https://www.education.gov.au/research-block-grants/higher-education-providers-eligible-research-block-grants"
+      },
+      {
+        "label": "Lignes directrices 2025",
+        "url": "https://www.legislation.gov.au/F2025L01474/asmade/text"
+      },
+      {
+        "label": "Montants des subventions RTP 2026",
+        "url": "https://www.education.gov.au/research-block-grants/resources/2026-research-block-grant-allocations"
+      },
+      {
+        "label": "Calcul des allocations RTP",
+        "url": "https://www.education.gov.au/research-block-grants/resources/calculation-research-training-program-allocations"
+      },
+      {
+        "label": "Taux historiques des bourses",
+        "url": "https://www.education.gov.au/research-block-grants/resources/historical-stipend-rates-postgraduate-scholarships"
+      },
+      {
+        "label": "Fiche d'information sur les griefs",
+        "url": "https://www.education.gov.au/research-block-grants/resources/higher-degree-research-student-grievance-fact-sheet"
+      }
+    ],
+    "mots_cles": [
+      "bourse recherche australie",
+      "RTP",
+      "doctorat australie",
+      "master recherche australie",
+      "bourse gouvernement australien",
+      "financement these australie",
+      "bourse internationale australie"
+    ],
+    "lien_candidature": "https://www.education.gov.au/research-block-grants/research-training-program",
+    "source_url": "https://www.education.gov.au/research-block-grants/research-training-program?fbclid=IwY2xjawSICpdleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqAQhRMJF1O7XN7W5gu4vN92scK9EEfrxD-_O7IiHLkRF3SF1yjqFyd-ZCYY_aem_Zd53PTzzyfkDhXdAYioRjw",
+    "statut": "ouvert",
+    "resume": "Le Research Training Program (RTP) est une bourse du gouvernement australien destinée aux étudiants de doctorat et de master de recherche, nationaux et internationaux. Elle offre une prise en charge des frais de scolarité, une allocation de subsistance (jusqu'à 53 608 AUD par an en 2026) et des allocations pour frais annexes. Les candidatures se font directement auprès des établissements d'enseignement supérieur éligibles en Australie.",
+    "adresse": "Department of Education GPO Box 9880 Canberra ACT 2601 Australia",
+    "extrait_le": "2026-06-15T02:43:47",
+    "slug": "bourse-rtp-recherche-australie-2026"
+  },
+  {
+    "titre": "Bourse de Voyage Alex Rodgers",
+    "seo_slug": "bourse-voyage-alex-rodgers-anu-2026",
+    "organisation": "Australian National University (ANU)",
+    "montant": 5000,
+    "devise": "AUD",
+    "type_financement": "subvention de voyage",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Astronomie",
+      "Astrophysique"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature MSO Travel Grant"
+    ],
+    "avantages": [
+      "Jusqu'à 5 000 AUD par an (remboursement unique)"
+    ],
+    "eligibilite": [
+      "Être étudiant à temps plein du Doctorat en Astronomie et Astrophysique à la RSAA",
+      "Ne pas avoir déjà reçu cette bourse",
+      "Être citoyen australien, néo-zélandais, résident permanent australien ou étudiant international"
+    ],
+    "procedure_etapes": [
+      "1. Compléter le formulaire de candidature MSO Travel Grant",
+      "2. Soumettre le dossier"
+    ],
+    "contacts": [
+      "rsaa.sa@anu.edu.au",
+      "graduate.enquiries@mso.anu.edu.au",
+      "02 6125 0221"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://study.anu.edu.au/scholarships/find-scholarship/alex-rodgers-travel-grant"
+      },
+      {
+        "label": "Visitez le site :",
+        "url": "https://www.mso.anu.edu.au/intranet/wiki/student/travel_funding"
+      },
+      {
+        "label": "Conditions de la bourse (PDF)",
+        "url": "https://d3gu8jtw4r0om.cloudfront.net/files/2024-11/Conditions%20of%20Award%20-%20Alex%20Rodgers%20Travel%20Grant%20-%201372024.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse voyage",
+      "doctorat astronomie",
+      "ANU",
+      "Australie",
+      "subvention recherche",
+      "Alex Rodgers"
+    ],
+    "lien_candidature": "https://www.mso.anu.edu.au/intranet/wiki/student/travel_funding",
+    "source_url": "https://study.anu.edu.au/scholarships/find-scholarship/alex-rodgers-travel-grant",
+    "statut": "ouvert",
+    "resume": "La Bourse de Voyage Alex Rodgers, offerte par la Research School of Astronomy & Astrophysics de l'ANU, soutient les étudiants en doctorat en astronomie et astrophysique pour des déplacements à l'étranger (conférences ou collaborations). D'un montant unique de 5 000 AUD par remboursement, elle est attribuée sur critères académiques à deux étudiants par an. Les candidatures sont ouvertes aux étudiants domestiques et internationaux.",
+    "adresse": "Associate Director HDR, RSAA or Senior Student Administrator, RSAA",
+    "extrait_le": "2026-06-15T02:50:57",
+    "slug": "bourse-voyage-alex-rodgers-anu-2026"
+  },
+  {
+    "titre": "Bourse d'entrée internationale de l'Université de Calgary",
+    "seo_slug": "bourse-entree-internationale-calgary-2026",
+    "organisation": "University of Calgary",
+    "montant": 20000,
+    "devise": "CAD",
+    "type_financement": "bourse partielle",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "Tous les pays (hors Canada)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Candidature via My UCalgary Portal: High School Prestige Awards"
+    ],
+    "avantages": [
+      "20 000 $ CAD (renouvelable)"
+    ],
+    "eligibilite": [
+      "Étudiant international de premier cycle",
+      "Entrée en première année à l'automne",
+      "Avoir satisfait aux exigences de compétence en anglais",
+      "Payer les frais de scolarité internationaux",
+      "Ne pas être citoyen canadien ou résident permanent",
+      "Mérite académique"
+    ],
+    "procedure_etapes": [
+      "1. Postuler via le portail My UCalgary: High School Prestige Awards"
+    ],
+    "contacts": [
+      "1-855-246-7625"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature My UCalgary",
+        "url": "https://ucalgary.ca/registrar/finances/awards-scholarships-and-bursaries/entrance"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "université calgary",
+      "international",
+      "licence",
+      "entrée",
+      "canada",
+      "20000"
+    ],
+    "lien_candidature": "https://ucalgary.ca/registrar/finances/awards-scholarships-and-bursaries/entrance",
+    "source_url": "https://www.ucalgary.ca/registrar/awards/university-calgary-international-entrance-scholarship?fbclid=IwY2xjawSUXpJleHRuA2FlbQIxMABicmlkETE3aWFiU1I0UHdvbDdNV1Yzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrccSMA-_S_EIIXA84fE313OTyXrsmYP6tzFylpptTZ19ODRp286oFLuMGqR_aem_N2K7kjNYgrf9GIpLLg137Q",
+    "statut": "ouvert",
+    "resume": "La bourse d'entrée internationale de l'Université de Calgary offre 20 000 $ CAD renouvelables à deux étudiants internationaux de premier cycle. Destinée aux nouveaux entrants à l'automne, elle récompense le mérite académique et exige un niveau d'anglais suffisant. Les candidats doivent postuler via le portail My UCalgary High School Prestige Awards.",
+    "adresse": "University of Calgary–Office of the Registrar Hunter Student Commons, Room 220  2500 University Drive N.W.   Calgary AB T2N 1N4   Canada",
+    "extrait_le": "2026-06-15T03:11:21",
+    "slug": "bourse-entree-internationale-calgary-2026"
+  },
+  {
+    "titre": "Bourses de recherche de l'Université Griffith",
+    "seo_slug": "bourses-recherche-griffith-2026",
+    "organisation": "Griffith University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "multiple",
+    "deadline": null,
+    "deadline_texte": "Voir chaque bourse",
+    "niveau_etudes": [
+      "Doctorat",
+      "Master (recherche)"
+    ],
+    "domaines": [
+      "Tous les domaines de recherche"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Expression d'intérêt",
+      "Dossier de candidature"
+    ],
+    "avantages": [
+      "Frais de scolarité",
+      "Allocation de subsistance",
+      "Couverture santé pour étudiants étrangers"
+    ],
+    "eligibilite": [
+      "Être nouveau candidat en recherche",
+      "Critères de mérite",
+      "Critères spécifiques selon la bourse"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la base de données des bourses",
+      "2. Vérifier les critères d'éligibilité",
+      "3. Soumettre une expression d'intérêt avant la date limite",
+      "4. Postuler pour un diplôme de recherche et une bourse simultanément"
+    ],
+    "contacts": [
+      "Hdr-enquiry@griffith.edu.au",
+      "+61 7 3735 6425"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.griffith.edu.au/research-study/scholarships?fbclid=IwY2xjawSIDzpleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqf4yGVgJpe8rbaQ558PlFCp3FNYBlC-E5C3uh0-VmkJd-y5X5HPv5EK7DsG_aem_iy9R2kR0D6CrrJ0zqDiNOw"
+      },
+      {
+        "label": "Base de données des bourses",
+        "url": "https://www.griffith.edu.au/research-study/scholarships"
+      },
+      {
+        "label": "Conseils de candidature",
+        "url": "https://www.griffith.edu.au/research-study/scholarships/application-tips"
+      },
+      {
+        "label": "Dates clés",
+        "url": "https://www.griffith.edu.au/apply/research-study#keydates"
+      },
+      {
+        "label": "Bourse GUIPRS (frais de scolarité internationaux)",
+        "url": "https://www.griffith.edu.au/research-study/scholarships/guiprs"
+      },
+      {
+        "label": "Bourse GUPRS (mérite)",
+        "url": "https://www.griffith.edu.au/research-study/scholarships/guprs"
+      },
+      {
+        "label": "Bourse RTP (gouvernement australien)",
+        "url": "https://www.griffith.edu.au/research-study/scholarships/au-gov-research-training-program"
+      },
+      {
+        "label": "Bourse RTP International Fee Offset",
+        "url": "https://www.griffith.edu.au/research-study/scholarships/rtp-international-fee-offset"
+      },
+      {
+        "label": "Bourse RTP Domestic Fee Offset",
+        "url": "https://www.griffith.edu.au/research-study/scholarships/australian-government-research-training-program-rtp-domestic-fee-offset"
+      },
+      {
+        "label": "Bourse pour les peuples autochtones (GUIAPRS)",
+        "url": "https://www.griffith.edu.au/research-study/scholarships/guiaprs"
+      },
+      {
+        "label": "Bourse pour personnes handicapées",
+        "url": "https://www.griffith.edu.au/research-study/scholarships/griffith-university-disability-scholars-research-scholarship"
+      },
+      {
+        "label": "Bourse Industry PhD",
+        "url": "https://www.griffith.edu.au/research-study/scholarships/industry-phd-scholarship"
+      },
+      {
+        "label": "Bourse projet spécifique (exemple)",
+        "url": "https://www.griffith.edu.au/research-study/scholarships/building-deep-debate-evidence-systems-for-youth-crime-policy-reform"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat australie",
+      "bourse recherche griffith",
+      "bourse université griffith",
+      "bourse RTP",
+      "bourse GUPRS",
+      "bourse internationale australie",
+      "bourse handicap",
+      "bourse autochtone"
+    ],
+    "lien_candidature": "https://www.griffith.edu.au/research-study/scholarships",
+    "source_url": "https://www.griffith.edu.au/research-study/scholarships?fbclid=IwY2xjawSIDzpleHRuA2FlbQIxMABicmlkETFqYkQzZmJWMVBHaUpvWjVic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqf4yGVgJpe8rbaQ558PlFCp3FNYBlC-E5C3uh0-VmkJd-y5X5HPv5EK7DsG_aem_iy9R2kR0D6CrrJ0zqDiNOw",
+    "statut": "ouvert",
+    "resume": "L'Université Griffith propose une gamme de bourses de recherche pour les candidats nationaux et internationaux, couvrant les frais de scolarité, les allocations de subsistance et la couverture santé. Les bourses sont attribuées sur la base du mérite et de critères spécifiques (handicap, autochtone, projets ciblés). Les candidatures pour 2026 sont fermées pour les bourses au mérite générales, mais les bourses pour projets spécifiques et les bourses pour personnes handicapées ou autochtones restent ouvertes en continu. Les candidats internationaux avec un parrainage peuvent postuler à tout moment pour une bourse de frais de scolarité groupée.",
+    "adresse": "our physical campuses are located at the Gold Coast, Logan, Brisbane South and Brisbane City",
+    "extrait_le": "2026-06-15T03:18:22",
+    "slug": "bourses-recherche-griffith-2026"
+  },
+  {
+    "titre": "Bourses de recherche de l'Université de Tasmanie",
+    "seo_slug": "bourse-recherche-tasmanie-2026",
+    "organisation": "University of Tasmania",
     "montant": null,
     "devise": null,
     "type_financement": "bourse complète",
     "deadline": null,
-    "deadline_texte": "Applications for 2027 are now open; check eligibility and apply.",
+    "deadline_texte": "Voir les dates clés sur la page des bourses",
     "niveau_etudes": [
-      "master",
-      "phd"
+      "Doctorat",
+      "Master recherche"
     ],
-    "domaines": [],
-    "pays_eligibles": [],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
     "age_maximum": null,
-    "langue_requise": "anglais",
+    "langue_requise": "Anglais",
     "documents_requis": [
-      "personal statement",
-      "academic statement",
-      "reference letters"
+      "Passeport",
+      "Formulaire de soutien du superviseur",
+      "Proposition de recherche",
+      "Relevés de notes et diplômes",
+      "Thèse de recherche (Honours ou Master)",
+      "CV avec deux références",
+      "Preuve de compétence en anglais"
     ],
-    "lien_candidature": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/",
-    "source_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/?utm_id=97758_v0_s00_e0_tv0&fbclid=IwY2xjawSVk9xleHRuA2FlbQIxMABicmlkETFnSHRFdHgyNFBEVnBQeTAyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl6F8AR81PwwBLbVn0uFzaoAB103ybxegA2cePWnN3BBCyxlh_ZUxB_9eStz_aem_ZmFrZWR1bW15MTZieXRlcw",
+    "avantages": [
+      "Bourse de subsistance (stipend)",
+      "Exonération des frais de scolarité"
+    ],
+    "eligibilite": [
+      "Répondre aux conditions d'entrée du cours",
+      "Satisfaire aux exigences de compétence en anglais",
+      "Trouver un projet disponible et un superviseur",
+      "Soumettre une proposition de recherche"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'entrée et les compétences en anglais.",
+      "2. Consulter les bourses et les dates clés.",
+      "3. Choisir un projet parmi les projets disponibles.",
+      "4. Contacter le superviseur et obtenir le formulaire de soutien.",
+      "5. Développer une proposition de recherche (2 pages).",
+      "6. Préparer les documents (passeport, formulaire de soutien, proposition, relevés, thèse, CV, preuve d'anglais).",
+      "7. Soumettre la candidature via le système en ligne.",
+      "8. Attendre la réponse du Graduate Research Office.",
+      "9. Si accepté, accepter l'offre dans les délais (2 semaines pour domestiques, 8 semaines pour internationaux)."
+    ],
+    "contacts": [
+      "uth.security@utas.edu.au",
+      "+61 3 6226 6200"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.utas.edu.au/research/degrees"
+      },
+      {
+        "label": "Projets disponibles",
+        "url": "https://www.utas.edu.au/research/degrees/available-projects"
+      },
+      {
+        "label": "Bourses et frais",
+        "url": "https://www.utas.edu.au/research/degrees/scholarships-and-fees"
+      },
+      {
+        "label": "Conditions d'entrée et anglais",
+        "url": "https://www.utas.edu.au/research/degrees/what-is-a-research-degree"
+      },
+      {
+        "label": "Opportunités de collaboration",
+        "url": "https://www.utas.edu.au/research/degrees/collaboration-opportunities"
+      },
+      {
+        "label": "Formulaire de soutien du superviseur (PDF)",
+        "url": "https://www.utas.edu.au/__data/assets/pdf_file/0010/1592461/UTAS_Supervisor-support-for-HDR-applicant-form.pdf"
+      },
+      {
+        "label": "Coûts de la vie en Australie",
+        "url": "https://www.studyaustralia.gov.au/english/live/living-costs"
+      },
+      {
+        "label": "Contact du Graduate Research Office",
+        "url": "https://www.utas.edu.au/research/degrees/contact"
+      }
+    ],
+    "mots_cles": [
+      "bourse recherche",
+      "doctorat Tasmanie",
+      "bourse université Tasmanie",
+      "recherche Australie",
+      "bourse internationale",
+      "stipend",
+      "exonération frais"
+    ],
+    "lien_candidature": "https://www.utas.edu.au/research/degrees",
+    "source_url": "https://www.utas.edu.au/research/degrees",
     "statut": "ouvert",
-    "resume": "La bourse Rhodes est une opportunité de troisième cycle entièrement financée pour étudier à l'Université d'Oxford. Elle est ouverte aux étudiants du monde entier, avec des critères d'éligibilité variables selon les circonscriptions. Les candidatures pour l'entrée en octobre 2027 sont actuellement ouvertes.",
-    "extrait_le": "2026-06-10T00:53:11",
-    "slug": "rhodes-scholarship"
-  },
-  {
-    "titre": "Coca-Cola MENA Scholarship Program 2014 to Study in USA",
-    "organisation": "The Coca-Cola Company & US Department of State",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2014-04-18",
-    "deadline_texte": "18 avril 2014",
-    "niveau_etudes": [
-      "licence"
-    ],
-    "domaines": [
-      "business"
-    ],
-    "pays_eligibles": [
-      "Algérie",
-      "Égypte",
-      "Jordanie",
-      "Maroc",
-      "Palestine",
-      "Tunisie"
-    ],
-    "age_maximum": 24,
-    "langue_requise": null,
-    "documents_requis": [
-      "formulaire de consentement signé"
-    ],
-    "lien_candidature": null,
-    "source_url": "https://www.opportunitiesforafricans.com/coca-cola-mena-scholarship-program-2014-to-study-in-usa/",
-    "statut": "fermé",
-    "resume": "Le programme Coca-Cola MENA offre une bourse complète à 100 étudiants de 6 pays du Moyen-Orient et d'Afrique du Nord pour suivre un programme d'affaires d'un mois à l'Indiana University. Le financement couvre les frais de voyage, l'hébergement, les repas et l'inscription, avec des visites à Washington D.C. et à Atlanta.",
-    "extrait_le": "2026-06-10T00:32:36",
-    "slug": "coca-cola-mena-scholarship-program-2014-to-study-in-usa"
-  },
-  {
-    "titre": "Chinese Government/AUC Scholarship 2017/2018 for Young Africans to Study in China (Fully Funded)",
-    "organisation": "African Union Commission - Department of Human Resources, Science and Technology",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2017-06-30",
-    "deadline_texte": "30 juin 2017",
-    "niveau_etudes": [
-      "master",
-      "phd"
-    ],
-    "domaines": [
-      "gestion",
-      "travail social",
-      "santé publique",
-      "communication internationale",
-      "transport",
-      "politique publique",
-      "administration publique",
-      "finance",
-      "audit",
-      "gestion environnementale"
-    ],
-    "pays_eligibles": [
-      "Afrique"
-    ],
-    "age_maximum": 32,
-    "langue_requise": "anglais",
-    "documents_requis": [
-      "lettre de motivation",
-      "CV",
-      "certificats et relevés de notes certifiés",
-      "page personnelle du passeport",
-      "photographie d'identité couleur",
-      "certificat de santé",
-      "recommandations académiques et personnelles"
-    ],
-    "lien_candidature": null,
-    "source_url": "https://www.opportunitiesforafricans.com/chinese-governmentauc-scholarship-20172018-for-young-africans-to-study-in-china-fully-funded/",
-    "statut": "fermé",
-    "resume": "Bourse complète offerte par le gouvernement chinois via la Commission de l'Union africaine pour permettre aux étudiants africains de poursuivre des études de Master dans diverses universités chinoises durant l'année académique 2017/2018. Les candidats doivent être des ressortissants africains ayant au minimum une licence avec mention bien, maîtriser l'anglais, et avoir moins de 32 ans. Les candidatures incluent l'envoi de documents via email à la Commission de l'Union africaine après candidature directe auprès des universités chinoises.",
-    "extrait_le": "2026-06-10T00:32:36",
-    "slug": "chinese-government-auc-scholarship-2017-2018-for-young-africans-to-study-in-china-fully-funded"
-  },
-  {
-    "titre": "Sciences Po Emile-Boutmy (Undergraduate & Postgraduate) Scholarship 2018/2019 for Study in France",
-    "organisation": "Sciences Po",
-    "montant": 10000,
-    "devise": "EUR",
-    "type_financement": "bourse complète",
-    "deadline": "2018-01-03",
-    "deadline_texte": "3 janvier 2018 pour le master ; 26 avril 2018 pour le bachelor",
-    "niveau_etudes": [
-      "licence",
-      "master"
-    ],
-    "domaines": [],
-    "pays_eligibles": [
-      "Hors Union Européenne"
-    ],
-    "age_maximum": null,
-    "langue_requise": null,
-    "documents_requis": [
-      "preuve de revenus",
-      "documents expliquant la situation familiale",
-      "test de langue"
-    ],
-    "lien_candidature": "https://www.sciencespo.fr/",
-    "source_url": "https://www.opportunitiesforafricans.com/sciences-po-emile-boutmy-undergraduate-postgraduate-scholarship-20182019-for-study-in-france-funded/",
-    "statut": "fermé",
-    "resume": "La bourse Emile-Boutmy de Sciences Po offre aux meilleurs étudiants internationaux hors UE une aide financière pour étudier en France. Elle couvre partiellement ou entièrement les frais de scolarité et les frais de subsistance, avec des montants variables selon le profil et le niveau d'études (licence ou master).",
-    "extrait_le": "2026-06-10T00:32:36",
-    "slug": "sciences-po-emile-boutmy-undergraduate-postgraduate-scholarship-2018-2019-for-study-in-france"
-  },
-  {
-    "titre": "Udacity Google Africa Scholarship Program 2018",
-    "organisation": "Google, Udacity, Andela",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2018-04-24",
-    "deadline_texte": "24 avril 2018",
-    "niveau_etudes": [
-      "débutant",
-      "intermédiaire"
-    ],
-    "domaines": [
-      "développement web",
-      "développement mobile Android"
-    ],
-    "pays_eligibles": [
-      "Nigeria",
-      "Kenya",
-      "Afrique du Sud",
-      "pays africains"
-    ],
-    "age_maximum": null,
-    "langue_requise": null,
-    "documents_requis": [],
-    "lien_candidature": null,
-    "source_url": "https://www.opportunitiesforafricans.com/udacity-google-africa-scholarship-program-2018/",
-    "statut": "fermé",
-    "resume": "Google, Udacity et Andela offrent 15 000 bourses de cours unique et 500 bourses nanodiplôme aux développeurs aspirants en Afrique (Nigeria, Kenya, Afrique du Sud). Le programme, 100% en ligne, permet aux candidats de choisir entre le développement web ou mobile, avec placement dans des parcours débutant ou intermédiaire selon l'expérience. Les meilleurs étudiants peuvent accéder à des bourses complètes pour les programmes nanodiplôme en développement Android ou web.",
-    "extrait_le": "2026-06-10T00:32:36",
-    "slug": "udacity-google-africa-scholarship-program-2018"
-  },
-  {
-    "titre": "DAAD In-Region Scholarship Programme Call for Scholarship Applications 2021 at the Stellenbosch University",
-    "organisation": "DAAD (Deutscher Akademischer Austauschdienst)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2020-06-02",
-    "deadline_texte": "2 juin 2020",
-    "niveau_etudes": [
-      "master",
-      "phd"
-    ],
-    "domaines": [
-      "Biologie moléculaire et génétique humaine"
-    ],
-    "pays_eligibles": [
-      "Afrique subsaharienne (à l'exclusion de l'Afrique du Sud)"
-    ],
-    "age_maximum": null,
-    "langue_requise": "langue d'instruction du programme",
-    "documents_requis": [],
-    "lien_candidature": null,
-    "source_url": "https://www.opportunitiesforafricans.com/daad-in-region-scholarship-programme-call-for-scholarship-applications-2021/",
-    "statut": "fermé",
-    "resume": "Le programme DAAD In-Region offre des bourses d'études complètes pour des études de Master et doctorat aux diplômés de l'Afrique subsaharienne (à l'exclusion de l'Afrique du Sud) souhaitant poursuivre leurs études dans leur région. La bourse vise à développer les systèmes d'enseignement supérieur en Afrique subsaharienne et à former les futurs leaders académiques et professionnels qui contribueront au développement durable de leur région.",
-    "extrait_le": "2026-06-10T00:32:36",
-    "slug": "daad-in-region-scholarship-programme-call-for-scholarship-applications-2021-at-the-stellenbosch-univ"
+    "resume": "L'Université de Tasmanie propose des bourses de recherche pour les étudiants de master et doctorat. Les candidats doivent trouver un projet et un superviseur, puis soumettre une proposition de recherche. Les bourses incluent une allocation de subsistance et une exonération des frais de scolarité. Les candidatures sont ouvertes toute l'année avec des dates limites spécifiques selon les projets.",
+    "extrait_le": "2026-06-15T03:27:30",
+    "slug": "bourse-recherche-tasmanie-2026"
   }
 ]

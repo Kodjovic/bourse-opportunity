@@ -27,12 +27,21 @@ export interface Bourse {
   pays_eligibles: string[];
   documents_requis: string[];
 
+  // Nouveaux champs granulaires
+  avantages: string[];
+  eligibilite: string[];
+  procedure_etapes: string[];
+  contacts: string[];
+  liens_utiles: { label: string; url: string }[];
+  mots_cles: string[];
+
   age_maximum: number | null;
   langue_requise: string | null;
   lien_candidature: string | null;
 
   statut: Statut | null;
   resume: string | null;
+  adresse?: string | null;
 
   extrait_le: string;               // ISO 8601 datetime
 }

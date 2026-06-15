@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { BoursesSimilaires } from "@/components/BoursesSimilaires";
+import { ContactEmail } from "@/components/ContactEmail";
 import { PartageSocial } from "@/components/PartageSocial";
 import { getAllBourses, getAllSlugs, getBourseBySlug } from "@/lib/bourses";
 import { boursesSimilaires } from "@/lib/scoring";
@@ -36,6 +37,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: titre,
     description: description.slice(0, 155),
+    keywords: bourse.mots_cles?.length ? bourse.mots_cles : undefined,
     openGraph: {
       title: titre,
       description: description.slice(0, 200),
@@ -108,7 +110,7 @@ export default async function PageBourse({ params }: Props) {
 
         {/* Corps : 2 colonnes (éditorial + sidebar CTA) */}
         <div className="mt-12 grid grid-cols-1 gap-10 lg:grid-cols-[1fr_320px]">
-          <div>
+          <div className="space-y-12">
             {bourse.resume && (
               <Section titre="Notre analyse">
                 <p className="text-[17px] leading-relaxed text-stone-700">
@@ -117,13 +119,115 @@ export default async function PageBourse({ params }: Props) {
               </Section>
             )}
 
+            {bourse.avantages?.length > 0 && (
+              <Section titre="Avantages & Financement" icone="💰">
+                <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
+                  {bourse.avantages.map((a) => (
+                    <div key={a} className="flex gap-3 rounded-xl border border-stone-200 bg-white p-4 shadow-sm">
+                      <span className="text-orange-600">✓</span>
+                      <span className="text-stone-700 font-medium">{a}</span>
+                    </div>
+                  ))}
+                </div>
+              </Section>
+            )}
+
+            {bourse.eligibilite?.length > 0 && (
+              <Section titre="Critères d'éligibilité" icone="🎓">
+                <ul className="space-y-3">
+                  {bourse.eligibilite.map((e) => (
+                    <li key={e} className="flex gap-3 text-stone-700">
+                      <span className="mt-1.5 size-1.5 shrink-0 rounded-full bg-stone-400" />
+                      <span>{e}</span>
+                    </li>
+                  ))}
+                </ul>
+              </Section>
+            )}
+
+            {bourse.procedure_etapes?.length > 0 && (
+              <Section titre="Comment postuler ?" icone="📝">
+                <div className="relative space-y-6 before:absolute before:left-4 before:top-2 before:h-[calc(100%-16px)] before:w-px before:bg-stone-200">
+                  {bourse.procedure_etapes.map((etape, i) => (
+                    <div key={etape} className="relative flex gap-6 pl-10">
+                      <span className="absolute left-0 flex size-8 items-center justify-center rounded-full bg-orange-600 text-sm font-bold text-white">
+                        {i + 1}
+                      </span>
+                      <p className="text-stone-700 pt-1">{etape}</p>
+                    </div>
+                  ))}
+                </div>
+              </Section>
+            )}
+
+            {(bourse.liens_utiles?.length > 0 || bourse.contacts?.length > 0 || bourse.lien_candidature) && (
+              <Section titre="Ressources & Contacts" icone="🔗">
+                <div className="space-y-6">
+                  <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+                    {/* Lien de candidature prioritaire s'il existe */}
+                    {bourse.lien_candidature && (
+                      <a
+                        href={bourse.lien_candidature}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex items-center gap-3 rounded-xl border-2 border-orange-100 bg-orange-50 p-4 text-orange-900 transition hover:border-orange-300"
+                      >
+                        <span className="text-xl">🌐</span>
+                        <div className="flex flex-col">
+                          <span className="font-bold">Portail de candidature</span>
+                          <span className="text-xs opacity-70">Site officiel</span>
+                        </div>
+                      </a>
+                    )}
+
+                    {/* Autres liens extraits - On filtre pour ne pas répéter le portail principal */}
+                    {bourse.liens_utiles?.filter(l => l.url !== bourse.lien_candidature).map((lien) => {
+                      const estPdf = lien.url.toLowerCase().endsWith(".pdf");
+                      const estDoc = lien.url.toLowerCase().match(/\.(doc|docx|odt)$/);
+                      return (
+                        <a
+                          key={lien.url}
+                          href={lien.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex items-center gap-3 rounded-xl border border-stone-200 bg-white p-4 text-stone-700 transition hover:border-orange-400 hover:text-orange-700"
+                        >
+                          <span className="text-xl">{estPdf || estDoc ? "📄" : "🌐"}</span>
+                          <span className="font-medium">{lien.label}</span>
+                        </a>
+                      );
+                    })}
+                  </div>
+
+                  {bourse.contacts?.length > 0 && (
+                    <div className="rounded-xl bg-stone-100 p-5">
+                      <p className="text-xs font-semibold uppercase tracking-widest text-stone-500">
+                        Besoin d&apos;aide ?
+                      </p>
+                      <ul className="mt-3 space-y-3">
+                        {bourse.contacts.map((c) => (
+                          <ContactEmail key={c} email={c} />
+                        ))}
+                        {bourse.adresse && (
+                          <li className="flex items-start gap-2 text-stone-700">
+                            <span className="text-orange-600 text-lg">📍</span>
+                            <span className="font-medium text-sm">{bourse.adresse}</span>
+                          </li>
+                        )}
+                      </ul>
+                    </div>
+                  )}
+                </div>
+              </Section>
+            )}
+
             {bourse.documents_requis.length > 0 && (
-              <Section titre="Documents requis">
-                <ul className="space-y-2 text-stone-700">
+              <Section titre="Documents requis" icone="📂">
+                <ul className="grid grid-cols-1 gap-2 sm:grid-cols-2">
                   {bourse.documents_requis.map((d) => (
-                    <li key={d} className="flex gap-2">
-                      <span className="mt-2 inline-block size-1.5 shrink-0 rounded-full bg-orange-600" />
-                      <span>{d}</span>
+                    <li key={d} className="flex items-center gap-2 rounded-lg bg-stone-100 px-3 py-2 text-sm text-stone-700">
+                      <span aria-hidden>📄</span>
+                      {d}
                     </li>
                   ))}
                 </ul>
@@ -131,7 +235,7 @@ export default async function PageBourse({ params }: Props) {
             )}
 
             {bourse.pays_eligibles.length > 0 && (
-              <Section titre="Pays africains éligibles">
+              <Section titre="Pays africains éligibles" icone="🌍">
                 <ul className="flex flex-wrap gap-2">
                   {bourse.pays_eligibles.map((p) => (
                     <li key={p}>
@@ -142,20 +246,6 @@ export default async function PageBourse({ params }: Props) {
                         <span className="size-1 rounded-full bg-orange-600" />
                         {p}
                       </Link>
-                    </li>
-                  ))}
-                </ul>
-              </Section>
-            )}
-
-            {bourse.domaines.length > 0 && (
-              <Section titre="Domaines d'études">
-                <ul className="flex flex-wrap gap-2">
-                  {bourse.domaines.map((d) => (
-                    <li key={d}>
-                      <span className="inline-block rounded-full border border-stone-200 bg-white px-3 py-1.5 text-sm text-stone-700">
-                        {d}
-                      </span>
                     </li>
                   ))}
                 </ul>
@@ -240,33 +330,33 @@ function CarteDeadline({ bourse }: { bourse: Bourse }) {
 
   return (
     <div className="relative mt-8 overflow-hidden rounded-2xl border border-stone-200 bg-gradient-to-br from-amber-50 via-stone-50 to-orange-50/40 p-6 sm:p-8">
-      {/* Badge countdown coin droit */}
-      <div className="absolute right-5 top-5 text-right">
+      {/* Badge countdown coin droit - On le cache sur très petit mobile si besoin ou on réduit sa taille */}
+      <div className="absolute right-5 top-5 text-right z-10">
         <div
-          className={`font-serif text-4xl font-semibold leading-none ${
+          className={`font-serif text-3xl sm:text-4xl font-semibold leading-none ${
             info.passe ? "text-red-700" : "text-orange-700"
           }`}
         >
           {info.affichage}
         </div>
-        <div className="mt-1 text-xs uppercase tracking-widest text-stone-500">
+        <div className="mt-1 text-[10px] uppercase tracking-widest text-stone-500">
           {info.label}
         </div>
       </div>
 
-      <div className="flex items-start gap-4">
-        <div className="flex size-12 shrink-0 items-center justify-center rounded-xl bg-white shadow-sm">
-          <span className="text-xl" aria-hidden>📅</span>
+      <div className="flex items-start gap-4 pr-24 sm:pr-32">
+        <div className="flex size-10 sm:size-12 shrink-0 items-center justify-center rounded-xl bg-white shadow-sm">
+          <span className="text-lg sm:text-xl" aria-hidden>📅</span>
         </div>
-        <div>
-          <div className="text-xs font-semibold uppercase tracking-widest text-stone-500">
+        <div className="min-w-0">
+          <div className="text-[10px] sm:text-xs font-semibold uppercase tracking-widest text-stone-500">
             Date limite
           </div>
-          <div className="mt-1 font-serif text-2xl font-semibold text-stone-900">
+          <div className="mt-1 font-serif text-lg sm:text-2xl font-semibold text-stone-900 leading-tight">
             {bourse.deadline ? (
               <time dateTime={bourse.deadline}>{dateTexte}</time>
             ) : (
-              dateTexte
+              <span className="block max-w-[200px] sm:max-w-md">{dateTexte}</span>
             )}
           </div>
         </div>
@@ -317,18 +407,23 @@ function GrilleStats({ bourse }: { bourse: Bourse }) {
 
 function Section({
   titre,
+  icone,
   children,
 }: {
   titre: string;
+  icone?: string;
   children: React.ReactNode;
 }) {
   return (
     <section className="mt-10 first:mt-0">
-      <h2 className="font-serif text-2xl font-semibold text-stone-900">
-        {titre}
-      </h2>
-      <div className="mt-1 h-px w-12 bg-stone-300" />
-      <div className="mt-4">{children}</div>
+      <div className="flex items-center gap-3">
+        {icone && <span className="text-2xl" aria-hidden>{icone}</span>}
+        <h2 className="font-serif text-2xl font-semibold text-stone-900">
+          {titre}
+        </h2>
+      </div>
+      <div className="mt-2 h-px w-12 bg-orange-600" />
+      <div className="mt-6">{children}</div>
     </section>
   );
 }
@@ -337,6 +432,10 @@ function CarteCTA({ bourse }: { bourse: Bourse }) {
   const lien = bourse.lien_candidature || bourse.source_url;
   const deadlineTexte =
     bourse.deadline_texte || (bourse.deadline ? formaterDate(bourse.deadline) : null);
+
+  // On cherche si un "Site officiel" manuel existe dans les ressources
+  const siteOfficielManuel = bourse.liens_utiles?.find(l => l.label === "Site officiel")?.url;
+  const lienAAfficher = siteOfficielManuel || lien;
 
   return (
     <div className="overflow-hidden rounded-2xl bg-stone-900 p-6 text-stone-50 shadow-lg">
@@ -352,7 +451,7 @@ function CarteCTA({ bourse }: { bourse: Bourse }) {
         </p>
       )}
       <a
-        href={lien}
+        href={lienAAfficher}
         target="_blank"
         rel="noopener external"
         className="mt-5 flex items-center justify-center gap-2 rounded-xl bg-orange-500 px-5 py-3 font-medium text-white transition hover:bg-orange-400"
@@ -386,6 +485,11 @@ function StructuredData({ bourse }: { bourse: Bourse }) {
       ? bourse.pays_eligibles.map((p) => ({ "@type": "Place", name: p }))
       : undefined,
     inLanguage: bourse.langue_requise || undefined,
+    offers: {
+      "@type": "Offer",
+      description: bourse.avantages?.join(", "),
+    },
+    abstract: bourse.procedure_etapes?.join(" "),
   };
   return (
     <script

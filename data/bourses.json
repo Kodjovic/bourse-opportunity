@@ -613,6 +613,80 @@
     "slug": "bourse-recherche-matsumae-japon-2027"
   },
   {
+    "titre": "Stage en Administration - PNUD Séoul",
+    "seo_slug": "stage-administration-pnud-seoul-2026",
+    "organisation": "UNDP",
+    "montant": 1169728,
+    "devise": "KRW",
+    "type_financement": "stage rémunéré",
+    "deadline": "2026-06-30",
+    "deadline_texte": "30 juin 2026",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Administration",
+      "Gestion",
+      "Économie",
+      "Finances"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais et Coréen",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation (max 1 page)"
+    ],
+    "avantages": [
+      "Indemnité mensuelle de 1 169 728 KRW",
+      "Congés (1,5 jour/mois)",
+      "Jours fériés ONU"
+    ],
+    "eligibilite": [
+      "Être inscrit en dernière année de licence, en master, doctorat, ou diplômé depuis moins d'un an",
+      "Avoir le droit de résider et travailler en Corée du Sud",
+      "Maîtrise de l'anglais et du coréen"
+    ],
+    "procedure_etapes": [
+      "1. Préparer un CV et une lettre de motivation (max 1 page) expliquant votre intérêt et votre expérience en administration.",
+      "2. Regrouper les documents en un seul fichier PDF.",
+      "3. Postuler en ligne via le lien fourni."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34691/?keyword=internship&mode=location&fbclid=IwY2xjawScbKdleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpiH2AHjo0-QfoeGqf1bJZC5o_Mcfb97Dl_AAl8esS4ls4c0b2SLa5k-Db0S_aem_LiS4An4sE0vmRdcITi1WOw"
+      },
+      {
+        "label": "Site du PNUD Séoul",
+        "url": "https://www.undp.org/policy-centre/seoul"
+      },
+      {
+        "label": "Candidature en ligne",
+        "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34691/apply/email?keyword=internship&mode=location&fbclid=IwY2xjawScbKdleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpiH2AHjo0-QfoeGqf1bJZC5o_Mcfb97Dl_AAl8esS4ls4c0b2SLa5k-Db0S_aem_LiS4An4sE0vmRdcITi1WOw"
+      }
+    ],
+    "mots_cles": [
+      "stage PNUD",
+      "administration Séoul",
+      "stage Corée",
+      "stage ONU",
+      "stage développement",
+      "stage 2026"
+    ],
+    "lien_candidature": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34691/apply/email?keyword=internship&mode=location&fbclid=IwY2xjawScbKdleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpiH2AHjo0-QfoeGqf1bJZC5o_Mcfb97Dl_AAl8esS4ls4c0b2SLa5k-Db0S_aem_LiS4An4sE0vmRdcITi1WOw",
+    "source_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34691/?keyword=internship&mode=location&fbclid=IwY2xjawScbKdleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpiH2AHjo0-QfoeGqf1bJZC5o_Mcfb97Dl_AAl8esS4ls4c0b2SLa5k-Db0S_aem_LiS4An4sE0vmRdcITi1WOw",
+    "statut": "ouvert",
+    "resume": "Le PNUD propose un stage en administration à son Centre de Séoul, en Corée du Sud, d'une durée de 6 mois (août 2026 à février 2027). Les candidats doivent maîtriser l'anglais et le coréen, et avoir le droit de travailler en Corée. Une indemnité mensuelle de 1 169 728 KRW est versée. Postulez avant le 30 juin 2026.",
+    "extrait_le": "2026-06-15T05:30:39",
+    "slug": "stage-administration-pnud-seoul-2026"
+  },
+  {
     "titre": "Bourse Data Analytics (En ligne) de la Business School",
     "seo_slug": "bourse-data-analytics-online-edimbourg-2026",
     "organisation": "University of Edinburgh Business School",
@@ -1356,6 +1430,84 @@
     "adresse": "Rosa Luxemburg Foundation Straße der Pariser Kommune 8A 10243 Berlin Germany",
     "extrait_le": "2026-06-15T02:25:10",
     "slug": "bourse-rosa-luxemburg-doctorat-allemagne"
+  },
+  {
+    "titre": "Bourse Knight-Hennessy pour études supérieures à Stanford",
+    "seo_slug": "bourse-knight-hennessy-stanford-2027",
+    "organisation": "Knight-Hennessy Scholars",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-06",
+    "deadline_texte": "6 octobre 2026 à 13h (heure du Pacifique)",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Relevé de notes",
+      "Réponses aux questions courtes et dissertations",
+      "Lettres de recommandation"
+    ],
+    "avantages": [
+      "Frais de scolarité pour jusqu'à trois ans",
+      "Bourse pour frais de subsistance et académiques",
+      "Bourse de voyage pour un voyage annuel aller-retour à Stanford"
+    ],
+    "eligibilite": [
+      "Être nouvellement inscrit dans un programme d'études supérieures à temps plein à Stanford",
+      "Ou être un étudiant en doctorat actuel à Stanford en première année d'inscription",
+      "Aucune restriction de citoyenneté, âge, université d'origine, domaine d'études ou aspiration professionnelle"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre la candidature Knight-Hennessy Scholars (CV, relevé de notes, réponses aux questions, lettres de recommandation).",
+      "2. Soumettre la candidature au programme d'études supérieures de Stanford (les délais et exigences varient selon le programme).",
+      "3. La date limite pour la cohorte 2027 est le 6 octobre 2026 à 13h (heure du Pacifique)."
+    ],
+    "contacts": [
+      "khscholars@stanford.edu",
+      "+1.650.721.0771"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34691/?keyword=internship&mode=location&fbclid=IwY2xjawScbKdleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpiH2AHjo0-QfoeGqf1bJZC5o_Mcfb97Dl_AAl8esS4ls4c0b2SLa5k-Db0S_aem_LiS4An4sE0vmRdcITi1WOw"
+      },
+      {
+        "label": "Page d'admission",
+        "url": "https://knight-hennessy.stanford.edu/admission"
+      },
+      {
+        "label": "Rapport annuel 2024-25",
+        "url": "https://annualreport.knight-hennessy.stanford.edu/2025/"
+      }
+    ],
+    "mots_cles": [
+      "bourse knight-hennessy",
+      "bourse stanford",
+      "bourse études supérieures",
+      "bourse multidisciplinaire",
+      "bourse leadership",
+      "bourse internationale",
+      "bourse doctorat",
+      "bourse master"
+    ],
+    "lien_candidature": "https://knight-hennessy.stanford.edu/admission",
+    "source_url": "https://knight-hennessy.stanford.edu/about-knight-hennessy-scholars/overview-knight-hennessy-scholars",
+    "statut": "ouvert",
+    "resume": "La bourse Knight-Hennessy Scholars offre un financement complet pour jusqu'à trois ans d'études supérieures à l'Université Stanford, incluant les frais de scolarité, une bourse de subsistance et une bourse de voyage annuelle. Ouverte à tous les domaines et nationalités, elle vise à former des leaders visionnaires et collaboratifs. Les candidatures pour la cohorte 2027 sont ouvertes jusqu'au 6 octobre 2026.",
+    "adresse": "Denning House 580 Lomita Drive Stanford, CA  94305-8207  USA",
+    "extrait_le": "2026-06-15T05:34:14",
+    "slug": "bourse-knight-hennessy-stanford-2027"
   },
   {
     "titre": "Bourses de recherche pour diplômés - Université de Melbourne",
@@ -2187,5 +2339,165 @@
     "resume": "L'Université de Tasmanie propose des bourses de recherche pour les étudiants de master et doctorat. Les candidats doivent trouver un projet et un superviseur, puis soumettre une proposition de recherche. Les bourses incluent une allocation de subsistance et une exonération des frais de scolarité. Les candidatures sont ouvertes toute l'année avec des dates limites spécifiques selon les projets.",
     "extrait_le": "2026-06-15T03:27:30",
     "slug": "bourse-recherche-tasmanie-2026"
+  },
+  {
+    "titre": "Programme de Bourses Karsh International",
+    "seo_slug": "bourse-karsh-international-duke-2026",
+    "organisation": "Duke University",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays sauf États-Unis"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Demande d'admission à Duke University",
+      "Demande d'aide financière"
+    ],
+    "avantages": [
+      "Frais de scolarité",
+      "Logement et repas",
+      "Frais obligatoires",
+      "Besoins financiers démontrés au-delà des coûts",
+      "Financement pour trois étés de recherche, stages non rémunérés et autres opportunités"
+    ],
+    "eligibilite": [
+      "Être un étudiant international (non citoyen américain)",
+      "Ne pas avoir de double nationalité américaine",
+      "Ne pas avoir déjà obtenu un diplôme de Bachelor",
+      "Démontrer un besoin financier",
+      "Solide préparation académique"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à Duke University",
+      "2. Demander une aide financière (financial aid)",
+      "3. Aucune candidature séparée pour la bourse"
+    ],
+    "contacts": [
+      "ousf@duke.edu",
+      "(919) 660-3070"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://ousf.duke.edu/merit-scholarships/karsh-international-scholars-program/?fbclid=IwY2xjawScaxxleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpiH2AHjo0-QfoeGqf1bJZC5o_Mcfb97Dl_AAl8esS4ls4c0b2SLa5k-Db0S_aem_LiS4An4sE0vmRdcITi1WOw"
+      },
+      {
+        "label": "Site d'aide financière de Duke",
+        "url": "https://financialaid.duke.edu/"
+      },
+      {
+        "label": "Page des bourses de mérite Duke",
+        "url": "https://ousf.duke.edu/merit-scholarships/karsh-international-scholars-program/"
+      }
+    ],
+    "mots_cles": [
+      "bourse internationale",
+      "Duke University",
+      "licence",
+      "besoin financier",
+      "Karsh",
+      "États-Unis",
+      "2026"
+    ],
+    "lien_candidature": "https://financialaid.duke.edu/",
+    "source_url": "https://ousf.duke.edu/merit-scholarships/karsh-international-scholars-program/?fbclid=IwY2xjawScaxxleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpiH2AHjo0-QfoeGqf1bJZC5o_Mcfb97Dl_AAl8esS4ls4c0b2SLa5k-Db0S_aem_LiS4An4sE0vmRdcITi1WOw",
+    "statut": "ouvert",
+    "resume": "Le programme Karsh International Scholars de Duke University offre une bourse complète aux étudiants internationaux ayant un besoin financier démontré. Couvrant les frais de scolarité, le logement, les repas et les frais obligatoires, il inclut également un financement pour trois étés de recherche ou stages. Aucune candidature séparée n'est requise : il suffit de postuler à Duke et de demander une aide financière.",
+    "adresse": "Mailing Address: Campus Box # 90756 Durham, NC 27708 Office Address: Smith Warehouse 114 South Buchanan Blvd., Bay 8N Durham NC 27701",
+    "extrait_le": "2026-06-15T05:22:46",
+    "slug": "bourse-karsh-international-duke-2026"
+  },
+  {
+    "titre": "Programme de Bourses Mastercard Foundation à l'Université de Pretoria",
+    "seo_slug": "bourse-mastercard-pretoria-afrique-2026",
+    "organisation": "Mastercard Foundation Scholars Program",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Honours"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Prise en charge complète des frais de scolarité",
+      "Frais de subsistance",
+      "Frais de voyage",
+      "Hébergement",
+      "Soutien psychosocial",
+      "Opportunités de stage et de service communautaire",
+      "Formation en entrepreneuriat"
+    ],
+    "eligibilite": [
+      "Être un jeune Africain",
+      "Avoir des barrières économiques et sociales",
+      "Être académiquement talentueux",
+      "Inclure les personnes vivant avec un handicap et les personnes déplacées internes/réfugiés",
+      "Être admis dans un programme spécifique à l'Université de Pretoria"
+    ],
+    "procedure_etapes": [
+      "1. Postuler et être accepté dans un programme spécifique à l'Université de Pretoria",
+      "2. Vérifier l'éligibilité et soumettre une candidature pour la bourse"
+    ],
+    "contacts": [
+      "ssc@up.ac.za",
+      "012 420 3111"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.up.ac.za/mastercard-foundation-scholars-program?utm_id=97758_v0_s00_e233_tv2_tp2_a1den5f08gvbpa&fbclid=IwY2xjawScbARleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlyspt-9tCfuppOBUVAHQZOqQ34Do_VxrIo9W0FRzTX4dMTOW102Z8jPfPHj_aem_pvtqj7Hi-DZQQnGxjBY67w"
+      },
+      {
+        "label": "À propos du programme",
+        "url": "https://www.up.ac.za/mastercard-foundation-scholars-program/about-program"
+      },
+      {
+        "label": "Ce que couvre le programme",
+        "url": "https://www.up.ac.za/mastercard-foundation-scholars-program/what-program-covers"
+      },
+      {
+        "label": "Coin des anciens",
+        "url": "https://www.up.ac.za/mastercard-foundation-scholars-program/scholar-alumni-corner"
+      }
+    ],
+    "mots_cles": [
+      "bourse mastercard",
+      "université pretoria",
+      "bourse afrique",
+      "mastercard foundation",
+      "bourse licence master",
+      "bourse 2026",
+      "bourse complète",
+      "étudiants africains"
+    ],
+    "lien_candidature": "https://www.up.ac.za/mastercard-foundation-scholars-program",
+    "source_url": "https://www.up.ac.za/mastercard-foundation-scholars-program?utm_id=97758_v0_s00_e233_tv2_tp2_a1den5f08gvbpa&fbclid=IwY2xjawScbARleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlyspt-9tCfuppOBUVAHQZOqQ34Do_VxrIo9W0FRzTX4dMTOW102Z8jPfPHj_aem_pvtqj7Hi-DZQQnGxjBY67w",
+    "statut": "ouvert",
+    "resume": "Le Programme de Bourses Mastercard Foundation à l'Université de Pretoria offre un soutien complet aux jeunes Africains talentueux confrontés à des barrières économiques et sociales, y compris les personnes handicapées et les réfugiés. Depuis 2014, ce programme finance des études de licence, honours et master, avec une prise en charge totale des frais, un accompagnement psychosocial, des stages et une formation en entrepreneuriat. Les boursiers s'engagent à contribuer au développement de leurs communautés et du continent après leurs études.",
+    "extrait_le": "2026-06-15T05:27:55",
+    "slug": "bourse-mastercard-pretoria-afrique-2026"
   }
 ]

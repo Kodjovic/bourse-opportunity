@@ -687,6 +687,337 @@
     "slug": "stage-administration-pnud-seoul-2026"
   },
   {
+    "titre": "Programme international de professeurs invités 2026-2027 à l'Université des Technologies des Transports (Hanoï, Vietnam)",
+    "seo_slug": "programme-professeurs-invites-utt-vietnam-2026",
+    "organisation": "Université des Technologies des Transports (UTT)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse partielle",
+    "deadline": "2026-06-30",
+    "deadline_texte": "30 juin 2026",
+    "niveau_etudes": [
+      "Doctorat",
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Infrastructures de transport avancées",
+      "Intelligence artificielle",
+      "Technologies numériques",
+      "Industrie des semi-conducteurs",
+      "Ingénierie ferroviaire",
+      "Train à grande vitesse",
+      "Logistique intelligente",
+      "Gestion de la chaîne d'approvisionnement",
+      "Ville intelligente",
+      "Économie des transports"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais ou autre langue adaptée au programme",
+    "documents_requis": [
+      "Curriculum vitae détaillé",
+      "Lettre de motivation"
+    ],
+    "avantages": [
+      "Billet d'avion aller-retour en classe économique",
+      "Hébergement en hôtel",
+      "Indemnité d'enseignement et de participation"
+    ],
+    "eligibilite": [
+      "Être professeur, maître de conférences, chercheur (doctorat ou postdoctorat), ou enseignant universitaire",
+      "Ou être expert ou ingénieur d'organisations internationales, instituts de recherche ou entreprises technologiques avec expertise reconnue",
+      "Être en mesure d'assurer des enseignements, conférences ou activités académiques spécialisées",
+      "Être en bonne santé et disponible pour la durée du séjour"
+    ],
+    "procedure_etapes": [
+      "1. Préparer un curriculum vitae détaillé (parcours académique, expérience d'enseignement et de recherche, publications)",
+      "2. Rédiger une lettre de motivation",
+      "3. Soumettre le dossier via le lien de candidature"
+    ],
+    "contacts": [
+      "hoangdd@utt.edu.vn",
+      "nguyen.thuy.huyen@auf.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://appels-propositions.auf.org/appel-a-candidatures-programme-international-de-professeurs-invites-2026-2027-a-l-universite-des-technologies-des-transports-hanoi-vietnam-"
+      },
+      {
+        "label": "Visitez le site :",
+        "url": "https://appels-propositions.auf.org/connexion?course=drapappelc-69e5f89529f00&cid=203&Itemid=1135"
+      },
+      {
+        "label": "Site officiel de l'UTT",
+        "url": "https://utt.edu.vn/en/utt"
+      }
+    ],
+    "mots_cles": [
+      "professeurs invités",
+      "UTT",
+      "Vietnam",
+      "mobilité académique",
+      "enseignement court",
+      "transport",
+      "intelligence artificielle",
+      "logistique",
+      "2026"
+    ],
+    "lien_candidature": "https://appels-propositions.auf.org/connexion?course=drapappelc-69e5f89529f00&cid=203&Itemid=1135",
+    "source_url": "https://appels-propositions.auf.org/appel-a-candidatures-programme-international-de-professeurs-invites-2026-2027-a-l-universite-des-technologies-des-transports-hanoi-vietnam-",
+    "statut": "ouvert",
+    "resume": "L'Université des Technologies des Transports (UTT) à Hanoï, Vietnam, lance un appel à candidatures pour son Programme international de professeurs invités 2026-2027. Ce programme s'adresse aux enseignants-chercheurs, experts et professionnels internationaux souhaitant dispenser des enseignements de courte durée (une semaine à trois mois) dans des domaines prioritaires comme les transports intelligents, l'IA, la logistique ou l'ingénierie ferroviaire. Les candidats sélectionnés bénéficient d'un billet d'avion aller-retour, d'un hébergement et d'une indemnité d'enseignement. Les candidatures sont ouvertes jusqu'au 30 juin 2026.",
+    "extrait_le": "2026-06-16T03:57:04",
+    "slug": "programme-professeurs-invites-utt-vietnam-2026"
+  },
+  {
+    "titre": "Renouvellement du Conseil scientifique de l'AUF",
+    "seo_slug": "conseil-scientifique-auf-2026",
+    "organisation": "Agence Universitaire de la Francophonie (AUF)",
+    "montant": null,
+    "devise": null,
+    "type_financement": null,
+    "deadline": "2026-06-30",
+    "deadline_texte": "30 juin 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Transformation numérique et IA générative",
+      "Employabilité de la jeunesse et engagement citoyen",
+      "Diplomatie scientifique et gouvernance universitaire",
+      "Encadrement pédagogique et Innovation inclusive",
+      "Valorisation de la recherche à impact et développement durable"
+    ],
+    "pays_eligibles": [
+      "Afrique Australe et Océan Indien",
+      "Afrique Centrale et Grands Lacs",
+      "Afrique de l'Ouest",
+      "Afrique du Nord",
+      "Amériques",
+      "Asie-Pacifique",
+      "Caraïbe",
+      "Europe Centrale et Orientale",
+      "Europe Occidentale",
+      "Moyen-Orient"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français",
+    "documents_requis": [
+      "Curriculum vitae",
+      "Lettre de motivation",
+      "Preuve de rattachement à un établissement membre de l'AUF",
+      "Visa/accord de la plus haute autorité de l'établissement"
+    ],
+    "avantages": [],
+    "eligibilite": [
+      "Être enseignant et/ou chercheur rattaché à un établissement membre de l'AUF",
+      "L'établissement membre doit être à jour de ses cotisations à l'AUF",
+      "Expertise reconnue dans un domaine scientifique",
+      "Expertise dans un ou plusieurs domaines prioritaires de la stratégie AUF 2026-2029"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier que votre établissement est membre de l'AUF et à jour de ses cotisations.",
+      "2. Préparer le dossier de candidature : CV, lettre de motivation (objet : AUF_Conseil scientifique 2026_Candidature), preuve de rattachement à l'établissement, visa/accord de la plus haute autorité.",
+      "3. Envoyer le dossier par courriel à la direction régionale de l'AUF dont dépend votre établissement (voir liste des adresses).",
+      "4. Respecter la date limite : 30 juin 2026."
+    ],
+    "contacts": [
+      "afriqueaustrale-oceanindien@auf.org",
+      "afrique-centrale@auf.org",
+      "afrique-ouest@auf.org",
+      "afrique-nord@auf.org",
+      "ameriques@auf.org",
+      "asie-pacifique@auf.org",
+      "caraibe@auf.org",
+      "crees-eco@auf.org",
+      "europe-occidentale@auf.org",
+      "moyen-orient@auf.org",
+      "activites-instances@auf.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://appels-propositions.auf.org/renouvellement-cs-2026"
+      },
+      {
+        "label": "Liste des établissements membres de l'AUF",
+        "url": "https://www.auf.org/nos-membres/"
+      }
+    ],
+    "mots_cles": [
+      "Conseil scientifique AUF",
+      "renouvellement membres",
+      "appel à candidatures 2026",
+      "gouvernance universitaire",
+      "expertise scientifique",
+      "francophonie"
+    ],
+    "lien_candidature": "https://appels-propositions.auf.org/renouvellement-cs-2026",
+    "source_url": "https://appels-propositions.auf.org/renouvellement-cs-2026",
+    "statut": "ouvert",
+    "resume": "L'Agence Universitaire de la Francophonie (AUF) renouvelle son Conseil scientifique pour un mandat de quatre ans non renouvelable. 20 membres seront sélectionnés parmi les enseignants-chercheurs d'établissements membres de l'AUF, à jour de cotisations. Les candidatures doivent être envoyées avant le 30 juin 2026 à la direction régionale compétente, avec CV, lettre de motivation et preuve de rattachement. Les domaines d'expertise prioritaires incluent la transformation numérique, l'employabilité des jeunes, la diplomatie scientifique, l'innovation pédagogique et le développement durable.",
+    "extrait_le": "2026-06-16T04:03:17",
+    "slug": "conseil-scientifique-auf-2026"
+  },
+  {
+    "titre": "Concours international Ma thèse en 180 secondes – MT180 – Édition 2026 (Égypte)",
+    "seo_slug": "concours-mt180-egypte-2026",
+    "organisation": "AUF (Agence Universitaire de la Francophonie) et IFE (Institut Français d'Égypte)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "concours",
+    "deadline": "2026-06-30",
+    "deadline_texte": "30 juin 2026 à 23h59 (fuseau Europe/Paris)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Toutes disciplines"
+    ],
+    "pays_eligibles": [
+      "Égypte"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français",
+    "documents_requis": [
+      "Inscription en ligne",
+      "Appel à candidature (PDF)",
+      "Règlement (PDF)"
+    ],
+    "avantages": [
+      "Formation à la communication orale",
+      "Participation à la finale nationale au Caire",
+      "Possibilité de participer à la finale internationale en ligne"
+    ],
+    "eligibilite": [
+      "Être inscrit ou avoir été inscrit dans un établissement d'enseignement supérieur ou de recherche en Égypte dans un programme de doctorat recherche (Ph.D) ou avoir obtenu le doctorat au cours des 12 mois précédant la finale internationale",
+      "Présenter un état d'avancement suffisant du projet de recherche doctoral (à partir de la fin de la deuxième année de thèse)",
+      "Ne pas avoir remporté de prix du jury ou du public lors d'une finale nationale de MT180 précédente",
+      "Être disponible et présent à la finale nationale et aux activités associées",
+      "Être capable de s'exprimer en français",
+      "Pour les doctorants en cotutelle : choisir le territoire (Égypte ou autre pays) dès le début et s'y tenir"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'admissibilité",
+      "2. Candidater en ligne via le lien de candidature avant le 30 juin 2026",
+      "3. Participer au cycle de formation début septembre 2026",
+      "4. Participer à la finale nationale le 30 septembre 2026 au Caire",
+      "5. Les lauréats nationaux sont sélectionnés pour la finale internationale mi-décembre 2026"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://appels-propositions.auf.org/-egypte-concours-international-ma-these-en-180-secondes-mt180-edition-2026"
+      },
+      {
+        "label": "Appel à candidature - MT180 - 2026 Egypte (PDF)",
+        "url": "https://appels-propositions.auf.org/files/336/egypte-concours-international-ma-these-en-180-secondes---mt180---edition-2025/319/Appel à candidature - MT180 - 2026 Egypte.pdf"
+      },
+      {
+        "label": "Règlement - MT180 - Egypte 2026 (PDF)",
+        "url": "https://appels-propositions.auf.org/files/336/egypte-concours-international-ma-these-en-180-secondes---mt180---edition-2025/320/Règlement - MT180 - Egypte 2026.pdf"
+      }
+    ],
+    "mots_cles": [
+      "concours MT180",
+      "ma thèse en 180 secondes",
+      "doctorat Égypte",
+      "vulgarisation scientifique",
+      "concours francophone",
+      "finale nationale Égypte",
+      "AUF",
+      "communication orale"
+    ],
+    "lien_candidature": "https://appels-propositions.auf.org/connexion?course=mt180moyen-67c1c49ef2d01&cid=211&Itemid=1135",
+    "source_url": "https://appels-propositions.auf.org/-egypte-concours-international-ma-these-en-180-secondes-mt180-edition-2026",
+    "statut": "ouvert",
+    "resume": "Le concours international Ma thèse en 180 secondes (MT180) édition 2026 en Égypte offre aux doctorants une opportunité unique de présenter leurs travaux de recherche en trois minutes, dans un langage accessible au grand public. Organisé par l'AUF et l'IFE, ce concours francophone vise à valoriser la relève scientifique et à promouvoir le dialogue entre sciences et société. Les candidats éligibles doivent être inscrits en doctorat dans un établissement égyptien, avoir un bon niveau de français, et ne pas avoir remporté de prix MT180 auparavant. La finale nationale aura lieu le 30 septembre 2026 au Caire, et les lauréats participeront à la finale internationale en ligne en décembre 2026.",
+    "extrait_le": "2026-06-16T04:04:05",
+    "slug": "concours-mt180-egypte-2026"
+  },
+  {
+    "titre": "Concours international Ma thèse en 180 secondes – MT180 – Édition 2026 (Liban)",
+    "seo_slug": "concours-mt180-liban-2026",
+    "organisation": "AUF, CNRS-L, DAWReK'n",
+    "montant": null,
+    "devise": null,
+    "type_financement": "concours",
+    "deadline": "2026-06-30",
+    "deadline_texte": "30 juin 2026",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Toutes disciplines"
+    ],
+    "pays_eligibles": [
+      "Liban"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français",
+    "documents_requis": [
+      "Inscription en ligne",
+      "Règlement (PDF)",
+      "Appel à candidature (PDF)"
+    ],
+    "avantages": [
+      "Formation à la communication orale",
+      "Participation à la finale nationale à Beyrouth",
+      "Possibilité de participer à la finale internationale en ligne"
+    ],
+    "eligibilite": [
+      "Être inscrit ou avoir été inscrit dans un établissement d'enseignement supérieur ou de recherche au Liban dans un programme de doctorat recherche (Ph.D) ou avoir obtenu le doctorat au cours des 12 mois précédant la finale internationale",
+      "Présenter un état d'avancement suffisant du projet de recherche doctoral (à partir de la fin de la deuxième année de thèse)",
+      "Ne pas avoir remporté de prix du jury ou du public lors d'une finale nationale de MT180 précédente",
+      "Être disponible et présent à la finale nationale et aux activités associées",
+      "Être capable de s'exprimer en français",
+      "Pour les doctorants en cotutelle : choisir le territoire (Liban ou autre pays) dès le début et s'y tenir"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'admissibilité",
+      "2. S'inscrire en ligne via le lien de candidature avant le 30 juin 2026",
+      "3. Participer au cycle de formation début septembre 2026",
+      "4. Participer à la finale nationale le 1er octobre 2026 à Beyrouth",
+      "5. Les lauréats nationaux peuvent être sélectionnés pour la finale internationale mi-décembre 2026"
+    ],
+    "contacts": [
+      "lolita.chami@auf.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://appels-propositions.auf.org/-liban-concours-international-ma-these-en-180-secondes-mt180-edition-2026"
+      },
+      {
+        "label": "Règlement - MT180 - Liban 2026 (PDF)",
+        "url": "https://appels-propositions.auf.org/files/337/liban-concours-international-ma-these-en-180-secondes---mt180---edition-2025/314/Règlement - MT180 - Liban 2026.pdf"
+      },
+      {
+        "label": "Appel à candidature - MT180 - 2026 Liban (PDF)",
+        "url": "https://appels-propositions.auf.org/files/337/liban-concours-international-ma-these-en-180-secondes---mt180---edition-2025/321/Appel à candidature - MT180 - 2026 Liban.pdf"
+      }
+    ],
+    "mots_cles": [
+      "concours",
+      "MT180",
+      "doctorat",
+      "Liban",
+      "vulgarisation",
+      "francophonie",
+      "thèse",
+      "180 secondes",
+      "2026"
+    ],
+    "lien_candidature": "https://appels-propositions.auf.org/connexion?course=mt180moyen-67c1c49ef2d01&cid=212&Itemid=1135",
+    "source_url": "https://appels-propositions.auf.org/-liban-concours-international-ma-these-en-180-secondes-mt180-edition-2026",
+    "statut": "ouvert",
+    "resume": "Le concours international Ma thèse en 180 secondes (MT180) édition 2026 au Liban invite les doctorants à présenter leurs travaux de recherche en 3 minutes, dans un langage accessible au grand public. Organisé par l'AUF, le CNRS-L et DAWReK'n, ce concours francophone vise à valoriser la relève scientifique et à promouvoir la vulgarisation. Les candidats doivent être inscrits en doctorat au Liban, avoir un bon niveau de français, et s'engager à participer à la finale nationale le 1er octobre 2026 à Beyrouth. Les inscriptions sont ouvertes jusqu'au 30 juin 2026.",
+    "extrait_le": "2026-06-16T04:04:57",
+    "slug": "concours-mt180-liban-2026"
+  },
+  {
     "titre": "Bourse Data Analytics (En ligne) de la Business School",
     "seo_slug": "bourse-data-analytics-online-edimbourg-2026",
     "organisation": "University of Edinburgh Business School",
@@ -869,6 +1200,65 @@
     "resume": "Le programme de bourses Hubert H. Humphrey 2027-2028 offre aux professionnels togolais en milieu de carrière une opportunité unique de renforcer leurs compétences en leadership et de développer leur réseau professionnel aux États-Unis. Financé par le Département d'État américain, ce programme couvre les frais de scolarité, de voyage et d'assurance, et propose un stage professionnel. Les candidats doivent être citoyens togolais, justifier d'au moins cinq ans d'expérience professionnelle et maîtriser l'anglais. Les candidatures sont à soumettre avant le 3 juillet 2026.",
     "extrait_le": "2026-06-15T05:01:02",
     "slug": "bourse-hubert-humphrey-togo-2027"
+  },
+  {
+    "titre": "Appel à candidatures – Juin 2026 – Formations qualifiantes certifiantes internationales à distance",
+    "seo_slug": "formations-qualifiantes-certifiantes-distance-2026",
+    "organisation": "AUF (Agence Universitaire de la Francophonie)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "formation à distance",
+    "deadline": "2026-07-05",
+    "deadline_texte": "5 juillet 2026",
+    "niveau_etudes": [
+      "Formation continue",
+      "Master",
+      "Licence"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays francophones"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [
+      "Étudiant·e·s",
+      "Jeunes diplômé·e·s",
+      "Professionnel·le·s francophones"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le catalogue des formations",
+      "2. Postuler avant le 5 juillet 2026"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://appels-propositions.auf.org/appel-a-candidatures-juin-2026-formations-qualifiantes-certifiantes-internationales-a-distance-"
+      },
+      {
+        "label": "Catalogue des formations qualifiantes certifiantes internationales",
+        "url": "https://l.auf.org/FOAD-FQ"
+      }
+    ],
+    "mots_cles": [
+      "formations qualifiantes",
+      "certifiantes",
+      "distance",
+      "AUF",
+      "francophonie",
+      "2026"
+    ],
+    "lien_candidature": "https://appels-propositions.auf.org/appel-a-candidatures-juin-2026-formations-qualifiantes-certifiantes-internationales-a-distance-",
+    "source_url": "https://appels-propositions.auf.org/appel-a-candidatures-juin-2026-formations-qualifiantes-certifiantes-internationales-a-distance-",
+    "statut": "ouvert",
+    "resume": "L'AUF lance un appel à candidatures pour des formations qualifiantes certifiantes internationales à distance, ouvert aux étudiants, jeunes diplômés et professionnels francophones. Les formations débutent en septembre 2026 et les candidatures sont à soumettre avant le 5 juillet 2026. Consultez le catalogue pour découvrir les formations proposées par les universités membres de l'AUF.",
+    "extrait_le": "2026-06-16T04:02:09",
+    "slug": "formations-qualifiantes-certifiantes-distance-2026"
   },
   {
     "titre": "Bourse Rhodes 2027 pour des études supérieures à l'Université d'Oxford",
@@ -1121,6 +1511,156 @@
     "slug": "mipd-program-printemps-2027"
   },
   {
+    "titre": "Deuxième édition du concours « Ma thèse en 180 secondes » en Asie-Pacifique",
+    "seo_slug": "concours-ma-these-180-secondes-asie-pacifique-2026",
+    "organisation": "Agence Universitaire de la Francophonie (AUF)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "concours",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026 à 23h59 (fuseau Europe/Paris)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Toutes disciplines"
+    ],
+    "pays_eligibles": [
+      "Pacifique",
+      "Asie du Sud",
+      "Asie de l'Est",
+      "Asie du Sud-Est (ASEAN)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français",
+    "documents_requis": [
+      "Formulaire d'inscription en ligne",
+      "Vidéo de présentation de thèse en 3 minutes (format MP4, AVI ou MOV)"
+    ],
+    "avantages": [
+      "Formation à la communication orale",
+      "Participation à la finale régionale en ligne",
+      "Possibilité de participer à la présélection internationale et à la finale internationale"
+    ],
+    "eligibilite": [
+      "Être inscrit ou avoir été inscrit en doctorat au cours de l'année universitaire 2025-2026, ou avoir obtenu son doctorat au cours de l'année universitaire 2024-2025",
+      "Présenter un état d'avancement suffisant du projet de recherche doctoral (à partir de la fin de la deuxième année de thèse)",
+      "Ne pas avoir remporté de prix du jury ou du public lors d'une précédente finale nationale de MT180",
+      "Être disponible et présent à la finale nationale ainsi qu'aux activités liées",
+      "Être capable de s'exprimer en français",
+      "Pour les doctorants en cotutelle : choisir le territoire de participation (Asie-Pacifique ou autre) dès l'inscription, choix définitif"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire d'inscription en ligne avant le 31 juillet 2026",
+      "2. Joindre une vidéo de présentation de thèse en 3 minutes (format MP4, AVI ou MOV)",
+      "3. Attendre l'annonce des résultats de sélection le 10 août 2026",
+      "4. Suivre le cycle de formation du 30 août au 4 septembre 2026 (si sélectionné)",
+      "5. Participer à la finale régionale en ligne le 25 septembre 2026"
+    ],
+    "contacts": [
+      "nguyen.thi.thuy.nga@auf.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://appels-propositions.auf.org/deuxieme-edition-du-concours-ma-these-en-180-secondes-en-asie-pacifique"
+      },
+      {
+        "label": "Candidater",
+        "url": "/connexion?course=mt180drap2-6a029a255f76e&cid=216&Itemid=1135"
+      }
+    ],
+    "mots_cles": [
+      "concours",
+      "ma thèse en 180 secondes",
+      "MT180",
+      "doctorat",
+      "vulgarisation scientifique",
+      "Asie-Pacifique",
+      "francophonie",
+      "AUF",
+      "2026"
+    ],
+    "lien_candidature": "/connexion?course=mt180drap2-6a029a255f76e&cid=216&Itemid=1135",
+    "source_url": "https://appels-propositions.auf.org/deuxieme-edition-du-concours-ma-these-en-180-secondes-en-asie-pacifique",
+    "statut": "ouvert",
+    "resume": "L'Agence Universitaire de la Francophonie (AUF) lance la deuxième édition régionale Asie-Pacifique du concours « Ma thèse en 180 secondes ». Ce concours permet aux doctorants et jeunes docteurs de présenter leur sujet de recherche en termes simples en trois minutes. Les candidats doivent être inscrits en doctorat en 2025-2026 ou avoir obtenu leur doctorat en 2024-2025, et s'exprimer en français. Les inscriptions sont ouvertes jusqu'au 31 juillet 2026, avec une finale régionale en ligne prévue le 25 septembre 2026.",
+    "extrait_le": "2026-06-16T04:00:33",
+    "slug": "concours-ma-these-180-secondes-asie-pacifique-2026"
+  },
+  {
+    "titre": "Prix AUF Dolla Karam Sarkis 2026",
+    "seo_slug": "prix-auf-dolla-karam-sarkis-2026",
+    "organisation": "AUF Moyen-Orient",
+    "montant": 4000,
+    "devise": "EUR",
+    "type_financement": "prix",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026 à 12h00 (fuseau Europe/Paris)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Toutes les disciplines scientifiques"
+    ],
+    "pays_eligibles": [
+      "Liban"
+    ],
+    "age_maximum": 40,
+    "langue_requise": "Français",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Attestation de travail prouvant le rattachement à un établissement d'enseignement supérieur libanais membre de l'AUF",
+      "Extrait d'état civil",
+      "Copie du diplôme de doctorat",
+      "Curriculum vitae à jour en français détaillé (liste de publications, interventions, brevets, prix et distinctions)"
+    ],
+    "avantages": [
+      "Prix de 4 000 € par lauréat",
+      "Cérémonie officielle de remise des prix"
+    ],
+    "eligibilite": [
+      "Jeune chercheur libanais",
+      "40 ans ou moins",
+      "Titulaire d'un doctorat",
+      "Projet de recherche en cours (programme scientifique, axe de recherche, post-doctorat, etc.)",
+      "Rattachement à un établissement d'enseignement supérieur libanais membre de l'AUF"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Préparer les documents requis (CV, attestation de travail, extrait d'état civil, copie du doctorat)",
+      "3. Remplir le formulaire de candidature en ligne",
+      "4. Soumettre le dossier avant le 31 juillet 2026 à 12h00 (Europe/Paris)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://appels-propositions.auf.org/prix-auf-dolla-karam-sarkis-2026-1"
+      },
+      {
+        "label": "Présentation Prix AUF Dolla Karam Sarkis 2026 (PDF)",
+        "url": "https://appels-propositions.auf.org/files/349/prix-auf-dolla-karam-sarkis-2025/322/Présentation Prix AUF Dolla Karam Sarkis 2026.pdf"
+      }
+    ],
+    "mots_cles": [
+      "prix",
+      "AUF",
+      "Dolla Karam Sarkis",
+      "jeune chercheur",
+      "Liban",
+      "recherche scientifique",
+      "doctorat",
+      "2026"
+    ],
+    "lien_candidature": "https://appels-propositions.auf.org/connexion?course=prixaufdol-67977a6a92fd8&cid=224&Itemid=1135",
+    "source_url": "https://appels-propositions.auf.org/prix-auf-dolla-karam-sarkis-2026-1",
+    "statut": "ouvert",
+    "resume": "Le Prix AUF Dolla Karam Sarkis 2026 récompense deux jeunes chercheurs libanais de 40 ans ou moins, titulaires d'un doctorat, pour un projet de recherche en cours. D'une valeur de 4 000 € chacun, ce prix honore la mémoire du Professeur Dolla Karam Sarkis et célèbre l'excellence scientifique au Liban. Les candidatures sont ouvertes jusqu'au 31 juillet 2026.",
+    "extrait_le": "2026-06-16T04:01:27",
+    "slug": "prix-auf-dolla-karam-sarkis-2026"
+  },
+  {
     "titre": "Bourses CYD - Programme de talents pour la recherche en cyberdéfense",
     "seo_slug": "bourses-cyd-cyberdefense-suisse-2026",
     "organisation": "EPFL et Cyber-Defence (CYD) Campus",
@@ -1337,6 +1877,67 @@
     "resume": "Le programme ETH Fellowships de l'ETH Zurich offre des bourses postdoctorales prestigieuses aux jeunes chercheurs ayant démontré une excellence scientifique. D'une durée de deux ans, la bourse couvre le salaire complet et alloue 12 000 CHF par an pour les frais de recherche. Les candidatures, soutenues par un professeur hôte, sont évaluées deux fois par an avec un taux de succès de 15 à 20 %. Les candidats doivent avoir obtenu leur doctorat depuis moins de deux ans et ne pas avoir résidé en Suisse plus de 12 mois.",
     "extrait_le": "2026-06-15T02:06:10",
     "slug": "bourses-postdoctorales-eth-zurich-2026"
+  },
+  {
+    "titre": "Appel à candidatures 2026/27 – Formations diplômantes internationales à distance",
+    "seo_slug": "formations-diplomantes-distance-auf-2026",
+    "organisation": "Agence Universitaire de la Francophonie (AUF)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "prise en charge partielle des frais d'inscription",
+    "deadline": "2026-09-14",
+    "deadline_texte": "14 septembre 2026 (pour formations débutant en janvier/février 2027) ; 9 juin 2026 (pour formations débutant en septembre/octobre 2026)",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Pays francophones"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français",
+    "documents_requis": [],
+    "avantages": [
+      "Allocation de mobilité virtuelle internationale (prise en charge partielle des frais d'inscription)",
+      "Accompagnement depuis la candidature jusqu'au diplôme",
+      "Accès gratuit aux implantations de l'AUF"
+    ],
+    "eligibilite": [
+      "Être étudiant francophone",
+      "Être méritant ou avoir des ressources limitées"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le catalogue des formations : https://l.auf.org/FOAD-FD",
+      "2. Postuler avant la date de clôture correspondant à la formation choisie"
+    ],
+    "contacts": [
+      "foad@auf.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Catalogue des formations FOAD",
+        "url": "https://l.auf.org/FOAD-FD"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "formation à distance",
+      "AUF",
+      "FOAD",
+      "diplôme universitaire",
+      "francophonie",
+      "2026"
+    ],
+    "lien_candidature": "https://l.auf.org/FOAD-FD",
+    "source_url": "https://appels-propositions.auf.org/appel-a-candidatures-2026-27-formations-diplomantes-internationales-a-distance",
+    "statut": "ouvert",
+    "resume": "L'AUF propose plus de 150 formations diplômantes à distance (licence à doctorat) pour les étudiants francophones. Les candidats méritants ou à ressources limitées peuvent bénéficier d'une prise en charge partielle des frais d'inscription et d'un accompagnement complet. Les candidatures sont ouvertes jusqu'au 14 septembre 2026 selon la date de début de formation.",
+    "extrait_le": "2026-06-16T03:59:23",
+    "slug": "formations-diplomantes-distance-auf-2026"
   },
   {
     "titre": "Fondation Rosa Luxemburg : Programme de bourses pour doctorants internationaux",
@@ -2499,5 +3100,143 @@
     "resume": "Le Programme de Bourses Mastercard Foundation à l'Université de Pretoria offre un soutien complet aux jeunes Africains talentueux confrontés à des barrières économiques et sociales, y compris les personnes handicapées et les réfugiés. Depuis 2014, ce programme finance des études de licence, honours et master, avec une prise en charge totale des frais, un accompagnement psychosocial, des stages et une formation en entrepreneuriat. Les boursiers s'engagent à contribuer au développement de leurs communautés et du continent après leurs études.",
     "extrait_le": "2026-06-15T05:27:55",
     "slug": "bourse-mastercard-pretoria-afrique-2026"
+  },
+  {
+    "titre": "Bourses d'études à l'Université Sabancı",
+    "seo_slug": "bourses-sabanci-universite-turquie",
+    "organisation": "Sabancı University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse partielle ou complète",
+    "deadline": null,
+    "deadline_texte": "Voir les dates limites de candidature",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Lettres de recommandation",
+      "Relevés de notes",
+      "Résultats de tests (GMAT/GRE)",
+      "Diplômes",
+      "Certificats de prix ou olympiades"
+    ],
+    "avantages": [
+      "Bourse de scolarité",
+      "Possibilité de bourse après deux semestres avec mentions"
+    ],
+    "eligibilite": [
+      "Être candidat international",
+      "Avoir soumis une candidature complète",
+      "Être évalué par le comité des bourses"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne",
+      "2. Indiquer dans le formulaire que vous souhaitez être considéré pour une bourse",
+      "3. Soumettre tous les documents requis (CV, lettres de recommandation, relevés de notes, résultats de tests, diplômes, certificats de prix)",
+      "4. Les candidatures précoces sont prioritaires",
+      "5. Le comité des bourses examine les dossiers et peut demander des documents supplémentaires"
+    ],
+    "contacts": [
+      "+90 216 483 90 00"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.sabanciuniv.edu/en/scholarships?fbclid=IwY2xjawScbjVleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsmijX_I1GUG31f-HIz8n3rpjyNbSfaOCT0Ou42-g-bPshw5wTtuS8ooT891_aem_VD9YbAOFLYh44nyNjURrtQ"
+      },
+      {
+        "label": "Bourses pour étudiants de premier cycle",
+        "url": "https://www.sabanciuniv.edu/en/scholarships"
+      },
+      {
+        "label": "Bourses pour étudiants diplômés",
+        "url": "https://www.sabanciuniv.edu/en/graduate-scholarships"
+      },
+      {
+        "label": "Bourses en cours d'études",
+        "url": "https://www.sabanciuniv.edu/en/scholarship-opportunities-offered-during-education-period"
+      },
+      {
+        "label": "Dates limites de candidature",
+        "url": "https://www.sabanciuniv.edu/en/undergraduate-admissions-international-students"
+      },
+      {
+        "label": "Faculté d'ingénierie et sciences naturelles - Aide financière",
+        "url": "https://fens.sabanciuniv.edu/en/financial-aid-and-scholarships-graduate-students"
+      },
+      {
+        "label": "Faculté des arts et sciences sociales - Bourses",
+        "url": "https://www.sabanciuniv.edu/en/graduate-scholarships"
+      },
+      {
+        "label": "École de gestion - Bourses",
+        "url": "https://www.sabanciuniv.edu/en/graduate-scholarships"
+      },
+      {
+        "label": "Bourse du gouvernement azerbaïdjanais",
+        "url": "https://www.dp.edu.az/az/index"
+      },
+      {
+        "label": "Universités turques accréditées en Irak",
+        "url": "https://www.google.com/url?q=https://www.scrdiraq.gov.iq/images/ad/UNIVERSITY/University_Guide_2016_08_21---L.M%252026-09-2018.xlsx&sa=D&source=hangouts&ust=1544769878656000&usg=AFQjCNFnaVtDa1QLxAqQLS2JFX-L9QmDQA"
+      },
+      {
+        "label": "Ministère irakien de l'Enseignement supérieur",
+        "url": "http://www.mohesr.gov.iq/"
+      },
+      {
+        "label": "Ministère irakien - Département des missions",
+        "url": "http://www.scrdiraq.gov.iq/"
+      },
+      {
+        "label": "Attaché culturel irakien à Ankara",
+        "url": "http://mohesr.gov.iq/ar/%D8%A7%D9%84%D9%85%D9%84%D8%AD%D9%82%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9-2/"
+      },
+      {
+        "label": "Universités accréditées à Oman",
+        "url": "https://eservices.mohe.gov.om/Student/FindExtUniversity.aspx?lang=ar%20"
+      },
+      {
+        "label": "Conditions d'admission Oman (PDF)",
+        "url": "https://www.sabanciuniv.edu/sites/default/files/public/iro_brosurler/omandocs.pdf"
+      },
+      {
+        "label": "Ministère libyen de l'Enseignement supérieur",
+        "url": "http://highereducation.gov.ly/"
+      },
+      {
+        "label": "Bourses HEC Pakistan - Overseas",
+        "url": "http://www.hec.gov.pk/english/scholarshipsgrants/pages/default.aspx"
+      },
+      {
+        "label": "Conseil supérieur de l'éducation du Qatar",
+        "url": "https://www.sabanciuniv.edu/en/scholarships"
+      }
+    ],
+    "mots_cles": [
+      "bourse université sabanci",
+      "bourse turquie internationale",
+      "bourse licence master doctorat",
+      "bourse sabanci 2026",
+      "bourse gouvernement azerbaïdjan irak oman libye pakistan qatar"
+    ],
+    "lien_candidature": "https://www.sabanciuniv.edu/en/scholarships",
+    "source_url": "https://www.sabanciuniv.edu/en/scholarships?fbclid=IwY2xjawScbjVleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsmijX_I1GUG31f-HIz8n3rpjyNbSfaOCT0Ou42-g-bPshw5wTtuS8ooT891_aem_VD9YbAOFLYh44nyNjURrtQ",
+    "statut": "ouvert",
+    "resume": "L'Université Sabancı en Turquie offre des bourses aux étudiants internationaux de premier cycle et de cycles supérieurs. Les candidats sont automatiquement évalués pour une bourse lors de leur admission, avec une priorité pour les candidatures précoces. Les bourses couvrent tout ou partie des frais de scolarité et peuvent être renouvelées. Des opportunités spécifiques existent pour les étudiants d'Azerbaïdjan, d'Irak, d'Oman, de Libye, du Pakistan et du Qatar via des programmes gouvernementaux.",
+    "adresse": "Orta Mahalle, 34956 Tuzla, İstanbul, Türkiye",
+    "extrait_le": "2026-06-15T05:36:35",
+    "slug": "bourses-sabanci-universite-turquie"
   }
 ]

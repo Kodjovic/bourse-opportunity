@@ -1018,6 +1018,86 @@
     "slug": "concours-mt180-liban-2026"
   },
   {
+    "titre": "Appel à manifestation d'intérêt pour le Conseil de la jeunesse de l'OMS (2026-2028)",
+    "seo_slug": "conseil-jeunesse-oms-2026-2028",
+    "organisation": "World Health Organization (WHO)",
+    "montant": null,
+    "devise": null,
+    "type_financement": null,
+    "deadline": "2026-06-30",
+    "deadline_texte": "30 juin 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Santé publique",
+      "Plaidoyer",
+      "Innovation"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Formulaire de divulgation Tabac-Armes"
+    ],
+    "avantages": [],
+    "eligibilite": [
+      "Être une organisation active au niveau international",
+      "Être dirigée par des jeunes, axée sur les jeunes ou être un chapitre jeunesse d'une organisation plus grande",
+      "Devenir membre de la Commission de la société civile de l'OMS"
+    ],
+    "procedure_etapes": [
+      "1. Lire attentivement les critères d'éligibilité et le mandat.",
+      "2. Devenir membre de la Commission de la société civile de l'OMS (si ce n'est pas déjà fait).",
+      "3. Remplir le formulaire de candidature en ligne.",
+      "4. Soumettre le formulaire de divulgation Tabac-Armes.",
+      "5. Envoyer le tout avant la date limite."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.who.int/news-room/articles-detail/call-for-expressions-of-interest-to-serve-who-youth-council-2026-2028?fbclid=IwY2xjawSfEzdleHRuA2FlbQIxMABicmlkETFBb3dLMGlvU1kwZ2xGWFg4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlCUKjXxT5ptnn2XCAW9SYEDOmPhOZhjyUalK-N5GGV7EQyQ_6uoQUWho-57_aem_1Le8SPq50pPlAsYD0D3AtQ"
+      },
+      {
+        "label": "Page d'information sur le Conseil de la jeunesse",
+        "url": "https://www.who.int/initiatives/who-youth-engagement/who-youth-council"
+      },
+      {
+        "label": "Mandat du Conseil de la jeunesse (PDF)",
+        "url": "https://cdn.who.int/media/docs/default-source/youth-engagement/tor_whoyouthcouncil.pdf?sfvrsn=fc962b80_6"
+      },
+      {
+        "label": "Formulaire de divulgation Tabac-Armes (PDF)",
+        "url": "https://cdn.who.int/media/docs/default-source/youth-engagement/tobacco-arms-disclosure-statement.pdf?sfvrsn=c438f8_2"
+      },
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=t8AQ9iS9OUuBCz3CgK-1kLmOrsJSHKlJkLjwJp81HMRUNlhPUlAwUTRVMkdYM04xSVNJTUFQU1hMVC4u"
+      },
+      {
+        "label": "Page d'adhésion à la Commission de la société civile",
+        "url": "https://www.who.int/about/collaboration/civil-society-and-ngo-engagement/civil-society-commission/how-to-participate"
+      }
+    ],
+    "mots_cles": [
+      "conseil jeunesse OMS",
+      "engagement jeunes",
+      "santé publique",
+      "organisation jeunesse",
+      "plaidoyer santé",
+      "appel candidatures 2026"
+    ],
+    "lien_candidature": "https://forms.office.com/Pages/ResponsePage.aspx?id=t8AQ9iS9OUuBCz3CgK-1kLmOrsJSHKlJkLjwJp81HMRUNlhPUlAwUTRVMkdYM04xSVNJTUFQU1hMVC4u",
+    "source_url": "https://www.who.int/news-room/articles-detail/call-for-expressions-of-interest-to-serve-who-youth-council-2026-2028?fbclid=IwY2xjawSfEzdleHRuA2FlbQIxMABicmlkETFBb3dLMGlvU1kwZ2xGWFg4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlCUKjXxT5ptnn2XCAW9SYEDOmPhOZhjyUalK-N5GGV7EQyQ_6uoQUWho-57_aem_1Le8SPq50pPlAsYD0D3AtQ",
+    "statut": "ouvert",
+    "resume": "L'Organisation mondiale de la santé (OMS) lance un appel à manifestation d'intérêt pour la troisième mandature de son Conseil de la jeunesse (2026-2028). Les organisations internationales dirigées par des jeunes ou axées sur la jeunesse sont invitées à candidater pour amplifier la voix des jeunes dans les politiques de santé mondiales. Les candidatures, incluant un formulaire en ligne et une déclaration Tabac-Armes, sont attendues avant le 30 juin 2026.",
+    "adresse": "20, avenue Appia, Geneva, Switzerland, 1211",
+    "extrait_le": "2026-06-17T05:44:10",
+    "slug": "conseil-jeunesse-oms-2026-2028"
+  },
+  {
     "titre": "Bourse Data Analytics (En ligne) de la Business School",
     "seo_slug": "bourse-data-analytics-online-edimbourg-2026",
     "organisation": "University of Edinburgh Business School",
@@ -1259,6 +1339,80 @@
     "resume": "L'AUF lance un appel à candidatures pour des formations qualifiantes certifiantes internationales à distance, ouvert aux étudiants, jeunes diplômés et professionnels francophones. Les formations débutent en septembre 2026 et les candidatures sont à soumettre avant le 5 juillet 2026. Consultez le catalogue pour découvrir les formations proposées par les universités membres de l'AUF.",
     "extrait_le": "2026-06-16T04:02:09",
     "slug": "formations-qualifiantes-certifiantes-distance-2026"
+  },
+  {
+    "titre": "Programme de Leadership pour la Jeunesse des Systèmes Alimentaires des Nations Unies",
+    "seo_slug": "bourse-youth-leadership-programme-onu-2026",
+    "organisation": "UN Food Systems Coordination Hub",
+    "montant": null,
+    "devise": null,
+    "type_financement": "programme de leadership",
+    "deadline": "2026-07-13",
+    "deadline_texte": "13 juillet 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Systèmes alimentaires",
+      "Développement durable",
+      "Action climatique"
+    ],
+    "pays_eligibles": [
+      "Pays à revenu faible ou intermédiaire",
+      "Afrique",
+      "Asie et Pacifique",
+      "Amérique latine et Caraïbes"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Compétences en leadership et pensée systémique",
+      "Accès à un réseau mondial de pairs et d'experts",
+      "Opportunités de collaboration et d'apprentissage entre pairs",
+      "Outils pratiques pour renforcer l'impact et l'influence",
+      "Exposition aux processus et partenariats mondiaux sur les systèmes alimentaires"
+    ],
+    "eligibilite": [
+      "Âgé de 18 à 35 ans",
+      "Maîtrise de l'anglais",
+      "Ressortissant d'un pays à revenu faible ou intermédiaire",
+      "Expérience dans les systèmes alimentaires, le développement durable, l'action climatique ou domaines connexes",
+      "Expérience de leadership ou de contribution à des initiatives communautaires, organisationnelles, institutionnelles ou sectorielles",
+      "Engagement à participer pleinement aux activités du programme jusqu'en 2028"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Postuler en ligne via le lien fourni"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.unfoodsystemshub.org/latest-updates/news/detail/applications-now-open-for-the-next-cohort-of-the-youth-leadership-programme/en?fbclid=IwY2xjawSfEm1leHRuA2FlbQIxMABicmlkETFBb3dLMGlvU1kwZ2xGWFg4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlPzbviwbbirJknxZCMmOKerP4FCt1E007yfBcGIqc4kcV__H8ie7TJqA7DW_aem_vEiZUjwXuAVkyXEnn1nM3Q"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://www.surveymonkey.com/r/YLP2026"
+      },
+      {
+        "label": "Page du programme",
+        "url": "https://www.unfoodsystemshub.org/hub-solution/youth-leadership-programme/en"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "leadership",
+      "jeunesse",
+      "systèmes alimentaires",
+      "ONU",
+      "programme",
+      "2026"
+    ],
+    "lien_candidature": "https://www.surveymonkey.com/r/YLP2026",
+    "source_url": "https://www.unfoodsystemshub.org/latest-updates/news/detail/applications-now-open-for-the-next-cohort-of-the-youth-leadership-programme/en?fbclid=IwY2xjawSfEm1leHRuA2FlbQIxMABicmlkETFBb3dLMGlvU1kwZ2xGWFg4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlPzbviwbbirJknxZCMmOKerP4FCt1E007yfBcGIqc4kcV__H8ie7TJqA7DW_aem_vEiZUjwXuAVkyXEnn1nM3Q",
+    "statut": "ouvert",
+    "resume": "Le Programme de Leadership pour la Jeunesse des Systèmes Alimentaires des Nations Unies (YLP) est une initiative mondiale visant à former une nouvelle génération de leaders capables de transformer les systèmes alimentaires. Ouvert aux jeunes de 18 à 35 ans issus de pays à revenu faible ou intermédiaire, ce programme offre un parcours de leadership unique combinant mentorat, apprentissage par les pairs et collaboration avec des experts de l'ONU. Les participants acquièrent des compétences en pensée systémique et élargissent leur réseau pour avoir un impact durable dans leurs communautés.",
+    "extrait_le": "2026-06-17T05:42:41",
+    "slug": "bourse-youth-leadership-programme-onu-2026"
   },
   {
     "titre": "Bourse Rhodes 2027 pour des études supérieures à l'Université d'Oxford",
@@ -1659,6 +1813,168 @@
     "resume": "Le Prix AUF Dolla Karam Sarkis 2026 récompense deux jeunes chercheurs libanais de 40 ans ou moins, titulaires d'un doctorat, pour un projet de recherche en cours. D'une valeur de 4 000 € chacun, ce prix honore la mémoire du Professeur Dolla Karam Sarkis et célèbre l'excellence scientifique au Liban. Les candidatures sont ouvertes jusqu'au 31 juillet 2026.",
     "extrait_le": "2026-06-16T04:01:27",
     "slug": "prix-auf-dolla-karam-sarkis-2026"
+  },
+  {
+    "titre": "Programme de Bourses Mastercard Foundation à l'Université McGill",
+    "seo_slug": "bourse-mastercard-foundation-mcgill-afrique-2026",
+    "organisation": "Mastercard Foundation Scholars Program at McGill University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026 (dernière session d'information)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Sciences animales",
+      "Génie des bioressources",
+      "Biostatistique",
+      "Biotechnologie",
+      "Science alimentaire",
+      "Nutrition humaine",
+      "Santé publique",
+      "Politiques publiques"
+    ],
+    "pays_eligibles": [
+      "Algérie",
+      "Angola",
+      "Bénin",
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Cabo Verde",
+      "Cameroun",
+      "République centrafricaine",
+      "Tchad",
+      "Comores",
+      "Congo (République démocratique)",
+      "Congo (République)",
+      "Côte d'Ivoire",
+      "Djibouti",
+      "Égypte",
+      "Guinée équatoriale",
+      "Érythrée",
+      "Eswatini",
+      "Éthiopie",
+      "Gabon",
+      "Gambie",
+      "Ghana",
+      "Guinée",
+      "Guinée-Bissau",
+      "Kenya",
+      "Lesotho",
+      "Liberia",
+      "Libye",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mauritanie",
+      "Maurice",
+      "Maroc",
+      "Mozambique",
+      "Namibie",
+      "Niger",
+      "Nigeria",
+      "Rwanda",
+      "São Tomé et Príncipe",
+      "Sénégal",
+      "Seychelles",
+      "Sierra Leone",
+      "Somalie",
+      "Afrique du Sud",
+      "Soudan du Sud",
+      "Soudan",
+      "Tanzanie",
+      "Togo",
+      "Tunisie",
+      "Ouganda",
+      "Zambie",
+      "Zimbabwe"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais (non spécifié mais McGill exige anglais)",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Diplôme de bachelor",
+      "Relevés de notes",
+      "Preuve de citoyenneté",
+      "Passeport valide",
+      "Lettre de motivation",
+      "Preuve d'engagement social"
+    ],
+    "avantages": [
+      "Bourse complète (frais de scolarité, frais de subsistance, voyage, etc.)"
+    ],
+    "eligibilite": [
+      "Être admissible à un programme de maîtrise éligible à McGill",
+      "N'avoir jamais été inscrit ni complété un master",
+      "Être citoyen et résident d'un pays africain",
+      "Avoir un passeport valide et être admissible au Canada comme étudiant international",
+      "Ne pas avoir la double nationalité, asile, réfugié ou résident permanent aux États-Unis, Canada, Royaume-Uni ou UE",
+      "Avoir un dossier exceptionnel de service, leadership et activité dans son école/communauté",
+      "Démontrer un désir de redonner à sa communauté d'origine",
+      "Démontrer que des contraintes financières ont empêché ou limité ses opportunités éducatives",
+      "Âge maximum 35 ans à la date de candidature",
+      "Priorité aux femmes, personnes déplacées de force, personnes handicapées, et ceux avec First Class Honors"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et les programmes éligibles.",
+      "2. Assister à une session d'information obligatoire (inscription selon la région).",
+      "3. Recevoir le lien du formulaire de candidature après la session.",
+      "4. Soumettre la candidature complète avant la date limite."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/information-sessions?fbclid=IwY2xjawSfE4RleHRuA2FlbQIxMABicmlkETFBb3dLMGlvU1kwZ2xGWFg4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlCUKjXxT5ptnn2XCAW9SYEDOmPhOZhjyUalK-N5GGV7EQyQ_6uoQUWho-57_aem_1Le8SPq50pPlAsYD0D3AtQ"
+      },
+      {
+        "label": "Page d'éligibilité",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/eligibility"
+      },
+      {
+        "label": "Sessions d'information",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/information-sessions"
+      },
+      {
+        "label": "Processus de sélection",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/selection-process"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/faq"
+      },
+      {
+        "label": "Formulaire de barrière technologique",
+        "url": "https://forms.office.com/r/qCCssAtKnM"
+      },
+      {
+        "label": "Inscription session Afrique du Nord/Ouest (23 juin)",
+        "url": "https://forms.office.com/r/BXXkC2EZFd"
+      },
+      {
+        "label": "Liste des pays éligibles",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/eligibility#eligible-countries"
+      }
+    ],
+    "mots_cles": [
+      "bourse mastercard foundation",
+      "bourse mcgill",
+      "master afrique",
+      "bourse master 2026",
+      "bourse complète canada",
+      "bourse leadership",
+      "bourse développement"
+    ],
+    "lien_candidature": "https://www.mcgill.ca/mastercardfdn-scholars/apply/information-sessions",
+    "source_url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/information-sessions?fbclid=IwY2xjawSfE4RleHRuA2FlbQIxMABicmlkETFBb3dLMGlvU1kwZ2xGWFg4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlCUKjXxT5ptnn2XCAW9SYEDOmPhOZhjyUalK-N5GGV7EQyQ_6uoQUWho-57_aem_1Le8SPq50pPlAsYD0D3AtQ",
+    "statut": "ouvert",
+    "resume": "Le Programme de Bourses Mastercard Foundation à l'Université McGill offre une bourse complète pour des études de master à des étudiants africains talentueux ayant un fort engagement social. Les candidats doivent assister à une session d'information obligatoire avant de postuler. Les programmes éligibles couvrent des domaines variés comme la santé publique, les politiques publiques et les sciences alimentaires. Priorité est donnée aux femmes, aux personnes déplacées et aux personnes handicapées.",
+    "adresse": "Suite 4100, Brown Student Services Building, 3600 rue McTavish, Montréal, Quebec H3A 0G3",
+    "extrait_le": "2026-06-17T05:47:44",
+    "slug": "bourse-mastercard-foundation-mcgill-afrique-2026"
   },
   {
     "titre": "Bourses CYD - Programme de talents pour la recherche en cyberdéfense",
@@ -3238,5 +3554,373 @@
     "adresse": "Orta Mahalle, 34956 Tuzla, İstanbul, Türkiye",
     "extrait_le": "2026-06-15T05:36:35",
     "slug": "bourses-sabanci-universite-turquie"
+  },
+  {
+    "titre": "Programme de bourses Coca-Cola MENA 2014 pour étudier aux États-Unis",
+    "seo_slug": "bourse-coca-cola-mena-usa-2014",
+    "organisation": "The Coca-Cola Company & US Department of State",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2014-04-18",
+    "deadline_texte": "18 avril 2014",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Affaires",
+      "Commerce",
+      "Entrepreneuriat"
+    ],
+    "pays_eligibles": [
+      "Algérie",
+      "Égypte",
+      "Jordanie",
+      "Maroc",
+      "Palestine",
+      "Tunisie"
+    ],
+    "age_maximum": 24,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Lettre de motivation",
+      "Idée d'entreprise",
+      "Formulaire de consentement signé (parent ou tuteur si moins de 21 ans)"
+    ],
+    "avantages": [
+      "Voyage aller-retour vers et aux États-Unis",
+      "Hébergement",
+      "Repas",
+      "Frais universitaires",
+      "Frais de visa"
+    ],
+    "eligibilite": [
+      "Être citoyen et résident de l'un des pays suivants : Algérie, Égypte, Jordanie, Maroc, Palestine ou Tunisie",
+      "Être étudiant",
+      "Avoir entre 18 et 24 ans",
+      "Avoir une idée d'entreprise pour améliorer demain"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité.",
+      "2. Préparer une idée d'entreprise.",
+      "3. Remplir le formulaire de candidature en ligne.",
+      "4. Fournir un formulaire de consentement signé (parent ou tuteur si moins de 21 ans) confirmant la compréhension que le programme a lieu pendant le Ramadan.",
+      "5. Soumettre la candidature avant le 18 avril 2014."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page officielle du programme",
+        "url": "https://www.opportunitiesforafricans.com/coca-cola-mena-scholarship-program-2014-to-study-in-usa/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Coca-Cola",
+      "MENA",
+      "États-Unis",
+      "programme d'été",
+      "Kelley School of Business",
+      "Indiana University",
+      "entrepreneuriat",
+      "étudiants"
+    ],
+    "lien_candidature": "https://www.opportunitiesforafricans.com/coca-cola-mena-scholarship-program-2014-to-study-in-usa/",
+    "source_url": "https://www.opportunitiesforafricans.com/coca-cola-mena-scholarship-program-2014-to-study-in-usa/",
+    "statut": "fermé",
+    "resume": "Le programme de bourses Coca-Cola MENA, en partenariat avec le Département d'État américain, offre à 100 étudiants de la région MENA une immersion d'un mois à la Kelley School of Business de l'Université d'Indiana. Les participants bénéficient d'une prise en charge complète (voyage, hébergement, repas, frais universitaires et visa) et d'une visite au Département d'État et au siège de Coca-Cola. Les candidats doivent être âgés de 18 à 24 ans, citoyens de l'un des six pays éligibles, et présenter une idée d'entreprise. La date limite est le 18 avril 2014.",
+    "extrait_le": "2026-06-17T05:34:31",
+    "slug": "bourse-coca-cola-mena-usa-2014"
+  },
+  {
+    "titre": "Bourse du gouvernement chinois/UA 2017/2018 pour jeunes Africains pour étudier en Chine (entièrement financée)",
+    "seo_slug": "bourse-chine-afrique-master-2017",
+    "organisation": "Commission de l'Union africaine / Gouvernement de la République populaire de Chine",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2017-06-30",
+    "deadline_texte": "30 juin 2017",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Gestion",
+      "Travail social",
+      "Santé publique",
+      "Communication internationale",
+      "Trafic",
+      "Politiques publiques",
+      "Administration publique",
+      "Finance",
+      "Audit",
+      "Gestion environnementale"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": 32,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Lettre de motivation",
+      "Curriculum Vitae",
+      "Copies certifiées des diplômes et relevés de notes",
+      "Copie de la page d'identité du passeport (validité ≥ 6 mois)",
+      "Photo d'identité couleur (3x4)",
+      "Lettres de recommandation de deux références académiques et une personnelle",
+      "Certificat médical"
+    ],
+    "avantages": [
+      "Bourse entièrement financée (frais de scolarité, hébergement, bourse mensuelle, etc.)"
+    ],
+    "eligibilite": [
+      "Être un ressortissant africain qualifié",
+      "Avoir un diplôme de licence d'une université reconnue avec au moins une mention bien (deuxième classe supérieure) ou équivalent dans un domaine pertinent",
+      "Âge maximum de 32 ans",
+      "Maîtrise de l'anglais",
+      "Potentiel, motivation et désir de jouer un rôle de leadership transformateur en Afrique"
+    ],
+    "procedure_etapes": [
+      "1. Postuler directement sur le site web de l'université choisie.",
+      "2. Postuler également via le site web du gouvernement chinois pour la bourse.",
+      "3. Envoyer des copies de la candidature par email à Olaleye Matthew Adewumi (olaleye@africa-union.org) et en copie à Hilda Muhu (hildam@africa-union.org)."
+    ],
+    "contacts": [
+      "olaleye@africa-union.org",
+      "hildam@africa-union.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Visitez le site :",
+        "url": "https://www.opportunitiesforafricans.com/chinese-governmentauc-scholarship-20172018-for-young-africans-to-study-in-china-fully-funded/"
+      },
+      {
+        "label": "Site web du gouvernement chinois pour les bourses",
+        "url": "http://www.csc.edu.cn/"
+      }
+    ],
+    "mots_cles": [
+      "bourse chine",
+      "bourse africaine",
+      "master chine",
+      "bourse gouvernement chinois",
+      "bourse union africaine",
+      "étudier en chine",
+      "bourse entièrement financée",
+      "bourse 2017"
+    ],
+    "lien_candidature": "https://www.opportunitiesforafricans.com/chinese-governmentauc-scholarship-20172018-for-young-africans-to-study-in-china-fully-funded/",
+    "source_url": "https://www.opportunitiesforafricans.com/chinese-governmentauc-scholarship-20172018-for-young-africans-to-study-in-china-fully-funded/",
+    "statut": "fermé",
+    "resume": "Le gouvernement chinois, en partenariat avec la Commission de l'Union africaine, offre des bourses entièrement financées pour des programmes de master dans diverses universités chinoises pour l'année académique 2017/2018. Destinée aux jeunes Africains motivés, cette bourse couvre l'intégralité des frais et vise à former des leaders transformateurs pour le continent. Les candidats doivent être âgés de moins de 32 ans, titulaires d'une licence avec mention, et postuler à la fois sur le site de l'université et via le portail du gouvernement chinois.",
+    "extrait_le": "2026-06-17T05:34:31",
+    "slug": "bourse-chine-afrique-master-2017"
+  },
+  {
+    "titre": "Bourse Google Udacity Afrique 2018 pour développeurs en herbe",
+    "seo_slug": "bourse-google-udacity-afrique-2018",
+    "organisation": "Google, Andela, Udacity",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse partielle",
+    "deadline": "2018-04-24",
+    "deadline_texte": "24 avril 2018",
+    "niveau_etudes": [
+      "Formation continue"
+    ],
+    "domaines": [
+      "Développement web",
+      "Développement Android"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Cours en ligne",
+      "Accès à la communauté Andela",
+      "Possibilité de bourse complète pour un nanodegree"
+    ],
+    "eligibilite": [
+      "Être résident d'un pays africain",
+      "Avoir au moins 18 ans à la date de soumission"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne avant le 24 avril 2018.",
+      "2. Choisir entre développement web ou Android.",
+      "3. Attendre la notification des résultats le 2 mai 2018.",
+      "4. Débuter le programme le 8 mai 2018."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page officielle du programme",
+        "url": "https://www.udacity.com/google-africa-scholarships"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "Google",
+      "Udacity",
+      "Afrique",
+      "développeur",
+      "web",
+      "Android",
+      "2018"
+    ],
+    "lien_candidature": "https://www.udacity.com/google-africa-scholarships",
+    "source_url": "https://www.opportunitiesforafricans.com/udacity-google-africa-scholarship-program-2018/",
+    "statut": "fermé",
+    "resume": "Le programme de bourses Google Udacity Afrique 2018 offre 15 000 bourses pour un cours unique et 500 bourses pour un nanodegree aux résidents africains âgés d'au moins 18 ans. Les candidats choisissent entre le développement web ou Android et sont placés dans une filière débutant ou intermédiaire. Les meilleurs étudiants peuvent obtenir une bourse complète pour un programme nanodegree.",
+    "extrait_le": "2026-06-17T05:34:31",
+    "slug": "bourse-google-udacity-afrique-2018"
+  },
+  {
+    "titre": "Bourse Emile-Boutmy de Sciences Po (Licence & Master) 2018/2019 pour étudier en France (Financée)",
+    "seo_slug": "bourse-emile-boutmy-sciences-po-france-2018",
+    "organisation": "Sciences Po",
+    "montant": 7300,
+    "devise": "EUR",
+    "type_financement": "bourse partielle",
+    "deadline": "2018-04-26",
+    "deadline_texte": "26 avril 2018 (Licence) / 3 janvier 2018 (Master)",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Hors Union Européenne"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français ou Anglais (selon programme)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Preuve de revenus",
+      "Documents familiaux (avis d'imposition, fiches de paie, certificat de divorce, etc.)",
+      "Test de langue (si applicable)"
+    ],
+    "avantages": [
+      "Bourse de frais de scolarité (de 3000€ à 7300€/an pour la licence, 5000€ ou 10000€/an pour le master)",
+      "Allocation de frais de subsistance (5000€/an pour certaines bourses de licence)",
+      "Maintien de la bourse pendant l'année à l'étranger (licence)"
+    ],
+    "eligibilite": [
+      "Être primo-arrivant",
+      "Être ressortissant d'un État non membre de l'UE",
+      "Ne pas avoir de double nationalité incluant une nationalité UE",
+      "Ne pas être Suisse, Norvégien ou Québécois (sauf exceptions)",
+      "Ne pas être candidat en double diplôme (sauf exceptions)",
+      "Ne pas être en programme doctoral, master en 1 an ou étudiant d'échange",
+      "Ne pas cumuler avec une autre bourse (Eiffel, AEFE, BGF...)",
+      "Être admis à Sciences Po"
+    ],
+    "procedure_etapes": [
+      "1. Postuler en ligne au programme de licence ou master de Sciences Po",
+      "2. Dans la section 'Informations financières', indiquer sa candidature à la bourse Emile-Boutmy",
+      "3. Fournir les preuves de revenus et documents familiaux requis",
+      "4. Joindre le test de langue si nécessaire",
+      "5. Respecter la date limite de candidature (26 avril 2018 pour licence, 3 janvier 2018 pour master)"
+    ],
+    "contacts": [
+      "[email protected]",
+      "[email protected]"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page officielle de la bourse Emile-Boutmy",
+        "url": "https://www.sciencespo.fr/students/en/financial-aid/emile-boutmy-scholarship.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse Sciences Po",
+      "bourse Emile-Boutmy",
+      "bourse France",
+      "bourse licence",
+      "bourse master",
+      "bourse internationale",
+      "bourse hors UE"
+    ],
+    "lien_candidature": "https://www.sciencespo.fr/students/en/financial-aid/emile-boutmy-scholarship.html",
+    "source_url": "https://www.opportunitiesforafricans.com/sciences-po-emile-boutmy-undergraduate-postgraduate-scholarship-20182019-for-study-in-france-funded/",
+    "statut": "fermé",
+    "resume": "La bourse Emile-Boutmy de Sciences Po est destinée aux meilleurs étudiants internationaux hors Union Européenne, pour financer leurs études de licence ou master. Elle offre des aides sur les frais de scolarité (jusqu'à 7300€/an en licence et 10000€/an en master) et parfois une allocation de subsistance. Les candidatures sont évaluées sur le mérite et des critères sociaux, avec des dates limites en 2018.",
+    "extrait_le": "2026-06-17T05:34:31",
+    "slug": "bourse-emile-boutmy-sciences-po-france-2018"
+  },
+  {
+    "titre": "Programme de bourses DAAD In-Region 2021 à l'Université de Stellenbosch – Afrique du Sud",
+    "seo_slug": "bourse-daad-in-region-stellenbosch-2021",
+    "organisation": "DAAD (Deutscher Akademischer Austauschdienst)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2020-06-02",
+    "deadline_texte": "2 juin 2020",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Biologie moléculaire",
+      "Génétique humaine"
+    ],
+    "pays_eligibles": [
+      "Afrique subsaharienne (hors Afrique du Sud)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Langue d'instruction (non spécifiée)",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse mensuelle",
+      "Frais de voyage",
+      "Prise en charge des frais d'études"
+    ],
+    "eligibilite": [
+      "Être diplômé d'un premier cycle universitaire (3 ans pour Master, 2 ans pour Doctorat) avec des résultats supérieurs à la moyenne (au moins deuxième classe supérieure)",
+      "Avoir terminé son dernier diplôme universitaire depuis moins de 6 ans au moment de la candidature",
+      "Être ressortissant ou résident permanent d'un pays d'Afrique subsaharienne (hors Afrique du Sud)",
+      "Être membre du personnel d'une université publique, candidat à un recrutement d'enseignant/chercheur, du secteur public, ou ancien du programme DAFI",
+      "Faire preuve de motivation et d'engagement fort",
+      "Les femmes et les candidats de régions ou groupes défavorisés sont encouragés"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Préparer les documents requis (non listés)",
+      "3. Soumettre la candidature avant le 2 juin 2020 via le site officiel"
+    ],
+    "contacts": [
+      "info@opportunitiesforafricans.com",
+      "contact@opportunitiesforafricans.com"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme DAAD In-Region",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/in-region-scholarship-programme/"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "Afrique subsaharienne",
+      "Master",
+      "Doctorat",
+      "Stellenbosch",
+      "2021",
+      "développement durable",
+      "biologie moléculaire"
+    ],
+    "lien_candidature": "https://www.daad.de/en/study-and-research-in-germany/scholarships/in-region-scholarship-programme/",
+    "source_url": "https://www.opportunitiesforafricans.com/daad-in-region-scholarship-programme-call-for-scholarship-applications-2021/",
+    "statut": "fermé",
+    "resume": "Le programme de bourses DAAD In-Region 2021 à l'Université de Stellenbosch en Afrique du Sud offre des financements pour des études de Master et Doctorat dans les domaines de la biologie moléculaire et de la génétique humaine. Destiné aux ressortissants d'Afrique subsaharienne (hors Afrique du Sud), il vise à former des cadres académiques et professionnels contribuant au développement durable de la région. Les candidats doivent avoir un excellent dossier académique et un engagement fort. La date limite de candidature est le 2 juin 2020.",
+    "extrait_le": "2026-06-17T05:34:31",
+    "slug": "bourse-daad-in-region-stellenbosch-2021"
   }
 ]

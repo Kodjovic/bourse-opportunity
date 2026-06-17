@@ -5,7 +5,10 @@ WORKDIR /app
 
 # Copier les fichiers de dépendances
 COPY package.json package-lock.json ./
-RUN npm install --no-audit --no-fund
+RUN npm config set fetch-retry-maxtimeout 600000 && \
+    npm config set fetch-retry-mintimeout 100000 && \
+    npm config set fetch-retries 5 && \
+    npm ci --no-audit --no-fund
 
 # --- Étape 2 : Construction ---
 FROM node:20-alpine AS builder

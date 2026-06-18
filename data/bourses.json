@@ -1,289 +1,5 @@
 [
   {
-    "titre": "Bourse de formation à la recherche (RTP) / Bourse de recherche postdoctorale de l'Université Deakin (DUPR)",
-    "seo_slug": "bourse-rtp-dupr-deakin-2026",
-    "organisation": "Deakin University",
-    "montant": 37450,
-    "devise": "AUD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-03-13",
-    "deadline_texte": "13 mars 2026 (round domestique 2026), 23 août 2026 (round international 2027), 25 octobre 2026 (round domestique 2027)",
-    "niveau_etudes": [
-      "Doctorat",
-      "Master recherche"
-    ],
-    "domaines": [
-      "Tous domaines"
-    ],
-    "pays_eligibles": [
-      "Tous pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature",
-      "Preuve de diplômes",
-      "Relevés de notes",
-      "CV",
-      "Lettre de motivation",
-      "Publications de recherche",
-      "Expérience professionnelle"
-    ],
-    "avantages": [
-      "Allocation de subsistance de 37 450 AUD par an (exonérée d'impôt)",
-      "Allocation de réinstallation de 500 à 1 500 AUD (selon situation familiale)",
-      "Couverture santé OSHC pour les candidats internationaux"
-    ],
-    "eligibilite": [
-      "Être étudiant domestique ou international inscrit dans un programme de recherche supérieure à Deakin",
-      "Avoir complété au moins quatre années d'études supérieures",
-      "Avoir obtenu 80% ou équivalent dans la composante recherche de leurs études antérieures",
-      "Ne pas recevoir une autre bourse équivalente du Commonwealth pour les frais de scolarité"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les conditions d'admission aux diplômes de recherche.",
-      "2. Pour les chercheurs déjà inscrits : remplir le formulaire de candidature pour chercheurs déjà inscrits (DOCX).",
-      "3. Pour les nouveaux candidats : suivre le processus de candidature pour un diplôme de recherche.",
-      "4. Soumettre la candidature avant la date limite du round concerné."
-    ],
-    "contacts": [
-      "deakin-hdr-as@deakin.edu.au",
-      "+61 3 9918 9188"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs"
-      },
-      {
-        "label": "Conditions d'admission aux diplômes de recherche",
-        "url": "https://www.deakin.edu.au/research/research-degrees/research-degree-entry-requirements"
-      },
-      {
-        "label": "Procédure d'admission, sélection et inscription HDR",
-        "url": "https://policy.deakin.edu.au/view.current.php?id=00049"
-      },
-      {
-        "label": "Procédure de bourses HDR",
-        "url": "https://policy.deakin.edu.au/document/view-current.php?id=222"
-      },
-      {
-        "label": "Lignes directrices de classement 2025 (PDF)",
-        "url": "https://www.deakin.edu.au/__data/assets/pdf_file/0011/122213/deakin-gr-scholarship-applicant-assessment-guidelines.pdf"
-      },
-      {
-        "label": "Formulaire de candidature pour chercheurs déjà inscrits (DOCX)",
-        "url": "https://www.deakin.edu.au/__data/assets/word_doc/0016/122218/Currently_enrolled_GR_Scholarship_application.docx"
-      },
-      {
-        "label": "Comment postuler pour un diplôme de recherche",
-        "url": "https://www.deakin.edu.au/research/research-degrees/how-to-apply-for-a-research-degree"
-      },
-      {
-        "label": "Conditions générales RTP 2026 (PDF)",
-        "url": "https://www.deakin.edu.au/__data/assets/pdf_file/0029/175583/2026-RTP-Scholarship-Terms-and-Conditions.pdf"
-      },
-      {
-        "label": "Conditions générales DUPR 2026 (PDF)",
-        "url": "https://www.deakin.edu.au/__data/assets/pdf_file/0029/175592/2026-DUPR-Scholarship-Terms-and-Conditions.pdf"
-      }
-    ],
-    "mots_cles": [
-      "bourse recherche",
-      "RTP",
-      "DUPR",
-      "Deakin",
-      "Australie",
-      "doctorat",
-      "master recherche",
-      "bourse internationale",
-      "2026"
-    ],
-    "lien_candidature": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs",
-    "source_url": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs",
-    "statut": "ouvert",
-    "resume": "La bourse RTP/DUPR de l'Université Deakin offre une allocation de subsistance de 37 450 AUD par an, exonérée d'impôt, ainsi qu'une allocation de réinstallation et une couverture santé pour les étudiants internationaux. Destinée aux étudiants domestiques et internationaux inscrits en doctorat ou master recherche, elle finance jusqu'à 3 ans (doctorat) ou 2 ans (master). Les candidatures sont évaluées sur la base de l'excellence académique et de l'expérience en recherche. Les dates limites varient selon les rounds : domestique 2026 (13 mars 2026), international 2027 (23 août 2026) et domestique 2027 (25 octobre 2026).",
-    "adresse": "Melbourne, VIC, Australia",
-    "extrait_le": "2026-06-15T05:07:41",
-    "slug": "bourse-rtp-dupr-deakin-2026"
-  },
-  {
-    "titre": "Bourse Glenmore pour Études Supérieures",
-    "seo_slug": "bourse-glenmore-master-edimbourg-2026",
-    "organisation": "University of Edinburgh",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-06-15",
-    "deadline_texte": "15 juin 2026",
-    "niveau_etudes": [
-      "Master"
-    ],
-    "domaines": [
-      "Médecine humaine",
-      "Soins intensifs",
-      "Éducation clinique",
-      "Science des données pour la santé",
-      "Santé mondiale et maladies infectieuses",
-      "Sciences chirurgicales",
-      "Biologie du cancer et oncologie de précision",
-      "Santé publique",
-      "Médecine familiale",
-      "Anatomie humaine",
-      "Sciences biomédicales",
-      "Neurosciences intégratives",
-      "Sciences de la reproduction",
-      "Médecine régénérative et réparation tissulaire"
-    ],
-    "pays_eligibles": [
-      "Afghanistan",
-      "Algérie",
-      "Angola",
-      "Bangladesh",
-      "Bénin",
-      "Botswana",
-      "Burkina Faso",
-      "Burundi",
-      "Cambodge",
-      "Cameroun",
-      "Cap-Vert",
-      "République centrafricaine",
-      "Tchad",
-      "Comores",
-      "Congo",
-      "Côte d'Ivoire",
-      "République démocratique du Congo",
-      "Djibouti",
-      "Égypte",
-      "Guinée équatoriale",
-      "Érythrée",
-      "Eswatini",
-      "Éthiopie",
-      "Gabon",
-      "Gambie",
-      "Ghana",
-      "Guinée",
-      "Guinée-Bissau",
-      "Haïti",
-      "Kenya",
-      "Kiribati",
-      "République démocratique populaire lao",
-      "Lesotho",
-      "Libéria",
-      "Libye",
-      "Madagascar",
-      "Malawi",
-      "Mali",
-      "Mauritanie",
-      "Maurice",
-      "Maroc",
-      "Mozambique",
-      "Myanmar",
-      "Namibie",
-      "Népal",
-      "Niger",
-      "Nigeria",
-      "Rwanda",
-      "Sao Tomé-et-Principe",
-      "Sénégal",
-      "Sierra Leone",
-      "Îles Salomon",
-      "Somalie",
-      "Afrique du Sud",
-      "Soudan du Sud",
-      "Soudan",
-      "Tanzanie",
-      "Timor-Leste",
-      "Togo",
-      "Tunisie",
-      "Tuvalu",
-      "Ouganda",
-      "Sahara occidental",
-      "Yémen",
-      "Zambie",
-      "Zimbabwe"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Lettre de motivation (personal statement)",
-      "Preuve d'admission et d'acceptation ferme sur un programme éligible"
-    ],
-    "avantages": [
-      "Frais de scolarité complets",
-      "Frais de programme supplémentaires"
-    ],
-    "eligibilite": [
-      "Être accepté pour l'année académique 2026-2027 sur l'un des programmes éligibles listés",
-      "Avoir fermement accepté l'offre d'admission ou avoir l'intention de le faire",
-      "Être domicilié dans un pays éligible listé",
-      "Avoir ou s'attendre à obtenir l'équivalent étranger d'un diplôme britannique de première classe (first-class honours)",
-      "Rédiger une déclaration personnelle répondant aux trois questions posées (max 3500 caractères)",
-      "Priorité aux candidats n'ayant pas eu l'opportunité d'étudier au niveau Master auparavant",
-      "Priorité aux candidats ayant une offre inconditionnelle au moment de la date limite"
-    ],
-    "procedure_etapes": [
-      "1. Postuler pour l'admission à l'Université d'Édimbourg sur un programme éligible",
-      "2. Recevoir une offre d'admission et l'accepter fermement",
-      "3. Accéder au portail MyEd (https://www.myed.ed.ac.uk) avec votre UUN et mot de passe",
-      "4. Compléter le formulaire de candidature en ligne pour la bourse dans EUCLID",
-      "5. Soumettre avant le 15 juin 2026 à 23h59 (heure du Royaume-Uni)"
-    ],
-    "contacts": [
-      "EconPGR.enquiries@ed.ac.uk",
-      "pgrawards-MVM@ed.ac.uk",
-      "futurestudents@ed.ac.uk"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/e-learning/glenmore"
-      },
-      {
-        "label": "Portail MyEd",
-        "url": "https://www.myed.ed.ac.uk"
-      },
-      {
-        "label": "Aide pour la connexion",
-        "url": "http://www.ed.ac.uk/student-systems/support-guidance"
-      },
-      {
-        "label": "Guide de candidature aux bourses",
-        "url": "https://registryservices.ed.ac.uk/student-systems/support-guidance/applicants/apply-scholarship"
-      },
-      {
-        "label": "FAQ sur les systèmes de bourses (PDF)",
-        "url": "https://registryservices.ed.ac.uk/sites/default/files/2025-10/Scholarships%20Systems%20FAQs%20for%20Applicants_1.pdf"
-      },
-      {
-        "label": "Liste DAC des bénéficiaires d'APD 2026-2027 (PDF)",
-        "url": "https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/DAC-List-of-ODA-Recipients-for-reporting-2024-25-flows.pdf"
-      },
-      {
-        "label": "Page des programmes de troisième cycle",
-        "url": "https://study.ed.ac.uk/postgraduate"
-      }
-    ],
-    "mots_cles": [
-      "bourse",
-      "master",
-      "Édimbourg",
-      "médecine",
-      "santé",
-      "Royaume-Uni",
-      "2026",
-      "frais de scolarité complets",
-      "pays en développement",
-      "Afrique"
-    ],
-    "lien_candidature": "https://www.myed.ed.ac.uk",
-    "source_url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/e-learning/glenmore",
-    "statut": "ouvert",
-    "resume": "La bourse Glenmore de l'Université d'Édimbourg offre trois bourses complètes couvrant l'intégralité des frais de scolarité pour des programmes de master en médecine humaine, en ligne ou sur campus, pour l'année 2026-2027. Destinée aux étudiants domiciliés dans des pays éligibles (principalement africains), elle privilégie les candidats n'ayant pas encore étudié au niveau master. Les candidats doivent être admis et avoir fermement accepté une offre sur un programme éligible, puis soumettre une déclaration personnelle avant le 15 juin 2026.",
-    "extrait_le": "2026-06-15T04:30:01",
-    "slug": "bourse-glenmore-master-edimbourg-2026"
-  },
-  {
     "titre": "Bourse du Programme de Formation à la Recherche du Gouvernement Australien (Internationale)",
     "seo_slug": "bourse-gouvernement-australien-recherche-international-2026",
     "organisation": "Flinders University",
@@ -1415,6 +1131,105 @@
     "slug": "bourse-youth-leadership-programme-onu-2026"
   },
   {
+    "titre": "Programme de bourses pour étudiants internationaux et doctorants - Développement des talents internationaux",
+    "seo_slug": "bourse-kas-international-allemagne-2026",
+    "organisation": "Konrad Adenauer Stiftung (KAS)",
+    "montant": 992,
+    "devise": "EUR",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-07-15",
+    "deadline_texte": "15 juillet 2026 à 12h00 (CET)",
+    "niveau_etudes": [
+      "Bachelor",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Monde entier (hors UE)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand (minimum B2)",
+    "documents_requis": [
+      "Relevés de notes",
+      "Certificat de langue allemande",
+      "Lettre de motivation",
+      "CV",
+      "Preuve d'engagement social"
+    ],
+    "avantages": [
+      "Bourse mensuelle jusqu'à 992 € (Bachelor/Master) ou 1 400 € (Doctorat)",
+      "Subvention d'assurance maladie jusqu'à 120 €/mois",
+      "Allocation familiale de 276 €/mois (conjoint en Allemagne)",
+      "Allocation enfant de 250 €/mois par enfant",
+      "Bourse de voyage de recherche",
+      "Remboursement partiel des frais de scolarité jusqu'à 750 €/semestre",
+      "Programme de séminaires",
+      "Mentorat personnalisé",
+      "Réseau international"
+    ],
+    "eligibilite": [
+      "Être étudiant international ou doctorant hors UE",
+      "Avoir un bon dossier académique",
+      "Maîtrise de l'allemand niveau B2 minimum",
+      "Être engagé socialement et politiquement",
+      "S'identifier aux valeurs de la KAS",
+      "Pour le Master : être inscrit dans un programme de 4 semestres en Allemagne",
+      "Pour le Bachelor : avoir validé au moins 2 semestres en Allemagne"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Choisir la voie de candidature (en Allemagne ou via bureau KAS à l'étranger)",
+      "3. Préparer les documents requis",
+      "4. Soumettre la candidature avant le 15 juillet 2026 (pour candidature en Allemagne)",
+      "5. Participer aux entretiens de sélection régionaux"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://www.kas.de/en/web/begabtenfoerderung-und-kultur/international-talent-development"
+      },
+      {
+        "label": "KAS Buenos Aires (candidatures Amérique du Sud)",
+        "url": "https://www.kas.de/es/web/argentinien/stipendienprogramm"
+      },
+      {
+        "label": "KAS Nairobi (candidatures Afrique de l'Est)",
+        "url": "https://www.kas.de/en/web/kenia/"
+      },
+      {
+        "label": "Collège doctoral - Économie sociale de marché",
+        "url": "https://www.kas.de/de/web/begabtenfoerderung-und-kultur/promotionskolleg-soziale-marktwirtschaft"
+      },
+      {
+        "label": "Collège doctoral - Sécurité et développement au 21e siècle",
+        "url": "https://www.kas.de/de/web/begabtenfoerderung-und-kultur/promotionskolleg-sicherheit-und-entwicklung-im-21.-jahrhundert"
+      },
+      {
+        "label": "Collège doctoral - Démocraties en Europe",
+        "url": "https://www.kas.de/de/web/begabtenfoerderung-und-kultur/promotionskolleg-demokratien-in-europa-transformationen-nach-1990"
+      }
+    ],
+    "mots_cles": [
+      "bourse KAS",
+      "bourse Allemagne",
+      "bourse internationale",
+      "bourse doctorat",
+      "bourse master",
+      "Konrad Adenauer",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://www.kas.de/en/web/begabtenfoerderung-und-kultur/international-talent-development",
+    "source_url": "https://www.kas.de/en/web/begabtenfoerderung-und-kultur/international-talent-development?fbclid=IwY2xjawSgKDJleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgLloWehd06tFI6BXcpNsDnnoZIo_rQ2FBJb2Yv_A1ocA2dvddk65KtwuR17_aem_ig7qk3g9xBd7Rz0OdNAjJA",
+    "statut": "ouvert",
+    "resume": "La Konrad Adenauer Stiftung offre des bourses aux étudiants internationaux et doctorants non européens souhaitant étudier ou faire de la recherche en Allemagne. Le programme soutient financièrement jusqu'à 992 € par mois pour les cycles Licence/Master et 1 400 € pour le doctorat, avec des allocations supplémentaires. En plus du soutien financier, les boursiers bénéficient d'un mentorat personnalisé, d'un programme de séminaires varié et d'un réseau international. Les candidatures pour 2026 sont ouvertes jusqu'au 15 juillet 2026.",
+    "extrait_le": "2026-06-18T01:26:06",
+    "slug": "bourse-kas-international-allemagne-2026"
+  },
+  {
     "titre": "Bourse Rhodes 2027 pour des études supérieures à l'Université d'Oxford",
     "seo_slug": "bourse-rhodes-master-oxford-2027",
     "organisation": "Rhodes Trust",
@@ -2084,6 +1899,118 @@
     "adresse": "EPFL Research Office  Av. Auguste-Piccard 1  CH – 1015 Lausanne",
     "extrait_le": "2026-06-15T05:20:06",
     "slug": "bourses-cyd-cyberdefense-suisse-2026"
+  },
+  {
+    "titre": "Bourse de Stipend du Programme de Formation à la Recherche du Gouvernement Australien (RTP)",
+    "seo_slug": "bourse-rtp-stipend-australie-2026",
+    "organisation": "Australian National University (ANU)",
+    "montant": 39069,
+    "devise": "AUD",
+    "type_financement": "bourse de subsistance",
+    "deadline": "2026-08-31",
+    "deadline_texte": "31 août 2026 (Round 1 International) / 31 octobre 2026 (Round 1 Domestique) / 15 avril 2026 (Round 2)",
+    "niveau_etudes": [
+      "Doctorat",
+      "Master recherche"
+    ],
+    "domaines": [
+      "Tous les domaines de recherche"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Demande d'admission au programme HDR",
+      "Relevés de notes",
+      "CV",
+      "Lettres de recommandation",
+      "Proposition de recherche",
+      "Preuve de compétence en anglais"
+    ],
+    "avantages": [
+      "Stipend annuel de 39 069 AUD (2026)",
+      "Paiements bimensuels",
+      "Durée de 3,5 ans",
+      "Allocation de voyage et de déménagement",
+      "Allocation de thèse",
+      "Allocation pour enfant à charge (étudiants internationaux)",
+      "Congé médical, maternité et parental payé",
+      "Suspension de bourse possible",
+      "Extension de 6 mois possible pour stages",
+      "Remboursement OSHC pour les récipiendaires internationaux"
+    ],
+    "eligibilite": [
+      "Être admis dans un programme de recherche supérieure (HDR) à l'ANU",
+      "Être un étudiant domestique ou international",
+      "Critères de base selon les directives du Commonwealth",
+      "Classement basé sur le mérite académique",
+      "Superviseur qualifié et ressources disponibles"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un programme HDR à l'ANU avant la date limite de bourse.",
+      "2. Dans le formulaire d'admission, sélectionner l'option pour être considéré pour les bourses.",
+      "3. Soumettre tous les documents justificatifs et les rapports de référents avant la date limite.",
+      "4. Les candidats actuels de l'ANU doivent remplir le formulaire 'Request for a current ANU student to be considered for a HDR Scholarship'.",
+      "5. Les candidats sont classés et les bourses sont attribuées en fonction du mérite."
+    ],
+    "contacts": [
+      "future.student@anu.edu.au",
+      "gro@anu.edu.au",
+      "+61 2 6125 5777"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://study.anu.edu.au/scholarships/find-scholarship/australian-government-research-training-program-rtp-stipend?fbclid=IwY2xjawSgJJRleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkGDi_wJtEaatpEp4BkkHVSkwO_kLrcBPm4xDuT8ZPQFSKjS8mv63bODvnrO_aem_lTdHVRRimH4R9ip3QLKoKQ"
+      },
+      {
+        "label": "Visitez le site :",
+        "url": "https://study.anu.edu.au/scholarships/find-scholarship/australian-government-research-training-program-rtp-stipend"
+      },
+      {
+        "label": "Formulaire pour les étudiants actuels de l'ANU",
+        "url": "https://study.anu.edu.au/files/2024-03/HDR%20Current%20Student%20Scholarship%20Consideration%20Form%20-%20GRO%202024.pdf"
+      },
+      {
+        "label": "Conditions d'attribution - Bourse RTP (PDF)",
+        "url": "https://d3gu8jtw4r0om.cloudfront.net/files/2025-05/Conditions%20of%20Award%20-%20Research%20Training%20Program%20Scholarship%20%2892025%29.pdf"
+      },
+      {
+        "label": "Principes de classement des bourses RTP (PDF)",
+        "url": "https://d3gu8jtw4r0om.cloudfront.net/files/campaign_scholarship/documents/RTP%2520scholarship%2520ranking%2520principles_0.pdf"
+      },
+      {
+        "label": "Procédure des bourses RTP",
+        "url": "https://policies.anu.edu.au/ppl/document/ANUP_7926390"
+      },
+      {
+        "label": "FAQ sur le RTP",
+        "url": "https://education.gov.au/research-training-program-frequently-asked-questions-students"
+      },
+      {
+        "label": "Directives du Commonwealth (Recherche) 2017",
+        "url": "https://www.legislation.gov.au/Details/F2022C00174"
+      }
+    ],
+    "mots_cles": [
+      "bourse RTP",
+      "bourse gouvernement australien",
+      "bourse doctorat ANU",
+      "bourse recherche Australie",
+      "stipend ANU",
+      "bourse internationale Australie",
+      "bourse master recherche ANU",
+      "financement études Australie"
+    ],
+    "lien_candidature": "https://study.anu.edu.au/scholarships/find-scholarship/australian-government-research-training-program-rtp-stipend",
+    "source_url": "https://study.anu.edu.au/scholarships/find-scholarship/australian-government-research-training-program-rtp-stipend?fbclid=IwY2xjawSgJJRleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkGDi_wJtEaatpEp4BkkHVSkwO_kLrcBPm4xDuT8ZPQFSKjS8mv63bODvnrO_aem_lTdHVRRimH4R9ip3QLKoKQ",
+    "statut": "ouvert",
+    "resume": "La bourse de Stipend du Programme de Formation à la Recherche du Gouvernement Australien (RTP) offre un financement annuel de 39 069 AUD aux étudiants de recherche supérieure (doctorat et master recherche) à l'Université Nationale Australienne (ANU). D'une durée de 3,5 ans, elle inclut une allocation de voyage, une allocation de thèse et des congés payés. Les candidatures sont évaluées sur le mérite académique, avec des dates limites en août, octobre et avril selon le round.",
+    "adresse": "The Australian National University, 2600",
+    "extrait_le": "2026-06-18T01:13:34",
+    "slug": "bourse-rtp-stipend-australie-2026"
   },
   {
     "titre": "Bourses postdoctorales ETH",
@@ -3554,5 +3481,551 @@
     "adresse": "Orta Mahalle, 34956 Tuzla, İstanbul, Türkiye",
     "extrait_le": "2026-06-15T05:36:35",
     "slug": "bourses-sabanci-universite-turquie"
+  },
+  {
+    "titre": "Bourses d'études Bilkent UNAM",
+    "seo_slug": "bourses-bilkent-unam-turquie-2026",
+    "organisation": "Bilkent University UNAM - National Nanotechnology Research Center",
+    "montant": 76000,
+    "devise": "TRY",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Science des matériaux",
+      "Nanotechnologie",
+      "Sciences et technologies"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Relevés de notes",
+      "Publications scientifiques (si applicable)",
+      "Lettre de motivation",
+      "CV"
+    ],
+    "avantages": [
+      "Exonération des frais de scolarité (950 000 TRY/an)",
+      "Bourse mensuelle incluant logement (jusqu'à 76 000 TRY/mois pour doctorat)",
+      "Assurance maladie privée",
+      "Ordinateur portable",
+      "Carte repas (pour certains programmes)",
+      "Aide au voyage pour conférences (une fois par an)",
+      "Réduction sur le logement (25% ou 50%)"
+    ],
+    "eligibilite": [
+      "Être candidat au master ou doctorat",
+      "Avoir un excellent dossier académique",
+      "Avoir des publications scientifiques à fort impact (pour la bourse présidentielle)",
+      "Être une femme (pour la bourse dédiée aux jeunes femmes)"
+    ],
+    "procedure_etapes": [
+      "1. Consulter les programmes de bourses disponibles",
+      "2. Préparer les documents requis (CV, relevés de notes, etc.)",
+      "3. Postuler via le portail de candidature de Bilkent UNAM",
+      "4. Attendre la décision du comité de sélection"
+    ],
+    "contacts": [
+      "unam@unam.bilkent.edu.tr",
+      "+90 (312) 290 2513",
+      "+90 312 290 2513"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://unam.bilkent.edu.tr/en/education/msn-masters-program/?fbclid=IwY2xjawSgIl1leHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHh8Q8Bnp34xtGZ9l5adl37zNxWCf4w_quIWLyrAxinJbvCe8tsEh_MZANIKe_aem_dHS7Wei2F5d3gbf43NpJEw"
+      },
+      {
+        "label": "Site officiel Bilkent UNAM",
+        "url": "https://unam.bilkent.edu.tr/en/"
+      },
+      {
+        "label": "Page des bourses",
+        "url": "https://unam.bilkent.edu.tr/en/unam-scholarship-opportunities/"
+      }
+    ],
+    "mots_cles": [
+      "bourse turquie",
+      "bourse bilkent",
+      "bourse nanotechnologie",
+      "bourse master doctorat",
+      "bourse jeunes femmes",
+      "bourse complète turquie",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://unam.bilkent.edu.tr/en/unam-scholarship-opportunities/",
+    "source_url": "https://unam.bilkent.edu.tr/en/unam-scholarship-opportunities/?fbclid=IwY2xjawSgIkVleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkGDi_wJtEaatpEp4BkkHVSkwO_kLrcBPm4xDuT8ZPQFSKjS8mv63bODvnrO_aem_lTdHVRRimH4R9ip3QLKoKQ",
+    "statut": "ouvert",
+    "resume": "Bilkent UNAM propose plusieurs bourses prestigieuses pour les étudiants en master et doctorat en nanotechnologie et science des matériaux. Les bourses incluent une exonération des frais de scolarité, une bourse mensuelle, une assurance maladie, un ordinateur portable et une aide au voyage. Des programmes spécifiques existent pour les jeunes femmes et les étudiants exceptionnels. Les candidatures sont ouvertes pour l'année académique 2025-2026.",
+    "adresse": "Bilkent University Ankara, 06800, Turkey",
+    "extrait_le": "2026-06-18T01:03:48",
+    "slug": "bourses-bilkent-unam-turquie-2026"
+  },
+  {
+    "titre": "Bourses d'études à l'Université Sabancı",
+    "seo_slug": "bourses-sabanci-universite-turquie",
+    "organisation": "Sabancı University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse partielle ou complète",
+    "deadline": null,
+    "deadline_texte": "Voir les dates limites de candidature",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays",
+      "Azerbaïdjan",
+      "Irak",
+      "Oman",
+      "Libye",
+      "Pakistan",
+      "Qatar"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Relevés de notes",
+      "Lettres de recommandation",
+      "Résultats d'examens (GMAT/GRE)",
+      "CV",
+      "Lettre de motivation",
+      "Diplômes",
+      "Certificats de prix ou olympiades"
+    ],
+    "avantages": [
+      "Bourse de scolarité",
+      "Possibilité de bourse mensuelle (non spécifié)"
+    ],
+    "eligibilite": [
+      "Être un étudiant international",
+      "Avoir postulé à Sabancı University",
+      "Être évalué automatiquement pour la bourse",
+      "Pour les bourses gouvernementales : être ressortissant du pays concerné"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne pour l'admission",
+      "2. Indiquer dans le formulaire que vous souhaitez être considéré pour une bourse (optionnel)",
+      "3. Soumettre tous les documents requis (relevés, lettres, résultats, etc.)",
+      "4. Les candidatures précoces sont prioritaires",
+      "5. Pour les bourses gouvernementales, contacter le ministère de l'Éducation du pays concerné"
+    ],
+    "contacts": [
+      "info@sabanciuniv.edu",
+      "+90 216 483 90 00"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.sabanciuniv.edu/en/scholarships?fbclid=IwY2xjawSgJaNleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHue7FFWyoS9_TDATAvO1uWZ0E0gNoMCfiMMwss8yrV03fdwfoCRPJ5n84LwO_aem_LjfNliCxxw69kmAPp-TU8w"
+      },
+      {
+        "label": "Bourses pendant les études",
+        "url": "https://www.sabanciuniv.edu/en/scholarship-opportunities-offered-during-education-period"
+      },
+      {
+        "label": "Dates limites de candidature",
+        "url": "https://www.sabanciuniv.edu/en/undergraduate-admissions-international-students"
+      },
+      {
+        "label": "Bourses pour les programmes d'ingénierie et sciences naturelles",
+        "url": "https://fens.sabanciuniv.edu/en/financial-aid-and-scholarships-graduate-students"
+      },
+      {
+        "label": "Bourses pour les programmes d'arts et sciences sociales",
+        "url": "https://www.sabanciuniv.edu/en/graduate-scholarships"
+      },
+      {
+        "label": "Bourses pour la School of Management",
+        "url": "https://www.sabanciuniv.edu/en/graduate-scholarships"
+      },
+      {
+        "label": "Bourse gouvernementale Azerbaïdjan",
+        "url": "http://xaricdetehsil.edu.gov.az/c-namizedler/bakalavriat/%C2%A0"
+      },
+      {
+        "label": "Universités turques accréditées en Irak",
+        "url": "https://www.google.com/url?q=https://www.scrdiraq.gov.iq/images/ad/UNIVERSITY/University_Guide_2016_08_21---L.M%252026-09-2018.xlsx&sa=D&source=hangouts&ust=1544769878656000&usg=AFQjCNFnaVtDa1QLxAqQLS2JFX-L9QmDQA"
+      },
+      {
+        "label": "Ministère irakien de l'Enseignement supérieur",
+        "url": "http://www.mohesr.gov.iq/"
+      },
+      {
+        "label": "Ministère irakien - Département des missions",
+        "url": "http://www.scrdiraq.gov.iq/"
+      },
+      {
+        "label": "Attaché culturel irakien à Ankara",
+        "url": "http://mohesr.gov.iq/ar/%D8%A7%D9%84%D9%85%D9%84%D8%AD%D9%82%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9-2/"
+      },
+      {
+        "label": "Universités accréditées à Oman",
+        "url": "https://eservices.mohe.gov.om/Student/FindExtUniversity.aspx?lang=ar%20"
+      },
+      {
+        "label": "Conditions d'admission pour Oman",
+        "url": "https://www.sabanciuniv.edu/sites/default/files/public/iro_brosurler/omandocs.pdf"
+      },
+      {
+        "label": "Ministère libyen de l'Enseignement supérieur",
+        "url": "http://highereducation.gov.ly/"
+      },
+      {
+        "label": "Bourses HEC Pakistan - Overseas Scholarships",
+        "url": "http://www.hec.gov.pk/english/scholarshipsgrants/pages/default.aspx"
+      }
+    ],
+    "mots_cles": [
+      "bourse université sabanci",
+      "bourse turquie internationale",
+      "bourse licence master turquie",
+      "bourse gouvernementale azerbaïdjan irak oman libye pakistan qatar",
+      "bourse sabanci 2026"
+    ],
+    "lien_candidature": "https://www.sabanciuniv.edu/en/scholarships",
+    "source_url": "https://www.sabanciuniv.edu/en/scholarships?fbclid=IwY2xjawSgJaNleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHue7FFWyoS9_TDATAvO1uWZ0E0gNoMCfiMMwss8yrV03fdwfoCRPJ5n84LwO_aem_LjfNliCxxw69kmAPp-TU8w",
+    "statut": "ouvert",
+    "resume": "L'Université Sabancı en Turquie offre des bourses d'admission aux étudiants internationaux de tous niveaux (licence, master, doctorat). Les candidats sont automatiquement évalués par le comité des bourses sur la base de leur dossier académique, lettres de recommandation et résultats d'examens. Des bourses gouvernementales spécifiques sont disponibles pour les étudiants d'Azerbaïdjan, d'Irak, d'Oman, de Libye, du Pakistan et du Qatar. Les candidatures précoces sont favorisées.",
+    "adresse": "Orta Mahalle, 34956 Tuzla, İstanbul, Türkiye",
+    "extrait_le": "2026-06-18T01:17:11",
+    "slug": "bourses-sabanci-universite-turquie"
+  },
+  {
+    "titre": "Programme Helmut-Schmidt (Bourses de Master pour les politiques publiques et la bonne gouvernance - PPGG)",
+    "seo_slug": "helmut-schmidt-master-bonne-gouvernance-2026",
+    "organisation": "DAAD",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Voir l'annonce actuelle",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Sciences politiques",
+      "Droit",
+      "Économie",
+      "Administration"
+    ],
+    "pays_eligibles": [
+      "Afghanistan",
+      "Albanie",
+      "Algérie",
+      "Angola",
+      "Argentine",
+      "Arménie",
+      "Azerbaïdjan",
+      "Bangladesh",
+      "Bélarus",
+      "Belize",
+      "Bénin",
+      "Bhoutan",
+      "Bolivie",
+      "Bosnie-Herzégovine",
+      "Botswana",
+      "Brésil",
+      "Burkina Faso",
+      "Burundi",
+      "Cambodge",
+      "Cameroun",
+      "Cap-Vert",
+      "République centrafricaine",
+      "Tchad",
+      "Chine (RPC)",
+      "Colombie",
+      "Comores",
+      "Congo",
+      "République démocratique du Congo",
+      "Îles Cook",
+      "Costa Rica",
+      "Côte d'Ivoire",
+      "Cuba",
+      "Djibouti",
+      "Dominique",
+      "République dominicaine",
+      "Équateur",
+      "Égypte",
+      "El Salvador",
+      "Guinée équatoriale",
+      "Eswatini",
+      "Éthiopie",
+      "Fidji",
+      "Gabon",
+      "Gambie",
+      "Géorgie",
+      "Ghana",
+      "Grenade",
+      "Guatemala",
+      "Guinée",
+      "Guinée-Bissau",
+      "Guyana",
+      "Haïti",
+      "Honduras",
+      "Inde",
+      "Indonésie",
+      "Iran",
+      "Irak",
+      "Jamaïque",
+      "Jordanie",
+      "Kazakhstan",
+      "Kenya",
+      "Kiribati",
+      "Kosovo",
+      "Kirghizistan",
+      "République démocratique populaire lao",
+      "Liban",
+      "Lesotho",
+      "Libéria",
+      "Libye",
+      "Madagascar",
+      "Malawi",
+      "Malaisie",
+      "Maldives",
+      "Mali",
+      "Îles Marshall",
+      "Mauritanie",
+      "Maurice",
+      "Mexique",
+      "Micronésie (États fédérés de)",
+      "Moldavie (République de)",
+      "Mongolie",
+      "Monténégro",
+      "Maroc",
+      "Mozambique",
+      "Myanmar",
+      "Namibie",
+      "Nauru",
+      "Népal",
+      "Nicaragua",
+      "Niger",
+      "Nigeria",
+      "Niue",
+      "Macédoine du Nord",
+      "Pakistan",
+      "Territoires palestiniens",
+      "Panama",
+      "Papouasie-Nouvelle-Guinée",
+      "Paraguay",
+      "Pérou",
+      "Philippines",
+      "Rwanda",
+      "Saint-Kitts-et-Nevis",
+      "Sainte-Lucie",
+      "Saint-Vincent-et-les-Grenadines",
+      "Samoa",
+      "Sao Tomé-et-Principe",
+      "Sénégal",
+      "Serbie",
+      "Seychelles",
+      "Sierra Leone",
+      "Îles Salomon",
+      "Somalie",
+      "Afrique du Sud",
+      "Soudan du Sud",
+      "Sri Lanka",
+      "Soudan",
+      "Suriname",
+      "République arabe syrienne (Syrie)",
+      "Tadjikistan",
+      "République-Unie de Tanzanie",
+      "Thaïlande",
+      "Timor-Leste",
+      "Togo",
+      "Tonga",
+      "Tunisie",
+      "Turquie",
+      "Turkménistan",
+      "Tuvalu",
+      "Ouganda",
+      "Ukraine",
+      "Ouzbékistan",
+      "Vanuatu",
+      "Venezuela (République bolivarienne du)",
+      "Vietnam",
+      "Yémen",
+      "Zambie",
+      "Zimbabwe"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Voir l'annonce actuelle",
+    "documents_requis": [
+      "Voir l'annonce actuelle"
+    ],
+    "avantages": [
+      "Bourse mensuelle",
+      "Frais de voyage",
+      "Prise en charge des frais de scolarité",
+      "Assurance maladie",
+      "Allocation familiale (si applicable)"
+    ],
+    "eligibilite": [
+      "Être diplômé d'un premier cycle universitaire (Bachelor)",
+      "Provenir d'un pays en développement ou émergent (voir liste)",
+      "S'engager à promouvoir la démocratie et la justice sociale",
+      "Avoir un excellent dossier académique",
+      "Posséder une expérience professionnelle ou un engagement social"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'annonce actuelle pour les conditions détaillées",
+      "2. Remplir le formulaire de candidature",
+      "3. Soumettre les documents requis via le portail DAAD",
+      "4. Consulter la checklist pour s'assurer que tous les documents sont fournis"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_helmut_schmidt_programme_current_announcement.pdf?fbclid=IwY2xjawSgKKRleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHue7FFWyoS9_TDATAvO1uWZ0E0gNoMCfiMMwss8yrV03fdwfoCRPJ5n84LwO_aem_LjfNliCxxw69kmAPp-TU8w"
+      },
+      {
+        "label": "Annonce actuelle (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_helmut_schmidt_programme_current_announcement.pdf"
+      },
+      {
+        "label": "Checklist (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_helmut_schmidt_programme_checklist.pdf"
+      },
+      {
+        "label": "Formulaire de candidature (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_helmut_schmidt_programme_application_form.pdf"
+      },
+      {
+        "label": "Liste des pays éligibles (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_helmut_schmidt_programme_list_of_countries.pdf"
+      },
+      {
+        "label": "Foire aux questions (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_helmut_schmidt_programme_frequently_asked_questions.pdf"
+      },
+      {
+        "label": "Informations sur les cursus de Master (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_helmut_schmidt_programme_information_about_the_master_s_courses.pdf"
+      },
+      {
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Exigences techniques du portail",
+        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "master Allemagne",
+      "bonne gouvernance",
+      "politiques publiques",
+      "pays en développement",
+      "bourse complète",
+      "Helmut Schmidt",
+      "PPGG",
+      "2026"
+    ],
+    "lien_candidature": "https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026397",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026397",
+    "statut": "ouvert",
+    "resume": "Le programme Helmut-Schmidt (PPGG) du DAAD offre des bourses complètes aux futurs leaders des pays en développement et émergents pour un master en Allemagne dans les domaines de la politique, du droit, de l'économie et de l'administration. Financé par le ministère fédéral des Affaires étrangères, il vise à promouvoir la démocratie et la justice sociale. Les candidats doivent consulter l'annonce actuelle pour les conditions détaillées et soumettre leur dossier via le portail DAAD.",
+    "extrait_le": "2026-06-18T01:31:39",
+    "slug": "helmut-schmidt-master-bonne-gouvernance-2026"
+  },
+  {
+    "titre": "Bourses Chevening",
+    "seo_slug": "bourses-chevening-master-royaume-uni-2027",
+    "organisation": "Foreign and Commonwealth Office (FDCO)",
+    "montant": null,
+    "devise": "GBP",
+    "type_financement": "bourse complète",
+    "deadline": "2026-08-31",
+    "deadline_texte": "août 2026 (ouverture des candidatures pour 2027/28)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Pays éligibles Chevening"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Diplôme de premier cycle",
+      "Preuve d'expérience professionnelle (2 ans minimum)",
+      "Lettres de recommandation",
+      "CV",
+      "Lettre de motivation",
+      "Offre inconditionnelle d'une université britannique"
+    ],
+    "avantages": [
+      "Prise en charge totale des frais de scolarité",
+      "Allocation mensuelle",
+      "Frais de voyage aller-retour vers le Royaume-Uni",
+      "Frais de visa",
+      "Bourse de voyage pour les événements Chevening au Royaume-Uni"
+    ],
+    "eligibilite": [
+      "Être citoyen d'un pays éligible Chevening",
+      "Retourner dans son pays de citoyenneté pendant au moins deux ans après la fin de la bourse",
+      "Avoir un diplôme de premier cycle équivalent à un 2:1 britannique",
+      "Avoir au moins deux ans d'expérience professionnelle",
+      "Postuler à trois cours de master différents dans des universités britanniques éligibles et recevoir une offre inconditionnelle d'ici le 9 juillet 2026",
+      "Être basé au Royaume-Uni pendant la bourse"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et la liste des pays éligibles",
+      "2. Choisir trois cours de master dans des universités britanniques éligibles",
+      "3. Postuler aux cours et obtenir une offre inconditionnelle d'ici le 9 juillet 2026",
+      "4. Soumettre une candidature Chevening via le site officiel (ouverture en août 2026)",
+      "5. Sélectionner l'Université de Kent comme premier choix si souhaité"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.chevening.org/scholarships/application-timeline/"
+      },
+      {
+        "label": "Site officiel Chevening - Candidature",
+        "url": "http://www.chevening.org/apply/"
+      },
+      {
+        "label": "Page des cours de l'Université de Kent",
+        "url": "https://www.kent.ac.uk/courses/postgraduate/how-to-apply"
+      },
+      {
+        "label": "Critères par pays (Université de Kent)",
+        "url": "https://www.kent.ac.uk/international/countries"
+      }
+    ],
+    "mots_cles": [
+      "bourse chevening",
+      "master royaume uni",
+      "bourse gouvernement britannique",
+      "bourse complète",
+      "études au royaume uni",
+      "bourse 2027",
+      "bourse kent"
+    ],
+    "lien_candidature": "http://www.chevening.org/apply/",
+    "source_url": "https://www.kent.ac.uk/scholarships/search/FNADCHEVEN02?fbclid=IwY2xjawSgI1tleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHue7FFWyoS9_TDATAvO1uWZ0E0gNoMCfiMMwss8yrV03fdwfoCRPJ5n84LwO_aem_LjfNliCxxw69kmAPp-TU8w",
+    "statut": "à venir",
+    "resume": "Les bourses Chevening sont le programme de bourses du gouvernement britannique, offrant un financement complet pour un master d'un an dans une université du Royaume-Uni. Elles couvrent les frais de scolarité, une allocation mensuelle, les frais de voyage et de visa. Les candidats doivent être citoyens d'un pays éligible, avoir au moins deux ans d'expérience professionnelle et obtenir une offre inconditionnelle d'une université britannique. Les candidatures pour 2027/28 ouvriront en août 2026.",
+    "adresse": "Foreign, Commonwealth and Development Office, London, United Kingdom, SW1A 2AH",
+    "extrait_le": "2026-06-18T01:09:33",
+    "slug": "bourses-chevening-master-royaume-uni-2027"
   }
 ]

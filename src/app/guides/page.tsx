@@ -1,47 +1,51 @@
 import type { Metadata } from "next";
-import Link from "next/link";
-
-import { Breadcrumb } from "@/components/Breadcrumb";
+import { guides } from "@/lib/guides";
+import { FeaturedGuideCard } from "@/components/guides/FeaturedGuideCard";
+import { GuideCard } from "@/components/guides/GuideCard";
 
 export const metadata: Metadata = {
-  title: "Guides pour postuler aux bourses",
-  description:
-    "Conseils pratiques pour préparer ton dossier de candidature : CV, " +
-    "lettre de motivation, recommandations, entretien.",
+  title: "Guides pratiques | Afrik'Ose",
+  description: "Tout ce qu&apos;il faut savoir pour préparer et réussir ta candidature à une bourse d&apos;études.",
   alternates: { canonical: "/guides" },
 };
 
 export default function PageGuides() {
+  const featuredGuide = guides.find((g) => g.isFeatured);
+  const otherGuides = guides.filter((g) => !g.isFeatured);
+
   return (
-    <main className="mx-auto max-w-3xl px-6 py-10">
-      <Breadcrumb
-        entries={[{ label: "Accueil", href: "/" }, { label: "Guides" }]}
-      />
-
-      <header className="mt-6">
-        <h1 className="font-serif text-4xl font-semibold leading-tight tracking-tight text-stone-900 sm:text-5xl">
-          Guides pour postuler aux bourses
+    <main className="mx-auto max-w-6xl px-6 py-10">
+      {/* Hero de la page */}
+      <section className="mb-12">
+        <h1 className="text-2xl font-medium text-gray-900 sm:text-3xl">
+          Guides pratiques
         </h1>
-        <p className="mt-4 text-lg leading-relaxed text-stone-600">
-          Bientôt : conseils pratiques pour rédiger ton CV, ta lettre de
-          motivation, choisir tes lettres de recommandation et préparer ton
-          entretien.
+        <p className="mt-2 text-sm text-gray-500 sm:text-base">
+          Tout ce qu&apos;il faut savoir pour préparer et réussir ta candidature à une bourse.
         </p>
-      </header>
+      </section>
 
-      <div className="mt-10 rounded-2xl border border-stone-200 bg-white p-8">
-        <p className="text-stone-600">
-          Cette section est en cours de rédaction. Reviens bientôt — ou
-          parcours dès maintenant les{" "}
-          <Link
-            href="/bourses/ouvertes"
-            className="font-medium text-orange-700 hover:underline"
-          >
-            bourses ouvertes
-          </Link>
-          .
+      {/* Guide à la une */}
+      {featuredGuide && (
+        <section className="mb-12">
+          <p className="mb-3 text-xs font-medium uppercase tracking-widest text-gray-400">
+            À la une
+          </p>
+          <FeaturedGuideCard guide={featuredGuide} />
+        </section>
+      )}
+
+      {/* Grille des autres guides */}
+      <section>
+        <p className="mb-3 text-xs font-medium uppercase tracking-widest text-gray-400">
+          Tous les guides
         </p>
-      </div>
+        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+          {otherGuides.map((guide) => (
+            <GuideCard key={guide.slug} guide={guide} />
+          ))}
+        </div>
+      </section>
     </main>
   );
 }

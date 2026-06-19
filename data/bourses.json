@@ -1,230 +1,482 @@
 [
   {
-    "titre": "Bourse du Programme de Formation à la Recherche du Gouvernement Australien (Internationale)",
-    "seo_slug": "bourse-gouvernement-australien-recherche-international-2026",
-    "organisation": "Flinders University",
-    "montant": 36061,
-    "devise": "AUD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-06-18",
-    "deadline_texte": "18 juin 2026",
-    "niveau_etudes": [
-      "Doctorat",
-      "Master par recherche"
-    ],
+    "titre": "Appel à candidatures : Groupe consultatif Youth4Rights",
+    "seo_slug": "youth4rights-advisory-group-2026",
+    "organisation": "Haut-Commissariat des Nations Unies aux droits de l'homme (OHCHR)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "volontariat (sans rémunération)",
+    "deadline": "2026-06-21",
+    "deadline_texte": "21 juin 2026, 23h59 (CET)",
+    "niveau_etudes": [],
     "domaines": [
-      "Tous domaines de recherche"
+      "Droits humains"
     ],
     "pays_eligibles": [
-      "Tous sauf Nouvelle-Zélande"
+      "Tous les pays"
     ],
-    "age_maximum": null,
+    "age_maximum": 28,
     "langue_requise": "Anglais",
-    "documents_requis": [
-      "CV",
-      "Lettre de motivation",
-      "Relevés de notes universitaires certifiés",
-      "Proposition de recherche (500 mots)",
-      "Rapports de référents académiques (2)",
-      "Preuve de publications (max 5)",
-      "Preuve de compétence en anglais",
-      "Preuve d'accord du superviseur"
-    ],
+    "documents_requis": [],
     "avantages": [
-      "Allocation de subsistance de 36 061 AUD par an (exonérée d'impôt)",
-      "Exonération des frais de scolarité (RTP) jusqu'à 4 ans",
-      "Allocation d'installation jusqu'à 1 485 AUD pour frais de déménagement et billets d'avion",
-      "Couverture santé Overseas Health Care"
+      "Frais de voyage entièrement couverts pour la participation aux événements et activités de l'Alliance mondiale pour les droits humains"
     ],
     "eligibilite": [
-      "Être citoyen d'un pays autre que la Nouvelle-Zélande",
-      "Ne pas détenir la citoyenneté australienne, la résidence permanente australienne ou la citoyenneté néo-zélandaise",
-      "Commencer un diplôme supérieur par recherche en Australie pour la première fois",
-      "S'inscrire dans un domaine de recherche prioritaire de l'université",
-      "Satisfaire aux exigences d'entrée, y compris le niveau d'anglais (test valide jusqu'au 31 mars 2027)",
-      "S'engager à suivre un programme à temps plein"
+      "Âgé de 18 à 28 ans au 12 août 2026",
+      "Minimum 2 ans d'expérience dans la promotion des droits humains ou une cause connexe au niveau local ou national",
+      "Maîtrise de l'anglais (niveau de travail)"
     ],
     "procedure_etapes": [
-      "1. Contacter un superviseur académique à Flinders University et obtenir un accord informel.",
-      "2. Soumettre une demande d'admission au diplôme supérieur par recherche via Studylink.",
-      "3. Activer votre compte Flinders pour obtenir un FAN.",
-      "4. Soumettre une demande de bourse via le Student System pour le groupe International RHD Scholarship.",
-      "5. Joindre tous les documents requis (CV, relevés de notes, proposition de recherche, publications, rapports de référents, preuve d'anglais, preuve d'accord du superviseur).",
-      "6. S'assurer que les rapports de référents sont envoyés à hdr.scholarships@flinders.edu.au avant la date limite."
+      "1. Remplir le formulaire de candidature en ligne avant le 21 juin 2026, 23h59 (CET)."
     ],
     "contacts": [
-      "hdr.scholarships@flinders.edu.au",
-      "1300 354 633"
+      "ohchr-InfoDesk@un.org",
+      "+41 22 917 9220"
     ],
     "liens_utiles": [
       {
         "label": "Site officiel",
-        "url": "https://www.flinders.edu.au/scholarships/australian-government-research-training-program-scholarship-international"
+        "url": "https://www.ohchr.org/en/youth/call-applications-youth4rights-advisory-group?fbclid=IwY2xjawSiTwhleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkGmP8O24pQVuHrY96xiZZwBu2tXBMOgdMzr7POS4Ky32e_b6MDf8NoFgUCm_aem_OFhJ9svyv7ft0FG0x5eQbQ"
       },
       {
-        "label": "Liste de contrôle et directives de candidature (PDF)",
-        "url": "https://www.flinders.edu.au/content/dam/documents/scholarships/scholarship-application-checklist-guidelines%20for%202027.pdf"
+        "label": "Formulaire de candidature",
+        "url": "https://forms.cloud.microsoft/e/NLEFQf2Jjb"
       },
       {
-        "label": "Foire aux questions (PDF)",
-        "url": "https://www.flinders.edu.au/content/dam/documents/scholarships/2027%20hdr-scholarships-international-fact-sheet.pdf"
+        "label": "Page d'accueil OHCHR Jeunesse",
+        "url": "https://www.ohchr.org/en/youth"
       },
       {
-        "label": "Conditions d'attribution (PDF)",
-        "url": "https://www.flinders.edu.au/content/dam/documents/scholarships/agrtps-international-conditions-award_2027.pdf"
-      },
-      {
-        "label": "Couverture de publication (PDF)",
-        "url": "https://www.flinders.edu.au/content/dam/documents/scholarships/international%20publication-cover-sheet-main%202027.pdf"
-      },
-      {
-        "label": "Rapport confidentiel du référent (PDF)",
-        "url": "https://www.flinders.edu.au/content/dam/documents/scholarships/agrtpsiF"
-      },
-      {
-        "label": "Exigences de compétence en anglais pour HDR (PDF)",
-        "url": "https://www.flinders.edu.au/content/dam/documents/staff/policies/academic-students/english-language-proficiency-requirements-hdr.pdf"
-      },
-      {
-        "label": "Comment postuler pour une bourse",
-        "url": "https://students.flinders.edu.au/finances-and-admin/support/scholarships#how-to-apply-scholarship"
-      },
-      {
-        "label": "Portail de candidature Studylink",
-        "url": "https://student-flinders.studylink.com/index.cfm?event=security.showLogin&msg=eventsecured&fr=sp&en=default"
-      },
-      {
-        "label": "Activation du compte Flinders",
-        "url": "https://activate.flinders.edu.au/main"
-      },
-      {
-        "label": "Réactivation FAN",
-        "url": "https://eapplicant.flinders.edu.au/reactivate"
-      },
-      {
-        "label": "Trouver un superviseur",
-        "url": "https://www.flinders.edu.au/international/apply/apply-research-degree/find-research-supervisor"
-      },
-      {
-        "label": "Demande de diplôme par recherche",
-        "url": "https://www.flinders.edu.au/international/apply/apply-research-degree"
-      },
-      {
-        "label": "Comment postuler pour l'admission internationale",
-        "url": "https://www.flinders.edu.au/international/apply/apply-research-degree/how-to-apply"
-      },
-      {
-        "label": "AskFlinders (questions sur la bourse)",
-        "url": "https://askflinders.microsoftcrmportals.com/"
+        "label": "Alliance mondiale pour les droits humains",
+        "url": "https://www.ohchr.org/en/global-alliance"
       }
     ],
     "mots_cles": [
-      "bourse australienne",
-      "recherche doctorat",
-      "Flinders University",
-      "bourse internationale",
-      "RTP",
-      "AGRTPS",
-      "allocation de subsistance",
-      "études supérieures recherche"
+      "Youth4Rights",
+      "groupe consultatif",
+      "droits humains",
+      "jeunes",
+      "OHCHR",
+      "Alliance mondiale",
+      "bénévole",
+      "2026"
     ],
-    "lien_candidature": "https://student-flinders.studylink.com/index.cfm?event=security.showLogin&msg=eventsecured&fr=sp&en=default",
-    "source_url": "https://www.flinders.edu.au/scholarships/australian-government-research-training-program-scholarship-international",
+    "lien_candidature": "https://forms.cloud.microsoft/e/NLEFQf2Jjb",
+    "source_url": "https://www.ohchr.org/en/youth/call-applications-youth4rights-advisory-group?fbclid=IwY2xjawSiTwhleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkGmP8O24pQVuHrY96xiZZwBu2tXBMOgdMzr7POS4Ky32e_b6MDf8NoFgUCm_aem_OFhJ9svyv7ft0FG0x5eQbQ",
     "statut": "ouvert",
-    "resume": "La bourse du Programme de Formation à la Recherche du Gouvernement Australien (AGRTPS) à Flinders University offre une allocation de subsistance de 36 061 AUD par an, exonérée d'impôt, ainsi qu'une exonération des frais de scolarité et une couverture santé pour les étudiants internationaux poursuivant un doctorat ou un master par recherche. Cette bourse très compétitive est attribuée sur la base du mérite académique et du potentiel de recherche. Les candidats doivent avoir un superviseur, fournir jusqu'à cinq publications et satisfaire aux exigences de langue anglaise. La date limite de candidature est le 18 juin 2026.",
-    "adresse": "Level 0, Central Library, Bedford Park campus",
-    "extrait_le": "2026-06-15T02:32:57",
-    "slug": "bourse-gouvernement-australien-recherche-international-2026"
+    "resume": "Rejoignez le Groupe consultatif Youth4Rights et devenez une force motrice du mouvement mondial des droits humains. Ce groupe de 12 jeunes, âgés de 18 à 28 ans, conseillera l'Alliance mondiale pour les droits humains. Les membres, sélectionnés sans nécessité d'expertise spécifique, s'engagent bénévolement environ 8 heures par mois, avec frais de voyage couverts. Postulez avant le 21 juin 2026.",
+    "adresse": "Office of the United Nations High Commissioner for Human Rights (OHCHR) Palais Wilson 52 rue des Pâquis CH-1201 Geneva, Switzerland.",
+    "extrait_le": "2026-06-19T16:37:29",
+    "slug": "youth4rights-advisory-group-2026"
   },
   {
-    "titre": "Bourses du Fonds Commémoratif de l'École Polonaise de Médecine",
-    "seo_slug": "bourse-polish-school-medicine-edimbourg-2026",
-    "organisation": "University of Edinburgh",
-    "montant": null,
-    "devise": "GBP",
-    "type_financement": "bourse partielle",
-    "deadline": "2026-06-18",
-    "deadline_texte": "18 juin 2026 à 23h59 (heure du Royaume-Uni)",
+    "titre": "Appel à Volontaires pour le Symposium Économique Africain (AES) 2026",
+    "seo_slug": "volontaires-symposium-economique-africain-2026",
+    "organisation": "Policy Center for the New South",
+    "montant": 0,
+    "devise": "EUR",
+    "type_financement": "non rémunéré",
+    "deadline": "2026-06-26",
+    "deadline_texte": "26 juin 2026",
     "niveau_etudes": [
+      "Licence",
       "Master"
     ],
     "domaines": [
-      "Médecine",
-      "Recherche médicale"
+      "Économie",
+      "Relations internationales",
+      "Développement"
     ],
     "pays_eligibles": [
-      "Pologne"
+      "Tous pays"
     ],
     "age_maximum": null,
-    "langue_requise": "Anglais",
+    "langue_requise": "Anglais, Français ou Arabe",
     "documents_requis": [
-      "Candidature en ligne",
-      "Rapport de bourse (après le programme)"
+      "CV",
+      "Lettre de motivation"
     ],
     "avantages": [
-      "Allocation de subsistance pour 1 à 12 mois",
-      "Aide aux frais de scolarité (pour un nombre limité de candidats)",
-      "Pour les programmes à distance : prise en charge des frais de scolarité (pas d'allocation de subsistance)"
+      "Repas fournis",
+      "Hébergement possible sur demande"
     ],
     "eligibilite": [
-      "Être un médecin ou scientifique polonais",
-      "Début de carrière (généralement dans les 10 ans suivant l'obtention du diplôme de médecine - équivalent MB ChB)",
-      "Travailler dans une académie/université médicale polonaise ou un institut de recherche",
-      "Excellente maîtrise de l'anglais",
-      "S'engager à développer l'expertise en recherche médicale en Pologne",
-      "Accepter de fournir un rapport de bourse dans le mois suivant la fin du programme",
-      "Retourner en Pologne après le programme",
-      "Utiliser les compétences acquises pour améliorer la médecine polonaise et renforcer les liens académiques"
+      "Étudiant ou jeune professionnel très motivé",
+      "Maîtrise de l'anglais et de préférence du français ou de l'arabe",
+      "Excellentes compétences en communication",
+      "Intérêt pour les enjeux économiques africains",
+      "Flexibilité horaire et capacité à gérer des tâches logistiques et administratives",
+      "Expérience en gestion d'événements souhaitable mais non essentielle",
+      "Ponctualité, fiabilité et professionnalisme"
     ],
     "procedure_etapes": [
-      "1. Postuler pour l'admission à l'University of Edinburgh (un programme de master enseigné ou de recherche).",
-      "2. Attendre jusqu'à 5 jours ouvrés pour l'accès au système de candidature aux bourses.",
-      "3. Compléter le formulaire de candidature en ligne via EUCLID (MyEd) : https://www.myed.ed.ac.uk",
-      "4. Utiliser votre UUN et mot de passe pour vous connecter.",
-      "5. Soumettre la candidature avant le 18 juin 2026 à 23h59 (heure du Royaume-Uni)."
+      "1. Remplir le formulaire de candidature en ligne",
+      "2. Joindre un CV à jour et une lettre de motivation",
+      "3. Inclure le numéro de téléphone dans le CV et la lettre de motivation",
+      "4. Soumettre avant le 26 juin 2026",
+      "5. Les entretiens commenceront à partir du 1er juillet 2026"
     ],
     "contacts": [
-      "EconPGR.enquiries@ed.ac.uk",
-      "PSMscourse@ed.ac.uk"
+      "contact@policycenter.ma",
+      "+212 5 37 54 04 04"
     ],
     "liens_utiles": [
       {
         "label": "Site officiel",
-        "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/international/medicine-vet-medicine/polish-school-of-medicine-memorial-fund-scholarshi"
+        "url": "https://www.policycenter.ma/jobs/africa-economic-symposium-aes-2026-call-volunteers?fbclid=IwY2xjawSiUHlleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsyS-z0fB5KVDeTY-dLSoy7mreymvPhviomhIaYwEzQovAGOfYCnesppeyQY_aem_tDseBJkzv6bkWJnr4xu4-w"
       },
       {
-        "label": "Portail MyEd",
-        "url": "https://www.myed.ed.ac.uk"
-      },
-      {
-        "label": "Assistance pour les systèmes étudiants",
-        "url": "http://www.ed.ac.uk/student-systems/support-guidance"
-      },
-      {
-        "label": "Guide de candidature aux bourses",
-        "url": "https://registryservices.ed.ac.uk/student-systems/support-guidance/applicants/apply-scholarship"
-      },
-      {
-        "label": "FAQ sur les systèmes de bourses (PDF)",
-        "url": "https://registryservices.ed.ac.uk/sites/default/files/2025-10/Scholarships%20Systems%20FAQs%20for%20Applicants_1.pdf"
+        "label": "Site officiel du Symposium",
+        "url": "https://www.policycenter.ma/events/africa-economic-symposium-aes-4th-edition-turning-transitions-growth"
       }
     ],
     "mots_cles": [
-      "bourse",
-      "Pologne",
-      "médecine",
-      "recherche",
-      "Edimbourg",
-      "master",
+      "volontariat",
+      "symposium économique",
+      "Afrique",
+      "Policy Center",
+      "Rabat",
       "2026",
-      "Polish School of Medicine"
+      "événement",
+      "étudiants"
     ],
-    "lien_candidature": "https://www.myed.ed.ac.uk",
-    "source_url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/international/medicine-vet-medicine/polish-school-of-medicine-memorial-fund-scholarshi",
+    "lien_candidature": "https://www.policycenter.ma/jobs/africa-economic-symposium-aes-2026-call-volunteers?fbclid=IwY2xjawSiUHlleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsyS-z0fB5KVDeTY-dLSoy7mreymvPhviomhIaYwEzQovAGOfYCnesppeyQY_aem_tDseBJkzv6bkWJnr4xu4-w",
+    "source_url": "https://www.policycenter.ma/jobs/africa-economic-symposium-aes-2026-call-volunteers?fbclid=IwY2xjawSiUHlleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsyS-z0fB5KVDeTY-dLSoy7mreymvPhviomhIaYwEzQovAGOfYCnesppeyQY_aem_tDseBJkzv6bkWJnr4xu4-w",
     "statut": "ouvert",
-    "resume": "La bourse du Fonds Commémoratif de l'École Polonaise de Médecine permet à des médecins et scientifiques polonais en début de carrière d'effectuer un master ou une recherche à l'University of Edinburgh. L'aide comprend une allocation de subsistance pour 1 à 12 mois et, pour certains, une aide aux frais de scolarité. Les candidats doivent postuler à l'admission puis remplir un formulaire en ligne avant le 18 juin 2026.",
-    "extrait_le": "2026-06-15T04:31:54",
-    "slug": "bourse-polish-school-medicine-edimbourg-2026"
+    "resume": "Le Policy Center for the New South recrute des volontaires pour la 4e édition du Symposium Économique Africain (AES) qui se tiendra à Rabat les 13 et 14 juillet 2026. Les volontaires assisteront l'équipe dans les tâches logistiques, de production, de communication et médiatiques. Cette opportunité non rémunérée offre une expérience pratique de l'organisation d'événements de haut niveau, avec repas fournis et hébergement possible. Les candidatures sont ouvertes jusqu'au 26 juin 2026.",
+    "adresse": "Policy Center for the New South Rabat Campus of Mohammed VI Polytechnic University Rocade Rabat Salé 11103 Morocco",
+    "extrait_le": "2026-06-19T16:44:15",
+    "slug": "volontaires-symposium-economique-africain-2026"
+  },
+  {
+    "titre": "Bourse NGFP Fellowship 2027",
+    "seo_slug": "ngfp-fellowship-2027",
+    "organisation": "Next Generation Foresight Practitioners (NGFP)",
+    "montant": 1000,
+    "devise": "USD",
+    "type_financement": "bourse de projet",
+    "deadline": "2026-06-26",
+    "deadline_texte": "26 juin 2026 à 23h59 GMT+1",
+    "niveau_etudes": [
+      "Professionnel"
+    ],
+    "domaines": [
+      "Foresight",
+      "Prospective",
+      "Changements climatiques",
+      "Démocratie",
+      "Technologies émergentes",
+      "Santé",
+      "Paix",
+      "Futurs ruraux"
+    ],
+    "pays_eligibles": [
+      "Monde entier",
+      "Asie",
+      "Afrique",
+      "MENA",
+      "Caraïbes",
+      "Amérique centrale",
+      "Amérique du Sud",
+      "Îles du Pacifique",
+      "Balkans"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Fond de démarrage de 1 000 USD",
+      "Possibilité de gagner un grand prix de 10 000 USD",
+      "Plateforme de mise en réseau",
+      "Partenaire de projet (praticien expert)",
+      "Formation en prospective",
+      "Newsletters bi-hebdomadaires",
+      "Participation à des hubs régionaux",
+      "Participation à des événements"
+    ],
+    "eligibilite": [
+      "Âge 18-35 ans (ou plus de 35 ans avec moins d'un an d'expérience en prospective)",
+      "Débutant dans le domaine de la prospective",
+      "Engagé dans la construction de communautés",
+      "Porteur d'un projet visionnaire axé sur le futur",
+      "Apprenant collaboratif avec une vision à long terme (10 ans)",
+      "De n'importe où dans le monde, priorité Asie et Afrique"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Préparer votre projet",
+      "3. Soumettre votre candidature en ligne avant le 26 juin 2026",
+      "4. Participer aux sessions Q&A si nécessaire",
+      "5. Attendre les résultats (juillet-septembre 2026)",
+      "6. Si sélectionné, participer à l'orientation en janvier 2027"
+    ],
+    "contacts": [
+      "fellowship@nextgenforesight.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://nextgenforesight.org/fellowship/?fbclid=IwY2xjawSiUT5leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHje8JSJCEUCvqK7gsiB8vGL0FWm9pKVTOmrala8iNd1if7AngEOBRKGPYMqo_aem_26K1BSh9dnCEZ4fHedwopw"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://apply.nextgenforesight.org/register"
+      },
+      {
+        "label": "Sessions Q&A et enregistrements",
+        "url": "https://nextgenforesight.org/fellowship/qas-and-workshops/"
+      },
+      {
+        "label": "Missions de transformation prospective",
+        "url": "https://nextgenforesight.org/fellowship/foresight-transformation-missions/"
+      },
+      {
+        "label": "Bourse Balkans",
+        "url": "https://nextgenforesight.org/fellowship/the-balkans-fellowship/"
+      },
+      {
+        "label": "Bourse MENA",
+        "url": "https://nextgenforesight.org/the-mena-fellowship/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://nextgenforesight.org/fellowship/apply/faqs/"
+      },
+      {
+        "label": "Termes et conditions",
+        "url": "https://nextgenforesight.org/fellowship/apply/terms-and-conditions/"
+      },
+      {
+        "label": "À propos de NGFP",
+        "url": "https://nextgenforesight.org/about-us/"
+      },
+      {
+        "label": "Parcours du fellowship",
+        "url": "https://nextgenforesight.org/fellowship/journey"
+      }
+    ],
+    "mots_cles": [
+      "bourse prospective",
+      "fellowship foresight",
+      "jeunes professionnels",
+      "projet visionnaire",
+      "réseau mondial",
+      "financement projet",
+      "NGFP",
+      "2027"
+    ],
+    "lien_candidature": "https://apply.nextgenforesight.org/register",
+    "source_url": "https://nextgenforesight.org/fellowship/?fbclid=IwY2xjawSiUT5leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHje8JSJCEUCvqK7gsiB8vGL0FWm9pKVTOmrala8iNd1if7AngEOBRKGPYMqo_aem_26K1BSh9dnCEZ4fHedwopw",
+    "statut": "ouvert",
+    "resume": "La bourse NGFP Fellowship 2027 est ouverte aux jeunes professionnels de 18 à 35 ans (ou plus avec moins d'un an d'expérience) du monde entier, avec une priorité pour l'Asie et l'Afrique. Elle offre un fonds de démarrage de 1 000 USD, un accompagnement par un expert, une formation en prospective et la possibilité de gagner 10 000 USD. Les candidatures sont à soumettre avant le 26 juin 2026.",
+    "adresse": "Onega House, 112 Main Road Sidcup, Kent DA14 6NE",
+    "extrait_le": "2026-06-19T16:46:39",
+    "slug": "ngfp-fellowship-2027"
+  },
+  {
+    "titre": "Bourse Flagship Fellowship",
+    "seo_slug": "flagship-fellowship-entrepreneurs-2026",
+    "organisation": "Watson Institute",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-28",
+    "deadline_texte": "28 juin 2026 (date limite prioritaire)",
+    "niveau_etudes": [],
+    "domaines": [
+      "Entrepreneuriat",
+      "Leadership",
+      "Impact social"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Programme entièrement financé de 16 semaines",
+      "Ateliers en affaires et leadership",
+      "Outils et ressources financières",
+      "Série Impact et ateliers spécialisés",
+      "Formation au pitch et Sommet virtuel",
+      "Mentorat intensif",
+      "Réseau mondial de pairs"
+    ],
+    "eligibilite": [
+      "Être fondateur, entrepreneur ou innovateur communautaire",
+      "Avoir une entreprise ou organisation en activité depuis 1 à 5 ans avec moins de 10 employés",
+      "Avoir des clients, des résultats mesurables et un certain financement (subventions, investissements, dons, revenus)",
+      "Être âgé de 18 ans ou plus",
+      "Pouvoir s'engager pour les 16 semaines complètes du programme (11 août - 24 novembre 2026) et participer à l'Immersive virtuelle obligatoire du 11 au 18 août 2026 ainsi qu'aux ateliers hebdomadaires les mardis, mercredis et jeudis de 8h00 à 10h00 MT",
+      "L'éligibilité géographique varie selon la bourse spécifique (Luff, Sustainability, Kenneth King Foundation, Venable)"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre la candidature en ligne avant le 28 juin 2026 (date limite prioritaire) ; les candidatures sont examinées au fur et à mesure jusqu'à ce que toutes les places soient pourvues.",
+      "2. Examen de la candidature par le comité d'admission.",
+      "3. Entretien Zoom de 20 minutes pour les candidats sélectionnés.",
+      "4. Sélection finale et inscription : les décisions finales sont annoncées le 9 juillet 2026. Les candidats retenus doivent confirmer leur inscription."
+    ],
+    "contacts": [
+      "info@watson.is",
+      "+1 720-432-0629"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://watson.is/flagship-fellowship/?fbclid=IwY2xjawSiU3VleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm0umM6v14vUPtz5INyjLpKew0cfj2DsB9o5pIj_5paK0YWu7R3iTlpgsDHl_aem_yPJsA1kijX_VStHmXTDUgA"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://watson.is/flagship-fellowship-application/"
+      },
+      {
+        "label": "Page d'accueil du programme",
+        "url": "https://watson.is/flagship-fellowship/"
+      },
+      {
+        "label": "Basecamps",
+        "url": "https://watson.is/basecamps/"
+      },
+      {
+        "label": "Sommets",
+        "url": "https://watson.is/summits/"
+      },
+      {
+        "label": "Rencontrez les anciens",
+        "url": "https://watson.is/meet-the-fellows/"
+      }
+    ],
+    "mots_cles": [
+      "bourse entrepreneuriat",
+      "fellowship leadership",
+      "Watson Institute",
+      "programme entièrement financé",
+      "entrepreneur social",
+      "bourse 2026",
+      "impact venture"
+    ],
+    "lien_candidature": "https://watson.is/flagship-fellowship-application/",
+    "source_url": "https://watson.is/flagship-fellowship/?fbclid=IwY2xjawSiU3VleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm0umM6v14vUPtz5INyjLpKew0cfj2DsB9o5pIj_5paK0YWu7R3iTlpgsDHl_aem_yPJsA1kijX_VStHmXTDUgA",
+    "statut": "ouvert",
+    "resume": "Le Flagship Fellowship est un programme de développement entrepreneurial et de leadership entièrement financé de 16 semaines proposé par le Watson Institute. Il réunit des entrepreneurs à impact du monde entier pour une formation intensive, un mentorat, un accès au capital et une communauté mondiale de pairs. Le programme commence par une Immersive virtuelle et comprend des ateliers en affaires, des outils financiers, une formation au pitch et un Sommet virtuel. Les candidatures sont ouvertes jusqu'au 28 juin 2026.",
+    "adresse": "4845 Pearl E. Circle, Suite 101 Boulder, CO 80301",
+    "extrait_le": "2026-06-19T16:56:02",
+    "slug": "flagship-fellowship-entrepreneurs-2026"
+  },
+  {
+    "titre": "Mécanisme de Financement Tiers AU-EU Youth Voices",
+    "seo_slug": "bourse-jeunes-afrique-europe-2026",
+    "organisation": "AU-EU Youth Voices Lab – Power of the Collective",
+    "montant": 10000,
+    "devise": "EUR",
+    "type_financement": "subvention",
+    "deadline": "2026-06-29",
+    "deadline_texte": "29 juin 2026, 23:59 (EAT)",
+    "niveau_etudes": [],
+    "domaines": [
+      "Participation des jeunes",
+      "Plaidoyer",
+      "Justice climatique",
+      "Éducation",
+      "Emploi",
+      "Consolidation de la paix",
+      "Égalité des genres",
+      "Inclusion"
+    ],
+    "pays_eligibles": [
+      "Belgique",
+      "Burkina Faso",
+      "Burundi",
+      "Cameroun",
+      "Ghana",
+      "Kenya",
+      "Nigeria",
+      "Sénégal",
+      "Sierra Leone",
+      "Soudan du Sud",
+      "Tanzanie",
+      "Tunisie",
+      "Ouganda",
+      "Zambie",
+      "Zimbabwe"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Non spécifiée",
+    "documents_requis": [
+      "Manuel de financement",
+      "Formulaire de candidature"
+    ],
+    "avantages": [
+      "Subvention de 1 000 à 10 000 EUR",
+      "Coaching et orientation pendant la mise en œuvre"
+    ],
+    "eligibilite": [
+      "Groupes dirigés par des jeunes",
+      "Âge des membres : 15 à 35 ans",
+      "Basé dans un pays d'intervention du programme",
+      "Idée claire et lien fort avec la communauté",
+      "Engagement pour un travail sûr, inclusif et éthique"
+    ],
+    "procedure_etapes": [
+      "1. Lire le manuel de financement",
+      "2. Participer au webinaire introductif le 4 juin 2026",
+      "3. Soumettre la candidature via le lien officiel",
+      "4. Les candidatures sont évaluées",
+      "5. Les groupes présélectionnés complètent des vérifications supplémentaires",
+      "6. Signature de l'accord de subvention",
+      "7. Mise en œuvre des activités",
+      "8. Partage des résultats et des leçons"
+    ],
+    "contacts": [
+      "au-euyvlfund@restlessdevelopement.org",
+      "au-euyvlfund@restlessdevelopment.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://aueuyouthvoiceslab.eu/grants/?fbclid=IwY2xjawSiUh1leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsfZNQ_-0Xzxknn5VNRRZW8lzJBrZMDieN7V9I8BSjqfnixiNX2O_AbNxZ7Y_aem_LF8NerQ-TbFJ9cq99LpRog"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://bio.aueuyouthvoiceslab.eu/grantsapplication2026"
+      },
+      {
+        "label": "Manuel de financement (anglais)",
+        "url": "https://aueuyouthvoiceslab.eu/wp-content/uploads/English_Funding-Manual_Third-Party-Funding-Mechanism_AU-EU-Youth-Voices-Lab-–-Power-of-the-Collective.pdf"
+      },
+      {
+        "label": "Manuel de financement (français)",
+        "url": "https://aueuyouthvoiceslab.eu/wp-content/uploads/French_Funding-Manual_Third-Party-Funding-Mechanism_AU-EU-Youth-Voices-Lab-–-Power-of-the-Collective.pdf"
+      },
+      {
+        "label": "Manuel de financement (arabe)",
+        "url": "https://aueuyouthvoiceslab.eu/wp-content/uploads/Arabic_Funding-Manual_Third-Party-Funding-Mechanism_AU-EU-Youth-Voices-Lab-–-Power-of-the-Collective.pdf"
+      },
+      {
+        "label": "Inscription au webinaire du 4 juin 2026",
+        "url": "https://bio.aueuyouthvoiceslab.eu/4ebO9v1"
+      }
+    ],
+    "mots_cles": [
+      "bourse jeunes",
+      "financement jeunes",
+      "Afrique Europe",
+      "subvention jeunesse",
+      "projets communautaires",
+      "plaidoyer jeunes",
+      "2026"
+    ],
+    "lien_candidature": "https://bio.aueuyouthvoiceslab.eu/grantsapplication2026",
+    "source_url": "https://aueuyouthvoiceslab.eu/grants/?fbclid=IwY2xjawSiUh1leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsfZNQ_-0Xzxknn5VNRRZW8lzJBrZMDieN7V9I8BSjqfnixiNX2O_AbNxZ7Y_aem_LF8NerQ-TbFJ9cq99LpRog",
+    "statut": "ouvert",
+    "resume": "Le Mécanisme de Financement Tiers AU-EU Youth Voices offre des subventions de 1 000 à 10 000 EUR aux groupes dirigés par des jeunes âgés de 15 à 35 ans dans 15 pays d'Afrique et d'Europe. Les projets doivent répondre aux besoins des jeunes et contribuer au plaidoyer jeunesse. La 2e édition ouvre le 8 juin 2026, avec un webinaire introductif le 4 juin. Les candidatures sont à soumettre avant le 29 juin 2026.",
+    "extrait_le": "2026-06-19T16:51:01",
+    "slug": "bourse-jeunes-afrique-europe-2026"
   },
   {
     "titre": "Programme de Bourse de Recherche 2027 de la Fondation Internationale Matsumae",
@@ -998,6 +1250,79 @@
     "slug": "bourse-hubert-humphrey-togo-2027"
   },
   {
+    "titre": "Bourse Young Leaders Fellowship 2026",
+    "seo_slug": "young-leaders-fellowship-2026",
+    "organisation": "Coalition for Good Schools / Raising Voices",
+    "montant": null,
+    "devise": null,
+    "type_financement": "programme de leadership",
+    "deadline": "2026-07-04",
+    "deadline_texte": "4 juillet 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Prévention de la violence contre les enfants",
+      "Éducation",
+      "Leadership"
+    ],
+    "pays_eligibles": [
+      "Pays du Sud global"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Développement du leadership",
+      "Coaching",
+      "Réseautage",
+      "Communauté de pratique",
+      "Une rencontre en personne",
+      "Apprentissage continu",
+      "Exposition sur le terrain"
+    ],
+    "eligibilite": [
+      "Âge entre 18 et 35 ans",
+      "Basé et travaillant dans un pays du Sud global",
+      "Diriger ou contribuer à une initiative active de prévention de la violence contre les enfants dans et par les écoles",
+      "Capable de participer pleinement en anglais",
+      "Capable de s'engager dans un programme virtuel distribué et de participer à la rencontre en personne"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne",
+      "2. Les candidats présélectionnés seront invités à un court entretien avec l'équipe du programme"
+    ],
+    "contacts": [
+      "info@coalitionforgoodschools.org",
+      "fe*********@*********************ls.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://coalitionforgoodschools.org/young-leaders-fellowship/?fbclid=IwY2xjawSiUrhleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm0umM6v14vUPtz5INyjLpKew0cfj2DsB9o5pIj_5paK0YWu7R3iTlpgsDHl_aem_yPJsA1kijX_VStHmXTDUgA"
+      },
+      {
+        "label": "Visitez le site :",
+        "url": "https://tally.so/r/Npd1jG"
+      },
+      {
+        "label": "Site officiel",
+        "url": "https://coalitionforgoodschools.org/young-leaders-fellowship/"
+      }
+    ],
+    "mots_cles": [
+      "bourse leadership",
+      "jeunes leaders",
+      "prévention violence enfants",
+      "sud global",
+      "fellowship 2026"
+    ],
+    "lien_candidature": "https://tally.so/r/Npd1jG",
+    "source_url": "https://coalitionforgoodschools.org/young-leaders-fellowship/?fbclid=IwY2xjawSiUrhleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm0umM6v14vUPtz5INyjLpKew0cfj2DsB9o5pIj_5paK0YWu7R3iTlpgsDHl_aem_yPJsA1kijX_VStHmXTDUgA",
+    "statut": "ouvert",
+    "resume": "Le Young Leaders Fellowship est un programme d'un an destiné aux jeunes leaders du Sud global qui travaillent à la prévention de la violence contre les enfants dans et par les écoles. Les fellows bénéficient d'un développement du leadership, de coaching, de réseautage et d'une communauté de pratique, avec une rencontre en personne. Les candidatures sont ouvertes jusqu'au 4 juillet 2026.",
+    "extrait_le": "2026-06-19T16:52:22",
+    "slug": "young-leaders-fellowship-2026"
+  },
+  {
     "titre": "Appel à candidatures – Juin 2026 – Formations qualifiantes certifiantes internationales à distance",
     "seo_slug": "formations-qualifiantes-certifiantes-distance-2026",
     "organisation": "AUF (Agence Universitaire de la Francophonie)",
@@ -1228,6 +1553,102 @@
     "resume": "La Konrad Adenauer Stiftung offre des bourses aux étudiants internationaux et doctorants non européens souhaitant étudier ou faire de la recherche en Allemagne. Le programme soutient financièrement jusqu'à 992 € par mois pour les cycles Licence/Master et 1 400 € pour le doctorat, avec des allocations supplémentaires. En plus du soutien financier, les boursiers bénéficient d'un mentorat personnalisé, d'un programme de séminaires varié et d'un réseau international. Les candidatures pour 2026 sont ouvertes jusqu'au 15 juillet 2026.",
     "extrait_le": "2026-06-18T01:26:06",
     "slug": "bourse-kas-international-allemagne-2026"
+  },
+  {
+    "titre": "Appel à candidatures pour les élections à la 5e Assemblée générale permanente de l'ECOSOCC",
+    "seo_slug": "ecosocc-elections-5e-assemblee-2026",
+    "organisation": "Economic, Social and Cultural Council of the African Union (ECOSOCC)",
+    "montant": null,
+    "devise": null,
+    "type_financement": null,
+    "deadline": "2026-07-15",
+    "deadline_texte": "15 juillet 2026 à 17h00 (heure d'Afrique centrale)",
+    "niveau_etudes": [],
+    "domaines": [
+      "Gouvernance",
+      "Société civile",
+      "Développement"
+    ],
+    "pays_eligibles": [
+      "États membres de l'Union africaine",
+      "Diaspora africaine"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [
+      "Preuve d'enregistrement en tant qu'OSC",
+      "Preuve d'adhésion à un chapitre national de l'ECOSOCC",
+      "Statut consultatif selon le cadre d'accréditation harmonisé",
+      "Derniers états financiers audités",
+      "Preuve de propriété et de gestion africaine à au moins 50%",
+      "Preuve de ressources de base d'origine africaine à au moins 50%",
+      "Déclaration des contributions volontaires externes",
+      "Preuve d'opérations dans les domaines thématiques pertinents"
+    ],
+    "avantages": [
+      "Adhésion à l'Assemblée générale de l'ECOSOCC pour un mandat de 4 ans renouvelable une fois"
+    ],
+    "eligibilite": [
+      "Être une OSC nationale, régionale, continentale ou de la diaspora africaine",
+      "Fournir une preuve d'enregistrement valide depuis au moins 3 ans avant la candidature",
+      "Être membre d'un chapitre national de l'ECOSOCC (pour les OSC nationales, régionales et continentales)",
+      "Avoir un statut consultatif selon le cadre d'accréditation harmonisé",
+      "Pour les OSC régionales : opérer dans au moins 2 États membres d'une région",
+      "Pour les OSC continentales : opérer dans au moins 2 régions du continent",
+      "Soumettre les derniers états financiers audités datant de moins de 2 ans",
+      "Prouver que la propriété et la gestion sont composées d'au moins 50% d'Africains ou de la diaspora africaine",
+      "Prouver qu'au moins 50% des ressources de base proviennent de contributions nationales ou d'institutions africaines",
+      "Déclarer tout soutien financier externe",
+      "Objectifs et principes conformes à l'UA",
+      "Démontrer une expertise dans les domaines thématiques pertinents",
+      "Ne pas discriminer sur la base de la religion, du genre, de la tribu, de l'origine ethnique, raciale ou de l'affiliation politique"
+    ],
+    "procedure_etapes": [
+      "1. Créer un profil et enregistrer votre organisation sur ECOSOCC-Connect (http://ecosocc.au.int/connect).",
+      "2. Après inscription réussie, soumettre votre candidature pour la 5e Assemblée générale permanente (5PGA) via la même plateforme.",
+      "3. Joindre tous les documents justificatifs requis.",
+      "4. Soumettre avant le 15 juillet 2026 à 17h00 CAT."
+    ],
+    "contacts": [
+      "elections.ecosocc@africanunion.org",
+      "accreditation@ecosocc.au.int",
+      "(260) 211429405"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://ecosocc.au.int/en/elections?fbclid=IwY2xjawSiT51leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkz9ntZIMdQvThBuu6igVX6R7px7deKxyG7zDZvD3859dseez4dSDjM-2OBK_aem_bnDQ-UyqfqbWAVkJKyGp6g"
+      },
+      {
+        "label": "Plateforme de candidature ECOSOCC-Connect",
+        "url": "http://ecosocc.au.int/connect"
+      },
+      {
+        "label": "Annexe 1 - Critères d'éligibilité",
+        "url": "https://ecosocc.au.int/en/elections"
+      },
+      {
+        "label": "Annexe 2 - Domaines thématiques",
+        "url": "https://ecosocc.au.int/en/elections"
+      }
+    ],
+    "mots_cles": [
+      "ECOSOCC",
+      "élections",
+      "Assemblée générale",
+      "OSC",
+      "Union africaine",
+      "société civile",
+      "candidature",
+      "2026"
+    ],
+    "lien_candidature": "http://ecosocc.au.int/connect",
+    "source_url": "https://ecosocc.au.int/en/elections?fbclid=IwY2xjawSiT51leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkz9ntZIMdQvThBuu6igVX6R7px7deKxyG7zDZvD3859dseez4dSDjM-2OBK_aem_bnDQ-UyqfqbWAVkJKyGp6g",
+    "statut": "ouvert",
+    "resume": "L'ECOSOCC de l'Union africaine lance un appel à candidatures pour les élections à sa 5e Assemblée générale permanente. Les organisations de la société civile (OSC) éligibles, opérant aux niveaux national, régional, continental ou de la diaspora africaine, sont invitées à postuler avant le 15 juillet 2026. Les candidats doivent répondre à des critères stricts d'enregistrement, de financement et de conformité aux valeurs de l'UA. Les OSC élues siégeront pour un mandat de quatre ans renouvelable une fois.",
+    "adresse": "8658 Kudu Road Kabulonga, Lusaka, Zambia",
+    "extrait_le": "2026-06-19T16:41:27",
+    "slug": "ecosocc-elections-5e-assemblee-2026"
   },
   {
     "titre": "Bourse Rhodes 2027 pour des études supérieures à l'Université d'Oxford",
@@ -1792,6 +2213,369 @@
     "slug": "bourse-mastercard-foundation-mcgill-afrique-2026"
   },
   {
+    "titre": "Forum Civique des Jeunes 2026",
+    "seo_slug": "forum-civique-jeunes-copenhague-2026",
+    "organisation": "Centre for Diplomatic Advancement",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète, partielle, accès gratuit",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026 (estimé)",
+    "niveau_etudes": [
+      "Tous niveaux"
+    ],
+    "domaines": [
+      "Gouvernance",
+      "Politiques publiques",
+      "Leadership civique",
+      "Démocratie",
+      "Développement durable"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": 45,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Lettre de motivation",
+      "Preuve d'engagement civique"
+    ],
+    "avantages": [
+      "Billet d'avion (bourse complète)",
+      "Hébergement partagé",
+      "Repas pendant le forum",
+      "Petit-déjeuner quotidien",
+      "Frais de visa (bourse complète)",
+      "Coordination d'ambassade",
+      "Lettre d'invitation officielle",
+      "Accès au forum",
+      "Opportunité de prise de parole",
+      "Certificat international",
+      "Reconnaissance de leadership"
+    ],
+    "eligibilite": [
+      "Âge 16-45 ans",
+      "Toutes nationalités",
+      "Étudiants, jeunes professionnels, militants, chercheurs, décideurs, entrepreneurs sociaux",
+      "Maîtrise de l'anglais (niveau professionnel)"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne",
+      "2. Soumettre une seule candidature pour toutes les catégories de bourse",
+      "3. Attendre la sélection basée sur la motivation, l'impact civique, l'intérêt politique, le potentiel de leadership, la diversité et la qualité de la candidature"
+    ],
+    "contacts": [
+      "info@mtscholarships.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.youtube.com/watch?v=2i4D5LYx_Qg&t=26s"
+      },
+      {
+        "label": "Page de candidature aux bourses",
+        "url": "https://thecda.co/product/cyf-2026-scholarships/"
+      },
+      {
+        "label": "Inscription payante - Lettre d'invitation",
+        "url": "https://thecda.co/product/invitation-only-cyf-2026/"
+      },
+      {
+        "label": "Inscription payante - Accès Forum",
+        "url": "https://thecda.co/product/forum-access-cyf-2026/"
+      },
+      {
+        "label": "Inscription payante - Package autofinancé",
+        "url": "https://thecda.co/product/self-funded-cyf-2026/"
+      }
+    ],
+    "mots_cles": [
+      "bourse forum jeunesse",
+      "copenhague 2026",
+      "leadership civique",
+      "gouvernance",
+      "politiques publiques",
+      "bourse entièrement financée",
+      "jeunes délégués",
+      "danemark"
+    ],
+    "lien_candidature": "https://thecda.co/product/cyf-2026-scholarships/",
+    "source_url": "https://thecda.co/civic-youth-forum-2026/?gad_source=0&gad_campaignid=23731100822&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD2yaze8G1lvOZTth3k2uHtAjJugPDvQkldtX9Gkgs3wJYJNTMlIfN8aAjKUEALw_wcB#",
+    "statut": "ouvert",
+    "resume": "Le Forum Civique des Jeunes 2026 (CYF 2026) se tiendra à Copenhague, au Danemark, du 17 au 20 septembre 2026. Organisé par le Centre pour l'Avancement Diplomatique, cet événement international offre 500 bourses réparties en trois catégories : 100 places entièrement financées (incluant billet d'avion, hébergement et frais de visa), 150 places partiellement financées et 250 accès gratuits. Ouvert à toutes les nationalités pour les jeunes de 16 à 45 ans, le forum propose des ateliers sur le leadership civique, la gouvernance et les politiques publiques, avec une langue de travail anglaise. Les candidats sont automatiquement considérés pour toutes les catégories via une seule candidature en ligne.",
+    "extrait_le": "2026-06-19T16:23:04",
+    "slug": "forum-civique-jeunes-copenhague-2026"
+  },
+  {
+    "titre": "Bourses de Recherche du 90e Anniversaire du British Council",
+    "seo_slug": "bourses-recherche-british-council-2027",
+    "organisation": "British Council et Institute for Advanced Studies in the Humanities (IASH), University of Edinburgh",
+    "montant": 2500,
+    "devise": "GBP",
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026 à 17h00 BST",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Arts",
+      "Éducation",
+      "Langue anglaise",
+      "Relations internationales",
+      "Soft power",
+      "Développement international",
+      "Consolidation de la paix",
+      "Relations culturelles",
+      "Diplomatie culturelle"
+    ],
+    "pays_eligibles": [
+      "Albanie",
+      "Algérie",
+      "Argentine",
+      "Arménie",
+      "Azerbaïdjan",
+      "Bangladesh",
+      "Bosnie-Herzégovine",
+      "Botswana",
+      "Brésil",
+      "Cambodge",
+      "Cameroun",
+      "Chine",
+      "Colombie",
+      "Cuba",
+      "Égypte",
+      "Éthiopie",
+      "Géorgie",
+      "Ghana",
+      "Inde",
+      "Indonésie",
+      "Irak",
+      "Jamaïque",
+      "Jordanie",
+      "Kazakhstan",
+      "Kenya",
+      "Kosovo",
+      "Laos",
+      "Liban",
+      "Libye",
+      "Malawi",
+      "Malaisie",
+      "Maurice",
+      "Mexique",
+      "Monténégro",
+      "Maroc",
+      "Mozambique",
+      "Myanmar",
+      "Namibie",
+      "Népal",
+      "Nigeria",
+      "Macédoine du Nord",
+      "Pakistan",
+      "Pérou",
+      "Philippines",
+      "Rwanda",
+      "Sénégal",
+      "Serbie",
+      "Sierra Leone",
+      "Afrique du Sud",
+      "Soudan du Sud",
+      "Sri Lanka",
+      "Soudan",
+      "Syrie",
+      "Tanzanie",
+      "Thaïlande",
+      "Tunisie",
+      "Turquie",
+      "Ouganda",
+      "Ukraine",
+      "Ouzbékistan",
+      "Venezuela",
+      "Vietnam",
+      "Territoires palestiniens occupés",
+      "Yémen",
+      "Zambie",
+      "Zimbabwe"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "CV",
+      "Proposition de recherche",
+      "Lettre de motivation",
+      "Références (2 à 3, envoyées par les référents à iash@ed.ac.uk)"
+    ],
+    "avantages": [
+      "Bourse mensuelle de 2 500 £ pendant 12 mois",
+      "Frais de voyage",
+      "Espace de travail dédié",
+      "Accès à la bibliothèque de l'Université d'Édimbourg",
+      "Adresse e-mail universitaire",
+      "Mentorat académique",
+      "Déjeuners hebdomadaires des boursiers",
+      "Séminaires de travail en cours",
+      "Calendrier d'événements",
+      "Opportunités de participer et de concevoir des ateliers financés"
+    ],
+    "eligibilite": [
+      "Être basé dans un pays bénéficiaire de l'APD où le British Council opère",
+      "Avoir obtenu un doctorat dans les 7 dernières années (tenant compte des pauses de carrière)",
+      "Ne pas avoir occupé un poste permanent dans une université ou une bourse antérieure à l'IASH",
+      "Proposer une recherche alignée sur la vision du British Council et les domaines prioritaires (Arts, Éducation, Langue anglaise, relations internationales, etc.)",
+      "Inclure des résultats pertinents pour la politique ou la pratique de l'APD"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité (pays, doctorat récent, etc.).",
+      "2. Préparer les documents : formulaire de candidature, CV, proposition de recherche, lettre de motivation.",
+      "3. Demander à 2-3 référents d'envoyer leurs lettres de référence à iash@ed.ac.uk avant la date limite.",
+      "4. Soumettre la candidature via le portail en ligne avant le 31 juillet 2026 à 17h00 BST.",
+      "5. Envoyer tout document supplémentaire par email à iash@ed.ac.uk.",
+      "6. Attendre la notification des résultats fin septembre 2026."
+    ],
+    "contacts": [
+      "researchglobal@britishcouncil.org",
+      "iash@ed.ac.uk",
+      "+44 (0)131 650 4671"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.iash.ed.ac.uk/british-council-90th-anniversary-research-fellowships?fbclid=IwY2xjawSiTedleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsfZNQ_-0Xzxknn5VNRRZW8lzJBrZMDieN7V9I8BSjqfnixiNX2O_AbNxZ7Y_aem_LF8NerQ-TbFJ9cq99LpRog"
+      },
+      {
+        "label": "Portail de candidature",
+        "url": "https://www.iash.ed.ac.uk/application-form"
+      },
+      {
+        "label": "Enregistrement du webinaire",
+        "url": "https://media.ed.ac.uk/media/Webinar%3A+British+Council+90th+Anniversary+Research+Fellowships+at+IASH+2027/1_27yh7q8c"
+      },
+      {
+        "label": "Diapositives du webinaire (PDF)",
+        "url": "https://www.iash.ed.ac.uk/sites/default/files/IASH%20BC%20Fellowships%202027.pdf"
+      },
+      {
+        "label": "Liste des pays éligibles (page 139 du rapport annuel)",
+        "url": "https://www.britishcouncil.org/sites/default/files/britishcouncil_annualreport_2022-23.pdf"
+      },
+      {
+        "label": "Stratégie du British Council",
+        "url": "https://www.britishcouncil.org/about-us/our-strategy"
+      },
+      {
+        "label": "Définition de l'APD (OCDE)",
+        "url": "https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/official-development-assistance.htm"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "British Council",
+      "recherche",
+      "Édimbourg",
+      "Royaume-Uni",
+      "APD",
+      "arts",
+      "éducation",
+      "relations internationales",
+      "2027"
+    ],
+    "lien_candidature": "https://www.iash.ed.ac.uk/application-form",
+    "source_url": "https://www.iash.ed.ac.uk/british-council-90th-anniversary-research-fellowships?fbclid=IwY2xjawSiTedleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsfZNQ_-0Xzxknn5VNRRZW8lzJBrZMDieN7V9I8BSjqfnixiNX2O_AbNxZ7Y_aem_LF8NerQ-TbFJ9cq99LpRog",
+    "statut": "ouvert",
+    "resume": "Le British Council, en partenariat avec l'Institute for Advanced Studies in the Humanities (IASH) de l'Université d'Édimbourg, propose des bourses de recherche postdoctorales de 12 mois pour des chercheurs en début de carrière issus de pays éligibles à l'APD. Les boursiers passeront 10 mois à Édimbourg et 2 mois dans leur pays d'origine pour des activités de transfert de connaissances. La bourse comprend une allocation mensuelle de 2 500 £, les frais de voyage, un espace de travail, l'accès à la bibliothèque et un mentorat académique. Les candidatures sont ouvertes jusqu'au 31 juillet 2026.",
+    "adresse": "The Institute for Advanced Studies in the Humanities The University of Edinburgh Hope Park Square Edinburgh EH8 9NW",
+    "extrait_le": "2026-06-19T16:33:04",
+    "slug": "bourses-recherche-british-council-2027"
+  },
+  {
+    "titre": "Appel à candidatures pour siéger au Conseil consultatif sur l'intégrité YouthLED de l'UNODC 2026-2028",
+    "seo_slug": "conseil-youthled-unodc-2026-2028",
+    "organisation": "UNODC (Office des Nations Unies contre la drogue et le crime)",
+    "montant": 0,
+    "devise": "EUR",
+    "type_financement": "bénévole",
+    "deadline": "2026-08-14",
+    "deadline_texte": "14 août 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Anti-corruption",
+      "Intégrité",
+      "Éthique",
+      "Justice",
+      "Paix",
+      "Engagement civique"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": 29,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Curriculum Vitae (CV)",
+      "Lettre de motivation (1 page ou max 500 mots)",
+      "Vidéo courte (jusqu'à 90 secondes)"
+    ],
+    "avantages": [],
+    "eligibilite": [
+      "Âge entre 18 et 29 ans à la date de candidature",
+      "Capacité à communiquer efficacement en anglais",
+      "Intérêt démontré pour l'intégrité, l'éthique, la paix, la justice, l'anti-corruption, l'état de droit, l'engagement civique, l'action communautaire, les réseaux de jeunes ou domaines connexes",
+      "Engagement à consacrer environ trois jours par mois aux activités du Conseil",
+      "Participation volontaire sans compensation financière"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne",
+      "2. Soumettre un CV",
+      "3. Soumettre une lettre de motivation (1 page ou max 500 mots)",
+      "4. Soumettre une vidéo courte (jusqu'à 90 secondes)",
+      "5. Les candidats présélectionnés peuvent être invités à un entretien"
+    ],
+    "contacts": [
+      "+ (43) (1) 263-3389"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://grace.unodc.org/grace/en/news-and-events/youthled-integrity-advisory-board-2026-2028_call-for-applications.html?fbclid=IwY2xjawSiUx1leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkGmP8O24pQVuHrY96xiZZwBu2tXBMOgdMzr7POS4Ky32e_b6MDf8NoFgUCm_aem_OFhJ9svyv7ft0FG0x5eQbQ"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://forms.gle/MQLXdaNndvrp4wdMA"
+      },
+      {
+        "label": "Page YouthLED Integrity Advisory Board",
+        "url": "https://grace.unodc.org/grace/en/youth-empowerment/discover-YouthLED.html"
+      },
+      {
+        "label": "Termes de référence",
+        "url": "https://grace.unodc.org/grace/en/youth-empowerment/discover-YouthLED.html"
+      },
+      {
+        "label": "Code de conduite",
+        "url": "https://grace.unodc.org/grace/en/youth-empowerment/discover-YouthLED.html"
+      }
+    ],
+    "mots_cles": [
+      "conseil consultatif jeunesse",
+      "intégrité",
+      "anti-corruption",
+      "UNODC",
+      "YouthLED",
+      "bénévole",
+      "jeunes",
+      "gouvernance"
+    ],
+    "lien_candidature": "https://forms.gle/MQLXdaNndvrp4wdMA",
+    "source_url": "https://grace.unodc.org/grace/en/news-and-events/youthled-integrity-advisory-board-2026-2028_call-for-applications.html?fbclid=IwY2xjawSiUx1leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkGmP8O24pQVuHrY96xiZZwBu2tXBMOgdMzr7POS4Ky32e_b6MDf8NoFgUCm_aem_OFhJ9svyv7ft0FG0x5eQbQ",
+    "statut": "ouvert",
+    "resume": "L'UNODC recherche des jeunes motivés âgés de 18 à 29 ans pour siéger au Conseil consultatif sur l'intégrité YouthLED 2026-2028. Les membres conseilleront l'UNODC sur l'engagement des jeunes dans la lutte anti-corruption, contribueront à des campagnes de sensibilisation et animeront des actions communautaires. La participation est bénévole, sans compensation financière, et nécessite un engagement d'environ trois jours par mois. Les candidatures sont ouvertes jusqu'au 14 août 2026.",
+    "adresse": "United Nations Office On Drugs and Crime (UNODC) Vienna International Centre PO Box 500 A 1400 Vienna Austria",
+    "extrait_le": "2026-06-19T16:54:04",
+    "slug": "conseil-youthled-unodc-2026-2028"
+  },
+  {
     "titre": "Bourses CYD - Programme de talents pour la recherche en cyberdéfense",
     "seo_slug": "bourses-cyd-cyberdefense-suisse-2026",
     "organisation": "EPFL et Cyber-Defence (CYD) Campus",
@@ -2011,6 +2795,91 @@
     "adresse": "The Australian National University, 2600",
     "extrait_le": "2026-06-18T01:13:34",
     "slug": "bourse-rtp-stipend-australie-2026"
+  },
+  {
+    "titre": "Défi mondial de l'innovation 2026 - Social Shifters",
+    "seo_slug": "global-innovation-challenge-2026",
+    "organisation": "Social Shifters",
+    "montant": 15000,
+    "devise": "USD",
+    "type_financement": "subvention",
+    "deadline": "2026-08-31",
+    "deadline_texte": "31 août 2026 à 17h00 UTC",
+    "niveau_etudes": [],
+    "domaines": [
+      "Impact social",
+      "Impact environnemental",
+      "Objectifs de développement durable"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": 30,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Dossier de candidature en ligne"
+    ],
+    "avantages": [
+      "Subvention jusqu'à 15 000 USD",
+      "Accompagnement gratuit pour la candidature",
+      "Accès à une communauté mondiale",
+      "Opportunités de réseautage, bourses et missions rémunérées"
+    ],
+    "eligibilite": [
+      "Être un jeune fondateur âgé de 18 à 30 ans",
+      "Diriger un projet ou une startup déjà en activité ayant un impact social ou environnemental mesurable",
+      "L'idée doit contribuer à au moins un des Objectifs de développement durable des Nations Unies"
+    ],
+    "procedure_etapes": [
+      "1. S'inscrire sur la plateforme de candidature pour accéder aux ressources d'accompagnement.",
+      "2. Soumettre sa candidature avant le 31 août 2026 à 17h00 UTC.",
+      "3. Les finalistes sont annoncés en octobre et bénéficient d'un coaching.",
+      "4. En novembre, les finalistes pitch leur projet.",
+      "5. Les lauréats sont annoncés en décembre."
+    ],
+    "contacts": [
+      "hello@socialshifters.co",
+      "challenge@socialshifters.com"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.socialshifters.co/global-innovation-challenge/?fbclid=IwY2xjawSiVABleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsyS-z0fB5KVDeTY-dLSoy7mreymvPhviomhIaYwEzQovAGOfYCnesppeyQY_aem_tDseBJkzv6bkWJnr4xu4-w"
+      },
+      {
+        "label": "Plateforme de candidature",
+        "url": "https://globalinnovationchallenge.awardsplatform.com/"
+      },
+      {
+        "label": "Lignes directrices du concours (PDF)",
+        "url": "https://www.socialshifters.co/wp-content/uploads/2026/05/Guidelines-Social-Shifters-Global-Innovation-Challenge-2026_compressed.pdf"
+      },
+      {
+        "label": "FAQ du concours (PDF)",
+        "url": "https://www.socialshifters.co/wp-content/uploads/2026/05/FAQS-Social-Shifters-Global-Innovation-Challenge-2026_compressed.pdf"
+      },
+      {
+        "label": "Objectifs de développement durable de l'ONU",
+        "url": "https://sdgs.un.org/goals"
+      },
+      {
+        "label": "À propos de Social Shifters",
+        "url": "https://www.socialshifters.co/about-us/"
+      }
+    ],
+    "mots_cles": [
+      "bourse innovation sociale",
+      "subvention jeune entrepreneur",
+      "concours startup impact",
+      "financement projet environnemental",
+      "Social Shifters 2026"
+    ],
+    "lien_candidature": "https://globalinnovationchallenge.awardsplatform.com/",
+    "source_url": "https://www.socialshifters.co/global-innovation-challenge/?fbclid=IwY2xjawSiVABleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsyS-z0fB5KVDeTY-dLSoy7mreymvPhviomhIaYwEzQovAGOfYCnesppeyQY_aem_tDseBJkzv6bkWJnr4xu4-w",
+    "statut": "ouvert",
+    "resume": "Le Global Innovation Challenge 2026 de Social Shifters offre des subventions allant jusqu'à 15 000 USD aux jeunes fondateurs (18-30 ans) qui dirigent des projets ou startups à impact social ou environnemental. En plus du financement, les participants bénéficient d'un accompagnement gratuit, d'un accès à une communauté mondiale et d'opportunités de réseautage. Les candidatures sont ouvertes jusqu'au 31 août 2026 et doivent contribuer aux Objectifs de développement durable des Nations Unies.",
+    "extrait_le": "2026-06-19T16:58:06",
+    "slug": "global-innovation-challenge-2026"
   },
   {
     "titre": "Bourses postdoctorales ETH",
@@ -3941,6 +4810,268 @@
     "resume": "Le programme Helmut-Schmidt (PPGG) du DAAD offre des bourses complètes aux futurs leaders des pays en développement et émergents pour un master en Allemagne dans les domaines de la politique, du droit, de l'économie et de l'administration. Financé par le ministère fédéral des Affaires étrangères, il vise à promouvoir la démocratie et la justice sociale. Les candidats doivent consulter l'annonce actuelle pour les conditions détaillées et soumettre leur dossier via le portail DAAD.",
     "extrait_le": "2026-06-18T01:31:39",
     "slug": "helmut-schmidt-master-bonne-gouvernance-2026"
+  },
+  {
+    "titre": "Forum Civique des Jeunes 2026",
+    "seo_slug": "forum-civique-jeunes-copenhague-2026",
+    "organisation": "Centre for Diplomatic Advancement",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète, partielle, accès gratuit",
+    "deadline": null,
+    "deadline_texte": "Date limite non spécifiée (approche)",
+    "niveau_etudes": [
+      "Tous niveaux"
+    ],
+    "domaines": [
+      "Gouvernance",
+      "Politiques publiques",
+      "Leadership civique",
+      "Démocratie",
+      "Développement durable"
+    ],
+    "pays_eligibles": [
+      "Toutes nationalités"
+    ],
+    "age_maximum": 45,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Billet d'avion (bourse complète)",
+      "Hébergement partagé (bourse complète et partielle)",
+      "Repas pendant le forum",
+      "Petit-déjeuner quotidien (bourse complète)",
+      "Soutien visa et coordination ambassade (bourse complète)",
+      "Frais de visa couverts (bourse complète)",
+      "Lettre d'invitation officielle",
+      "Accès au forum et réseautage",
+      "Opportunité de prise de parole",
+      "Certificat international",
+      "Reconnaissance de leadership"
+    ],
+    "eligibilite": [
+      "Âge 16-45 ans",
+      "Toutes nationalités",
+      "Étudiants, jeunes activistes, leaders d'ONG, chercheurs, futurs décideurs politiques, entrepreneurs sociaux, jeunes fonctionnaires",
+      "Maîtrise de l'anglais (travail courant)"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre une candidature en ligne via le lien fourni",
+      "2. Être automatiquement considéré pour toutes les catégories de bourses",
+      "3. Attendre la sélection basée sur la motivation, l'impact civique, l'intérêt politique, le potentiel de leadership, la diversité et la qualité de la candidature"
+    ],
+    "contacts": [
+      "communications@thecda.co",
+      "+1 (947) 204-1422"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://thecda.co/civic-youth-forum-2026/?gad_source=0&gad_campaignid=23731100822&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD2yaze8G1lvOZTth3k2uHtAjJugPDvQkldtX9Gkgs3wJYJNTMlIfN8aAjKUEALw_wcB#register"
+      },
+      {
+        "label": "Page de candidature aux bourses",
+        "url": "https://thecda.co/product/cyf-2026-scholarships/"
+      },
+      {
+        "label": "Inscription payante (lettre d'invitation)",
+        "url": "https://thecda.co/product/invitation-only-cyf-2026/"
+      },
+      {
+        "label": "Inscription payante (pass forum)",
+        "url": "https://thecda.co/product/forum-access-cyf-2026/"
+      },
+      {
+        "label": "Inscription payante (package autofinancé)",
+        "url": "https://thecda.co/product/self-funded-cyf-2026/"
+      }
+    ],
+    "mots_cles": [
+      "forum jeunesse",
+      "bourse Copenhague",
+      "leadership civique",
+      "gouvernance",
+      "politiques publiques",
+      "jeunes 2026",
+      "Danemark",
+      "bourse entièrement financée"
+    ],
+    "lien_candidature": "https://thecda.co/product/cyf-2026-scholarships/",
+    "source_url": "https://thecda.co/civic-youth-forum-2026/?gad_source=0&gad_campaignid=23731100822&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD2yaze8G1lvOZTth3k2uHtAjJugPDvQkldtX9Gkgs3wJYJNTMlIfN8aAjKUEALw_wcB#register",
+    "statut": "ouvert",
+    "resume": "Le Forum Civique des Jeunes 2026 (CYF 2026) se tiendra à Copenhague, Danemark, du 17 au 20 septembre 2026. Organisé par le Centre pour l'Avancement Diplomatique, cet événement international offre 500 bourses, dont 100 entièrement financées (incluant billet d'avion, hébergement, repas et frais de visa), 150 partiellement financées et 250 accès gratuits. Ouvert à toutes les nationalités de 16 à 45 ans, le programme en anglais comprend des ateliers sur le leadership civique, la gouvernance et les politiques publiques. Les candidats sont automatiquement considérés pour toutes les catégories de bourses via une seule candidature en ligne.",
+    "adresse": "1527 Church St NW Washington, District of Columbia, Washington D.C., DC, United States",
+    "extrait_le": "2026-06-19T16:27:10",
+    "slug": "forum-civique-jeunes-copenhague-2026"
+  },
+  {
+    "titre": "Bourse Global Good Fund Fellowship 2027",
+    "seo_slug": "global-good-fund-fellowship-2027",
+    "organisation": "Global Good Fund",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [],
+    "domaines": [
+      "Inclusion financière",
+      "Environnement",
+      "Éducation",
+      "Mobilité économique",
+      "Santé"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (capacité à tenir une conversation professionnelle)",
+    "documents_requis": [
+      "Questionnaire préliminaire",
+      "Vidéo obligatoire",
+      "2 lettres de recommandation",
+      "Modèle de viabilité financière",
+      "Réponses à des questions courtes"
+    ],
+    "avantages": [
+      "Programme de mentorat personnalisé",
+      "Coaching",
+      "Développement du leadership",
+      "Réseau mondial"
+    ],
+    "eligibilite": [
+      "L'entreprise doit être en activité depuis au moins deux ans",
+      "Employer au moins deux employés à temps plein rémunérés",
+      "Le candidat doit occuper un poste de décideur principal (CEO, COO, CTO, CFO, Co-fondateur, Directeur exécutif)",
+      "Le candidat doit être engagé à temps plein dans l'entreprise",
+      "L'entreprise doit être motivée par une mission sociale (but non lucratif ou hybride)",
+      "L'entreprise peut être à but lucratif, non lucratif ou hybride",
+      "L'entreprise doit avoir un modèle économique efficace et prêt à passer à l'échelle",
+      "Les secteurs d'activité prioritaires : Inclusion financière, Environnement, Éducation, Mobilité économique, Santé (autres considérés selon le potentiel d'impact social)"
+    ],
+    "procedure_etapes": [
+      "Phase I : Questionnaire préliminaire (mai-juin) - questions courtes pour évaluer l'adéquation avec les critères",
+      "Phase II : Candidature complète (juillet-août) - vidéo, lettres de recommandation, modèle de viabilité financière, questions sur l'impact, l'entreprise, le leadership",
+      "Phase III : Entretien vidéo de 30 minutes (octobre-novembre) - avec un collègue ou membre de la communauté"
+    ],
+    "contacts": [
+      "sandra.waithaka@globalgoodfund.org",
+      "pauline.ndonga@globalgoodfund.org",
+      "+1 (202) 768-7007"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://globalgoodfund.org/apply/?fbclid=IwY2xjawSiToNleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkz9ntZIMdQvThBuu6igVX6R7px7deKxyG7zDZvD3859dseez4dSDjM-2OBK_aem_bnDQ-UyqfqbWAVkJKyGp6g"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://globalgoodfund.submittable.com/submit/1bc276c4-8241-42fa-a0f1-ee251dfd0772/the-global-good-fund-fellowship-2027"
+      },
+      {
+        "label": "Page d'information sur le Fellowship",
+        "url": "https://globalgoodfund.org/2023/05/19/everything-you-need-to-know-about-becoming-a-global-good-fund-fellow/"
+      },
+      {
+        "label": "Critères d'éligibilité",
+        "url": "https://globalgoodfund.org/fellowship-program/"
+      },
+      {
+        "label": "Liste des anciens participants",
+        "url": "https://globalgoodfund.org/entrepreneurs/#Alumni"
+      },
+      {
+        "label": "Programme LEAP",
+        "url": "https://globalgoodfund.org/leap/"
+      },
+      {
+        "label": "Rapport d'impact 2024",
+        "url": "https://bit.ly/ggf2024impactreport"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "fellowship",
+      "leadership",
+      "entrepreneuriat social",
+      "impact social",
+      "mentorat",
+      "coaching",
+      "Global Good Fund",
+      "2027"
+    ],
+    "lien_candidature": "https://globalgoodfund.submittable.com/submit/1bc276c4-8241-42fa-a0f1-ee251dfd0772/the-global-good-fund-fellowship-2027",
+    "source_url": "https://globalgoodfund.org/apply/?fbclid=IwY2xjawSiToNleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkz9ntZIMdQvThBuu6igVX6R7px7deKxyG7zDZvD3859dseez4dSDjM-2OBK_aem_bnDQ-UyqfqbWAVkJKyGp6g",
+    "statut": "ouvert",
+    "resume": "Le Global Good Fund Fellowship 2027 est un programme de développement du leadership destiné aux entrepreneurs sociaux du monde entier. Il offre un mentorat personnalisé, un coaching et un accès à un réseau mondial de leaders. Les candidats doivent diriger une entreprise sociale en activité depuis au moins deux ans, avec un modèle économique viable. Le processus de sélection comprend trois phases : un questionnaire préliminaire, une candidature complète avec vidéo et lettres de recommandation, et un entretien. Les candidatures sont ouvertes jusqu'à une date non spécifiée.",
+    "adresse": "3066 Hobbs Road Glenwood, Maryland 21738",
+    "extrait_le": "2026-06-19T16:35:09",
+    "slug": "global-good-fund-fellowship-2027"
+  },
+  {
+    "titre": "Certification en Leadership pour Jeunes Cambridge 2026",
+    "seo_slug": "certification-leadership-jeunes-cambridge-2026",
+    "organisation": "Global Business Symposium",
+    "montant": null,
+    "devise": null,
+    "type_financement": "certification",
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [],
+    "domaines": [
+      "Leadership"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [],
+    "procedure_etapes": [],
+    "contacts": [
+      "info@globalbusinesssymposium.com",
+      "+1 (929) 583-1675"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://globalbusinesssymposium.com/apply_uk/?fbclid=IwY2xjawSiUclleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsfZNQ_-0Xzxknn5VNRRZW8lzJBrZMDieN7V9I8BSjqfnixiNX2O_AbNxZ7Y_aem_LF8NerQ-TbFJ9cq99LpRog"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/TEcPjXyka7tEPi5g/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/global_business_symposium/profilecard/?igsh=MWZtZTY3N2o2bDN4cQ=="
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/company/101587181/admin/dashboard?lipi=urn%3Ali%3Apage%3Aorganization_admin_admin_dashboard%3B84a1b122-8d23-4e13-b131-70939df163d5"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://wa.me/19295831675"
+      }
+    ],
+    "mots_cles": [
+      "certification leadership",
+      "jeunes",
+      "Cambridge",
+      "2026",
+      "bourse leadership"
+    ],
+    "lien_candidature": "https://globalbusinesssymposium.com/apply_uk/?fbclid=IwY2xjawSiUclleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsfZNQ_-0Xzxknn5VNRRZW8lzJBrZMDieN7V9I8BSjqfnixiNX2O_AbNxZ7Y_aem_LF8NerQ-TbFJ9cq99LpRog",
+    "source_url": "https://globalbusinesssymposium.com/apply_uk/?fbclid=IwY2xjawSiUclleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsfZNQ_-0Xzxknn5VNRRZW8lzJBrZMDieN7V9I8BSjqfnixiNX2O_AbNxZ7Y_aem_LF8NerQ-TbFJ9cq99LpRog",
+    "statut": "ouvert",
+    "resume": "Obtenez une certification en leadership reconnue par Cambridge en 2026 grâce au Global Business Symposium. Ce programme s'adresse aux jeunes du monde entier souhaitant développer leurs compétences en leadership. Postulez dès maintenant via le site officiel.",
+    "adresse": "1851 muliner avenue bronx 10462, Newyork",
+    "extrait_le": "2026-06-19T16:48:18",
+    "slug": "certification-leadership-jeunes-cambridge-2026"
   },
   {
     "titre": "Bourses Chevening",

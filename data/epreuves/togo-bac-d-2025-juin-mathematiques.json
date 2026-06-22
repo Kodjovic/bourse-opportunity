@@ -1,0 +1,18 @@
+{
+  "id": "togo-bac-d-2025-juin-mathematiques",
+  "type": "examen",
+  "pays": "togo",
+  "examen": "BAC",
+  "serie": "D",
+  "matiere": "mathematiques",
+  "annee": 2025,
+  "session": "juin",
+  "fichiers": {
+    "sujet": "/docs/togo-bac-d-2025-maths-sujet.pdf",
+    "corrige": "/docs/togo-bac-d-2025-maths-corrige.pdf"
+  },
+  "slug": "/epreuves/togo/bac/serie-d/2025/mathematiques",
+  "created_at": "2025-06-19T00:00:00Z",
+  "contenu_texte": "EXERCICE 1 (5 points)\nSoit l'équation différentielle (E) : y' - 2y = 4e^(2x)...\nEXERCICE 2 (5 points)\nProbabilités et urnes...\nPROBLÈME (10 points)\nÉtude de la fonction f(x) = (x - 2)e^(2x) + x...",
+  "nb_exercices": 3
+}

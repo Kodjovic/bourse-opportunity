@@ -5,6 +5,7 @@ import { SITE_NAME } from "@/lib/site";
 
 const NAV_LIENS = [
   { href: "/bourses", label: "Bourses" },
+  { href: "/epreuves", label: "Épreuves" },
   { href: "/guides", label: "Guides" },
   { href: "/a-propos", label: "À propos" },
 ];

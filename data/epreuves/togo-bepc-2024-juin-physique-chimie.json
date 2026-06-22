@@ -1,0 +1,18 @@
+{
+  "id": "togo-bepc-2024-juin-physique-chimie",
+  "type": "examen",
+  "pays": "togo",
+  "examen": "BEPC",
+  "serie": null,
+  "matiere": "physique-chimie",
+  "annee": 2024,
+  "session": "juin",
+  "fichiers": {
+    "sujet": "/docs/togo-bepc-2024-physique-sujet.pdf",
+    "corrige": null
+  },
+  "slug": "/epreuves/togo/bepc/2024/physique-chimie",
+  "created_at": "2025-06-19T00:00:00Z",
+  "contenu_texte": "BREVET D'ÉTUDES DU PREMIER CYCLE (BEPC 2024)\nÉPREUVE DE PHYSIQUE-CHIMIE\nI. PHYSIQUE : Électricité et optique...\nII. CHIMIE : Solutions acides et basiques...",
+  "nb_exercices": 4
+}

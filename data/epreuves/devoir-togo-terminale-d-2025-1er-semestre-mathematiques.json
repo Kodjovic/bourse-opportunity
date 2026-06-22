@@ -1,0 +1,18 @@
+{
+  "id": "devoir-togo-terminale-d-2025-1er-semestre-mathematiques",
+  "type": "devoir",
+  "pays": "togo",
+  "classe": "Terminale D",
+  "matiere": "mathematiques",
+  "annee": 2025,
+  "session": "1er semestre",
+  "fichiers": {
+    "sujet": "/docs/devoir-td-2025-s1-maths.pdf",
+    "corrige": null
+  },
+  "slug": "/devoirs/togo/terminale-d/2025/1er-semestre/mathematiques",
+  "created_at": "2025-06-19T00:00:00Z",
+  "contenu_texte": "DEVOIR SURVEILLÉ DE MATHÉMATIQUES (S1)\nExercice 1 : Suites numériques...\nExercice 2 : Géométrie analytique dans l'espace...",
+  "duree_minutes": 120,
+  "nb_exercices": 2
+}

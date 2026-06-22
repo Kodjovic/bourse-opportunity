@@ -1,0 +1,18 @@
+{
+  "id": "compo-togo-terminale-d-2025-2eme-semestre-physique-chimie",
+  "type": "composition",
+  "pays": "togo",
+  "classe": "Terminale D",
+  "matiere": "physique-chimie",
+  "annee": 2025,
+  "session": "2eme semestre",
+  "fichiers": {
+    "sujet": "/docs/compo-td-2025-s2-physique.pdf",
+    "corrige": "/docs/compo-td-2025-s2-physique-corrige.pdf"
+  },
+  "slug": "/compositions/togo/terminale-d/2025/2eme-semestre/physique-chimie",
+  "created_at": "2025-06-19T00:00:00Z",
+  "contenu_texte": "COMPOSITION DE FIN D'ANNÉE - PHYSIQUE CHIMIE\nPartie Chimie : Estérification et cinétique chimique...\nPartie Physique : Mouvement d'une particule chargée...",
+  "duree_minutes": 240,
+  "coefficient": 4
+}

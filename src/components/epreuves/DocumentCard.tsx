@@ -86,7 +86,7 @@ export function DocumentCard({ doc }: DocumentCardProps) {
 
         <h3 className="font-semibold text-zinc-800 dark:text-zinc-100 group-hover:text-emerald-500 transition-colors line-clamp-1 mb-2">
           {doc.type === "examen" 
-            ? `Épreuve de ${formatMatiere(doc.matiere)} — ${doc.examen} ${doc.annee}`
+            ? `Épreuve de ${formatMatiere(doc.matiere)} - ${doc.examen} ${doc.annee}`
             : `${getDocTypeLabel(doc.type)} de ${formatMatiere(doc.matiere)}`
           }
         </h3>

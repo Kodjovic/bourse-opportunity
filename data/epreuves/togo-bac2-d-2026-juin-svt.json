@@ -1,0 +1,18 @@
+{
+  "type": "examen",
+  "pays": "togo",
+  "matiere": "svt",
+  "annee": 2026,
+  "session": "juin",
+  "contenu_texte": null,
+  "fichiers": {
+    "sujet": "/docs/BAC-2026-SVT-D.pdf",
+    "corrige": null
+  },
+  "nb_exercices": null,
+  "examen": "BAC2",
+  "serie": "D",
+  "slug": "/epreuves/togo/bac2/serie-d/2026/svt",
+  "id": "togo-bac2-d-2026-juin-svt",
+  "created_at": "2026-06-22T03:21:39.632779Z"
+}

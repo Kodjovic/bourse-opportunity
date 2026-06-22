@@ -7,7 +7,7 @@ import { YearGroup } from "@/components/epreuves/YearGroup";
 import { getAllDocuments } from "@/lib/epreuves";
 
 export const metadata: Metadata = {
-  title: "Épreuves scolaires togolaises — BAC 1, BAC 2, BEPC, BTS",
+  title: "Épreuves scolaires togolaises : BAC 1, BAC 2, BEPC, BTS",
   description:
     "Accédez gratuitement aux sujets et corrigés des examens nationaux togolais (BAC 1, BAC 2, BEPC, BTS) " +
     "ainsi qu'aux devoirs et compositions de classe pour exceller dans vos études.",
@@ -280,7 +280,7 @@ export default async function PageEpreuvesLanding() {
                         <span>{doc.annee}</span>
                       </div>
                       <p className="text-xs font-semibold text-stone-800 dark:text-zinc-200 group-hover:text-emerald-500 dark:group-hover:text-emerald-400 transition-colors line-clamp-1">
-                        {formatMatiere(doc.matiere)} — {doc.classe || doc.session}
+                        {formatMatiere(doc.matiere)} - {doc.classe || doc.session}
                       </p>
                     </Link>
                   </li>

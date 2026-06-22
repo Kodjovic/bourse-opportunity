@@ -38,7 +38,7 @@ export async function DocumentDetailPage({ slugPath }: DocumentDetailPageProps) 
 
   const breadcrumbSteps = [
     { label: "Épreuves scolaires", href: "/epreuves" },
-    { label: doc.type === "examen" ? `${doc.examen} ${doc.annee}` : `${doc.classe} — ${doc.annee}` },
+    { label: doc.type === "examen" ? `${doc.examen} ${doc.annee}` : `${doc.classe} - ${doc.annee}` },
     { label: formatMatiere(doc.matiere) },
   ];
 
@@ -63,8 +63,8 @@ export async function DocumentDetailPage({ slugPath }: DocumentDetailPageProps) 
 
           <h1 className="font-serif text-3xl font-bold tracking-tight text-stone-900 dark:text-zinc-100 sm:text-4xl leading-tight">
             {doc.type === "examen"
-              ? `Épreuve de ${formatMatiere(doc.matiere)} — ${doc.examen} ${doc.annee}`
-              : `${getDocTypeLabel(doc.type)} de ${formatMatiere(doc.matiere)} — ${doc.classe} (${doc.annee})`
+              ? `Épreuve de ${formatMatiere(doc.matiere)} - ${doc.examen} ${doc.annee}`
+              : `${getDocTypeLabel(doc.type)} de ${formatMatiere(doc.matiere)} - ${doc.classe} (${doc.annee})`
             }
           </h1>
 

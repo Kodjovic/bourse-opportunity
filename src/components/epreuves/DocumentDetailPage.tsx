@@ -156,17 +156,30 @@ export async function DocumentDetailPage({ slugPath }: DocumentDetailPageProps) 
           </div>
         </section>
 
-        {/* Section Contenu Texte de l'épreuve */}
-        {doc.contenu_texte && (
-          <section className="mt-10">
+        {/* Visualisation directe de l'épreuve sur Desktop */}
+        {doc.fichiers.sujet && (
+          <section className="mt-10 hidden md:block">
             <h2 className="font-serif text-2xl font-bold text-stone-900 dark:text-zinc-100 mb-6 pb-2 border-b border-zinc-100 dark:border-zinc-800/50">
-              Texte de l&apos;épreuve (Version Texte)
+              Visualisation du Sujet
             </h2>
             
-            <div className="prose prose-stone dark:prose-invert max-w-none bg-white dark:bg-zinc-950 border border-zinc-200 dark:border-zinc-800/80 rounded-2xl p-6 sm:p-8 shadow-sm">
-              <div className="text-sm leading-relaxed whitespace-pre-wrap text-stone-700 dark:text-zinc-300 font-sans">
-                {doc.contenu_texte}
-              </div>
+            <div className="bg-white dark:bg-zinc-950 border border-zinc-200 dark:border-zinc-800/80 rounded-2xl p-4 shadow-sm overflow-hidden flex justify-center items-center">
+              {doc.fichiers.sujet.toLowerCase().endsWith(".pdf") ? (
+                <iframe
+                  src={`${doc.fichiers.sujet}#toolbar=0`}
+                  width="100%"
+                  height="800px"
+                  className="rounded-xl border border-zinc-150 dark:border-zinc-800"
+                  title="Visualisation du sujet PDF"
+                />
+              ) : (
+                /* eslint-disable-next-line @next/next/no-img-element */
+                <img
+                  src={doc.fichiers.sujet}
+                  alt="Sujet de l'épreuve"
+                  className="max-w-full h-auto rounded-xl border border-zinc-150 dark:border-zinc-800 shadow-sm"
+                />
+              )}
             </div>
           </section>
         )}

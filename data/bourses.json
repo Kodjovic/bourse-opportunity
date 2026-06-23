@@ -1171,100 +1171,6 @@
     "slug": "bourse-data-analytics-online-edimbourg-2026"
   },
   {
-    "titre": "Programme de bourses Hubert H. Humphrey 2027-2028",
-    "seo_slug": "bourse-hubert-humphrey-togo-2027",
-    "organisation": "Ambassade des États-Unis au Togo",
-    "montant": null,
-    "devise": "USD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-07-03",
-    "deadline_texte": "3 juillet 2026",
-    "niveau_etudes": [
-      "Master",
-      "Doctorat"
-    ],
-    "domaines": [
-      "Communications et journalisme",
-      "Droit et gouvernance",
-      "Politique des ressources naturelles",
-      "Politique publique et économique",
-      "Politique et gestion de la santé publique"
-    ],
-    "pays_eligibles": [
-      "Togo"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Diplôme universitaire (équivalent licence 4 ans)",
-      "Preuve d'expérience professionnelle (5 ans minimum)",
-      "Certification de compétence en anglais (TOEFL 72 / Duolingo 100 / IELTS 6.0 ou équivalent)",
-      "Passeport togolais valide"
-    ],
-    "avantages": [
-      "Bourse mensuelle",
-      "Frais de voyage",
-      "Frais de scolarité",
-      "Assurance maladie",
-      "Allocation pour livres et matériel",
-      "Stage professionnel",
-      "Séminaire de développement du leadership"
-    ],
-    "eligibilite": [
-      "Être citoyen et résident du Togo",
-      "Avoir un passeport togolais valide",
-      "Posséder au moins un diplôme universitaire de premier cycle (équivalent licence 4 ans)",
-      "Justifier d'au moins cinq ans d'expérience professionnelle à temps plein avant août 2026",
-      "Démontrer des responsabilités de leadership et de politique dans leur profession",
-      "Avoir un bon niveau d'anglais (score TOEFL 72 / Duolingo 100 / IELTS 6.0 ou supérieur)",
-      "S'engager à retourner au Togo après le programme"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les critères d'éligibilité",
-      "2. Préparer les documents requis (diplôme, preuve d'expérience, certification d'anglais, passeport)",
-      "3. Remplir le formulaire de candidature en ligne sur apply.iie.org/huberthhumphrey",
-      "4. Soumettre la candidature avant le 3 juillet 2026 (soumission anticipée fortement recommandée)",
-      "5. Si sélectionné pour un entretien, l'ambassade fournira un bon TOEFL"
-    ],
-    "contacts": [
-      "Scholarshiplome@state.gov"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://tg.usembassy.gov/scholarship-opportunities/"
-      },
-      {
-        "label": "Aperçu du programme (PDF)",
-        "url": "https://tg.usembassy.gov/wp-content/uploads/sites/171/2026/01/FY2027-Fulbright-Foreign-Student-Program-.pdf"
-      },
-      {
-        "label": "Domaines d'études (PDF)",
-        "url": "https://tg.usembassy.gov/wp-content/uploads/sites/171/2026/06/HHH-Field-of-Study-2027-28-2.pdf"
-      },
-      {
-        "label": "Formulaire de candidature en ligne",
-        "url": "https://apply.iie.org/huberthhumphrey"
-      }
-    ],
-    "mots_cles": [
-      "bourse hubert humphrey",
-      "bourse fulbright",
-      "bourse usa",
-      "bourse master",
-      "bourse doctorat",
-      "bourse togo",
-      "bourse leadership",
-      "bourse 2027"
-    ],
-    "lien_candidature": "https://apply.iie.org/huberthhumphrey",
-    "source_url": "manuel",
-    "statut": "ouvert",
-    "resume": "Le programme de bourses Hubert H. Humphrey 2027-2028 offre aux professionnels togolais en milieu de carrière une opportunité unique de renforcer leurs compétences en leadership et de développer leur réseau professionnel aux États-Unis. Financé par le Département d'État américain, ce programme couvre les frais de scolarité, de voyage et d'assurance, et propose un stage professionnel. Les candidats doivent être citoyens togolais, justifier d'au moins cinq ans d'expérience professionnelle et maîtriser l'anglais. Les candidatures sont à soumettre avant le 3 juillet 2026.",
-    "extrait_le": "2026-06-15T05:01:02",
-    "slug": "bourse-hubert-humphrey-togo-2027"
-  },
-  {
     "titre": "Bourse Young Leaders Fellowship 2026",
     "seo_slug": "young-leaders-fellowship-2026",
     "organisation": "Coalition for Good Schools / Raising Voices",
@@ -3123,6 +3029,88 @@
     "resume": "Le programme ETH Fellowships de l'ETH Zurich offre des bourses postdoctorales prestigieuses aux jeunes chercheurs ayant démontré une excellence scientifique. D'une durée de deux ans, la bourse couvre le salaire complet et alloue 12 000 CHF par an pour les frais de recherche. Les candidatures, soutenues par un professeur hôte, sont évaluées deux fois par an avec un taux de succès de 15 à 20 %. Les candidats doivent avoir obtenu leur doctorat depuis moins de deux ans et ne pas avoir résidé en Suisse plus de 12 mois.",
     "extrait_le": "2026-06-15T02:06:10",
     "slug": "bourses-postdoctorales-eth-zurich-2026"
+  },
+  {
+    "titre": "Fonds de Recherche Cambridge-Afrique ALBORADA 2026",
+    "seo_slug": "fonds-recherche-cambridge-afrique-alborada-2026",
+    "organisation": "Cambridge-Africa ALBORADA Research Fund",
+    "montant": 25000,
+    "devise": "GBP",
+    "type_financement": "subvention de recherche",
+    "deadline": "2026-09-03",
+    "deadline_texte": "3 septembre 2026",
+    "niveau_etudes": [
+      "Post-doctorat",
+      "Chercheur"
+    ],
+    "domaines": [
+      "Toutes les disciplines"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Lettre d'engagement (modèle)"
+    ],
+    "avantages": [
+      "Financement des coûts de recherche (réactifs, travail de terrain, équipement)",
+      "Activités de formation en Afrique (cours/ateliers)"
+    ],
+    "eligibilite": [
+      "Chercheurs de niveau post-doctoral et supérieur",
+      "Basés à l'Université de Cambridge ou institution affiliée (Wellcome Trust Sanger Institute, NIAB, British Antarctic Survey)",
+      "Collaboration avec une institution africaine",
+      "Ne peut pas couvrir les frais généraux, salaires des chercheurs principaux, frais d'administration, frais de banc ou participation à des conférences"
+    ],
+    "procedure_etapes": [
+      "1. Lire les critères d'éligibilité et les conditions générales (PDF).",
+      "2. Le chercheur basé à Cambridge s'inscrit sur le portail (email @cam.ac.uk, @sanger.ac.uk, @babraham.ac.uk, @bas.ac.uk ou @niab.com requis).",
+      "3. Se connecter au formulaire de candidature en ligne.",
+      "4. Inviter le chercheur africain à s'inscrire et à éditer le formulaire.",
+      "5. Soumettre la candidature avant le 3 septembre 2026."
+    ],
+    "contacts": [
+      "alboradafund@cambridge-africa.cam.ac.uk",
+      "+44 (0)1223 333336"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.cambridge-africa.cam.ac.uk/register/?group=ALBORADA2026"
+      },
+      {
+        "label": "Critères d'éligibilité et conditions générales (PDF)",
+        "url": "https://www.cambridge-africa.cam.ac.uk/assets/ALBORADA-CALL/ALBORADA-Call-2026/ALBORADA-TC-2026.pdf?vid=3"
+      },
+      {
+        "label": "FAQ (PDF)",
+        "url": "https://www.cambridge-africa.cam.ac.uk/assets/ALBORADA-CALL/ALBORADA-Call-2026/FAQs.pdf"
+      },
+      {
+        "label": "Modèles de lettres d'attribution",
+        "url": "https://www.cambridge-africa.cam.ac.uk/initiatives/alborada-award-letters-templates-2026/"
+      }
+    ],
+    "mots_cles": [
+      "bourse recherche",
+      "Cambridge Afrique",
+      "ALBORADA",
+      "subvention collaboration",
+      "chercheurs post-doctorat",
+      "financement recherche Afrique",
+      "partenariat universitaire",
+      "2026"
+    ],
+    "lien_candidature": "https://www.cambridge-africa.cam.ac.uk/register/?group=ALBORADA2026",
+    "source_url": "https://www.cambridge-africa.cam.ac.uk/initiatives/2026-call-for-applications?fbclid=IwY2xjawSnVdFleHRuA2FlbQIxMABicmlkETFwWnV0OEh1YjNrenhlVVVFc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsYa9hsdlHuduGvQBMsZDl6VjZasfiAcU-nuPBR47Ot7CYxN78kLMmJpPIbL_aem_2nLHxumjTi2idHdtdY-dZg",
+    "statut": "ouvert",
+    "resume": "Le Fonds de Recherche Cambridge-Afrique ALBORADA 2026 soutient des collaborations entre chercheurs de l'Université de Cambridge (ou institutions affiliées) et d'institutions africaines, toutes disciplines confondues. Les subventions de 1 000 à 25 000 £ financent les coûts de recherche et les activités de formation en Afrique. Les candidatures sont ouvertes jusqu'au 3 septembre 2026.",
+    "adresse": "Cambridge-Africa Programme Department of Pathology Tennis Court Road Cambridge CB2 1QP United Kingdom",
+    "extrait_le": "2026-06-23T12:17:08",
+    "slug": "fonds-recherche-cambridge-afrique-alborada-2026"
   },
   {
     "titre": "Appel à candidatures 2026/27 – Formations diplômantes internationales à distance",
@@ -5206,6 +5194,52 @@
     "adresse": "1851 muliner avenue bronx 10462, Newyork",
     "extrait_le": "2026-06-19T16:48:18",
     "slug": "certification-leadership-jeunes-cambridge-2026"
+  },
+  {
+    "titre": "Bourse de Master - Ryan Research Group",
+    "seo_slug": "bourse-master-ryan-research-group",
+    "organisation": "Ryan Research Group",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [],
+    "procedure_etapes": [],
+    "contacts": [
+      "ar@msu.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://alyssaryan.co/ms/?fbclid=IwY2xjawSnUtRleHRuA2FlbQIxMABicmlkETFwWnV0OEh1YjNrenhlVVVFc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsRTY5PziZrMqkXD3t4ZQub7z-yP_hyANuZBXcPuPLrq9pdDC_f4GXaZOE7g_aem_7lsdPNY--ZY5GhE8m3mzgw"
+      },
+      {
+        "label": "Descriptif du poste (PDF)",
+        "url": "https://alyssaryan.co/wp-content/uploads/2026/06/Ryan_MS-Student-Positions_MSU.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "master",
+      "ryan research group",
+      "recrutement"
+    ],
+    "lien_candidature": "https://alyssaryan.co/ms/",
+    "source_url": "https://alyssaryan.co/ms/?fbclid=IwY2xjawSnUtRleHRuA2FlbQIxMABicmlkETFwWnV0OEh1YjNrenhlVVVFc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsRTY5PziZrMqkXD3t4ZQub7z-yP_hyANuZBXcPuPLrq9pdDC_f4GXaZOE7g_aem_7lsdPNY--ZY5GhE8m3mzgw",
+    "statut": "ouvert",
+    "resume": "Le Ryan Research Group recrute activement un étudiant en Master. Les candidats intéressés sont invités à consulter le PDF descriptif pour postuler.",
+    "extrait_le": "2026-06-23T11:55:22",
+    "slug": "bourse-master-ryan-research-group"
   },
   {
     "titre": "Bourses Chevening",

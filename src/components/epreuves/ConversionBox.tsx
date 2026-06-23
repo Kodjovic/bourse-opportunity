@@ -2,14 +2,14 @@ import Link from "next/link";
 
 export function ConversionBox() {
   return (
-    <div className="border-l-4 border-emerald-500 bg-zinc-50 dark:bg-zinc-900 p-4 rounded-r-xl shadow-sm my-6">
+    <div className="border-l-4 border-emerald-500 bg-zinc-50 p-4 rounded-r-xl shadow-sm my-6">
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
         <div>
-          <h4 className="font-bold text-zinc-800 dark:text-zinc-100 text-sm mb-1">
-            🎓 Prêt pour l'étape suivante ?
+          <h4 className="font-bold text-zinc-800 text-sm mb-1">
+            🎓 Prêt pour l&apos;étape suivante ?
           </h4>
-          <p className="text-xs text-zinc-500 dark:text-zinc-400 max-w-xl">
-            Après la réussite de vos examens scolaires, explorez des centaines d'opportunités de bourses d'études entièrement financées disponibles pour les étudiants africains.
+          <p className="text-xs text-zinc-500 max-w-xl">
+            Après la réussite de vos examens scolaires, explorez des centaines d&apos;opportunités de bourses d&apos;études entièrement financées disponibles pour les étudiants africains.
           </p>
         </div>
         <Link

@@ -61,10 +61,10 @@ export default async function PageEpreuvesLanding() {
       />
 
       <header className="mt-6 max-w-3xl">
-        <h1 className="font-serif text-4xl font-semibold leading-tight tracking-tight text-stone-900 dark:text-zinc-100 sm:text-5xl">
+        <h1 className="font-serif text-4xl font-semibold leading-tight tracking-tight text-stone-900 sm:text-5xl">
           Annales & Examens Scolaires.
         </h1>
-        <p className="mt-4 text-base leading-relaxed text-stone-600 dark:text-zinc-400">
+        <p className="mt-4 text-base leading-relaxed text-stone-600">
           Préparez vos examens officiels du Togo avec notre bibliothèque interactive. 
           Retrouvez les sujets originaux et leurs corrigés détaillés classés par niveau (BAC 1, BAC 2, BEPC, BTS) pour réviser efficacement.
         </p>
@@ -77,7 +77,7 @@ export default async function PageEpreuvesLanding() {
           titre="BEPC" 
           count={bepcs.length} 
           color="hover:border-purple-500" 
-          badgeColor="bg-purple-50 text-purple-700 dark:bg-purple-950/50 dark:text-purple-300"
+          badgeColor="bg-purple-50 text-purple-700"
           href="#bepc"
         />
         <ExamTypeCard 
@@ -85,7 +85,7 @@ export default async function PageEpreuvesLanding() {
           titre="BAC 1 (Première)" 
           count={bac1s.length} 
           color="hover:border-sky-500" 
-          badgeColor="bg-sky-50 text-sky-700 dark:bg-sky-950/50 dark:text-sky-300"
+          badgeColor="bg-sky-50 text-sky-700"
           href="#bac1"
         />
         <ExamTypeCard 
@@ -93,7 +93,7 @@ export default async function PageEpreuvesLanding() {
           titre="BAC 2 (Terminale)" 
           count={bac2s.length} 
           color="hover:border-emerald-500" 
-          badgeColor="bg-emerald-50 text-emerald-700 dark:bg-emerald-950/50 dark:text-emerald-300"
+          badgeColor="bg-emerald-50 text-emerald-700"
           href="#bac2"
         />
         <ExamTypeCard 
@@ -101,7 +101,7 @@ export default async function PageEpreuvesLanding() {
           titre="BTS" 
           count={btss.length} 
           color="hover:border-amber-500" 
-          badgeColor="bg-amber-50 text-amber-700 dark:bg-amber-950/50 dark:text-amber-300"
+          badgeColor="bg-amber-50 text-amber-700"
           href="#bts"
         />
       </section>
@@ -114,11 +114,11 @@ export default async function PageEpreuvesLanding() {
           {/* Section BAC 2 */}
           {bac2s.length > 0 && (
             <section id="bac2" className="scroll-mt-20">
-              <div className="flex items-center justify-between mb-6 border-b border-stone-200 dark:border-zinc-800 pb-3">
-                <h2 className="font-serif text-2xl font-bold text-stone-900 dark:text-zinc-100">
+              <div className="flex items-center justify-between mb-6 border-b border-stone-200 pb-3">
+                <h2 className="font-serif text-2xl font-bold text-stone-900">
                   Annales BAC 2 (Terminale)
                 </h2>
-                <span className="text-xs text-stone-500 dark:text-zinc-400 font-medium bg-stone-100 dark:bg-zinc-900 px-2.5 py-1 rounded-md">
+                <span className="text-xs text-stone-500 font-medium bg-stone-100 px-2.5 py-1 rounded-md">
                   {bac2s.length} {bac2s.length > 1 ? "épreuves" : "épreuve"}
                 </span>
               </div>
@@ -140,11 +140,11 @@ export default async function PageEpreuvesLanding() {
           {/* Section BAC 1 */}
           {bac1s.length > 0 && (
             <section id="bac1" className="scroll-mt-20">
-              <div className="flex items-center justify-between mb-6 border-b border-stone-200 dark:border-zinc-800 pb-3">
-                <h2 className="font-serif text-2xl font-bold text-stone-900 dark:text-zinc-100">
+              <div className="flex items-center justify-between mb-6 border-b border-stone-200 pb-3">
+                <h2 className="font-serif text-2xl font-bold text-stone-900">
                   Annales BAC 1 (Probatoire)
                 </h2>
-                <span className="text-xs text-stone-500 dark:text-zinc-400 font-medium bg-stone-100 dark:bg-zinc-900 px-2.5 py-1 rounded-md">
+                <span className="text-xs text-stone-500 font-medium bg-stone-100 px-2.5 py-1 rounded-md">
                   {bac1s.length} {bac1s.length > 1 ? "épreuves" : "épreuve"}
                 </span>
               </div>
@@ -166,11 +166,11 @@ export default async function PageEpreuvesLanding() {
           {/* Section BEPC */}
           {bepcs.length > 0 && (
             <section id="bepc" className="scroll-mt-20">
-              <div className="flex items-center justify-between mb-6 border-b border-stone-200 dark:border-zinc-800 pb-3">
-                <h2 className="font-serif text-2xl font-bold text-stone-900 dark:text-zinc-100">
+              <div className="flex items-center justify-between mb-6 border-b border-stone-200 pb-3">
+                <h2 className="font-serif text-2xl font-bold text-stone-900">
                   Annales BEPC (Togo)
                 </h2>
-                <span className="text-xs text-stone-500 dark:text-zinc-400 font-medium bg-stone-100 dark:bg-zinc-900 px-2.5 py-1 rounded-md">
+                <span className="text-xs text-stone-500 font-medium bg-stone-100 px-2.5 py-1 rounded-md">
                   {bepcs.length} {bepcs.length > 1 ? "épreuves" : "épreuve"}
                 </span>
               </div>
@@ -192,11 +192,11 @@ export default async function PageEpreuvesLanding() {
           {/* Section BTS */}
           {btss.length > 0 && (
             <section id="bts" className="scroll-mt-20">
-              <div className="flex items-center justify-between mb-6 border-b border-stone-200 dark:border-zinc-800 pb-3">
-                <h2 className="font-serif text-2xl font-bold text-stone-900 dark:text-zinc-100">
+              <div className="flex items-center justify-between mb-6 border-b border-stone-200 pb-3">
+                <h2 className="font-serif text-2xl font-bold text-stone-900">
                   Annales BTS
                 </h2>
-                <span className="text-xs text-stone-500 dark:text-zinc-400 font-medium bg-stone-100 dark:bg-zinc-900 px-2.5 py-1 rounded-md">
+                <span className="text-xs text-stone-500 font-medium bg-stone-100 px-2.5 py-1 rounded-md">
                   {btss.length} {btss.length > 1 ? "épreuves" : "épreuve"}
                 </span>
               </div>
@@ -217,17 +217,17 @@ export default async function PageEpreuvesLanding() {
 
           {/* Section Devoirs & Compositions */}
           <section id="devoirs-compositions" className="scroll-mt-20">
-            <div className="flex items-center justify-between mb-6 border-b border-stone-200 dark:border-zinc-800 pb-3">
-              <h2 className="font-serif text-2xl font-bold text-stone-900 dark:text-zinc-100">
+            <div className="flex items-center justify-between mb-6 border-b border-stone-200 pb-3">
+              <h2 className="font-serif text-2xl font-bold text-stone-900">
                 Devoirs & Compositions de classe
               </h2>
-              <span className="text-xs text-stone-500 dark:text-zinc-400 font-medium bg-stone-100 dark:bg-zinc-900 px-2.5 py-1 rounded-md">
+              <span className="text-xs text-stone-500 font-medium bg-stone-100 px-2.5 py-1 rounded-md">
                 {devoirs.length + compositions.length} documents
               </span>
             </div>
 
             {(devoirs.length === 0 && compositions.length === 0) ? (
-              <p className="text-sm text-stone-500 dark:text-zinc-400 italic">Aucun devoir ou composition disponible.</p>
+              <p className="text-sm text-stone-500 italic">Aucun devoir ou composition disponible.</p>
             ) : (
               <div className="space-y-6">
                 {/* On regroupe par année */}
@@ -249,15 +249,15 @@ export default async function PageEpreuvesLanding() {
         {/* Sidebar à droite (1/3) */}
         <div className="space-y-8">
           {/* Liste des matières */}
-          <div className="bg-white dark:bg-zinc-900 border border-stone-200 dark:border-zinc-800 rounded-xl p-5 shadow-sm">
-            <h3 className="font-serif text-lg font-bold text-stone-900 dark:text-zinc-100 mb-4 pb-2 border-b border-stone-100 dark:border-zinc-800">
+          <div className="bg-white border border-stone-200 rounded-xl p-5 shadow-sm">
+            <h3 className="font-serif text-lg font-bold text-stone-900 mb-4 pb-2 border-b border-stone-100">
               Par matière
             </h3>
             <div className="flex flex-wrap gap-2">
               {matieresUniques.map((matiere) => (
                 <div
                   key={matiere}
-                  className="bg-stone-50 hover:bg-stone-100 dark:bg-zinc-950 dark:hover:bg-zinc-800 text-stone-700 dark:text-zinc-300 text-xs px-3 py-1.5 rounded-full border border-stone-100 dark:border-zinc-850 cursor-pointer font-medium transition-all"
+                  className="bg-stone-50 hover:bg-stone-100 text-stone-700 text-xs px-3 py-1.5 rounded-full border border-stone-100 cursor-pointer font-medium transition-all"
                 >
                   {formatMatiere(matiere)}
                 </div>
@@ -267,19 +267,19 @@ export default async function PageEpreuvesLanding() {
 
           {/* Récemment ajoutés */}
           {recentes.length > 0 && (
-            <div className="bg-white dark:bg-zinc-900 border border-stone-200 dark:border-zinc-800 rounded-xl p-5 shadow-sm">
-              <h3 className="font-serif text-lg font-bold text-stone-900 dark:text-zinc-100 mb-4 pb-2 border-b border-stone-100 dark:border-zinc-800">
+            <div className="bg-white border border-stone-200 rounded-xl p-5 shadow-sm">
+              <h3 className="font-serif text-lg font-bold text-stone-900 mb-4 pb-2 border-b border-stone-100">
                 Derniers ajouts
               </h3>
               <ul className="space-y-3.5">
                 {recentes.map((doc) => (
                   <li key={`rec-${doc.id}`} className="group">
                     <Link href={doc.slug} className="block">
-                      <div className="flex items-center justify-between text-[10px] text-stone-400 dark:text-zinc-500 font-semibold uppercase tracking-wider mb-1">
+                      <div className="flex items-center justify-between text-[10px] text-stone-400 font-semibold uppercase tracking-wider mb-1">
                         <span>{doc.type === "examen" ? doc.examen : doc.type}</span>
                         <span>{doc.annee}</span>
                       </div>
-                      <p className="text-xs font-semibold text-stone-800 dark:text-zinc-200 group-hover:text-emerald-500 dark:group-hover:text-emerald-400 transition-colors line-clamp-1">
+                      <p className="text-xs font-semibold text-stone-800 group-hover:text-emerald-500 transition-colors line-clamp-1">
                         {formatMatiere(doc.matiere)} - {doc.classe || doc.session}
                       </p>
                     </Link>
@@ -290,11 +290,11 @@ export default async function PageEpreuvesLanding() {
           )}
 
           {/* Encart infos Togo */}
-          <div className="bg-emerald-50/50 dark:bg-zinc-900/30 border border-emerald-100 dark:border-emerald-950/50 rounded-xl p-5">
-            <h3 className="font-serif text-lg font-bold text-emerald-800 dark:text-emerald-400 mb-2">
+          <div className="bg-emerald-50/50 border border-emerald-100 rounded-xl p-5">
+            <h3 className="font-serif text-lg font-bold text-emerald-800 mb-2">
               Réussir au Togo
             </h3>
-            <p className="text-xs leading-relaxed text-emerald-900/80 dark:text-zinc-400">
+            <p className="text-xs leading-relaxed text-emerald-900/80">
               Cette section est co-éditée avec des enseignants togolais de Lomé, Kara et d&apos;autres localités pour vous assurer des contenus de haute qualité conformes aux directives du ministère de l&apos;Éducation.
             </p>
           </div>
@@ -317,19 +317,19 @@ function ExamTypeCard({ exam, titre, count, color, badgeColor, href }: {
 }) {
   return (
     <Link href={href} className="block">
-      <div className={`bg-white dark:bg-zinc-900 border border-stone-200 dark:border-zinc-800 rounded-xl p-4 cursor-pointer transition-all duration-200 shadow-sm hover:shadow-md ${color} group`}>
+      <div className={`bg-white border border-stone-200 rounded-xl p-4 cursor-pointer transition-all duration-200 shadow-sm hover:shadow-md ${color} group`}>
         <div className="flex justify-between items-center mb-2">
           <span className={`text-[10px] uppercase font-bold tracking-wider px-2 py-0.5 rounded-full ${badgeColor}`}>
             {exam}
           </span>
-          <span className="text-xs text-stone-400 dark:text-zinc-500 font-semibold group-hover:text-emerald-500 transition-colors">
+          <span className="text-xs text-stone-400 font-semibold group-hover:text-emerald-500 transition-colors">
             ➔
           </span>
         </div>
-        <h3 className="font-bold text-stone-800 dark:text-zinc-200 text-sm group-hover:text-emerald-500 transition-colors">
+        <h3 className="font-bold text-stone-800 text-sm group-hover:text-emerald-500 transition-colors">
           Annales {titre}
         </h3>
-        <p className="text-[11px] text-stone-500 dark:text-zinc-400 mt-1">
+        <p className="text-[11px] text-stone-500 mt-1">
           {count} {count > 1 ? "épreuves" : "épreuve"}
         </p>
       </div>

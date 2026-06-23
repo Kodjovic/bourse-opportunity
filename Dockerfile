@@ -19,7 +19,8 @@ COPY . .
 # On s'assure que NEXT_PUBLIC_SITE_URL est défini au build si nécessaire
 # ENV NEXT_PUBLIC_SITE_URL=https://ton-domaine.com
 
-RUN npm run build
+# Utilise Webpack car Turbopack requiert des liaisons natives non disponibles sur cette plate-forme Alpine Docker.
+RUN npm run build -- --webpack
 
 # --- Étape 3 : Exécution ---
 FROM node:20-alpine AS runner

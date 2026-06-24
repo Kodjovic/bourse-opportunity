@@ -384,6 +384,10 @@
     ],
     "liens_utiles": [
       {
+        "label": "Formulaire de candidature",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSevQItl0KUaeWDHfofPfa539kcV_T2Gb0fuoUiCOC1KkPbt5A/viewform"
+      },
+      {
         "label": "Site officiel",
         "url": "https://prosveta.gov.rs/skolski-i-studentski-zivot/stipendije/stipendije-srbije-stranim-studentima/stipendije-svet-u-srbiji/"
       }
@@ -395,7 +399,7 @@
       "bourse gouvernementale serbe",
       "bourse internationale Serbie"
     ],
-    "lien_candidature": "https://prosveta.gov.rs/skolski-i-studentski-zivot/stipendije/stipendije-srbije-stranim-studentima/stipendije-svet-u-srbiji/",
+    "lien_candidature": "https://docs.google.com/forms/d/e/1FAIpQLSevQItl0KUaeWDHfofPfa539kcV_T2Gb0fuoUiCOC1KkPbt5A/viewform",
     "source_url": "https://prosveta.gov.rs/skolski-i-studentski-zivot/stipendije/stipendije-srbije-stranim-studentima/stipendije-svet-u-srbiji/",
     "statut": "ouvert",
     "resume": "La bourse 'Monde en Serbie' est une initiative du gouvernement serbe destinée aux étudiants de 127 pays membres ou observateurs du Mouvement des non-alignés. Elle offre une prise en charge complète : cours de serbe gratuit, frais de scolarité, bourse mensuelle de 18 000 RSD, hébergement et repas, ainsi que l'assurance maladie. Les candidats doivent être proposés par leur autorité nationale et respecter des conditions d'âge et de niveau d'études.",

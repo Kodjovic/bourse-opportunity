@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 import { getActualites } from "@/lib/actualites";
+import { PartageSocial } from "@/components/PartageSocial";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -125,6 +126,11 @@ export default async function ActualitePage({ params }: Props) {
               {cleanedContent}
             </ReactMarkdown>
           </div>
+        </div>
+
+        {/* Boutons de partage social */}
+        <div className="mt-12 border-t border-stone-200 pt-8">
+          <PartageSocial titre={actu.title} slug={slug} type="actualite" />
         </div>
 
         {/* Fiche bourse liée si applicable */}

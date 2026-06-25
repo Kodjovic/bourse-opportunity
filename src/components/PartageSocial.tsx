@@ -5,9 +5,10 @@ import { useState, useEffect } from "react";
 interface PartageSocialProps {
   titre: string;
   slug: string;
+  type?: "bourse" | "actualite";
 }
 
-export function PartageSocial({ titre, slug }: PartageSocialProps) {
+export function PartageSocial({ titre, slug, type = "bourse" }: PartageSocialProps) {
   const [copie, setCopie] = useState(false);
   const [isClient, setIsClient] = useState(false);
 
@@ -16,9 +17,14 @@ export function PartageSocial({ titre, slug }: PartageSocialProps) {
     setIsClient(true);
   }, []);
 
-  const fullUrl = isClient ? `${window.location.origin}/bourses/${slug}` : "";
+  const basePath = type === "actualite" ? "/actualites" : "/bourses";
+  const fullUrl = isClient ? `${window.location.origin}${basePath}/${slug}` : "";
   const urlEncodee = encodeURIComponent(fullUrl);
-  const texteEncode = encodeURIComponent(`🎓 Super opportunité de bourse : ${titre}`);
+  
+  const partagesText = type === "actualite"
+    ? `📰 Actualité intéressante sur Afrik'Ose : ${titre}`
+    : `🎓 Super opportunité de bourse : ${titre}`;
+  const texteEncode = encodeURIComponent(partagesText);
 
   const copierLien = () => {
     if (!fullUrl) return;
@@ -63,10 +69,10 @@ export function PartageSocial({ titre, slug }: PartageSocialProps) {
   return (
     <div className="rounded-2xl border border-stone-200 bg-white p-6 shadow-sm">
       <h3 className="font-serif text-lg font-semibold text-stone-900">
-        Partager cette bourse
+        {type === "actualite" ? "Partager cet article" : "Partager cette bourse"}
       </h3>
       <p className="mt-1 text-sm text-stone-500">
-        Aidez un proche en lui envoyant cette opportunité.
+        {type === "actualite" ? "Partagez cette actualité importante avec vos proches." : "Aidez un proche en lui envoyant cette opportunité."}
       </p>
 
       <div className="mt-4 flex flex-wrap gap-2">

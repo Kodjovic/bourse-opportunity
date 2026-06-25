@@ -2,14 +2,17 @@ import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import ReactMarkdown from "react-markdown";
-import { actualites } from "@/lib/actualites";
+import { getActualites } from "@/lib/actualites";
 
 type Props = {
   params: Promise<{ slug: string }>;
 };
 
+export const revalidate = 0;
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
+  const actualites = getActualites();
   const actu = actualites.find((a) => a.slug === slug);
 
   if (!actu) {
@@ -31,6 +34,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function ActualitePage({ params }: Props) {
   const { slug } = await params;
+  const actualites = getActualites();
   const actu = actualites.find((a) => a.slug === slug);
 
   if (!actu) {
@@ -83,7 +87,7 @@ export default async function ActualitePage({ params }: Props) {
             {actu.tags.map((tag) => (
               <span
                 key={tag}
-                className="rounded-lg border border-stone-200 bg-stone-50 px-2.5 py-1 text-xs text-stone-600"
+                className="rounded bg-stone-100 px-2 py-1 text-xs text-stone-600"
               >
                 {tag}
               </span>

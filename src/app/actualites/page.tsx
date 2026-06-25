@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { actualites } from "@/lib/actualites";
+import { getActualites } from "@/lib/actualites";
 import { ActualiteCard } from "@/components/actualites/ActualiteCard";
 
 export const metadata: Metadata = {
@@ -8,7 +8,11 @@ export const metadata: Metadata = {
   alternates: { canonical: "/actualites" },
 };
 
+// Force Next.js à re-rendre la page à chaque requête (pas de cache statique figé)
+export const revalidate = 0;
+
 export default function PageActualites() {
+  const actualites = getActualites();
   const hasActualites = actualites && actualites.length > 0;
 
   return (

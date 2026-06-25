@@ -1866,6 +1866,84 @@
     "slug": "ecosocc-elections-5e-assemblee-2026"
   },
   {
+    "titre": "Youth for Peace : Programme de Leadership Interculturel de l'UNESCO - Deuxième Édition",
+    "seo_slug": "bourse-unesco-youth-for-peace-2026",
+    "organisation": "UNESCO",
+    "montant": 10000,
+    "devise": "USD",
+    "type_financement": "bourse partielle (seed funding)",
+    "deadline": "2026-07-19",
+    "deadline_texte": "19 juillet 2026 à 23h59 CET (heure de Paris)",
+    "niveau_etudes": [
+      "Professionnel",
+      "Leadership"
+    ],
+    "domaines": [
+      "Dialogue interculturel",
+      "Paix",
+      "Cohésion sociale",
+      "Intelligence artificielle"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": 45,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Financement de démarrage de 10 000 USD",
+      "Programme de formation en ligne",
+      "Mentorat",
+      "Réseau mondial d'anciens élèves",
+      "Participation au Dialogue mondial de la jeunesse pour la paix de l'UNESCO"
+    ],
+    "eligibilite": [
+      "Âge entre 25 et 45 ans au 22 octobre 2026",
+      "Expérience avérée de leadership",
+      "Engagement en faveur du dialogue interculturel et de l'impact social",
+      "Ouverture à l'autoréflexion et à l'apprentissage collaboratif",
+      "Disponibilité pour participer à toutes les composantes du programme"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre le formulaire de candidature en ligne avant le 19 juillet 2026",
+      "2. Vérification de l'éligibilité",
+      "3. Évaluation technique par un jury international",
+      "4. Notification des 50 jeunes leaders sélectionnés d'ici mi-octobre 2026"
+    ],
+    "contacts": [
+      "info@unesco.org",
+      "+33 1 45 68 10 00"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://surveys.unesco.org/171854?lang=en"
+      },
+      {
+        "label": "Termes et conditions",
+        "url": "https://unesdoc.unesco.org/ark:/48223/pf0000398412"
+      }
+    ],
+    "mots_cles": [
+      "bourse unesco",
+      "leadership interculturel",
+      "jeunes leaders",
+      "paix",
+      "dialogue interculturel",
+      "intelligence artificielle",
+      "financement projet",
+      "programme jeunesse"
+    ],
+    "lien_candidature": "https://surveys.unesco.org/171854?lang=en",
+    "source_url": "https://www.unesco.org/en/call-applications-2026?hub=181405",
+    "statut": "ouvert",
+    "resume": "L'UNESCO lance la deuxième édition du programme Youth for Peace, un programme de leadership interculturel destiné aux jeunes leaders de 25 à 45 ans. Les participants bénéficient d'une formation en ligne, d'un mentorat et d'un financement de démarrage de 10 000 USD pour mener une initiative de dialogue interculturel sur le thème 'Connexion humaine et dialogue à l'ère de l'intelligence artificielle'. Les candidatures sont ouvertes jusqu'au 19 juillet 2026.",
+    "extrait_le": "2026-06-25T14:39:29",
+    "slug": "bourse-unesco-youth-for-peace-2026"
+  },
+  {
     "titre": "Bourse Rhodes 2027 pour des études supérieures à l'Université d'Oxford",
     "seo_slug": "bourse-rhodes-master-oxford-2027",
     "organisation": "Rhodes Trust",

@@ -1283,6 +1283,98 @@
     "slug": "mas-humanitarian-action-geneve-2026"
   },
   {
+    "titre": "Bureau des bourses d'études de la Fondation Al Qasimi 2026",
+    "seo_slug": "bourse-al-qasimi-emirats-2026",
+    "organisation": "Sheikh Saud bin Saqr Al Qasimi Foundation for Policy Research",
+    "montant": 15000,
+    "devise": "AED",
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-30",
+    "deadline_texte": "30 juin 2026 (candidatures nationales) ; 29 décembre 2026 (candidatures à l'étranger)",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les domaines prioritaires pour Ras Al Khaimah"
+    ],
+    "pays_eligibles": [
+      "Émirats Arabes Unis (nationaux de Ras Al Khaimah)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (IELTS 6.0-7.0 selon le programme)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Relevés de notes",
+      "Diplômes",
+      "Preuve de compétence en anglais (IELTS)",
+      "Lettre d'admission inconditionnelle",
+      "Copie du livret de famille de Ras Al Khaimah",
+      "CV",
+      "Lettre de motivation"
+    ],
+    "avantages": [
+      "Frais de scolarité (100% pour universités privées nationales, 50% pour masters nationaux, 100% pour études à l'étranger)",
+      "Allocation mensuelle (3 000 AED pour universités fédérales nationales, 3 000 AED pour études à l'étranger, 12 000-15 000 AED pour la bourse Al Qasimi à l'étranger, 5 000 AED pour la bourse du ministère de l'Enseignement supérieur)",
+      "Billet d'avion aller-retour annuel (pour la bourse Al Qasimi à l'étranger)",
+      "Assurance maladie annuelle (pour la bourse Al Qasimi à l'étranger)"
+    ],
+    "eligibilite": [
+      "Être un ressortissant émirati de Ras Al Khaimah (livret de famille requis)",
+      "Diplômés du secondaire (12e année) au cours des deux dernières années, employés du gouvernement de Ras Al Khaimah, ou professionnels de Ras Al Khaimah",
+      "Moyenne minimale de 95% au secondaire (pour les études nationales et à l'étranger au niveau licence)",
+      "Minimum 95% dans toutes les matières scientifiques (pour les études nationales et à l'étranger au niveau licence)",
+      "Diplôme de licence requis pour les candidatures en master",
+      "Moyenne cumulative minimale de 3.0-3.5 ou plus (pour les étudiants en cours)",
+      "Admission inconditionnelle dans une université approuvée",
+      "Pour les études à l'étranger : université classée dans le top 200 QS/Times Higher Education ou accréditée par le ministère de l'Enseignement supérieur"
+    ],
+    "procedure_etapes": [
+      "1. Visiter le portail de candidature en ligne (https://alqasimi.fluxx.io/user_sessions/new)",
+      "2. Vérifier les critères d'éligibilité pour la catégorie de bourse (nationale ou étrangère)",
+      "3. Créer un compte sur le portail (nouvel utilisateur) ou se connecter",
+      "4. Sélectionner la catégorie de bourse appropriée (nationale ou étrangère)",
+      "5. Remplir le formulaire de candidature en anglais et télécharger tous les documents requis",
+      "6. Soumettre avant la date limite (les candidatures tardives ne sont pas acceptées)",
+      "7. Recevoir un email de confirmation ; vérifier les spams en cas d'absence"
+    ],
+    "contacts": [
+      "scholarships@alqasimifoundation.rak.ae",
+      "+971 7 223 0044"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.alqasimifoundation.com/scholarships?fbclid=IwY2xjawSqAzpleHRuA2FlbQIxMABicmlkETFFNlBtZnhINEI1YlZBMGduc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHt6zIZRLBggYFvHX50d2JCWcvklYtlcUMyjj24_QQ76hE36aCbNQ0J_PjXky_aem_1NZi4T0MP3kR7FQjYFlVWg#scholarships"
+      },
+      {
+        "label": "Visitez le site :",
+        "url": "https://alqasimi.fluxx.io/user_sessions/new"
+      },
+      {
+        "label": "Page d'accueil du Bureau des bourses",
+        "url": "https://www.alqasimifoundation.com/scholarships"
+      }
+    ],
+    "mots_cles": [
+      "bourse Al Qasimi",
+      "bourse Émirats Arabes Unis",
+      "bourse Ras Al Khaimah",
+      "bourse études supérieures",
+      "bourse internationale",
+      "bourse 2026",
+      "financement études EAU"
+    ],
+    "lien_candidature": "https://alqasimi.fluxx.io/user_sessions/new",
+    "source_url": "https://www.alqasimifoundation.com/scholarships?fbclid=IwY2xjawSqAzpleHRuA2FlbQIxMABicmlkETFFNlBtZnhINEI1YlZBMGduc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHt6zIZRLBggYFvHX50d2JCWcvklYtlcUMyjj24_QQ76hE36aCbNQ0J_PjXky_aem_1NZi4T0MP3kR7FQjYFlVWg#scholarships",
+    "statut": "ouvert",
+    "resume": "Le Bureau des bourses de la Fondation Al Qasimi offre des bourses complètes aux étudiants et professionnels émiratis de Ras Al Khaimah pour des études de licence, master et doctorat dans des universités approuvées aux Émirats Arabes Unis et à l'étranger. Les bourses couvrent jusqu'à 100% des frais de scolarité, une allocation mensuelle pouvant atteindre 15 000 AED, et incluent un billet d'avion et une assurance maladie pour les études à l'étranger. Les candidatures pour le cycle 2026 sont ouvertes du 1er avril au 30 juin pour les études nationales et du 2 janvier au 29 décembre pour les études à l'étranger.",
+    "adresse": "RAK Gas Building, Mezzanine Level Al Jazah Road, Al Nakheel, Ras Al Khaimah",
+    "extrait_le": "2026-06-25T12:52:25",
+    "slug": "bourse-al-qasimi-emirats-2026"
+  },
+  {
     "titre": "Bourse Data Analytics (En ligne) de la Business School",
     "seo_slug": "bourse-data-analytics-online-edimbourg-2026",
     "organisation": "University of Edinburgh Business School",
@@ -5442,6 +5534,113 @@
     "resume": "Le Ryan Research Group recrute activement un étudiant en Master. Les candidats intéressés sont invités à consulter le PDF descriptif pour postuler.",
     "extrait_le": "2026-06-23T11:55:22",
     "slug": "bourse-master-ryan-research-group"
+  },
+  {
+    "titre": "Bourses et financements de l'Université de Porto",
+    "seo_slug": "bourses-universite-porto-2026",
+    "organisation": "Université de Porto",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Les dates limites sont publiées sur le site SASUP",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Master intégré",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Portugal",
+      "Union européenne",
+      "Apatrides",
+      "Pays avec protocoles de coopération"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Portugais",
+    "documents_requis": [],
+    "avantages": [
+      "Paiement mensuel en espèces",
+      "Prime en espèces pour les bourses au mérite",
+      "Prix d'incitation équivalent aux frais de scolarité annuels"
+    ],
+    "eligibilite": [
+      "Être inscrit dans un programme de licence, master ou master intégré à l'U.Porto",
+      "Les étudiants internationaux ne sont pas éligibles pour les bourses SASUP",
+      "Les bourses au mérite sont attribuées sans condition socio-économique"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le site SASUP pour les dates limites et les résultats",
+      "2. Soumettre la candidature selon les instructions sur le site SASUP"
+    ],
+    "contacts": [
+      "atendimento@sas.up.pt",
+      "sasup@up.pt",
+      "(+351) 222 005 435"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://sas.up.pt"
+      },
+      {
+        "label": "Règlement général des bourses au mérite",
+        "url": "https://sigarra.up.pt/up/pt/legislacao_geral.ver_legislacao?p_nr=13816"
+      },
+      {
+        "label": "Institut Camões",
+        "url": "https://www.instituto-camoes.pt/"
+      },
+      {
+        "label": "Portail des communautés portugaises",
+        "url": "https://portaldascomunidades.mne.gov.pt/pt/"
+      },
+      {
+        "label": "Fondation pour la science et la technologie (FCT)",
+        "url": "https://www.fct.pt/"
+      },
+      {
+        "label": "Santander Universités",
+        "url": "https://app.becas-santander.com/pt-BR/program/search"
+      },
+      {
+        "label": "Fondation Calouste Gulbenkian",
+        "url": "https://gulbenkian.pt/"
+      },
+      {
+        "label": "Fondation Millennium BCP",
+        "url": "https://www.fundacaomillenniumbcp.pt/"
+      },
+      {
+        "label": "Programme UT Austin Portugal",
+        "url": "https://utaustinportugal.org/"
+      },
+      {
+        "label": "Programme CMU Portugal",
+        "url": "https://www.cmuportugal.org/"
+      },
+      {
+        "label": "Programme MIT Portugal",
+        "url": "https://www.mitportugal.org/"
+      }
+    ],
+    "mots_cles": [
+      "bourse université porto",
+      "financement études portugal",
+      "bourse sasup",
+      "bourse mérite porto",
+      "bourse scientifique porto"
+    ],
+    "lien_candidature": "https://sas.up.pt",
+    "source_url": "https://www.up.pt/portal/en/live/student-life/scholarships-and-funding/?fbclid=IwY2xjawSqBfNleHRuA2FlbQIxMABicmlkETFFNlBtZnhINEI1YlZBMGduc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsrRyeCKGloFRdy1fOhdodf8jFKKKp9DehF3rJZUG94uViFUbOe71hEksZiu_aem_4AqrTkWhqskxDazx0SBc4w",
+    "statut": "ouvert",
+    "resume": "L'Université de Porto propose plusieurs types de bourses et aides financières pour ses étudiants et chercheurs, notamment les bourses SASUP pour les étudiants en licence, master ou master intégré, les bourses au mérite pour les meilleurs résultats académiques, et les bourses scientifiques pour la formation en recherche. Les candidatures se font via le site SASUP, avec des dates limites annoncées en ligne. Des financements externes sont également disponibles via des partenaires comme l'Institut Camões ou la Fondation Gulbenkian.",
+    "adresse": "Serviços de Ação Social da U.Porto (SASUP)  Rua dos Bragas, nº. 151, 4050-123. Porto, Portugal",
+    "extrait_le": "2026-06-25T13:02:58",
+    "slug": "bourses-universite-porto-2026"
   },
   {
     "titre": "Bourses Chevening",

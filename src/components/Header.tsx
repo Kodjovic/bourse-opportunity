@@ -11,7 +11,7 @@ export function Header() {
   const dropdownRef = useRef<HTMLLIElement>(null);
   const triggerRef = useRef<HTMLButtonElement>(null);
 
-  // Close when clicking outside
+  // Fermer lors d'un clic à l'extérieur
   useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
       if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
@@ -24,7 +24,7 @@ export function Header() {
     };
   }, []);
 
-  // Close on Escape key
+  // Fermer lors de l'appui sur la touche Échap (Esc)
   useEffect(() => {
     function handleKeyDown(event: KeyboardEvent) {
       if (event.key === "Escape") {
@@ -39,19 +39,6 @@ export function Header() {
       document.removeEventListener("keydown", handleKeyDown);
     };
   }, [isOpen]);
-
-  const handleMouseEnter = () => {
-    // Only open on hover on screens sm and up
-    if (typeof window !== "undefined" && window.matchMedia("(min-width: 640px)").matches) {
-      setIsOpen(true);
-    }
-  };
-
-  const handleMouseLeave = () => {
-    if (typeof window !== "undefined" && window.matchMedia("(min-width: 640px)").matches) {
-      setIsOpen(false);
-    }
-  };
 
   return (
     <header className="border-b border-stone-200 bg-white">
@@ -87,11 +74,29 @@ export function Header() {
               </Link>
             </li>
 
+            {/* Guides & Épreuves : Visibles individuellement uniquement sur Desktop (sm et plus) */}
+            <li className="hidden sm:block">
+              <Link
+                href="/guides"
+                className="rounded-lg px-3 py-1.5 transition hover:bg-stone-100 hover:text-stone-900"
+              >
+                Guides
+              </Link>
+            </li>
+
+            <li className="hidden sm:block">
+              <Link
+                href="/epreuves"
+                className="rounded-lg px-3 py-1.5 transition hover:bg-stone-100 hover:text-stone-900"
+              >
+                Épreuves
+              </Link>
+            </li>
+
+            {/* Ressources : Menu déroulant uniquement sur Mobile (masqué sur Desktop avec sm:hidden) */}
             <li
               ref={dropdownRef}
-              className="relative"
-              onMouseEnter={handleMouseEnter}
-              onMouseLeave={handleMouseLeave}
+              className="relative block sm:hidden"
             >
               <button
                 ref={triggerRef}

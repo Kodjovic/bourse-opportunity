@@ -7,6 +7,7 @@ import { ContactEmail } from "@/components/ContactEmail";
 import { PartageSocial } from "@/components/PartageSocial";
 import { getAllBourses, getAllSlugs, getBourseBySlug } from "@/lib/bourses";
 import { boursesSimilaires } from "@/lib/scoring";
+import { SITE_URL } from "@/lib/site";
 import type { Bourse } from "@/types/bourse";
 
 type Props = {
@@ -34,6 +35,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     bourse.resume ||
     `Bourse d'études proposée par ${bourse.organisation || "—"}.`;
 
+  // Les réseaux sociaux exigent des URLs absolues pour les images
+  const imagePartage = bourse.imageUrl
+    ? bourse.imageUrl.startsWith("http")
+      ? bourse.imageUrl
+      : `${SITE_URL}${bourse.imageUrl}`
+    : undefined;
+
   return {
     title: titre,
     description: description.slice(0, 155),
@@ -43,7 +51,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: description.slice(0, 200),
       type: "article",
       url: `/bourses/${slug}`,
-      images: bourse.imageUrl ? [{ url: bourse.imageUrl }] : [],
+      images: imagePartage ? [{ url: imagePartage }] : [],
     },
     alternates: { canonical: `/bourses/${slug}` },
   };

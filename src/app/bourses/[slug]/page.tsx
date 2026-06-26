@@ -43,6 +43,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: description.slice(0, 200),
       type: "article",
       url: `/bourses/${slug}`,
+      images: bourse.imageUrl ? [{ url: bourse.imageUrl }] : [],
     },
     alternates: { canonical: `/bourses/${slug}` },
   };

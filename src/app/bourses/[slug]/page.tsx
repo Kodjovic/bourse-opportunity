@@ -102,6 +102,17 @@ export default async function PageBourse({ params }: Props) {
           </div>
         </header>
 
+        {/* Image d'illustration si disponible */}
+        {bourse.imageUrl && (
+          <div className="mt-8 overflow-hidden rounded-2xl border border-stone-200 shadow-sm bg-stone-100">
+            <img
+              src={bourse.imageUrl}
+              alt={bourse.titre || "Image d'illustration"}
+              className="w-full h-auto max-h-[450px] object-cover"
+            />
+          </div>
+        )}
+
         {/* Carte deadline + countdown */}
         <CarteDeadline bourse={bourse} />
 

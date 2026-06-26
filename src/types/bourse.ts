@@ -42,6 +42,7 @@ export interface Bourse {
   statut: Statut | null;
   resume: string | null;
   adresse?: string | null;
+  imageUrl?: string | null;
 
   extrait_le: string;               // ISO 8601 datetime
 }

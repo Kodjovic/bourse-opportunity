@@ -611,6 +611,126 @@
     "slug": "bourse-jeunes-afrique-europe-2026"
   },
   {
+    "titre": "Programme de Bourses Irlande-Afrique 2026-2027",
+    "seo_slug": "bourse-irlande-afrique-master-2026",
+    "organisation": "Government of Ireland",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-29",
+    "deadline_texte": "Ouverture des candidatures le 29 juin 2026",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Gouvernance",
+      "Développement",
+      "Sciences",
+      "Technologie",
+      "Agriculture",
+      "Commerce",
+      "Environnement",
+      "Justice",
+      "Santé",
+      "Jeunesse",
+      "Sports",
+      "Arts"
+    ],
+    "pays_eligibles": [
+      "Zambie"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "CV",
+      "Lettre de motivation",
+      "Diplôme de bachelor",
+      "Relevés de notes",
+      "Preuve d'emploi",
+      "Preuve de citoyenneté",
+      "Résultats IELTS (si disponible)"
+    ],
+    "avantages": [
+      "Frais de scolarité",
+      "Vols aller-retour",
+      "Hébergement",
+      "Frais de subsistance"
+    ],
+    "eligibilite": [
+      "Être citoyen zambien résidant en Zambie",
+      "Avoir un diplôme de bachelor avec mention ou équivalent",
+      "Ne pas déjà posséder un diplôme de master ou supérieur",
+      "Commencer un nouveau master en Irlande à partir d'août/septembre 2026",
+      "Avoir identifié trois cours pertinents dans le répertoire",
+      "Comprendre les exigences académiques et linguistiques",
+      "Ne pas avoir postulé plus d'une fois auparavant",
+      "Avoir au moins trois ans d'expérience professionnelle pertinente",
+      "Démontrer un engagement fort envers le développement de la Zambie",
+      "Répondre aux exigences procédurales du gouvernement zambien",
+      "Postuler pour une nouvelle qualification"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité et lire le guide de candidature.",
+      "2. Télécharger le formulaire de candidature depuis le site officiel.",
+      "3. Soumettre le formulaire de candidature de l'étape 1 par email à Zambiafellowships@dfa.ie.",
+      "4. Si présélectionné, compléter l'étape 2 (candidature détaillée).",
+      "5. Participer à un entretien (étape 3)."
+    ],
+    "contacts": [
+      "Zambiafellowships@dfa.ie",
+      "+260 211 426 900"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.ireland.ie/en/ireland-fellows-programme/"
+      },
+      {
+        "label": "Guide de candidature (PDF)",
+        "url": "https://www.irishaidfellowships.ie/sites/default/files/are-you-eligible/ireland_fellows_programme_africa_2026-27_stage_1_guidance_note.pdf"
+      },
+      {
+        "label": "Répertoire des programmes éligibles (PDF)",
+        "url": "https://www.irishaidfellowships.ie/sites/default/files/are-you-eligible/ireland_fellows_programme_directory_of_programmes_2026-27.pdf"
+      },
+      {
+        "label": "Page d'accueil du programme",
+        "url": "https://www.irishaidfellowships.ie/strands/ireland-fellows-programme-africa.html"
+      },
+      {
+        "label": "Site officiel de l'ambassade d'Irlande en Zambie",
+        "url": "https://www.ireland.ie/en/zambia/lusaka/"
+      },
+      {
+        "label": "Brochure du programme (PDF)",
+        "url": "/3568/IFP_-_Africa_2025.pdf"
+      },
+      {
+        "label": "Liste des institutions participantes (PDF)",
+        "url": "/3568/IFP_-_Africa_2025.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse irlande afrique",
+      "master irlande",
+      "bourse zambie",
+      "fellowship irlande",
+      "bourse gouvernement irlandais",
+      "bourse master 2026",
+      "bourse développement",
+      "bourse leadership"
+    ],
+    "lien_candidature": "https://www.irishaidfellowships.ie/strands/ireland-fellows-programme-africa.html",
+    "source_url": "https://www.ireland.ie/en/zambia/lusaka/news-and-events/news-archive/ireland-africa-fellows-programme-2025-2026-now-open-for-applications/",
+    "statut": "ouvert",
+    "resume": "Le Programme de Bourses Irlande-Afrique 2026-2027 offre aux professionnels zambiens en milieu de carrière la chance d'effectuer un master d'un an entièrement financé en Irlande. Cette bourse prestigieuse couvre les frais de scolarité, les vols, l'hébergement et les frais de subsistance. Les candidats doivent être citoyens zambiens, justifier d'au moins trois ans d'expérience professionnelle et démontrer un engagement envers le développement de leur pays. Les candidatures ouvrent le 29 juin 2026.",
+    "adresse": "6663 Katima Mulilo Rd, P.O. Box 34923, Lusaka 10101, Zambia",
+    "imageUrl": "/docs/ireland-fellows-programme.png",
+    "extrait_le": "2026-06-26T22:11:28",
+    "slug": "bourse-irlande-afrique-master-2026"
+  },
+  {
     "titre": "Programme de Bourse de Recherche 2027 de la Fondation Internationale Matsumae",
     "seo_slug": "bourse-recherche-matsumae-japon-2027",
     "organisation": "The Matsumae International Foundation",
@@ -5805,5 +5925,1792 @@
     "adresse": "Foreign, Commonwealth and Development Office, London, United Kingdom, SW1A 2AH",
     "extrait_le": "2026-06-18T01:09:33",
     "slug": "bourses-chevening-master-royaume-uni-2027"
+  },
+  {
+    "titre": "Programme de bourses Coca-Cola MENA 2014 pour étudier aux États-Unis",
+    "seo_slug": "bourse-coca-cola-mena-usa-2014",
+    "organisation": "The Coca-Cola Company & US Department of State",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2014-04-18",
+    "deadline_texte": "18 avril 2014",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Affaires",
+      "Commerce",
+      "Entrepreneuriat"
+    ],
+    "pays_eligibles": [
+      "Algérie",
+      "Égypte",
+      "Jordanie",
+      "Maroc",
+      "Palestine",
+      "Tunisie"
+    ],
+    "age_maximum": 24,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Lettre de motivation",
+      "Idée d'entreprise",
+      "Formulaire de consentement signé (parent ou tuteur si moins de 21 ans)"
+    ],
+    "avantages": [
+      "Voyage aller-retour vers et aux États-Unis",
+      "Hébergement",
+      "Repas",
+      "Frais universitaires",
+      "Frais de visa"
+    ],
+    "eligibilite": [
+      "Être citoyen et résident de l'un des pays suivants : Algérie, Égypte, Jordanie, Maroc, Palestine ou Tunisie",
+      "Être étudiant",
+      "Avoir entre 18 et 24 ans",
+      "Avoir une idée d'entreprise pour améliorer demain"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité.",
+      "2. Préparer une idée d'entreprise.",
+      "3. Remplir le formulaire de candidature en ligne.",
+      "4. Fournir un formulaire de consentement signé (parent ou tuteur si moins de 21 ans) confirmant la compréhension que le programme a lieu pendant le Ramadan.",
+      "5. Soumettre la candidature avant le 18 avril 2014."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page officielle du programme",
+        "url": "https://www.opportunitiesforafricans.com/coca-cola-mena-scholarship-program-2014-to-study-in-usa/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Coca-Cola",
+      "MENA",
+      "États-Unis",
+      "programme d'été",
+      "Kelley School of Business",
+      "Indiana University",
+      "entrepreneuriat",
+      "étudiants"
+    ],
+    "lien_candidature": "https://www.opportunitiesforafricans.com/coca-cola-mena-scholarship-program-2014-to-study-in-usa/",
+    "source_url": "https://www.opportunitiesforafricans.com/coca-cola-mena-scholarship-program-2014-to-study-in-usa/",
+    "statut": "fermé",
+    "resume": "Le programme de bourses Coca-Cola MENA, en partenariat avec le Département d'État américain, offre à 100 étudiants de la région MENA une immersion d'un mois à la Kelley School of Business de l'Université d'Indiana. Les participants bénéficient d'une prise en charge complète (voyage, hébergement, repas, frais universitaires et visa) et d'une visite au Département d'État et au siège de Coca-Cola. Les candidats doivent être âgés de 18 à 24 ans, citoyens de l'un des six pays éligibles, et présenter une idée d'entreprise. La date limite est le 18 avril 2014.",
+    "extrait_le": "2026-06-17T05:34:31",
+    "slug": "bourse-coca-cola-mena-usa-2014"
+  },
+  {
+    "titre": "Bourse du gouvernement chinois/UA 2017/2018 pour jeunes Africains pour étudier en Chine (entièrement financée)",
+    "seo_slug": "bourse-chine-afrique-master-2017",
+    "organisation": "Commission de l'Union africaine / Gouvernement de la République populaire de Chine",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2017-06-30",
+    "deadline_texte": "30 juin 2017",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Gestion",
+      "Travail social",
+      "Santé publique",
+      "Communication internationale",
+      "Trafic",
+      "Politiques publiques",
+      "Administration publique",
+      "Finance",
+      "Audit",
+      "Gestion environnementale"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": 32,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Lettre de motivation",
+      "Curriculum Vitae",
+      "Copies certifiées des diplômes et relevés de notes",
+      "Copie de la page d'identité du passeport (validité ≥ 6 mois)",
+      "Photo d'identité couleur (3x4)",
+      "Lettres de recommandation de deux références académiques et une personnelle",
+      "Certificat médical"
+    ],
+    "avantages": [
+      "Bourse entièrement financée (frais de scolarité, hébergement, bourse mensuelle, etc.)"
+    ],
+    "eligibilite": [
+      "Être un ressortissant africain qualifié",
+      "Avoir un diplôme de licence d'une université reconnue avec au moins une mention bien (deuxième classe supérieure) ou équivalent dans un domaine pertinent",
+      "Âge maximum de 32 ans",
+      "Maîtrise de l'anglais",
+      "Potentiel, motivation et désir de jouer un rôle de leadership transformateur en Afrique"
+    ],
+    "procedure_etapes": [
+      "1. Postuler directement sur le site web de l'université choisie.",
+      "2. Postuler également via le site web du gouvernement chinois pour la bourse.",
+      "3. Envoyer des copies de la candidature par email à Olaleye Matthew Adewumi (olaleye@africa-union.org) et en copie à Hilda Muhu (hildam@africa-union.org)."
+    ],
+    "contacts": [
+      "olaleye@africa-union.org",
+      "hildam@africa-union.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Visitez le site :",
+        "url": "https://www.opportunitiesforafricans.com/chinese-governmentauc-scholarship-20172018-for-young-africans-to-study-in-china-fully-funded/"
+      },
+      {
+        "label": "Site web du gouvernement chinois pour les bourses",
+        "url": "http://www.csc.edu.cn/"
+      }
+    ],
+    "mots_cles": [
+      "bourse chine",
+      "bourse africaine",
+      "master chine",
+      "bourse gouvernement chinois",
+      "bourse union africaine",
+      "étudier en chine",
+      "bourse entièrement financée",
+      "bourse 2017"
+    ],
+    "lien_candidature": "https://www.opportunitiesforafricans.com/chinese-governmentauc-scholarship-20172018-for-young-africans-to-study-in-china-fully-funded/",
+    "source_url": "https://www.opportunitiesforafricans.com/chinese-governmentauc-scholarship-20172018-for-young-africans-to-study-in-china-fully-funded/",
+    "statut": "fermé",
+    "resume": "Le gouvernement chinois, en partenariat avec la Commission de l'Union africaine, offre des bourses entièrement financées pour des programmes de master dans diverses universités chinoises pour l'année académique 2017/2018. Destinée aux jeunes Africains motivés, cette bourse couvre l'intégralité des frais et vise à former des leaders transformateurs pour le continent. Les candidats doivent être âgés de moins de 32 ans, titulaires d'une licence avec mention, et postuler à la fois sur le site de l'université et via le portail du gouvernement chinois.",
+    "extrait_le": "2026-06-17T05:34:31",
+    "slug": "bourse-chine-afrique-master-2017"
+  },
+  {
+    "titre": "Bourse Google Udacity Afrique 2018 pour développeurs en herbe",
+    "seo_slug": "bourse-google-udacity-afrique-2018",
+    "organisation": "Google, Andela, Udacity",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse partielle",
+    "deadline": "2018-04-24",
+    "deadline_texte": "24 avril 2018",
+    "niveau_etudes": [
+      "Formation continue"
+    ],
+    "domaines": [
+      "Développement web",
+      "Développement Android"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Cours en ligne",
+      "Accès à la communauté Andela",
+      "Possibilité de bourse complète pour un nanodegree"
+    ],
+    "eligibilite": [
+      "Être résident d'un pays africain",
+      "Avoir au moins 18 ans à la date de soumission"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne avant le 24 avril 2018.",
+      "2. Choisir entre développement web ou Android.",
+      "3. Attendre la notification des résultats le 2 mai 2018.",
+      "4. Débuter le programme le 8 mai 2018."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page officielle du programme",
+        "url": "https://www.udacity.com/google-africa-scholarships"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "Google",
+      "Udacity",
+      "Afrique",
+      "développeur",
+      "web",
+      "Android",
+      "2018"
+    ],
+    "lien_candidature": "https://www.udacity.com/google-africa-scholarships",
+    "source_url": "https://www.opportunitiesforafricans.com/udacity-google-africa-scholarship-program-2018/",
+    "statut": "fermé",
+    "resume": "Le programme de bourses Google Udacity Afrique 2018 offre 15 000 bourses pour un cours unique et 500 bourses pour un nanodegree aux résidents africains âgés d'au moins 18 ans. Les candidats choisissent entre le développement web ou Android et sont placés dans une filière débutant ou intermédiaire. Les meilleurs étudiants peuvent obtenir une bourse complète pour un programme nanodegree.",
+    "extrait_le": "2026-06-17T05:34:31",
+    "slug": "bourse-google-udacity-afrique-2018"
+  },
+  {
+    "titre": "Bourse Emile-Boutmy de Sciences Po (Licence & Master) 2018/2019 pour étudier en France (Financée)",
+    "seo_slug": "bourse-emile-boutmy-sciences-po-france-2018",
+    "organisation": "Sciences Po",
+    "montant": 7300,
+    "devise": "EUR",
+    "type_financement": "bourse partielle",
+    "deadline": "2018-04-26",
+    "deadline_texte": "26 avril 2018 (Licence) / 3 janvier 2018 (Master)",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Hors Union Européenne"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français ou Anglais (selon programme)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Preuve de revenus",
+      "Documents familiaux (avis d'imposition, fiches de paie, certificat de divorce, etc.)",
+      "Test de langue (si applicable)"
+    ],
+    "avantages": [
+      "Bourse de frais de scolarité (de 3000€ à 7300€/an pour la licence, 5000€ ou 10000€/an pour le master)",
+      "Allocation de frais de subsistance (5000€/an pour certaines bourses de licence)",
+      "Maintien de la bourse pendant l'année à l'étranger (licence)"
+    ],
+    "eligibilite": [
+      "Être primo-arrivant",
+      "Être ressortissant d'un État non membre de l'UE",
+      "Ne pas avoir de double nationalité incluant une nationalité UE",
+      "Ne pas être Suisse, Norvégien ou Québécois (sauf exceptions)",
+      "Ne pas être candidat en double diplôme (sauf exceptions)",
+      "Ne pas être en programme doctoral, master en 1 an ou étudiant d'échange",
+      "Ne pas cumuler avec une autre bourse (Eiffel, AEFE, BGF...)",
+      "Être admis à Sciences Po"
+    ],
+    "procedure_etapes": [
+      "1. Postuler en ligne au programme de licence ou master de Sciences Po",
+      "2. Dans la section 'Informations financières', indiquer sa candidature à la bourse Emile-Boutmy",
+      "3. Fournir les preuves de revenus et documents familiaux requis",
+      "4. Joindre le test de langue si nécessaire",
+      "5. Respecter la date limite de candidature (26 avril 2018 pour licence, 3 janvier 2018 pour master)"
+    ],
+    "contacts": [
+      "[email protected]",
+      "[email protected]"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page officielle de la bourse Emile-Boutmy",
+        "url": "https://www.sciencespo.fr/students/en/financial-aid/emile-boutmy-scholarship.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse Sciences Po",
+      "bourse Emile-Boutmy",
+      "bourse France",
+      "bourse licence",
+      "bourse master",
+      "bourse internationale",
+      "bourse hors UE"
+    ],
+    "lien_candidature": "https://www.sciencespo.fr/students/en/financial-aid/emile-boutmy-scholarship.html",
+    "source_url": "https://www.opportunitiesforafricans.com/sciences-po-emile-boutmy-undergraduate-postgraduate-scholarship-20182019-for-study-in-france-funded/",
+    "statut": "fermé",
+    "resume": "La bourse Emile-Boutmy de Sciences Po est destinée aux meilleurs étudiants internationaux hors Union Européenne, pour financer leurs études de licence ou master. Elle offre des aides sur les frais de scolarité (jusqu'à 7300€/an en licence et 10000€/an en master) et parfois une allocation de subsistance. Les candidatures sont évaluées sur le mérite et des critères sociaux, avec des dates limites en 2018.",
+    "extrait_le": "2026-06-17T05:34:31",
+    "slug": "bourse-emile-boutmy-sciences-po-france-2018"
+  },
+  {
+    "titre": "Programme de bourses DAAD In-Region 2021 à l'Université de Stellenbosch – Afrique du Sud",
+    "seo_slug": "bourse-daad-in-region-stellenbosch-2021",
+    "organisation": "DAAD (Deutscher Akademischer Austauschdienst)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2020-06-02",
+    "deadline_texte": "2 juin 2020",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Biologie moléculaire",
+      "Génétique humaine"
+    ],
+    "pays_eligibles": [
+      "Afrique subsaharienne (hors Afrique du Sud)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Langue d'instruction (non spécifiée)",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse mensuelle",
+      "Frais de voyage",
+      "Prise en charge des frais d'études"
+    ],
+    "eligibilite": [
+      "Être diplômé d'un premier cycle universitaire (3 ans pour Master, 2 ans pour Doctorat) avec des résultats supérieurs à la moyenne (au moins deuxième classe supérieure)",
+      "Avoir terminé son dernier diplôme universitaire depuis moins de 6 ans au moment de la candidature",
+      "Être ressortissant ou résident permanent d'un pays d'Afrique subsaharienne (hors Afrique du Sud)",
+      "Être membre du personnel d'une université publique, candidat à un recrutement d'enseignant/chercheur, du secteur public, ou ancien du programme DAFI",
+      "Faire preuve de motivation et d'engagement fort",
+      "Les femmes et les candidats de régions ou groupes défavorisés sont encouragés"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Préparer les documents requis (non listés)",
+      "3. Soumettre la candidature avant le 2 juin 2020 via le site officiel"
+    ],
+    "contacts": [
+      "info@opportunitiesforafricans.com",
+      "contact@opportunitiesforafricans.com"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme DAAD In-Region",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/in-region-scholarship-programme/"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "Afrique subsaharienne",
+      "Master",
+      "Doctorat",
+      "Stellenbosch",
+      "2021",
+      "développement durable",
+      "biologie moléculaire"
+    ],
+    "lien_candidature": "https://www.daad.de/en/study-and-research-in-germany/scholarships/in-region-scholarship-programme/",
+    "source_url": "https://www.opportunitiesforafricans.com/daad-in-region-scholarship-programme-call-for-scholarship-applications-2021/",
+    "statut": "fermé",
+    "resume": "Le programme de bourses DAAD In-Region 2021 à l'Université de Stellenbosch en Afrique du Sud offre des financements pour des études de Master et Doctorat dans les domaines de la biologie moléculaire et de la génétique humaine. Destiné aux ressortissants d'Afrique subsaharienne (hors Afrique du Sud), il vise à former des cadres académiques et professionnels contribuant au développement durable de la région. Les candidats doivent avoir un excellent dossier académique et un engagement fort. La date limite de candidature est le 2 juin 2020.",
+    "extrait_le": "2026-06-17T05:34:31",
+    "slug": "bourse-daad-in-region-stellenbosch-2021"
+  },
+  {
+    "titre": "Bourse Michael Taiwo",
+    "seo_slug": "bourse-michael-taiwo-etrangers-2026",
+    "organisation": "Michael Taiwo Scholarship",
+    "montant": 1000,
+    "devise": "USD",
+    "type_financement": "bourse partielle",
+    "deadline": "2025-06-27",
+    "deadline_texte": "27 juin 2025",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Pays en développement"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Relevés de notes",
+      "Diplôme"
+    ],
+    "avantages": [
+      "Frais d'examen standardisés",
+      "Frais de candidature aux écoles supérieures",
+      "Frais d'évaluation des diplômes"
+    ],
+    "eligibilite": [
+      "Être un étudiant à haut potentiel issu d'un pays en développement",
+      "Être diplômé récent",
+      "Avoir des résultats académiques solides",
+      "Démontrer un besoin financier",
+      "Faire preuve de leadership et de potentiel"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité sur le site",
+      "2. Remplir le formulaire de candidature en ligne",
+      "3. Soumettre les documents requis avant la date limite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://mtscholarships.org/?fbclid=IwY2xjawSlUUlleHRuA2FlbQIxMABicmlkETF5MnFLd28xNmlMU2JWSWtzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkhlDBEQLo_Dzdrpc7P0s-O0C-esVbbwRZZ8n6tsLwy2B9o55Qd4sBUPMUy1_aem_yAdjEtYkFKaFHBvpV5KhZA"
+      },
+      {
+        "label": "Page d'accueil",
+        "url": "https://mtscholarships.org"
+      },
+      {
+        "label": "Page d'éligibilité",
+        "url": "https://mtscholarships.org/eligibility/"
+      },
+      {
+        "label": "Page de candidature",
+        "url": "https://mtscholarships.org/apply/"
+      },
+      {
+        "label": "Page de procédure",
+        "url": "https://mtscholarships.org/how-to-apply/"
+      },
+      {
+        "label": "Page de sélection",
+        "url": "https://mtscholarships.org/how-we-select/"
+      },
+      {
+        "label": "Page des gagnants",
+        "url": "https://mtscholarships.org/winners/"
+      },
+      {
+        "label": "Page des rapports d'impact",
+        "url": "https://mtscholarships.org/report/"
+      },
+      {
+        "label": "Page du défi 1%",
+        "url": "https://mtscholarships.org/1-challenge/"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "Michael Taiwo",
+      "études supérieures",
+      "pays en développement",
+      "frais d'examen",
+      "mentorat",
+      "2025",
+      "2026"
+    ],
+    "lien_candidature": "https://mtscholarships.org/apply/",
+    "source_url": "https://mtscholarships.org/?fbclid=IwY2xjawSlUUlleHRuA2FlbQIxMABicmlkETF5MnFLd28xNmlMU2JWSWtzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkhlDBEQLo_Dzdrpc7P0s-O0C-esVbbwRZZ8n6tsLwy2B9o55Qd4sBUPMUy1_aem_yAdjEtYkFKaFHBvpV5KhZA",
+    "statut": "fermé",
+    "resume": "La bourse Michael Taiwo soutient les étudiants exceptionnels des pays en développement dans leur premier pas vers des études supérieures à l'étranger en couvrant les frais d'examens standardisés, les frais de candidature et l'évaluation des diplômes. En plus du financement, chaque boursier est jumelé à un mentor qui le guide tout au long du processus d'admission compétitif. Depuis 2019, la bourse a aidé des centaines d'étudiants à faible revenu à intégrer les meilleures universités du monde.",
+    "extrait_le": "2026-06-22T01:43:30",
+    "slug": "bourse-michael-taiwo-etrangers-2026"
+  },
+  {
+    "titre": "Bourse de recherche - Master en sciences biomédicales appliquées",
+    "seo_slug": "bourse-master-recherche-malte-2025",
+    "organisation": "University of Malta",
+    "montant": 600,
+    "devise": "EUR",
+    "type_financement": "bourse partielle",
+    "deadline": "2025-06-30",
+    "deadline_texte": "30 juin 2025",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Biomédecine",
+      "Biologie moléculaire",
+      "Immunologie",
+      "Microbiologie"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Lettre de candidature",
+      "Curriculum vitae",
+      "Copies des diplômes",
+      "Coordonnées de 2 références",
+      "Traductions certifiées des diplômes (candidats internationaux)"
+    ],
+    "avantages": [
+      "Allocation mensuelle de 600 EUR",
+      "Frais de scolarité jusqu'à 400 EUR"
+    ],
+    "eligibilite": [
+      "Diplôme de premier cycle (deuxième classe ou supérieur) dans un domaine avec une solide formation en biologie moléculaire et cellulaire",
+      "Avoir suivi des cours de premier cycle en immunologie, biologie moléculaire et microbiologie",
+      "Répondre aux conditions d'admission de l'Université de Malte",
+      "Pour les candidats internationaux : certificat de compétence en anglais reconnu"
+    ],
+    "procedure_etapes": [
+      "1. Préparer la lettre de candidature, le CV, les copies des diplômes et les coordonnées de 2 références.",
+      "2. Envoyer les documents par email à karen.cacciattolo@um.edu.mt avant le 30 juin 2025.",
+      "3. Les candidats internationaux doivent fournir des traductions certifiées de leurs diplômes en anglais.",
+      "4. Les candidats non-UE résidant hors UE et nécessitant un visa doivent soumettre leur demande de cours avant le 1er juillet 2025.",
+      "5. Le processus de sélection comprend l'examen des qualifications, une présélection et un entretien."
+    ],
+    "contacts": [
+      "info@um.edu.mt",
+      "karen.cacciattolo@um.edu.mt",
+      "brendon.scicluna@um.edu.mt",
+      "+356 2340 2340"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.um.edu.mt/newspoint/notices/opportunities/2025/06/call-for-scholarship-msc-by-research-applied-biomed"
+      },
+      {
+        "label": "Département des sciences biomédicales appliquées",
+        "url": "https://www.um.edu.mt/healthsciences/applied-bio-science/"
+      },
+      {
+        "label": "Faculté des sciences de la santé",
+        "url": "https://www.um.edu.mt/healthsciences/"
+      },
+      {
+        "label": "Règlement du MSc Applied Biomedical",
+        "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/course/healthsciences/MasterofScience(byResearch).pdf"
+      },
+      {
+        "label": "Règlement du MSc Physiology and Biochemistry",
+        "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/course/medicinesurgery/MasterofScience.pdf"
+      },
+      {
+        "label": "Règlement général des diplômes de troisième cycle",
+        "url": "https://www.um.edu.mt/media/um/docs/about/governance/regulations/general/GeneralRegulationsforUniversityPostgraduateAwards.pdf"
+      },
+      {
+        "label": "Exigences linguistiques en anglais",
+        "url": "https://www.um.edu.mt/international/international/english_language_requirements"
+      },
+      {
+        "label": "Bureau international",
+        "url": "https://www.um.edu.mt/international/international"
+      },
+      {
+        "label": "Frais et financement",
+        "url": "https://www.um.edu.mt/study/feesfunding"
+      }
+    ],
+    "mots_cles": [
+      "bourse master",
+      "recherche biomédicale",
+      "Malte",
+      "biologie moléculaire",
+      "immunologie",
+      "microbiologie",
+      "bourse 2025",
+      "University of Malta"
+    ],
+    "lien_candidature": "mailto:karen.cacciattolo@um.edu.mt",
+    "source_url": "https://www.um.edu.mt/newspoint/notices/opportunities/2025/06/call-for-scholarship-msc-by-research-applied-biomed",
+    "statut": "fermé",
+    "resume": "L'Université de Malte propose une bourse de recherche d'un an pour un Master en sciences biomédicales appliquées, dans le cadre du projet STEERS sur la septicémie. Les candidats doivent posséder un diplôme de premier cycle avec une solide formation en biologie moléculaire et cellulaire. La bourse comprend une allocation mensuelle de 600 EUR et une prise en charge des frais de scolarité jusqu'à 400 EUR. Les candidatures sont à envoyer par email avant le 30 juin 2025.",
+    "adresse": "University of Malta Msida, MSD 2080 Malta",
+    "extrait_le": "2026-06-18T01:24:40",
+    "slug": "bourse-master-recherche-malte-2025"
+  },
+  {
+    "titre": "Bourse de recherche pour un Master en Sciences (M.Sc. by Research) - Université de Malte",
+    "seo_slug": "bourse-master-recherche-malte-2025",
+    "organisation": "University of Malta",
+    "montant": 500,
+    "devise": "EUR",
+    "type_financement": "bourse partielle",
+    "deadline": "2025-07-04",
+    "deadline_texte": "4 juillet 2025",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Géosciences",
+      "Sismologie",
+      "Physique",
+      "Sciences de la Terre",
+      "Mathématiques",
+      "Statistiques",
+      "Informatique"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Lettre de candidature",
+      "Curriculum vitae",
+      "Copies des certificats",
+      "Coordonnées de 2 références (dont email)",
+      "Traductions certifiées des diplômes (pour candidats internationaux)",
+      "Certificat de compétence en anglais (pour candidats internationaux)"
+    ],
+    "avantages": [
+      "Allocation mensuelle de 500 € pendant un an",
+      "Frais de scolarité jusqu'à 400 € pour les candidats locaux (première année)",
+      "Possibilité de prolongation de l'allocation sous conditions"
+    ],
+    "eligibilite": [
+      "Être admis au programme de Master en Géosciences de l'Université de Malte",
+      "Posséder un BSc en Géosciences, Physique, Systèmes terrestres, Mathématiques, Statistiques ou domaines connexes",
+      "Les étudiants en dernière année de licence peuvent postuler sous réserve d'obtention du diplôme",
+      "Compétences en programmation appréciées",
+      "Pour les non-EU/EEE : fournir un certificat de compétence en anglais et prouver des fonds suffisants pour le séjour"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'admission au programme MSc by Research en Géosciences.",
+      "2. Préparer les documents : lettre de candidature, CV, copies des certificats, coordonnées de 2 références.",
+      "3. Pour les candidats internationaux : faire traduire les diplômes en anglais et obtenir un certificat d'anglais.",
+      "4. Envoyer le dossier par email à karen.cacciattolo@um.edu.mt avant le 4 juillet 2025.",
+      "5. Les candidats présélectionnés seront convoqués à un entretien.",
+      "6. Le lauréat devra ensuite soumettre une demande d'inscription au Master by Research (procédure séparée)."
+    ],
+    "contacts": [
+      "karen.cacciattolo@um.edu.mt",
+      "matthew.agius@um.edu.mt",
+      "+356 2340 2340"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.um.edu.mt/newspoint/notices/opportunities/2025/06/call-scholarship-research?fbclid=IwY2xjawSgJpNleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHue7FFWyoS9_TDATAvO1uWZ0E0gNoMCfiMMwss8yrV03fdwfoCRPJ5n84LwO_aem_LjfNliCxxw69kmAPp-TU8w"
+      },
+      {
+        "label": "Règlement du Master of Science (PDF)",
+        "url": "http://www.um.edu.mt/media/um/docs/about/governance/regulations/course/science/MasterofScience.pdf"
+      },
+      {
+        "label": "Page du programme MSc Geosciences",
+        "url": "http://www.um.edu.mt/courses/overview/pmscgscftr5-2025-6-o/"
+      },
+      {
+        "label": "Frais et financement",
+        "url": "https://www.um.edu.mt/study/feesfunding/"
+      },
+      {
+        "label": "Conditions d'anglais pour internationaux",
+        "url": "http://www.um.edu.mt/international/international/english_language_requirements."
+      },
+      {
+        "label": "Bureau international",
+        "url": "http://www.um.edu.mt/international/international"
+      },
+      {
+        "label": "Bourses d'exonération des frais de scolarité",
+        "url": "http://www.um.edu.mt/journey/feesfunding/scholarships/masterresearchphd"
+      },
+      {
+        "label": "Profil du Dr Matthew Agius",
+        "url": "http://www.um.edu.mt/profile/matthewagius"
+      }
+    ],
+    "mots_cles": [
+      "bourse master recherche",
+      "géosciences",
+      "sismologie",
+      "Malte",
+      "bourse université Malte",
+      "MSc by Research",
+      "bourse 2025",
+      "bourse internationale"
+    ],
+    "lien_candidature": "mailto:karen.cacciattolo@um.edu.mt",
+    "source_url": "https://www.um.edu.mt/newspoint/notices/opportunities/2025/06/call-scholarship-research?fbclid=IwY2xjawSgJpNleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHue7FFWyoS9_TDATAvO1uWZ0E0gNoMCfiMMwss8yrV03fdwfoCRPJ5n84LwO_aem_LjfNliCxxw69kmAPp-TU8w",
+    "statut": "fermé",
+    "resume": "L'Université de Malte propose une bourse de recherche d'un an pour un Master en Sciences (M.Sc. by Research) en Géosciences, axé sur l'étude de l'activité sismique récente de Malte et le développement d'outils d'analyse sismique. Les candidats doivent être titulaires d'un BSc dans un domaine pertinent (Géosciences, Physique, etc.) et justifier de compétences en programmation. La bourse offre une allocation mensuelle de 500 € et une prise en charge partielle des frais de scolarité pour les candidats locaux. Les candidatures sont à envoyer par email avant le 4 juillet 2025.",
+    "adresse": "University of Malta Msida, MSD 2080 Malta",
+    "extrait_le": "2026-06-18T01:20:25",
+    "slug": "bourse-master-recherche-malte-2025"
+  },
+  {
+    "titre": "Bourse pour le double diplôme Master en résolution des conflits et sécurité méditerranéenne",
+    "seo_slug": "bourse-master-conflits-mediterranee-2025",
+    "organisation": "University of Malta",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2025-08-10",
+    "deadline_texte": "10 août 2025",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Résolution des conflits",
+      "Sécurité méditerranéenne",
+      "Relations internationales",
+      "Études de paix",
+      "Sciences sociales"
+    ],
+    "pays_eligibles": [
+      "Malte"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Lettre de candidature",
+      "Lettre de motivation",
+      "Curriculum Vitae (CV)",
+      "Copies des diplômes",
+      "Coordonnées de deux référents académiques"
+    ],
+    "avantages": [
+      "Prise en charge totale des frais de scolarité",
+      "Stage au sein du Centre pour l'étude et la pratique de la résolution des conflits"
+    ],
+    "eligibilite": [
+      "Être résident ou citoyen maltais",
+      "Avoir reçu une offre d'admission inconditionnelle au programme MA Conflict Resolution and Mediterranean Security",
+      "Diplôme de premier cycle de deuxième classe supérieure (ou équivalent) dans les disciplines liées aux études de conflit, relations internationales, consolidation de la paix ou sciences sociales",
+      "Participation active démontrée à la vie étudiante durant les études de premier cycle (rôles de leadership, organisations étudiantes, bénévolat, initiatives sur le campus)",
+      "Connaissance de la vie sociale et culturelle maltaise et familiarité avec la vie étudiante à l'Université de Malte",
+      "Engagement à aider les autres étudiants, en particulier internationaux, à s'intégrer dans la société maltaise et l'environnement universitaire",
+      "Volonté de contribuer à la visibilité et à la promotion du programme pendant la période d'études et en tant qu'ancien élève"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre une candidature séparée pour le programme MA Conflict Resolution and Mediterranean Security à l'Université de Malte avant le 10 août 2025.",
+      "2. Envoyer les documents requis (lettre de candidature, lettre de motivation, CV, copies des diplômes, coordonnées de deux référents académiques) par email à cspcr@um.edu.mt avant le 10 août 2025.",
+      "3. Les candidats présélectionnés peuvent être convoqués à un entretien."
+    ],
+    "contacts": [
+      "info@um.edu.mt",
+      "cspcr@um.edu.mt",
+      "+356 2340 2340"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.um.edu.mt/newspoint/notices/opportunities/2025/07/dual-degree-master-of-arts-conflict-resolution-and-mediterranean-security"
+      },
+      {
+        "label": "Présentation du programme MA Conflict Resolution and Mediterranean Security",
+        "url": "https://www.um.edu.mt/courses/overview/pmacrmft0-2025-6-o/"
+      },
+      {
+        "label": "Politique de confidentialité",
+        "url": "http://www.um.edu.mt/privacy"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "master",
+      "résolution des conflits",
+      "sécurité méditerranéenne",
+      "Malte",
+      "University of Malta",
+      "double diplôme",
+      "2025"
+    ],
+    "lien_candidature": "https://www.um.edu.mt/newspoint/notices/opportunities/2025/07/dual-degree-master-of-arts-conflict-resolution-and-mediterranean-security",
+    "source_url": "https://www.um.edu.mt/newspoint/notices/opportunities/2025/07/dual-degree-master-of-arts-conflict-resolution-and-mediterranean-security",
+    "statut": "fermé",
+    "resume": "L'Université de Malte offre une bourse complète pour le double diplôme Master en résolution des conflits et sécurité méditerranéenne, en partenariat avec George Mason University. Cette bourse couvre l'intégralité des frais de scolarité et inclut un stage au sein du Centre pour l'étude et la pratique de la résolution des conflits. Ouverte aux résidents et citoyens maltais, la candidature doit être soumise avant le 10 août 2025.",
+    "adresse": "University of Malta Msida, MSD 2080 Malta",
+    "extrait_le": "2026-06-18T01:23:52",
+    "slug": "bourse-master-conflits-mediterranee-2025"
+  },
+  {
+    "titre": "Bourses d'études de premier cycle de l'Université de Floride",
+    "seo_slug": "bourses-premier-cycle-universite-floride-2026",
+    "organisation": "University of Florida",
+    "montant": 10000,
+    "devise": "USD",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-02-01",
+    "deadline_texte": "1er février 2026 (date limite de priorité)",
+    "niveau_etudes": [
+      "Bachelor"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Relevés de notes",
+      "Scores de tests standardisés",
+      "Essai personnel",
+      "Lettre de recommandation (non spécifiée mais holistique)"
+    ],
+    "avantages": [
+      "Bourse présidentielle : 5 000 $/an (20 000 $ sur 4 ans)",
+      "Bourse présidentielle Or : 8 000 $/an (32 000 $ sur 4 ans)",
+      "Bourse présidentielle Platine : 10 000 $/an (40 000 $ sur 4 ans)",
+      "Exonération des frais de scolarité hors État : jusqu'à 20 000 $/an (80 000 $ sur 4 ans)",
+      "Bourse d'honneur d'admission : 2 000 $ (500 $/semestre)"
+    ],
+    "eligibilite": [
+      "Être admis comme étudiant de première année à l'UF",
+      "Avoir postulé avant la date limite de priorité",
+      "Être évalué sur les notes, les scores de tests, les activités extrascolaires, le leadership, le service communautaire et l'essai personnel"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à l'Université de Floride avant la date limite de priorité (1er février)",
+      "2. Aucune candidature séparée n'est nécessaire pour les bourses au mérite",
+      "3. Attendre la notification par e-mail et mise à jour du statut d'ici mi-mars"
+    ],
+    "contacts": [
+      "352-392-1365"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://admissions.ufl.edu/cost-and-aid/scholarships?fbclid=IwY2xjawSiVSVleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHje8JSJCEUCvqK7gsiB8vGL0FWm9pKVTOmrala8iNd1if7AngEOBRKGPYMqo_aem_26K1BSh9dnCEZ4fHedwopw"
+      },
+      {
+        "label": "Bourses SFA",
+        "url": "https://www.sfa.ufl.edu/academic-scholarships/"
+      },
+      {
+        "label": "Bourses Bright Futures",
+        "url": "https://www.floridastudentfinancialaidsg.org/SAPHome/SAPHome?url=home"
+      },
+      {
+        "label": "Exigences de la bourse Benacquisto",
+        "url": "https://www.floridastudentfinancialaidsg.org/PDF/factsheets/FIS.pdf"
+      },
+      {
+        "label": "Programme Machen Florida Opportunity Scholars",
+        "url": "https://www.sfa.ufl.edu/mfos/"
+      },
+      {
+        "label": "Centre international UF",
+        "url": "https://internationalcenter.ufl.edu"
+      },
+      {
+        "label": "Recherche de bourses SFA",
+        "url": "https://www.sfa.ufl.edu/search"
+      },
+      {
+        "label": "Fastweb",
+        "url": "https://www.fastweb.com"
+      },
+      {
+        "label": "Petersons",
+        "url": "https://www.petersons.com"
+      },
+      {
+        "label": "BigFuture",
+        "url": "https://bigfuture.collegeboard.org/"
+      },
+      {
+        "label": "collegescholarships.org",
+        "url": "https://www.collegescholarships.org"
+      }
+    ],
+    "mots_cles": [
+      "bourse universite floride",
+      "bourse premier cycle",
+      "bourse merit",
+      "bourse presidentielle",
+      "exoneration frais scolarite",
+      "bourse internationale",
+      "uf scholarships",
+      "bourse etats-unis"
+    ],
+    "lien_candidature": "https://admissions.ufl.edu/cost-and-aid/scholarships",
+    "source_url": "https://admissions.ufl.edu/cost-and-aid/scholarships?fbclid=IwY2xjawSiVSVleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHje8JSJCEUCvqK7gsiB8vGL0FWm9pKVTOmrala8iNd1if7AngEOBRKGPYMqo_aem_26K1BSh9dnCEZ4fHedwopw",
+    "statut": "fermé",
+    "resume": "L'Université de Floride offre plusieurs bourses au mérite pour les étudiants de première année admis, sans candidature séparée. Les bourses présidentielles vont de 5 000 $ à 10 000 $ par an, et les exonérations de frais de scolarité hors État peuvent atteindre 20 000 $ par an. Environ 10 % des admis reçoivent une bourse, et les notifications sont envoyées d'ici mi-mars. Les étudiants internationaux sont également éligibles aux exonérations.",
+    "adresse": "Office of Admissions Division of Enrollment Management 201 Criser Hall - PO Box 114000 Gainesville, FL 32611-4000 352-392-1365  Instagram icon InsThreadstagram icon",
+    "extrait_le": "2026-06-19T17:03:11",
+    "slug": "bourses-premier-cycle-universite-floride-2026"
+  },
+  {
+    "titre": "Bourse de formation à la recherche (RTP) / Bourse de recherche postdoctorale de l'Université Deakin (DUPR)",
+    "seo_slug": "bourse-rtp-dupr-deakin-2026",
+    "organisation": "Deakin University",
+    "montant": 37450,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-03-13",
+    "deadline_texte": "13 mars 2026 (round domestique 2026), 23 août 2026 (round international 2027), 25 octobre 2026 (round domestique 2027)",
+    "niveau_etudes": [
+      "Doctorat",
+      "Master recherche"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Preuve de diplômes",
+      "Relevés de notes",
+      "CV",
+      "Lettre de motivation",
+      "Publications de recherche",
+      "Expérience professionnelle"
+    ],
+    "avantages": [
+      "Allocation de subsistance de 37 450 AUD par an (exonérée d'impôt)",
+      "Allocation de réinstallation de 500 à 1 500 AUD (selon situation familiale)",
+      "Couverture santé OSHC pour les candidats internationaux"
+    ],
+    "eligibilite": [
+      "Être étudiant domestique ou international inscrit dans un programme de recherche supérieure à Deakin",
+      "Avoir complété au moins quatre années d'études supérieures",
+      "Avoir obtenu 80% ou équivalent dans la composante recherche de leurs études antérieures",
+      "Ne pas recevoir une autre bourse équivalente du Commonwealth pour les frais de scolarité"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'admission aux diplômes de recherche.",
+      "2. Pour les chercheurs déjà inscrits : remplir le formulaire de candidature pour chercheurs déjà inscrits (DOCX).",
+      "3. Pour les nouveaux candidats : suivre le processus de candidature pour un diplôme de recherche.",
+      "4. Soumettre la candidature avant la date limite du round concerné."
+    ],
+    "contacts": [
+      "deakin-hdr-as@deakin.edu.au",
+      "+61 3 9918 9188"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs"
+      },
+      {
+        "label": "Conditions d'admission aux diplômes de recherche",
+        "url": "https://www.deakin.edu.au/research/research-degrees/research-degree-entry-requirements"
+      },
+      {
+        "label": "Procédure d'admission, sélection et inscription HDR",
+        "url": "https://policy.deakin.edu.au/view.current.php?id=00049"
+      },
+      {
+        "label": "Procédure de bourses HDR",
+        "url": "https://policy.deakin.edu.au/document/view-current.php?id=222"
+      },
+      {
+        "label": "Lignes directrices de classement 2025 (PDF)",
+        "url": "https://www.deakin.edu.au/__data/assets/pdf_file/0011/122213/deakin-gr-scholarship-applicant-assessment-guidelines.pdf"
+      },
+      {
+        "label": "Formulaire de candidature pour chercheurs déjà inscrits (DOCX)",
+        "url": "https://www.deakin.edu.au/__data/assets/word_doc/0016/122218/Currently_enrolled_GR_Scholarship_application.docx"
+      },
+      {
+        "label": "Comment postuler pour un diplôme de recherche",
+        "url": "https://www.deakin.edu.au/research/research-degrees/how-to-apply-for-a-research-degree"
+      },
+      {
+        "label": "Conditions générales RTP 2026 (PDF)",
+        "url": "https://www.deakin.edu.au/__data/assets/pdf_file/0029/175583/2026-RTP-Scholarship-Terms-and-Conditions.pdf"
+      },
+      {
+        "label": "Conditions générales DUPR 2026 (PDF)",
+        "url": "https://www.deakin.edu.au/__data/assets/pdf_file/0029/175592/2026-DUPR-Scholarship-Terms-and-Conditions.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse recherche",
+      "RTP",
+      "DUPR",
+      "Deakin",
+      "Australie",
+      "doctorat",
+      "master recherche",
+      "bourse internationale",
+      "2026"
+    ],
+    "lien_candidature": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs",
+    "source_url": "https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs",
+    "statut": "fermé",
+    "resume": "La bourse RTP/DUPR de l'Université Deakin offre une allocation de subsistance de 37 450 AUD par an, exonérée d'impôt, ainsi qu'une allocation de réinstallation et une couverture santé pour les étudiants internationaux. Destinée aux étudiants domestiques et internationaux inscrits en doctorat ou master recherche, elle finance jusqu'à 3 ans (doctorat) ou 2 ans (master). Les candidatures sont évaluées sur la base de l'excellence académique et de l'expérience en recherche. Les dates limites varient selon les rounds : domestique 2026 (13 mars 2026), international 2027 (23 août 2026) et domestique 2027 (25 octobre 2026).",
+    "adresse": "Melbourne, VIC, Australia",
+    "extrait_le": "2026-06-15T05:07:41",
+    "slug": "bourse-rtp-dupr-deakin-2026"
+  },
+  {
+    "titre": "Bourses d'entrée, prix et bourses pour les nouveaux étudiants de l'Université York",
+    "seo_slug": "bourses-entree-universite-york-canada-2026",
+    "organisation": "York University",
+    "montant": null,
+    "devise": "CAD",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-04-01",
+    "deadline_texte": "1 avril 2026 (pour la plupart des bourses)",
+    "niveau_etudes": [
+      "Premier cycle"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "Canada"
+    ],
+    "age_maximum": 21,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Relevé de notes",
+      "Lettre de motivation",
+      "Formulaire de candidature via MyFile"
+    ],
+    "avantages": [
+      "Bourse d'entrée renouvelable",
+      "Frais de résidence pour la première année (pour certains prix)"
+    ],
+    "eligibilite": [
+      "Être un candidat canadien de niveau secondaire",
+      "Avoir moins de 21 ans à la fin de l'année d'admission",
+      "Être sorti du secondaire à temps plein depuis moins de deux ans",
+      "Ne pas avoir suivi d'études dans un collège ou une université accréditée"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un programme de l'Université York et obtenir un numéro d'étudiant.",
+      "2. Se connecter à MyFile à partir du 1er décembre pour accéder au lien de candidature aux bourses.",
+      "3. Soumettre la candidature avant la date limite (certaines bourses ont une date limite au 15 février, la plupart au 1er avril).",
+      "4. Pour les bourses nécessitant une nomination (ex. Schulich Leader), suivre les procédures spécifiques."
+    ],
+    "contacts": [
+      "dtowers@yorku.ca",
+      "(416) 736-2100"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://futurestudents.yorku.ca/scholarships-incoming-students?fbclid=IwY2xjawSiVRhleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHje8JSJCEUCvqK7gsiB8vGL0FWm9pKVTOmrala8iNd1if7AngEOBRKGPYMqo_aem_26K1BSh9dnCEZ4fHedwopw"
+      },
+      {
+        "label": "Page des bourses d'entrée",
+        "url": "https://futurestudents.yorku.ca/scholarships-incoming-students"
+      },
+      {
+        "label": "Portail MyFile",
+        "url": "http://www.yorku.ca/myfile"
+      },
+      {
+        "label": "Bourse automatique d'entrée",
+        "url": "https://students.yorku.ca/sfs/scholarships-awards-bursaries?awardID=4138"
+      },
+      {
+        "label": "Bourse Schulich Leader",
+        "url": "http://schulichleaders.com"
+      },
+      {
+        "label": "Bourse Yorke Towne Supplies Ltd. Visionary Leadership",
+        "url": "https://students.yorku.ca/sfs/scholarships-awards-bursaries?awardID=2078"
+      },
+      {
+        "label": "Bourse John S. Proctor Entrance",
+        "url": "https://students.yorku.ca/sfs/scholarships-awards-bursaries?awardID=0268"
+      },
+      {
+        "label": "Bourse Alumni Entrance",
+        "url": "https://students.yorku.ca/sfs/scholarships-awards-bursaries?awardID=1078"
+      },
+      {
+        "label": "Bourse Murray Ross",
+        "url": "https://students.yorku.ca/sfs/scholarships-awards-bursaries?awardID=0912"
+      },
+      {
+        "label": "Bourse Honderich",
+        "url": "https://students.yorku.ca/sfs/scholarships-awards-bursaries?awardID=0450"
+      },
+      {
+        "label": "Prix d'excellence",
+        "url": "https://students.yorku.ca/sfs/scholarships-awards-bursaries?awardID=1251"
+      },
+      {
+        "label": "Bourse Harry Arthurs Alumni Families Entrance",
+        "url": "https://students.yorku.ca/sfs/scholarships-awards-bursaries?awardID=0750"
+      },
+      {
+        "label": "Bourse sportive d'entrée renouvelable",
+        "url": "https://students.yorku.ca/sfs/scholarships-awards-bursaries?awardID=3317"
+      },
+      {
+        "label": "Bourse du Président",
+        "url": "https://students.yorku.ca/sfs/scholarships-awards-bursaries?awardID=0300"
+      },
+      {
+        "label": "Bourse Chancellor Cory Entrance",
+        "url": "https://students.yorku.ca/sfs/scholarships-awards-bursaries?awardID=3561"
+      },
+      {
+        "label": "Prix Bennett pour étudiants noirs et autochtones",
+        "url": "https://students.yorku.ca/sfs/scholarships-awards-bursaries?awardID=5039"
+      },
+      {
+        "label": "Prix Bennett de première génération",
+        "url": "https://students.yorku.ca/sfs/scholarships-awards-bursaries?awardID=5041"
+      },
+      {
+        "label": "Prix Bennett Jane & Finch",
+        "url": "https://students.yorku.ca/sfs/scholarships-awards-bursaries?awardID=5042"
+      },
+      {
+        "label": "Bourses par faculté",
+        "url": "https://futurestudents.yorku.ca/financialsupport/awards-apply"
+      },
+      {
+        "label": "Programme d'aide financière de l'Ontario (OSAP)",
+        "url": "https://osap.yorku.ca/"
+      },
+      {
+        "label": "Aide financière pour les autres provinces",
+        "url": "https://students.yorku.ca/sfs/student-aid#prov"
+      },
+      {
+        "label": "Recherche de bourses Canlearn",
+        "url": "https://studentawards.com/"
+      },
+      {
+        "label": "Recherche de bourses York",
+        "url": "https://students.yorku.ca/sfs/scholarships-awards-bursaries"
+      }
+    ],
+    "mots_cles": [
+      "bourse université york",
+      "bourse entrée canada",
+      "bourse premier cycle ontario",
+      "bourse automatique york",
+      "bourse schulich leader",
+      "bourse pour étudiants canadiens",
+      "financement études york"
+    ],
+    "lien_candidature": "http://www.yorku.ca/myfile",
+    "source_url": "https://futurestudents.yorku.ca/scholarships-incoming-students?fbclid=IwY2xjawSiVRhleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHje8JSJCEUCvqK7gsiB8vGL0FWm9pKVTOmrala8iNd1if7AngEOBRKGPYMqo_aem_26K1BSh9dnCEZ4fHedwopw",
+    "statut": "fermé",
+    "resume": "L'Université York offre plus de 20 millions de dollars canadiens en bourses d'entrée chaque année aux candidats canadiens de niveau secondaire. Les bourses sont attribuées en fonction de la moyenne d'admission, du leadership et de l'engagement communautaire. Certaines bourses sont automatiques, d'autres nécessitent une candidature via le portail MyFile avant le 1er avril 2026. Les montants varient de 500 $ à 120 000 $ sur quatre ans, avec des possibilités de renouvellement.",
+    "extrait_le": "2026-06-19T17:04:46",
+    "slug": "bourses-entree-universite-york-canada-2026"
+  },
+  {
+    "titre": "Bourses France Excellence pour doctorants togolais 2026-2027",
+    "seo_slug": "bourses-france-excellence-doctorat-togo-2026",
+    "organisation": "Ambassade de France au Togo",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-05-24",
+    "deadline_texte": "24 mai 2026 à 23h59",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Santé",
+      "Sciences animales et végétales",
+      "Agronomie",
+      "Alimentation",
+      "Numérique",
+      "Intelligence artificielle",
+      "Quantique",
+      "Biotechnologies",
+      "Énergies durables",
+      "Sciences de l'environnement",
+      "Mobilités bas carbone",
+      "Technologies de l'information et de la communication"
+    ],
+    "pays_eligibles": [
+      "Togo"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Français",
+    "documents_requis": [
+      "Formulaire de demande de bourse",
+      "Lettre d'acceptation ou de pré-acceptation d'un établissement français",
+      "Diplôme de Master 2, DEA ou équivalent",
+      "Relevés de notes"
+    ],
+    "avantages": [
+      "Prise en charge des frais de transport aller/retour entre Lomé et le lieu de formation en France",
+      "Couverture sociale",
+      "Allocation d'entretien mensuelle",
+      "Aide de Campus France pour trouver un logement",
+      "Visa délivré à titre gracieux"
+    ],
+    "eligibilite": [
+      "Être de nationalité togolaise (les binationaux franco-togolais ne sont pas éligibles)",
+      "Âgé(e) de 35 ans au plus au 1er janvier 2026",
+      "Être titulaire d'un Master 2, DEA ou équivalent à la fin de l'année universitaire 2025/2026",
+      "Avoir obtenu une moyenne minimum de 15/20 au Master 2 ou équivalence",
+      "Avoir une lettre d'acceptation ou de pré-acceptation dans un établissement français",
+      "Avoir effectué tout ou partie de ses études supérieures au Togo",
+      "Être inscrit en doctorat"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'éligibilité",
+      "2. Obtenir une lettre d'acceptation ou de pré-acceptation d'un établissement français",
+      "3. Remplir le formulaire de demande de bourse",
+      "4. Envoyer le dossier complet avant le 24 mai 2026 à 23h59"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://tg.diplomatie.gouv.fr/poursuivez-vos-etudes-superieures-2026-2027-en-france-grace-aux-bourses-france-excellence?fbclid=IwY2xjawSnX7FleHRuA2FlbQIxMABicmlkETF0T1JSbVJRS1BqNjRSclZic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvY0TFQgCG2H4BssFmcHvbDDVan9_RvwTBYXAk76mFVAam4h0napSrIruLVw_aem_SyG3NiIiH6pjdca_36pnnQ"
+      },
+      {
+        "label": "Appel à candidature PDF",
+        "url": "https://tg.ambafrance.org/files/tg/files/appel-a-candidature-bourses-france-excellence_2026-27.pdf"
+      },
+      {
+        "label": "Formulaire de demande de bourse PDF",
+        "url": "https://tg.ambafrance.org/files/tg/files/formulaire_bourse-doctorat.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat France",
+      "bourse France Excellence Togo",
+      "bourse Ambassade France Togo",
+      "doctorat France 2026",
+      "bourse mobilité doctorant"
+    ],
+    "lien_candidature": "https://tg.ambafrance.org/Poursuivez-vos-etudes-superieures-2026-2027-en-France-grace-aux-Bourses-France",
+    "source_url": "manuel",
+    "statut": "fermé",
+    "resume": "L'Ambassade de France au Togo offre deux bourses France Excellence pour l'année universitaire 2026-2027 aux doctorants togolais. Les bourses financent des séjours en France dans des domaines prioritaires comme la santé, le numérique ou les énergies durables. Les candidats doivent être togolais, âgés de moins de 35 ans, titulaires d'un Master 2 avec une moyenne d'au moins 15/20, et avoir une lettre d'acceptation d'un établissement français. Les candidatures féminines sont fortement encouragées.",
+    "extrait_le": "2026-06-23T12:52:51",
+    "slug": "bourses-france-excellence-doctorat-togo-2026"
+  },
+  {
+    "titre": "Bourse Glenmore pour Études Supérieures",
+    "seo_slug": "bourse-glenmore-master-edimbourg-2026",
+    "organisation": "University of Edinburgh",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-15",
+    "deadline_texte": "15 juin 2026",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Médecine humaine",
+      "Soins intensifs",
+      "Éducation clinique",
+      "Science des données pour la santé",
+      "Santé mondiale et maladies infectieuses",
+      "Sciences chirurgicales",
+      "Biologie du cancer et oncologie de précision",
+      "Santé publique",
+      "Médecine familiale",
+      "Anatomie humaine",
+      "Sciences biomédicales",
+      "Neurosciences intégratives",
+      "Sciences de la reproduction",
+      "Médecine régénérative et réparation tissulaire"
+    ],
+    "pays_eligibles": [
+      "Afghanistan",
+      "Algérie",
+      "Angola",
+      "Bangladesh",
+      "Bénin",
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Cambodge",
+      "Cameroun",
+      "Cap-Vert",
+      "République centrafricaine",
+      "Tchad",
+      "Comores",
+      "Congo",
+      "Côte d'Ivoire",
+      "République démocratique du Congo",
+      "Djibouti",
+      "Égypte",
+      "Guinée équatoriale",
+      "Érythrée",
+      "Eswatini",
+      "Éthiopie",
+      "Gabon",
+      "Gambie",
+      "Ghana",
+      "Guinée",
+      "Guinée-Bissau",
+      "Haïti",
+      "Kenya",
+      "Kiribati",
+      "République démocratique populaire lao",
+      "Lesotho",
+      "Libéria",
+      "Libye",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mauritanie",
+      "Maurice",
+      "Maroc",
+      "Mozambique",
+      "Myanmar",
+      "Namibie",
+      "Népal",
+      "Niger",
+      "Nigeria",
+      "Rwanda",
+      "Sao Tomé-et-Principe",
+      "Sénégal",
+      "Sierra Leone",
+      "Îles Salomon",
+      "Somalie",
+      "Afrique du Sud",
+      "Soudan du Sud",
+      "Soudan",
+      "Tanzanie",
+      "Timor-Leste",
+      "Togo",
+      "Tunisie",
+      "Tuvalu",
+      "Ouganda",
+      "Sahara occidental",
+      "Yémen",
+      "Zambie",
+      "Zimbabwe"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Lettre de motivation (personal statement)",
+      "Preuve d'admission et d'acceptation ferme sur un programme éligible"
+    ],
+    "avantages": [
+      "Frais de scolarité complets",
+      "Frais de programme supplémentaires"
+    ],
+    "eligibilite": [
+      "Être accepté pour l'année académique 2026-2027 sur l'un des programmes éligibles listés",
+      "Avoir fermement accepté l'offre d'admission ou avoir l'intention de le faire",
+      "Être domicilié dans un pays éligible listé",
+      "Avoir ou s'attendre à obtenir l'équivalent étranger d'un diplôme britannique de première classe (first-class honours)",
+      "Rédiger une déclaration personnelle répondant aux trois questions posées (max 3500 caractères)",
+      "Priorité aux candidats n'ayant pas eu l'opportunité d'étudier au niveau Master auparavant",
+      "Priorité aux candidats ayant une offre inconditionnelle au moment de la date limite"
+    ],
+    "procedure_etapes": [
+      "1. Postuler pour l'admission à l'Université d'Édimbourg sur un programme éligible",
+      "2. Recevoir une offre d'admission et l'accepter fermement",
+      "3. Accéder au portail MyEd (https://www.myed.ed.ac.uk) avec votre UUN et mot de passe",
+      "4. Compléter le formulaire de candidature en ligne pour la bourse dans EUCLID",
+      "5. Soumettre avant le 15 juin 2026 à 23h59 (heure du Royaume-Uni)"
+    ],
+    "contacts": [
+      "EconPGR.enquiries@ed.ac.uk",
+      "pgrawards-MVM@ed.ac.uk",
+      "futurestudents@ed.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/e-learning/glenmore"
+      },
+      {
+        "label": "Portail MyEd",
+        "url": "https://www.myed.ed.ac.uk"
+      },
+      {
+        "label": "Aide pour la connexion",
+        "url": "http://www.ed.ac.uk/student-systems/support-guidance"
+      },
+      {
+        "label": "Guide de candidature aux bourses",
+        "url": "https://registryservices.ed.ac.uk/student-systems/support-guidance/applicants/apply-scholarship"
+      },
+      {
+        "label": "FAQ sur les systèmes de bourses (PDF)",
+        "url": "https://registryservices.ed.ac.uk/sites/default/files/2025-10/Scholarships%20Systems%20FAQs%20for%20Applicants_1.pdf"
+      },
+      {
+        "label": "Liste DAC des bénéficiaires d'APD 2026-2027 (PDF)",
+        "url": "https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/DAC-List-of-ODA-Recipients-for-reporting-2024-25-flows.pdf"
+      },
+      {
+        "label": "Page des programmes de troisième cycle",
+        "url": "https://study.ed.ac.uk/postgraduate"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "master",
+      "Édimbourg",
+      "médecine",
+      "santé",
+      "Royaume-Uni",
+      "2026",
+      "frais de scolarité complets",
+      "pays en développement",
+      "Afrique"
+    ],
+    "lien_candidature": "https://www.myed.ed.ac.uk",
+    "source_url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/e-learning/glenmore",
+    "statut": "fermé",
+    "resume": "La bourse Glenmore de l'Université d'Édimbourg offre trois bourses complètes couvrant l'intégralité des frais de scolarité pour des programmes de master en médecine humaine, en ligne ou sur campus, pour l'année 2026-2027. Destinée aux étudiants domiciliés dans des pays éligibles (principalement africains), elle privilégie les candidats n'ayant pas encore étudié au niveau master. Les candidats doivent être admis et avoir fermement accepté une offre sur un programme éligible, puis soumettre une déclaration personnelle avant le 15 juin 2026.",
+    "extrait_le": "2026-06-15T04:30:01",
+    "slug": "bourse-glenmore-master-edimbourg-2026"
+  },
+  {
+    "titre": "Bourse du Programme de Formation à la Recherche du Gouvernement Australien (Internationale)",
+    "seo_slug": "bourse-gouvernement-australien-recherche-international-2026",
+    "organisation": "Flinders University",
+    "montant": 36061,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-18",
+    "deadline_texte": "18 juin 2026",
+    "niveau_etudes": [
+      "Doctorat",
+      "Master par recherche"
+    ],
+    "domaines": [
+      "Tous domaines de recherche"
+    ],
+    "pays_eligibles": [
+      "Tous sauf Nouvelle-Zélande"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Relevés de notes universitaires certifiés",
+      "Proposition de recherche (500 mots)",
+      "Rapports de référents académiques (2)",
+      "Preuve de publications (max 5)",
+      "Preuve de compétence en anglais",
+      "Preuve d'accord du superviseur"
+    ],
+    "avantages": [
+      "Allocation de subsistance de 36 061 AUD par an (exonérée d'impôt)",
+      "Exonération des frais de scolarité (RTP) jusqu'à 4 ans",
+      "Allocation d'installation jusqu'à 1 485 AUD pour frais de déménagement et billets d'avion",
+      "Couverture santé Overseas Health Care"
+    ],
+    "eligibilite": [
+      "Être citoyen d'un pays autre que la Nouvelle-Zélande",
+      "Ne pas détenir la citoyenneté australienne, la résidence permanente australienne ou la citoyenneté néo-zélandaise",
+      "Commencer un diplôme supérieur par recherche en Australie pour la première fois",
+      "S'inscrire dans un domaine de recherche prioritaire de l'université",
+      "Satisfaire aux exigences d'entrée, y compris le niveau d'anglais (test valide jusqu'au 31 mars 2027)",
+      "S'engager à suivre un programme à temps plein"
+    ],
+    "procedure_etapes": [
+      "1. Contacter un superviseur académique à Flinders University et obtenir un accord informel.",
+      "2. Soumettre une demande d'admission au diplôme supérieur par recherche via Studylink.",
+      "3. Activer votre compte Flinders pour obtenir un FAN.",
+      "4. Soumettre une demande de bourse via le Student System pour le groupe International RHD Scholarship.",
+      "5. Joindre tous les documents requis (CV, relevés de notes, proposition de recherche, publications, rapports de référents, preuve d'anglais, preuve d'accord du superviseur).",
+      "6. S'assurer que les rapports de référents sont envoyés à hdr.scholarships@flinders.edu.au avant la date limite."
+    ],
+    "contacts": [
+      "hdr.scholarships@flinders.edu.au",
+      "1300 354 633"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.flinders.edu.au/scholarships/australian-government-research-training-program-scholarship-international"
+      },
+      {
+        "label": "Liste de contrôle et directives de candidature (PDF)",
+        "url": "https://www.flinders.edu.au/content/dam/documents/scholarships/scholarship-application-checklist-guidelines%20for%202027.pdf"
+      },
+      {
+        "label": "Foire aux questions (PDF)",
+        "url": "https://www.flinders.edu.au/content/dam/documents/scholarships/2027%20hdr-scholarships-international-fact-sheet.pdf"
+      },
+      {
+        "label": "Conditions d'attribution (PDF)",
+        "url": "https://www.flinders.edu.au/content/dam/documents/scholarships/agrtps-international-conditions-award_2027.pdf"
+      },
+      {
+        "label": "Couverture de publication (PDF)",
+        "url": "https://www.flinders.edu.au/content/dam/documents/scholarships/international%20publication-cover-sheet-main%202027.pdf"
+      },
+      {
+        "label": "Rapport confidentiel du référent (PDF)",
+        "url": "https://www.flinders.edu.au/content/dam/documents/scholarships/agrtpsiF"
+      },
+      {
+        "label": "Exigences de compétence en anglais pour HDR (PDF)",
+        "url": "https://www.flinders.edu.au/content/dam/documents/staff/policies/academic-students/english-language-proficiency-requirements-hdr.pdf"
+      },
+      {
+        "label": "Comment postuler pour une bourse",
+        "url": "https://students.flinders.edu.au/finances-and-admin/support/scholarships#how-to-apply-scholarship"
+      },
+      {
+        "label": "Portail de candidature Studylink",
+        "url": "https://student-flinders.studylink.com/index.cfm?event=security.showLogin&msg=eventsecured&fr=sp&en=default"
+      },
+      {
+        "label": "Activation du compte Flinders",
+        "url": "https://activate.flinders.edu.au/main"
+      },
+      {
+        "label": "Réactivation FAN",
+        "url": "https://eapplicant.flinders.edu.au/reactivate"
+      },
+      {
+        "label": "Trouver un superviseur",
+        "url": "https://www.flinders.edu.au/international/apply/apply-research-degree/find-research-supervisor"
+      },
+      {
+        "label": "Demande de diplôme par recherche",
+        "url": "https://www.flinders.edu.au/international/apply/apply-research-degree"
+      },
+      {
+        "label": "Comment postuler pour l'admission internationale",
+        "url": "https://www.flinders.edu.au/international/apply/apply-research-degree/how-to-apply"
+      },
+      {
+        "label": "AskFlinders (questions sur la bourse)",
+        "url": "https://askflinders.microsoftcrmportals.com/"
+      }
+    ],
+    "mots_cles": [
+      "bourse australienne",
+      "recherche doctorat",
+      "Flinders University",
+      "bourse internationale",
+      "RTP",
+      "AGRTPS",
+      "allocation de subsistance",
+      "études supérieures recherche"
+    ],
+    "lien_candidature": "https://student-flinders.studylink.com/index.cfm?event=security.showLogin&msg=eventsecured&fr=sp&en=default",
+    "source_url": "https://www.flinders.edu.au/scholarships/australian-government-research-training-program-scholarship-international",
+    "statut": "fermé",
+    "resume": "La bourse du Programme de Formation à la Recherche du Gouvernement Australien (AGRTPS) à Flinders University offre une allocation de subsistance de 36 061 AUD par an, exonérée d'impôt, ainsi qu'une exonération des frais de scolarité et une couverture santé pour les étudiants internationaux poursuivant un doctorat ou un master par recherche. Cette bourse très compétitive est attribuée sur la base du mérite académique et du potentiel de recherche. Les candidats doivent avoir un superviseur, fournir jusqu'à cinq publications et satisfaire aux exigences de langue anglaise. La date limite de candidature est le 18 juin 2026.",
+    "adresse": "Level 0, Central Library, Bedford Park campus",
+    "extrait_le": "2026-06-15T02:32:57",
+    "slug": "bourse-gouvernement-australien-recherche-international-2026"
+  },
+  {
+    "titre": "Bourses du Fonds Commémoratif de l'École Polonaise de Médecine",
+    "seo_slug": "bourse-polish-school-medicine-edimbourg-2026",
+    "organisation": "University of Edinburgh",
+    "montant": null,
+    "devise": "GBP",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-06-18",
+    "deadline_texte": "18 juin 2026 à 23h59 (heure du Royaume-Uni)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Médecine",
+      "Recherche médicale"
+    ],
+    "pays_eligibles": [
+      "Pologne"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Candidature en ligne",
+      "Rapport de bourse (après le programme)"
+    ],
+    "avantages": [
+      "Allocation de subsistance pour 1 à 12 mois",
+      "Aide aux frais de scolarité (pour un nombre limité de candidats)",
+      "Pour les programmes à distance : prise en charge des frais de scolarité (pas d'allocation de subsistance)"
+    ],
+    "eligibilite": [
+      "Être un médecin ou scientifique polonais",
+      "Début de carrière (généralement dans les 10 ans suivant l'obtention du diplôme de médecine - équivalent MB ChB)",
+      "Travailler dans une académie/université médicale polonaise ou un institut de recherche",
+      "Excellente maîtrise de l'anglais",
+      "S'engager à développer l'expertise en recherche médicale en Pologne",
+      "Accepter de fournir un rapport de bourse dans le mois suivant la fin du programme",
+      "Retourner en Pologne après le programme",
+      "Utiliser les compétences acquises pour améliorer la médecine polonaise et renforcer les liens académiques"
+    ],
+    "procedure_etapes": [
+      "1. Postuler pour l'admission à l'University of Edinburgh (un programme de master enseigné ou de recherche).",
+      "2. Attendre jusqu'à 5 jours ouvrés pour l'accès au système de candidature aux bourses.",
+      "3. Compléter le formulaire de candidature en ligne via EUCLID (MyEd) : https://www.myed.ed.ac.uk",
+      "4. Utiliser votre UUN et mot de passe pour vous connecter.",
+      "5. Soumettre la candidature avant le 18 juin 2026 à 23h59 (heure du Royaume-Uni)."
+    ],
+    "contacts": [
+      "EconPGR.enquiries@ed.ac.uk",
+      "PSMscourse@ed.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/international/medicine-vet-medicine/polish-school-of-medicine-memorial-fund-scholarshi"
+      },
+      {
+        "label": "Portail MyEd",
+        "url": "https://www.myed.ed.ac.uk"
+      },
+      {
+        "label": "Assistance pour les systèmes étudiants",
+        "url": "http://www.ed.ac.uk/student-systems/support-guidance"
+      },
+      {
+        "label": "Guide de candidature aux bourses",
+        "url": "https://registryservices.ed.ac.uk/student-systems/support-guidance/applicants/apply-scholarship"
+      },
+      {
+        "label": "FAQ sur les systèmes de bourses (PDF)",
+        "url": "https://registryservices.ed.ac.uk/sites/default/files/2025-10/Scholarships%20Systems%20FAQs%20for%20Applicants_1.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "Pologne",
+      "médecine",
+      "recherche",
+      "Edimbourg",
+      "master",
+      "2026",
+      "Polish School of Medicine"
+    ],
+    "lien_candidature": "https://www.myed.ed.ac.uk",
+    "source_url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/international/medicine-vet-medicine/polish-school-of-medicine-memorial-fund-scholarshi",
+    "statut": "fermé",
+    "resume": "La bourse du Fonds Commémoratif de l'École Polonaise de Médecine permet à des médecins et scientifiques polonais en début de carrière d'effectuer un master ou une recherche à l'University of Edinburgh. L'aide comprend une allocation de subsistance pour 1 à 12 mois et, pour certains, une aide aux frais de scolarité. Les candidats doivent postuler à l'admission puis remplir un formulaire en ligne avant le 18 juin 2026.",
+    "extrait_le": "2026-06-15T04:31:54",
+    "slug": "bourse-polish-school-medicine-edimbourg-2026"
+  },
+  {
+    "titre": "Appel à candidatures : Groupe consultatif Youth4Rights",
+    "seo_slug": "youth4rights-advisory-group-2026",
+    "organisation": "Haut-Commissariat des Nations Unies aux droits de l'homme (OHCHR)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "volontariat (sans rémunération)",
+    "deadline": "2026-06-21",
+    "deadline_texte": "21 juin 2026, 23h59 (CET)",
+    "niveau_etudes": [],
+    "domaines": [
+      "Droits humains"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": 28,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Frais de voyage entièrement couverts pour la participation aux événements et activités de l'Alliance mondiale pour les droits humains"
+    ],
+    "eligibilite": [
+      "Âgé de 18 à 28 ans au 12 août 2026",
+      "Minimum 2 ans d'expérience dans la promotion des droits humains ou une cause connexe au niveau local ou national",
+      "Maîtrise de l'anglais (niveau de travail)"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne avant le 21 juin 2026, 23h59 (CET)."
+    ],
+    "contacts": [
+      "ohchr-InfoDesk@un.org",
+      "+41 22 917 9220"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.ohchr.org/en/youth/call-applications-youth4rights-advisory-group?fbclid=IwY2xjawSiTwhleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkGmP8O24pQVuHrY96xiZZwBu2tXBMOgdMzr7POS4Ky32e_b6MDf8NoFgUCm_aem_OFhJ9svyv7ft0FG0x5eQbQ"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://forms.cloud.microsoft/e/NLEFQf2Jjb"
+      },
+      {
+        "label": "Page d'accueil OHCHR Jeunesse",
+        "url": "https://www.ohchr.org/en/youth"
+      },
+      {
+        "label": "Alliance mondiale pour les droits humains",
+        "url": "https://www.ohchr.org/en/global-alliance"
+      }
+    ],
+    "mots_cles": [
+      "Youth4Rights",
+      "groupe consultatif",
+      "droits humains",
+      "jeunes",
+      "OHCHR",
+      "Alliance mondiale",
+      "bénévole",
+      "2026"
+    ],
+    "lien_candidature": "https://forms.cloud.microsoft/e/NLEFQf2Jjb",
+    "source_url": "https://www.ohchr.org/en/youth/call-applications-youth4rights-advisory-group?fbclid=IwY2xjawSiTwhleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkGmP8O24pQVuHrY96xiZZwBu2tXBMOgdMzr7POS4Ky32e_b6MDf8NoFgUCm_aem_OFhJ9svyv7ft0FG0x5eQbQ",
+    "statut": "fermé",
+    "resume": "Rejoignez le Groupe consultatif Youth4Rights et devenez une force motrice du mouvement mondial des droits humains. Ce groupe de 12 jeunes, âgés de 18 à 28 ans, conseillera l'Alliance mondiale pour les droits humains. Les membres, sélectionnés sans nécessité d'expertise spécifique, s'engagent bénévolement environ 8 heures par mois, avec frais de voyage couverts. Postulez avant le 21 juin 2026.",
+    "adresse": "Office of the United Nations High Commissioner for Human Rights (OHCHR) Palais Wilson 52 rue des Pâquis CH-1201 Geneva, Switzerland.",
+    "extrait_le": "2026-06-19T16:37:29",
+    "slug": "youth4rights-advisory-group-2026"
+  },
+  {
+    "titre": "Bourse Rhodes 2027 pour les candidats internationaux (hors pays spécifiques)",
+    "seo_slug": "bourse-rhodes-global-2027",
+    "organisation": "Rhodes Trust",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Monde entier (hors pays avec bourse dédiée)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Frais de scolarité complets",
+      "Allocation de subsistance",
+      "Frais de voyage"
+    ],
+    "eligibilite": [
+      "Être un jeune exceptionnel",
+      "Avoir un diplôme de premier cycle",
+      "Répondre aux critères de sélection Rhodes"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page d'information sur la bourse Rhodes",
+      "2. Lire les critères de sélection",
+      "3. Vérifier son éligibilité et postuler via la circonscription appropriée",
+      "4. Consulter la FAQ"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/global/?utm_id=97758_v0_s00_e0_tv1_a1den5f08gvbpa&fbclid=IwY2xjawSgKdtleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpyMbwCZbTgk8CNvtC9gFQVCFbuZahtqf1GQwLYKuETk7gfr-IIOp4C6fiMd_aem_MsZ0MXTslcl-plcpZoU4uw"
+      },
+      {
+        "label": "Page d'information sur la bourse Rhodes",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/"
+      },
+      {
+        "label": "Critères de sélection",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/selection-criteria/"
+      },
+      {
+        "label": "Vérifier l'éligibilité et postuler",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/faqs/"
+      },
+      {
+        "label": "Autres opportunités de financement",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/other-scholarship-opportunities/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Rhodes",
+      "Oxford",
+      "études supérieures",
+      "bourse internationale",
+      "2027"
+    ],
+    "lien_candidature": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/global/?utm_id=97758_v0_s00_e0_tv1_a1den5f08gvbpa&fbclid=IwY2xjawSgKdtleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpyMbwCZbTgk8CNvtC9gFQVCFbuZahtqf1GQwLYKuETk7gfr-IIOp4C6fiMd_aem_MsZ0MXTslcl-plcpZoU4uw",
+    "source_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/global/?utm_id=97758_v0_s00_e0_tv1_a1den5f08gvbpa&fbclid=IwY2xjawSgKdtleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpyMbwCZbTgk8CNvtC9gFQVCFbuZahtqf1GQwLYKuETk7gfr-IIOp4C6fiMd_aem_MsZ0MXTslcl-plcpZoU4uw",
+    "statut": "fermé",
+    "resume": "La bourse Rhodes 2027 pour les candidats internationaux (hors pays spécifiques) est actuellement suspendue. Ce programme prestigieux permettait d'étudier à l'Université d'Oxford tous frais payés. Les candidats intéressés sont invités à consulter d'autres opportunités de financement.",
+    "extrait_le": "2026-06-18T01:33:08",
+    "slug": "bourse-rhodes-global-2027"
   }
 ]

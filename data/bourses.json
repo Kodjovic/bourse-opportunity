@@ -1,413 +1,5 @@
 [
   {
-    "titre": "Appel à Volontaires pour le Symposium Économique Africain (AES) 2026",
-    "seo_slug": "volontaires-symposium-economique-africain-2026",
-    "organisation": "Policy Center for the New South",
-    "montant": 0,
-    "devise": "EUR",
-    "type_financement": "non rémunéré",
-    "deadline": "2026-06-26",
-    "deadline_texte": "26 juin 2026",
-    "niveau_etudes": [
-      "Licence",
-      "Master"
-    ],
-    "domaines": [
-      "Économie",
-      "Relations internationales",
-      "Développement"
-    ],
-    "pays_eligibles": [
-      "Tous pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais, Français ou Arabe",
-    "documents_requis": [
-      "CV",
-      "Lettre de motivation"
-    ],
-    "avantages": [
-      "Repas fournis",
-      "Hébergement possible sur demande"
-    ],
-    "eligibilite": [
-      "Étudiant ou jeune professionnel très motivé",
-      "Maîtrise de l'anglais et de préférence du français ou de l'arabe",
-      "Excellentes compétences en communication",
-      "Intérêt pour les enjeux économiques africains",
-      "Flexibilité horaire et capacité à gérer des tâches logistiques et administratives",
-      "Expérience en gestion d'événements souhaitable mais non essentielle",
-      "Ponctualité, fiabilité et professionnalisme"
-    ],
-    "procedure_etapes": [
-      "1. Remplir le formulaire de candidature en ligne",
-      "2. Joindre un CV à jour et une lettre de motivation",
-      "3. Inclure le numéro de téléphone dans le CV et la lettre de motivation",
-      "4. Soumettre avant le 26 juin 2026",
-      "5. Les entretiens commenceront à partir du 1er juillet 2026"
-    ],
-    "contacts": [
-      "contact@policycenter.ma",
-      "+212 5 37 54 04 04"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://www.policycenter.ma/jobs/africa-economic-symposium-aes-2026-call-volunteers?fbclid=IwY2xjawSiUHlleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsyS-z0fB5KVDeTY-dLSoy7mreymvPhviomhIaYwEzQovAGOfYCnesppeyQY_aem_tDseBJkzv6bkWJnr4xu4-w"
-      },
-      {
-        "label": "Site officiel du Symposium",
-        "url": "https://www.policycenter.ma/events/africa-economic-symposium-aes-4th-edition-turning-transitions-growth"
-      }
-    ],
-    "mots_cles": [
-      "volontariat",
-      "symposium économique",
-      "Afrique",
-      "Policy Center",
-      "Rabat",
-      "2026",
-      "événement",
-      "étudiants"
-    ],
-    "lien_candidature": "https://www.policycenter.ma/jobs/africa-economic-symposium-aes-2026-call-volunteers?fbclid=IwY2xjawSiUHlleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsyS-z0fB5KVDeTY-dLSoy7mreymvPhviomhIaYwEzQovAGOfYCnesppeyQY_aem_tDseBJkzv6bkWJnr4xu4-w",
-    "source_url": "https://www.policycenter.ma/jobs/africa-economic-symposium-aes-2026-call-volunteers?fbclid=IwY2xjawSiUHlleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsyS-z0fB5KVDeTY-dLSoy7mreymvPhviomhIaYwEzQovAGOfYCnesppeyQY_aem_tDseBJkzv6bkWJnr4xu4-w",
-    "statut": "ouvert",
-    "resume": "Le Policy Center for the New South recrute des volontaires pour la 4e édition du Symposium Économique Africain (AES) qui se tiendra à Rabat les 13 et 14 juillet 2026. Les volontaires assisteront l'équipe dans les tâches logistiques, de production, de communication et médiatiques. Cette opportunité non rémunérée offre une expérience pratique de l'organisation d'événements de haut niveau, avec repas fournis et hébergement possible. Les candidatures sont ouvertes jusqu'au 26 juin 2026.",
-    "adresse": "Policy Center for the New South Rabat Campus of Mohammed VI Polytechnic University Rocade Rabat Salé 11103 Morocco",
-    "extrait_le": "2026-06-19T16:44:15",
-    "slug": "volontaires-symposium-economique-africain-2026"
-  },
-  {
-    "titre": "Bourse NGFP Fellowship 2027",
-    "seo_slug": "ngfp-fellowship-2027",
-    "organisation": "Next Generation Foresight Practitioners (NGFP)",
-    "montant": 1000,
-    "devise": "USD",
-    "type_financement": "bourse de projet",
-    "deadline": "2026-06-26",
-    "deadline_texte": "26 juin 2026 à 23h59 GMT+1",
-    "niveau_etudes": [
-      "Professionnel"
-    ],
-    "domaines": [
-      "Foresight",
-      "Prospective",
-      "Changements climatiques",
-      "Démocratie",
-      "Technologies émergentes",
-      "Santé",
-      "Paix",
-      "Futurs ruraux"
-    ],
-    "pays_eligibles": [
-      "Monde entier",
-      "Asie",
-      "Afrique",
-      "MENA",
-      "Caraïbes",
-      "Amérique centrale",
-      "Amérique du Sud",
-      "Îles du Pacifique",
-      "Balkans"
-    ],
-    "age_maximum": 35,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne"
-    ],
-    "avantages": [
-      "Fond de démarrage de 1 000 USD",
-      "Possibilité de gagner un grand prix de 10 000 USD",
-      "Plateforme de mise en réseau",
-      "Partenaire de projet (praticien expert)",
-      "Formation en prospective",
-      "Newsletters bi-hebdomadaires",
-      "Participation à des hubs régionaux",
-      "Participation à des événements"
-    ],
-    "eligibilite": [
-      "Âge 18-35 ans (ou plus de 35 ans avec moins d'un an d'expérience en prospective)",
-      "Débutant dans le domaine de la prospective",
-      "Engagé dans la construction de communautés",
-      "Porteur d'un projet visionnaire axé sur le futur",
-      "Apprenant collaboratif avec une vision à long terme (10 ans)",
-      "De n'importe où dans le monde, priorité Asie et Afrique"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les critères d'éligibilité",
-      "2. Préparer votre projet",
-      "3. Soumettre votre candidature en ligne avant le 26 juin 2026",
-      "4. Participer aux sessions Q&A si nécessaire",
-      "5. Attendre les résultats (juillet-septembre 2026)",
-      "6. Si sélectionné, participer à l'orientation en janvier 2027"
-    ],
-    "contacts": [
-      "fellowship@nextgenforesight.org"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://nextgenforesight.org/fellowship/?fbclid=IwY2xjawSiUT5leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHje8JSJCEUCvqK7gsiB8vGL0FWm9pKVTOmrala8iNd1if7AngEOBRKGPYMqo_aem_26K1BSh9dnCEZ4fHedwopw"
-      },
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://apply.nextgenforesight.org/register"
-      },
-      {
-        "label": "Sessions Q&A et enregistrements",
-        "url": "https://nextgenforesight.org/fellowship/qas-and-workshops/"
-      },
-      {
-        "label": "Missions de transformation prospective",
-        "url": "https://nextgenforesight.org/fellowship/foresight-transformation-missions/"
-      },
-      {
-        "label": "Bourse Balkans",
-        "url": "https://nextgenforesight.org/fellowship/the-balkans-fellowship/"
-      },
-      {
-        "label": "Bourse MENA",
-        "url": "https://nextgenforesight.org/the-mena-fellowship/"
-      },
-      {
-        "label": "FAQ",
-        "url": "https://nextgenforesight.org/fellowship/apply/faqs/"
-      },
-      {
-        "label": "Termes et conditions",
-        "url": "https://nextgenforesight.org/fellowship/apply/terms-and-conditions/"
-      },
-      {
-        "label": "À propos de NGFP",
-        "url": "https://nextgenforesight.org/about-us/"
-      },
-      {
-        "label": "Parcours du fellowship",
-        "url": "https://nextgenforesight.org/fellowship/journey"
-      }
-    ],
-    "mots_cles": [
-      "bourse prospective",
-      "fellowship foresight",
-      "jeunes professionnels",
-      "projet visionnaire",
-      "réseau mondial",
-      "financement projet",
-      "NGFP",
-      "2027"
-    ],
-    "lien_candidature": "https://apply.nextgenforesight.org/register",
-    "source_url": "https://nextgenforesight.org/fellowship/?fbclid=IwY2xjawSiUT5leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHje8JSJCEUCvqK7gsiB8vGL0FWm9pKVTOmrala8iNd1if7AngEOBRKGPYMqo_aem_26K1BSh9dnCEZ4fHedwopw",
-    "statut": "ouvert",
-    "resume": "La bourse NGFP Fellowship 2027 est ouverte aux jeunes professionnels de 18 à 35 ans (ou plus avec moins d'un an d'expérience) du monde entier, avec une priorité pour l'Asie et l'Afrique. Elle offre un fonds de démarrage de 1 000 USD, un accompagnement par un expert, une formation en prospective et la possibilité de gagner 10 000 USD. Les candidatures sont à soumettre avant le 26 juin 2026.",
-    "adresse": "Onega House, 112 Main Road Sidcup, Kent DA14 6NE",
-    "extrait_le": "2026-06-19T16:46:39",
-    "slug": "ngfp-fellowship-2027"
-  },
-  {
-    "titre": "Bourse Monde en Serbie",
-    "seo_slug": "bourse-monde-serbie-2026",
-    "organisation": "Ministère de l'Éducation de la République de Serbie",
-    "montant": 18000,
-    "devise": "RSD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-06-26",
-    "deadline_texte": "26 juin 2026",
-    "niveau_etudes": [
-      "Licence",
-      "Master",
-      "Doctorat"
-    ],
-    "domaines": [
-      "Tous domaines"
-    ],
-    "pays_eligibles": [
-      "Algérie",
-      "Angola",
-      "Arabie Saoudite",
-      "Argentine",
-      "Bangladesh",
-      "Bénin",
-      "Bolivie",
-      "Botswana",
-      "Brésil",
-      "Burkina Faso",
-      "Burundi",
-      "Cambodge",
-      "Cameroun",
-      "Cap-Vert",
-      "Chili",
-      "Chine",
-      "Chypre",
-      "Colombie",
-      "Comores",
-      "Congo",
-      "Corée du Nord",
-      "Costa Rica",
-      "Côte d'Ivoire",
-      "Cuba",
-      "Djibouti",
-      "Dominique",
-      "Égypte",
-      "Émirats arabes unis",
-      "Équateur",
-      "Érythrée",
-      "Eswatini",
-      "Éthiopie",
-      "Gabon",
-      "Gambie",
-      "Ghana",
-      "Grenade",
-      "Guatemala",
-      "Guinée",
-      "Guinée-Bissau",
-      "Guinée équatoriale",
-      "Guyana",
-      "Haïti",
-      "Honduras",
-      "Inde",
-      "Indonésie",
-      "Iran",
-      "Irak",
-      "Jamaïque",
-      "Jordanie",
-      "Kazakhstan",
-      "Kenya",
-      "Koweït",
-      "Laos",
-      "Lesotho",
-      "Liban",
-      "Libéria",
-      "Libye",
-      "Madagascar",
-      "Malawi",
-      "Malaisie",
-      "Maldives",
-      "Mali",
-      "Malte",
-      "Maroc",
-      "Maurice",
-      "Mauritanie",
-      "Mexique",
-      "Mongolie",
-      "Mozambique",
-      "Myanmar",
-      "Namibie",
-      "Népal",
-      "Nicaragua",
-      "Niger",
-      "Nigeria",
-      "Oman",
-      "Ouganda",
-      "Ouzbékistan",
-      "Pakistan",
-      "Palestine",
-      "Panama",
-      "Papouasie-Nouvelle-Guinée",
-      "Paraguay",
-      "Pérou",
-      "Philippines",
-      "Qatar",
-      "République centrafricaine",
-      "République démocratique du Congo",
-      "République dominicaine",
-      "Rwanda",
-      "Saint-Kitts-et-Nevis",
-      "Sainte-Lucie",
-      "Saint-Vincent-et-les-Grenadines",
-      "Salomon",
-      "Salvador",
-      "Samoa",
-      "Sao Tomé-et-Principe",
-      "Sénégal",
-      "Seychelles",
-      "Sierra Leone",
-      "Singapour",
-      "Somalie",
-      "Soudan",
-      "Soudan du Sud",
-      "Sri Lanka",
-      "Suriname",
-      "Syrie",
-      "Tadjikistan",
-      "Tanzanie",
-      "Tchad",
-      "Thaïlande",
-      "Timor oriental",
-      "Togo",
-      "Trinité-et-Tobago",
-      "Tunisie",
-      "Turkménistan",
-      "Venezuela",
-      "Vietnam",
-      "Yémen",
-      "Zambie",
-      "Zimbabwe"
-    ],
-    "age_maximum": 35,
-    "langue_requise": "Anglais A1 ou Serbe A1",
-    "documents_requis": [
-      "Diplôme d'études secondaires",
-      "Diplôme universitaire",
-      "Relevé de notes",
-      "Lettre de motivation",
-      "Lettre de recommandation",
-      "Certificat de langue",
-      "Passeport",
-      "Formulaire de candidature"
-    ],
-    "avantages": [
-      "Cours préparatoire gratuit de serbe",
-      "Frais de scolarité gratuits",
-      "Bourse mensuelle de 18 000 RSD",
-      "Hébergement et repas gratuits",
-      "Assurance maladie obligatoire (moins de 26 ans) ou volontaire (plus de 26 ans)",
-      "Reconnaissance gratuite des diplômes secondaires et supérieurs"
-    ],
-    "eligibilite": [
-      "Être citoyen d'un État membre ou observateur du Mouvement des non-alignés",
-      "Être proposé par l'autorité compétente de l'État participant",
-      "Âge maximum : 21 ans pour la licence, 25 ans pour le master, 35 ans pour le doctorat",
-      "Avoir le niveau d'éducation requis pour le niveau d'études visé",
-      "Connaissance de l'anglais ou du serbe au niveau A1 minimum"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier l'éligibilité et les conditions",
-      "2. Contacter l'autorité compétente de son pays (ministère des Affaires étrangères ou de l'Éducation)",
-      "3. Soumettre le dossier de candidature via l'autorité compétente",
-      "4. Attendre la sélection et la notification"
-    ],
-    "contacts": [
-      "svetusrbiji@prosveta.gov.rs",
-      "011/3616-545"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSevQItl0KUaeWDHfofPfa539kcV_T2Gb0fuoUiCOC1KkPbt5A/viewform"
-      },
-      {
-        "label": "Site officiel",
-        "url": "https://prosveta.gov.rs/skolski-i-studentski-zivot/stipendije/stipendije-srbije-stranim-studentima/stipendije-svet-u-srbiji/"
-      }
-    ],
-    "mots_cles": [
-      "bourse Serbie",
-      "bourse Mouvement des non-alignés",
-      "études en Serbie",
-      "bourse gouvernementale serbe",
-      "bourse internationale Serbie"
-    ],
-    "lien_candidature": "https://docs.google.com/forms/d/e/1FAIpQLSevQItl0KUaeWDHfofPfa539kcV_T2Gb0fuoUiCOC1KkPbt5A/viewform",
-    "source_url": "https://prosveta.gov.rs/skolski-i-studentski-zivot/stipendije/stipendije-srbije-stranim-studentima/stipendije-svet-u-srbiji/",
-    "statut": "ouvert",
-    "resume": "La bourse 'Monde en Serbie' est une initiative du gouvernement serbe destinée aux étudiants de 127 pays membres ou observateurs du Mouvement des non-alignés. Elle offre une prise en charge complète : cours de serbe gratuit, frais de scolarité, bourse mensuelle de 18 000 RSD, hébergement et repas, ainsi que l'assurance maladie. Les candidats doivent être proposés par leur autorité nationale et respecter des conditions d'âge et de niveau d'études.",
-    "adresse": "Nemanjina 22-26, 11 000 Belgrade",
-    "extrait_le": "2026-06-24T18:10:36",
-    "slug": "bourse-monde-serbie-2026"
-  },
-  {
     "titre": "Bourse Flagship Fellowship",
     "seo_slug": "flagship-fellowship-entrepreneurs-2026",
     "organisation": "Watson Institute",
@@ -1789,6 +1381,85 @@
     "resume": "Le Programme de Leadership pour la Jeunesse des Systèmes Alimentaires des Nations Unies (YLP) est une initiative mondiale visant à former une nouvelle génération de leaders capables de transformer les systèmes alimentaires. Ouvert aux jeunes de 18 à 35 ans issus de pays à revenu faible ou intermédiaire, ce programme offre un parcours de leadership unique combinant mentorat, apprentissage par les pairs et collaboration avec des experts de l'ONU. Les participants acquièrent des compétences en pensée systémique et élargissent leur réseau pour avoir un impact durable dans leurs communautés.",
     "extrait_le": "2026-06-17T05:42:41",
     "slug": "bourse-youth-leadership-programme-onu-2026"
+  },
+  {
+    "titre": "Programme de Leadership pour la Jeunesse des Systèmes Alimentaires des Nations Unies",
+    "seo_slug": "programme-leadership-jeunesse-systemes-alimentaires-2026",
+    "organisation": "UN Food Systems Coordination Hub",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2026-07-13",
+    "deadline_texte": "13 juillet 2026",
+    "niveau_etudes": [
+      "Non spécifié"
+    ],
+    "domaines": [
+      "Systèmes alimentaires",
+      "Développement durable",
+      "Action climatique"
+    ],
+    "pays_eligibles": [
+      "Pays à revenu faible ou intermédiaire",
+      "Afrique",
+      "Asie et Pacifique",
+      "Amérique latine et Caraïbes"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Compétences en leadership et pensée systémique",
+      "Accès à un réseau mondial de pairs et d'experts",
+      "Opportunités de collaboration et d'apprentissage entre pairs",
+      "Outils pratiques pour renforcer l'impact et l'influence",
+      "Exposition aux processus et partenariats mondiaux sur les systèmes alimentaires"
+    ],
+    "eligibilite": [
+      "Âgé de 18 à 35 ans",
+      "Maîtrise de l'anglais",
+      "Ressortissant d'un pays à revenu faible ou intermédiaire",
+      "Expérience dans les systèmes alimentaires, le développement durable, l'action climatique ou domaines connexes",
+      "Expérience de leadership ou de contribution à des initiatives communautaires, organisationnelles, institutionnelles ou sectorielles",
+      "Engagement à participer pleinement aux activités du programme jusqu'en 2028"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Postuler en ligne via le lien fourni"
+    ],
+    "contacts": [
+      "FSS-Hub@fao.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.unfoodsystemshub.org/latest-updates/news/detail/applications-now-open-for-the-next-cohort-of-the-youth-leadership-programme/en?fbclid=IwY2xjawStRqxleHRuA2FlbQIxMABicmlkETE0UzFSYTVWTWNibHlXSVd1c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHogqs_SoSKH1AhoR5AuLkvP4gtp0xsvey1jyaPUXRomVNAkHAVxe70-JYyze_aem_XqqbM78RJMAAQML45b88jA"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://www.surveymonkey.com/r/YLP2026"
+      },
+      {
+        "label": "Page du programme",
+        "url": "https://www.unfoodsystemshub.org/hub-solution/youth-leadership-programme/en"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "leadership",
+      "jeunesse",
+      "systèmes alimentaires",
+      "ONU",
+      "programme",
+      "2026"
+    ],
+    "lien_candidature": "https://www.surveymonkey.com/r/YLP2026",
+    "source_url": "https://www.unfoodsystemshub.org/latest-updates/news/detail/applications-now-open-for-the-next-cohort-of-the-youth-leadership-programme/en?fbclid=IwY2xjawStRqxleHRuA2FlbQIxMABicmlkETE0UzFSYTVWTWNibHlXSVd1c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHogqs_SoSKH1AhoR5AuLkvP4gtp0xsvey1jyaPUXRomVNAkHAVxe70-JYyze_aem_XqqbM78RJMAAQML45b88jA",
+    "statut": "ouvert",
+    "resume": "Le Programme de Leadership pour la Jeunesse des Systèmes Alimentaires des Nations Unies (YLP) est une initiative mondiale visant à former une nouvelle génération de leaders capables de transformer les systèmes alimentaires. Les participants bénéficient de compétences en leadership, d'un réseau mondial et d'outils pratiques. Les candidatures sont ouvertes jusqu'au 13 juillet 2026 pour les jeunes de 18 à 35 ans issus de pays à revenu faible ou intermédiaire.",
+    "imageUrl": "/docs/Les-candidatures-sont-maintenant-ouvertes-pour-la-prochaine-promotion-du-Programme-de-leadership-des-jeunes.jpg",
+    "extrait_le": "2026-06-28T00:22:17",
+    "slug": "programme-leadership-jeunesse-systemes-alimentaires-2026"
   },
   {
     "titre": "Programme de bourses pour étudiants internationaux et doctorants - Développement des talents internationaux",
@@ -5187,11 +4858,11 @@
     "slug": "bourses-sabanci-universite-turquie"
   },
   {
-    "titre": "Programme Helmut-Schmidt (Bourses de Master pour les politiques publiques et la bonne gouvernance - PPGG)",
-    "seo_slug": "helmut-schmidt-master-bonne-gouvernance-2026",
+    "titre": "Programme Helmut-Schmidt (Bourses de Master pour les Politiques Publiques et la Bonne Gouvernance - PPGG)",
+    "seo_slug": "helmut-schmidt-master-ppgg-daad",
     "organisation": "DAAD",
     "montant": null,
-    "devise": "EUR",
+    "devise": null,
     "type_financement": "bourse complète",
     "deadline": null,
     "deadline_texte": "Voir l'annonce actuelle",
@@ -5199,6 +4870,8 @@
       "Master"
     ],
     "domaines": [
+      "Politiques publiques",
+      "Bonne gouvernance",
       "Sciences politiques",
       "Droit",
       "Économie",
@@ -5324,7 +4997,7 @@
       "Suriname",
       "République arabe syrienne (Syrie)",
       "Tadjikistan",
-      "République-Unie de Tanzanie",
+      "Tanzanie (République-Unie de)",
       "Thaïlande",
       "Timor-Leste",
       "Togo",
@@ -5346,33 +5019,37 @@
     "age_maximum": null,
     "langue_requise": "Voir l'annonce actuelle",
     "documents_requis": [
-      "Voir l'annonce actuelle"
+      "Voir l'annonce actuelle",
+      "Formulaire de candidature",
+      "Checklist"
     ],
     "avantages": [
       "Bourse mensuelle",
       "Frais de voyage",
       "Prise en charge des frais de scolarité",
       "Assurance maladie",
-      "Allocation familiale (si applicable)"
+      "Allocation familiale (le cas échéant)"
     ],
     "eligibilite": [
       "Être diplômé d'un premier cycle universitaire (Bachelor)",
       "Provenir d'un pays en développement ou émergent (voir liste)",
-      "S'engager à promouvoir la démocratie et la justice sociale",
-      "Avoir un excellent dossier académique",
-      "Posséder une expérience professionnelle ou un engagement social"
+      "Avoir un engagement pour la démocratie et la justice sociale",
+      "Être qualifié pour un master dans les domaines de la politique, du droit, de l'économie ou de l'administration"
     ],
     "procedure_etapes": [
       "1. Vérifier l'annonce actuelle pour les conditions détaillées",
       "2. Remplir le formulaire de candidature",
-      "3. Soumettre les documents requis via le portail DAAD",
-      "4. Consulter la checklist pour s'assurer que tous les documents sont fournis"
+      "3. Rassembler les documents requis (voir checklist)",
+      "4. Soumettre la candidature via le portail DAAD"
     ],
-    "contacts": [],
+    "contacts": [
+      "webmaster@daad.de",
+      "+49 228 882-44"
+    ],
     "liens_utiles": [
       {
         "label": "Site officiel",
-        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_helmut_schmidt_programme_current_announcement.pdf?fbclid=IwY2xjawSgKKRleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHue7FFWyoS9_TDATAvO1uWZ0E0gNoMCfiMMwss8yrV03fdwfoCRPJ5n84LwO_aem_LjfNliCxxw69kmAPp-TU8w"
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026397"
       },
       {
         "label": "Annonce actuelle (PDF)",
@@ -5395,35 +5072,32 @@
         "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_helmut_schmidt_programme_frequently_asked_questions.pdf"
       },
       {
-        "label": "Informations sur les cursus de Master (PDF)",
+        "label": "Informations sur les cursus de master (PDF)",
         "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_helmut_schmidt_programme_information_about_the_master_s_courses.pdf"
       },
       {
         "label": "Informations importantes pour les candidats",
         "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
-      },
-      {
-        "label": "Exigences techniques du portail",
-        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
       }
     ],
     "mots_cles": [
       "bourse DAAD",
       "master Allemagne",
-      "bonne gouvernance",
       "politiques publiques",
+      "bonne gouvernance",
+      "Helmut Schmidt",
       "pays en développement",
       "bourse complète",
-      "Helmut Schmidt",
-      "PPGG",
-      "2026"
+      "études en Allemagne"
     ],
-    "lien_candidature": "https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026397",
+    "lien_candidature": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026397",
     "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026397",
     "statut": "ouvert",
-    "resume": "Le programme Helmut-Schmidt (PPGG) du DAAD offre des bourses complètes aux futurs leaders des pays en développement et émergents pour un master en Allemagne dans les domaines de la politique, du droit, de l'économie et de l'administration. Financé par le ministère fédéral des Affaires étrangères, il vise à promouvoir la démocratie et la justice sociale. Les candidats doivent consulter l'annonce actuelle pour les conditions détaillées et soumettre leur dossier via le portail DAAD.",
-    "extrait_le": "2026-06-18T01:31:39",
-    "slug": "helmut-schmidt-master-bonne-gouvernance-2026"
+    "resume": "Le programme Helmut-Schmidt (PPGG) du DAAD offre des bourses complètes aux futurs leaders des pays en développement et émergents pour un master en politiques publiques, droit, économie ou administration en Allemagne. Financé par le ministère fédéral des Affaires étrangères, il vise à promouvoir la démocratie et la justice sociale. Les candidats doivent consulter l'annonce actuelle pour les détails des conditions et la date limite.",
+    "adresse": "Deutscher Akademischer Austauschdienst e.V. German Academic Exchange Service (DAAD) Kennedyallee 50 D-53175 Bonn",
+    "imageUrl": "/docs/Helmut-Schmidt-Programme-Master.webp",
+    "extrait_le": "2026-06-28T00:00:48",
+    "slug": "helmut-schmidt-master-ppgg-daad"
   },
   {
     "titre": "Forum Civique des Jeunes 2026",
@@ -5839,6 +5513,313 @@
     "adresse": "Serviços de Ação Social da U.Porto (SASUP)  Rua dos Bragas, nº. 151, 4050-123. Porto, Portugal",
     "extrait_le": "2026-06-25T13:02:58",
     "slug": "bourses-universite-porto-2026"
+  },
+  {
+    "titre": "Bourses d'excellence du gouvernement suisse 2027-2028",
+    "seo_slug": "bourses-excellence-suisse-2027",
+    "organisation": "Confédération suisse (Commission fédérale des bourses pour étudiants étrangers FCS/ESKAS)",
+    "montant": null,
+    "devise": "CHF",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Les candidatures sont ouvertes à partir du 20 août 2026. Les dates limites varient selon le pays d'origine et seront publiées en août 2026.",
+    "niveau_etudes": [
+      "Postdoctorat",
+      "Doctorat",
+      "Master (art)"
+    ],
+    "domaines": [
+      "Toutes disciplines (recherche)",
+      "Arts (Master)"
+    ],
+    "pays_eligibles": [
+      "183 pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Non spécifiée",
+    "documents_requis": [
+      "Projet de recherche",
+      "Lettre d'acceptation d'un superviseur académique en Suisse",
+      "CV",
+      "Diplômes",
+      "Lettre de motivation"
+    ],
+    "avantages": [
+      "Bourse mensuelle",
+      "Frais de voyage",
+      "Assurance maladie",
+      "Logement (selon les cas)"
+    ],
+    "eligibilite": [
+      "Être un chercheur en début de carrière (ECR) ayant déjà obtenu un Master",
+      "Avoir un superviseur académique en Suisse prêt à diriger la recherche",
+      "Pour les bourses d'art : être étudiant en Master initial dans un domaine artistique, provenant d'un nombre limité de pays"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les dates limites et disponibilités par pays d'origine (publiées en août 2026).",
+      "2. Préparer le dossier de candidature (projet de recherche, CV, diplômes, lettre de motivation).",
+      "3. Obtenir l'accord d'un superviseur académique en Suisse.",
+      "4. Soumettre la candidature via la représentation diplomatique suisse compétente."
+    ],
+    "contacts": [
+      "sgs@sbfi.admin.ch"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships?fbclid=IwY2xjawStQ6FleHRuA2FlbQIxMABicmlkETE0UzFSYTVWTWNibHlXSVd1c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjTmzTgpw09FmZWPFsRVHDBLUaz7i8eBTS9HKLimkeiX40OGXPxnIeJ3lZrM_aem_1oxU5gPE4-SBzw4kHN_SLA"
+      },
+      {
+        "label": "Aperçu des bourses d'excellence du gouvernement suisse",
+        "url": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships-at-a-glance"
+      },
+      {
+        "label": "FAQ pour les candidats et superviseurs",
+        "url": "https://www.sbfi.admin.ch/en/faq-swiss-government-excellence-scholarships"
+      },
+      {
+        "label": "Loi fédérale sur les bourses (allemand)",
+        "url": "https://www.admin.ch/opc/de/classified-compilation/19870116/index.html"
+      },
+      {
+        "label": "Ordonnance sur les bourses (allemand)",
+        "url": "https://www.admin.ch/opc/de/classified-compilation/20121883/index.html"
+      },
+      {
+        "label": "Ordonnance du DEFR sur les bourses (allemand)",
+        "url": "https://www.admin.ch/opc/de/classified-compilation/20130049/index.html"
+      },
+      {
+        "label": "Ordonnance sur les systèmes d'information (allemand)",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/574/de"
+      },
+      {
+        "label": "Article E2-news",
+        "url": "https://e2-news.ch/en/news/scholarships-as-a-career-booster"
+      },
+      {
+        "label": "X (Twitter) Swiss_FCS",
+        "url": "https://twitter.com/Swiss_FCS"
+      },
+      {
+        "label": "YouTube Swiss Government Excellence Scholarships",
+        "url": "https://www.youtube.com/watch?v=RRZjsHok5N4"
+      }
+    ],
+    "mots_cles": [
+      "bourse suisse",
+      "excellence",
+      "recherche",
+      "doctorat",
+      "postdoctorat",
+      "art",
+      "international",
+      "2027",
+      "2028"
+    ],
+    "lien_candidature": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships-at-a-glance",
+    "source_url": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships?fbclid=IwY2xjawStQ6FleHRuA2FlbQIxMABicmlkETE0UzFSYTVWTWNibHlXSVd1c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjTmzTgpw09FmZWPFsRVHDBLUaz7i8eBTS9HKLimkeiX40OGXPxnIeJ3lZrM_aem_1oxU5gPE4-SBzw4kHN_SLA",
+    "statut": "ouvert",
+    "resume": "Les bourses d'excellence du gouvernement suisse offrent aux chercheurs en début de carrière et aux artistes du monde entier l'opportunité de poursuivre leurs études ou recherches en Suisse. Ouvertes aux candidats de 183 pays, ces bourses couvrent toutes les disciplines pour la recherche et un nombre limité de pays pour les arts. Les candidatures pour l'année académique 2027-2028 seront ouvertes à partir du 20 août 2026, avec des dates limites variables selon le pays d'origine.",
+    "imageUrl": "/docs/Swiss-Government-Excellence-Scholarships-2027-2028.webp",
+    "extrait_le": "2026-06-28T00:07:58",
+    "slug": "bourses-excellence-suisse-2027"
+  },
+  {
+    "titre": "Bourses d'excellence du gouvernement suisse",
+    "seo_slug": "bourses-excellence-suisse-recherche-art-2027",
+    "organisation": "Swiss Government Excellence Scholarships",
+    "montant": 2450,
+    "devise": "CHF",
+    "type_financement": "bourse mensuelle",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte",
+    "niveau_etudes": [
+      "Doctorat",
+      "Master"
+    ],
+    "domaines": [
+      "Tous les domaines académiques",
+      "Arts"
+    ],
+    "pays_eligibles": [
+      "Tous les pays (sauf pour les bourses d'art, liste limitée non précisée)"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Non spécifiée",
+    "documents_requis": [
+      "CV complet",
+      "Lettre de motivation (max 2 pages)",
+      "Proposition de recherche détaillée avec calendrier (formulaire FCS/ESKAS, max 5 pages)",
+      "Lettre de soutien d'un superviseur académique en Suisse",
+      "CV court du superviseur (max 2 pages)",
+      "Pour les bourses de recherche : CV court du superviseur de l'université d'origine",
+      "Pour les bourses de doctorat dans les écoles doctorales : confirmation d'admission",
+      "Adresses e-mail de deux professeurs pour lettres de recommandation",
+      "Copies des diplômes et relevés de notes",
+      "Si déjà en Suisse : copie de l'attestation d'enregistrement ou du permis de séjour",
+      "Pour les bourses d'art : lettre d'admission ou preuve de candidature d'une école d'art suisse, portfolio"
+    ],
+    "avantages": [
+      "Bourse mensuelle de 2 450 CHF pour couvrir les frais de subsistance"
+    ],
+    "eligibilite": [
+      "Diplôme de master ou équivalent obtenu au plus tard le 31 juillet 2027 (pour ETH Zurich : 30 juin 2027)",
+      "Né après le 31 décembre 1991",
+      "Proposition de recherche détaillée avec calendrier",
+      "Lettre de soutien d'un superviseur académique en Suisse",
+      "Pour les bourses d'art : diplôme de bachelor ou équivalent obtenu au plus tard le 31 juillet 2027, ne pas détenir déjà un master, admission ou preuve de candidature dans une école d'art suisse",
+      "Priorité aux personnes n'ayant pas étudié ou fait de recherche en Suisse auparavant"
+    ],
+    "procedure_etapes": [
+      "1. Trouver un superviseur académique en Suisse",
+      "2. Préparer les documents requis (CV, lettre de motivation, proposition de recherche, etc.)",
+      "3. Soumettre la candidature en ligne via le portail officiel",
+      "4. Fournir les adresses e-mail de deux professeurs pour les lettres de recommandation",
+      "5. Attendre les résultats de sélection"
+    ],
+    "contacts": [
+      "sgs@sbfi.admin.ch"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships-at-a-glance"
+      },
+      {
+        "label": "Université de Bâle",
+        "url": "https://www.unibas.ch/en.html"
+      },
+      {
+        "label": "Université de Berne",
+        "url": "http://www.unibe.ch/eng/"
+      },
+      {
+        "label": "Université de Fribourg",
+        "url": "https://www.unifr.ch/home/en/"
+      },
+      {
+        "label": "Université de Genève",
+        "url": "https://www.unige.ch/en/university/presentation/"
+      },
+      {
+        "label": "Université de Lausanne",
+        "url": "https://www.unil.ch/central/en/home.html"
+      },
+      {
+        "label": "Université de Lucerne",
+        "url": "https://www.unilu.ch/en/"
+      },
+      {
+        "label": "Université de Neuchâtel",
+        "url": "https://www.unine.ch/"
+      },
+      {
+        "label": "Université de Saint-Gall",
+        "url": "https://www.unisg.ch/en/?chash=3dd31cb3adc48b0a9174c794e16aa6f3&page=1&cHash=7ea7f99b51b22e17c591ab95d6d927ac"
+      },
+      {
+        "label": "Université de Zurich",
+        "url": "https://www.uzh.ch/en.html"
+      },
+      {
+        "label": "Università della Svizzera italiana",
+        "url": "https://www.usi.ch/en"
+      },
+      {
+        "label": "EPFL",
+        "url": "https://www.epfl.ch/en/home/"
+      },
+      {
+        "label": "ETH Zurich",
+        "url": "https://ethz.ch/en.html"
+      },
+      {
+        "label": "Instituts de recherche du domaine ETH",
+        "url": "http://www.ethrat.ch/en/eth-domain/research-institutes"
+      },
+      {
+        "label": "Institut de hautes études internationales et du développement (IHEID)",
+        "url": "https://www.graduateinstitute.ch/"
+      },
+      {
+        "label": "HES-SO",
+        "url": "https://www.hes-so.ch/en/homepage"
+      },
+      {
+        "label": "BFH",
+        "url": "https://www.bfh.ch/en/"
+      },
+      {
+        "label": "FHNW",
+        "url": "http://www.fhnw.ch/homepage"
+      },
+      {
+        "label": "OST",
+        "url": "https://www.ost.ch/en/"
+      },
+      {
+        "label": "FHGR",
+        "url": "https://www.fhgr.ch/en/"
+      },
+      {
+        "label": "HSLU",
+        "url": "https://www.hslu.ch/en/"
+      },
+      {
+        "label": "SUPSI",
+        "url": "http://www.supsi.ch/home_en.html"
+      },
+      {
+        "label": "ZHAW",
+        "url": "https://www.zhaw.ch/en/university/"
+      },
+      {
+        "label": "Universités de formation des enseignants",
+        "url": "https://www.swissuniversities.ch/organisation/gremien/kammer-paedagogische-hochschulen"
+      },
+      {
+        "label": "UniDistance Suisse",
+        "url": "https://unidistance.ch/"
+      },
+      {
+        "label": "SFUVET",
+        "url": "https://www.sfuvet.swiss/"
+      },
+      {
+        "label": "SFISM",
+        "url": "https://www.ehsm.admin.ch/en"
+      },
+      {
+        "label": "HKB-BFH",
+        "url": "https://www.hkb.bfh.ch/en/"
+      },
+      {
+        "label": "Conservatorio della Svizzera italiana",
+        "url": "http://www.conservatorio.ch/it/scuola-universitaria"
+      },
+      {
+        "label": "ZHDK",
+        "url": "https://www.zhdk.ch/en/zurich-university-of-the-arts-1"
+      }
+    ],
+    "mots_cles": [
+      "bourse suisse",
+      "bourse excellence",
+      "doctorat suisse",
+      "master suisse",
+      "recherche suisse",
+      "bourse art suisse",
+      "bourse gouvernement suisse",
+      "financement études suisse"
+    ],
+    "lien_candidature": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships-at-a-glance",
+    "source_url": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships-at-a-glance",
+    "statut": "ouvert",
+    "resume": "Les bourses d'excellence du gouvernement suisse offrent aux chercheurs et artistes talentueux la possibilité de poursuivre un doctorat, un projet de recherche ou un premier master en arts en Suisse. D'une durée de 12 à 36 mois selon le type, elles comprennent une allocation mensuelle de 2 450 CHF. Les candidats doivent trouver un superviseur académique en Suisse et soumettre un dossier complet incluant une proposition de recherche détaillée.",
+    "imageUrl": "/docs/Swiss-Government-Excellence-Scholarships-at-a-Glance.webp",
+    "extrait_le": "2026-06-28T00:14:47",
+    "slug": "bourses-excellence-suisse-recherche-art-2027"
   },
   {
     "titre": "Bourses Chevening",
@@ -7633,6 +7614,414 @@
     "adresse": "Office of the United Nations High Commissioner for Human Rights (OHCHR) Palais Wilson 52 rue des Pâquis CH-1201 Geneva, Switzerland.",
     "extrait_le": "2026-06-19T16:37:29",
     "slug": "youth4rights-advisory-group-2026"
+  },
+  {
+    "titre": "Appel à Volontaires pour le Symposium Économique Africain (AES) 2026",
+    "seo_slug": "volontaires-symposium-economique-africain-2026",
+    "organisation": "Policy Center for the New South",
+    "montant": 0,
+    "devise": "EUR",
+    "type_financement": "non rémunéré",
+    "deadline": "2026-06-26",
+    "deadline_texte": "26 juin 2026",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Économie",
+      "Relations internationales",
+      "Développement"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais, Français ou Arabe",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation"
+    ],
+    "avantages": [
+      "Repas fournis",
+      "Hébergement possible sur demande"
+    ],
+    "eligibilite": [
+      "Étudiant ou jeune professionnel très motivé",
+      "Maîtrise de l'anglais et de préférence du français ou de l'arabe",
+      "Excellentes compétences en communication",
+      "Intérêt pour les enjeux économiques africains",
+      "Flexibilité horaire et capacité à gérer des tâches logistiques et administratives",
+      "Expérience en gestion d'événements souhaitable mais non essentielle",
+      "Ponctualité, fiabilité et professionnalisme"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne",
+      "2. Joindre un CV à jour et une lettre de motivation",
+      "3. Inclure le numéro de téléphone dans le CV et la lettre de motivation",
+      "4. Soumettre avant le 26 juin 2026",
+      "5. Les entretiens commenceront à partir du 1er juillet 2026"
+    ],
+    "contacts": [
+      "contact@policycenter.ma",
+      "+212 5 37 54 04 04"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.policycenter.ma/jobs/africa-economic-symposium-aes-2026-call-volunteers?fbclid=IwY2xjawSiUHlleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsyS-z0fB5KVDeTY-dLSoy7mreymvPhviomhIaYwEzQovAGOfYCnesppeyQY_aem_tDseBJkzv6bkWJnr4xu4-w"
+      },
+      {
+        "label": "Site officiel du Symposium",
+        "url": "https://www.policycenter.ma/events/africa-economic-symposium-aes-4th-edition-turning-transitions-growth"
+      }
+    ],
+    "mots_cles": [
+      "volontariat",
+      "symposium économique",
+      "Afrique",
+      "Policy Center",
+      "Rabat",
+      "2026",
+      "événement",
+      "étudiants"
+    ],
+    "lien_candidature": "https://www.policycenter.ma/jobs/africa-economic-symposium-aes-2026-call-volunteers?fbclid=IwY2xjawSiUHlleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsyS-z0fB5KVDeTY-dLSoy7mreymvPhviomhIaYwEzQovAGOfYCnesppeyQY_aem_tDseBJkzv6bkWJnr4xu4-w",
+    "source_url": "https://www.policycenter.ma/jobs/africa-economic-symposium-aes-2026-call-volunteers?fbclid=IwY2xjawSiUHlleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsyS-z0fB5KVDeTY-dLSoy7mreymvPhviomhIaYwEzQovAGOfYCnesppeyQY_aem_tDseBJkzv6bkWJnr4xu4-w",
+    "statut": "fermé",
+    "resume": "Le Policy Center for the New South recrute des volontaires pour la 4e édition du Symposium Économique Africain (AES) qui se tiendra à Rabat les 13 et 14 juillet 2026. Les volontaires assisteront l'équipe dans les tâches logistiques, de production, de communication et médiatiques. Cette opportunité non rémunérée offre une expérience pratique de l'organisation d'événements de haut niveau, avec repas fournis et hébergement possible. Les candidatures sont ouvertes jusqu'au 26 juin 2026.",
+    "adresse": "Policy Center for the New South Rabat Campus of Mohammed VI Polytechnic University Rocade Rabat Salé 11103 Morocco",
+    "extrait_le": "2026-06-19T16:44:15",
+    "slug": "volontaires-symposium-economique-africain-2026"
+  },
+  {
+    "titre": "Bourse NGFP Fellowship 2027",
+    "seo_slug": "ngfp-fellowship-2027",
+    "organisation": "Next Generation Foresight Practitioners (NGFP)",
+    "montant": 1000,
+    "devise": "USD",
+    "type_financement": "bourse de projet",
+    "deadline": "2026-06-26",
+    "deadline_texte": "26 juin 2026 à 23h59 GMT+1",
+    "niveau_etudes": [
+      "Professionnel"
+    ],
+    "domaines": [
+      "Foresight",
+      "Prospective",
+      "Changements climatiques",
+      "Démocratie",
+      "Technologies émergentes",
+      "Santé",
+      "Paix",
+      "Futurs ruraux"
+    ],
+    "pays_eligibles": [
+      "Monde entier",
+      "Asie",
+      "Afrique",
+      "MENA",
+      "Caraïbes",
+      "Amérique centrale",
+      "Amérique du Sud",
+      "Îles du Pacifique",
+      "Balkans"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Fond de démarrage de 1 000 USD",
+      "Possibilité de gagner un grand prix de 10 000 USD",
+      "Plateforme de mise en réseau",
+      "Partenaire de projet (praticien expert)",
+      "Formation en prospective",
+      "Newsletters bi-hebdomadaires",
+      "Participation à des hubs régionaux",
+      "Participation à des événements"
+    ],
+    "eligibilite": [
+      "Âge 18-35 ans (ou plus de 35 ans avec moins d'un an d'expérience en prospective)",
+      "Débutant dans le domaine de la prospective",
+      "Engagé dans la construction de communautés",
+      "Porteur d'un projet visionnaire axé sur le futur",
+      "Apprenant collaboratif avec une vision à long terme (10 ans)",
+      "De n'importe où dans le monde, priorité Asie et Afrique"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Préparer votre projet",
+      "3. Soumettre votre candidature en ligne avant le 26 juin 2026",
+      "4. Participer aux sessions Q&A si nécessaire",
+      "5. Attendre les résultats (juillet-septembre 2026)",
+      "6. Si sélectionné, participer à l'orientation en janvier 2027"
+    ],
+    "contacts": [
+      "fellowship@nextgenforesight.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://nextgenforesight.org/fellowship/?fbclid=IwY2xjawSiUT5leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHje8JSJCEUCvqK7gsiB8vGL0FWm9pKVTOmrala8iNd1if7AngEOBRKGPYMqo_aem_26K1BSh9dnCEZ4fHedwopw"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://apply.nextgenforesight.org/register"
+      },
+      {
+        "label": "Sessions Q&A et enregistrements",
+        "url": "https://nextgenforesight.org/fellowship/qas-and-workshops/"
+      },
+      {
+        "label": "Missions de transformation prospective",
+        "url": "https://nextgenforesight.org/fellowship/foresight-transformation-missions/"
+      },
+      {
+        "label": "Bourse Balkans",
+        "url": "https://nextgenforesight.org/fellowship/the-balkans-fellowship/"
+      },
+      {
+        "label": "Bourse MENA",
+        "url": "https://nextgenforesight.org/the-mena-fellowship/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://nextgenforesight.org/fellowship/apply/faqs/"
+      },
+      {
+        "label": "Termes et conditions",
+        "url": "https://nextgenforesight.org/fellowship/apply/terms-and-conditions/"
+      },
+      {
+        "label": "À propos de NGFP",
+        "url": "https://nextgenforesight.org/about-us/"
+      },
+      {
+        "label": "Parcours du fellowship",
+        "url": "https://nextgenforesight.org/fellowship/journey"
+      }
+    ],
+    "mots_cles": [
+      "bourse prospective",
+      "fellowship foresight",
+      "jeunes professionnels",
+      "projet visionnaire",
+      "réseau mondial",
+      "financement projet",
+      "NGFP",
+      "2027"
+    ],
+    "lien_candidature": "https://apply.nextgenforesight.org/register",
+    "source_url": "https://nextgenforesight.org/fellowship/?fbclid=IwY2xjawSiUT5leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHje8JSJCEUCvqK7gsiB8vGL0FWm9pKVTOmrala8iNd1if7AngEOBRKGPYMqo_aem_26K1BSh9dnCEZ4fHedwopw",
+    "statut": "fermé",
+    "resume": "La bourse NGFP Fellowship 2027 est ouverte aux jeunes professionnels de 18 à 35 ans (ou plus avec moins d'un an d'expérience) du monde entier, avec une priorité pour l'Asie et l'Afrique. Elle offre un fonds de démarrage de 1 000 USD, un accompagnement par un expert, une formation en prospective et la possibilité de gagner 10 000 USD. Les candidatures sont à soumettre avant le 26 juin 2026.",
+    "adresse": "Onega House, 112 Main Road Sidcup, Kent DA14 6NE",
+    "extrait_le": "2026-06-19T16:46:39",
+    "slug": "ngfp-fellowship-2027"
+  },
+  {
+    "titre": "Bourse Monde en Serbie",
+    "seo_slug": "bourse-monde-serbie-2026",
+    "organisation": "Ministère de l'Éducation de la République de Serbie",
+    "montant": 18000,
+    "devise": "RSD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-26",
+    "deadline_texte": "26 juin 2026",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Algérie",
+      "Angola",
+      "Arabie Saoudite",
+      "Argentine",
+      "Bangladesh",
+      "Bénin",
+      "Bolivie",
+      "Botswana",
+      "Brésil",
+      "Burkina Faso",
+      "Burundi",
+      "Cambodge",
+      "Cameroun",
+      "Cap-Vert",
+      "Chili",
+      "Chine",
+      "Chypre",
+      "Colombie",
+      "Comores",
+      "Congo",
+      "Corée du Nord",
+      "Costa Rica",
+      "Côte d'Ivoire",
+      "Cuba",
+      "Djibouti",
+      "Dominique",
+      "Égypte",
+      "Émirats arabes unis",
+      "Équateur",
+      "Érythrée",
+      "Eswatini",
+      "Éthiopie",
+      "Gabon",
+      "Gambie",
+      "Ghana",
+      "Grenade",
+      "Guatemala",
+      "Guinée",
+      "Guinée-Bissau",
+      "Guinée équatoriale",
+      "Guyana",
+      "Haïti",
+      "Honduras",
+      "Inde",
+      "Indonésie",
+      "Iran",
+      "Irak",
+      "Jamaïque",
+      "Jordanie",
+      "Kazakhstan",
+      "Kenya",
+      "Koweït",
+      "Laos",
+      "Lesotho",
+      "Liban",
+      "Libéria",
+      "Libye",
+      "Madagascar",
+      "Malawi",
+      "Malaisie",
+      "Maldives",
+      "Mali",
+      "Malte",
+      "Maroc",
+      "Maurice",
+      "Mauritanie",
+      "Mexique",
+      "Mongolie",
+      "Mozambique",
+      "Myanmar",
+      "Namibie",
+      "Népal",
+      "Nicaragua",
+      "Niger",
+      "Nigeria",
+      "Oman",
+      "Ouganda",
+      "Ouzbékistan",
+      "Pakistan",
+      "Palestine",
+      "Panama",
+      "Papouasie-Nouvelle-Guinée",
+      "Paraguay",
+      "Pérou",
+      "Philippines",
+      "Qatar",
+      "République centrafricaine",
+      "République démocratique du Congo",
+      "République dominicaine",
+      "Rwanda",
+      "Saint-Kitts-et-Nevis",
+      "Sainte-Lucie",
+      "Saint-Vincent-et-les-Grenadines",
+      "Salomon",
+      "Salvador",
+      "Samoa",
+      "Sao Tomé-et-Principe",
+      "Sénégal",
+      "Seychelles",
+      "Sierra Leone",
+      "Singapour",
+      "Somalie",
+      "Soudan",
+      "Soudan du Sud",
+      "Sri Lanka",
+      "Suriname",
+      "Syrie",
+      "Tadjikistan",
+      "Tanzanie",
+      "Tchad",
+      "Thaïlande",
+      "Timor oriental",
+      "Togo",
+      "Trinité-et-Tobago",
+      "Tunisie",
+      "Turkménistan",
+      "Venezuela",
+      "Vietnam",
+      "Yémen",
+      "Zambie",
+      "Zimbabwe"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais A1 ou Serbe A1",
+    "documents_requis": [
+      "Diplôme d'études secondaires",
+      "Diplôme universitaire",
+      "Relevé de notes",
+      "Lettre de motivation",
+      "Lettre de recommandation",
+      "Certificat de langue",
+      "Passeport",
+      "Formulaire de candidature"
+    ],
+    "avantages": [
+      "Cours préparatoire gratuit de serbe",
+      "Frais de scolarité gratuits",
+      "Bourse mensuelle de 18 000 RSD",
+      "Hébergement et repas gratuits",
+      "Assurance maladie obligatoire (moins de 26 ans) ou volontaire (plus de 26 ans)",
+      "Reconnaissance gratuite des diplômes secondaires et supérieurs"
+    ],
+    "eligibilite": [
+      "Être citoyen d'un État membre ou observateur du Mouvement des non-alignés",
+      "Être proposé par l'autorité compétente de l'État participant",
+      "Âge maximum : 21 ans pour la licence, 25 ans pour le master, 35 ans pour le doctorat",
+      "Avoir le niveau d'éducation requis pour le niveau d'études visé",
+      "Connaissance de l'anglais ou du serbe au niveau A1 minimum"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et les conditions",
+      "2. Contacter l'autorité compétente de son pays (ministère des Affaires étrangères ou de l'Éducation)",
+      "3. Soumettre le dossier de candidature via l'autorité compétente",
+      "4. Attendre la sélection et la notification"
+    ],
+    "contacts": [
+      "svetusrbiji@prosveta.gov.rs",
+      "011/3616-545"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSevQItl0KUaeWDHfofPfa539kcV_T2Gb0fuoUiCOC1KkPbt5A/viewform"
+      },
+      {
+        "label": "Site officiel",
+        "url": "https://prosveta.gov.rs/skolski-i-studentski-zivot/stipendije/stipendije-srbije-stranim-studentima/stipendije-svet-u-srbiji/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Serbie",
+      "bourse Mouvement des non-alignés",
+      "études en Serbie",
+      "bourse gouvernementale serbe",
+      "bourse internationale Serbie"
+    ],
+    "lien_candidature": "https://docs.google.com/forms/d/e/1FAIpQLSevQItl0KUaeWDHfofPfa539kcV_T2Gb0fuoUiCOC1KkPbt5A/viewform",
+    "source_url": "https://prosveta.gov.rs/skolski-i-studentski-zivot/stipendije/stipendije-srbije-stranim-studentima/stipendije-svet-u-srbiji/",
+    "statut": "fermé",
+    "resume": "La bourse 'Monde en Serbie' est une initiative du gouvernement serbe destinée aux étudiants de 127 pays membres ou observateurs du Mouvement des non-alignés. Elle offre une prise en charge complète : cours de serbe gratuit, frais de scolarité, bourse mensuelle de 18 000 RSD, hébergement et repas, ainsi que l'assurance maladie. Les candidats doivent être proposés par leur autorité nationale et respecter des conditions d'âge et de niveau d'études.",
+    "adresse": "Nemanjina 22-26, 11 000 Belgrade",
+    "extrait_le": "2026-06-24T18:10:36",
+    "slug": "bourse-monde-serbie-2026"
   },
   {
     "titre": "Bourse Rhodes 2027 pour les candidats internationaux (hors pays spécifiques)",

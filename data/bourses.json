@@ -1,98 +1,5 @@
 [
   {
-    "titre": "Bourse Flagship Fellowship",
-    "seo_slug": "flagship-fellowship-entrepreneurs-2026",
-    "organisation": "Watson Institute",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-06-28",
-    "deadline_texte": "28 juin 2026 (date limite prioritaire)",
-    "niveau_etudes": [],
-    "domaines": [
-      "Entrepreneuriat",
-      "Leadership",
-      "Impact social"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne"
-    ],
-    "avantages": [
-      "Programme entièrement financé de 16 semaines",
-      "Ateliers en affaires et leadership",
-      "Outils et ressources financières",
-      "Série Impact et ateliers spécialisés",
-      "Formation au pitch et Sommet virtuel",
-      "Mentorat intensif",
-      "Réseau mondial de pairs"
-    ],
-    "eligibilite": [
-      "Être fondateur, entrepreneur ou innovateur communautaire",
-      "Avoir une entreprise ou organisation en activité depuis 1 à 5 ans avec moins de 10 employés",
-      "Avoir des clients, des résultats mesurables et un certain financement (subventions, investissements, dons, revenus)",
-      "Être âgé de 18 ans ou plus",
-      "Pouvoir s'engager pour les 16 semaines complètes du programme (11 août - 24 novembre 2026) et participer à l'Immersive virtuelle obligatoire du 11 au 18 août 2026 ainsi qu'aux ateliers hebdomadaires les mardis, mercredis et jeudis de 8h00 à 10h00 MT",
-      "L'éligibilité géographique varie selon la bourse spécifique (Luff, Sustainability, Kenneth King Foundation, Venable)"
-    ],
-    "procedure_etapes": [
-      "1. Soumettre la candidature en ligne avant le 28 juin 2026 (date limite prioritaire) ; les candidatures sont examinées au fur et à mesure jusqu'à ce que toutes les places soient pourvues.",
-      "2. Examen de la candidature par le comité d'admission.",
-      "3. Entretien Zoom de 20 minutes pour les candidats sélectionnés.",
-      "4. Sélection finale et inscription : les décisions finales sont annoncées le 9 juillet 2026. Les candidats retenus doivent confirmer leur inscription."
-    ],
-    "contacts": [
-      "info@watson.is",
-      "+1 720-432-0629"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://watson.is/flagship-fellowship/?fbclid=IwY2xjawSiU3VleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm0umM6v14vUPtz5INyjLpKew0cfj2DsB9o5pIj_5paK0YWu7R3iTlpgsDHl_aem_yPJsA1kijX_VStHmXTDUgA"
-      },
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://watson.is/flagship-fellowship-application/"
-      },
-      {
-        "label": "Page d'accueil du programme",
-        "url": "https://watson.is/flagship-fellowship/"
-      },
-      {
-        "label": "Basecamps",
-        "url": "https://watson.is/basecamps/"
-      },
-      {
-        "label": "Sommets",
-        "url": "https://watson.is/summits/"
-      },
-      {
-        "label": "Rencontrez les anciens",
-        "url": "https://watson.is/meet-the-fellows/"
-      }
-    ],
-    "mots_cles": [
-      "bourse entrepreneuriat",
-      "fellowship leadership",
-      "Watson Institute",
-      "programme entièrement financé",
-      "entrepreneur social",
-      "bourse 2026",
-      "impact venture"
-    ],
-    "lien_candidature": "https://watson.is/flagship-fellowship-application/",
-    "source_url": "https://watson.is/flagship-fellowship/?fbclid=IwY2xjawSiU3VleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm0umM6v14vUPtz5INyjLpKew0cfj2DsB9o5pIj_5paK0YWu7R3iTlpgsDHl_aem_yPJsA1kijX_VStHmXTDUgA",
-    "statut": "ouvert",
-    "resume": "Le Flagship Fellowship est un programme de développement entrepreneurial et de leadership entièrement financé de 16 semaines proposé par le Watson Institute. Il réunit des entrepreneurs à impact du monde entier pour une formation intensive, un mentorat, un accès au capital et une communauté mondiale de pairs. Le programme commence par une Immersive virtuelle et comprend des ateliers en affaires, des outils financiers, une formation au pitch et un Sommet virtuel. Les candidatures sont ouvertes jusqu'au 28 juin 2026.",
-    "adresse": "4845 Pearl E. Circle, Suite 101 Boulder, CO 80301",
-    "extrait_le": "2026-06-19T16:56:02",
-    "slug": "flagship-fellowship-entrepreneurs-2026"
-  },
-  {
     "titre": "Mécanisme de Financement Tiers AU-EU Youth Voices",
     "seo_slug": "bourse-jeunes-afrique-europe-2026",
     "organisation": "AU-EU Youth Voices Lab – Power of the Collective",
@@ -1087,6 +994,106 @@
     "slug": "bourse-al-qasimi-emirats-2026"
   },
   {
+    "titre": "Bureau des Bourses d'Études de la Fondation Al Qasimi 2026",
+    "seo_slug": "bourse-al-qasimi-emirats-2026",
+    "organisation": "Sheikh Saud bin Saqr Al Qasimi Foundation for Policy Research",
+    "montant": null,
+    "devise": "AED",
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-30",
+    "deadline_texte": "30 juin 2026 pour les candidatures nationales ; 29 décembre 2026 pour les candidatures à l'étranger",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines prioritaires pour Ras Al Khaimah"
+    ],
+    "pays_eligibles": [
+      "Émirats Arabes Unis"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (IELTS 6.0-7.0 selon le programme)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Relevés de notes",
+      "Diplômes",
+      "Preuve de compétence en anglais (IELTS)",
+      "Lettre de motivation",
+      "Curriculum Vitae",
+      "Copie du livret de famille de Ras Al Khaimah",
+      "Lettre d'admission inconditionnelle de l'université"
+    ],
+    "avantages": [
+      "Frais de scolarité (100% pour universités privées nationales, 50% pour masters nationaux, 100% pour études à l'étranger)",
+      "Allocation mensuelle (3 000 AED pour universités fédérales nationales, 3 000 AED pour études à l'étranger sous certaines conditions, 12 000-15 000 AED pour la bourse Al Qasimi à l'étranger, 5 000 AED pour la bourse du Ministère de l'Enseignement Supérieur)",
+      "Billet d'avion aller-retour annuel (pour bourse Al Qasimi à l'étranger)",
+      "Assurance maladie annuelle (pour bourse Al Qasimi à l'étranger)"
+    ],
+    "eligibilite": [
+      "Être un ressortissant émirati de Ras Al Khaimah (livret de famille de RAK)",
+      "Être diplômé du secondaire, employé ou membre de la communauté",
+      "Moyenne minimale de 95% au secondaire (pour les nouveaux étudiants)",
+      "Note minimale de 95% dans toutes les matières scientifiques (pour les nouveaux étudiants)",
+      "GPA cumulatif entre 3.0 et 3.5 ou plus (pour les étudiants en cours)",
+      "Diplôme de licence requis pour les candidatures en master",
+      "Admission inconditionnelle dans une université approuvée"
+    ],
+    "procedure_etapes": [
+      "1. Visiter le portail de candidature en ligne.",
+      "2. Vérifier les critères d'éligibilité pour la catégorie de bourse choisie (nationale ou étrangère).",
+      "3. Créer un compte sur le portail (ou se connecter si déjà inscrit).",
+      "4. Sélectionner la catégorie de bourse appropriée (nationale ou étrangère).",
+      "5. Remplir le formulaire de candidature en anglais et télécharger tous les documents requis.",
+      "6. Soumettre la candidature avant la date limite. Les candidatures tardives ne seront pas considérées."
+    ],
+    "contacts": [
+      "scholarships@alqasimifoundation.rak.ae",
+      "+971 7 223 0044"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.alqasimifoundation.com/scholarships?fbclid=IwY2xjawSvaNxleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHuvociUoWjqWm3Yype72pjBWGXfYm7gRfRe5II2Wf0HcbsqTbVnkpkRpbVd8_aem_Wi9DYK8uFlQdWnd2GspGaQ#scholarships"
+      },
+      {
+        "label": "Portail de candidature",
+        "url": "https://alqasimi.fluxx.io/user_sessions/new"
+      },
+      {
+        "label": "Page d'accueil du Bureau des Bourses",
+        "url": "https://www.alqasimifoundation.com/scholarships"
+      },
+      {
+        "label": "Liste des universités nationales approuvées",
+        "url": "https://www.alqasimifoundation.com/scholarships/domestic-universities"
+      },
+      {
+        "label": "Liste des universités étrangères approuvées",
+        "url": "https://www.alqasimifoundation.com/scholarships/overseas-universities"
+      }
+    ],
+    "mots_cles": [
+      "bourse émirats",
+      "bourse ras al khaimah",
+      "bourse al qasimi",
+      "bourse licence",
+      "bourse master",
+      "bourse doctorat",
+      "bourse études étranger",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://alqasimi.fluxx.io/user_sessions/new",
+    "source_url": "https://www.alqasimifoundation.com/scholarships?fbclid=IwY2xjawSvaNxleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHuvociUoWjqWm3Yype72pjBWGXfYm7gRfRe5II2Wf0HcbsqTbVnkpkRpbVd8_aem_Wi9DYK8uFlQdWnd2GspGaQ#scholarships",
+    "statut": "ouvert",
+    "resume": "Le Bureau des Bourses d'Études de la Fondation Al Qasimi offre des bourses complètes aux ressortissants émiratis de Ras Al Khaimah pour des études de licence, master et doctorat dans des universités approuvées aux Émirats Arabes Unis et à l'étranger. Les candidatures pour le cycle national 2026 sont ouvertes du 1er avril au 30 juin 2026, et pour le cycle étranger du 2 janvier au 29 décembre 2026. Les bourses couvrent les frais de scolarité, une allocation mensuelle, et pour les études à l'étranger, un billet d'avion et une assurance maladie.",
+    "adresse": "RAK Gas Building, Mezzanine Level Al Jazah Road, Al Nakheel, Ras Al Khaimah",
+    "imageUrl": "/docs/Al-Qasimi-Foundation-Scholarships-2026-in-UAE.jpg",
+    "extrait_le": "2026-06-29T15:15:02",
+    "slug": "bourse-al-qasimi-emirats-2026"
+  },
+  {
     "titre": "Bourse Data Analytics (En ligne) de la Business School",
     "seo_slug": "bourse-data-analytics-online-edimbourg-2026",
     "organisation": "University of Edinburgh Business School",
@@ -1307,6 +1314,97 @@
     "resume": "L'AUF lance un appel à candidatures pour des formations qualifiantes certifiantes internationales à distance, ouvert aux étudiants, jeunes diplômés et professionnels francophones. Les formations débutent en septembre 2026 et les candidatures sont à soumettre avant le 5 juillet 2026. Consultez le catalogue pour découvrir les formations proposées par les universités membres de l'AUF.",
     "extrait_le": "2026-06-16T04:02:09",
     "slug": "formations-qualifiantes-certifiantes-distance-2026"
+  },
+  {
+    "titre": "Bourses de Mérite pour les Étudiants du 3ème Cycle de l'École de Sociologie et de Politiques Publiques (ESPP) de l'Iscte - Institut Universitaire de Lisbonne – 2026/2027",
+    "seo_slug": "bourses-merite-doctorat-iscte-lisbonne-2026",
+    "organisation": "Iscte - Instituto Universitário de Lisboa",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse de mérite",
+    "deadline": "2026-07-08",
+    "deadline_texte": "8 juillet 2026",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Administration Publique",
+      "Science Politique",
+      "Sciences de la Communication",
+      "Études Africaines",
+      "Études Internationales",
+      "Histoire Moderne et Contemporaine",
+      "Histoire, Études de Sécurité et Défense",
+      "Politiques Publiques",
+      "Service Social",
+      "Politiques d'Administration et Gestion Scolaire",
+      "Sociologie"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Portugais",
+    "documents_requis": [
+      "Requerimento (formulaire de candidature)",
+      "Proposition de projet de recherche incluant un plan de développement et d'exécution",
+      "Lettre de motivation",
+      "Deux lettres de recommandation"
+    ],
+    "avantages": [
+      "Bourse d'un montant égal à la référence des bourses nationales de doctorat de la FCT",
+      "Assurance sociale volontaire correspondant au premier échelon (sur option)",
+      "Exonération des frais de scolarité"
+    ],
+    "eligibilite": [
+      "Être inscrit en régime de temps intégral",
+      "Avoir soumis la documentation requise",
+      "Pour les étudiants en première année de doctorat : approbation dans toutes les unités curriculaires de première année et dans le projet de recherche à la fin de la première année",
+      "Obtenir une note finale d'évaluation supérieure ou égale à 15 sur 20",
+      "Faire partie des 25% d'étudiants ayant les meilleures évaluations finales",
+      "Ne pas avoir de dettes envers l'Iscte"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'éligibilité et lire l'édital",
+      "2. Préparer les documents requis (requerimento, proposition de projet, lettre de motivation, deux lettres de recommandation)",
+      "3. Soumettre la candidature en ligne via le portail de recrutement de l'Iscte avant le 8 juillet 2026"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://recrutamento.iscte-iul.pt/jobs/726?fbclid=IwY2xjawSvXgxleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoPjzdYvIZhG0y44WrgNKOnvNvPRd5RkE9FnWeCFCMDyRDVrSa-Yz7CTRjho_aem_AlkPsw0Sj9whB7uhMDfkVQ"
+      },
+      {
+        "label": "Edital de candidature (PDF)",
+        "url": "https://recrutamento.iscte-iul.pt/content/files/91600"
+      },
+      {
+        "label": "Règlement des bourses du 3ème cycle de l'Iscte (PDF)",
+        "url": "https://recrutamento.iscte-iul.pt/content/files/90801"
+      },
+      {
+        "label": "Formulaire de candidature (DOCX)",
+        "url": "https://recrutamento.iscte-iul.pt/content/files/90800"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat",
+      "bourse mérite",
+      "Iscte Lisbonne",
+      "Portugal",
+      "sciences sociales",
+      "politiques publiques",
+      "sociologie",
+      "2026"
+    ],
+    "lien_candidature": "https://recrutamento.iscte-iul.pt/jobs/726",
+    "source_url": "https://recrutamento.iscte-iul.pt/jobs/726?fbclid=IwY2xjawSvXgxleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoPjzdYvIZhG0y44WrgNKOnvNvPRd5RkE9FnWeCFCMDyRDVrSa-Yz7CTRjho_aem_AlkPsw0Sj9whB7uhMDfkVQ",
+    "statut": "ouvert",
+    "resume": "L'École de Sociologie et de Politiques Publiques (ESPP) de l'Iscte - Institut Universitaire de Lisbonne propose 14 bourses de mérite pour les étudiants de doctorat pour l'année académique 2026/2027. Ces bourses couvrent divers domaines tels que l'administration publique, la science politique, les sciences de la communication, les études africaines, et bien d'autres. Les candidats doivent être inscrits à temps plein, soumettre un dossier comprenant un projet de recherche, une lettre de motivation et deux lettres de recommandation, et répondre à des critères d'excellence académique. La date limite de candidature est le 8 juillet 2026.",
+    "imageUrl": "/docs/8-juillet-2026.jpg",
+    "extrait_le": "2026-06-29T14:36:02",
+    "slug": "bourses-merite-doctorat-iscte-lisbonne-2026"
   },
   {
     "titre": "Programme de Leadership pour la Jeunesse des Systèmes Alimentaires des Nations Unies",
@@ -1733,6 +1831,136 @@
     "resume": "L'UNESCO lance la deuxième édition du programme Youth for Peace, un programme de leadership interculturel destiné aux jeunes leaders de 25 à 45 ans. Les participants bénéficient d'une formation en ligne, d'un mentorat et d'un financement de démarrage de 10 000 USD pour mener une initiative de dialogue interculturel sur le thème 'Connexion humaine et dialogue à l'ère de l'intelligence artificielle'. Les candidatures sont ouvertes jusqu'au 19 juillet 2026.",
     "extrait_le": "2026-06-25T14:39:29",
     "slug": "bourse-unesco-youth-for-peace-2026"
+  },
+  {
+    "titre": "Bourses de doctorat Walsh Scholars",
+    "seo_slug": "walsh-scholars-phd-irlande-2026",
+    "organisation": "Teagasc",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-24",
+    "deadline_texte": "24 juillet 2026 à 17h00 (dernière date limite parmi les offres)",
+    "niveau_etudes": [
+      "Doctorat",
+      "Master"
+    ],
+    "domaines": [
+      "Agriculture",
+      "Alimentation",
+      "Environnement",
+      "Climat",
+      "Développement rural"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Consulter les offres individuelles"
+    ],
+    "avantages": [
+      "Formation entièrement financée",
+      "Supervision par des chercheurs de premier plan",
+      "Accès à des installations de recherche de pointe",
+      "Opportunités de collaboration internationale, voyages et conférences",
+      "Formation en recherche, communication, leadership et résolution de problèmes",
+      "Appartenance à une communauté de recherche solidaire"
+    ],
+    "eligibilite": [
+      "Diplômés de niveau master ou licence (selon l'offre)",
+      "Intérêt pour la recherche en agriculture, alimentation, environnement, climat, développement rural"
+    ],
+    "procedure_etapes": [
+      "1. Parcourir les opportunités disponibles",
+      "2. Examiner les détails du projet et de l'encadrement",
+      "3. Postuler comme indiqué dans l'offre"
+    ],
+    "contacts": [
+      "walshscholarships@teagasc.ie",
+      "+353 59 917 0200"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page d'accueil du programme Walsh Scholars",
+        "url": "https://teagasc.ie/about/research-innovation/the-walsh-scholars-programme/"
+      },
+      {
+        "label": "Offre MSc 2024014 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2024014_E.Mullins_D.Ryan_.pdf"
+      },
+      {
+        "label": "Offre PhD 2025202 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025202_M.ODonovan_D.Hennessy.pdf"
+      },
+      {
+        "label": "Offre PhD 2025206 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-2025206_N.McHugh_D.Purfileld-ad2.pdf"
+      },
+      {
+        "label": "Offre PhD 2025207 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025207_C.Ryan_D.Purfield-AD-2.pdf"
+      },
+      {
+        "label": "Offre PhD 2025210 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025210_J.Magan_T.OCallaghan.pdf"
+      },
+      {
+        "label": "Offre PhD 2025213 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025213_P.Lamichhane_T.Huppertz.pdf"
+      },
+      {
+        "label": "Offre PhD 2025214 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025214_J.Tobin_T.Huppertz.pdf"
+      },
+      {
+        "label": "Offre PhD 2026001 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/WS-REF-2026001_A.Murray_B.ONeill.pdf"
+      },
+      {
+        "label": "Offre PhD 2026011 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2026011_N.Byrne_A.Kelly_.pdf"
+      },
+      {
+        "label": "Offre PhD 2026045 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2026045__P.Crosson_J.Kinsella-R2-online-only.pdf"
+      },
+      {
+        "label": "Offre MSc 2023298 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2023298_S.Hannon_U.Tiwari.pdf"
+      },
+      {
+        "label": "Offre PhD 2025049 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025049_S.Hogan_A.Kelly_.pdf"
+      },
+      {
+        "label": "Offre PhD 2025215 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025215_L.Giblin_K.Nally_.pdf"
+      },
+      {
+        "label": "Offre PhD 2026041 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2026041_L.Walsh_D.Styles.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat irlande",
+      "walsh scholars",
+      "teagasc",
+      "agriculture",
+      "alimentation",
+      "environnement",
+      "recherche",
+      "financement complet"
+    ],
+    "lien_candidature": "https://teagasc.ie/about/research-innovation/the-walsh-scholars-programme/",
+    "source_url": "https://teagasc.ie/about/research--innovation/the-walsh-scholars-programme/walsh-scholars-opportunities/?fbclid=IwY2xjawSvaz9leHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHo2jgpdKhae68FcdNGedYTUkYWAOfRhboIBcweH6a7aD3j2fj6G5gmgf_p0m_aem_4cWakMXRuLNXjDA_8kFWaA",
+    "statut": "ouvert",
+    "resume": "Le programme Walsh Scholars de Teagasc offre des bourses entièrement financées pour des doctorats et masters en agriculture, alimentation, environnement, climat et développement rural. Les boursiers bénéficient d'un encadrement par des chercheurs de renom, d'accès à des installations de pointe et d'opportunités de collaboration internationale. Les candidatures sont ouvertes jusqu'au 24 juillet 2026 selon les offres.",
+    "adresse": "Teagasc, Oak Park, Carlow, R93 XE12",
+    "imageUrl": null,
+    "extrait_le": "2026-06-29T15:17:34",
+    "slug": "walsh-scholars-phd-irlande-2026"
   },
   {
     "titre": "Bourse Rhodes 2027 pour des études supérieures à l'Université d'Oxford",
@@ -3274,6 +3502,108 @@
     "adresse": "Cambridge-Africa Programme Department of Pathology Tennis Court Road Cambridge CB2 1QP United Kingdom",
     "extrait_le": "2026-06-23T12:17:08",
     "slug": "fonds-recherche-cambridge-afrique-alborada-2026"
+  },
+  {
+    "titre": "Programme de formation à la recherche du gouvernement australien (RTP)",
+    "seo_slug": "bourse-rtp-recherche-australie-2026",
+    "organisation": "University of Sydney",
+    "montant": 42754,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-09-11",
+    "deadline_texte": "11 septembre 2026 (pour Research Period 1 et 2, 2027)",
+    "niveau_etudes": [
+      "Doctorat",
+      "Master recherche"
+    ],
+    "domaines": [
+      "Tous domaines de recherche"
+    ],
+    "pays_eligibles": [
+      "Tous pays (international)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Documents d'admission au programme de recherche",
+      "Preuve d'expérience en recherche",
+      "Lettre de motivation"
+    ],
+    "avantages": [
+      "Bourse de subsistance de 42 754 AUD par an (taux 2026)",
+      "Allocation de réinstallation",
+      "Allocation de thèse",
+      "Frais de scolarité à 100%",
+      "Couverture santé Overseas Student Health Cover (OSHC)"
+    ],
+    "eligibilite": [
+      "Être étudiant international",
+      "Commencer ou être inscrit dans un programme de recherche supérieur (Master recherche ou Doctorat)",
+      "Être sélectionné sur concours"
+    ],
+    "procedure_etapes": [
+      "1. Pour les nouveaux étudiants : postuler à l'admission via Sydney Courses avant la date limite.",
+      "2. Soumettre le formulaire de candidature à la bourse avant la date limite.",
+      "3. Pour les étudiants déjà inscrits : soumettre le formulaire de candidature avant la date limite."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.sydney.edu.au/scholarships/australian-government-research-training-program/rtp-international.html?fbclid=IwY2xjawSvZptleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmTnnHWC22Ljbm2oAI55gqqCJ-N4F-ZTdIHjsL6izjpX4k4k_aZfGL6_p8iE_aem_mpPJ4jt4rzO5lIf1xYINEw"
+      },
+      {
+        "label": "Formulaire de candidature RTP",
+        "url": "https://sydneyuniversity.formstack.com/forms/rtpapp"
+      },
+      {
+        "label": "Conditions RTP Stipend (international) (PDF)",
+        "url": "https://www.sydney.edu.au/content/dam/corporate/documents/scholarships/rtp-scholarships-/updated-tcs---rtp-international-stipend.pdf"
+      },
+      {
+        "label": "Conditions RTP Fee Offset (PDF)",
+        "url": "https://www.sydney.edu.au/content/dam/corporate/documents/scholarships/rtp-scholarships-/tcs---rtp-international-tuition-fee.pdf"
+      },
+      {
+        "label": "Conditions USYDIS (PDF)",
+        "url": "https://www.sydney.edu.au/content/dam/corporate/documents/scholarships/rtp-scholarships-/updated-tcs---usydis.pdf"
+      },
+      {
+        "label": "Conditions International Tuition Fee Scholarship (PDF)",
+        "url": "https://www.sydney.edu.au/content/dam/corporate/documents/scholarships/rtp-scholarships-/tscs---usyd-international-tuition-fee.pdf"
+      },
+      {
+        "label": "Processus de sélection HDR (PDF)",
+        "url": "https://sydney.edu.au/content/dam/corporate/documents/scholarships/rtp-scholarships-/hdr-selection-process.pdf"
+      },
+      {
+        "label": "Modèle de preuve d'expérience en recherche (DOC)",
+        "url": "https://www.sydney.edu.au/content/dam/corporate/documents/scholarships/rtp-scholarships-/research-experience-evidence-template.docx"
+      },
+      {
+        "label": "Guide d'expérience en recherche et annexe (PDF)",
+        "url": "https://www.sydney.edu.au/content/dam/corporate/documents/scholarships/rtp-scholarships-/research_experience_information_and_appendix_guide.pdf"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.sydney.edu.au/scholarships/australian-government-research-training-program/faqs.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse recherche australie",
+      "RTP scholarship",
+      "University of Sydney",
+      "bourse doctorat international",
+      "bourse master recherche"
+    ],
+    "lien_candidature": "https://sydneyuniversity.formstack.com/forms/rtpapp",
+    "source_url": "https://www.sydney.edu.au/scholarships/australian-government-research-training-program/rtp-international.html?fbclid=IwY2xjawSvZptleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmTnnHWC22Ljbm2oAI55gqqCJ-N4F-ZTdIHjsL6izjpX4k4k_aZfGL6_p8iE_aem_mpPJ4jt4rzO5lIf1xYINEw",
+    "statut": "ouvert",
+    "resume": "Le programme RTP du gouvernement australien offre des bourses généreuses aux étudiants internationaux souhaitant poursuivre un master recherche ou un doctorat à l'Université de Sydney. Les bourses comprennent une allocation de subsistance de 42 754 AUD par an, une prise en charge totale des frais de scolarité et une couverture santé. Les candidatures sont ouvertes pour les périodes de recherche 2026 et 2027, avec des dates limites en septembre et décembre.",
+    "imageUrl": "/docs/Programme-de-formation-la-recherche-du-gouvernement-australien-RTP.webp",
+    "extrait_le": "2026-06-29T15:02:36",
+    "slug": "bourse-rtp-recherche-australie-2026"
   },
   {
     "titre": "Appel à candidatures 2026/27 – Formations diplômantes internationales à distance",
@@ -5822,6 +6152,198 @@
     "slug": "bourses-excellence-suisse-recherche-art-2027"
   },
   {
+    "titre": "Bourse KFUPM",
+    "seo_slug": "bourse-kfupm-master-doctorat-2026",
+    "organisation": "King Fahd University of Petroleum and Minerals (KFUPM)",
+    "montant": null,
+    "devise": "SAR",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les domaines proposés par KFUPM"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Non spécifiée",
+    "documents_requis": [],
+    "avantages": [
+      "Allocation mensuelle selon catégorie",
+      "Logement meublé climatisé sur le campus avec services publics et entretien",
+      "Billets d'avion (uniquement pour étudiants internationaux)",
+      "Soins médicaux et dentaires",
+      "Repas subventionnés",
+      "Possibilité de devenir assistant de recherche (RA-PhD)",
+      "Exonération des frais de scolarité",
+      "Financement pour participation à des conférences sous conditions",
+      "Opportunité de travailler sur des projets de recherche et d'obtenir des avantages financiers",
+      "Accès à la bibliothèque principale et aux centres de ressources des départements",
+      "Environnement sûr et sécurisé",
+      "Installations de loisirs (plage privée incluse)",
+      "Manuels scolaires gratuits"
+    ],
+    "eligibilite": [
+      "Candidats diplômés exceptionnels avec un haut GPA",
+      "Admission en tant qu'étudiant à temps plein en Master ou Doctorat",
+      "Programme de doctorat direct d'une durée de 5 ans : bourse complète pour les 4 premières années"
+    ],
+    "procedure_etapes": [],
+    "contacts": [
+      "d-cgs@kfupm.edu.sa",
+      "+966 (13) 8602800"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://admissions.kfupm.edu.sa/en?fbclid=IwY2xjawSvZOFleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtpAKpquuh8F_NdXb6QN13QbWNU-sh9FUhhXyGd4rNr5zmJW1q4IDjS1DdED_aem_utTs8uaitTemGeAFkIxnoQ"
+      },
+      {
+        "label": "Page d'admission KFUPM",
+        "url": "https://cgis.kfupm.edu.sa/admission/kfupm-scholarship?fbclid=IwY2xjawSvZPpleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiUb5vYSXLzOltSB6BjH9-s6Cm_h72SJcTvjqFByA30j7SWYpB-2K-Pcf7Jq_aem_hXIu-b5WVZ-qFVW_JNoaGw"
+      }
+    ],
+    "mots_cles": [
+      "bourse KFUPM",
+      "bourse Arabie Saoudite",
+      "bourse master",
+      "bourse doctorat",
+      "bourse complète",
+      "KFUPM scholarship",
+      "études à l'étranger"
+    ],
+    "lien_candidature": "https://cgis.kfupm.edu.sa/admission/kfupm-scholarship?fbclid=IwY2xjawSvZPpleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiUb5vYSXLzOltSB6BjH9-s6Cm_h72SJcTvjqFByA30j7SWYpB-2K-Pcf7Jq_aem_hXIu-b5WVZ-qFVW_JNoaGw",
+    "source_url": "https://cgis.kfupm.edu.sa/admission/kfupm-scholarship?fbclid=IwY2xjawSvZPpleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiUb5vYSXLzOltSB6BjH9-s6Cm_h72SJcTvjqFByA30j7SWYpB-2K-Pcf7Jq_aem_hXIu-b5WVZ-qFVW_JNoaGw",
+    "statut": "ouvert",
+    "resume": "La bourse KFUPM offre une prise en charge complète aux étudiants diplômés exceptionnels pour des programmes de Master et Doctorat à l'Université King Fahd du Pétrole et des Minéraux en Arabie Saoudite. Les bénéficiaires reçoivent une allocation mensuelle, un logement meublé, des billets d'avion pour les internationaux, des soins médicaux, et bien d'autres avantages. Cette bourse couvre tous les frais de scolarité et offre des opportunités de recherche et de développement professionnel.",
+    "adresse": "Building 68",
+    "imageUrl": "/docs/King-Fahd-University-of-Petroleum-Minerals.jpg",
+    "extrait_le": "2026-06-29T14:55:26",
+    "slug": "bourse-kfupm-master-doctorat-2026"
+  },
+  {
+    "titre": "Bourses d'Excellence Internationales - Université du Grand Manchester 2026/27",
+    "seo_slug": "bourses-excellence-internationales-grand-manchester-2026",
+    "organisation": "University of Greater Manchester",
+    "montant": 4000,
+    "devise": "GBP",
+    "type_financement": "réduction de frais de scolarité",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Ghana",
+      "Kenya",
+      "Afrique du Sud",
+      "Ouganda",
+      "Rwanda",
+      "Zambie",
+      "Tanzanie",
+      "Sénégal",
+      "Côte d'Ivoire",
+      "Égypte",
+      "Liban",
+      "Irak",
+      "Jordanie",
+      "Maroc",
+      "Libye",
+      "Oman",
+      "Bahreïn",
+      "Émirats arabes unis",
+      "Arabie saoudite",
+      "Koweït",
+      "Qatar",
+      "Turquie",
+      "Tous les pays de l'UE",
+      "États-Unis",
+      "Canada",
+      "Chine",
+      "Malaisie",
+      "Indonésie",
+      "Singapour",
+      "Thaïlande",
+      "Sri Lanka",
+      "Vietnam",
+      "Népal",
+      "Brésil",
+      "Colombie",
+      "Chili",
+      "Pérou",
+      "Argentine",
+      "Équateur",
+      "Paraguay",
+      "Uruguay",
+      "République dominicaine"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Relevés de notes",
+      "Preuve de niveau d'anglais",
+      "Lettre de motivation",
+      "CV"
+    ],
+    "avantages": [
+      "Réduction des frais de scolarité jusqu'à 4 000 £"
+    ],
+    "eligibilite": [
+      "Être un étudiant international",
+      "S'autofinancer (sauf pour le Merit Package)",
+      "Postuler directement (sauf pour le Merit Package)",
+      "Avoir un bon dossier académique"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité selon le pays et le programme",
+      "2. Postuler à un programme d'études à l'Université du Grand Manchester",
+      "3. La bourse est attribuée automatiquement sur la base du dossier académique"
+    ],
+    "contacts": [
+      "enquiries@greatermanchester.ac.uk",
+      "+44 (0)1204 900 600"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://greatermanchester.ac.uk/study/international/scholarship?fbclid=IwY2xjawSvbppleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpFud1kk5DlkFJHAX4ONAKkqEQA31G9l27jAOk_A5nDVPymbIIWSMBBkdrOS_aem_kh3q-zS-VsmTRURepfjWPw"
+      },
+      {
+        "label": "Page officielle de la bourse",
+        "url": "https://greatermanchester.ac.uk/study/international/scholarship"
+      },
+      {
+        "label": "Homecoming Scholarship",
+        "url": "https://greatermanchester.ac.uk/study/international/scholarship/homecoming-scholarship"
+      }
+    ],
+    "mots_cles": [
+      "bourse excellence internationale",
+      "réduction frais scolarité",
+      "université grand manchester",
+      "bourse licence master doctorat",
+      "bourse angleterre 2026"
+    ],
+    "lien_candidature": "https://greatermanchester.ac.uk/study/international/scholarship",
+    "source_url": "https://greatermanchester.ac.uk/study/international/scholarship?fbclid=IwY2xjawSvbppleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpFud1kk5DlkFJHAX4ONAKkqEQA31G9l27jAOk_A5nDVPymbIIWSMBBkdrOS_aem_kh3q-zS-VsmTRURepfjWPw",
+    "statut": "ouvert",
+    "resume": "L'Université du Grand Manchester propose des bourses d'excellence internationales pour l'année 2026/27, offrant des réductions sur les frais de scolarité allant jusqu'à 4 000 £. Accessibles aux étudiants de licence, master et doctorat, ces bourses sont attribuées sur critères académiques. Deux packages sont disponibles : le Global Excellence Package pour les étudiants de pays sélectionnés postulant directement, et le International Merit Package pour les autres. Les candidats doivent s'autofinancer et postuler à un programme d'études pour être éligibles.",
+    "adresse": "University of Greater Manchester Deane Road, Bolton, BL3 5AB.",
+    "imageUrl": null,
+    "extrait_le": "2026-06-29T15:31:30",
+    "slug": "bourses-excellence-internationales-grand-manchester-2026"
+  },
+  {
     "titre": "Bourses Chevening",
     "seo_slug": "bourses-chevening-master-royaume-uni-2027",
     "organisation": "Foreign and Commonwealth Office (FDCO)",
@@ -7055,92 +7577,85 @@
     "slug": "bourses-entree-universite-york-canada-2026"
   },
   {
-    "titre": "Bourses France Excellence pour doctorants togolais 2026-2027",
-    "seo_slug": "bourses-france-excellence-doctorat-togo-2026",
-    "organisation": "Ambassade de France au Togo",
+    "titre": "Bourse d'études supérieures GIST 2026",
+    "seo_slug": "bourse-gist-master-coree-2026",
+    "organisation": "Gwangju Institute of Science and Technology (GIST)",
     "montant": null,
-    "devise": "EUR",
-    "type_financement": "bourse partielle",
-    "deadline": "2026-05-24",
-    "deadline_texte": "24 mai 2026 à 23h59",
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2026-04-15",
+    "deadline_texte": "15 avril (semestre d'automne) ou 15 octobre (semestre de printemps)",
     "niveau_etudes": [
+      "Master",
       "Doctorat"
     ],
     "domaines": [
-      "Santé",
-      "Sciences animales et végétales",
-      "Agronomie",
-      "Alimentation",
-      "Numérique",
-      "Intelligence artificielle",
-      "Quantique",
-      "Biotechnologies",
-      "Énergies durables",
-      "Sciences de l'environnement",
-      "Mobilités bas carbone",
-      "Technologies de l'information et de la communication"
+      "Sciences",
+      "Technologie",
+      "Ingénierie"
     ],
     "pays_eligibles": [
-      "Togo"
+      "Tous les pays"
     ],
-    "age_maximum": 35,
-    "langue_requise": "Français",
+    "age_maximum": null,
+    "langue_requise": "Anglais",
     "documents_requis": [
-      "Formulaire de demande de bourse",
-      "Lettre d'acceptation ou de pré-acceptation d'un établissement français",
-      "Diplôme de Master 2, DEA ou équivalent",
-      "Relevés de notes"
+      "Formulaire de candidature en ligne",
+      "Relevés de notes",
+      "Lettres de recommandation",
+      "CV",
+      "Déclaration personnelle",
+      "Preuve de compétence en anglais"
     ],
-    "avantages": [
-      "Prise en charge des frais de transport aller/retour entre Lomé et le lieu de formation en France",
-      "Couverture sociale",
-      "Allocation d'entretien mensuelle",
-      "Aide de Campus France pour trouver un logement",
-      "Visa délivré à titre gracieux"
-    ],
+    "avantages": [],
     "eligibilite": [
-      "Être de nationalité togolaise (les binationaux franco-togolais ne sont pas éligibles)",
-      "Âgé(e) de 35 ans au plus au 1er janvier 2026",
-      "Être titulaire d'un Master 2, DEA ou équivalent à la fin de l'année universitaire 2025/2026",
-      "Avoir obtenu une moyenne minimum de 15/20 au Master 2 ou équivalence",
-      "Avoir une lettre d'acceptation ou de pré-acceptation dans un établissement français",
-      "Avoir effectué tout ou partie de ses études supérieures au Togo",
-      "Être inscrit en doctorat"
+      "Diplôme de licence pour le master",
+      "Diplôme de master pour le doctorat"
     ],
     "procedure_etapes": [
-      "1. Vérifier les conditions d'éligibilité",
-      "2. Obtenir une lettre d'acceptation ou de pré-acceptation d'un établissement français",
-      "3. Remplir le formulaire de demande de bourse",
-      "4. Envoyer le dossier complet avant le 24 mai 2026 à 23h59"
+      "1. Remplir le formulaire de candidature en ligne",
+      "2. Soumettre tous les documents requis avant la date limite",
+      "3. Attendre l'examen des documents (15 jours)",
+      "4. Attendre la révision des documents (30 jours)",
+      "5. Recevoir la notification des résultats"
     ],
     "contacts": [],
     "liens_utiles": [
       {
-        "label": "Site officiel",
-        "url": "https://tg.diplomatie.gouv.fr/poursuivez-vos-etudes-superieures-2026-2027-en-france-grace-aux-bourses-france-excellence?fbclid=IwY2xjawSnX7FleHRuA2FlbQIxMABicmlkETF0T1JSbVJRS1BqNjRSclZic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvY0TFQgCG2H4BssFmcHvbDDVan9_RvwTBYXAk76mFVAam4h0napSrIruLVw_aem_SyG3NiIiH6pjdca_36pnnQ"
+        "label": "Candidature en ligne",
+        "url": "https://ipsi3.uwayapply.com/2026/foreign/GIST/?CHA=1"
       },
       {
-        "label": "Appel à candidature PDF",
-        "url": "https://tg.ambafrance.org/files/tg/files/appel-a-candidature-bourses-france-excellence_2026-27.pdf"
+        "label": "Admissions premier cycle",
+        "url": "https://www.gist.ac.kr/uadm/main.html"
       },
       {
-        "label": "Formulaire de demande de bourse PDF",
-        "url": "https://tg.ambafrance.org/files/tg/files/formulaire_bourse-doctorat.pdf"
+        "label": "Admissions cycles supérieurs",
+        "url": "https://www.gist.ac.kr/gadm/"
+      },
+      {
+        "label": "Admissions internationales premier cycle",
+        "url": "https://www.gist.ac.kr/iuadm/"
+      },
+      {
+        "label": "Admissions internationales cycles supérieurs",
+        "url": "https://www.gist.ac.kr/iadm/main.html"
       }
     ],
     "mots_cles": [
-      "bourse doctorat France",
-      "bourse France Excellence Togo",
-      "bourse Ambassade France Togo",
-      "doctorat France 2026",
-      "bourse mobilité doctorant"
+      "bourse GIST",
+      "études Corée",
+      "master sciences",
+      "doctorat technologie",
+      "bourse internationale"
     ],
-    "lien_candidature": "https://tg.ambafrance.org/Poursuivez-vos-etudes-superieures-2026-2027-en-France-grace-aux-Bourses-France",
+    "lien_candidature": "https://ipsi3.uwayapply.com/2026/foreign/GIST/?CHA=1",
     "source_url": "manuel",
     "statut": "fermé",
-    "resume": "L'Ambassade de France au Togo offre deux bourses France Excellence pour l'année universitaire 2026-2027 aux doctorants togolais. Les bourses financent des séjours en France dans des domaines prioritaires comme la santé, le numérique ou les énergies durables. Les candidats doivent être togolais, âgés de moins de 35 ans, titulaires d'un Master 2 avec une moyenne d'au moins 15/20, et avoir une lettre d'acceptation d'un établissement français. Les candidatures féminines sont fortement encouragées.",
-    "extrait_le": "2026-06-23T12:52:51",
-    "slug": "bourses-france-excellence-doctorat-togo-2026"
+    "resume": "Le Gwangju Institute of Science and Technology (GIST) en Corée du Sud propose des admissions pour les semestres de printemps et d'automne 2026. Les candidatures sont ouvertes aux étudiants internationaux pour les programmes de master et doctorat en sciences, technologie et ingénierie. La date limite est le 15 avril pour le semestre d'automne et le 15 octobre pour le semestre de printemps. Les candidats doivent soumettre un dossier complet en ligne.",
+    "imageUrl": null,
+    "extrait_le": "2026-06-29T15:35:06",
+    "slug": "bourse-gist-master-coree-2026"
   },
   {
     "titre": "Bourse Glenmore pour Études Supérieures",
@@ -8022,6 +8537,99 @@
     "adresse": "Nemanjina 22-26, 11 000 Belgrade",
     "extrait_le": "2026-06-24T18:10:36",
     "slug": "bourse-monde-serbie-2026"
+  },
+  {
+    "titre": "Bourse Flagship Fellowship",
+    "seo_slug": "flagship-fellowship-entrepreneurs-2026",
+    "organisation": "Watson Institute",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-28",
+    "deadline_texte": "28 juin 2026 (date limite prioritaire)",
+    "niveau_etudes": [],
+    "domaines": [
+      "Entrepreneuriat",
+      "Leadership",
+      "Impact social"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Programme entièrement financé de 16 semaines",
+      "Ateliers en affaires et leadership",
+      "Outils et ressources financières",
+      "Série Impact et ateliers spécialisés",
+      "Formation au pitch et Sommet virtuel",
+      "Mentorat intensif",
+      "Réseau mondial de pairs"
+    ],
+    "eligibilite": [
+      "Être fondateur, entrepreneur ou innovateur communautaire",
+      "Avoir une entreprise ou organisation en activité depuis 1 à 5 ans avec moins de 10 employés",
+      "Avoir des clients, des résultats mesurables et un certain financement (subventions, investissements, dons, revenus)",
+      "Être âgé de 18 ans ou plus",
+      "Pouvoir s'engager pour les 16 semaines complètes du programme (11 août - 24 novembre 2026) et participer à l'Immersive virtuelle obligatoire du 11 au 18 août 2026 ainsi qu'aux ateliers hebdomadaires les mardis, mercredis et jeudis de 8h00 à 10h00 MT",
+      "L'éligibilité géographique varie selon la bourse spécifique (Luff, Sustainability, Kenneth King Foundation, Venable)"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre la candidature en ligne avant le 28 juin 2026 (date limite prioritaire) ; les candidatures sont examinées au fur et à mesure jusqu'à ce que toutes les places soient pourvues.",
+      "2. Examen de la candidature par le comité d'admission.",
+      "3. Entretien Zoom de 20 minutes pour les candidats sélectionnés.",
+      "4. Sélection finale et inscription : les décisions finales sont annoncées le 9 juillet 2026. Les candidats retenus doivent confirmer leur inscription."
+    ],
+    "contacts": [
+      "info@watson.is",
+      "+1 720-432-0629"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://watson.is/flagship-fellowship/?fbclid=IwY2xjawSiU3VleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm0umM6v14vUPtz5INyjLpKew0cfj2DsB9o5pIj_5paK0YWu7R3iTlpgsDHl_aem_yPJsA1kijX_VStHmXTDUgA"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://watson.is/flagship-fellowship-application/"
+      },
+      {
+        "label": "Page d'accueil du programme",
+        "url": "https://watson.is/flagship-fellowship/"
+      },
+      {
+        "label": "Basecamps",
+        "url": "https://watson.is/basecamps/"
+      },
+      {
+        "label": "Sommets",
+        "url": "https://watson.is/summits/"
+      },
+      {
+        "label": "Rencontrez les anciens",
+        "url": "https://watson.is/meet-the-fellows/"
+      }
+    ],
+    "mots_cles": [
+      "bourse entrepreneuriat",
+      "fellowship leadership",
+      "Watson Institute",
+      "programme entièrement financé",
+      "entrepreneur social",
+      "bourse 2026",
+      "impact venture"
+    ],
+    "lien_candidature": "https://watson.is/flagship-fellowship-application/",
+    "source_url": "https://watson.is/flagship-fellowship/?fbclid=IwY2xjawSiU3VleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHm0umM6v14vUPtz5INyjLpKew0cfj2DsB9o5pIj_5paK0YWu7R3iTlpgsDHl_aem_yPJsA1kijX_VStHmXTDUgA",
+    "statut": "fermé",
+    "resume": "Le Flagship Fellowship est un programme de développement entrepreneurial et de leadership entièrement financé de 16 semaines proposé par le Watson Institute. Il réunit des entrepreneurs à impact du monde entier pour une formation intensive, un mentorat, un accès au capital et une communauté mondiale de pairs. Le programme commence par une Immersive virtuelle et comprend des ateliers en affaires, des outils financiers, une formation au pitch et un Sommet virtuel. Les candidatures sont ouvertes jusqu'au 28 juin 2026.",
+    "adresse": "4845 Pearl E. Circle, Suite 101 Boulder, CO 80301",
+    "extrait_le": "2026-06-19T16:56:02",
+    "slug": "flagship-fellowship-entrepreneurs-2026"
   },
   {
     "titre": "Bourse Rhodes 2027 pour les candidats internationaux (hors pays spécifiques)",

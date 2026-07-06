@@ -33,7 +33,7 @@ export function ActualiteCard({ actualite }: { actualite: Actualite }) {
         </div>
 
         {/* Titre */}
-        <h3 className="mb-2 text-sm font-medium leading-snug text-stone-900 transition-colors group-hover:text-amber-800 line-clamp-2">
+        <h3 className="mb-2 text-sm font-normal leading-snug text-stone-900 transition-colors group-hover:text-amber-800 line-clamp-2">
           {actualite.title}
         </h3>
 

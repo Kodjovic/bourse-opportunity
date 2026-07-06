@@ -1903,6 +1903,112 @@
     "slug": "bourses-cyd-cyberdefense-suisse-2026"
   },
   {
+    "titre": "Bourse McCall MacBain à McGill",
+    "seo_slug": "bourse-mccall-macbain-mcgill-2027",
+    "organisation": "McCall MacBain Scholarships at McGill",
+    "montant": null,
+    "devise": "CAD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-08-19",
+    "deadline_texte": "19 août 2026 à 16h00 (heure de l'Est) pour les candidats internationaux ; 23 septembre 2026 à 16h00 (heure de l'Est) pour le Canada et les États-Unis",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Tous les domaines offerts à McGill"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": 30,
+    "langue_requise": "Anglais (ou français selon le programme)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Deux formulaires de référence",
+      "Relevés de notes",
+      "CV",
+      "Lettre de motivation"
+    ],
+    "avantages": [
+      "Frais de scolarité et frais de subsistance couverts",
+      "Mentorat",
+      "Apprentissage interdisciplinaire",
+      "Communauté mondiale",
+      "Frais de voyage pour les entretiens finaux"
+    ],
+    "eligibilite": [
+      "Être sur le point d'obtenir un premier diplôme de baccalauréat d'ici août 2027",
+      "Avoir obtenu un premier diplôme de baccalauréat au cours des cinq dernières années (janvier 2021 ou après)",
+      "Avoir obtenu un premier diplôme de baccalauréat il y a plus de cinq ans et avoir 30 ans ou moins au 1er janvier 2026",
+      "Répondre aux exigences minimales de diplôme et de langue pour l'admission à un programme de maîtrise à McGill"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité et les délais.",
+      "2. Soumettre la candidature en ligne pour la bourse McCall MacBain (de juin à août/septembre 2026).",
+      "3. Postuler séparément aux programmes de maîtrise compatibles à McGill (ouverture des admissions en septembre 2026).",
+      "4. Si sélectionné, participer aux entretiens régionaux (invitation seulement, octobre-décembre 2026).",
+      "5. Si finaliste, participer aux entretiens finaux à Montréal (mars 2027).",
+      "6. Arriver sur le campus en septembre 2027."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page d'accueil de la bourse",
+        "url": "https://mccallmacbainscholars.org/apply/"
+      },
+      {
+        "label": "Programme complet",
+        "url": "https://mccallmacbainscholars.org/program"
+      },
+      {
+        "label": "Autres prix d'entrée",
+        "url": "https://mccallmacbainscholars.org/program#other"
+      },
+      {
+        "label": "Inscription aux séances d'information",
+        "url": "https://apply.mccallmacbainscholars.org/portal/events"
+      },
+      {
+        "label": "Exigences d'admission à McGill",
+        "url": "https://www.mcgill.ca/gradapplicants/how-apply"
+      },
+      {
+        "label": "Programmes éligibles à McGill",
+        "url": "https://mccallmacbainscholars.org/program#degrees"
+      },
+      {
+        "label": "Dates des entretiens régionaux",
+        "url": "https://mccallmacbainscholars.org/regional-interviews"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://mccallmacbainscholars.org/faq/"
+      },
+      {
+        "label": "Ressources",
+        "url": "https://mccallmacbainscholars.org/resources"
+      },
+      {
+        "label": "Abonnement aux actualités",
+        "url": "https://mccallmacbainscholars.org/subscribe"
+      }
+    ],
+    "mots_cles": [
+      "bourse McCall MacBain",
+      "bourse complète McGill",
+      "master Canada 2027",
+      "bourse leadership",
+      "bourse internationale Canada"
+    ],
+    "lien_candidature": "https://apply.mccallmacbainscholars.org/apply",
+    "source_url": "https://mccallmacbainscholars.org/apply/?fbclid=IwY2xjawS4DtRleHRuA2FlbQIxMABicmlkETE5bzJBTHJYdHVZZ0ZNSDk1c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvFtcTY2ztdEB4myMZPyhJOi_2QQ2KHRmKxW3tjf1BaLk5jqV7IUzY4J7wiy_aem_n1ksldMe2NZUkrz3BcqQaQ",
+    "statut": "ouvert",
+    "resume": "La bourse McCall MacBain est une bourse complète de maîtrise à l'Université McGill, offrant jusqu'à 30 bourses complètes et 100 prix d'entrée chaque année. Elle recherche des candidats au caractère exceptionnel, engagés dans leur communauté, dotés d'un potentiel de leadership, d'un esprit entrepreneurial et d'une solide curiosité intellectuelle. Les candidatures pour la cohorte 2027 sont ouvertes, avec des dates limites en août et septembre 2026 selon la nationalité.",
+    "imageUrl": "/docs/McCall-MacBain-bourse-d-etude-de-l-universit-s.jpg",
+    "extrait_le": "2026-07-06T04:37:57",
+    "slug": "bourse-mccall-macbain-mcgill-2027"
+  },
+  {
     "titre": "Bourse de Stipend du Programme de Formation à la Recherche du Gouvernement Australien (RTP)",
     "seo_slug": "bourse-rtp-stipend-australie-2026",
     "organisation": "Australian National University (ANU)",
@@ -5225,6 +5331,85 @@
     "imageUrl": null,
     "extrait_le": "2026-06-29T15:31:30",
     "slug": "bourses-excellence-internationales-grand-manchester-2026"
+  },
+  {
+    "titre": "Programme de Bourses Mastercard Foundation à l'Université McGill",
+    "seo_slug": "bourse-mastercard-foundation-mcgill-2026",
+    "organisation": "Mastercard Foundation Scholars Program at McGill University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais ou Français",
+    "documents_requis": [
+      "Formulaire de candidature Mastercard Foundation",
+      "Documents supplémentaires après pré-sélection"
+    ],
+    "avantages": [
+      "Frais de scolarité",
+      "Frais de subsistance",
+      "Frais de voyage",
+      "Soutien académique et social"
+    ],
+    "eligibilite": [
+      "Être citoyen d'un pays africain",
+      "Avoir un diplôme de premier cycle",
+      "Démontrer un engagement envers le changement social",
+      "Avoir des besoins financiers",
+      "Être admissible à un programme de master à McGill"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité sur le site.",
+      "2. S'inscrire à une séance d'information pour recevoir le lien du formulaire.",
+      "3. Remplir le formulaire de candidature du programme.",
+      "4. Après pré-sélection, fournir des documents supplémentaires.",
+      "5. Les candidats pré-sélectionnés reçoivent une dispense de frais de candidature et des instructions pour postuler à McGill."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page d'éligibilité",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/eligibility"
+      },
+      {
+        "label": "Séances d'information",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/information-sessions"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/faq"
+      },
+      {
+        "label": "Site Mastercard Foundation Scholars",
+        "url": "https://mastercardfdn.org/all/scholars/"
+      }
+    ],
+    "mots_cles": [
+      "bourse mastercard foundation",
+      "bourse mcgill",
+      "bourse afrique",
+      "master canada",
+      "bourse complète"
+    ],
+    "lien_candidature": "https://www.mcgill.ca/mastercardfdn-scholars/apply",
+    "source_url": "https://www.mcgill.ca/mastercardfdn-scholars/apply?fbclid=IwY2xjawS4DPxleHRuA2FlbQIxMABicmlkETE5bzJBTHJYdHVZZ0ZNSDk1c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnc_jPBiUm6q66E1ewMM0P7FZaNuJgniHEEgKs1f2i8akzr_1kSB5EMCDDBM_aem_chTKGy9VBr5Oc0drehNPDQ",
+    "statut": "ouvert",
+    "resume": "Le Programme de Bourses Mastercard Foundation à l'Université McGill offre aux étudiants africains talentueux la possibilité de poursuivre un master à McGill. Les bourses couvrent l'intégralité des frais de scolarité, de subsistance et de voyage. Les candidats doivent démontrer un engagement social et des besoins financiers. La procédure commence par une séance d'information obligatoire.",
+    "adresse": "Suite 4100, Brown Student Services Building, 3600 rue McTavish, Montréal, Quebec H3A 0G3",
+    "imageUrl": "/docs/Programme-de-bourses-de-la-Fondation-Mastercard-l-Universit-McGill.webp",
+    "extrait_le": "2026-07-06T04:31:17",
+    "slug": "bourse-mastercard-foundation-mcgill-2026"
   },
   {
     "titre": "Bourses Chevening",

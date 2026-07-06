@@ -647,6 +647,109 @@
     "slug": "walsh-scholars-phd-irlande-2026"
   },
   {
+    "titre": "94 Postes Doctoraux Financés à l'Université de Messine, Italie - 42e Cycle 2026",
+    "seo_slug": "bourse-doctorat-messine-italie-2026",
+    "organisation": "University of Messina",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-24",
+    "deadline_texte": "24 juillet 2026 à 23h59 (heure italienne)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Bioingénierie",
+      "Biologie",
+      "Médecine",
+      "Économie",
+      "Gestion",
+      "Statistiques",
+      "Physique",
+      "Ingénierie",
+      "Psychologie",
+      "Sciences cognitives",
+      "Chimie",
+      "Sciences de l'administration publique",
+      "Sciences juridiques",
+      "Sciences politiques",
+      "Sciences humaines",
+      "Sciences vétérinaires",
+      "Biotechnologies",
+      "Sciences agricoles",
+      "Sciences de la durabilité",
+      "Médecine moléculaire translationnelle",
+      "Chirurgie",
+      "Mathématiques",
+      "Informatique",
+      "Droit",
+      "Philologie",
+      "Archéologie",
+      "Histoire"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Non spécifiée",
+    "documents_requis": [
+      "Diplômes",
+      "CV",
+      "Lettre de motivation",
+      "Autres documents selon le programme"
+    ],
+    "avantages": [
+      "94 postes financés",
+      "Mobilité internationale de recherche",
+      "Environnement de recherche multidisciplinaire",
+      "Encadrement académique de qualité"
+    ],
+    "eligibilite": [
+      "Ouvert aux candidats de toutes nationalités",
+      "Diplôme requis pour l'admission en doctorat",
+      "Sélection sur titres et examen d'entrée"
+    ],
+    "procedure_etapes": [
+      "1. Lire attentivement l'appel officiel et les annexes.",
+      "2. Vérifier les conditions d'admission pour le programme choisi.",
+      "3. Préparer tous les documents justificatifs requis.",
+      "4. Soumettre la candidature en ligne via le portail avant le 24 juillet 2026."
+    ],
+    "contacts": [
+      "dottorati@unime.it",
+      "090 676 8716 / 8502 / 8286 / 8281 / 8277",
+      "090 676 8716"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://unime.esse3.cineca.it/Home.do"
+      },
+      {
+        "label": "Appel officiel (bando)",
+        "url": "https://www.unime.it/bandi/bando-di-concorso-pubblico-titoli-ed-esami-lammissione-ai-corsi-di-dottorato-di-ricerca-1"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat",
+      "Italie",
+      "Université de Messine",
+      "42e cycle",
+      "2026",
+      "financement complet",
+      "mobilité internationale",
+      "recherche"
+    ],
+    "lien_candidature": "https://unime.esse3.cineca.it/Home.do",
+    "source_url": "https://agristok.net/2026/07/02/94-funded-phd-positions-university-of-messina-italy-2026/",
+    "statut": "ouvert",
+    "resume": "L'Université de Messine en Italie ouvre les candidatures pour son 42e cycle de doctorat avec 94 postes entièrement financés. Ouvert aux candidats du monde entier, ce programme couvre un large éventail de disciplines allant de l'ingénierie à la médecine en passant par les sciences humaines. La sélection se fait sur titres et examen d'entrée, avec une date limite de candidature fixée au 24 juillet 2026. Les doctorants bénéficient d'opportunités de mobilité internationale et d'un environnement de recherche multidisciplinaire.",
+    "adresse": "Piazza Pugliatti, 1  98122 Messina  Italy",
+    "imageUrl": "/docs/Bourses-de-doctorat-PhD-Scholarships.webp",
+    "extrait_le": "2026-07-06T03:57:33",
+    "slug": "bourse-doctorat-messine-italie-2026"
+  },
+  {
     "titre": "Bourse Rhodes 2027 pour des études supérieures à l'Université d'Oxford",
     "seo_slug": "bourse-rhodes-master-oxford-2027",
     "organisation": "Rhodes Trust",
@@ -8504,6 +8607,106 @@
     "imageUrl": "/docs/Al-Qasimi-Foundation-Scholarships-2026-in-UAE.jpg",
     "extrait_le": "2026-06-29T15:15:02",
     "slug": "bourse-al-qasimi-emirats-2026"
+  },
+  {
+    "titre": "Bourse KFUPM pour programmes de master et doctorat",
+    "seo_slug": "bourse-kfupm-master-doctorat-2026",
+    "organisation": "King Fahd University of Petroleum and Minerals (KFUPM)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-30",
+    "deadline_texte": "30 juin 2026 (pour les programmes MS avec thèse et PhD) ; 11 juillet 2026 (pour les programmes MS par projet)",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Pétrole",
+      "Génie chimique",
+      "Énergies renouvelables",
+      "Administration des affaires",
+      "Génie durable"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Relevés de notes",
+      "CV",
+      "Lettres de recommandation",
+      "Déclaration d'intention",
+      "Résultats de tests de langue (TOEFL/IELTS)"
+    ],
+    "avantages": [
+      "Frais de scolarité complets",
+      "Allocation mensuelle",
+      "Assurance maladie",
+      "Frais de voyage"
+    ],
+    "eligibilite": [
+      "Diplôme de bachelor pour le master",
+      "Diplôme de master pour le doctorat",
+      "Moyenne élevée (GPA)",
+      "Excellence académique"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les programmes offerts",
+      "2. Préparer les documents requis",
+      "3. Soumettre la candidature en ligne via le portail Nabegh",
+      "4. Suivre l'état de la candidature"
+    ],
+    "contacts": [
+      "d-cgs@kfupm.edu.sa",
+      "+966 (13) 8602800"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature Nabegh",
+        "url": "https://nabegh.kfupm.edu.sa/cycle/26/apply"
+      },
+      {
+        "label": "Suivi de candidature",
+        "url": "https://nabegh.kfupm.edu.sa"
+      },
+      {
+        "label": "Détails de la bourse",
+        "url": "https://cgis.kfupm.edu.sa/admission/kfupm-scholarship"
+      },
+      {
+        "label": "Programmes de graduate",
+        "url": "https://bulletin.kfupm.edu.sa/programs/graduate-programs/"
+      },
+      {
+        "label": "Programmes MS par projet",
+        "url": "https://ms.kfupm.edu.sa/"
+      },
+      {
+        "label": "Executive MBA",
+        "url": "https://kbs.kfupm.edu.sa/"
+      },
+      {
+        "label": "Executive Master en énergie durable",
+        "url": "https://ee.kfupm.edu.sa/academics/Graduate_Programs/meg-in-sustainable-and-renewable-energy"
+      }
+    ],
+    "mots_cles": [
+      "bourse KFUPM",
+      "master Arabie Saoudite",
+      "doctorat pétrole",
+      "bourse complète 2026",
+      "études supérieures KFUPM"
+    ],
+    "lien_candidature": "https://nabegh.kfupm.edu.sa/cycle/26/apply",
+    "source_url": "https://cgis.kfupm.edu.sa/?fbclid=IwY2xjawS4Bu1leHRuA2FlbQIxMABicmlkETE5bzJBTHJYdHVZZ0ZNSDk1c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtNmZKJASd9xVymlch8ZuNpRmZ29uzUnlHQ1nMMbF_JqB7ffbMl2fvWbDmmG_aem_dNMYKDLGrwaeyH_lm7lGiQ",
+    "statut": "fermé",
+    "resume": "La bourse KFUPM offre une opportunité exceptionnelle aux étudiants brillants du monde entier pour poursuivre un master ou un doctorat à la King Fahd University of Petroleum and Minerals en Arabie Saoudite. Les candidats sélectionnés bénéficient d'une prise en charge complète des frais de scolarité, d'une allocation mensuelle et d'autres avantages. Les candidatures sont ouvertes jusqu'au 30 juin 2026 pour les programmes MS avec thèse et PhD, et jusqu'au 11 juillet 2026 pour les programmes MS par projet.",
+    "adresse": "Building 68",
+    "imageUrl": null,
+    "extrait_le": "2026-07-06T04:04:33",
+    "slug": "bourse-kfupm-master-doctorat-2026"
   },
   {
     "titre": "Bourse Data Analytics (En ligne) de la Business School",

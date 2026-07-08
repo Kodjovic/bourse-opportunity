@@ -517,6 +517,111 @@
     "slug": "bourse-unesco-youth-for-peace-2026"
   },
   {
+    "titre": "Doctorat d'Intérêt National en Sciences et Technologies Spatiales - SST",
+    "seo_slug": "doctorat-sciences-spatiales-trento-2026",
+    "organisation": "Università degli Studi di Trento",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-20",
+    "deadline_texte": "20 juillet 2026 à 16h00 (heure italienne)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences spatiales",
+      "Ingénierie spatiale",
+      "Technologie spatiale",
+      "Relations internationales"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Diplôme de master ou équivalent",
+      "CV",
+      "Lettre de motivation",
+      "Projet de recherche",
+      "Relevés de notes",
+      "Lettres de recommandation",
+      "Copie du passeport"
+    ],
+    "avantages": [
+      "Bourse de doctorat (montant non spécifié)",
+      "Frais de voyage pour séjours à l'étranger (minimum 6 mois)",
+      "Accès à des cours avancés et laboratoires"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un master ou équivalent (ou l'obtenir avant le 31 octobre 2025)",
+      "Pour les postes réservés : être citoyen kenyan ou collaborer avec une institution de recherche"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le bando (avis de concours) en ligne",
+      "2. Remplir la demande en ligne avant le 20 juillet 2026 à 16h00",
+      "3. Soumettre les documents requis",
+      "4. Évaluation des titres à partir du 27 juillet 2026",
+      "5. Entretien oral à partir du 31 juillet 2026"
+    ],
+    "contacts": [
+      "phd.office-st@unitn.it",
+      "dottorati.scientifici@unitn.it"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Bando de candidature (PDF)",
+        "url": "https://www.unitn.it/sites/default/files/2026-06/SST_bando_42_ITA.pdf"
+      },
+      {
+        "label": "Bourses à thématique liée (PDF)",
+        "url": "https://www.unitn.it/sites/default/files/2026-06/SST_Borse_tematica_vincolata_Schede_2.pdf"
+      },
+      {
+        "label": "Informatique sur le traitement des données (PDF)",
+        "url": "https://www.unitn.it/sites/default/files/2026-06/INFORMATIVA%20SUL%20TRATTAMENTO%20DEI%20DATI%20PERSONALI.pdf"
+      },
+      {
+        "label": "Déclaration substitutive des examens (DOCX)",
+        "url": "https://www.unitn.it/sites/default/files/2026-03/Fac-simile_elenco_esami_sostenuti_1.docx"
+      },
+      {
+        "label": "Site web du doctorat SST",
+        "url": "https://phd.unitn.it/phd-sst"
+      },
+      {
+        "label": "Guide d'admission aux doctorats",
+        "url": "https://www.unitn.it/it/studiare/iscriversi/guida-alle-ammissioni/dottorati-di-ricerca"
+      },
+      {
+        "label": "Guide au doctorat",
+        "url": "https://www.unitn.it/it/studiare/iscriversi/guida-al-dottorato"
+      },
+      {
+        "label": "Règlements internes des doctorats",
+        "url": "https://www.unitn.it/it/ateneo/regolamenti-manuali-e-informative/regolamenti/regolamento-didattico-di-ateneo/dottorati-di-ricerca"
+      }
+    ],
+    "mots_cles": [
+      "doctorat",
+      "sciences spatiales",
+      "bourse",
+      "Italie",
+      "Trento",
+      "2026",
+      "recherche",
+      "ingénierie spatiale"
+    ],
+    "lien_candidature": "https://webapps.unitn.it/Apply/it/Web/Home/dott",
+    "source_url": "https://www.unitn.it/it/dottorati/space-science-and-technology?fbclid=IwY2xjawS6nI1leHRuA2FlbQIxMABicmlkETFOaTFuYUNNaGhwOG02Uk53c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHj9YtfoM1MBTpzlFUQdk7mbIcM0a-D7UrKJfiRrtDZKc19aZ68Bv45CNAtPO_aem_yih1CJp0C7EdJN5L_E9FJQ",
+    "statut": "ouvert",
+    "resume": "Le Doctorat d'Intérêt National en Sciences et Technologies Spatiales (SST) de l'Université de Trento forme des experts en sciences, ingénierie et relations internationales spatiales. Pour le 42e cycle, 41 postes sont disponibles, dont 30 bourses à thématique liée et 5 réservés aux citoyens kenyans. Les candidatures sont ouvertes jusqu'au 20 juillet 2026. Le programme dure 3 ans, inclut des séjours à l'étranger et couvre huit curricula spécialisés.",
+    "adresse": "Via Sommarive, 14 - 38123 Povo - Trente",
+    "imageUrl": null,
+    "extrait_le": "2026-07-08T03:11:20",
+    "slug": "doctorat-sciences-spatiales-trento-2026"
+  },
+  {
     "titre": "Bourses de doctorat Walsh Scholars",
     "seo_slug": "walsh-scholars-phd-irlande-2026",
     "organisation": "Teagasc",
@@ -1708,6 +1813,83 @@
     "slug": "bourse-ssp-doctorat-japon-2026"
   },
   {
+    "titre": "Autonomisation des jeunes et des femmes face à l'instabilité économique : Renforcer le partenariat public-privé entre le Japon et l'Afrique pour les pays d'Afrique subsaharienne, relever les défis urgents et promouvoir la TICAD9",
+    "seo_slug": "bourse-unitar-ticad9-afrique-japon-2026",
+    "organisation": "United Nations Institute for Training and Research (UNITAR)",
+    "montant": 0,
+    "devise": "USD",
+    "type_financement": "gratuit",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026",
+    "niveau_etudes": [
+      "Professionnel",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Finance publique et commerce",
+      "Entrepreneuriat",
+      "Innovation",
+      "Développement durable",
+      "Partenariats public-privé"
+    ],
+    "pays_eligibles": [
+      "Afrique subsaharienne"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Candidature en ligne"
+    ],
+    "avantages": [
+      "Programme de formation gratuit",
+      "Mentorat",
+      "Immersion au Japon (phase III)"
+    ],
+    "eligibilite": [
+      "Jeunes et femmes d'Afrique subsaharienne",
+      "Intérêt pour l'entrepreneuriat et l'innovation",
+      "Capacité à développer des projets"
+    ],
+    "procedure_etapes": [
+      "1. Créer un compte sur le site UNITAR",
+      "2. Remplir le formulaire de candidature en ligne",
+      "3. Soumettre avant le 31 juillet 2026"
+    ],
+    "contacts": [
+      "tftp@unitar.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel UNITAR",
+        "url": "http://www.unitar.org"
+      },
+      {
+        "label": "Page de l'événement",
+        "url": "https://event.unitar.org/full-catalog/empowering-youth-and-women-amid-economic-instability-enhancing-public-private?fbclid=IwY2xjawS5PUxleHRuA2FlbQIxMABicmlkETFsVGRlWHY0VTdFd2h2WVhTc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkQCcFHDUAqevoX8_rXSB-3scqFTV0jyuue48Vp6xN4h_DL1vKf__RSAEk3I_aem_BVLsEYN11-k1r2rG6TTQPg"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "formation",
+      "Afrique subsaharienne",
+      "Japon",
+      "TICAD9",
+      "jeunes",
+      "femmes",
+      "entrepreneuriat",
+      "innovation",
+      "partenariat public-privé"
+    ],
+    "lien_candidature": "https://event.unitar.org/full-catalog/empowering-youth-and-women-amid-economic-instability-enhancing-public-private?fbclid=IwY2xjawS5PUxleHRuA2FlbQIxMABicmlkETFsVGRlWHY0VTdFd2h2WVhTc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkQCcFHDUAqevoX8_rXSB-3scqFTV0jyuue48Vp6xN4h_DL1vKf__RSAEk3I_aem_BVLsEYN11-k1r2rG6TTQPg",
+    "source_url": "https://event.unitar.org/full-catalog/empowering-youth-and-women-amid-economic-instability-enhancing-public-private?fbclid=IwY2xjawS5PUxleHRuA2FlbQIxMABicmlkETFsVGRlWHY0VTdFd2h2WVhTc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkQCcFHDUAqevoX8_rXSB-3scqFTV0jyuue48Vp6xN4h_DL1vKf__RSAEk3I_aem_BVLsEYN11-k1r2rG6TTQPg",
+    "statut": "ouvert",
+    "resume": "L'UNITAR, avec le soutien du gouvernement japonais, lance un programme de renforcement des capacités pour les jeunes et les femmes d'Afrique subsaharienne dans le cadre de la TICAD9. Ce programme gratuit de 7 mois (août 2026 à février 2027) combine formation en ligne, mentorat et une immersion au Japon pour transformer des idées innovantes en projets viables et attractifs pour les investisseurs. Les candidatures sont ouvertes jusqu'au 31 juillet 2026.",
+    "imageUrl": "/docs/autonomiser-jeunes-femmes-japon-unitar.webp",
+    "extrait_le": "2026-07-07T05:16:29",
+    "slug": "bourse-unitar-ticad9-afrique-japon-2026"
+  },
+  {
     "titre": "Appel à candidatures pour siéger au Conseil consultatif sur l'intégrité YouthLED de l'UNODC 2026-2028",
     "seo_slug": "conseil-youthled-unodc-2026-2028",
     "organisation": "UNODC (Office des Nations Unies contre la drogue et le crime)",
@@ -2007,6 +2189,117 @@
     "imageUrl": "/docs/McCall-MacBain-bourse-d-etude-de-l-universit-s.jpg",
     "extrait_le": "2026-07-06T04:37:57",
     "slug": "bourse-mccall-macbain-mcgill-2027"
+  },
+  {
+    "titre": "Bourse Rhodes pour l'Afrique de l'Ouest 2027",
+    "seo_slug": "bourse-rhodes-afrique-ouest-2027",
+    "organisation": "Rhodes Trust",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-08-27",
+    "deadline_texte": "27 août 2026 à 23h59 GMT",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Bénin",
+      "Burkina Faso",
+      "Cabo Verde",
+      "Gambie",
+      "Ghana",
+      "Guinée",
+      "Guinée-Bissau",
+      "Côte d'Ivoire",
+      "Liberia",
+      "Mali",
+      "Mauritanie",
+      "Niger",
+      "Nigeria",
+      "Sainte-Hélène",
+      "Ascension et Tristan da Cunha",
+      "Sénégal",
+      "Sierra Leone",
+      "São Tomé et Principe",
+      "Togo"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Relevés de notes",
+      "Lettres de recommandation",
+      "Preuve de compétence en anglais"
+    ],
+    "avantages": [
+      "Frais de scolarité complets",
+      "Allocation de subsistance",
+      "Frais de voyage aller-retour",
+      "Frais de visa",
+      "Assurance santé"
+    ],
+    "eligibilite": [
+      "Être citoyen d'un pays éligible d'Afrique de l'Ouest",
+      "Avoir un diplôme de premier cycle avec mention très bien",
+      "Âge maximum de 25 ans (ou 27 ans pour les diplômés en médecine)",
+      "Excellence académique",
+      "Intégrité et leadership",
+      "Engagement envers le service public"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité et la liste des pays",
+      "2. Lire attentivement le document 'Information for Candidates'",
+      "3. Préparer les documents requis (CV, lettres de motivation, relevés de notes, lettres de recommandation)",
+      "4. Soumettre la candidature en ligne via le portail Rhodes",
+      "5. Les candidats présélectionnés seront invités à un entretien"
+    ],
+    "contacts": [
+      "westafrica.secretary@rhodestrust.com"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Information for Candidates - West Africa",
+        "url": "https://www.rhodeshouse.ox.ac.uk/files/westafricainformationforcandidates/"
+      },
+      {
+        "label": "Guidance for Referees – West Africa",
+        "url": "https://www.rhodeshouse.ox.ac.uk/files/westafricarefereeguidance/"
+      },
+      {
+        "label": "Courses covered by the Rhodes Scholarship",
+        "url": "https://www.rhodeshouse.ox.ac.uk/files/conditions-of-tenure/"
+      },
+      {
+        "label": "Foire aux questions (FAQ)",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/faqs/"
+      },
+      {
+        "label": "Sessions d'information",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/information-sessions/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Rhodes",
+      "Afrique de l'Ouest",
+      "Oxford",
+      "études supérieures",
+      "bourse complète",
+      "2027",
+      "master",
+      "doctorat"
+    ],
+    "lien_candidature": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/west-africa/",
+    "source_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/west-africa/?utm_id=97758_v0_s00_e0_tv1_a1den5f08gvbpa&fbclid=IwY2xjawS6mQFleHRuA2FlbQIxMABicmlkETFOaTFuYUNNaGhwOG02Uk53c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHk5yzpIDj-LB8xg235JRmsHSeOjDGpdQhPHT7_LKV1NRqvEQ0v44cNf8xW3S_aem_wi5_R9v4y9Oxzd1iuZDhvw",
+    "statut": "ouvert",
+    "resume": "La Bourse Rhodes pour l'Afrique de l'Ouest offre chaque année 3 bourses complètes pour des études supérieures à l'Université d'Oxford. Destinée aux étudiants exceptionnels de 19 pays d'Afrique de l'Ouest, elle couvre l'intégralité des frais de scolarité, une allocation de subsistance, les frais de voyage et bien plus encore. Les candidatures pour la cohorte 2027 sont ouvertes du 1er juin au 27 août 2026.",
+    "imageUrl": "/docs/Les-bourses-Rhodes-pour-lAfrique-de-lOuest.webp",
+    "extrait_le": "2026-07-08T02:57:48",
+    "slug": "bourse-rhodes-afrique-ouest-2027"
   },
   {
     "titre": "Bourse de Stipend du Programme de Formation à la Recherche du Gouvernement Australien (RTP)",

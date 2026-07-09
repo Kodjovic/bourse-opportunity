@@ -1,96 +1,5 @@
 [
   {
-    "titre": "Bourses de Mérite pour les Étudiants du 3ème Cycle de l'École de Sociologie et de Politiques Publiques (ESPP) de l'Iscte - Institut Universitaire de Lisbonne – 2026/2027",
-    "seo_slug": "bourses-merite-doctorat-iscte-lisbonne-2026",
-    "organisation": "Iscte - Instituto Universitário de Lisboa",
-    "montant": null,
-    "devise": "EUR",
-    "type_financement": "bourse de mérite",
-    "deadline": "2026-07-08",
-    "deadline_texte": "8 juillet 2026",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Administration Publique",
-      "Science Politique",
-      "Sciences de la Communication",
-      "Études Africaines",
-      "Études Internationales",
-      "Histoire Moderne et Contemporaine",
-      "Histoire, Études de Sécurité et Défense",
-      "Politiques Publiques",
-      "Service Social",
-      "Politiques d'Administration et Gestion Scolaire",
-      "Sociologie"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Portugais",
-    "documents_requis": [
-      "Requerimento (formulaire de candidature)",
-      "Proposition de projet de recherche incluant un plan de développement et d'exécution",
-      "Lettre de motivation",
-      "Deux lettres de recommandation"
-    ],
-    "avantages": [
-      "Bourse d'un montant égal à la référence des bourses nationales de doctorat de la FCT",
-      "Assurance sociale volontaire correspondant au premier échelon (sur option)",
-      "Exonération des frais de scolarité"
-    ],
-    "eligibilite": [
-      "Être inscrit en régime de temps intégral",
-      "Avoir soumis la documentation requise",
-      "Pour les étudiants en première année de doctorat : approbation dans toutes les unités curriculaires de première année et dans le projet de recherche à la fin de la première année",
-      "Obtenir une note finale d'évaluation supérieure ou égale à 15 sur 20",
-      "Faire partie des 25% d'étudiants ayant les meilleures évaluations finales",
-      "Ne pas avoir de dettes envers l'Iscte"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les conditions d'éligibilité et lire l'édital",
-      "2. Préparer les documents requis (requerimento, proposition de projet, lettre de motivation, deux lettres de recommandation)",
-      "3. Soumettre la candidature en ligne via le portail de recrutement de l'Iscte avant le 8 juillet 2026"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://recrutamento.iscte-iul.pt/jobs/726?fbclid=IwY2xjawSvXgxleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoPjzdYvIZhG0y44WrgNKOnvNvPRd5RkE9FnWeCFCMDyRDVrSa-Yz7CTRjho_aem_AlkPsw0Sj9whB7uhMDfkVQ"
-      },
-      {
-        "label": "Edital de candidature (PDF)",
-        "url": "https://recrutamento.iscte-iul.pt/content/files/91600"
-      },
-      {
-        "label": "Règlement des bourses du 3ème cycle de l'Iscte (PDF)",
-        "url": "https://recrutamento.iscte-iul.pt/content/files/90801"
-      },
-      {
-        "label": "Formulaire de candidature (DOCX)",
-        "url": "https://recrutamento.iscte-iul.pt/content/files/90800"
-      }
-    ],
-    "mots_cles": [
-      "bourse doctorat",
-      "bourse mérite",
-      "Iscte Lisbonne",
-      "Portugal",
-      "sciences sociales",
-      "politiques publiques",
-      "sociologie",
-      "2026"
-    ],
-    "lien_candidature": "https://recrutamento.iscte-iul.pt/jobs/726",
-    "source_url": "https://recrutamento.iscte-iul.pt/jobs/726?fbclid=IwY2xjawSvXgxleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoPjzdYvIZhG0y44WrgNKOnvNvPRd5RkE9FnWeCFCMDyRDVrSa-Yz7CTRjho_aem_AlkPsw0Sj9whB7uhMDfkVQ",
-    "statut": "ouvert",
-    "resume": "L'École de Sociologie et de Politiques Publiques (ESPP) de l'Iscte - Institut Universitaire de Lisbonne propose 14 bourses de mérite pour les étudiants de doctorat pour l'année académique 2026/2027. Ces bourses couvrent divers domaines tels que l'administration publique, la science politique, les sciences de la communication, les études africaines, et bien d'autres. Les candidats doivent être inscrits à temps plein, soumettre un dossier comprenant un projet de recherche, une lettre de motivation et deux lettres de recommandation, et répondre à des critères d'excellence académique. La date limite de candidature est le 8 juillet 2026.",
-    "imageUrl": "/docs/8-juillet-2026.jpg",
-    "extrait_le": "2026-06-29T14:36:02",
-    "slug": "bourses-merite-doctorat-iscte-lisbonne-2026"
-  },
-  {
     "titre": "Programme de Leadership pour la Jeunesse des Systèmes Alimentaires des Nations Unies",
     "seo_slug": "bourse-youth-leadership-programme-onu-2026",
     "organisation": "UN Food Systems Coordination Hub",
@@ -2949,6 +2858,282 @@
     "slug": "formations-diplomantes-distance-auf-2026"
   },
   {
+    "titre": "Doctorat sous supervision binationale / Cotutelle • DAAD",
+    "seo_slug": "doctorat-binantional-cotutelle-daad-2027",
+    "organisation": "DAAD",
+    "montant": 1400,
+    "devise": "EUR",
+    "type_financement": "bourse mensuelle",
+    "deadline": "2026-09-24",
+    "deadline_texte": "24 septembre 2026",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays sauf Allemagne"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand ou Anglais",
+    "documents_requis": [
+      "Diplôme de Master ou équivalent",
+      "Plan de recherche",
+      "Calendrier",
+      "Lettre de motivation",
+      "CV",
+      "Lettres de recommandation",
+      "Convention de cotutelle (option b)",
+      "Preuve de langue"
+    ],
+    "avantages": [
+      "Allocation mensuelle de 1400 EUR",
+      "Assurance santé, accident et responsabilité civile",
+      "Indemnité de voyage (jusqu'à 3 allers-retours)",
+      "Allocation de recherche de 460 EUR",
+      "Frais de déplacement et d'hébergement pour les superviseurs (1 voyage jusqu'à 10 jours)",
+      "Subvention de loyer (séjour >6 mois)",
+      "Allocation familiale (séjour >6 mois)",
+      "Cours de langue en ligne",
+      "Cours de langue intensif (2,4,6 mois)",
+      "Remboursement TestDaF/DSH"
+    ],
+    "eligibilite": [
+      "Diplôme le plus récent obtenu il y a moins de 6 ans avant la date limite",
+      "Début du doctorat il y a moins de 3 ans à la date de candidature",
+      "Ne pas résider en Allemagne depuis plus de 15 mois à la date limite",
+      "Master ou Diplom (ou exceptionnellement Bachelor) pour option a",
+      "Admission dans un programme doctoral pour option b"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Préparer les documents (plan de recherche, calendrier, etc.)",
+      "3. Contacter les superviseurs en Allemagne et dans le pays d'origine",
+      "4. Soumettre la candidature via le portail DAAD avant le 24 septembre 2026",
+      "5. Attendre la sélection (février 2027)",
+      "6. Début du financement à partir d'octobre 2027"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature DAAD",
+        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
+      },
+      {
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Indemnités de voyage (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_reisekostenzuschuesse_stipendiaten.pdf"
+      },
+      {
+        "label": "Informations supplémentaires pour la médecine",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/scholarship-database/additional-information-medicine/"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat allemagne",
+      "cotutelle daad",
+      "doctorat binational",
+      "bourse sandwich",
+      "daad 2027"
+    ],
+    "lien_candidature": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=1&detail=57507783",
+    "statut": "ouvert",
+    "resume": "Le programme de doctorat sous supervision binationale / Cotutelle du DAAD offre aux doctorants internationaux la possibilité de réaliser un projet de recherche conjoint entre leur université d'origine et une université allemande. Deux options sont proposées : le modèle sandwich (supervision binationale) et le modèle Cotutelle (diplôme conjoint). La bourse comprend une allocation mensuelle de 1400 EUR, une assurance, des indemnités de voyage et une allocation de recherche. Les candidatures sont ouvertes jusqu'au 24 septembre 2026 pour un début de financement en octobre 2027.",
+    "imageUrl": "/docs/Doctorats-encadr-s-binationalement-Cotutelle-DAAD.webp",
+    "extrait_le": "2026-07-09T02:34:38",
+    "slug": "doctorat-binantional-cotutelle-daad-2027"
+  },
+  {
+    "titre": "Bourses d'études - Études postuniversitaires dans le domaine de la musique",
+    "seo_slug": "bourse-daad-musique-master-allemagne-2026",
+    "organisation": "DAAD",
+    "montant": 992,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-09-24",
+    "deadline_texte": "24 septembre 2026",
+    "niveau_etudes": [
+      "Master",
+      "Postgraduate",
+      "Konzertexamen",
+      "Meisterklasse"
+    ],
+    "domaines": [
+      "Musique"
+    ],
+    "pays_eligibles": [
+      "Tous pays sauf Allemagne"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand ou anglais selon la langue d'enseignement",
+    "documents_requis": [
+      "Curriculum vitae",
+      "Lettre de motivation",
+      "Lettre d'admission (si disponible)",
+      "Enregistrements vidéo/audio",
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Paiement mensuel de 992 euros",
+      "Allocation de voyage (sur demande)",
+      "Allocation d'études unique",
+      "Assurance maladie, accident et responsabilité civile",
+      "Allocation de loyer (sous conditions)",
+      "Allocation familiale (sous conditions)",
+      "Cours de langue allemande",
+      "Remise des frais de TestDaF ou DSH",
+      "Green Mobility Top Up"
+    ],
+    "eligibilite": [
+      "Diplôme de premier cycle en musique obtenu avant le début de la bourse",
+      "Diplôme datant de moins de 6 ans à la date limite de candidature",
+      "Ne pas avoir résidé en Allemagne plus de 15 mois avant la date limite",
+      "Ne pas avoir déjà commencé un master/postgraduate en Allemagne"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Rassembler les documents requis",
+      "3. Compléter la candidature en ligne sur le portail DAAD",
+      "4. Télécharger les pièces justificatives",
+      "5. Soumettre avant la date limite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail DAAD",
+        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
+      },
+      {
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Allocation de voyage (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_reisekostenzuschuesse_stipendiaten.pdf"
+      },
+      {
+        "label": "Informations supplémentaires musique",
+        "url": "https://www.daad.de/en/studying-in-germany/scholarships/scholarship-database/information-music/"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "musique Allemagne",
+      "master musique",
+      "bourse postuniversitaire",
+      "étudier en Allemagne",
+      "bourse 2026",
+      "DAAD musique",
+      "bourse complète"
+    ],
+    "lien_candidature": "https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=2&detail=57135743",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=2&detail=57135743",
+    "statut": "ouvert",
+    "resume": "Le DAAD offre des bourses pour des études postuniversitaires en musique en Allemagne, couvrant les masters, Konzertexamen et Meisterklasse. Les candidats doivent être diplômés en musique et présenter un projet artistique de qualité. La bourse comprend 992 euros par mois, une allocation de voyage et divers avantages. Date limite : 24 septembre 2026.",
+    "imageUrl": "/docs/Bourses-d-tudes-tudes-sup-rieures-en-musique-DAAD.webp",
+    "extrait_le": "2026-07-09T02:44:15",
+    "slug": "bourse-daad-musique-master-allemagne-2026"
+  },
+  {
+    "titre": "Programme de Réinvitation pour Anciens Boursiers DAAD",
+    "seo_slug": "reinvitation-anciens-boursiers-daad-2027",
+    "organisation": "DAAD",
+    "montant": 2150,
+    "devise": "EUR",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-09-24",
+    "deadline_texte": "24 septembre 2026 (première échéance) et 17 mars 2027 (deuxième échéance)",
+    "niveau_etudes": [
+      "Post-doctorat",
+      "Recherche"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand ou Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "CV tabulaire (max 3 pages)",
+      "Liste des publications (si applicable)",
+      "Exposé détaillé du projet de recherche ou de travail (max 10 pages)",
+      "Calendrier et itinéraire du séjour",
+      "Confirmation de l'hôte académique en Allemagne"
+    ],
+    "avantages": [
+      "Allocation mensuelle de 2000 € (pour assistants, maîtres de conférences) ou 2150 € (pour professeurs)",
+      "Allocation de voyage (sous conditions)",
+      "Subvention pour frais supplémentaires liés au handicap ou maladie chronique (sur demande)",
+      "Assurance maladie (si nécessaire, déduite de la bourse)"
+    ],
+    "eligibilite": [
+      "Ancien boursier DAAD de recherche ou d'études ayant été financé pendant plus de six mois par le ministère fédéral des Affaires étrangères ou dans un programme cofinancé",
+      "Ancien boursier est-allemand ayant étudié au moins un an en Allemagne",
+      "Ne pas avoir vécu en Allemagne depuis au moins trois ans",
+      "Projet de recherche ou de travail coordonné avec un partenaire de coopération en Allemagne"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Préparer les documents requis (traductions en allemand ou anglais si nécessaire)",
+      "3. Accéder au portail DAAD (ouverture au moins 6 semaines avant la date limite)",
+      "4. Remplir le formulaire en ligne et télécharger les documents en PDF",
+      "5. Soumettre la candidature avant 24h00 (CET/CEST) le jour de la date limite"
+    ],
+    "contacts": [
+      "portal@daad.de",
+      "+49 228 882 180",
+      "+49 (0) 228 882-8888"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature DAAD",
+        "url": "https://www.daad.de/sapportal/"
+      },
+      {
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Allocation de voyage (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_reisekostenzuschuesse_stipendiaten.pdf"
+      },
+      {
+        "label": "Notes sur l'inscription au portail (PDF)",
+        "url": "https://www.daad.de/sapportal/hilfe/hb_portal_pdf/01_Registrierung_PBF_AUSL_en.pdf"
+      },
+      {
+        "label": "Notes sur la candidature en ligne (PDF)",
+        "url": "https://www.daad.de/sapportal/hilfe/hb_portal_pdf/02_Bewerbung_PBF_AUSL_en.pdf"
+      },
+      {
+        "label": "Formulaire de contact DAAD",
+        "url": "https://www.daad.de/en/the-daad/contact/contact-study-research-in-germany/"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "anciens boursiers",
+      "recherche Allemagne",
+      "séjour de recherche",
+      "programme de réinvitation"
+    ],
+    "lien_candidature": "https://www.daad.de/sapportal/",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=2&detail=50015492",
+    "statut": "ouvert",
+    "resume": "Le programme de réinvitation du DAAD permet aux anciens boursiers de réaliser un projet de recherche ou de travail en Allemagne pour une durée d'un à trois mois en 2027. Les candidats doivent avoir été financés par le DAAD pendant plus de six mois et ne pas avoir vécu en Allemagne depuis au moins trois ans. La bourse comprend une allocation mensuelle de 2000 à 2150 euros selon le statut, une allocation de voyage et une assurance maladie si nécessaire. Les candidatures se font en ligne via le portail DAAD, avec deux dates limites : 24 septembre 2026 et 17 mars 2027.",
+    "imageUrl": "/docs/Programme-de-r-invitation-pour-les-anciens-boursiers-DAAD.webp",
+    "extrait_le": "2026-07-09T02:49:07",
+    "slug": "reinvitation-anciens-boursiers-daad-2027"
+  },
+  {
     "titre": "Fondation Rosa Luxemburg : Programme de bourses pour doctorants internationaux",
     "seo_slug": "bourse-rosa-luxemburg-doctorat-allemagne",
     "organisation": "Rosa Luxemburg Foundation",
@@ -3118,6 +3303,216 @@
     "adresse": "Denning House 580 Lomita Drive Stanford, CA  94305-8207  USA",
     "extrait_le": "2026-06-15T05:34:14",
     "slug": "bourse-knight-hennessy-stanford-2027"
+  },
+  {
+    "titre": "Bourses d'études - Études postuniversitaires dans les domaines des beaux-arts, du design, de la communication visuelle et du cinéma",
+    "seo_slug": "bourse-daad-beaux-arts-master-allemagne-2026",
+    "organisation": "DAAD",
+    "montant": 992,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-15",
+    "deadline_texte": "15 octobre 2026",
+    "niveau_etudes": [
+      "Master",
+      "Postgraduate"
+    ],
+    "domaines": [
+      "Beaux-arts",
+      "Design",
+      "Communication visuelle",
+      "Cinéma"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand ou anglais selon l'université",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "CV",
+      "Lettre de motivation",
+      "Plan d'études",
+      "Portfolio artistique",
+      "Diplômes et relevés de notes",
+      "Preuve de compétences linguistiques",
+      "Lettre de recommandation d'un professeur",
+      "Confirmation de supervision (pour cours complémentaire)"
+    ],
+    "avantages": [
+      "Paiement mensuel de 992 euros",
+      "Allocation de voyage (sur demande)",
+      "Allocation d'études unique",
+      "Paiements pour assurance maladie, accident et responsabilité civile",
+      "Subvention de loyer mensuelle (sous conditions)",
+      "Allocation mensuelle pour membres de la famille accompagnants (sous conditions)",
+      "Subvention pour handicap ou maladie chronique (sur demande)",
+      "Green Mobility Top Up (soutien pour voyages respectueux du climat)",
+      "Cours de langue en ligne",
+      "Cours d'allemand (2, 4 ou 6 mois) avant le séjour",
+      "Allocation pour cours d'allemand pendant la bourse",
+      "Remboursement des frais de TestDaF ou DSH"
+    ],
+    "eligibilite": [
+      "Avoir obtenu un premier diplôme universitaire dans le domaine des arts",
+      "Le diplôme ne doit pas dater de plus de 6 ans à la date limite de candidature",
+      "Études à temps plein et en présentiel",
+      "Ne pas résider en Allemagne depuis plus de 15 mois à la date limite"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Préparer les documents de candidature",
+      "3. Soumettre la candidature en ligne via le portail DAAD avant le 15 octobre 2026",
+      "4. Après vérification formelle, soumettre le portfolio artistique",
+      "5. Attendre la décision du comité de sélection (jusqu'à 7 mois)",
+      "6. En cas d'acceptation, fournir la lettre d'admission de l'université"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature DAAD",
+        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
+      },
+      {
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Allocation de voyage (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_reisekostenzuschuesse_stipendiaten.pdf"
+      },
+      {
+        "label": "Informations supplémentaires sur les bourses d'études en beaux-arts",
+        "url": "https://www.daad.de/en/studying-in-germany/scholarships/scholarship-database/information-fine-art/"
+      },
+      {
+        "label": "Bourses d'études - Master pour toutes les disciplines académiques",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=&subjectGrps=&daad=&intention=&q=&page=1&detail=50026200"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "beaux-arts Allemagne",
+      "master design",
+      "bourse études Allemagne",
+      "bourse DAAD 2026",
+      "bourse art Allemagne",
+      "bourse master DAAD"
+    ],
+    "lien_candidature": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=2&detail=57135742",
+    "statut": "ouvert",
+    "resume": "Le DAAD offre des bourses pour des études postuniversitaires en beaux-arts, design, communication visuelle et cinéma en Allemagne. Les bourses comprennent un paiement mensuel de 992 euros, une allocation de voyage et une couverture d'assurance. Les candidats doivent avoir un premier diplôme en arts et soumettre un portfolio. La date limite est le 15 octobre 2026 pour un début en octobre 2027.",
+    "imageUrl": "/docs/Bourses-d-tudes-tudes-de-troisi-me-cycle-en-beaux-arts-design-communication-visuelle-et-cin-ma.webp",
+    "extrait_le": "2026-07-09T02:41:53",
+    "slug": "bourse-daad-beaux-arts-master-allemagne-2026"
+  },
+  {
+    "titre": "Bourses d'études - Études postuniversitaires dans le domaine des arts du spectacle • DAAD",
+    "seo_slug": "bourse-daad-arts-spectacle-master-allemagne-2026",
+    "organisation": "DAAD",
+    "montant": 992,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-15",
+    "deadline_texte": "15 octobre 2026",
+    "niveau_etudes": [
+      "Master",
+      "Postgraduate"
+    ],
+    "domaines": [
+      "Arts du spectacle",
+      "Théâtre",
+      "Danse",
+      "Chorégraphie",
+      "Mise en scène",
+      "Dramaturgie",
+      "Comédies musicales",
+      "Performance"
+    ],
+    "pays_eligibles": [
+      "Tous pays sauf Allemagne"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand ou anglais selon l'université",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "CV",
+      "Lettre de motivation",
+      "Diplôme universitaire",
+      "Preuve de compétences linguistiques",
+      "Portfolio artistique",
+      "Lettre de confirmation d'encadrement (pour cours complémentaire)",
+      "Liste supplémentaire des œuvres"
+    ],
+    "avantages": [
+      "Paiement mensuel de 992 euros",
+      "Allocation de voyage (sur demande)",
+      "Allocation d'études unique",
+      "Assurance maladie, accident et responsabilité civile",
+      "Subvention de loyer mensuelle (sous conditions)",
+      "Allocation mensuelle pour membres de la famille accompagnants (sous conditions)",
+      "Subvention pour handicap ou maladie chronique (sur demande)",
+      "Green Mobility Top Up (voyage climatique)",
+      "Cours de langue en ligne",
+      "Cours d'allemand (2, 4 ou 6 mois) avant le séjour",
+      "Allocation pour cours d'allemand personnel",
+      "Remboursement des frais de TestDaF ou DSH"
+    ],
+    "eligibilite": [
+      "Avoir obtenu un premier diplôme universitaire dans le domaine des arts",
+      "Le diplôme ne doit pas dater de plus de 6 ans à la date limite de candidature",
+      "Études à temps plein et en présentiel",
+      "Ne pas résider en Allemagne depuis plus de 15 mois à la date limite"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité et les documents requis.",
+      "2. Soumettre les documents de candidature via le portail DAAD avant le 15 octobre 2026.",
+      "3. Après vérification formelle, soumettre le portfolio artistique et la liste supplémentaire via la base de données média DAAD (lien reçu par email).",
+      "4. Attendre la décision du comité DAAD (jusqu'à 7 mois).",
+      "5. En cas d'acceptation, fournir la lettre d'admission de l'université avant le début de la bourse."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature DAAD",
+        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
+      },
+      {
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Allocation de voyage (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_reisekostenzuschuesse_stipendiaten.pdf"
+      },
+      {
+        "label": "Informations supplémentaires sur les bourses d'études DAAD dans les arts du spectacle",
+        "url": "https://www.daad.de/en/studying-in-germany/scholarships/scholarship-database/information-performing-arts/"
+      },
+      {
+        "label": "Bourses d'études - Master pour toutes les disciplines académiques",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=&subjectGrps=&daad=&intention=&q=&page=1&detail=50026200"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "arts du spectacle",
+      "master Allemagne",
+      "bourse études Allemagne",
+      "théâtre",
+      "danse",
+      "chorégraphie",
+      "bourse internationale",
+      "DAAD 2026"
+    ],
+    "lien_candidature": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=2&detail=50109971",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=2&detail=50109971",
+    "statut": "ouvert",
+    "resume": "Le DAAD offre des bourses pour des études postuniversitaires en arts du spectacle en Allemagne, couvrant master, postgraduate ou cours complémentaire. Les candidats doivent avoir un premier diplôme en arts et un projet artistique. La bourse comprend 992 euros par mois, une allocation de voyage, une assurance, et des cours d'allemand. Date limite : 15 octobre 2026.",
+    "imageUrl": "/docs/tudes-sup-rieures-en-arts-du-spectacle-DAAD.webp",
+    "extrait_le": "2026-07-09T02:46:44",
+    "slug": "bourse-daad-arts-spectacle-master-allemagne-2026"
   },
   {
     "titre": "Bourses de recherche pour diplômés - Université de Melbourne",
@@ -5703,6 +6098,212 @@
     "imageUrl": "/docs/Programme-de-bourses-de-la-Fondation-Mastercard-l-Universit-McGill.webp",
     "extrait_le": "2026-07-06T04:31:17",
     "slug": "bourse-mastercard-foundation-mcgill-2026"
+  },
+  {
+    "titre": "Bourses d'études - Études postuniversitaires en architecture",
+    "seo_slug": "bourse-daad-architecture-master-allemagne",
+    "organisation": "DAAD",
+    "montant": 992,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Master",
+      "Postgraduate"
+    ],
+    "domaines": [
+      "Architecture",
+      "Design d'intérieur",
+      "Conservation des monuments",
+      "Construction dans des contextes existants/réhabilitation de bâtiments anciens",
+      "Urbanisme/Développement urbain",
+      "Architecture paysagère",
+      "Planification paysagère"
+    ],
+    "pays_eligibles": [
+      "Tous pays (sauf Allemagne si résident >15 mois)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand (B2/C1) ou Anglais (selon programme)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "CV",
+      "Lettre de motivation",
+      "Plan d'études",
+      "Diplômes universitaires",
+      "Preuves de compétences linguistiques",
+      "Échantillons de travaux"
+    ],
+    "avantages": [
+      "Paiement mensuel de 992 euros",
+      "Allocation de voyage (sur demande)",
+      "Allocation d'études unique",
+      "Assurance maladie, accident et responsabilité civile",
+      "Subvention de loyer (sous conditions)",
+      "Allocation mensuelle pour membres de la famille accompagnants (sous conditions)",
+      "Subvention pour handicap ou maladie chronique (sur demande)",
+      "Green Mobility Top Up",
+      "Cours de langue en ligne",
+      "Cours d'allemand (2, 4 ou 6 mois) avant le séjour",
+      "Allocation pour cours d'allemand pendant la bourse",
+      "Remboursement des frais de TestDaF ou DSH"
+    ],
+    "eligibilite": [
+      "Diplôme de premier cycle universitaire en architecture ou domaine connexe obtenu au plus tard au début de la bourse",
+      "Le dernier diplôme pertinent ne doit pas dater de plus de 6 ans à la date limite de candidature",
+      "Ne pas résider en Allemagne depuis plus de 15 mois à la date limite de candidature"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Rassembler les documents requis",
+      "3. Soumettre la candidature en ligne via le portail DAAD",
+      "4. Après vérification formelle, soumettre les échantillons de travaux",
+      "5. Attendre la décision du comité DAAD"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Base de données des bourses DAAD",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135744"
+      },
+      {
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Allocation de voyage (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_reisekostenzuschuesse_stipendiaten.pdf"
+      },
+      {
+        "label": "Informations spécifiques par matière",
+        "url": "https://www.daad.de/en/studying-in-germany/scholarships/scholarship-database/subject-specific-information/"
+      },
+      {
+        "label": "Exigences techniques du portail",
+        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse architecture allemagne",
+      "master architecture daad",
+      "bourse postuniversitaire allemagne",
+      "financement études architecture",
+      "bourse daad 2026"
+    ],
+    "lien_candidature": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135744",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=1&detail=57135744",
+    "statut": "ouvert",
+    "resume": "Le DAAD propose des bourses pour des études postuniversitaires en architecture en Allemagne, couvrant les masters et cours complémentaires. Les candidats doivent avoir un diplôme en architecture ou domaine connexe et justifier de compétences linguistiques. La bourse comprend une allocation mensuelle de 992 euros, une allocation de voyage, une assurance, et des cours de langue. Les candidatures se font en ligne via le portail DAAD.",
+    "imageUrl": "/docs/Bourses-d-tudes-tudes-de-troisi-me-cycle-en-architecture-DAAD.webp",
+    "extrait_le": "2026-07-09T02:30:05",
+    "slug": "bourse-daad-architecture-master-allemagne"
+  },
+  {
+    "titre": "Bourses de cours de troisième cycle axés sur le développement (EPOS) - DAAD",
+    "seo_slug": "bourse-epos-daad-master-allemagne-2027",
+    "organisation": "DAAD",
+    "montant": 992,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Selon le programme d'études choisi ; veuillez vérifier la brochure de bourse ou le site web de votre programme d'études.",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Développement",
+      "Toutes disciplines"
+    ],
+    "pays_eligibles": [
+      "Pays en développement et nouvellement industrialisés (voir liste)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand (niveau B1 minimum) ou Anglais (selon le programme)",
+    "documents_requis": [
+      "Checklist signée",
+      "Formulaire de candidature EPOS",
+      "CV (modèle Europass)",
+      "Lettre de motivation",
+      "Lettre de recommandation de l'employeur actuel",
+      "Certificat(s) de travail (au moins 2 ans)",
+      "Preuve récente de compétences linguistiques (IELTS/TOEFL ou allemand)",
+      "Copies des diplômes de l'enseignement supérieur",
+      "Relevé de notes complet",
+      "Certificat APS (pour les candidats de Chine)"
+    ],
+    "avantages": [
+      "Paiements mensuels de 992 euros (gradués) ou 1 300 euros (doctorants, 1 400 euros à partir de février 2026)",
+      "Assurance maladie, accident et responsabilité civile",
+      "Allocation de voyage",
+      "Subvention de loyer mensuelle (sous conditions)",
+      "Allocation mensuelle pour les membres de la famille accompagnants (sous conditions)"
+    ],
+    "eligibilite": [
+      "Diplômé avec au moins deux ans d'expérience professionnelle",
+      "Pays éligible (liste DAC)",
+      "Diplôme de Bachelor (généralement quatre ans) dans une matière appropriée",
+      "Résultats académiques nettement supérieurs à la moyenne (tiers supérieur)",
+      "Diplômes datant de moins de six ans",
+      "Motivation liée au développement et responsabilité sociale",
+      "Ne pas résider en Allemagne depuis plus de 15 mois à la date limite de candidature"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier la liste des cours de troisième cycle éligibles et leurs délais.",
+      "2. Préparer les documents requis (checklist, formulaire EPOS, CV, lettre de motivation, etc.).",
+      "3. Envoyer la candidature complète directement au programme d'études choisi (maximum 3 cours).",
+      "4. Si présélectionné, télécharger les documents sur le portail DAAD.",
+      "5. Attendre la décision finale du comité de sélection."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Liste des pays éligibles (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/dac_laenderliste_epos.pdf"
+      },
+      {
+        "label": "Liste des cours avec délais 2027/28 (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_epos_deadlines.pdf"
+      },
+      {
+        "label": "FAQ (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/epos_faq_en.pdf"
+      },
+      {
+        "label": "Checklist (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/epos_checkliste.pdf"
+      },
+      {
+        "label": "Formulaire de candidature EPOS (DOCX)",
+        "url": "http://static.daad.de/media/daad_de/word-excel-nicht-barrierefrei/in-deutschland-studieren-forschen-lehren/daad_epos_application_form.docx"
+      },
+      {
+        "label": "Modèle Europass CV",
+        "url": "http://europass.cedefop.europa.eu/"
+      },
+      {
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "EPOS",
+      "master Allemagne",
+      "développement",
+      "cours postgrade",
+      "bourse internationale",
+      "Allemagne 2027",
+      "financement études"
+    ],
+    "lien_candidature": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=2&detail=50076777",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=2&detail=50076777",
+    "statut": "ouvert",
+    "resume": "Le programme EPOS du DAAD offre des bourses complètes aux diplômés de pays en développement et nouvellement industrialisés pour suivre un master ou un doctorat dans une université allemande. Les candidats doivent justifier d'au moins deux ans d'expérience professionnelle et d'un excellent dossier académique. La bourse comprend une allocation mensuelle, une assurance et une aide au voyage, avec des avantages supplémentaires possibles. Les candidatures sont à envoyer directement aux programmes d'études choisis, avec des délais variables selon les cours.",
+    "imageUrl": "/docs/Cours-de-troisi-me-cycle-li-s-au-d-veloppement.webp",
+    "extrait_le": "2026-07-09T02:55:03",
+    "slug": "bourse-epos-daad-master-allemagne-2027"
   },
   {
     "titre": "Bourses Chevening",
@@ -9407,6 +10008,219 @@
     "resume": "L'AUF lance un appel à candidatures pour des formations qualifiantes certifiantes internationales à distance, ouvert aux étudiants, jeunes diplômés et professionnels francophones. Les formations débutent en septembre 2026 et les candidatures sont à soumettre avant le 5 juillet 2026. Consultez le catalogue pour découvrir les formations proposées par les universités membres de l'AUF.",
     "extrait_le": "2026-06-16T04:02:09",
     "slug": "formations-qualifiantes-certifiantes-distance-2026"
+  },
+  {
+    "titre": "Bourses de Mérite pour les Étudiants du 3ème Cycle de l'École de Sociologie et de Politiques Publiques (ESPP) de l'Iscte - Institut Universitaire de Lisbonne – 2026/2027",
+    "seo_slug": "bourses-merite-doctorat-iscte-lisbonne-2026",
+    "organisation": "Iscte - Instituto Universitário de Lisboa",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse de mérite",
+    "deadline": "2026-07-08",
+    "deadline_texte": "8 juillet 2026",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Administration Publique",
+      "Science Politique",
+      "Sciences de la Communication",
+      "Études Africaines",
+      "Études Internationales",
+      "Histoire Moderne et Contemporaine",
+      "Histoire, Études de Sécurité et Défense",
+      "Politiques Publiques",
+      "Service Social",
+      "Politiques d'Administration et Gestion Scolaire",
+      "Sociologie"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Portugais",
+    "documents_requis": [
+      "Requerimento (formulaire de candidature)",
+      "Proposition de projet de recherche incluant un plan de développement et d'exécution",
+      "Lettre de motivation",
+      "Deux lettres de recommandation"
+    ],
+    "avantages": [
+      "Bourse d'un montant égal à la référence des bourses nationales de doctorat de la FCT",
+      "Assurance sociale volontaire correspondant au premier échelon (sur option)",
+      "Exonération des frais de scolarité"
+    ],
+    "eligibilite": [
+      "Être inscrit en régime de temps intégral",
+      "Avoir soumis la documentation requise",
+      "Pour les étudiants en première année de doctorat : approbation dans toutes les unités curriculaires de première année et dans le projet de recherche à la fin de la première année",
+      "Obtenir une note finale d'évaluation supérieure ou égale à 15 sur 20",
+      "Faire partie des 25% d'étudiants ayant les meilleures évaluations finales",
+      "Ne pas avoir de dettes envers l'Iscte"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'éligibilité et lire l'édital",
+      "2. Préparer les documents requis (requerimento, proposition de projet, lettre de motivation, deux lettres de recommandation)",
+      "3. Soumettre la candidature en ligne via le portail de recrutement de l'Iscte avant le 8 juillet 2026"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://recrutamento.iscte-iul.pt/jobs/726?fbclid=IwY2xjawSvXgxleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoPjzdYvIZhG0y44WrgNKOnvNvPRd5RkE9FnWeCFCMDyRDVrSa-Yz7CTRjho_aem_AlkPsw0Sj9whB7uhMDfkVQ"
+      },
+      {
+        "label": "Edital de candidature (PDF)",
+        "url": "https://recrutamento.iscte-iul.pt/content/files/91600"
+      },
+      {
+        "label": "Règlement des bourses du 3ème cycle de l'Iscte (PDF)",
+        "url": "https://recrutamento.iscte-iul.pt/content/files/90801"
+      },
+      {
+        "label": "Formulaire de candidature (DOCX)",
+        "url": "https://recrutamento.iscte-iul.pt/content/files/90800"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat",
+      "bourse mérite",
+      "Iscte Lisbonne",
+      "Portugal",
+      "sciences sociales",
+      "politiques publiques",
+      "sociologie",
+      "2026"
+    ],
+    "lien_candidature": "https://recrutamento.iscte-iul.pt/jobs/726",
+    "source_url": "https://recrutamento.iscte-iul.pt/jobs/726?fbclid=IwY2xjawSvXgxleHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoPjzdYvIZhG0y44WrgNKOnvNvPRd5RkE9FnWeCFCMDyRDVrSa-Yz7CTRjho_aem_AlkPsw0Sj9whB7uhMDfkVQ",
+    "statut": "fermé",
+    "resume": "L'École de Sociologie et de Politiques Publiques (ESPP) de l'Iscte - Institut Universitaire de Lisbonne propose 14 bourses de mérite pour les étudiants de doctorat pour l'année académique 2026/2027. Ces bourses couvrent divers domaines tels que l'administration publique, la science politique, les sciences de la communication, les études africaines, et bien d'autres. Les candidats doivent être inscrits à temps plein, soumettre un dossier comprenant un projet de recherche, une lettre de motivation et deux lettres de recommandation, et répondre à des critères d'excellence académique. La date limite de candidature est le 8 juillet 2026.",
+    "imageUrl": "/docs/8-juillet-2026.jpg",
+    "extrait_le": "2026-06-29T14:36:02",
+    "slug": "bourses-merite-doctorat-iscte-lisbonne-2026"
+  },
+  {
+    "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",
+    "seo_slug": "cours-ete-allemagne-daad-2026",
+    "organisation": "DAAD",
+    "montant": 475,
+    "devise": "EUR",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-10-30",
+    "deadline_texte": "30 octobre 2026 à 23h59 (heure d'Europe centrale)",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Langue allemande",
+      "Études régionales",
+      "Toutes disciplines"
+    ],
+    "pays_eligibles": [
+      "Tous sauf Allemagne"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand (niveau B1 minimum)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "CV tabulaire en allemand",
+      "Lettre de motivation en allemand",
+      "Relevés de notes des deux dernières années",
+      "Certificat de fin d'études secondaires (pour licence)",
+      "Diplôme universitaire le plus récent (pour master)",
+      "Certificats de langue allemande",
+      "Autres documents jugés importants"
+    ],
+    "avantages": [
+      "Prise en charge des frais de cours de langue",
+      "Hébergement en chambre individuelle",
+      "Allocation unique de 475 EUR",
+      "Indemnité de voyage selon pays",
+      "Assurance maladie, accident et responsabilité civile"
+    ],
+    "eligibilite": [
+      "Être âgé d'au moins 18 ans au début du cours",
+      "Être inscrit dans une université d'un pays éligible (hors Allemagne) au moment de la candidature et pendant toute la durée de la bourse",
+      "Ne pas avoir déjà bénéficié de ce programme",
+      "S'engager à traiter la question de la durabilité avec sensibilité",
+      "Justifier d'un niveau d'allemand B1 minimum"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'éligibilité et les offres de cours (liste Excel/PDF)",
+      "2. Se préparer à candidater entre le 1er septembre et le 30 octobre",
+      "3. S'inscrire sur le portail DAAD",
+      "4. Remplir le formulaire de candidature en ligne",
+      "5. Préparer les documents requis (CV, lettre de motivation, relevés, certificats de langue, etc.)",
+      "6. Traduire les documents si nécessaire (en allemand ou anglais)",
+      "7. Télécharger tous les documents au format PDF sur le portail",
+      "8. Soumettre la candidature en ligne avant la date limite"
+    ],
+    "contacts": [
+      "portal@daad.de",
+      "+49 228 882 180",
+      "+49 (0) 228 882-8888"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Liste des cours (Excel)",
+        "url": "http://static.daad.de/media/daad_de/word-excel-nicht-barrierefrei/in-deutschland-studieren-forschen-lehren/daad_hsk_kursanbieterliste.xlsx"
+      },
+      {
+        "label": "Liste des cours (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_hsk_kursanbieterliste.pdf"
+      },
+      {
+        "label": "Indemnités de voyage 2026 (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_reisekostenzuschuesse_stipendiaten.pdf"
+      },
+      {
+        "label": "FAQ (allemand)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/hsk_hwk_faq.pdf"
+      },
+      {
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Formulaire de contact",
+        "url": "https://www.daad.de/en/the-daad/contact/contact-study-research-in-germany/"
+      },
+      {
+        "label": "Notes sur l'inscription au portail (PDF)",
+        "url": "https://www.daad.de/sapportal/hilfe/hb_portal_pdf/01_Registrierung_PBF_AUSL_en.pdf"
+      },
+      {
+        "label": "Notes sur la candidature en ligne (PDF)",
+        "url": "https://www.daad.de/sapportal/hilfe/hb_portal_pdf/02_Bewerbung_PBF_AUSL_en.pdf"
+      },
+      {
+        "label": "Exigences techniques",
+        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
+      },
+      {
+        "label": "Page d'accueil de la bourse",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=1&detail=50035295"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "cours d'été allemagne",
+      "bourse langue allemande",
+      "étudiant étranger",
+      "master allemagne",
+      "licence allemagne",
+      "bourse été 2026",
+      "DAAD summer course"
+    ],
+    "lien_candidature": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=1&detail=50035295",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=1&detail=50035295",
+    "statut": "fermé",
+    "resume": "Le DAAD propose des bourses pour des cours d'été universitaires en Allemagne, destinées aux étudiants de licence et master de toutes disciplines. Les participants bénéficient de la prise en charge des frais de cours, d'un hébergement, d'une allocation unique de 475 EUR et d'une indemnité de voyage. Les candidatures sont ouvertes du 1er septembre au 30 octobre de chaque année, avec un niveau d'allemand minimum B1 requis.",
+    "imageUrl": "/docs/Cours-d-t-universitaires-propos-s-en-Allemagne-aux-tudiants-et-dipl-m-s-trangers-DAAD.webp",
+    "extrait_le": "2026-07-09T02:39:13",
+    "slug": "cours-ete-allemagne-daad-2026"
   },
   {
     "titre": "Bourse Rhodes 2027 pour les candidats internationaux (hors pays spécifiques)",

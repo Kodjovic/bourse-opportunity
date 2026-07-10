@@ -3515,6 +3515,116 @@
     "slug": "bourse-daad-arts-spectacle-master-allemagne-2026"
   },
   {
+    "titre": "Bourse DAAD/EPOS pour jeunes professionnels des pays en développement",
+    "seo_slug": "bourse-daad-epos-master-allemagne-2026",
+    "organisation": "DAAD (Deutscher Akademischer Austauschdienst)",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-15",
+    "deadline_texte": "15 octobre 2026",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Gouvernance environnementale"
+    ],
+    "pays_eligibles": [
+      "Pays en développement (liste DAC)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (TOEFL iBT 95/5, IELTS 7, Cambridge C1, PTE 76)",
+    "documents_requis": [
+      "Formulaire DAAD",
+      "Formulaire MEG",
+      "Lettre de motivation",
+      "CV Europass",
+      "Relevé de notes",
+      "Diplôme universitaire",
+      "Certificat de travail (2 ans)",
+      "Deux lettres de recommandation",
+      "Certificat de langue anglaise",
+      "Checklist DAAD signée",
+      "Certificat APS (Chine, Inde, Vietnam)"
+    ],
+    "avantages": [
+      "Bourse mensuelle",
+      "Frais de voyage",
+      "Prise en charge des frais de scolarité",
+      "Assurance maladie",
+      "Allocation familiale"
+    ],
+    "eligibilite": [
+      "Diplôme de bachelor datant de moins de 6 ans (oct. 2026)",
+      "Au moins 2 ans d'expérience professionnelle pertinente (post-bachelor)",
+      "Diplôme au-dessus de la moyenne (tiers supérieur)",
+      "Résidence en Allemagne de moins de 15 mois avant la candidature",
+      "Être citoyen d'un pays en développement (liste DAC)"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité via l'Online Eligibility Assessment (OEA)",
+      "2. Rassembler tous les documents en un seul PDF",
+      "3. Envoyer le PDF à info-meg@unr.uni-freiburg.de",
+      "4. Demander aux référents d'envoyer leurs lettres directement à info-meg@unr.uni-freiburg.de avant le 15 octobre 2026",
+      "5. Attendre les résultats en février 2027",
+      "6. Participer à un entretien si présélectionné"
+    ],
+    "contacts": [
+      "info-meg@unr.uni-freiburg.de"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse DAAD",
+        "url": "https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?daad=&detail=50076777&origin=&page=1&q=epos&status=&subjectGrps="
+      },
+      {
+        "label": "Liste des pays DAC (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/dac_laenderliste_epos.pdf"
+      },
+      {
+        "label": "Formulaire DAAD",
+        "url": "https://www.meg.uni-freiburg.de/Filelist/daad-application-form-update-2025"
+      },
+      {
+        "label": "Formulaire MEG",
+        "url": "https://www.meg.uni-freiburg.de/Filelist/daad-meg-application-form-intake-2027"
+      },
+      {
+        "label": "Guide lettre de motivation",
+        "url": "https://www.meg.uni-freiburg.de/Filelist/guideline-motivation-letter-for-daad-applicants"
+      },
+      {
+        "label": "Guide pour les référents (PDF)",
+        "url": "https://www.meg.uni-freiburg.de/Filelist/Applying/Information%20for%20referees%20website%2029.07.%2024with%20info%20stamp.pdf"
+      },
+      {
+        "label": "Checklist DAAD",
+        "url": "https://www.meg.uni-freiburg.de/Filelist/checklist-daad-with-em-highlighted"
+      },
+      {
+        "label": "Online Eligibility Assessment",
+        "url": "https://www.meg.uni-freiburg.de/MEG/OEA"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "EPOS",
+      "master Allemagne",
+      "gouvernance environnementale",
+      "jeunes professionnels",
+      "pays en développement",
+      "Freiburg",
+      "2026"
+    ],
+    "lien_candidature": "https://www.meg.uni-freiburg.de/admissions/Scholarships/daad%20scholarship",
+    "source_url": "https://www.meg.uni-freiburg.de/admissions/Scholarships/daad%20scholarship?fbclid=IwY2xjawS9z51leHRuA2FlbQIxMABicmlkETFxeFF3RWh4VlgxbjZLbWVWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl7Dd1dI-FXcfRPflREeg6wvO6ZKN_RuzXPaHrLstJQnMsdu_oy5S1gPVTXS_aem_ZO2bLYrddWBJZMb757QwtQ",
+    "statut": "ouvert",
+    "resume": "La bourse DAAD/EPOS finance un master en Environmental Governance à l'Université de Fribourg pour des jeunes professionnels de pays en développement. Les candidats doivent avoir un diplôme récent, au moins deux ans d'expérience professionnelle et un excellent niveau d'anglais. La candidature se fait via un dossier unique à envoyer avant le 15 octobre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-10T13:18:00",
+    "slug": "bourse-daad-epos-master-allemagne-2026"
+  },
+  {
     "titre": "Bourses de recherche pour diplômés - Université de Melbourne",
     "seo_slug": "bourse-recherche-melbourne-2026",
     "organisation": "University of Melbourne",
@@ -6306,6 +6416,143 @@
     "slug": "bourse-epos-daad-master-allemagne-2027"
   },
   {
+    "titre": "Bourse Ireland Fellows | Kader Asmal",
+    "seo_slug": "bourse-ireland-fellows-kader-asmal-south-africa-2027",
+    "organisation": "Government of Ireland",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Agriculture",
+      "Santé",
+      "Éducation",
+      "Droits humains",
+      "Informatique",
+      "Ingénierie",
+      "Commerce"
+    ],
+    "pays_eligibles": [
+      "Afrique du Sud"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Preliminary Application",
+      "Detailed Application",
+      "English language test (Duolingo ou IELTS)"
+    ],
+    "avantages": [
+      "Frais de scolarité",
+      "Frais de voyage",
+      "Bourse mensuelle",
+      "Frais de subsistance"
+    ],
+    "eligibilite": [
+      "Être un résident national d'Afrique du Sud",
+      "Avoir au moins deux ans d'expérience professionnelle substantielle directement pertinente",
+      "Diplôme de bachelor avec une moyenne minimale de 3.0/4.0 (First Class Honours ou Second Class Honours Grade 1 ; Grade 2 accepté avec expérience pertinente)",
+      "Diplôme obtenu en 2015 ou après",
+      "Ne pas détenir ou poursuivre un diplôme de master ou supérieur",
+      "Ne pas commencer un master en 2026/2027",
+      "Commencer un nouveau programme de master en Irlande en août 2027 au plus tôt",
+      "Démontrer des capacités de leadership, un engagement envers les ODD et une contribution aux relations avec l'Irlande",
+      "Sélectionner trois programmes pertinents dans le répertoire des programmes éligibles",
+      "Comprendre les exigences académiques et linguistiques",
+      "Ne pas avoir postulé plus d'une fois auparavant",
+      "Être disponible pour commencer la bourse en 2027/2028"
+    ],
+    "procedure_etapes": [
+      "1. Lire attentivement le Guide du candidat (Applicant Guidance Note)",
+      "2. Soumettre une candidature préliminaire (Preliminary Application)",
+      "3. Si présélectionné, soumettre une candidature détaillée (Detailed Application)",
+      "4. Passer un entretien (Interview)",
+      "5. Fournir un test de langue anglaise (Duolingo ou IELTS)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Répertoire des programmes éligibles (PDF)",
+        "url": "https://assets.ireland.ie/documents/IrelandFellows_Directory.pdf"
+      },
+      {
+        "label": "Guide du candidat (PDF)",
+        "url": "https://assets.ireland.ie/documents/IrelandFellows_KaderAsmalGuidanceNote.pdf"
+      },
+      {
+        "label": "Candidatures en ligne",
+        "url": "https://canoncollins.org/scholarships/kader-asmal-fellowship-programme/"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "Irlande",
+      "master",
+      "Afrique du Sud",
+      "Kader Asmal",
+      "ODD",
+      "leadership",
+      "2027"
+    ],
+    "lien_candidature": "https://canoncollins.org/scholarships/kader-asmal-fellowship-programme/",
+    "source_url": "https://www.ireland.ie/en/ireland-fellows-programme/applying-for-the-ireland-fellows-programme/ireland-fellows-kader-asmal/?fbclid=IwY2xjawS90CxleHRuA2FlbQIxMABicmlkETFxeFF3RWh4VlgxbjZLbWVWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgge46ZkX7dWxOd4aoTXwVX48nU7ZTE_ml4NXZ2QVjj_MuBhRKlOcc282L5T_aem_a8sKMqQzpGKpsHKrQr8laQ",
+    "statut": "ouvert",
+    "resume": "Le programme Ireland Fellows - Kader Asmal offre une bourse complète aux ressortissants sud-africains pour poursuivre un master en Irlande à partir de 2027. Destiné à former de futurs leaders, il couvre les frais de scolarité, de voyage et de subsistance. Les candidats doivent avoir au moins deux ans d'expérience professionnelle et un diplôme de bachelor obtenu après 2015. Les candidatures se font en trois étapes : préliminaire, détaillée et entretien.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-10T13:19:11",
+    "slug": "bourse-ireland-fellows-kader-asmal-south-africa-2027"
+  },
+  {
+    "titre": "Cours pratique EMBO : Métagénomique microbienne – une approche à 360°",
+    "seo_slug": "cours-pratique-embo-metagenomique-2026",
+    "organisation": "EMBO",
+    "montant": null,
+    "devise": null,
+    "type_financement": null,
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Métagénomique",
+      "Microbiologie",
+      "Bioinformatique"
+    ],
+    "pays_eligibles": [
+      "Tous"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [
+      "Chercheurs en début de carrière (doctorants avancés, post-doctorants) travaillant ou prévoyant de travailler en métagénomique"
+    ],
+    "procedure_etapes": [],
+    "contacts": [],
+    "liens_utiles": [],
+    "mots_cles": [
+      "cours pratique",
+      "métagénomique",
+      "EMBO",
+      "microbiome",
+      "séquençage"
+    ],
+    "lien_candidature": "https://www.embl.org/about/info/course-and-conference-office/events/met27-01/",
+    "source_url": "https://www.embl.org/about/info/course-and-conference-office/events/met27-01/?utm_source=EMBL+courses+and+conferences&utm_campaign=f74c18ddcd-EMAIL_CAMPAIGN_MET27-01&utm_medium=email&utm_term=0_-f74c18ddcd-90857025&fbclid=IwY2xjawS90O9leHRuA2FlbQIxMABicmlkETFxeFF3RWh4VlgxbjZLbWVWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqQ2hoF5SECzQbzM824UG6x56XgZjGl0FzDe7RJuDw1LZzwNuoCOniPJBAuQ_aem_1FtBhhAeGQMEE2nqMdJlPA",
+    "statut": "ouvert",
+    "resume": "Ce cours pratique EMBO offre une formation complète en métagénomique microbienne, couvrant de l'échantillonnage environnemental à l'analyse bioinformatique avancée. Destiné aux doctorants avancés et post-doctorants, il combine travaux pratiques en laboratoire et sessions informatiques sur le séquençage Nanopore/PacBio, la génomique des phages et l'assemblage de génomes. Les participants acquerront des compétences de pointe et échangeront avec des experts internationaux.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-10T13:21:38",
+    "slug": "cours-pratique-embo-metagenomique-2026"
+  },
+  {
     "titre": "Bourses Chevening",
     "seo_slug": "bourses-chevening-master-royaume-uni-2027",
     "organisation": "Foreign and Commonwealth Office (FDCO)",
@@ -7618,6 +7865,114 @@
     "imageUrl": null,
     "extrait_le": "2026-06-29T15:35:06",
     "slug": "bourse-gist-master-coree-2026"
+  },
+  {
+    "titre": "Bourses de recherche de l'Université d'Adélaïde",
+    "seo_slug": "bourses-recherche-adelaide-2026",
+    "organisation": "Adelaide University",
+    "montant": null,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-07",
+    "deadline_texte": "7 juin 2026 (pour le tour de mérite domestique)",
+    "niveau_etudes": [
+      "Doctorat",
+      "Master"
+    ],
+    "domaines": [
+      "Toutes les disciplines"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV structuré",
+      "Lettre de motivation",
+      "Relevés de notes",
+      "Publications",
+      "Expérience de recherche"
+    ],
+    "avantages": [
+      "Allocation de subsistance (stipend)",
+      "Exonération totale des frais de scolarité",
+      "Allocations supplémentaires pour les peuples aborigènes et insulaires du détroit de Torres",
+      "Allocation de réinstallation",
+      "Couverture santé pour étudiants étrangers (OSHC)"
+    ],
+    "eligibilite": [
+      "Être candidat à un Doctorat ou Master of Philosophy",
+      "Avoir un excellent dossier académique",
+      "Expérience de recherche pertinente",
+      "Alignement avec les objectifs stratégiques de l'université"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'attribution (Conditions of Award) pour la bourse visée.",
+      "2. Pour le tour de mérite : soumettre une candidature complète avant la date de clôture en suivant les étapes de candidature pour un diplôme de recherche.",
+      "3. Pour le tour de projet : suivre le processus en plusieurs étapes (informations à venir).",
+      "4. Pour le tour de cohorte : soumettre une expression d'intérêt.",
+      "5. Pour les bourses Master of Research Assistance : télécharger le formulaire de candidature et l'envoyer par email avec les documents requis.",
+      "6. Pour les bourses hors tour : suivre les processus et dates propres à chaque bourse."
+    ],
+    "contacts": [
+      "research.scholarships@adelaide.edu.au"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Bourse Adelaide University Research Scholarship (AURS)",
+        "url": "https://www.adelaide.edu.au/study/scholarships/adelaide-university-research-scholarship-aurs/"
+      },
+      {
+        "label": "Bourse Research Training Program Scholarship (RTPS)",
+        "url": "https://www.adelaide.edu.au/study/scholarships/research-training-program-scholarship/"
+      },
+      {
+        "label": "Conditions d'attribution AURS/RTPS (PDF)",
+        "url": "https://www.adelaide.edu.au/content/dam/adelaideuniversity/documents/research/pdfs/rtps-aurs-conditions-of-award.pdf"
+      },
+      {
+        "label": "Conditions d'attribution Master of Research Indigenous Scholarship (PDF)",
+        "url": "https://www.adelaide.edu.au/content/dam/adelaideuniversity/documents/research/pdfs/2026-MRes-Indigenous-Scholarship-Conditions-of-Award.pdf"
+      },
+      {
+        "label": "Conditions d'attribution Master of Research Assistance Scholarship (PDF)",
+        "url": "https://www.adelaide.edu.au/content/dam/adelaideuniversity/documents/research/pdfs/2026-mres-assistance-scholarship-conditions-of-award.pdf"
+      },
+      {
+        "label": "Formulaire de candidature Master of Research Assistance (PDF)",
+        "url": "https://www.adelaide.edu.au/content/dam/adelaideuniversity/documents/research/pdfs/MRes-Assistance-Scholarship-Application-Form.pdf"
+      },
+      {
+        "label": "Modèle de CV structuré (PDF)",
+        "url": "https://adelaide.edu.au/content/dam/adelaideuniversity/documents/study/pdfs/Structured%20CV%20Final%20Form.pdf"
+      },
+      {
+        "label": "Trouver un projet de recherche",
+        "url": "https://www.adelaide.edu.au/research/research-degrees/research-projects/"
+      },
+      {
+        "label": "Page des bourses de recherche",
+        "url": "https://www.adelaide.edu.au/research/graduate-research-school/scholarship-funding-opportunities/#prestigious"
+      }
+    ],
+    "mots_cles": [
+      "bourse recherche adelaide",
+      "doctorat adelaide",
+      "master philosophie adelaide",
+      "bourse australie 2026",
+      "bourse université adelaide",
+      "research scholarship adelaide",
+      "RTPS",
+      "AURS"
+    ],
+    "lien_candidature": "https://www.adelaide.edu.au/study/how-to-apply/research/",
+    "source_url": "https://adelaide.edu.au/research/research-degrees/research-scholarships/?fbclid=IwY2xjawS90I1leHRuA2FlbQIxMABicmlkETFxeFF3RWh4VlgxbjZLbWVWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpPWt5yBaQUkSJ0gZlgpxsEm9mpZThuQNRVDT69Hr0SqNm0qq_CepNLh-iKw_aem_r0eKYwq519H9yNHLNMaRnQ",
+    "statut": "fermé",
+    "resume": "L'Université d'Adélaïde propose plusieurs bourses de recherche compétitives pour les étudiants en Doctorat et Master of Philosophy, couvrant les frais de scolarité et offrant une allocation de subsistance. Les candidats de toutes disciplines peuvent postuler via des tours de mérite, de projet ou de cohorte, avec des dates limites spécifiques. Des bourses supplémentaires sont disponibles pour les étudiants aborigènes et insulaires du détroit de Torres, ainsi que pour les étudiants domestiques éligibles à Austudy.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-10T13:19:56",
+    "slug": "bourses-recherche-adelaide-2026"
   },
   {
     "titre": "Bourse Glenmore pour Études Supérieures",

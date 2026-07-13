@@ -1799,6 +1799,148 @@
     "slug": "bourse-unitar-ticad9-afrique-japon-2026"
   },
   {
+    "titre": "Doctorats de recherche 42e cycle - Université de Sienne",
+    "seo_slug": "doctorat-recherche-sienne-42e-cycle-2026",
+    "organisation": "Università degli Studi di Siena",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-08-03",
+    "deadline_texte": "3 août 2026 à 14h00 CEST (dernière date limite parmi les trois appels)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences expérimentales",
+      "Sciences biomédicales et médicales",
+      "Lettres, histoire, philosophie et arts"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Italien ou Anglais (selon le programme)",
+    "documents_requis": [
+      "Diplôme de master",
+      "CV",
+      "Lettre de motivation",
+      "Projet de recherche",
+      "Lettres de recommandation"
+    ],
+    "avantages": [
+      "Bourse mensuelle",
+      "Frais de scolarité",
+      "Frais de voyage"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un master ou équivalent",
+      "Compétences linguistiques appropriées"
+    ],
+    "procedure_etapes": [
+      "1. Consulter les annexes pour les détails de chaque programme",
+      "2. Préparer les documents requis",
+      "3. Soumettre la candidature en ligne avant la date limite"
+    ],
+    "contacts": [
+      "stefania.butini@unisi.it",
+      "alessandro.cerri@unisi.it",
+      "andrea.garzelli@unisi.it",
+      "simona.maccherini@unisi.it",
+      "letizia.marsili@unisi.it",
+      "annalisa.santucci@unisi.it",
+      "francesco.iannelli@unisi.it",
+      "ilaria.meloni@unisi.it",
+      "donata.medaglini@unisi.it",
+      "daniela.rossi@unisi.it",
+      "annamaria.digiacomo@unisi.it",
+      "loretta.fabbri@unisi.it",
+      "mariarita.digilio@unisi.it"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page d'accueil des doctorats",
+        "url": "https://www.unisi.it/ricerca/dottorati-di-ricerca"
+      },
+      {
+        "label": "Décret rectoral (italien) - Appel spécifique DIN",
+        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/DR_1117_2026_dottorati_ciclo_42_bando_DIN.pdf"
+      },
+      {
+        "label": "Annexe 1 - Avis de sélection (italien) - DIN",
+        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Allegato_1_avviso_selezione_ciclo_42_DIN.pdf"
+      },
+      {
+        "label": "Annexe 2 - Fiche détaillée (italien) - DIN",
+        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Allegato_2_scheda_ciclo_42_DIN.pdf"
+      },
+      {
+        "label": "Annexe 1 - Selection notice (anglais) - DIN",
+        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Annex_1_PhD_national_interest_c42_selection_notice.pdf"
+      },
+      {
+        "label": "Annexe 2 - Schedule (anglais) - DIN",
+        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Annex_2_schedule_42_DIN.pdf"
+      },
+      {
+        "label": "Décret rectoral (italien) - Deuxième appel",
+        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/DR_1064_2026_dottorati_ciclo_42_secondo_bando.pdf"
+      },
+      {
+        "label": "Annexe 1 - Avis de sélection (italien) - Deuxième appel",
+        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Allegato_1_DR_dottorati_c42_bando2_avviso_selezione.pdf"
+      },
+      {
+        "label": "Annexe 2 - Fiches détaillées (italien) - Deuxième appel",
+        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Allegato_2_DR_dottorati_c42_bando2_schede_0.pdf"
+      },
+      {
+        "label": "Annexe 1 - Selection notice (anglais) - Deuxième appel",
+        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Annex_1_DR_PhD_c42_bando2_selection_notice.pdf"
+      },
+      {
+        "label": "Annexe 2 - Schedules (anglais) - Deuxième appel",
+        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Annex_2_DR_PhD_c42_bando2_schedules.pdf"
+      },
+      {
+        "label": "Décret rectoral (italien) - Premier appel",
+        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/DR_917_2026_dottorati_ciclo_42_primo_bando.pdf"
+      },
+      {
+        "label": "Annexe 1 - Avis de sélection (italien) - Premier appel",
+        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Allegato_1_DR_dottorati_c42_1_avviso_selezione.pdf"
+      },
+      {
+        "label": "Annexe 2 - Fiches détaillées (italien) - Premier appel",
+        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Allegato_2_DR_dottorati_c42_1_schede.pdf"
+      },
+      {
+        "label": "Annexe 1 - Selection notice (anglais) - Premier appel",
+        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Annex_1_PhD_c42_1_selection_notice.pdf"
+      },
+      {
+        "label": "Annexe 2 - Schedules (anglais) - Premier appel",
+        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Annex_2_DR_PhD_c42_1_schedules.pdf"
+      }
+    ],
+    "mots_cles": [
+      "doctorat",
+      "bourse",
+      "Italie",
+      "Sienne",
+      "42e cycle",
+      "2026",
+      "recherche",
+      "PhD"
+    ],
+    "lien_candidature": "https://www.unisi.it/ricerca/dottorati-di-ricerca",
+    "source_url": "manuel",
+    "statut": "ouvert",
+    "resume": "L'Université de Sienne ouvre les candidatures pour le 42e cycle de ses doctorats de recherche, avec trois appels à candidatures en 2026. Les programmes couvrent les sciences expérimentales, biomédicales, médicales, lettres, histoire, philosophie et arts. Les candidats doivent soumettre leur dossier en ligne avant les dates limites respectives, la dernière étant le 3 août 2026. Des bourses complètes sont disponibles pour les étudiants internationaux.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-13T15:47:12",
+    "slug": "doctorat-recherche-sienne-42e-cycle-2026"
+  },
+  {
     "titre": "Appel à candidatures pour siéger au Conseil consultatif sur l'intégrité YouthLED de l'UNODC 2026-2028",
     "seo_slug": "conseil-youthled-unodc-2026-2028",
     "organisation": "UNODC (Office des Nations Unies contre la drogue et le crime)",
@@ -7784,87 +7926,6 @@
     "resume": "L'Université York offre plus de 20 millions de dollars canadiens en bourses d'entrée chaque année aux candidats canadiens de niveau secondaire. Les bourses sont attribuées en fonction de la moyenne d'admission, du leadership et de l'engagement communautaire. Certaines bourses sont automatiques, d'autres nécessitent une candidature via le portail MyFile avant le 1er avril 2026. Les montants varient de 500 $ à 120 000 $ sur quatre ans, avec des possibilités de renouvellement.",
     "extrait_le": "2026-06-19T17:04:46",
     "slug": "bourses-entree-universite-york-canada-2026"
-  },
-  {
-    "titre": "Bourse d'études supérieures GIST 2026",
-    "seo_slug": "bourse-gist-master-coree-2026",
-    "organisation": "Gwangju Institute of Science and Technology (GIST)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "non spécifié",
-    "deadline": "2026-04-15",
-    "deadline_texte": "15 avril (semestre d'automne) ou 15 octobre (semestre de printemps)",
-    "niveau_etudes": [
-      "Master",
-      "Doctorat"
-    ],
-    "domaines": [
-      "Sciences",
-      "Technologie",
-      "Ingénierie"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne",
-      "Relevés de notes",
-      "Lettres de recommandation",
-      "CV",
-      "Déclaration personnelle",
-      "Preuve de compétence en anglais"
-    ],
-    "avantages": [],
-    "eligibilite": [
-      "Diplôme de licence pour le master",
-      "Diplôme de master pour le doctorat"
-    ],
-    "procedure_etapes": [
-      "1. Remplir le formulaire de candidature en ligne",
-      "2. Soumettre tous les documents requis avant la date limite",
-      "3. Attendre l'examen des documents (15 jours)",
-      "4. Attendre la révision des documents (30 jours)",
-      "5. Recevoir la notification des résultats"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Candidature en ligne",
-        "url": "https://ipsi3.uwayapply.com/2026/foreign/GIST/?CHA=1"
-      },
-      {
-        "label": "Admissions premier cycle",
-        "url": "https://www.gist.ac.kr/uadm/main.html"
-      },
-      {
-        "label": "Admissions cycles supérieurs",
-        "url": "https://www.gist.ac.kr/gadm/"
-      },
-      {
-        "label": "Admissions internationales premier cycle",
-        "url": "https://www.gist.ac.kr/iuadm/"
-      },
-      {
-        "label": "Admissions internationales cycles supérieurs",
-        "url": "https://www.gist.ac.kr/iadm/main.html"
-      }
-    ],
-    "mots_cles": [
-      "bourse GIST",
-      "études Corée",
-      "master sciences",
-      "doctorat technologie",
-      "bourse internationale"
-    ],
-    "lien_candidature": "https://ipsi3.uwayapply.com/2026/foreign/GIST/?CHA=1",
-    "source_url": "manuel",
-    "statut": "fermé",
-    "resume": "Le Gwangju Institute of Science and Technology (GIST) en Corée du Sud propose des admissions pour les semestres de printemps et d'automne 2026. Les candidatures sont ouvertes aux étudiants internationaux pour les programmes de master et doctorat en sciences, technologie et ingénierie. La date limite est le 15 avril pour le semestre d'automne et le 15 octobre pour le semestre de printemps. Les candidats doivent soumettre un dossier complet en ligne.",
-    "imageUrl": null,
-    "extrait_le": "2026-06-29T15:35:06",
-    "slug": "bourse-gist-master-coree-2026"
   },
   {
     "titre": "Bourses de recherche de l'Université d'Adélaïde",

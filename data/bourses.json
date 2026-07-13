@@ -153,6 +153,89 @@
     "slug": "programme-leadership-jeunesse-systemes-alimentaires-2026"
   },
   {
+    "titre": "Concours public d'admission aux programmes de recherche doctorale de l'Université de Milan – Année académique 2026/2027",
+    "seo_slug": "concours-doctorat-universite-milan-2026",
+    "organisation": "Université de Milan",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-15",
+    "deadline_texte": "15 juillet 2026 à 14h00 (heure italienne)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Agriculture, Environnement et Bioénergie",
+      "Biologie moléculaire et cellulaire",
+      "Droit international et public, Éthique et Économie pour le développement durable (LEES)",
+      "Médecine translationnelle",
+      "Biologie intégrative multi-échelle (MIB)",
+      "Recherche clinique",
+      "Littérature, Arts et Patrimoine environnemental",
+      "Sciences de la nutrition",
+      "Sciences pharmaceutiques",
+      "Sciences pharmacologiques biomoléculaires, expérimentales et cliniques",
+      "Systèmes alimentaires",
+      "Sciences vétérinaires et animales",
+      "Études sur la criminalité organisée"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (selon programme)",
+    "documents_requis": [
+      "Diplôme de master ou équivalent",
+      "CV",
+      "Lettre de motivation",
+      "Projet de recherche (selon programme)",
+      "Autres documents spécifiés dans chaque programme"
+    ],
+    "avantages": [
+      "Bourse d'études (montant non spécifié)",
+      "Exonération des frais de scolarité (selon programme)"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un Laurea magistrale (master) ou d'un diplôme équivalent délivré par une université étrangère",
+      "Les étudiants n'ayant pas encore obtenu leur diplôme de deuxième cycle peuvent postuler, mais doivent l'obtenir avant le 1er novembre 2026",
+      "Respecter les conditions supplémentaires spécifiques à chaque programme"
+    ],
+    "procedure_etapes": [
+      "1. S'inscrire sur le portail de l'Université de Milan (si ce n'est pas déjà fait)",
+      "2. Se connecter et soumettre une demande d'admission via les services d'admission aux programmes doctoraux",
+      "3. Finaliser la procédure en ligne avant la date limite du 15 juillet 2026 à 14h00"
+    ],
+    "contacts": [
+      "unimi@postecert.it"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de l'Université de Milan",
+        "url": "https://www.unimi.it"
+      },
+      {
+        "label": "Services d'admission aux programmes doctoraux",
+        "url": "https://www.unimi.it/en/study/phd-and-postgraduate-schools/phd-programmes"
+      }
+    ],
+    "mots_cles": [
+      "doctorat",
+      "bourse",
+      "Université de Milan",
+      "Italie",
+      "2026",
+      "admission",
+      "recherche"
+    ],
+    "lien_candidature": "https://www.unimi.it/en/study/phd-and-postgraduate-schools/phd-programmes",
+    "source_url": "manuel",
+    "statut": "ouvert",
+    "resume": "L'Université de Milan ouvre un concours public pour l'admission à ses programmes de recherche doctorale pour l'année académique 2026/2027 (42e cycle). Treize programmes sont proposés dans des domaines variés allant de l'agriculture à la criminologie. Les candidats doivent être titulaires d'un master ou équivalent et soumettre leur candidature en ligne avant le 15 juillet 2026. Des bourses d'études sont disponibles pour les candidats admis.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-13T16:04:39",
+    "slug": "concours-doctorat-universite-milan-2026"
+  },
+  {
     "titre": "Programme de bourses pour étudiants internationaux et doctorants - Développement des talents internationaux",
     "seo_slug": "bourse-kas-international-allemagne-2026",
     "organisation": "Konrad Adenauer Stiftung (KAS)",
@@ -1799,148 +1882,6 @@
     "slug": "bourse-unitar-ticad9-afrique-japon-2026"
   },
   {
-    "titre": "Doctorats de recherche 42e cycle - Université de Sienne",
-    "seo_slug": "doctorat-recherche-sienne-42e-cycle-2026",
-    "organisation": "Università degli Studi di Siena",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-08-03",
-    "deadline_texte": "3 août 2026 à 14h00 CEST (dernière date limite parmi les trois appels)",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Sciences expérimentales",
-      "Sciences biomédicales et médicales",
-      "Lettres, histoire, philosophie et arts"
-    ],
-    "pays_eligibles": [
-      "Tous pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Italien ou Anglais (selon le programme)",
-    "documents_requis": [
-      "Diplôme de master",
-      "CV",
-      "Lettre de motivation",
-      "Projet de recherche",
-      "Lettres de recommandation"
-    ],
-    "avantages": [
-      "Bourse mensuelle",
-      "Frais de scolarité",
-      "Frais de voyage"
-    ],
-    "eligibilite": [
-      "Être titulaire d'un master ou équivalent",
-      "Compétences linguistiques appropriées"
-    ],
-    "procedure_etapes": [
-      "1. Consulter les annexes pour les détails de chaque programme",
-      "2. Préparer les documents requis",
-      "3. Soumettre la candidature en ligne avant la date limite"
-    ],
-    "contacts": [
-      "stefania.butini@unisi.it",
-      "alessandro.cerri@unisi.it",
-      "andrea.garzelli@unisi.it",
-      "simona.maccherini@unisi.it",
-      "letizia.marsili@unisi.it",
-      "annalisa.santucci@unisi.it",
-      "francesco.iannelli@unisi.it",
-      "ilaria.meloni@unisi.it",
-      "donata.medaglini@unisi.it",
-      "daniela.rossi@unisi.it",
-      "annamaria.digiacomo@unisi.it",
-      "loretta.fabbri@unisi.it",
-      "mariarita.digilio@unisi.it"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Page d'accueil des doctorats",
-        "url": "https://www.unisi.it/ricerca/dottorati-di-ricerca"
-      },
-      {
-        "label": "Décret rectoral (italien) - Appel spécifique DIN",
-        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/DR_1117_2026_dottorati_ciclo_42_bando_DIN.pdf"
-      },
-      {
-        "label": "Annexe 1 - Avis de sélection (italien) - DIN",
-        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Allegato_1_avviso_selezione_ciclo_42_DIN.pdf"
-      },
-      {
-        "label": "Annexe 2 - Fiche détaillée (italien) - DIN",
-        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Allegato_2_scheda_ciclo_42_DIN.pdf"
-      },
-      {
-        "label": "Annexe 1 - Selection notice (anglais) - DIN",
-        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Annex_1_PhD_national_interest_c42_selection_notice.pdf"
-      },
-      {
-        "label": "Annexe 2 - Schedule (anglais) - DIN",
-        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Annex_2_schedule_42_DIN.pdf"
-      },
-      {
-        "label": "Décret rectoral (italien) - Deuxième appel",
-        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/DR_1064_2026_dottorati_ciclo_42_secondo_bando.pdf"
-      },
-      {
-        "label": "Annexe 1 - Avis de sélection (italien) - Deuxième appel",
-        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Allegato_1_DR_dottorati_c42_bando2_avviso_selezione.pdf"
-      },
-      {
-        "label": "Annexe 2 - Fiches détaillées (italien) - Deuxième appel",
-        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Allegato_2_DR_dottorati_c42_bando2_schede_0.pdf"
-      },
-      {
-        "label": "Annexe 1 - Selection notice (anglais) - Deuxième appel",
-        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Annex_1_DR_PhD_c42_bando2_selection_notice.pdf"
-      },
-      {
-        "label": "Annexe 2 - Schedules (anglais) - Deuxième appel",
-        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Annex_2_DR_PhD_c42_bando2_schedules.pdf"
-      },
-      {
-        "label": "Décret rectoral (italien) - Premier appel",
-        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/DR_917_2026_dottorati_ciclo_42_primo_bando.pdf"
-      },
-      {
-        "label": "Annexe 1 - Avis de sélection (italien) - Premier appel",
-        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Allegato_1_DR_dottorati_c42_1_avviso_selezione.pdf"
-      },
-      {
-        "label": "Annexe 2 - Fiches détaillées (italien) - Premier appel",
-        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Allegato_2_DR_dottorati_c42_1_schede.pdf"
-      },
-      {
-        "label": "Annexe 1 - Selection notice (anglais) - Premier appel",
-        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Annex_1_PhD_c42_1_selection_notice.pdf"
-      },
-      {
-        "label": "Annexe 2 - Schedules (anglais) - Premier appel",
-        "url": "https://www.unisi.it/sites/default/files/allegatiparagrafo/Annex_2_DR_PhD_c42_1_schedules.pdf"
-      }
-    ],
-    "mots_cles": [
-      "doctorat",
-      "bourse",
-      "Italie",
-      "Sienne",
-      "42e cycle",
-      "2026",
-      "recherche",
-      "PhD"
-    ],
-    "lien_candidature": "https://www.unisi.it/ricerca/dottorati-di-ricerca",
-    "source_url": "manuel",
-    "statut": "ouvert",
-    "resume": "L'Université de Sienne ouvre les candidatures pour le 42e cycle de ses doctorats de recherche, avec trois appels à candidatures en 2026. Les programmes couvrent les sciences expérimentales, biomédicales, médicales, lettres, histoire, philosophie et arts. Les candidats doivent soumettre leur dossier en ligne avant les dates limites respectives, la dernière étant le 3 août 2026. Des bourses complètes sont disponibles pour les étudiants internationaux.",
-    "imageUrl": null,
-    "extrait_le": "2026-07-13T15:47:12",
-    "slug": "doctorat-recherche-sienne-42e-cycle-2026"
-  },
-  {
     "titre": "Appel à candidatures pour siéger au Conseil consultatif sur l'intégrité YouthLED de l'UNODC 2026-2028",
     "seo_slug": "conseil-youthled-unodc-2026-2028",
     "organisation": "UNODC (Office des Nations Unies contre la drogue et le crime)",
@@ -2240,6 +2181,62 @@
     "imageUrl": "/docs/McCall-MacBain-bourse-d-etude-de-l-universit-s.jpg",
     "extrait_le": "2026-07-06T04:37:57",
     "slug": "bourse-mccall-macbain-mcgill-2027"
+  },
+  {
+    "titre": "Bourse ER.GO pour l'année académique 2026/2027",
+    "seo_slug": "bourse-er-go-italie-2026",
+    "organisation": "ER.GO - Azienda Regionale per il Diritto agli Studi Superiori",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-08-24",
+    "deadline_texte": "24 août 2026 à 16h00",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Italie"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Italien",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [],
+    "procedure_etapes": [
+      "1. Consulter la timeline interactive sur le site ER.GO",
+      "2. Soumettre la demande en ligne du 23 juin 2026 au 24 août 2026 à 16h00"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel ER.GO",
+        "url": "https://www.er-go.it"
+      },
+      {
+        "label": "Page de la bourse",
+        "url": "https://www.er-go.it/tutte-le-notizie/bando-a-a-2026-2027-apertura-domande-il-23-giugno-2026"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "ER.GO",
+      "Italie",
+      "2026",
+      "études supérieures",
+      "aide financière"
+    ],
+    "lien_candidature": "https://www.er-go.it/tutte-le-notizie/bando-a-a-2026-2027-apertura-domande-il-23-giugno-2026",
+    "source_url": "https://www.er-go.it/tutte-le-notizie/bando-a-a-2026-2027-apertura-domande-il-23-giugno-2026?fbclid=IwY2xjawTB6PBleHRuA2FlbQIxMABicmlkETFKOHFKR2JQbVVlT092a3VLc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjkd20S6dBMj5DV3zOickuA53hAUeMxZ7MCHKCux5GDDNWOYaZIQ_NzY9lWs_aem_QknPMhDDbXtc9Vr2NJmdCQ",
+    "statut": "ouvert",
+    "resume": "ER.GO publie son appel à candidatures pour l'année académique 2026/2027. Les demandes en ligne sont ouvertes du 23 juin au 24 août 2026 à 16h00. Une timeline interactive sur le site web permet de suivre les principales échéances. Les dates limites sont strictes et impératives.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-13T15:52:55",
+    "slug": "bourse-er-go-italie-2026"
   },
   {
     "titre": "Bourse Rhodes pour l'Afrique de l'Ouest 2027",
@@ -3765,6 +3762,116 @@
     "imageUrl": null,
     "extrait_le": "2026-07-10T13:18:00",
     "slug": "bourse-daad-epos-master-allemagne-2026"
+  },
+  {
+    "titre": "Bourse DAAD/EPOS pour jeunes professionnels des pays en développement",
+    "seo_slug": "bourse-daad-epos-master-gouvernance-environnementale-2027",
+    "organisation": "DAAD (Deutscher Akademischer Austauschdienst)",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-15",
+    "deadline_texte": "15 octobre 2026",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Gouvernance environnementale"
+    ],
+    "pays_eligibles": [
+      "Pays en développement (liste DAC)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (TOEFL iBT 95/5, IELTS 7, Cambridge C1, PTE 76)",
+    "documents_requis": [
+      "Formulaire de candidature DAAD",
+      "Formulaire de candidature MEG",
+      "Lettre de motivation (selon guide)",
+      "CV (format EUROPASS)",
+      "Relevé de notes (avec moyenne et échelle de notation)",
+      "Diplôme universitaire",
+      "Certificat(s) de travail (2 ans d'expérience professionnelle)",
+      "Deux lettres de recommandation (employeur et académique)",
+      "Certificat de langue anglaise",
+      "Checklist DAAD signée",
+      "Certificat APS (Chine, Inde, Vietnam)"
+    ],
+    "avantages": [
+      "Bourse mensuelle",
+      "Frais de voyage",
+      "Prise en charge des frais de scolarité",
+      "Assurance maladie",
+      "Allocation familiale (si applicable)"
+    ],
+    "eligibilite": [
+      "Être un jeune professionnel d'un pays en développement (liste DAC)",
+      "Diplôme académique datant de moins de 6 ans (octobre 2026)",
+      "Minimum 2 ans d'expérience professionnelle pertinente (post-licence)",
+      "Diplôme de niveau supérieur à la moyenne (tiers supérieur)",
+      "Résider en Allemagne depuis moins de 15 mois avant la candidature",
+      "Ne pas déjà posséder un master (ou justifier d'un second master)"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité via l'évaluation en ligne (OEA)",
+      "2. Remplir le formulaire DAAD et le formulaire MEG",
+      "3. Rassembler tous les documents en un seul PDF",
+      "4. Envoyer le PDF à info-meg@unr.uni-freiburg.de",
+      "5. Demander aux référents d'envoyer les lettres de recommandation directement",
+      "6. Attendre les résultats en février et un éventuel entretien"
+    ],
+    "contacts": [
+      "info-meg@unr.uni-freiburg.de"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse DAAD",
+        "url": "https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?daad=&detail=50076777&origin=&page=1&q=epos&status=&subjectGrps="
+      },
+      {
+        "label": "Liste des pays DAC (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/dac_laenderliste_epos.pdf"
+      },
+      {
+        "label": "Formulaire de candidature DAAD",
+        "url": "https://www.meg.uni-freiburg.de/Filelist/daad-application-form-update-2025"
+      },
+      {
+        "label": "Formulaire de candidature MEG",
+        "url": "https://www.meg.uni-freiburg.de/Filelist/daad-meg-application-form-intake-2027"
+      },
+      {
+        "label": "Guide pour la lettre de motivation",
+        "url": "https://www.meg.uni-freiburg.de/Filelist/guideline-motivation-letter-for-daad-applicants"
+      },
+      {
+        "label": "Guide pour les référents (PDF)",
+        "url": "https://www.meg.uni-freiburg.de/Filelist/Applying/Information%20for%20referees%20website%2029.07.%2024with%20info%20stamp.pdf"
+      },
+      {
+        "label": "Checklist DAAD",
+        "url": "https://www.meg.uni-freiburg.de/Filelist/checklist-daad-with-em-highlighted"
+      },
+      {
+        "label": "Évaluation en ligne (OEA)",
+        "url": "https://www.meg.uni-freiburg.de/MEG/OEA"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "EPOS",
+      "master gouvernance environnementale",
+      "Allemagne",
+      "pays en développement",
+      "jeunes professionnels",
+      "2027"
+    ],
+    "lien_candidature": "https://www.meg.uni-freiburg.de/admissions/Scholarships/daad%20scholarship",
+    "source_url": "https://www.meg.uni-freiburg.de/admissions/Scholarships/daad%20scholarship?fbclid=IwY2xjawTB595leHRuA2FlbQIxMABicmlkETFKOHFKR2JQbVVlT092a3VLc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtVPmAUael6uJGV-dUkbZ67jaucrzXSELaYHBvjh94ms4Fy_3bwgleQjksJx_aem_j2Nz0iejsxk82hilqVkvXw",
+    "statut": "ouvert",
+    "resume": "La bourse DAAD/EPOS finance un master en gouvernance environnementale à l'Université de Fribourg pour des jeunes professionnels de pays en développement. Les candidats doivent justifier d'au moins deux ans d'expérience professionnelle et d'un diplôme récent. La candidature, à soumettre avant le 15 octobre 2026, comprend un dossier complet incluant lettres de recommandation et certificat de langue. Les lauréats bénéficient d'une prise en charge complète des frais de scolarité, d'une bourse mensuelle et des frais de voyage.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-13T15:50:34",
+    "slug": "bourse-daad-epos-master-gouvernance-environnementale-2027"
   },
   {
     "titre": "Bourses de recherche pour diplômés - Université de Melbourne",
@@ -7555,6 +7662,161 @@
     "slug": "bourse-master-conflits-mediterranee-2025"
   },
   {
+    "titre": "Bourse d'études ERSU Catania pour le droit à l'étude universitaire - Année académique 2026/27",
+    "seo_slug": "bourse-ersu-catania-2026-27",
+    "organisation": "ERSU di Catania",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2025-08-10",
+    "deadline_texte": "10 août 2025 à 14h00",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Italie"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Italien",
+    "documents_requis": [
+      "Pièce d'identité",
+      "Certificat de résidence",
+      "Certificat ISEE",
+      "Diplôme d'études précédentes",
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Bourse d'études",
+      "Autres contributions économiques",
+      "Services pour le droit à l'étude"
+    ],
+    "eligibilite": [
+      "Être étudiant inscrit à l'université de Catania ou autre université italienne",
+      "Avoir un ISEE dans les limites fixées par le bando",
+      "Être en règle avec les conditions de mérite académique"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le bando complet sur le site de l'ERSU",
+      "2. Se connecter à l'aire réservée aux étudiants sur https://studenti.ersucatania.it/",
+      "3. Suivre la procédure indiquée à l'article 3 du bando",
+      "4. Soumettre la demande en ligne avant le 10 août 2025 à 14h00"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Bando complet (PDF)",
+        "url": "https://www.ersucatania.it/wp-content/uploads/2026/06/Bando-ERSU-CT-2026-27-Delibera-45.pdf"
+      },
+      {
+        "label": "Portail de candidature (aire réservée)",
+        "url": "https://studenti.ersucatania.it/"
+      },
+      {
+        "label": "Site officiel ERSU Catania",
+        "url": "https://www.ersucatania.it/"
+      }
+    ],
+    "mots_cles": [
+      "bourse d'études",
+      "ERSU Catania",
+      "droit à l'étude",
+      "université",
+      "Italie",
+      "2026/27",
+      "aide financière",
+      "étudiants"
+    ],
+    "lien_candidature": "https://studenti.ersucatania.it/",
+    "source_url": "https://www.ersucatania.it/avviso-pubblicazione-bando-di-concorso-per-lattribuzione-di-borse-di-studio-altri-contributi-economici-e-servizi-per-il-diritto-allo-studio-universitario-per-lanno-accademico-2026/?fbclid=IwY2xjawTB6adleHRuA2FlbQIxMABicmlkETFKOHFKR2JQbVVlT092a3VLc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmSZ_iHuwM7EC7DVRDy2X4dsihKRi7QAwYNwv6u4ZFInp6MJUHIOzDWfcgNS_aem_28X5JF9UfbbXD7HbHwAgrw",
+    "statut": "fermé",
+    "resume": "L'ERSU de Catania a publié le bando de concours pour l'attribution de bourses d'études, contributions économiques et services pour le droit à l'étude universitaire pour l'année académique 2026/27. Les candidatures sont ouvertes du 24 juin 2025 à 19h00 au 10 août 2025 à 14h00. Les étudiants doivent soumettre leur demande en ligne via l'aire réservée du site de l'ERSU. Il est recommandé de lire attentivement le bando avant de postuler.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-13T15:55:56",
+    "slug": "bourse-ersu-catania-2026-27"
+  },
+  {
+    "titre": "Bourse d'études ERSU Catania pour le droit à l'étude universitaire - Année académique 2026/27",
+    "seo_slug": "bourse-ersu-catania-2026",
+    "organisation": "ERSU di Catania",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2025-08-10",
+    "deadline_texte": "10 août 2025 à 14h00 (heure italienne)",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Italie"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Italien",
+    "documents_requis": [
+      "Pièce d'identité",
+      "Certificat de résidence",
+      "Certificat ISEE",
+      "Diplôme ou certificat d'inscription"
+    ],
+    "avantages": [
+      "Bourse d'études",
+      "Autres contributions économiques",
+      "Services pour le droit à l'étude"
+    ],
+    "eligibilite": [
+      "Être étudiant inscrit dans une université de la région de Catania",
+      "Avoir un ISEE inférieur aux seuils fixés par le bando",
+      "Respecter les conditions de mérite académique"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le bando complet sur le site de l'ERSU.",
+      "2. Se connecter à l'aire réservée aux étudiants sur https://studenti.ersucatania.it/.",
+      "3. Suivre la procédure indiquée à l'article 3 du bando.",
+      "4. Soumettre la demande en ligne avant la date limite."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Bando officiel (PDF)",
+        "url": "https://www.ersucatania.it/wp-content/uploads/2026/06/Bando-ERSU-CT-2026-27-Delibera-45.pdf"
+      },
+      {
+        "label": "Portail de candidature (aire réservée)",
+        "url": "https://studenti.ersucatania.it/"
+      },
+      {
+        "label": "Site principal ERSU Catania",
+        "url": "https://www.ersucatania.it/"
+      }
+    ],
+    "mots_cles": [
+      "bourse d'études",
+      "ERSU Catania",
+      "droit à l'étude",
+      "université",
+      "Italie",
+      "2026/27",
+      "aide financière",
+      "étudiants"
+    ],
+    "lien_candidature": "https://studenti.ersucatania.it/",
+    "source_url": "https://www.ersucatania.it/avviso-pubblicazione-bando-di-concorso-per-lattribuzione-di-borse-di-studio-altri-contributi-economici-e-servizi-per-il-diritto-allo-studio-universitario-per-lanno-accademico-2026/?fbclid=IwY2xjawTB6cdleHRuA2FlbQIxMABicmlkETFKOHFKR2JQbVVlT092a3VLc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmSZ_iHuwM7EC7DVRDy2X4dsihKRi7QAwYNwv6u4ZFInp6MJUHIOzDWfcgNS_aem_28X5JF9UfbbXD7HbHwAgrw",
+    "statut": "fermé",
+    "resume": "L'ERSU de Catania a publié le bando de concours pour l'attribution de bourses d'études et autres services pour l'année académique 2026/27. Les candidatures sont ouvertes du 24 juin 2025 au 10 août 2025. Les étudiants intéressés doivent soumettre leur demande en ligne via l'aire réservée du site de l'ERSU. Il est recommandé de lire attentivement le bando avant de postuler.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-13T15:56:50",
+    "slug": "bourse-ersu-catania-2026"
+  },
+  {
     "titre": "Bourses d'études de premier cycle de l'Université de Floride",
     "seo_slug": "bourses-premier-cycle-universite-floride-2026",
     "organisation": "University of Florida",
@@ -8210,6 +8472,81 @@
     "resume": "La bourse Glenmore de l'Université d'Édimbourg offre trois bourses complètes couvrant l'intégralité des frais de scolarité pour des programmes de master en médecine humaine, en ligne ou sur campus, pour l'année 2026-2027. Destinée aux étudiants domiciliés dans des pays éligibles (principalement africains), elle privilégie les candidats n'ayant pas encore étudié au niveau master. Les candidats doivent être admis et avoir fermement accepté une offre sur un programme éligible, puis soumettre une déclaration personnelle avant le 15 juin 2026.",
     "extrait_le": "2026-06-15T04:30:01",
     "slug": "bourse-glenmore-master-edimbourg-2026"
+  },
+  {
+    "titre": "Programmes de Doctorat - Université de Florence",
+    "seo_slug": "doctorat-universite-florence-2026",
+    "organisation": "Università degli Studi di Firenze",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2026-06-17",
+    "deadline_texte": "17 juin 2026 à 12h00 (heure italienne) - date limite prolongée pour l'appel général",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Italien, Anglais",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [
+      "Diplôme de master ou équivalent",
+      "Admission selon les critères de l'appel"
+    ],
+    "procedure_etapes": [
+      "1. Consulter l'appel à candidatures général ou Pegaso",
+      "2. Soumettre la candidature en ligne avant la date limite"
+    ],
+    "contacts": [
+      "dottorato@unifi.it",
+      "dottorato@pec.unifi.it"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Appel général Cycle 42",
+        "url": "https://www.unifi.it/en/study-us/after-graduation/phd-programmes/phd-courses/cycle-42-call-applications"
+      },
+      {
+        "label": "Programmes de doctorat",
+        "url": "https://www.unifi.it/en/study-us/after-graduation/phd-programmes/phd-courses"
+      },
+      {
+        "label": "Conditions d'admission",
+        "url": "https://www.unifi.it/en/study-us/after-graduation/phd-programmes/admission-requirements"
+      },
+      {
+        "label": "Offre de formation",
+        "url": "https://www.unifi.it/en/study-us/after-graduation/phd-programmes/educational-offer"
+      },
+      {
+        "label": "Statuts et règlements (italien)",
+        "url": "https://www.unifi.it/it/ateneo/chi-siamo/statuto-e-normativa"
+      },
+      {
+        "label": "Normattiva - DM 226/2021",
+        "url": "https://www.normattiva.it/"
+      }
+    ],
+    "mots_cles": [
+      "doctorat",
+      "université florence",
+      "phd italie",
+      "bourse doctorat",
+      "programme doctorat"
+    ],
+    "lien_candidature": "https://www.unifi.it/en/study-us/after-graduation/phd-programmes/phd-courses/cycle-42-call-applications",
+    "source_url": "https://www.unifi.it/en/study-us/after-graduation/phd-programmes?fbclid=IwY2xjawTB6pRleHRuA2FlbQIxMABicmlkETFKOHFKR2JQbVVlT092a3VLc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHp6e8E2pC-8c25lvcjndxxpIe51MuUzpMemKVXLIlN4ZBlEh9Z8U_JEkzzEJ_aem_FBBQrRZs5AQIEc7DRK5ozg",
+    "statut": "fermé",
+    "resume": "L'Université de Florence propose des programmes de doctorat (Ph.D.) d'une durée de 36 mois. Les appels à candidatures pour le cycle 42 sont ouverts avec une date limite prolongée au 17 juin 2026. Les candidats de tous pays peuvent postuler dans divers domaines. Les candidatures se font en ligne via l'appel général ou l'appel Pegaso.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-13T16:04:01",
+    "slug": "doctorat-universite-florence-2026"
   },
   {
     "titre": "Bourse du Programme de Formation à la Recherche du Gouvernement Australien (Internationale)",

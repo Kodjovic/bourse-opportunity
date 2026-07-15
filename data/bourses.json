@@ -1,88 +1,5 @@
 [
   {
-    "titre": "Concours public d'admission aux programmes de recherche doctorale de l'Université de Milan – Année académique 2026/2027",
-    "seo_slug": "concours-doctorat-universite-milan-2026",
-    "organisation": "Université de Milan",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-07-15",
-    "deadline_texte": "15 juillet 2026 à 14h00 (heure italienne)",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Agriculture, Environnement et Bioénergie",
-      "Biologie moléculaire et cellulaire",
-      "Droit international et public, Éthique et Économie pour le développement durable (LEES)",
-      "Médecine translationnelle",
-      "Biologie intégrative multi-échelle (MIB)",
-      "Recherche clinique",
-      "Littérature, Arts et Patrimoine environnemental",
-      "Sciences de la nutrition",
-      "Sciences pharmaceutiques",
-      "Sciences pharmacologiques biomoléculaires, expérimentales et cliniques",
-      "Systèmes alimentaires",
-      "Sciences vétérinaires et animales",
-      "Études sur la criminalité organisée"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais (selon programme)",
-    "documents_requis": [
-      "Diplôme de master ou équivalent",
-      "CV",
-      "Lettre de motivation",
-      "Projet de recherche (selon programme)",
-      "Autres documents spécifiés dans chaque programme"
-    ],
-    "avantages": [
-      "Bourse d'études (montant non spécifié)",
-      "Exonération des frais de scolarité (selon programme)"
-    ],
-    "eligibilite": [
-      "Être titulaire d'un Laurea magistrale (master) ou d'un diplôme équivalent délivré par une université étrangère",
-      "Les étudiants n'ayant pas encore obtenu leur diplôme de deuxième cycle peuvent postuler, mais doivent l'obtenir avant le 1er novembre 2026",
-      "Respecter les conditions supplémentaires spécifiques à chaque programme"
-    ],
-    "procedure_etapes": [
-      "1. S'inscrire sur le portail de l'Université de Milan (si ce n'est pas déjà fait)",
-      "2. Se connecter et soumettre une demande d'admission via les services d'admission aux programmes doctoraux",
-      "3. Finaliser la procédure en ligne avant la date limite du 15 juillet 2026 à 14h00"
-    ],
-    "contacts": [
-      "unimi@postecert.it"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Portail de l'Université de Milan",
-        "url": "https://www.unimi.it"
-      },
-      {
-        "label": "Services d'admission aux programmes doctoraux",
-        "url": "https://www.unimi.it/en/study/phd-and-postgraduate-schools/phd-programmes"
-      }
-    ],
-    "mots_cles": [
-      "doctorat",
-      "bourse",
-      "Université de Milan",
-      "Italie",
-      "2026",
-      "admission",
-      "recherche"
-    ],
-    "lien_candidature": "https://www.unimi.it/en/study/phd-and-postgraduate-schools/phd-programmes",
-    "source_url": "manuel",
-    "statut": "ouvert",
-    "resume": "L'Université de Milan ouvre un concours public pour l'admission à ses programmes de recherche doctorale pour l'année académique 2026/2027 (42e cycle). Treize programmes sont proposés dans des domaines variés allant de l'agriculture à la criminologie. Les candidats doivent être titulaires d'un master ou équivalent et soumettre leur candidature en ligne avant le 15 juillet 2026. Des bourses d'études sont disponibles pour les candidats admis.",
-    "imageUrl": null,
-    "extrait_le": "2026-07-13T16:04:39",
-    "slug": "concours-doctorat-universite-milan-2026"
-  },
-  {
     "titre": "Programme de bourses pour étudiants internationaux et doctorants - Développement des talents internationaux",
     "seo_slug": "bourse-kas-international-allemagne-2026",
     "organisation": "Konrad Adenauer Stiftung (KAS)",
@@ -769,6 +686,103 @@
     "imageUrl": "/docs/Bourses-de-doctorat-PhD-Scholarships.webp",
     "extrait_le": "2026-07-06T03:57:33",
     "slug": "bourse-doctorat-messine-italie-2026"
+  },
+  {
+    "titre": "31e Assemblée de la Jeunesse AFS 2026",
+    "seo_slug": "afs-youth-assembly-geneve-2026",
+    "organisation": "AFS Intercultural Programs",
+    "montant": null,
+    "devise": null,
+    "type_financement": "payant",
+    "deadline": "2026-07-24",
+    "deadline_texte": "24 juillet 2026 à 23h59 EST (pour l'inscription Conference-Only au tarif tardif)",
+    "niveau_etudes": [
+      "Tous niveaux"
+    ],
+    "domaines": [
+      "Développement durable",
+      "Affaires internationales",
+      "Climat",
+      "Éducation",
+      "Paix"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais (niveau intermédiaire)",
+    "documents_requis": [
+      "Pré-candidature en ligne"
+    ],
+    "avantages": [
+      "Participation à l'événement",
+      "Réseautage mondial",
+      "Certificat de compétence globale (pour les participants aux Académies)"
+    ],
+    "eligibilite": [
+      "Âge : 18-35 ans",
+      "Expérience de leadership ou implication communautaire",
+      "Intérêt pour les affaires mondiales et le développement durable",
+      "Anglais intermédiaire"
+    ],
+    "procedure_etapes": [
+      "1. Choisir le programme (Conference-Only, Académie, ou Délégation)",
+      "2. Remplir la pré-candidature en ligne",
+      "3. Payer les frais d'inscription",
+      "4. Recevoir la confirmation et préparer le voyage"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Programme 2026",
+        "url": "https://www.youthassembly.org/program-2026/"
+      },
+      {
+        "label": "Candidature individuelle",
+        "url": "https://www.youthassembly.org/apply-now/2026-application/"
+      },
+      {
+        "label": "Candidature groupe délégation",
+        "url": "https://www.youthassembly.org/apply-now/2026-delegation-group-application/"
+      },
+      {
+        "label": "Académies",
+        "url": "https://www.youthassembly.org/academies/"
+      },
+      {
+        "label": "Académie UNITAR",
+        "url": "https://www.youthassembly.org/academies/geneva-international-affairs/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.youthassembly.org/faq/"
+      },
+      {
+        "label": "Termes et conditions",
+        "url": "https://www.youthassembly.org/terms-conditions/"
+      },
+      {
+        "label": "Réseau Alumni",
+        "url": "https://www.youthassembly.org/alumni-impact-network/"
+      }
+    ],
+    "mots_cles": [
+      "AFS Youth Assembly",
+      "jeunesse",
+      "Genève",
+      "conférence",
+      "leadership",
+      "développement durable",
+      "réseautage",
+      "2026"
+    ],
+    "lien_candidature": "https://www.youthassembly.org/apply-now/2026-application/",
+    "source_url": "https://www.youthassembly.org/apply-now/?fbclid=IwY2xjawTEcp5leHRuA2FlbQIxMABicmlkETFhWmRaUGNCZTBwSThIdTNMc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv3Uf4MxUn_YcWuzkd5lqT3g8p6MsHHj6ReiNodLfbBNgUeWqfpnQhxiQ2ez_aem_RxYmgXJo6n3cvkYPQ5ybhw",
+    "statut": "ouvert",
+    "resume": "La 31e Assemblée de la Jeunesse AFS se tiendra du 12 au 14 août 2026 à Genève, en Suisse, sur le thème « S'élever. Réimaginer. Reconstruire : Un monde pour tous ». Cet événement rassemble de jeunes leaders du monde entier pour des sessions interactives, des ateliers et des opportunités de réseautage. Les participants peuvent choisir entre la conférence seule, une académie pré-événement (comme l'Académie UNITAR) ou venir en délégation. Les frais d'inscription varient de 325 $ à 595 $ selon la date, et les candidatures sont ouvertes jusqu'au 24 juillet 2026.",
+    "imageUrl": "/docs/Postulez-pour-l_Assembl-e-des-jeunes-de-l_AFS-2026.webp",
+    "extrait_le": "2026-07-15T14:08:25",
+    "slug": "afs-youth-assembly-geneve-2026"
   },
   {
     "titre": "Bourse Rhodes 2027 pour des études supérieures à l'Université d'Oxford",
@@ -1880,6 +1894,83 @@
     "imageUrl": null,
     "extrait_le": "2026-07-15T13:45:25",
     "slug": "conseil-jeunes-co-createurs-africains-2026"
+  },
+  {
+    "titre": "Assistant d'Engagement Public - Ambassade des États-Unis à Berne",
+    "seo_slug": "assistant-engagement-public-berne-2026",
+    "organisation": "Ambassade des États-Unis à Berne",
+    "montant": 117356,
+    "devise": "CHF",
+    "type_financement": "salaire annuel",
+    "deadline": "2026-08-01",
+    "deadline_texte": "1er août 2026 (date de clôture de la période de candidature)",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Relations internationales",
+      "Communication",
+      "Sciences politiques",
+      "Économie"
+    ],
+    "pays_eligibles": [
+      "Suisse"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais courant, une langue suisse courante",
+    "documents_requis": [
+      "Formulaire de candidature ERA",
+      "CV",
+      "Lettre de motivation",
+      "Diplômes",
+      "Preuve de permis de travail"
+    ],
+    "avantages": [
+      "Salaire annuel de CHF 117'356",
+      "Régime de retraite",
+      "Assurance maladie",
+      "Congés payés"
+    ],
+    "eligibilite": [
+      "Diplôme universitaire en sciences politiques, économie, relations internationales, communication ou équivalent",
+      "Minimum 3 ans d'expérience professionnelle en communication, gestion de projet ou éducation",
+      "Anglais courant et une langue suisse courante",
+      "Permis de travail valide en Suisse"
+    ],
+    "procedure_etapes": [
+      "1. Postuler via le portail ERA (Electronic Recruitment Application)",
+      "2. Compléter le formulaire de candidature en ligne",
+      "3. Joindre les documents requis (diplômes, CV, etc.)",
+      "4. Passer les tests de langue et de compétences si sélectionné",
+      "5. Entretien"
+    ],
+    "contacts": [
+      "BernHRJobs@state.gov"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature ERA",
+        "url": "https://era.usembassy.gov/"
+      },
+      {
+        "label": "Définitions 3 FAM 7210",
+        "url": "https://fam.state.gov/FAM/03FAM/03FAM7120.html?_ref=u2n5zetbpt0"
+      }
+    ],
+    "mots_cles": [
+      "emploi ambassade berne",
+      "public engagement assistant",
+      "poste diplomatie publique",
+      "carrière États-Unis suisse",
+      "offre d'emploi berne 2026"
+    ],
+    "lien_candidature": "https://era.usembassy.gov/",
+    "source_url": "manuel",
+    "statut": "ouvert",
+    "resume": "L'Ambassade des États-Unis à Berne recrute un Assistant d'Engagement Public pour la section Diplomatie Publique. Ce poste stratégique consiste à concevoir et mettre en œuvre des stratégies d'engagement auprès des leaders d'opinion suisses, à gérer des programmes d'échange et à promouvoir les objectifs de politique étrangère américaine. Le salaire annuel est de CHF 117'356. Les candidats doivent posséder un diplôme universitaire, au moins 3 ans d'expérience pertinente, parler couramment anglais et une langue suisse, et détenir un permis de travail valide. Postulez avant le 1er août 2026 via le portail ERA.",
+    "imageUrl": "/docs/Assistant-e-en-mobilisation-du-public-Ouvert-Tous-les-candidats-int-ress-s-Toutes-les-sources.png",
+    "extrait_le": "2026-07-15T14:22:29",
+    "slug": "assistant-engagement-public-berne-2026"
   },
   {
     "titre": "Appel à candidatures pour siéger au Conseil consultatif sur l'intégrité YouthLED de l'UNODC 2026-2028",

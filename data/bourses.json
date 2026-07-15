@@ -1,158 +1,5 @@
 [
   {
-    "titre": "Programme de Leadership pour la Jeunesse des Systèmes Alimentaires des Nations Unies",
-    "seo_slug": "bourse-youth-leadership-programme-onu-2026",
-    "organisation": "UN Food Systems Coordination Hub",
-    "montant": null,
-    "devise": null,
-    "type_financement": "programme de leadership",
-    "deadline": "2026-07-13",
-    "deadline_texte": "13 juillet 2026",
-    "niveau_etudes": [],
-    "domaines": [
-      "Systèmes alimentaires",
-      "Développement durable",
-      "Action climatique"
-    ],
-    "pays_eligibles": [
-      "Pays à revenu faible ou intermédiaire",
-      "Afrique",
-      "Asie et Pacifique",
-      "Amérique latine et Caraïbes"
-    ],
-    "age_maximum": 35,
-    "langue_requise": "Anglais",
-    "documents_requis": [],
-    "avantages": [
-      "Compétences en leadership et pensée systémique",
-      "Accès à un réseau mondial de pairs et d'experts",
-      "Opportunités de collaboration et d'apprentissage entre pairs",
-      "Outils pratiques pour renforcer l'impact et l'influence",
-      "Exposition aux processus et partenariats mondiaux sur les systèmes alimentaires"
-    ],
-    "eligibilite": [
-      "Âgé de 18 à 35 ans",
-      "Maîtrise de l'anglais",
-      "Ressortissant d'un pays à revenu faible ou intermédiaire",
-      "Expérience dans les systèmes alimentaires, le développement durable, l'action climatique ou domaines connexes",
-      "Expérience de leadership ou de contribution à des initiatives communautaires, organisationnelles, institutionnelles ou sectorielles",
-      "Engagement à participer pleinement aux activités du programme jusqu'en 2028"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les critères d'éligibilité",
-      "2. Postuler en ligne via le lien fourni"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://www.unfoodsystemshub.org/latest-updates/news/detail/applications-now-open-for-the-next-cohort-of-the-youth-leadership-programme/en?fbclid=IwY2xjawSfEm1leHRuA2FlbQIxMABicmlkETFBb3dLMGlvU1kwZ2xGWFg4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlPzbviwbbirJknxZCMmOKerP4FCt1E007yfBcGIqc4kcV__H8ie7TJqA7DW_aem_vEiZUjwXuAVkyXEnn1nM3Q"
-      },
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://www.surveymonkey.com/r/YLP2026"
-      },
-      {
-        "label": "Page du programme",
-        "url": "https://www.unfoodsystemshub.org/hub-solution/youth-leadership-programme/en"
-      }
-    ],
-    "mots_cles": [
-      "bourse",
-      "leadership",
-      "jeunesse",
-      "systèmes alimentaires",
-      "ONU",
-      "programme",
-      "2026"
-    ],
-    "lien_candidature": "https://www.surveymonkey.com/r/YLP2026",
-    "source_url": "https://www.unfoodsystemshub.org/latest-updates/news/detail/applications-now-open-for-the-next-cohort-of-the-youth-leadership-programme/en?fbclid=IwY2xjawSfEm1leHRuA2FlbQIxMABicmlkETFBb3dLMGlvU1kwZ2xGWFg4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlPzbviwbbirJknxZCMmOKerP4FCt1E007yfBcGIqc4kcV__H8ie7TJqA7DW_aem_vEiZUjwXuAVkyXEnn1nM3Q",
-    "statut": "ouvert",
-    "resume": "Le Programme de Leadership pour la Jeunesse des Systèmes Alimentaires des Nations Unies (YLP) est une initiative mondiale visant à former une nouvelle génération de leaders capables de transformer les systèmes alimentaires. Ouvert aux jeunes de 18 à 35 ans issus de pays à revenu faible ou intermédiaire, ce programme offre un parcours de leadership unique combinant mentorat, apprentissage par les pairs et collaboration avec des experts de l'ONU. Les participants acquièrent des compétences en pensée systémique et élargissent leur réseau pour avoir un impact durable dans leurs communautés.",
-    "extrait_le": "2026-06-17T05:42:41",
-    "slug": "bourse-youth-leadership-programme-onu-2026"
-  },
-  {
-    "titre": "Programme de Leadership pour la Jeunesse des Systèmes Alimentaires des Nations Unies",
-    "seo_slug": "programme-leadership-jeunesse-systemes-alimentaires-2026",
-    "organisation": "UN Food Systems Coordination Hub",
-    "montant": null,
-    "devise": null,
-    "type_financement": "non spécifié",
-    "deadline": "2026-07-13",
-    "deadline_texte": "13 juillet 2026",
-    "niveau_etudes": [
-      "Non spécifié"
-    ],
-    "domaines": [
-      "Systèmes alimentaires",
-      "Développement durable",
-      "Action climatique"
-    ],
-    "pays_eligibles": [
-      "Pays à revenu faible ou intermédiaire",
-      "Afrique",
-      "Asie et Pacifique",
-      "Amérique latine et Caraïbes"
-    ],
-    "age_maximum": 35,
-    "langue_requise": "Anglais",
-    "documents_requis": [],
-    "avantages": [
-      "Compétences en leadership et pensée systémique",
-      "Accès à un réseau mondial de pairs et d'experts",
-      "Opportunités de collaboration et d'apprentissage entre pairs",
-      "Outils pratiques pour renforcer l'impact et l'influence",
-      "Exposition aux processus et partenariats mondiaux sur les systèmes alimentaires"
-    ],
-    "eligibilite": [
-      "Âgé de 18 à 35 ans",
-      "Maîtrise de l'anglais",
-      "Ressortissant d'un pays à revenu faible ou intermédiaire",
-      "Expérience dans les systèmes alimentaires, le développement durable, l'action climatique ou domaines connexes",
-      "Expérience de leadership ou de contribution à des initiatives communautaires, organisationnelles, institutionnelles ou sectorielles",
-      "Engagement à participer pleinement aux activités du programme jusqu'en 2028"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les critères d'éligibilité",
-      "2. Postuler en ligne via le lien fourni"
-    ],
-    "contacts": [
-      "FSS-Hub@fao.org"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://www.unfoodsystemshub.org/latest-updates/news/detail/applications-now-open-for-the-next-cohort-of-the-youth-leadership-programme/en?fbclid=IwY2xjawStRqxleHRuA2FlbQIxMABicmlkETE0UzFSYTVWTWNibHlXSVd1c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHogqs_SoSKH1AhoR5AuLkvP4gtp0xsvey1jyaPUXRomVNAkHAVxe70-JYyze_aem_XqqbM78RJMAAQML45b88jA"
-      },
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://www.surveymonkey.com/r/YLP2026"
-      },
-      {
-        "label": "Page du programme",
-        "url": "https://www.unfoodsystemshub.org/hub-solution/youth-leadership-programme/en"
-      }
-    ],
-    "mots_cles": [
-      "bourse",
-      "leadership",
-      "jeunesse",
-      "systèmes alimentaires",
-      "ONU",
-      "programme",
-      "2026"
-    ],
-    "lien_candidature": "https://www.surveymonkey.com/r/YLP2026",
-    "source_url": "https://www.unfoodsystemshub.org/latest-updates/news/detail/applications-now-open-for-the-next-cohort-of-the-youth-leadership-programme/en?fbclid=IwY2xjawStRqxleHRuA2FlbQIxMABicmlkETE0UzFSYTVWTWNibHlXSVd1c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHogqs_SoSKH1AhoR5AuLkvP4gtp0xsvey1jyaPUXRomVNAkHAVxe70-JYyze_aem_XqqbM78RJMAAQML45b88jA",
-    "statut": "ouvert",
-    "resume": "Le Programme de Leadership pour la Jeunesse des Systèmes Alimentaires des Nations Unies (YLP) est une initiative mondiale visant à former une nouvelle génération de leaders capables de transformer les systèmes alimentaires. Les participants bénéficient de compétences en leadership, d'un réseau mondial et d'outils pratiques. Les candidatures sont ouvertes jusqu'au 13 juillet 2026 pour les jeunes de 18 à 35 ans issus de pays à revenu faible ou intermédiaire.",
-    "imageUrl": "/docs/Les-candidatures-sont-maintenant-ouvertes-pour-la-prochaine-promotion-du-Programme-de-leadership-des-jeunes.jpg",
-    "extrait_le": "2026-06-28T00:22:17",
-    "slug": "programme-leadership-jeunesse-systemes-alimentaires-2026"
-  },
-  {
     "titre": "Concours public d'admission aux programmes de recherche doctorale de l'Université de Milan – Année académique 2026/2027",
     "seo_slug": "concours-doctorat-universite-milan-2026",
     "organisation": "Université de Milan",
@@ -507,6 +354,83 @@
     "resume": "L'UNESCO lance la deuxième édition du programme Youth for Peace, un programme de leadership interculturel destiné aux jeunes leaders de 25 à 45 ans. Les participants bénéficient d'une formation en ligne, d'un mentorat et d'un financement de démarrage de 10 000 USD pour mener une initiative de dialogue interculturel sur le thème 'Connexion humaine et dialogue à l'ère de l'intelligence artificielle'. Les candidatures sont ouvertes jusqu'au 19 juillet 2026.",
     "extrait_le": "2026-06-25T14:39:29",
     "slug": "bourse-unesco-youth-for-peace-2026"
+  },
+  {
+    "titre": "Youth for Peace : Programme de Leadership Interculturel de l'UNESCO - Deuxième Édition",
+    "seo_slug": "unesco-youth-peace-leadership-2026",
+    "organisation": "UNESCO",
+    "montant": 10000,
+    "devise": "USD",
+    "type_financement": "bourse partielle (seed funding)",
+    "deadline": "2026-07-19",
+    "deadline_texte": "19 juillet 2026 à 23h59 CET (heure de Paris)",
+    "niveau_etudes": [
+      "Professionnel",
+      "Leadership"
+    ],
+    "domaines": [
+      "Dialogue interculturel",
+      "Paix",
+      "Intelligence artificielle",
+      "Cohésion sociale"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": 45,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Plan d'action"
+    ],
+    "avantages": [
+      "Financement de démarrage de 10 000 USD",
+      "Programme de formation en ligne",
+      "Mentorat",
+      "Réseau d'anciens élèves",
+      "Participation au Dialogue mondial de la jeunesse pour la paix de l'UNESCO"
+    ],
+    "eligibilite": [
+      "Âge entre 25 et 45 ans au 22 octobre 2026",
+      "Expérience avérée en leadership",
+      "Engagement en faveur du dialogue interculturel et de l'impact social",
+      "Ouverture à l'autoréflexion et à l'apprentissage collaboratif",
+      "Disponibilité pour participer à toutes les composantes du programme"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre le formulaire de candidature en ligne avant le 19 juillet 2026.",
+      "2. Vérification de l'éligibilité.",
+      "3. Évaluation technique par un jury international.",
+      "4. Notification des 50 jeunes leaders sélectionnés d'ici mi-octobre 2026."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://surveys.unesco.org/171854?lang=en"
+      },
+      {
+        "label": "Termes et conditions",
+        "url": "https://unesdoc.unesco.org/ark:/48223/pf0000398412"
+      }
+    ],
+    "mots_cles": [
+      "bourse unesco",
+      "leadership interculturel",
+      "jeunes leaders",
+      "paix",
+      "intelligence artificielle",
+      "dialogue interculturel",
+      "financement projet",
+      "programme jeunesse"
+    ],
+    "lien_candidature": "https://surveys.unesco.org/171854?lang=en",
+    "source_url": "https://www.unesco.org/en/call-applications-2026?fbclid=IwY2xjawTEZ0tleHRuA2FlbQIxMABicmlkETFhWmRaUGNCZTBwSThIdTNMc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv3Uf4MxUn_YcWuzkd5lqT3g8p6MsHHj6ReiNodLfbBNgUeWqfpnQhxiQ2ez_aem_RxYmgXJo6n3cvkYPQ5ybhw&hub=181405",
+    "statut": "ouvert",
+    "resume": "L'UNESCO lance la deuxième édition du programme Youth for Peace, un programme de leadership interculturel destiné aux jeunes leaders de 25 à 45 ans. Les participants bénéficient d'une formation en ligne, d'un financement de démarrage de 10 000 USD pour mener une initiative locale, et d'un accès à un réseau mondial d'anciens élèves. La thématique 2026 explore le lien entre intelligence artificielle et dialogue interculturel. Les candidatures sont ouvertes jusqu'au 19 juillet 2026.",
+    "imageUrl": "/docs/Appel-candidatures-Deuxi-me-dition-Jeunesse-pour-la-paix-Programme-de-leadership-interculturel-de-l-UNESCO.webp",
+    "extrait_le": "2026-07-15T13:26:47",
+    "slug": "unesco-youth-peace-leadership-2026"
   },
   {
     "titre": "Doctorat d'Intérêt National en Sciences et Technologies Spatiales - SST",
@@ -1880,6 +1804,82 @@
     "imageUrl": "/docs/autonomiser-jeunes-femmes-japon-unitar.webp",
     "extrait_le": "2026-07-07T05:16:29",
     "slug": "bourse-unitar-ticad9-afrique-japon-2026"
+  },
+  {
+    "titre": "Appel à candidatures : Conseil des jeunes co-créateurs africains",
+    "seo_slug": "conseil-jeunes-co-createurs-africains-2026",
+    "organisation": "Programme des Nations Unies pour le développement (PNUD)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "volontariat avec prise en charge des frais",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Gouvernance",
+      "Paix",
+      "Climat",
+      "Économie",
+      "Innovation numérique",
+      "Santé mentale",
+      "Genre"
+    ],
+    "pays_eligibles": [
+      "Afrique",
+      "Diaspora africaine"
+    ],
+    "age_maximum": 34,
+    "langue_requise": "Anglais (fort) ; soumissions acceptées en français",
+    "documents_requis": [
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Prise en charge des frais de voyage, hébergement, repas et communications numériques pour les activités du Conseil"
+    ],
+    "eligibilite": [
+      "Être un ressortissant africain âgé de 18 à 34 ans au moment de la sélection",
+      "Vivre sur le continent ou dans la diaspora (maximum 2 sièges pour la diaspora)",
+      "Avoir démontré une expérience de leadership, d'engagement communautaire ou d'innovation dans au moins un des domaines listés",
+      "Être engagé en faveur du développement inclusif et de l'autonomisation des jeunes",
+      "Ne pas avoir siégé auparavant dans un conseil consultatif de la jeunesse ou mécanisme similaire de l'ONU ou d'un autre partenaire de développement",
+      "Pouvoir participer à des réunions virtuelles régulières et à des engagements en personne périodiques",
+      "Avoir une bonne maîtrise de l'anglais écrit et parlé",
+      "Pouvoir siéger à titre personnel et apolitique"
+    ],
+    "procedure_etapes": [
+      "1. Compléter le formulaire de candidature en ligne avant le 31 juillet 2026",
+      "2. Les bureaux de pays du PNUD en Afrique compilent une liste longue",
+      "3. L'équipe RSCA prépare une liste restreinte basée sur la diversité régionale et les critères d'inclusion",
+      "4. Les candidats présélectionnés sont interviewés par un panel",
+      "5. Les candidats les mieux classés sont officiellement notifiés"
+    ],
+    "contacts": [
+      "ana.dju@undp.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://shorturl.at/Cajzy"
+      }
+    ],
+    "mots_cles": [
+      "conseil jeunesse",
+      "PNUD",
+      "Afrique",
+      "co-création",
+      "leadership",
+      "jeunes",
+      "diaspora",
+      "bénévole",
+      "2026"
+    ],
+    "lien_candidature": "https://shorturl.at/Cajzy",
+    "source_url": "https://www.undp.org/africa/blog/call-applications-african-youth-co-creators-council",
+    "statut": "ouvert",
+    "resume": "Le PNUD lance un appel à candidatures pour son Conseil des jeunes co-créateurs africains, sélectionnant 11 jeunes leaders d'Afrique et de la diaspora pour conseiller et co-créer ses programmes jeunesse. Les membres, âgés de 18 à 34 ans, siégeront pour deux ans et participeront à des réunions en ligne et en personne. Les frais de voyage et d'hébergement sont pris en charge. Candidatures avant le 31 juillet 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-15T13:45:25",
+    "slug": "conseil-jeunes-co-createurs-africains-2026"
   },
   {
     "titre": "Appel à candidatures pour siéger au Conseil consultatif sur l'intégrité YouthLED de l'UNODC 2026-2028",
@@ -6802,6 +6802,322 @@
     "slug": "cours-pratique-embo-metagenomique-2026"
   },
   {
+    "titre": "Programme UNICEF UNV Youth on the Move",
+    "seo_slug": "unicef-unv-youth-move-2026",
+    "organisation": "UNICEF et UNV",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Postes ouverts jusqu'à épuisement ; une seule opportunité restante (Soudan)",
+    "niveau_etudes": [
+      "Tous niveaux"
+    ],
+    "domaines": [
+      "Développement",
+      "Droits de l'enfant",
+      "Aide humanitaire"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": 32,
+    "langue_requise": "Non spécifiée",
+    "documents_requis": [
+      "Profil sur la plateforme UNV"
+    ],
+    "avantages": [
+      "Mission rémunérée de 12 mois en tant que Volontaire des Nations Unies"
+    ],
+    "eligibilite": [
+      "Âgé de 20 à 32 ans",
+      "Réfugié, demandeur d'asile, personne déplacée interne ou migrant",
+      "Faire face à des obstacles à l'emploi en raison du déplacement ou de la migration",
+      "Basé dans le pays d'affectation et légalement autorisé à y travailler"
+    ],
+    "procedure_etapes": [
+      "1. Visiter la Plateforme Unifiée des Volontaires (app.unv.org)",
+      "2. Créer un profil en suivant les conseils et ressources",
+      "3. Postuler aux opportunités disponibles (actuellement une seule : Soudan)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Plateforme Unifiée des Volontaires",
+        "url": "https://app.unv.org/"
+      },
+      {
+        "label": "Guide et ressources pour créer un profil",
+        "url": "https://app.unv.org/explore"
+      },
+      {
+        "label": "Session d'information LinkedIn",
+        "url": "https://www.linkedin.com/events/7443205322648940545/?viewAsMember=true"
+      },
+      {
+        "label": "PowerPoint d'information",
+        "url": "https://www.unv.org/sites/default/files/UNV%20UNICEF%20Youth%20on%20the%20Move%20Information%20PowerPoint.pdf"
+      },
+      {
+        "label": "Rapport du programme pilote (PDF)",
+        "url": "https://www.unicef.org/media/160591/file/Youth%20on%20the%20Move%20Fellowship%20Report%20August%202024.pdf.pdf"
+      },
+      {
+        "label": "Poste au Soudan",
+        "url": "https://app.unv.org/opportunities/1784888021267733"
+      }
+    ],
+    "mots_cles": [
+      "bourse unicef",
+      "volontaire un",
+      "jeunes réfugiés",
+      "programme youth on the move",
+      "stage unicef",
+      "opportunité déplacés",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://app.unv.org/",
+    "source_url": "https://www.unv.org/news/unicef-unv-youth-move-programme?fbclid=IwY2xjawTEZxdleHRuA2FlbQIxMABicmlkETFhWmRaUGNCZTBwSThIdTNMc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmbCCNXnVp9OPcFH7bgWN5CobBn4IxWzhAbYYPfgW3FIRoTRXLsJegvmwGIC_aem_RCZAuiQwPMwhqZCFCun3jA",
+    "statut": "ouvert",
+    "resume": "Le Programme UNICEF UNV Youth on the Move offre aux jeunes réfugiés, demandeurs d'asile, déplacés internes et migrants âgés de 20 à 32 ans une mission rémunérée de 12 mois en tant que Volontaire des Nations Unies au sein d'UNICEF. Pour l'édition 2026, une seule opportunité est encore ouverte au Soudan. Les candidats doivent créer un profil sur la Plateforme Unifiée des Volontaires et postuler directement.",
+    "imageUrl": "/docs/Programme-Jeunesse-en-mouvement-des-Volontaires-des-Nations-Unies-de-l-UNICE.webp",
+    "extrait_le": "2026-07-15T13:21:50",
+    "slug": "unicef-unv-youth-move-2026"
+  },
+  {
+    "titre": "Programme de stages parlementaires internationaux (IPS) du Bundestag allemand",
+    "seo_slug": "bourse-ips-bundestag-allemagne-2027",
+    "organisation": "Deutscher Bundestag",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Voir les dates limites par pays sur la page des délais",
+    "niveau_etudes": [
+      "Bachelor",
+      "Master",
+      "Diplôme"
+    ],
+    "domaines": [
+      "Politique",
+      "Relations internationales",
+      "Gouvernance",
+      "Sciences sociales"
+    ],
+    "pays_eligibles": [
+      "Pays participants au programme IPS global"
+    ],
+    "age_maximum": 30,
+    "langue_requise": "Allemand (B2 minimum)",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Preuve de compétences en allemand",
+      "Lettre de motivation (max 2 pages)",
+      "Diplôme universitaire (original ou copie certifiée)",
+      "Deux lettres de recommandation",
+      "Copie du passeport ou carte d'identité",
+      "Photo d'identité"
+    ],
+    "avantages": [
+      "Bourse mensuelle",
+      "Frais de voyage",
+      "Hébergement",
+      "Assurance"
+    ],
+    "eligibilite": [
+      "Être citoyen d'un pays participant",
+      "Avoir moins de 30 ans au début du programme",
+      "Diplôme universitaire (Bachelor minimum) dans n'importe quelle discipline",
+      "Intérêt marqué pour la politique et la société",
+      "Engagement social et/ou politique",
+      "Très bonnes connaissances en allemand (niveau B2 minimum)"
+    ],
+    "procedure_etapes": [
+      "1. Rassembler les documents requis",
+      "2. Remplir le formulaire de candidature en allemand",
+      "3. Envoyer le dossier complet en un seul fichier PDF (max 10 Mo) par email à l'ambassade allemande de son pays",
+      "4. Si le PDF dépasse 10 Mo, diviser en plusieurs emails",
+      "5. Attendre la confirmation de réception et l'invitation éventuelle à un entretien"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature IPS global",
+        "url": "https://www.bundestag.de/resource/blob/191018/bewerbungsbogen_ips_global.pdf"
+      },
+      {
+        "label": "Liste des ambassades allemandes (contacts)",
+        "url": "https://www.bundestag.de/resource/blob/1149406/kontaktdaten_botschaften_global.pdf"
+      },
+      {
+        "label": "Formulaire de compétences linguistiques en allemand",
+        "url": "https://www.bundestag.de/resource/blob/189512/sprachkenntnisse.pdf"
+      },
+      {
+        "label": "Instructions pour les lettres de recommandation",
+        "url": "https://www.bundestag.de/resource/blob/1149426/empfehlungsschreiben_global.pdf"
+      },
+      {
+        "label": "Fiche d'information sur la protection des données",
+        "url": "https://www.bundestag.de/resource/blob/1149424/datenschutz_global_bewerbung.pdf"
+      },
+      {
+        "label": "Checkliste de candidature",
+        "url": "https://www.bundestag.de/resource/blob/189516/checkliste_allgemein.pdf"
+      },
+      {
+        "label": "Délais de candidature par pays",
+        "url": "https://www.bundestag.de/europa_internationales/ips/bewerbung/bewerbungsfristen-1161594"
+      }
+    ],
+    "mots_cles": [
+      "bourse bundestag",
+      "stage parlementaire allemagne",
+      "ips global",
+      "bourse politique allemagne",
+      "programme ips 2027",
+      "bourse allemande master",
+      "stage au parlement allemand"
+    ],
+    "lien_candidature": "https://www.bundestag.de/europa_internationales/ips/bewerbung/bewerbung-244992",
+    "source_url": "https://www.bundestag.de/europa_internationales/ips/bewerbung/bewerbung-244992",
+    "statut": "ouvert",
+    "resume": "Le programme IPS (Internationales Parlaments-Stipendium) du Bundestag allemand offre aux jeunes diplômés de moins de 30 ans une opportunité unique de stage de cinq mois au cœur du parlement allemand. Les candidats doivent être citoyens d'un pays participant, justifier d'un diplôme universitaire et d'un excellent niveau d'allemand (B2 minimum). La candidature s'effectue par email auprès de l'ambassade allemande du pays d'origine, avec un dossier complet comprenant formulaire, lettre de motivation, diplômes et lettres de recommandation. Les participants bénéficient d'une bourse mensuelle, de la prise en charge des frais de voyage et d'hébergement.",
+    "imageUrl": "/docs/Le-programme-IPS-Global.webp",
+    "extrait_le": "2026-07-15T13:42:09",
+    "slug": "bourse-ips-bundestag-allemagne-2027"
+  },
+  {
+    "titre": "Programme de Bourses de la Fondation Mastercard à l'Université McGill",
+    "seo_slug": "bourse-mastercard-mcgill-master-afrique-2026",
+    "organisation": "Mastercard Foundation",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Nutrition",
+      "Santé publique",
+      "Politiques publiques",
+      "Agriculture durable"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [
+      "Être un leader ou un agent de changement talentueux originaire d'Afrique",
+      "Poursuivre un programme de maîtrise à l'Université McGill"
+    ],
+    "procedure_etapes": [],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page d'accueil du programme",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/"
+      },
+      {
+        "label": "Page de candidature",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply"
+      },
+      {
+        "label": "À propos du programme",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/about"
+      },
+      {
+        "label": "Rencontrez nos boursiers",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/about/our-scholars"
+      },
+      {
+        "label": "Fondation Mastercard",
+        "url": "https://mastercardfdn.org/all/scholars/"
+      }
+    ],
+    "mots_cles": [
+      "bourse mastercard",
+      "bourse mcgill",
+      "bourse afrique",
+      "mastercard foundation scholars",
+      "bourse master"
+    ],
+    "lien_candidature": "https://www.mcgill.ca/mastercardfdn-scholars/apply",
+    "source_url": "https://www.mcgill.ca/mastercardfdn-scholars/",
+    "statut": "ouvert",
+    "resume": "Le Programme de Bourses de la Fondation Mastercard à l'Université McGill est une initiative de leadership et de bourses d'études destinée aux leaders et agents de changement talentueux originaires d'Afrique. De 2024 à 2034, le programme soutient des étudiants de niveau maîtrise dans les domaines de la nutrition, de la santé publique, des politiques publiques et de l'agriculture durable. Depuis 2013, McGill a accueilli plus de 200 boursiers de plus de 20 pays africains.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-15T13:44:19",
+    "slug": "bourse-mastercard-mcgill-master-afrique-2026"
+  },
+  {
+    "titre": "Bourse d'écriture Miles Morland 2026",
+    "seo_slug": "bourse-ecriture-miles-morland-2026",
+    "organisation": "Miles Morland Foundation",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse d'écriture",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [],
+    "domaines": [
+      "Écriture",
+      "Littérature"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Soumission de 2000 à 5000 mots (document Word) d'un travail publié et vendu",
+      "Preuve de publication et preuve de vente",
+      "Scan d'un document officiel prouvant que vous ou vos deux parents êtes nés en Afrique",
+      "Description de 400 à 1000 mots du nouveau livre que vous envisagez d'écrire",
+      "Biographie de 200 à 300 mots",
+      "Indication de comment vous avez entendu parler de la bourse"
+    ],
+    "avantages": [
+      "Bourse d'écriture"
+    ],
+    "eligibilite": [
+      "Être né en Afrique, ou avoir les deux parents nés en Afrique",
+      "Écrire en anglais"
+    ],
+    "procedure_etapes": [
+      "1. Préparer les documents requis (soumission, preuves, description, bio, etc.)",
+      "2. Remplir le formulaire de candidature en ligne",
+      "3. Joindre les fichiers aux formats acceptés (doc, docx, PDF pour les preuves)",
+      "4. Soumettre le formulaire avant la date limite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://milesmorlandfoundation.com/writing-scholarship-form/"
+      }
+    ],
+    "mots_cles": [
+      "bourse écriture",
+      "Miles Morland",
+      "écrivain africain",
+      "bourse littéraire",
+      "Afrique"
+    ],
+    "lien_candidature": "https://milesmorlandfoundation.com/writing-scholarship-form/",
+    "source_url": "https://milesmorlandfoundation.com/writing-scholarship-form/",
+    "statut": "ouvert",
+    "resume": "La bourse d'écriture Miles Morland 2026 est destinée aux écrivains nés en Afrique ou dont les deux parents sont nés en Afrique, écrivant en anglais. Les candidats doivent soumettre un extrait de 2000 à 5000 mots d'une œuvre publiée et vendue, ainsi qu'une description de leur prochain livre. Aucune date limite n'est spécifiée dans le texte.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-15T13:47:50",
+    "slug": "bourse-ecriture-miles-morland-2026"
+  },
+  {
     "titre": "Bourses Chevening",
     "seo_slug": "bourses-chevening-master-royaume-uni-2027",
     "organisation": "Foreign and Commonwealth Office (FDCO)",
@@ -10852,6 +11168,159 @@
     "imageUrl": "/docs/8-juillet-2026.jpg",
     "extrait_le": "2026-06-29T14:36:02",
     "slug": "bourses-merite-doctorat-iscte-lisbonne-2026"
+  },
+  {
+    "titre": "Programme de Leadership pour la Jeunesse des Systèmes Alimentaires des Nations Unies",
+    "seo_slug": "bourse-youth-leadership-programme-onu-2026",
+    "organisation": "UN Food Systems Coordination Hub",
+    "montant": null,
+    "devise": null,
+    "type_financement": "programme de leadership",
+    "deadline": "2026-07-13",
+    "deadline_texte": "13 juillet 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Systèmes alimentaires",
+      "Développement durable",
+      "Action climatique"
+    ],
+    "pays_eligibles": [
+      "Pays à revenu faible ou intermédiaire",
+      "Afrique",
+      "Asie et Pacifique",
+      "Amérique latine et Caraïbes"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Compétences en leadership et pensée systémique",
+      "Accès à un réseau mondial de pairs et d'experts",
+      "Opportunités de collaboration et d'apprentissage entre pairs",
+      "Outils pratiques pour renforcer l'impact et l'influence",
+      "Exposition aux processus et partenariats mondiaux sur les systèmes alimentaires"
+    ],
+    "eligibilite": [
+      "Âgé de 18 à 35 ans",
+      "Maîtrise de l'anglais",
+      "Ressortissant d'un pays à revenu faible ou intermédiaire",
+      "Expérience dans les systèmes alimentaires, le développement durable, l'action climatique ou domaines connexes",
+      "Expérience de leadership ou de contribution à des initiatives communautaires, organisationnelles, institutionnelles ou sectorielles",
+      "Engagement à participer pleinement aux activités du programme jusqu'en 2028"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Postuler en ligne via le lien fourni"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.unfoodsystemshub.org/latest-updates/news/detail/applications-now-open-for-the-next-cohort-of-the-youth-leadership-programme/en?fbclid=IwY2xjawSfEm1leHRuA2FlbQIxMABicmlkETFBb3dLMGlvU1kwZ2xGWFg4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlPzbviwbbirJknxZCMmOKerP4FCt1E007yfBcGIqc4kcV__H8ie7TJqA7DW_aem_vEiZUjwXuAVkyXEnn1nM3Q"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://www.surveymonkey.com/r/YLP2026"
+      },
+      {
+        "label": "Page du programme",
+        "url": "https://www.unfoodsystemshub.org/hub-solution/youth-leadership-programme/en"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "leadership",
+      "jeunesse",
+      "systèmes alimentaires",
+      "ONU",
+      "programme",
+      "2026"
+    ],
+    "lien_candidature": "https://www.surveymonkey.com/r/YLP2026",
+    "source_url": "https://www.unfoodsystemshub.org/latest-updates/news/detail/applications-now-open-for-the-next-cohort-of-the-youth-leadership-programme/en?fbclid=IwY2xjawSfEm1leHRuA2FlbQIxMABicmlkETFBb3dLMGlvU1kwZ2xGWFg4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlPzbviwbbirJknxZCMmOKerP4FCt1E007yfBcGIqc4kcV__H8ie7TJqA7DW_aem_vEiZUjwXuAVkyXEnn1nM3Q",
+    "statut": "fermé",
+    "resume": "Le Programme de Leadership pour la Jeunesse des Systèmes Alimentaires des Nations Unies (YLP) est une initiative mondiale visant à former une nouvelle génération de leaders capables de transformer les systèmes alimentaires. Ouvert aux jeunes de 18 à 35 ans issus de pays à revenu faible ou intermédiaire, ce programme offre un parcours de leadership unique combinant mentorat, apprentissage par les pairs et collaboration avec des experts de l'ONU. Les participants acquièrent des compétences en pensée systémique et élargissent leur réseau pour avoir un impact durable dans leurs communautés.",
+    "extrait_le": "2026-06-17T05:42:41",
+    "slug": "bourse-youth-leadership-programme-onu-2026"
+  },
+  {
+    "titre": "Programme de Leadership pour la Jeunesse des Systèmes Alimentaires des Nations Unies",
+    "seo_slug": "programme-leadership-jeunesse-systemes-alimentaires-2026",
+    "organisation": "UN Food Systems Coordination Hub",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2026-07-13",
+    "deadline_texte": "13 juillet 2026",
+    "niveau_etudes": [
+      "Non spécifié"
+    ],
+    "domaines": [
+      "Systèmes alimentaires",
+      "Développement durable",
+      "Action climatique"
+    ],
+    "pays_eligibles": [
+      "Pays à revenu faible ou intermédiaire",
+      "Afrique",
+      "Asie et Pacifique",
+      "Amérique latine et Caraïbes"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Compétences en leadership et pensée systémique",
+      "Accès à un réseau mondial de pairs et d'experts",
+      "Opportunités de collaboration et d'apprentissage entre pairs",
+      "Outils pratiques pour renforcer l'impact et l'influence",
+      "Exposition aux processus et partenariats mondiaux sur les systèmes alimentaires"
+    ],
+    "eligibilite": [
+      "Âgé de 18 à 35 ans",
+      "Maîtrise de l'anglais",
+      "Ressortissant d'un pays à revenu faible ou intermédiaire",
+      "Expérience dans les systèmes alimentaires, le développement durable, l'action climatique ou domaines connexes",
+      "Expérience de leadership ou de contribution à des initiatives communautaires, organisationnelles, institutionnelles ou sectorielles",
+      "Engagement à participer pleinement aux activités du programme jusqu'en 2028"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Postuler en ligne via le lien fourni"
+    ],
+    "contacts": [
+      "FSS-Hub@fao.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.unfoodsystemshub.org/latest-updates/news/detail/applications-now-open-for-the-next-cohort-of-the-youth-leadership-programme/en?fbclid=IwY2xjawStRqxleHRuA2FlbQIxMABicmlkETE0UzFSYTVWTWNibHlXSVd1c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHogqs_SoSKH1AhoR5AuLkvP4gtp0xsvey1jyaPUXRomVNAkHAVxe70-JYyze_aem_XqqbM78RJMAAQML45b88jA"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://www.surveymonkey.com/r/YLP2026"
+      },
+      {
+        "label": "Page du programme",
+        "url": "https://www.unfoodsystemshub.org/hub-solution/youth-leadership-programme/en"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "leadership",
+      "jeunesse",
+      "systèmes alimentaires",
+      "ONU",
+      "programme",
+      "2026"
+    ],
+    "lien_candidature": "https://www.surveymonkey.com/r/YLP2026",
+    "source_url": "https://www.unfoodsystemshub.org/latest-updates/news/detail/applications-now-open-for-the-next-cohort-of-the-youth-leadership-programme/en?fbclid=IwY2xjawStRqxleHRuA2FlbQIxMABicmlkETE0UzFSYTVWTWNibHlXSVd1c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHogqs_SoSKH1AhoR5AuLkvP4gtp0xsvey1jyaPUXRomVNAkHAVxe70-JYyze_aem_XqqbM78RJMAAQML45b88jA",
+    "statut": "fermé",
+    "resume": "Le Programme de Leadership pour la Jeunesse des Systèmes Alimentaires des Nations Unies (YLP) est une initiative mondiale visant à former une nouvelle génération de leaders capables de transformer les systèmes alimentaires. Les participants bénéficient de compétences en leadership, d'un réseau mondial et d'outils pratiques. Les candidatures sont ouvertes jusqu'au 13 juillet 2026 pour les jeunes de 18 à 35 ans issus de pays à revenu faible ou intermédiaire.",
+    "imageUrl": "/docs/Les-candidatures-sont-maintenant-ouvertes-pour-la-prochaine-promotion-du-Programme-de-leadership-des-jeunes.jpg",
+    "extrait_le": "2026-06-28T00:22:17",
+    "slug": "programme-leadership-jeunesse-systemes-alimentaires-2026"
   },
   {
     "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",

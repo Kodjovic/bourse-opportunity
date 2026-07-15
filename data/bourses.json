@@ -785,6 +785,99 @@
     "slug": "afs-youth-assembly-geneve-2026"
   },
   {
+    "titre": "Programme Ireland Fellows 2027/28",
+    "seo_slug": "ireland-fellows-master-irlande-2027",
+    "organisation": "Government of Ireland",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-26",
+    "deadline_texte": "26 juillet 2026",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Tous domaines éligibles"
+    ],
+    "pays_eligibles": [
+      "Nigeria",
+      "Ghana",
+      "Autres pays (voir site global)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Relevés de notes",
+      "Diplômes",
+      "Lettres de recommandation",
+      "Preuve de compétence en anglais"
+    ],
+    "avantages": [
+      "Frais de scolarité complets",
+      "Billet d'avion aller-retour",
+      "Aide au logement",
+      "Allocation mensuelle de subsistance"
+    ],
+    "eligibilite": [
+      "Être ressortissant et résident d'un pays éligible",
+      "Avoir un diplôme de premier cycle",
+      "Avoir au moins 2 ans d'expérience professionnelle",
+      "Démontrer un potentiel de leadership",
+      "S'engager à retourner dans son pays d'origine après les études"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page de candidature de son pays",
+      "2. Lire le guide de candidature",
+      "3. Soumettre la candidature de l'étape 1",
+      "4. Attendre la présélection",
+      "5. Si présélectionné, passer à l'étape 2 (candidature détaillée)",
+      "6. Si retenu, participer à l'étape 3 (entretien)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page Nigeria",
+        "url": "https://irelandfellows.africa/nigeria"
+      },
+      {
+        "label": "Page Ghana",
+        "url": "https://irelandfellows.africa/ghana"
+      },
+      {
+        "label": "Site global IFP",
+        "url": "https://www.ireland.ie/en/ireland-fellows-programme/applying-for-the-ireland-fellows-programme/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://irelandfellows.africa/faqs"
+      },
+      {
+        "label": "Guide de candidature Nigeria",
+        "url": "https://irelandfellows.africa/nigeria/guide"
+      },
+      {
+        "label": "Guide de candidature Ghana",
+        "url": "https://irelandfellows.africa/ghana/guide"
+      }
+    ],
+    "mots_cles": [
+      "bourse irlande",
+      "master irlande",
+      "bourse gouvernement irlandais",
+      "bourse leadership",
+      "bourse afrique"
+    ],
+    "lien_candidature": "https://irelandfellows.africa/eligible-programmes",
+    "source_url": "https://irelandfellows.africa/eligible-programmes",
+    "statut": "ouvert",
+    "resume": "Le Programme Ireland Fellows 2027/28 est une bourse entièrement financée du gouvernement irlandais pour des professionnels africains souhaitant poursuivre un master dans une université irlandaise. Il couvre les frais de scolarité, le voyage, le logement et une allocation mensuelle. Les candidatures sont ouvertes jusqu'au 26 juillet 2026 pour les ressortissants du Nigeria et du Ghana, et d'autres pays peuvent postuler via le site global.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-15T14:41:24",
+    "slug": "ireland-fellows-master-irlande-2027"
+  },
+  {
     "titre": "Bourse Rhodes 2027 pour des études supérieures à l'Université d'Oxford",
     "seo_slug": "bourse-rhodes-master-oxford-2027",
     "organisation": "Rhodes Trust",

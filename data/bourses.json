@@ -1,200 +1,5 @@
 [
   {
-    "titre": "Programme de bourses pour étudiants internationaux et doctorants - Développement des talents internationaux",
-    "seo_slug": "bourse-kas-international-allemagne-2026",
-    "organisation": "Konrad Adenauer Stiftung (KAS)",
-    "montant": 992,
-    "devise": "EUR",
-    "type_financement": "bourse partielle",
-    "deadline": "2026-07-15",
-    "deadline_texte": "15 juillet 2026 à 12h00 (CET)",
-    "niveau_etudes": [
-      "Bachelor",
-      "Master",
-      "Doctorat"
-    ],
-    "domaines": [
-      "Tous domaines"
-    ],
-    "pays_eligibles": [
-      "Monde entier (hors UE)"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Allemand (minimum B2)",
-    "documents_requis": [
-      "Relevés de notes",
-      "Certificat de langue allemande",
-      "Lettre de motivation",
-      "CV",
-      "Preuve d'engagement social"
-    ],
-    "avantages": [
-      "Bourse mensuelle jusqu'à 992 € (Bachelor/Master) ou 1 400 € (Doctorat)",
-      "Subvention d'assurance maladie jusqu'à 120 €/mois",
-      "Allocation familiale de 276 €/mois (conjoint en Allemagne)",
-      "Allocation enfant de 250 €/mois par enfant",
-      "Bourse de voyage de recherche",
-      "Remboursement partiel des frais de scolarité jusqu'à 750 €/semestre",
-      "Programme de séminaires",
-      "Mentorat personnalisé",
-      "Réseau international"
-    ],
-    "eligibilite": [
-      "Être étudiant international ou doctorant hors UE",
-      "Avoir un bon dossier académique",
-      "Maîtrise de l'allemand niveau B2 minimum",
-      "Être engagé socialement et politiquement",
-      "S'identifier aux valeurs de la KAS",
-      "Pour le Master : être inscrit dans un programme de 4 semestres en Allemagne",
-      "Pour le Bachelor : avoir validé au moins 2 semestres en Allemagne"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les critères d'éligibilité",
-      "2. Choisir la voie de candidature (en Allemagne ou via bureau KAS à l'étranger)",
-      "3. Préparer les documents requis",
-      "4. Soumettre la candidature avant le 15 juillet 2026 (pour candidature en Allemagne)",
-      "5. Participer aux entretiens de sélection régionaux"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Site officiel du programme",
-        "url": "https://www.kas.de/en/web/begabtenfoerderung-und-kultur/international-talent-development"
-      },
-      {
-        "label": "KAS Buenos Aires (candidatures Amérique du Sud)",
-        "url": "https://www.kas.de/es/web/argentinien/stipendienprogramm"
-      },
-      {
-        "label": "KAS Nairobi (candidatures Afrique de l'Est)",
-        "url": "https://www.kas.de/en/web/kenia/"
-      },
-      {
-        "label": "Collège doctoral - Économie sociale de marché",
-        "url": "https://www.kas.de/de/web/begabtenfoerderung-und-kultur/promotionskolleg-soziale-marktwirtschaft"
-      },
-      {
-        "label": "Collège doctoral - Sécurité et développement au 21e siècle",
-        "url": "https://www.kas.de/de/web/begabtenfoerderung-und-kultur/promotionskolleg-sicherheit-und-entwicklung-im-21.-jahrhundert"
-      },
-      {
-        "label": "Collège doctoral - Démocraties en Europe",
-        "url": "https://www.kas.de/de/web/begabtenfoerderung-und-kultur/promotionskolleg-demokratien-in-europa-transformationen-nach-1990"
-      }
-    ],
-    "mots_cles": [
-      "bourse KAS",
-      "bourse Allemagne",
-      "bourse internationale",
-      "bourse doctorat",
-      "bourse master",
-      "Konrad Adenauer",
-      "bourse 2026"
-    ],
-    "lien_candidature": "https://www.kas.de/en/web/begabtenfoerderung-und-kultur/international-talent-development",
-    "source_url": "https://www.kas.de/en/web/begabtenfoerderung-und-kultur/international-talent-development?fbclid=IwY2xjawSgKDJleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgLloWehd06tFI6BXcpNsDnnoZIo_rQ2FBJb2Yv_A1ocA2dvddk65KtwuR17_aem_ig7qk3g9xBd7Rz0OdNAjJA",
-    "statut": "ouvert",
-    "resume": "La Konrad Adenauer Stiftung offre des bourses aux étudiants internationaux et doctorants non européens souhaitant étudier ou faire de la recherche en Allemagne. Le programme soutient financièrement jusqu'à 992 € par mois pour les cycles Licence/Master et 1 400 € pour le doctorat, avec des allocations supplémentaires. En plus du soutien financier, les boursiers bénéficient d'un mentorat personnalisé, d'un programme de séminaires varié et d'un réseau international. Les candidatures pour 2026 sont ouvertes jusqu'au 15 juillet 2026.",
-    "extrait_le": "2026-06-18T01:26:06",
-    "slug": "bourse-kas-international-allemagne-2026"
-  },
-  {
-    "titre": "Appel à candidatures pour les élections à la 5e Assemblée générale permanente de l'ECOSOCC",
-    "seo_slug": "ecosocc-elections-5e-assemblee-2026",
-    "organisation": "Economic, Social and Cultural Council of the African Union (ECOSOCC)",
-    "montant": null,
-    "devise": null,
-    "type_financement": null,
-    "deadline": "2026-07-15",
-    "deadline_texte": "15 juillet 2026 à 17h00 (heure d'Afrique centrale)",
-    "niveau_etudes": [],
-    "domaines": [
-      "Gouvernance",
-      "Société civile",
-      "Développement"
-    ],
-    "pays_eligibles": [
-      "États membres de l'Union africaine",
-      "Diaspora africaine"
-    ],
-    "age_maximum": null,
-    "langue_requise": null,
-    "documents_requis": [
-      "Preuve d'enregistrement en tant qu'OSC",
-      "Preuve d'adhésion à un chapitre national de l'ECOSOCC",
-      "Statut consultatif selon le cadre d'accréditation harmonisé",
-      "Derniers états financiers audités",
-      "Preuve de propriété et de gestion africaine à au moins 50%",
-      "Preuve de ressources de base d'origine africaine à au moins 50%",
-      "Déclaration des contributions volontaires externes",
-      "Preuve d'opérations dans les domaines thématiques pertinents"
-    ],
-    "avantages": [
-      "Adhésion à l'Assemblée générale de l'ECOSOCC pour un mandat de 4 ans renouvelable une fois"
-    ],
-    "eligibilite": [
-      "Être une OSC nationale, régionale, continentale ou de la diaspora africaine",
-      "Fournir une preuve d'enregistrement valide depuis au moins 3 ans avant la candidature",
-      "Être membre d'un chapitre national de l'ECOSOCC (pour les OSC nationales, régionales et continentales)",
-      "Avoir un statut consultatif selon le cadre d'accréditation harmonisé",
-      "Pour les OSC régionales : opérer dans au moins 2 États membres d'une région",
-      "Pour les OSC continentales : opérer dans au moins 2 régions du continent",
-      "Soumettre les derniers états financiers audités datant de moins de 2 ans",
-      "Prouver que la propriété et la gestion sont composées d'au moins 50% d'Africains ou de la diaspora africaine",
-      "Prouver qu'au moins 50% des ressources de base proviennent de contributions nationales ou d'institutions africaines",
-      "Déclarer tout soutien financier externe",
-      "Objectifs et principes conformes à l'UA",
-      "Démontrer une expertise dans les domaines thématiques pertinents",
-      "Ne pas discriminer sur la base de la religion, du genre, de la tribu, de l'origine ethnique, raciale ou de l'affiliation politique"
-    ],
-    "procedure_etapes": [
-      "1. Créer un profil et enregistrer votre organisation sur ECOSOCC-Connect (http://ecosocc.au.int/connect).",
-      "2. Après inscription réussie, soumettre votre candidature pour la 5e Assemblée générale permanente (5PGA) via la même plateforme.",
-      "3. Joindre tous les documents justificatifs requis.",
-      "4. Soumettre avant le 15 juillet 2026 à 17h00 CAT."
-    ],
-    "contacts": [
-      "elections.ecosocc@africanunion.org",
-      "accreditation@ecosocc.au.int",
-      "(260) 211429405"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://ecosocc.au.int/en/elections?fbclid=IwY2xjawSiT51leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkz9ntZIMdQvThBuu6igVX6R7px7deKxyG7zDZvD3859dseez4dSDjM-2OBK_aem_bnDQ-UyqfqbWAVkJKyGp6g"
-      },
-      {
-        "label": "Plateforme de candidature ECOSOCC-Connect",
-        "url": "http://ecosocc.au.int/connect"
-      },
-      {
-        "label": "Annexe 1 - Critères d'éligibilité",
-        "url": "https://ecosocc.au.int/en/elections"
-      },
-      {
-        "label": "Annexe 2 - Domaines thématiques",
-        "url": "https://ecosocc.au.int/en/elections"
-      }
-    ],
-    "mots_cles": [
-      "ECOSOCC",
-      "élections",
-      "Assemblée générale",
-      "OSC",
-      "Union africaine",
-      "société civile",
-      "candidature",
-      "2026"
-    ],
-    "lien_candidature": "http://ecosocc.au.int/connect",
-    "source_url": "https://ecosocc.au.int/en/elections?fbclid=IwY2xjawSiT51leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkz9ntZIMdQvThBuu6igVX6R7px7deKxyG7zDZvD3859dseez4dSDjM-2OBK_aem_bnDQ-UyqfqbWAVkJKyGp6g",
-    "statut": "ouvert",
-    "resume": "L'ECOSOCC de l'Union africaine lance un appel à candidatures pour les élections à sa 5e Assemblée générale permanente. Les organisations de la société civile (OSC) éligibles, opérant aux niveaux national, régional, continental ou de la diaspora africaine, sont invitées à postuler avant le 15 juillet 2026. Les candidats doivent répondre à des critères stricts d'enregistrement, de financement et de conformité aux valeurs de l'UA. Les OSC élues siégeront pour un mandat de quatre ans renouvelable une fois.",
-    "adresse": "8658 Kudu Road Kabulonga, Lusaka, Zambia",
-    "extrait_le": "2026-06-19T16:41:27",
-    "slug": "ecosocc-elections-5e-assemblee-2026"
-  },
-  {
     "titre": "Youth for Peace : Programme de Leadership Interculturel de l'UNESCO - Deuxième Édition",
     "seo_slug": "bourse-unesco-youth-for-peace-2026",
     "organisation": "UNESCO",
@@ -1987,83 +1792,6 @@
     "imageUrl": null,
     "extrait_le": "2026-07-15T13:45:25",
     "slug": "conseil-jeunes-co-createurs-africains-2026"
-  },
-  {
-    "titre": "Assistant d'Engagement Public - Ambassade des États-Unis à Berne",
-    "seo_slug": "assistant-engagement-public-berne-2026",
-    "organisation": "Ambassade des États-Unis à Berne",
-    "montant": 117356,
-    "devise": "CHF",
-    "type_financement": "salaire annuel",
-    "deadline": "2026-08-01",
-    "deadline_texte": "1er août 2026 (date de clôture de la période de candidature)",
-    "niveau_etudes": [
-      "Licence"
-    ],
-    "domaines": [
-      "Relations internationales",
-      "Communication",
-      "Sciences politiques",
-      "Économie"
-    ],
-    "pays_eligibles": [
-      "Suisse"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais courant, une langue suisse courante",
-    "documents_requis": [
-      "Formulaire de candidature ERA",
-      "CV",
-      "Lettre de motivation",
-      "Diplômes",
-      "Preuve de permis de travail"
-    ],
-    "avantages": [
-      "Salaire annuel de CHF 117'356",
-      "Régime de retraite",
-      "Assurance maladie",
-      "Congés payés"
-    ],
-    "eligibilite": [
-      "Diplôme universitaire en sciences politiques, économie, relations internationales, communication ou équivalent",
-      "Minimum 3 ans d'expérience professionnelle en communication, gestion de projet ou éducation",
-      "Anglais courant et une langue suisse courante",
-      "Permis de travail valide en Suisse"
-    ],
-    "procedure_etapes": [
-      "1. Postuler via le portail ERA (Electronic Recruitment Application)",
-      "2. Compléter le formulaire de candidature en ligne",
-      "3. Joindre les documents requis (diplômes, CV, etc.)",
-      "4. Passer les tests de langue et de compétences si sélectionné",
-      "5. Entretien"
-    ],
-    "contacts": [
-      "BernHRJobs@state.gov"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Portail de candidature ERA",
-        "url": "https://era.usembassy.gov/"
-      },
-      {
-        "label": "Définitions 3 FAM 7210",
-        "url": "https://fam.state.gov/FAM/03FAM/03FAM7120.html?_ref=u2n5zetbpt0"
-      }
-    ],
-    "mots_cles": [
-      "emploi ambassade berne",
-      "public engagement assistant",
-      "poste diplomatie publique",
-      "carrière États-Unis suisse",
-      "offre d'emploi berne 2026"
-    ],
-    "lien_candidature": "https://era.usembassy.gov/",
-    "source_url": "manuel",
-    "statut": "ouvert",
-    "resume": "L'Ambassade des États-Unis à Berne recrute un Assistant d'Engagement Public pour la section Diplomatie Publique. Ce poste stratégique consiste à concevoir et mettre en œuvre des stratégies d'engagement auprès des leaders d'opinion suisses, à gérer des programmes d'échange et à promouvoir les objectifs de politique étrangère américaine. Le salaire annuel est de CHF 117'356. Les candidats doivent posséder un diplôme universitaire, au moins 3 ans d'expérience pertinente, parler couramment anglais et une langue suisse, et détenir un permis de travail valide. Postulez avant le 1er août 2026 via le portail ERA.",
-    "imageUrl": "/docs/Assistant-e-en-mobilisation-du-public-Ouvert-Tous-les-candidats-int-ress-s-Toutes-les-sources.png",
-    "extrait_le": "2026-07-15T14:22:29",
-    "slug": "assistant-engagement-public-berne-2026"
   },
   {
     "titre": "Appel à candidatures pour siéger au Conseil consultatif sur l'intégrité YouthLED de l'UNODC 2026-2028",
@@ -4887,6 +4615,73 @@
     "resume": "L'Université de Tasmanie propose des bourses de recherche pour les étudiants de master et doctorat. Les candidats doivent trouver un projet et un superviseur, puis soumettre une proposition de recherche. Les bourses incluent une allocation de subsistance et une exonération des frais de scolarité. Les candidatures sont ouvertes toute l'année avec des dates limites spécifiques selon les projets.",
     "extrait_le": "2026-06-15T03:27:30",
     "slug": "bourse-recherche-tasmanie-2026"
+  },
+  {
+    "titre": "Programme Spark Change-makers (UE-Ghana) pour les OSC et entreprises sociales dirigées par des jeunes",
+    "seo_slug": "spark-change-makers-ghana-osc-jeunes",
+    "organisation": "SOS Children's Villages Ghana",
+    "montant": null,
+    "devise": null,
+    "type_financement": "subvention et renforcement de capacités",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte",
+    "niveau_etudes": [],
+    "domaines": [
+      "Technologie numérique",
+      "Autonomisation des jeunes et des femmes",
+      "Industries culturelles et créatives",
+      "Agriculture et protection de l'environnement",
+      "Paix et sécurité"
+    ],
+    "pays_eligibles": [
+      "Ghana"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Preuve d'impact (rapports d'activité, rapports de projet, contenu numérique daté des 12 derniers mois)",
+      "Documents de programme des 12 derniers mois (combinés en un seul PDF)"
+    ],
+    "avantages": [
+      "Renforcement de capacités (formation, mentorat)",
+      "Possibilité de subvention pour les organisations éligibles"
+    ],
+    "eligibilite": [
+      "Être une OSC ou entreprise sociale dirigée par des jeunes ou axée sur les jeunes",
+      "Opérer dans l'une des six régions de mise en œuvre : Greater Accra, Ashanti, Volta, Northern, Western, Upper East",
+      "Démontrer un engagement communautaire",
+      "Engagement en faveur de l'inclusion",
+      "Engagement en faveur de la durabilité et de solutions respectueuses de l'environnement",
+      "Pour les OSC : le PDG/directeur exécutif doit être âgé de 18 à 35 ans, OU la majorité de la direction doit être âgée de 18 à 35 ans, OU la mission principale de l'organisation et au moins 80 % de ses activités doivent bénéficier directement aux jeunes de 18 à 35 ans"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne",
+      "2. Télécharger les documents requis (preuve d'impact et documents de programme)",
+      "3. Soumettre la candidature avant la date limite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://ee.kobotoolbox.org/x/6DSdSPYK?fbclid=IwY2xjawTHsiBleHRuA2FlbQIxMABicmlkETFaZTJCSlk3UWU0Y3dEdTh5c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrtAPN6dhRUYxKjcnc8OWokg4oxXle8fWTtw1Fc4-06QWRU2M5VI0gu7JYRw_aem_YYywzA4XSuDuFaC1658Ixg"
+      }
+    ],
+    "mots_cles": [
+      "bourse ghana",
+      "subvention jeunes",
+      "OSC ghana",
+      "entreprises sociales",
+      "renforcement capacités",
+      "ue ghana",
+      "spark change makers"
+    ],
+    "lien_candidature": "",
+    "source_url": "manuel",
+    "statut": "ouvert",
+    "resume": "Le programme Spark Change-makers, cofinancé par l'Union européenne et mis en œuvre par SOS Children's Villages Ghana et ses partenaires, vise à autonomiser les jeunes de 18 à 35 ans au Ghana en renforçant les capacités des OSC et entreprises sociales dirigées par des jeunes. Les organisations éligibles opérant dans six régions (Greater Accra, Ashanti, Volta, Northern, Western, Upper East) peuvent postuler pour une phase de renforcement de capacités, avec possibilité d'obtenir une subvention. Le programme cible cinq domaines thématiques : technologie numérique, autonomisation des jeunes et des femmes, industries culturelles et créatives, agriculture et protection de l'environnement, paix et sécurité.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-18T01:54:51",
+    "slug": "spark-change-makers-ghana-osc-jeunes"
   },
   {
     "titre": "Programme de Bourses Karsh International",
@@ -11505,6 +11300,201 @@
     "imageUrl": "/docs/Les-candidatures-sont-maintenant-ouvertes-pour-la-prochaine-promotion-du-Programme-de-leadership-des-jeunes.jpg",
     "extrait_le": "2026-06-28T00:22:17",
     "slug": "programme-leadership-jeunesse-systemes-alimentaires-2026"
+  },
+  {
+    "titre": "Programme de bourses pour étudiants internationaux et doctorants - Développement des talents internationaux",
+    "seo_slug": "bourse-kas-international-allemagne-2026",
+    "organisation": "Konrad Adenauer Stiftung (KAS)",
+    "montant": 992,
+    "devise": "EUR",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-07-15",
+    "deadline_texte": "15 juillet 2026 à 12h00 (CET)",
+    "niveau_etudes": [
+      "Bachelor",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Monde entier (hors UE)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand (minimum B2)",
+    "documents_requis": [
+      "Relevés de notes",
+      "Certificat de langue allemande",
+      "Lettre de motivation",
+      "CV",
+      "Preuve d'engagement social"
+    ],
+    "avantages": [
+      "Bourse mensuelle jusqu'à 992 € (Bachelor/Master) ou 1 400 € (Doctorat)",
+      "Subvention d'assurance maladie jusqu'à 120 €/mois",
+      "Allocation familiale de 276 €/mois (conjoint en Allemagne)",
+      "Allocation enfant de 250 €/mois par enfant",
+      "Bourse de voyage de recherche",
+      "Remboursement partiel des frais de scolarité jusqu'à 750 €/semestre",
+      "Programme de séminaires",
+      "Mentorat personnalisé",
+      "Réseau international"
+    ],
+    "eligibilite": [
+      "Être étudiant international ou doctorant hors UE",
+      "Avoir un bon dossier académique",
+      "Maîtrise de l'allemand niveau B2 minimum",
+      "Être engagé socialement et politiquement",
+      "S'identifier aux valeurs de la KAS",
+      "Pour le Master : être inscrit dans un programme de 4 semestres en Allemagne",
+      "Pour le Bachelor : avoir validé au moins 2 semestres en Allemagne"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Choisir la voie de candidature (en Allemagne ou via bureau KAS à l'étranger)",
+      "3. Préparer les documents requis",
+      "4. Soumettre la candidature avant le 15 juillet 2026 (pour candidature en Allemagne)",
+      "5. Participer aux entretiens de sélection régionaux"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://www.kas.de/en/web/begabtenfoerderung-und-kultur/international-talent-development"
+      },
+      {
+        "label": "KAS Buenos Aires (candidatures Amérique du Sud)",
+        "url": "https://www.kas.de/es/web/argentinien/stipendienprogramm"
+      },
+      {
+        "label": "KAS Nairobi (candidatures Afrique de l'Est)",
+        "url": "https://www.kas.de/en/web/kenia/"
+      },
+      {
+        "label": "Collège doctoral - Économie sociale de marché",
+        "url": "https://www.kas.de/de/web/begabtenfoerderung-und-kultur/promotionskolleg-soziale-marktwirtschaft"
+      },
+      {
+        "label": "Collège doctoral - Sécurité et développement au 21e siècle",
+        "url": "https://www.kas.de/de/web/begabtenfoerderung-und-kultur/promotionskolleg-sicherheit-und-entwicklung-im-21.-jahrhundert"
+      },
+      {
+        "label": "Collège doctoral - Démocraties en Europe",
+        "url": "https://www.kas.de/de/web/begabtenfoerderung-und-kultur/promotionskolleg-demokratien-in-europa-transformationen-nach-1990"
+      }
+    ],
+    "mots_cles": [
+      "bourse KAS",
+      "bourse Allemagne",
+      "bourse internationale",
+      "bourse doctorat",
+      "bourse master",
+      "Konrad Adenauer",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://www.kas.de/en/web/begabtenfoerderung-und-kultur/international-talent-development",
+    "source_url": "https://www.kas.de/en/web/begabtenfoerderung-und-kultur/international-talent-development?fbclid=IwY2xjawSgKDJleHRuA2FlbQIxMABicmlkETFjNXdyOVBZUkdRbzRJaFk0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgLloWehd06tFI6BXcpNsDnnoZIo_rQ2FBJb2Yv_A1ocA2dvddk65KtwuR17_aem_ig7qk3g9xBd7Rz0OdNAjJA",
+    "statut": "fermé",
+    "resume": "La Konrad Adenauer Stiftung offre des bourses aux étudiants internationaux et doctorants non européens souhaitant étudier ou faire de la recherche en Allemagne. Le programme soutient financièrement jusqu'à 992 € par mois pour les cycles Licence/Master et 1 400 € pour le doctorat, avec des allocations supplémentaires. En plus du soutien financier, les boursiers bénéficient d'un mentorat personnalisé, d'un programme de séminaires varié et d'un réseau international. Les candidatures pour 2026 sont ouvertes jusqu'au 15 juillet 2026.",
+    "extrait_le": "2026-06-18T01:26:06",
+    "slug": "bourse-kas-international-allemagne-2026"
+  },
+  {
+    "titre": "Appel à candidatures pour les élections à la 5e Assemblée générale permanente de l'ECOSOCC",
+    "seo_slug": "ecosocc-elections-5e-assemblee-2026",
+    "organisation": "Economic, Social and Cultural Council of the African Union (ECOSOCC)",
+    "montant": null,
+    "devise": null,
+    "type_financement": null,
+    "deadline": "2026-07-15",
+    "deadline_texte": "15 juillet 2026 à 17h00 (heure d'Afrique centrale)",
+    "niveau_etudes": [],
+    "domaines": [
+      "Gouvernance",
+      "Société civile",
+      "Développement"
+    ],
+    "pays_eligibles": [
+      "États membres de l'Union africaine",
+      "Diaspora africaine"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [
+      "Preuve d'enregistrement en tant qu'OSC",
+      "Preuve d'adhésion à un chapitre national de l'ECOSOCC",
+      "Statut consultatif selon le cadre d'accréditation harmonisé",
+      "Derniers états financiers audités",
+      "Preuve de propriété et de gestion africaine à au moins 50%",
+      "Preuve de ressources de base d'origine africaine à au moins 50%",
+      "Déclaration des contributions volontaires externes",
+      "Preuve d'opérations dans les domaines thématiques pertinents"
+    ],
+    "avantages": [
+      "Adhésion à l'Assemblée générale de l'ECOSOCC pour un mandat de 4 ans renouvelable une fois"
+    ],
+    "eligibilite": [
+      "Être une OSC nationale, régionale, continentale ou de la diaspora africaine",
+      "Fournir une preuve d'enregistrement valide depuis au moins 3 ans avant la candidature",
+      "Être membre d'un chapitre national de l'ECOSOCC (pour les OSC nationales, régionales et continentales)",
+      "Avoir un statut consultatif selon le cadre d'accréditation harmonisé",
+      "Pour les OSC régionales : opérer dans au moins 2 États membres d'une région",
+      "Pour les OSC continentales : opérer dans au moins 2 régions du continent",
+      "Soumettre les derniers états financiers audités datant de moins de 2 ans",
+      "Prouver que la propriété et la gestion sont composées d'au moins 50% d'Africains ou de la diaspora africaine",
+      "Prouver qu'au moins 50% des ressources de base proviennent de contributions nationales ou d'institutions africaines",
+      "Déclarer tout soutien financier externe",
+      "Objectifs et principes conformes à l'UA",
+      "Démontrer une expertise dans les domaines thématiques pertinents",
+      "Ne pas discriminer sur la base de la religion, du genre, de la tribu, de l'origine ethnique, raciale ou de l'affiliation politique"
+    ],
+    "procedure_etapes": [
+      "1. Créer un profil et enregistrer votre organisation sur ECOSOCC-Connect (http://ecosocc.au.int/connect).",
+      "2. Après inscription réussie, soumettre votre candidature pour la 5e Assemblée générale permanente (5PGA) via la même plateforme.",
+      "3. Joindre tous les documents justificatifs requis.",
+      "4. Soumettre avant le 15 juillet 2026 à 17h00 CAT."
+    ],
+    "contacts": [
+      "elections.ecosocc@africanunion.org",
+      "accreditation@ecosocc.au.int",
+      "(260) 211429405"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://ecosocc.au.int/en/elections?fbclid=IwY2xjawSiT51leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkz9ntZIMdQvThBuu6igVX6R7px7deKxyG7zDZvD3859dseez4dSDjM-2OBK_aem_bnDQ-UyqfqbWAVkJKyGp6g"
+      },
+      {
+        "label": "Plateforme de candidature ECOSOCC-Connect",
+        "url": "http://ecosocc.au.int/connect"
+      },
+      {
+        "label": "Annexe 1 - Critères d'éligibilité",
+        "url": "https://ecosocc.au.int/en/elections"
+      },
+      {
+        "label": "Annexe 2 - Domaines thématiques",
+        "url": "https://ecosocc.au.int/en/elections"
+      }
+    ],
+    "mots_cles": [
+      "ECOSOCC",
+      "élections",
+      "Assemblée générale",
+      "OSC",
+      "Union africaine",
+      "société civile",
+      "candidature",
+      "2026"
+    ],
+    "lien_candidature": "http://ecosocc.au.int/connect",
+    "source_url": "https://ecosocc.au.int/en/elections?fbclid=IwY2xjawSiT51leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkz9ntZIMdQvThBuu6igVX6R7px7deKxyG7zDZvD3859dseez4dSDjM-2OBK_aem_bnDQ-UyqfqbWAVkJKyGp6g",
+    "statut": "fermé",
+    "resume": "L'ECOSOCC de l'Union africaine lance un appel à candidatures pour les élections à sa 5e Assemblée générale permanente. Les organisations de la société civile (OSC) éligibles, opérant aux niveaux national, régional, continental ou de la diaspora africaine, sont invitées à postuler avant le 15 juillet 2026. Les candidats doivent répondre à des critères stricts d'enregistrement, de financement et de conformité aux valeurs de l'UA. Les OSC élues siégeront pour un mandat de quatre ans renouvelable une fois.",
+    "adresse": "8658 Kudu Road Kabulonga, Lusaka, Zambia",
+    "extrait_le": "2026-06-19T16:41:27",
+    "slug": "ecosocc-elections-5e-assemblee-2026"
   },
   {
     "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",

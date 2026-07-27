@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Fraunces, Inter } from "next/font/google";
 import "./globals.css";
 
+import { GoogleAnalytics } from "@next/third-parties/google";
+
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import { SITE_NAME, SITE_URL } from "@/lib/site";
@@ -64,6 +66,7 @@ export default function RootLayout({
         <div className="flex-1">{children}</div>
         <Footer />
       </body>
+      <GoogleAnalytics gaId="G-1QSR4WKDWT" />
     </html>
   );
 }

@@ -1,686 +1,81 @@
 [
   {
-    "titre": "Youth for Peace : Programme de Leadership Interculturel de l'UNESCO - Deuxième Édition",
-    "seo_slug": "bourse-unesco-youth-for-peace-2026",
-    "organisation": "UNESCO",
-    "montant": 10000,
-    "devise": "USD",
-    "type_financement": "bourse partielle (seed funding)",
-    "deadline": "2026-07-19",
-    "deadline_texte": "19 juillet 2026 à 23h59 CET (heure de Paris)",
-    "niveau_etudes": [
-      "Professionnel",
-      "Leadership"
-    ],
-    "domaines": [
-      "Dialogue interculturel",
-      "Paix",
-      "Cohésion sociale",
-      "Intelligence artificielle"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": 45,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne"
-    ],
-    "avantages": [
-      "Financement de démarrage de 10 000 USD",
-      "Programme de formation en ligne",
-      "Mentorat",
-      "Réseau mondial d'anciens élèves",
-      "Participation au Dialogue mondial de la jeunesse pour la paix de l'UNESCO"
-    ],
-    "eligibilite": [
-      "Âge entre 25 et 45 ans au 22 octobre 2026",
-      "Expérience avérée de leadership",
-      "Engagement en faveur du dialogue interculturel et de l'impact social",
-      "Ouverture à l'autoréflexion et à l'apprentissage collaboratif",
-      "Disponibilité pour participer à toutes les composantes du programme"
-    ],
-    "procedure_etapes": [
-      "1. Soumettre le formulaire de candidature en ligne avant le 19 juillet 2026",
-      "2. Vérification de l'éligibilité",
-      "3. Évaluation technique par un jury international",
-      "4. Notification des 50 jeunes leaders sélectionnés d'ici mi-octobre 2026"
-    ],
-    "contacts": [
-      "info@unesco.org",
-      "+33 1 45 68 10 00"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://surveys.unesco.org/171854?lang=en"
-      },
-      {
-        "label": "Termes et conditions",
-        "url": "https://unesdoc.unesco.org/ark:/48223/pf0000398412"
-      }
-    ],
-    "mots_cles": [
-      "bourse unesco",
-      "leadership interculturel",
-      "jeunes leaders",
-      "paix",
-      "dialogue interculturel",
-      "intelligence artificielle",
-      "financement projet",
-      "programme jeunesse"
-    ],
-    "lien_candidature": "https://surveys.unesco.org/171854?lang=en",
-    "source_url": "https://www.unesco.org/en/call-applications-2026?hub=181405",
-    "statut": "ouvert",
-    "resume": "L'UNESCO lance la deuxième édition du programme Youth for Peace, un programme de leadership interculturel destiné aux jeunes leaders de 25 à 45 ans. Les participants bénéficient d'une formation en ligne, d'un mentorat et d'un financement de démarrage de 10 000 USD pour mener une initiative de dialogue interculturel sur le thème 'Connexion humaine et dialogue à l'ère de l'intelligence artificielle'. Les candidatures sont ouvertes jusqu'au 19 juillet 2026.",
-    "extrait_le": "2026-06-25T14:39:29",
-    "slug": "bourse-unesco-youth-for-peace-2026"
-  },
-  {
-    "titre": "Youth for Peace : Programme de Leadership Interculturel de l'UNESCO - Deuxième Édition",
-    "seo_slug": "unesco-youth-peace-leadership-2026",
-    "organisation": "UNESCO",
-    "montant": 10000,
-    "devise": "USD",
-    "type_financement": "bourse partielle (seed funding)",
-    "deadline": "2026-07-19",
-    "deadline_texte": "19 juillet 2026 à 23h59 CET (heure de Paris)",
-    "niveau_etudes": [
-      "Professionnel",
-      "Leadership"
-    ],
-    "domaines": [
-      "Dialogue interculturel",
-      "Paix",
-      "Intelligence artificielle",
-      "Cohésion sociale"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": 45,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne",
-      "Plan d'action"
-    ],
-    "avantages": [
-      "Financement de démarrage de 10 000 USD",
-      "Programme de formation en ligne",
-      "Mentorat",
-      "Réseau d'anciens élèves",
-      "Participation au Dialogue mondial de la jeunesse pour la paix de l'UNESCO"
-    ],
-    "eligibilite": [
-      "Âge entre 25 et 45 ans au 22 octobre 2026",
-      "Expérience avérée en leadership",
-      "Engagement en faveur du dialogue interculturel et de l'impact social",
-      "Ouverture à l'autoréflexion et à l'apprentissage collaboratif",
-      "Disponibilité pour participer à toutes les composantes du programme"
-    ],
-    "procedure_etapes": [
-      "1. Soumettre le formulaire de candidature en ligne avant le 19 juillet 2026.",
-      "2. Vérification de l'éligibilité.",
-      "3. Évaluation technique par un jury international.",
-      "4. Notification des 50 jeunes leaders sélectionnés d'ici mi-octobre 2026."
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://surveys.unesco.org/171854?lang=en"
-      },
-      {
-        "label": "Termes et conditions",
-        "url": "https://unesdoc.unesco.org/ark:/48223/pf0000398412"
-      }
-    ],
-    "mots_cles": [
-      "bourse unesco",
-      "leadership interculturel",
-      "jeunes leaders",
-      "paix",
-      "intelligence artificielle",
-      "dialogue interculturel",
-      "financement projet",
-      "programme jeunesse"
-    ],
-    "lien_candidature": "https://surveys.unesco.org/171854?lang=en",
-    "source_url": "https://www.unesco.org/en/call-applications-2026?fbclid=IwY2xjawTEZ0tleHRuA2FlbQIxMABicmlkETFhWmRaUGNCZTBwSThIdTNMc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv3Uf4MxUn_YcWuzkd5lqT3g8p6MsHHj6ReiNodLfbBNgUeWqfpnQhxiQ2ez_aem_RxYmgXJo6n3cvkYPQ5ybhw&hub=181405",
-    "statut": "ouvert",
-    "resume": "L'UNESCO lance la deuxième édition du programme Youth for Peace, un programme de leadership interculturel destiné aux jeunes leaders de 25 à 45 ans. Les participants bénéficient d'une formation en ligne, d'un financement de démarrage de 10 000 USD pour mener une initiative locale, et d'un accès à un réseau mondial d'anciens élèves. La thématique 2026 explore le lien entre intelligence artificielle et dialogue interculturel. Les candidatures sont ouvertes jusqu'au 19 juillet 2026.",
-    "imageUrl": "/docs/Appel-candidatures-Deuxi-me-dition-Jeunesse-pour-la-paix-Programme-de-leadership-interculturel-de-l-UNESCO.webp",
-    "extrait_le": "2026-07-15T13:26:47",
-    "slug": "unesco-youth-peace-leadership-2026"
-  },
-  {
-    "titre": "Doctorat d'Intérêt National en Sciences et Technologies Spatiales - SST",
-    "seo_slug": "doctorat-sciences-spatiales-trento-2026",
-    "organisation": "Università degli Studi di Trento",
-    "montant": null,
-    "devise": "EUR",
-    "type_financement": "bourse complète",
-    "deadline": "2026-07-20",
-    "deadline_texte": "20 juillet 2026 à 16h00 (heure italienne)",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Sciences spatiales",
-      "Ingénierie spatiale",
-      "Technologie spatiale",
-      "Relations internationales"
-    ],
-    "pays_eligibles": [
-      "Tous pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Diplôme de master ou équivalent",
-      "CV",
-      "Lettre de motivation",
-      "Projet de recherche",
-      "Relevés de notes",
-      "Lettres de recommandation",
-      "Copie du passeport"
-    ],
-    "avantages": [
-      "Bourse de doctorat (montant non spécifié)",
-      "Frais de voyage pour séjours à l'étranger (minimum 6 mois)",
-      "Accès à des cours avancés et laboratoires"
-    ],
-    "eligibilite": [
-      "Être titulaire d'un master ou équivalent (ou l'obtenir avant le 31 octobre 2025)",
-      "Pour les postes réservés : être citoyen kenyan ou collaborer avec une institution de recherche"
-    ],
-    "procedure_etapes": [
-      "1. Consulter le bando (avis de concours) en ligne",
-      "2. Remplir la demande en ligne avant le 20 juillet 2026 à 16h00",
-      "3. Soumettre les documents requis",
-      "4. Évaluation des titres à partir du 27 juillet 2026",
-      "5. Entretien oral à partir du 31 juillet 2026"
-    ],
-    "contacts": [
-      "phd.office-st@unitn.it",
-      "dottorati.scientifici@unitn.it"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Bando de candidature (PDF)",
-        "url": "https://www.unitn.it/sites/default/files/2026-06/SST_bando_42_ITA.pdf"
-      },
-      {
-        "label": "Bourses à thématique liée (PDF)",
-        "url": "https://www.unitn.it/sites/default/files/2026-06/SST_Borse_tematica_vincolata_Schede_2.pdf"
-      },
-      {
-        "label": "Informatique sur le traitement des données (PDF)",
-        "url": "https://www.unitn.it/sites/default/files/2026-06/INFORMATIVA%20SUL%20TRATTAMENTO%20DEI%20DATI%20PERSONALI.pdf"
-      },
-      {
-        "label": "Déclaration substitutive des examens (DOCX)",
-        "url": "https://www.unitn.it/sites/default/files/2026-03/Fac-simile_elenco_esami_sostenuti_1.docx"
-      },
-      {
-        "label": "Site web du doctorat SST",
-        "url": "https://phd.unitn.it/phd-sst"
-      },
-      {
-        "label": "Guide d'admission aux doctorats",
-        "url": "https://www.unitn.it/it/studiare/iscriversi/guida-alle-ammissioni/dottorati-di-ricerca"
-      },
-      {
-        "label": "Guide au doctorat",
-        "url": "https://www.unitn.it/it/studiare/iscriversi/guida-al-dottorato"
-      },
-      {
-        "label": "Règlements internes des doctorats",
-        "url": "https://www.unitn.it/it/ateneo/regolamenti-manuali-e-informative/regolamenti/regolamento-didattico-di-ateneo/dottorati-di-ricerca"
-      }
-    ],
-    "mots_cles": [
-      "doctorat",
-      "sciences spatiales",
-      "bourse",
-      "Italie",
-      "Trento",
-      "2026",
-      "recherche",
-      "ingénierie spatiale"
-    ],
-    "lien_candidature": "https://webapps.unitn.it/Apply/it/Web/Home/dott",
-    "source_url": "https://www.unitn.it/it/dottorati/space-science-and-technology?fbclid=IwY2xjawS6nI1leHRuA2FlbQIxMABicmlkETFOaTFuYUNNaGhwOG02Uk53c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHj9YtfoM1MBTpzlFUQdk7mbIcM0a-D7UrKJfiRrtDZKc19aZ68Bv45CNAtPO_aem_yih1CJp0C7EdJN5L_E9FJQ",
-    "statut": "ouvert",
-    "resume": "Le Doctorat d'Intérêt National en Sciences et Technologies Spatiales (SST) de l'Université de Trento forme des experts en sciences, ingénierie et relations internationales spatiales. Pour le 42e cycle, 41 postes sont disponibles, dont 30 bourses à thématique liée et 5 réservés aux citoyens kenyans. Les candidatures sont ouvertes jusqu'au 20 juillet 2026. Le programme dure 3 ans, inclut des séjours à l'étranger et couvre huit curricula spécialisés.",
-    "adresse": "Via Sommarive, 14 - 38123 Povo - Trente",
-    "imageUrl": null,
-    "extrait_le": "2026-07-08T03:11:20",
-    "slug": "doctorat-sciences-spatiales-trento-2026"
-  },
-  {
-    "titre": "Bourses de doctorat Walsh Scholars",
-    "seo_slug": "walsh-scholars-phd-irlande-2026",
-    "organisation": "Teagasc",
-    "montant": null,
-    "devise": "EUR",
-    "type_financement": "bourse complète",
-    "deadline": "2026-07-24",
-    "deadline_texte": "24 juillet 2026 à 17h00 (dernière date limite parmi les offres)",
-    "niveau_etudes": [
-      "Doctorat",
-      "Master"
-    ],
-    "domaines": [
-      "Agriculture",
-      "Alimentation",
-      "Environnement",
-      "Climat",
-      "Développement rural"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Consulter les offres individuelles"
-    ],
-    "avantages": [
-      "Formation entièrement financée",
-      "Supervision par des chercheurs de premier plan",
-      "Accès à des installations de recherche de pointe",
-      "Opportunités de collaboration internationale, voyages et conférences",
-      "Formation en recherche, communication, leadership et résolution de problèmes",
-      "Appartenance à une communauté de recherche solidaire"
-    ],
-    "eligibilite": [
-      "Diplômés de niveau master ou licence (selon l'offre)",
-      "Intérêt pour la recherche en agriculture, alimentation, environnement, climat, développement rural"
-    ],
-    "procedure_etapes": [
-      "1. Parcourir les opportunités disponibles",
-      "2. Examiner les détails du projet et de l'encadrement",
-      "3. Postuler comme indiqué dans l'offre"
-    ],
-    "contacts": [
-      "walshscholarships@teagasc.ie",
-      "+353 59 917 0200"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Page d'accueil du programme Walsh Scholars",
-        "url": "https://teagasc.ie/about/research-innovation/the-walsh-scholars-programme/"
-      },
-      {
-        "label": "Offre MSc 2024014 (PDF)",
-        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2024014_E.Mullins_D.Ryan_.pdf"
-      },
-      {
-        "label": "Offre PhD 2025202 (PDF)",
-        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025202_M.ODonovan_D.Hennessy.pdf"
-      },
-      {
-        "label": "Offre PhD 2025206 (PDF)",
-        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-2025206_N.McHugh_D.Purfileld-ad2.pdf"
-      },
-      {
-        "label": "Offre PhD 2025207 (PDF)",
-        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025207_C.Ryan_D.Purfield-AD-2.pdf"
-      },
-      {
-        "label": "Offre PhD 2025210 (PDF)",
-        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025210_J.Magan_T.OCallaghan.pdf"
-      },
-      {
-        "label": "Offre PhD 2025213 (PDF)",
-        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025213_P.Lamichhane_T.Huppertz.pdf"
-      },
-      {
-        "label": "Offre PhD 2025214 (PDF)",
-        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025214_J.Tobin_T.Huppertz.pdf"
-      },
-      {
-        "label": "Offre PhD 2026001 (PDF)",
-        "url": "https://teagasc.ie/wp-content/uploads/WS-REF-2026001_A.Murray_B.ONeill.pdf"
-      },
-      {
-        "label": "Offre PhD 2026011 (PDF)",
-        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2026011_N.Byrne_A.Kelly_.pdf"
-      },
-      {
-        "label": "Offre PhD 2026045 (PDF)",
-        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2026045__P.Crosson_J.Kinsella-R2-online-only.pdf"
-      },
-      {
-        "label": "Offre MSc 2023298 (PDF)",
-        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2023298_S.Hannon_U.Tiwari.pdf"
-      },
-      {
-        "label": "Offre PhD 2025049 (PDF)",
-        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025049_S.Hogan_A.Kelly_.pdf"
-      },
-      {
-        "label": "Offre PhD 2025215 (PDF)",
-        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025215_L.Giblin_K.Nally_.pdf"
-      },
-      {
-        "label": "Offre PhD 2026041 (PDF)",
-        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2026041_L.Walsh_D.Styles.pdf"
-      }
-    ],
-    "mots_cles": [
-      "bourse doctorat irlande",
-      "walsh scholars",
-      "teagasc",
-      "agriculture",
-      "alimentation",
-      "environnement",
-      "recherche",
-      "financement complet"
-    ],
-    "lien_candidature": "https://teagasc.ie/about/research-innovation/the-walsh-scholars-programme/",
-    "source_url": "https://teagasc.ie/about/research--innovation/the-walsh-scholars-programme/walsh-scholars-opportunities/?fbclid=IwY2xjawSvaz9leHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHo2jgpdKhae68FcdNGedYTUkYWAOfRhboIBcweH6a7aD3j2fj6G5gmgf_p0m_aem_4cWakMXRuLNXjDA_8kFWaA",
-    "statut": "ouvert",
-    "resume": "Le programme Walsh Scholars de Teagasc offre des bourses entièrement financées pour des doctorats et masters en agriculture, alimentation, environnement, climat et développement rural. Les boursiers bénéficient d'un encadrement par des chercheurs de renom, d'accès à des installations de pointe et d'opportunités de collaboration internationale. Les candidatures sont ouvertes jusqu'au 24 juillet 2026 selon les offres.",
-    "adresse": "Teagasc, Oak Park, Carlow, R93 XE12",
-    "imageUrl": null,
-    "extrait_le": "2026-06-29T15:17:34",
-    "slug": "walsh-scholars-phd-irlande-2026"
-  },
-  {
-    "titre": "94 Postes Doctoraux Financés à l'Université de Messine, Italie - 42e Cycle 2026",
-    "seo_slug": "bourse-doctorat-messine-italie-2026",
-    "organisation": "University of Messina",
+    "titre": "Appel à propositions pour les organisations de la société civile (OSC) ou ONG - Programme régional africain Spotlight Initiative 2.0",
+    "seo_slug": "appel-propositions-osc-ethiopie-2026",
+    "organisation": "UNDP",
     "montant": null,
     "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-07-24",
-    "deadline_texte": "24 juillet 2026 à 23h59 (heure italienne)",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
+    "type_financement": "subvention",
+    "deadline": "2026-07-29",
+    "deadline_texte": "29 juillet 2026 à 04h00 (heure de New York)",
+    "niveau_etudes": [],
     "domaines": [
-      "Bioingénierie",
-      "Biologie",
-      "Médecine",
-      "Économie",
-      "Gestion",
-      "Statistiques",
-      "Physique",
-      "Ingénierie",
-      "Psychologie",
-      "Sciences cognitives",
-      "Chimie",
-      "Sciences de l'administration publique",
-      "Sciences juridiques",
-      "Sciences politiques",
-      "Sciences humaines",
-      "Sciences vétérinaires",
-      "Biotechnologies",
-      "Sciences agricoles",
-      "Sciences de la durabilité",
-      "Médecine moléculaire translationnelle",
-      "Chirurgie",
-      "Mathématiques",
-      "Informatique",
-      "Droit",
-      "Philologie",
-      "Archéologie",
-      "Histoire"
+      "Violences basées sur le genre",
+      "Droits des femmes",
+      "Développement"
     ],
     "pays_eligibles": [
-      "Tous les pays"
+      "Afrique"
     ],
     "age_maximum": null,
-    "langue_requise": "Non spécifiée",
-    "documents_requis": [
-      "Diplômes",
-      "CV",
-      "Lettre de motivation",
-      "Autres documents selon le programme"
-    ],
-    "avantages": [
-      "94 postes financés",
-      "Mobilité internationale de recherche",
-      "Environnement de recherche multidisciplinaire",
-      "Encadrement académique de qualité"
-    ],
+    "langue_requise": null,
+    "documents_requis": [],
+    "avantages": [],
     "eligibilite": [
-      "Ouvert aux candidats de toutes nationalités",
-      "Diplôme requis pour l'admission en doctorat",
-      "Sélection sur titres et examen d'entrée"
+      "Être une organisation de la société civile ou ONG"
     ],
     "procedure_etapes": [
-      "1. Lire attentivement l'appel officiel et les annexes.",
-      "2. Vérifier les conditions d'admission pour le programme choisi.",
-      "3. Préparer tous les documents justificatifs requis.",
-      "4. Soumettre la candidature en ligne via le portail avant le 24 juillet 2026."
+      "1. Créer un profil fournisseur sur le portail UNDP Quantum si ce n'est pas déjà fait.",
+      "2. S'abonner à l'appel d'offres en utilisant le numéro de référence UNDP-ETH-00754.",
+      "3. Soumettre l'offre directement dans le système via le lien http://supplier.quantum.partneragencies.org.",
+      "4. Indiquer l'intention de soumettre une offre en créant une réponse provisoire sans soumettre."
     ],
     "contacts": [
-      "dottorati@unime.it",
-      "090 676 8716 / 8502 / 8286 / 8281 / 8277",
-      "090 676 8716"
+      "info.procurementet@undp.org"
     ],
     "liens_utiles": [
       {
-        "label": "Portail de candidature",
-        "url": "https://unime.esse3.cineca.it/Home.do"
+        "label": "Visitez le site :",
+        "url": "http://supplier.quantum.partneragencies.org"
       },
       {
-        "label": "Appel officiel (bando)",
-        "url": "https://www.unime.it/bandi/bando-di-concorso-pubblico-titoli-ed-esami-lammissione-ai-corsi-di-dottorato-di-ricerca-1"
+        "label": "Guide utilisateur du portail fournisseur",
+        "url": "https://undp.service-now.com/kb_view.do?sysparm_article=KB0014104"
+      },
+      {
+        "label": "Enregistrement fournisseur",
+        "url": "https://estm.fa.em2.oraclecloud.com/fscmUI/redwood/supplier-registration/register-supplier/register-supplier-verification?id=TUW16eK6qsD94MNMxAfJMoYCOHny7FmchTkULY6m3ioPfah13ZhtWEU2Zg%3D%3D"
+      },
+      {
+        "label": "Portail fournisseur",
+        "url": "https://supplier.quantum.partneragencies.org"
+      },
+      {
+        "label": "Ressources pour soumissionnaires UNDP",
+        "url": "https://www.undp.org/procurement/business/resources-for-bidders"
+      },
+      {
+        "label": "Documents de négociation",
+        "url": "https://undp.sharepoint.com/sites/Docs-Public/Procurement/Forms/AllItems.aspx?env=Embedded&isAscending=false&FilterType1=Text&sortField=Modified&FilterField1=NegotiationNumber&FilterValue1=UNDP-ETH-00754"
       }
     ],
     "mots_cles": [
-      "bourse doctorat",
-      "Italie",
-      "Université de Messine",
-      "42e cycle",
-      "2026",
-      "financement complet",
-      "mobilité internationale",
-      "recherche"
+      "appel à propositions",
+      "OSC",
+      "ONG",
+      "Ethiopie",
+      "UNDP",
+      "Spotlight Initiative",
+      "violences femmes",
+      "subvention"
     ],
-    "lien_candidature": "https://unime.esse3.cineca.it/Home.do",
-    "source_url": "https://agristok.net/2026/07/02/94-funded-phd-positions-university-of-messina-italy-2026/",
+    "lien_candidature": "http://supplier.quantum.partneragencies.org",
+    "source_url": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47385&fbclid=IwY2xjawTTnQJleHRuA2FlbQIxMABicmlkETE5WXZWdjJLRVB6WEdjWXU4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpZxdDHTNlpvwEawM-hbf41TEL8w9TGIqnC2ZC_E5Cmm0J7bfDnhkiQ2gC15_aem_VDUTK-s9KHYGXJs2B_8GiA",
     "statut": "ouvert",
-    "resume": "L'Université de Messine en Italie ouvre les candidatures pour son 42e cycle de doctorat avec 94 postes entièrement financés. Ouvert aux candidats du monde entier, ce programme couvre un large éventail de disciplines allant de l'ingénierie à la médecine en passant par les sciences humaines. La sélection se fait sur titres et examen d'entrée, avec une date limite de candidature fixée au 24 juillet 2026. Les doctorants bénéficient d'opportunités de mobilité internationale et d'un environnement de recherche multidisciplinaire.",
-    "adresse": "Piazza Pugliatti, 1  98122 Messina  Italy",
-    "imageUrl": "/docs/Bourses-de-doctorat-PhD-Scholarships.webp",
-    "extrait_le": "2026-07-06T03:57:33",
-    "slug": "bourse-doctorat-messine-italie-2026"
-  },
-  {
-    "titre": "31e Assemblée de la Jeunesse AFS 2026",
-    "seo_slug": "afs-youth-assembly-geneve-2026",
-    "organisation": "AFS Intercultural Programs",
-    "montant": null,
-    "devise": null,
-    "type_financement": "payant",
-    "deadline": "2026-07-24",
-    "deadline_texte": "24 juillet 2026 à 23h59 EST (pour l'inscription Conference-Only au tarif tardif)",
-    "niveau_etudes": [
-      "Tous niveaux"
-    ],
-    "domaines": [
-      "Développement durable",
-      "Affaires internationales",
-      "Climat",
-      "Éducation",
-      "Paix"
-    ],
-    "pays_eligibles": [
-      "Tous pays"
-    ],
-    "age_maximum": 35,
-    "langue_requise": "Anglais (niveau intermédiaire)",
-    "documents_requis": [
-      "Pré-candidature en ligne"
-    ],
-    "avantages": [
-      "Participation à l'événement",
-      "Réseautage mondial",
-      "Certificat de compétence globale (pour les participants aux Académies)"
-    ],
-    "eligibilite": [
-      "Âge : 18-35 ans",
-      "Expérience de leadership ou implication communautaire",
-      "Intérêt pour les affaires mondiales et le développement durable",
-      "Anglais intermédiaire"
-    ],
-    "procedure_etapes": [
-      "1. Choisir le programme (Conference-Only, Académie, ou Délégation)",
-      "2. Remplir la pré-candidature en ligne",
-      "3. Payer les frais d'inscription",
-      "4. Recevoir la confirmation et préparer le voyage"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Programme 2026",
-        "url": "https://www.youthassembly.org/program-2026/"
-      },
-      {
-        "label": "Candidature individuelle",
-        "url": "https://www.youthassembly.org/apply-now/2026-application/"
-      },
-      {
-        "label": "Candidature groupe délégation",
-        "url": "https://www.youthassembly.org/apply-now/2026-delegation-group-application/"
-      },
-      {
-        "label": "Académies",
-        "url": "https://www.youthassembly.org/academies/"
-      },
-      {
-        "label": "Académie UNITAR",
-        "url": "https://www.youthassembly.org/academies/geneva-international-affairs/"
-      },
-      {
-        "label": "FAQ",
-        "url": "https://www.youthassembly.org/faq/"
-      },
-      {
-        "label": "Termes et conditions",
-        "url": "https://www.youthassembly.org/terms-conditions/"
-      },
-      {
-        "label": "Réseau Alumni",
-        "url": "https://www.youthassembly.org/alumni-impact-network/"
-      }
-    ],
-    "mots_cles": [
-      "AFS Youth Assembly",
-      "jeunesse",
-      "Genève",
-      "conférence",
-      "leadership",
-      "développement durable",
-      "réseautage",
-      "2026"
-    ],
-    "lien_candidature": "https://www.youthassembly.org/apply-now/2026-application/",
-    "source_url": "https://www.youthassembly.org/apply-now/?fbclid=IwY2xjawTEcp5leHRuA2FlbQIxMABicmlkETFhWmRaUGNCZTBwSThIdTNMc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv3Uf4MxUn_YcWuzkd5lqT3g8p6MsHHj6ReiNodLfbBNgUeWqfpnQhxiQ2ez_aem_RxYmgXJo6n3cvkYPQ5ybhw",
-    "statut": "ouvert",
-    "resume": "La 31e Assemblée de la Jeunesse AFS se tiendra du 12 au 14 août 2026 à Genève, en Suisse, sur le thème « S'élever. Réimaginer. Reconstruire : Un monde pour tous ». Cet événement rassemble de jeunes leaders du monde entier pour des sessions interactives, des ateliers et des opportunités de réseautage. Les participants peuvent choisir entre la conférence seule, une académie pré-événement (comme l'Académie UNITAR) ou venir en délégation. Les frais d'inscription varient de 325 $ à 595 $ selon la date, et les candidatures sont ouvertes jusqu'au 24 juillet 2026.",
-    "imageUrl": "/docs/Postulez-pour-l_Assembl-e-des-jeunes-de-l_AFS-2026.webp",
-    "extrait_le": "2026-07-15T14:08:25",
-    "slug": "afs-youth-assembly-geneve-2026"
-  },
-  {
-    "titre": "Programme Ireland Fellows 2027/28",
-    "seo_slug": "ireland-fellows-master-irlande-2027",
-    "organisation": "Government of Ireland",
-    "montant": null,
-    "devise": "EUR",
-    "type_financement": "bourse complète",
-    "deadline": "2026-07-26",
-    "deadline_texte": "26 juillet 2026",
-    "niveau_etudes": [
-      "Master"
-    ],
-    "domaines": [
-      "Tous domaines éligibles"
-    ],
-    "pays_eligibles": [
-      "Nigeria",
-      "Ghana",
-      "Autres pays (voir site global)"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "CV",
-      "Lettre de motivation",
-      "Relevés de notes",
-      "Diplômes",
-      "Lettres de recommandation",
-      "Preuve de compétence en anglais"
-    ],
-    "avantages": [
-      "Frais de scolarité complets",
-      "Billet d'avion aller-retour",
-      "Aide au logement",
-      "Allocation mensuelle de subsistance"
-    ],
-    "eligibilite": [
-      "Être ressortissant et résident d'un pays éligible",
-      "Avoir un diplôme de premier cycle",
-      "Avoir au moins 2 ans d'expérience professionnelle",
-      "Démontrer un potentiel de leadership",
-      "S'engager à retourner dans son pays d'origine après les études"
-    ],
-    "procedure_etapes": [
-      "1. Consulter la page de candidature de son pays",
-      "2. Lire le guide de candidature",
-      "3. Soumettre la candidature de l'étape 1",
-      "4. Attendre la présélection",
-      "5. Si présélectionné, passer à l'étape 2 (candidature détaillée)",
-      "6. Si retenu, participer à l'étape 3 (entretien)"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Page Nigeria",
-        "url": "https://irelandfellows.africa/nigeria"
-      },
-      {
-        "label": "Page Ghana",
-        "url": "https://irelandfellows.africa/ghana"
-      },
-      {
-        "label": "Site global IFP",
-        "url": "https://www.ireland.ie/en/ireland-fellows-programme/applying-for-the-ireland-fellows-programme/"
-      },
-      {
-        "label": "FAQ",
-        "url": "https://irelandfellows.africa/faqs"
-      },
-      {
-        "label": "Guide de candidature Nigeria",
-        "url": "https://irelandfellows.africa/nigeria/guide"
-      },
-      {
-        "label": "Guide de candidature Ghana",
-        "url": "https://irelandfellows.africa/ghana/guide"
-      }
-    ],
-    "mots_cles": [
-      "bourse irlande",
-      "master irlande",
-      "bourse gouvernement irlandais",
-      "bourse leadership",
-      "bourse afrique"
-    ],
-    "lien_candidature": "https://irelandfellows.africa/eligible-programmes",
-    "source_url": "https://irelandfellows.africa/eligible-programmes",
-    "statut": "ouvert",
-    "resume": "Le Programme Ireland Fellows 2027/28 est une bourse entièrement financée du gouvernement irlandais pour des professionnels africains souhaitant poursuivre un master dans une université irlandaise. Il couvre les frais de scolarité, le voyage, le logement et une allocation mensuelle. Les candidatures sont ouvertes jusqu'au 26 juillet 2026 pour les ressortissants du Nigeria et du Ghana, et d'autres pays peuvent postuler via le site global.",
-    "imageUrl": null,
-    "extrait_le": "2026-07-15T14:41:24",
-    "slug": "ireland-fellows-master-irlande-2027"
+    "resume": "Le PNUD lance un appel à propositions pour des organisations de la société civile ou ONG dans le cadre du Programme régional africain Spotlight Initiative 2.0 pour mettre fin aux violences faites aux femmes et aux filles. Les candidatures doivent être soumises via le portail fournisseur UNDP Quantum avant le 29 juillet 2026. Les organisations intéressées doivent s'enregistrer et soumettre leur offre en ligne.",
+    "imageUrl": "/docs/Appel---propositions---Organisations-de-la-soci-t--civile-_OSC_-ou-ONG.webp",
+    "extrait_le": "2026-07-27T02:13:21",
+    "slug": "appel-propositions-osc-ethiopie-2026"
   },
   {
     "titre": "Bourse Rhodes 2027 pour des études supérieures à l'Université d'Oxford",
@@ -1880,6 +1275,135 @@
     "slug": "conseil-youthled-unodc-2026-2028"
   },
   {
+    "titre": "Appel à candidatures pour l'admission aux programmes de doctorat, 42e cycle, année académique 2026/2027",
+    "seo_slug": "bourse-doctorat-unitus-italie-2026",
+    "organisation": "Università degli Studi della Tuscia (UNITUS)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-08-18",
+    "deadline_texte": "18 août 2026 à 14h00 (CEST)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Écologie et gestion durable des ressources environnementales",
+      "Économie, gestion et méthodes quantitatives",
+      "Ingénierie pour l'énergie et l'environnement",
+      "Systèmes juridiques, protection des droits et intégration européenne",
+      "Sciences végétales et animales",
+      "Histoire et patrimoine culturel",
+      "Science, technologie et biotechnologie pour la durabilité",
+      "Société en mutation : politiques, droits et sécurité",
+      "Welfare, diversité et études de genre"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Projet de recherche (selon modèle)",
+      "Reçu de paiement des frais de candidature",
+      "Pièce d'identité",
+      "Diplômes et relevés de notes",
+      "CV",
+      "Lettre de motivation",
+      "Lettres de recommandation (selon programme)"
+    ],
+    "avantages": [
+      "Bourse de doctorat (montant non spécifié)",
+      "Prise en charge des frais de séjour à l'étranger (selon programme)"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un diplôme de master ou équivalent",
+      "Compétences linguistiques en anglais",
+      "Répondre aux exigences spécifiques du programme de doctorat choisi"
+    ],
+    "procedure_etapes": [
+      "1. Consulter l'appel à candidatures et la fiche d'information du programme choisi",
+      "2. Préparer les documents requis, dont le projet de recherche selon le modèle approprié",
+      "3. Payer les frais de candidature via PagoPA ou virement bancaire",
+      "4. Soumettre la candidature en ligne avant la date limite",
+      "5. Envoyer le reçu de paiement par email à dottorati@unitus.it (si virement)"
+    ],
+    "contacts": [
+      "dottorati@unitus.it"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Appel à candidatures (PDF)",
+        "url": "https://www.unitus.it/wp-content/uploads/2026/07/Bando-dottorati-42-ciclo-versione-EN-2026-signed-prot.pdf"
+      },
+      {
+        "label": "Fiche programme - Écologie et gestion durable des ressources environnementales",
+        "url": "https://www.unitus.it/wp-content/uploads/2026/07/2.-Scheda_EGSR_XLII_ciclo-EN_def.pdf"
+      },
+      {
+        "label": "Fiche programme - Économie, gestion et méthodes quantitatives",
+        "url": "https://www.unitus.it/wp-content/uploads/2026/07/3.-Scheda-EMMQ_ENG_42_DEF.pdf"
+      },
+      {
+        "label": "Fiche programme - Ingénierie pour l'énergie et l'environnement",
+        "url": "https://www.unitus.it/wp-content/uploads/2026/07/4.-Errata-corrige-Scheda-EEE-inglese-42-ciclo.pdf"
+      },
+      {
+        "label": "Fiche programme - Systèmes juridiques, protection des droits et intégration européenne",
+        "url": "https://www.unitus.it/wp-content/uploads/2026/07/1.-Scheda-SGTDIE-42-ciclo-EN.pdf"
+      },
+      {
+        "label": "Fiche programme - Sciences végétales et animales",
+        "url": "https://www.unitus.it/wp-content/uploads/2026/07/5.-RM_Scheda_PhD-SPVA_42_cycle_EN.pdf"
+      },
+      {
+        "label": "Fiche programme - Histoire et patrimoine culturel",
+        "url": "https://www.unitus.it/wp-content/uploads/2026/07/6.-Scheda_SSBC_42_-ciclo_EN-rev.pdf"
+      },
+      {
+        "label": "Fiche programme - Science, technologie et biotechnologie pour la durabilité",
+        "url": "https://www.unitus.it/wp-content/uploads/2026/07/5.-RM_Scheda_PhD-SPVA_42_cycle_EN-1.pdf"
+      },
+      {
+        "label": "Fiche programme - Société en mutation : politiques, droits et sécurité",
+        "url": "https://www.unitus.it/wp-content/uploads/2026/07/8.-Scheda_SMPDS_42_cycle_EN.pdf"
+      },
+      {
+        "label": "Fiche programme - Welfare, diversité et études de genre",
+        "url": "https://www.unitus.it/wp-content/uploads/2026/07/9.-Scheda_WDGS_42_ciclo_inglese_last.pdf"
+      },
+      {
+        "label": "Modèle de projet de recherche - Bourse thématique",
+        "url": "https://www.unitus.it/wp-content/uploads/2026/07/Modello-progetto-di-ricerca-tematica-vincolata-42-ciclo_A.doc"
+      },
+      {
+        "label": "Modèle de projet de recherche - Bourse libre",
+        "url": "https://www.unitus.it/wp-content/uploads/2026/07/Modello-progetto-di-ricerca-tematica-non_vincolata-altri-fondi-42-ciclo-1-1-1.docx"
+      },
+      {
+        "label": "Modèle de projet de recherche - Position sans bourse",
+        "url": "https://www.unitus.it/wp-content/uploads/2026/07/Modello-progetto-di-ricerca-tematica-pos-senza-borsa-42-ciclo-1-1.docx"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat Italie",
+      "doctorat UNITUS",
+      "bourse 42e cycle",
+      "admission doctorat 2026",
+      "bourse université Tuscia",
+      "PhD Italie bourse",
+      "programme doctorat Italie"
+    ],
+    "lien_candidature": "https://www.unitus.it/en/post-graduation/phd-opportunities/phd-admission/bandi-ciclo-xlii/",
+    "source_url": "https://www.unitus.it/en/post-graduation/phd-opportunities/phd-admission/bandi-ciclo-xlii/?fbclid=IwY2xjawTTmctleHRuA2FlbQIxMABicmlkETE5WXZWdjJLRVB6WEdjWXU4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpZxdDHTNlpvwEawM-hbf41TEL8w9TGIqnC2ZC_E5Cmm0J7bfDnhkiQ2gC15_aem_VDUTK-s9KHYGXJs2B_8GiA",
+    "statut": "ouvert",
+    "resume": "L'Université de Tuscia (UNITUS) lance son appel à candidatures pour les programmes de doctorat du 42e cycle, année académique 2026/2027. Neuf programmes sont proposés dans des domaines variés comme l'écologie, l'économie, l'ingénierie, le droit, l'histoire et les études de genre. Les candidats du monde entier peuvent postuler avant le 18 août 2026. Les bourses couvrent les frais de scolarité et offrent un soutien financier pour la recherche.",
+    "adresse": "Università degli Studi della Tuscia Rettorato, Via S.M. in Gradi n.4, 01100 Viterbo, ITALY. Tel. 0761.3571 – Numero verde 800 007464 C.F. 80029030568 – P.IVA 00575560560",
+    "imageUrl": "/docs/Bandi-ciclo-XLII.webp",
+    "extrait_le": "2026-07-27T02:03:40",
+    "slug": "bourse-doctorat-unitus-italie-2026"
+  },
+  {
     "titre": "Bourses CYD - Programme de talents pour la recherche en cyberdéfense",
     "seo_slug": "bourses-cyd-cyberdefense-suisse-2026",
     "organisation": "EPFL et Cyber-Defence (CYD) Campus",
@@ -2093,6 +1617,89 @@
     "imageUrl": "/docs/McCall-MacBain-bourse-d-etude-de-l-universit-s.jpg",
     "extrait_le": "2026-07-06T04:37:57",
     "slug": "bourse-mccall-macbain-mcgill-2027"
+  },
+  {
+    "titre": "Programme de bourses Mastercard Foundation à l'Université du Rwanda",
+    "seo_slug": "bourse-mastercard-rwanda-master-2026",
+    "organisation": "Mastercard Foundation",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-08-22",
+    "deadline_texte": "22 août 2026 à 23h59 (heure d'Afrique centrale)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "STEM",
+      "Sciences",
+      "Technologie",
+      "Ingénierie",
+      "Mathématiques"
+    ],
+    "pays_eligibles": [
+      "Rwanda",
+      "Afrique"
+    ],
+    "age_maximum": 45,
+    "langue_requise": "Non spécifié",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Pièces justificatives (format PDF, moins de 250 Ko)"
+    ],
+    "avantages": [
+      "Frais de scolarité complets",
+      "Ordinateur portable",
+      "Matériel pédagogique",
+      "Billet d'avion aller-retour annuel",
+      "Allocation mensuelle",
+      "Soutien psychosocial",
+      "Stages",
+      "Mentorat académique et professionnel"
+    ],
+    "eligibilite": [
+      "Avoir postulé à l'admission à l'Université du Rwanda pour la rentrée de septembre 2026 (programmes de 2 ans)",
+      "80% des places réservées aux filières STEM",
+      "Priorité : 70% femmes, 25% réfugiés certifiés, 10% personnes en situation de handicap",
+      "Ne pas être déjà inscrit dans un autre établissement",
+      "Licence dans un domaine lié au Master visé",
+      "Nationalité rwandaise ou africaine (réfugiés certifiés par HCR, MINEMA ou autre)",
+      "Âge max : 40 ans hommes, 45 ans femmes",
+      "Besoins sociaux/économiques critiques et/ou handicap",
+      "Engagement en leadership et action communautaire"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à l'admission à l'Université du Rwanda pour septembre 2026",
+      "2. Remplir le formulaire en ligne sur https://mcfsprecruitment.ur.ac.rw/",
+      "3. Joindre tous les documents justificatifs requis (PDF, moins de 250 Ko, nommés avec le nom du candidat)",
+      "4. Cliquer sur 'Submit' une fois tous les champs et pièces jointes complétés"
+    ],
+    "contacts": [
+      "e.kamanzi@ur.ac.rw",
+      "registrar@ur.ac.rw",
+      "j.b.mugiraneza@ur.ac.rw",
+      "o.muvandimwe@ur.ac.rw"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://mcfsprecruitment.ur.ac.rw/"
+      }
+    ],
+    "mots_cles": [
+      "bourse mastercard foundation",
+      "bourse rwanda master",
+      "bourse africaine master",
+      "bourse stem afrique",
+      "bourse réfugié master"
+    ],
+    "lien_candidature": "https://mcfsprecruitment.ur.ac.rw/",
+    "source_url": "manuel",
+    "statut": "ouvert",
+    "resume": "Le programme de bourses Mastercard Foundation à l'Université du Rwanda offre 30 bourses complètes de Master pour l'année académique 2026-2027, destinées aux jeunes Africains talentueux mais économiquement défavorisés, avec une priorité aux femmes, réfugiés et personnes handicapées. Les candidats doivent déjà avoir postulé à l'admission à l'Université du Rwanda et remplir les critères d'éligibilité. La date limite de candidature est le 22 août 2026.",
+    "imageUrl": "/docs/Recrutement-en-ligne-des-tudiants-de-troisi-me-cycle.webp",
+    "extrait_le": "2026-07-27T03:26:29",
+    "slug": "bourse-mastercard-rwanda-master-2026"
   },
   {
     "titre": "Bourse ER.GO pour l'année académique 2026/2027",
@@ -3888,6 +3495,84 @@
     "slug": "bourse-recherche-melbourne-2026"
   },
   {
+    "titre": "Bourses d'études internationales Lester B. Pearson",
+    "seo_slug": "bourse-pearson-international-2027",
+    "organisation": "University of Toronto",
+    "montant": null,
+    "devise": "CAD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-06",
+    "deadline_texte": "6 novembre 2026",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays sauf Canada"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Dossier de candidature à l'admission",
+      "Lettre de nomination de l'école"
+    ],
+    "avantages": [
+      "Frais de scolarité",
+      "Livres",
+      "Frais accessoires",
+      "Résidence complète pendant 4 ans"
+    ],
+    "eligibilite": [
+      "Être un étudiant international (non canadien nécessitant un permis d'études)",
+      "Être en dernière année d'études secondaires en 2026/2027 ou diplômé au plus tôt en juin 2026",
+      "Commencer ses études à l'Université de Toronto en septembre 2027",
+      "Ne pas être déjà inscrit dans un programme postsecondaire",
+      "Ne pas commencer ses études postsecondaires en janvier 2027"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier votre éligibilité (étudiant international, dernière année secondaire, début des études en septembre 2027).",
+      "2. Demander à votre école secondaire de vous nommer (la nomination doit être soumise par l'école entre le 6 juillet et le 9 octobre 2026).",
+      "3. Soumettre une demande d'admission à au moins un programme de premier cycle à l'Université de Toronto avant le 16 octobre 2026.",
+      "4. Après avoir été nommé et avoir soumis votre demande d'admission, vous recevrez un lien privé pour remplir le formulaire de candidature à la bourse Pearson avant le 6 novembre 2026."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de participation pour les écoles",
+        "url": "https://apply.adm.utoronto.ca/register/pearson-participate"
+      },
+      {
+        "label": "Formulaire de demande de renseignements",
+        "url": "https://apply.adm.utoronto.ca/register/pearson-inquiry"
+      },
+      {
+        "label": "Bureau du programme Pearson",
+        "url": "https://internationalexperience.utoronto.ca/global-experiences/global-scholarships/lester-b-pearson-scholarship"
+      },
+      {
+        "label": "Site sur l'intégrité académique",
+        "url": "https://www.academicintegrity.utoronto.ca/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Pearson",
+      "bourse internationale Canada",
+      "bourse Université de Toronto",
+      "bourse premier cycle",
+      "bourse complète 4 ans"
+    ],
+    "lien_candidature": "https://future.utoronto.ca/pearson-scholarships?fbclid=IwY2xjawTTn81leHRuA2FlbQIxMABicmlkETE5WXZWdjJLRVB6WEdjWXU4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpZxdDHTNlpvwEawM-hbf41TEL8w9TGIqnC2ZC_E5Cmm0J7bfDnhkiQ2gC15_aem_VDUTK-s9KHYGXJs2B_8GiA#about",
+    "source_url": "https://future.utoronto.ca/pearson-scholarships?fbclid=IwY2xjawTTn81leHRuA2FlbQIxMABicmlkETE5WXZWdjJLRVB6WEdjWXU4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpZxdDHTNlpvwEawM-hbf41TEL8w9TGIqnC2ZC_E5Cmm0J7bfDnhkiQ2gC15_aem_VDUTK-s9KHYGXJs2B_8GiA#about",
+    "statut": "ouvert",
+    "resume": "La bourse Lester B. Pearson est la bourse la plus prestigieuse de l'Université de Toronto pour les étudiants internationaux. Elle offre une prise en charge complète des frais de scolarité, des livres, des frais accessoires et de la résidence pendant quatre ans. Environ 37 boursiers sont sélectionnés chaque année parmi les candidats nommés par leur école secondaire.",
+    "imageUrl": "/docs/Bourses-d_-tudes-internationales-Lester-B.-Pearson.webp",
+    "extrait_le": "2026-07-27T02:29:10",
+    "slug": "bourse-pearson-international-2027"
+  },
+  {
     "titre": "Master en ligne de l'Université de Salford - 1 an - 100% en ligne",
     "seo_slug": "master-en-ligne-salford-1-an",
     "organisation": "University of Salford",
@@ -4615,73 +4300,6 @@
     "resume": "L'Université de Tasmanie propose des bourses de recherche pour les étudiants de master et doctorat. Les candidats doivent trouver un projet et un superviseur, puis soumettre une proposition de recherche. Les bourses incluent une allocation de subsistance et une exonération des frais de scolarité. Les candidatures sont ouvertes toute l'année avec des dates limites spécifiques selon les projets.",
     "extrait_le": "2026-06-15T03:27:30",
     "slug": "bourse-recherche-tasmanie-2026"
-  },
-  {
-    "titre": "Programme Spark Change-makers (UE-Ghana) pour les OSC et entreprises sociales dirigées par des jeunes",
-    "seo_slug": "spark-change-makers-ghana-osc-jeunes",
-    "organisation": "SOS Children's Villages Ghana",
-    "montant": null,
-    "devise": null,
-    "type_financement": "subvention et renforcement de capacités",
-    "deadline": null,
-    "deadline_texte": "Non spécifiée dans le texte",
-    "niveau_etudes": [],
-    "domaines": [
-      "Technologie numérique",
-      "Autonomisation des jeunes et des femmes",
-      "Industries culturelles et créatives",
-      "Agriculture et protection de l'environnement",
-      "Paix et sécurité"
-    ],
-    "pays_eligibles": [
-      "Ghana"
-    ],
-    "age_maximum": 35,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Preuve d'impact (rapports d'activité, rapports de projet, contenu numérique daté des 12 derniers mois)",
-      "Documents de programme des 12 derniers mois (combinés en un seul PDF)"
-    ],
-    "avantages": [
-      "Renforcement de capacités (formation, mentorat)",
-      "Possibilité de subvention pour les organisations éligibles"
-    ],
-    "eligibilite": [
-      "Être une OSC ou entreprise sociale dirigée par des jeunes ou axée sur les jeunes",
-      "Opérer dans l'une des six régions de mise en œuvre : Greater Accra, Ashanti, Volta, Northern, Western, Upper East",
-      "Démontrer un engagement communautaire",
-      "Engagement en faveur de l'inclusion",
-      "Engagement en faveur de la durabilité et de solutions respectueuses de l'environnement",
-      "Pour les OSC : le PDG/directeur exécutif doit être âgé de 18 à 35 ans, OU la majorité de la direction doit être âgée de 18 à 35 ans, OU la mission principale de l'organisation et au moins 80 % de ses activités doivent bénéficier directement aux jeunes de 18 à 35 ans"
-    ],
-    "procedure_etapes": [
-      "1. Remplir le formulaire de candidature en ligne",
-      "2. Télécharger les documents requis (preuve d'impact et documents de programme)",
-      "3. Soumettre la candidature avant la date limite"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://ee.kobotoolbox.org/x/6DSdSPYK?fbclid=IwY2xjawTHsiBleHRuA2FlbQIxMABicmlkETFaZTJCSlk3UWU0Y3dEdTh5c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrtAPN6dhRUYxKjcnc8OWokg4oxXle8fWTtw1Fc4-06QWRU2M5VI0gu7JYRw_aem_YYywzA4XSuDuFaC1658Ixg"
-      }
-    ],
-    "mots_cles": [
-      "bourse ghana",
-      "subvention jeunes",
-      "OSC ghana",
-      "entreprises sociales",
-      "renforcement capacités",
-      "ue ghana",
-      "spark change makers"
-    ],
-    "lien_candidature": "",
-    "source_url": "manuel",
-    "statut": "ouvert",
-    "resume": "Le programme Spark Change-makers, cofinancé par l'Union européenne et mis en œuvre par SOS Children's Villages Ghana et ses partenaires, vise à autonomiser les jeunes de 18 à 35 ans au Ghana en renforçant les capacités des OSC et entreprises sociales dirigées par des jeunes. Les organisations éligibles opérant dans six régions (Greater Accra, Ashanti, Volta, Northern, Western, Upper East) peuvent postuler pour une phase de renforcement de capacités, avec possibilité d'obtenir une subvention. Le programme cible cinq domaines thématiques : technologie numérique, autonomisation des jeunes et des femmes, industries culturelles et créatives, agriculture et protection de l'environnement, paix et sécurité.",
-    "imageUrl": null,
-    "extrait_le": "2026-07-18T01:54:51",
-    "slug": "spark-change-makers-ghana-osc-jeunes"
   },
   {
     "titre": "Programme de Bourses Karsh International",
@@ -7095,6 +6713,398 @@
     "imageUrl": null,
     "extrait_le": "2026-07-15T13:47:50",
     "slug": "bourse-ecriture-miles-morland-2026"
+  },
+  {
+    "titre": "Bourse d'excellence mondiale",
+    "seo_slug": "bourse-excellence-mondiale-uwa-2026",
+    "organisation": "University of Western Australia",
+    "montant": 48000,
+    "devise": "AUD",
+    "type_financement": "bourse partielle (frais de scolarité)",
+    "deadline": null,
+    "deadline_texte": "Aucune date limite spécifique ; la bourse est attribuée automatiquement lors de l'admission.",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Tous domaines éligibles"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Relevés de notes finaux",
+      "Demande d'admission au cours"
+    ],
+    "avantages": [
+      "Réduction annuelle des frais de scolarité jusqu'à 12 000 AUD pour les licences",
+      "Réduction annuelle des frais de scolarité jusqu'à 12 000 AUD pour les masters",
+      "Valeur totale jusqu'à 48 000 AUD sur 4 ans pour les licences",
+      "Valeur totale jusqu'à 24 000 AUD sur 2 ans pour les masters"
+    ],
+    "eligibilite": [
+      "Être un étudiant international",
+      "Avoir reçu une offre pour un cours de licence ou master éligible en 2026 à l'UWA",
+      "Avoir un équivalent ATAR minimum de 85,00 (licence) ou WAM minimum de 65,00 (master)",
+      "Pour les voies d'accès internationales approuvées, WAM équivalent supérieur à 75,00",
+      "Ne pas être inscrit dans les programmes exclus (Médecine, Médecine dentaire, Juris Doctor, etc.)"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un cours de licence ou master éligible à l'UWA pour 2026.",
+      "2. Fournir les relevés de notes finaux.",
+      "3. L'équipe des admissions évalue automatiquement l'éligibilité à la bourse.",
+      "4. Si éligible, la bourse est déduite des frais de scolarité chaque semestre."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Conditions générales complètes (PDF 201KB)",
+        "url": "https://www.assethub.uwa.edu.au/api/public/content/f7eed28c3dfb4ff69c6ec6c8928161b5?v=0db744e2"
+      },
+      {
+        "label": "Conditions générales complètes (PDF 290KB)",
+        "url": "https://www.assethub.uwa.edu.au/api/public/content/f7eed28c3dfb4ff69c6ec6c8928161b5?v=2cd3adcf"
+      },
+      {
+        "label": "Conversions des qualifications internationales",
+        "url": "https://www.uwa.edu.au/study/how-to-apply/pathways-and-eligibility/international-and-overseas-qualifications"
+      },
+      {
+        "label": "Candidature en ligne",
+        "url": "https://www.uwa.edu.au/study/login"
+      }
+    ],
+    "mots_cles": [
+      "bourse excellence",
+      "UWA",
+      "Australie",
+      "licence",
+      "master",
+      "international",
+      "2026",
+      "frais scolarité",
+      "ATAR",
+      "WAM"
+    ],
+    "lien_candidature": "https://www.uwa.edu.au/study/login",
+    "source_url": "https://www.uwa.edu.au/study/scholarships-and-fees/scholarships/international-scholarships/global-excellence-scholarship?utm_id=97758_v0_s00_e0_tv2_a1den5f08gvbpa&fbclid=IwY2xjawTToYtleHRuA2FlbQIxMABicmlkETE5WXZWdjJLRVB6WEdjWXU4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnHS6HING681TCqbGvyRU2cllSUuivRv-D1tIxE1uz3hhQb8mV9D0Dt7Ac5y_aem_3t4ppBDBTHh3i1mWLKv3tQ",
+    "statut": "ouvert",
+    "resume": "La Bourse d'excellence mondiale de l'Université d'Australie-Occidentale (UWA) récompense les étudiants internationaux brillants pour des études de licence ou master en 2026. D'une valeur allant jusqu'à 48 000 AUD sur quatre ans pour les licences et 24 000 AUD sur deux ans pour les masters, elle est attribuée automatiquement en fonction des résultats académiques (ATAR ou WAM). Aucune candidature séparée n'est requise : postulez simplement à un cours éligible et fournissez vos relevés de notes finaux.",
+    "imageUrl": "/docs/Global-Excellence-Scholarship.webp",
+    "extrait_le": "2026-07-27T02:34:39",
+    "slug": "bourse-excellence-mondiale-uwa-2026"
+  },
+  {
+    "titre": "Bourses de recherche de l'Université Bond",
+    "seo_slug": "bourse-recherche-bond-universite-2026",
+    "organisation": "Bond University",
+    "montant": 34315,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Date limite non spécifiée dans le texte",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les domaines de recherche"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Proposition de projet de recherche",
+      "Relevés de notes académiques",
+      "Curriculum vitae incluant publications et présentations",
+      "Preuves de prix ou certificats",
+      "Noms et coordonnées de deux référents",
+      "Preuve de statut aborigène ou insulaire du détroit de Torres (pour la bourse HDR Indigenous)"
+    ],
+    "avantages": [
+      "Bourse de subsistance de 34 315 AUD par an",
+      "Exonération des frais de scolarité (RTP Fees Offset)",
+      "Prise en charge des frais de scolarité pour les étudiants internationaux (partielle)"
+    ],
+    "eligibilite": [
+      "Être inscrit en doctorat (PhD ou Doctorat professionnel en ergothérapie)",
+      "Avoir soumis une demande d'admission à Bond University",
+      "Étudier à temps plein",
+      "Ne pas avoir reçu une bourse équivalente du gouvernement australien",
+      "Pour la bourse HDR Indigenous : être aborigène ou insulaire du détroit de Torres"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre une demande d'admission à un programme doctoral éligible",
+      "2. Remplir le formulaire de candidature en ligne pour la bourse HDR",
+      "3. Joindre tous les documents requis",
+      "4. Soumettre avant la date limite de la session"
+    ],
+    "contacts": [
+      "hdr@bond.edu.au"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page des frais et bourses",
+        "url": "https://bond.edu.au/research/research-degrees/fees-and-scholarships"
+      },
+      {
+        "label": "Options d'aide aux frais pour étudiants domestiques",
+        "url": "https://bond.edu.au/fees-and-finance-options/domestic-student-fee-information"
+      },
+      {
+        "label": "Options d'aide aux frais pour étudiants internationaux",
+        "url": "https://bond.edu.au/fees-and-finance-options/international-student-fee-information"
+      },
+      {
+        "label": "Commonwealth Scholarship Guidelines (Research) 2017",
+        "url": "https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.legislation.gov.au%2FDetails%2FF2016L01602&data=05%7C01%7Clroux%40bond.edu.au%7C9e3c226e4481461dd86608dbbd814d9e%7Cfeaef26082c949b09550e0b702e6b36b%7C1%7C0%7C638312135282665454%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=kgDoEfP%2Bnm6c0WPfM6E7j7UnLrkzo3GlQZiY0qbtA98%3D&reserved=0"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat",
+      "bourse recherche",
+      "Bond University",
+      "Australie",
+      "bourse subsistance",
+      "RTP",
+      "HDR",
+      "étudiants internationaux"
+    ],
+    "lien_candidature": "https://bond.edu.au/research/research-degrees/fees-and-scholarships",
+    "source_url": "https://bond.edu.au/research/research-degrees/fees-and-scholarships?utm_id=97758_v0_s00_e0_tv1_a1den5f08gvbpa&fbclid=IwY2xjawTTqoRleHRuA2FlbQIxMABicmlkETE5WXZWdjJLRVB6WEdjWXU4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHr857E4sah6BjO0wIs-2d3Fy4w-vhFProowAw-m9Rd0Szy9MWvCLg-Kusy-V_aem_wq50BNV6orxJUMAnH9lNpw",
+    "statut": "ouvert",
+    "resume": "L'Université Bond propose plusieurs bourses de recherche pour les étudiants en doctorat, dont la Bond University Postgraduate Research Scholarship et la bourse RTP du gouvernement australien. Les bourses offrent une allocation de subsistance de 34 315 AUD par an et une exonération des frais de scolarité. Les candidats doivent être admis dans un programme doctoral et démontrer un excellent dossier académique. Les étudiants aborigènes et insulaires du détroit de Torres peuvent également postuler à la bourse HDR Indigenous.",
+    "imageUrl": "/docs/Les-candidatures-aux-bourses-HDR-seront-ouvertes-partir-du-1er-ao-t-2026.webp",
+    "extrait_le": "2026-07-27T03:10:16",
+    "slug": "bourse-recherche-bond-universite-2026"
+  },
+  {
+    "titre": "Bourses Globales du Collège des Sciences et de l'Ingénierie de l'Université de Galway",
+    "seo_slug": "bourse-universite-galway-sciences-ingenierie-2026",
+    "organisation": "University of Galway",
+    "montant": 5000,
+    "devise": "EUR",
+    "type_financement": "bourse partielle",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Sciences biologiques et chimiques",
+      "Sciences et ingénierie"
+    ],
+    "pays_eligibles": [
+      "Tous pays",
+      "États-Unis (pour IDEA Scholarship)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Relevé de notes",
+      "Lettre de motivation",
+      "CV"
+    ],
+    "avantages": [
+      "Bourse de 5 000 € par an (Licence)",
+      "Bourse d'excellence de 10 000 € par an (Licence)",
+      "Bourse de mérite de 2 000 € (Master)",
+      "Bourse d'excellence de 10 000 € (Master)",
+      "IDEA Scholarship : 15% de réduction sur les frais de scolarité (USA)"
+    ],
+    "eligibilite": [
+      "Être admis dans un programme éligible",
+      "Pour IDEA Scholarship : être référé par IDEA (Philadelphie) et le mentionner sur le formulaire"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un programme éligible",
+      "2. Être admis",
+      "3. Les candidats éligibles sont automatiquement considérés",
+      "4. Notification après réception de l'offre"
+    ],
+    "contacts": [
+      "+353 91 524411"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page officielle des bourses",
+        "url": "https://www.universityofgalway.ie/global-galway/globalscholarships/collegeofscienceandengineeringglobalscholarships/"
+      }
+    ],
+    "mots_cles": [
+      "bourse université galway",
+      "bourse sciences ingénierie",
+      "bourse licence master irlande",
+      "bourse galway 2026",
+      "bourse internationale irlande"
+    ],
+    "lien_candidature": "https://www.universityofgalway.ie/global-galway/globalscholarships/collegeofscienceandengineeringglobalscholarships/",
+    "source_url": "https://www.universityofgalway.ie/global-galway/globalscholarships/collegeofscienceandengineeringglobalscholarships/?fbclid=IwY2xjawTTq1hleHRuA2FlbQIxMABicmlkETE5WXZWdjJLRVB6WEdjWXU4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHuAe6arPUV_WCL6U6hCW-RuiP6C9ZCqmXRyChxwSbNVyFy7pUAl9dli49aZj_aem_KYY3mqmtrV2b3mPqALjo6w",
+    "statut": "ouvert",
+    "resume": "L'Université de Galway propose des bourses pour les étudiants internationaux en Licence et Master au sein du Collège des Sciences et de l'Ingénierie. Les bourses de Licence vont de 5 000 € par an à une bourse d'excellence de 10 000 € par an, tandis que les Masters bénéficient de 2 000 € de mérite ou 10 000 € d'excellence. Une bourse IDEA spécifique aux États-Unis offre 15% de réduction sur les frais de scolarité. Les candidats sont automatiquement considérés après admission.",
+    "adresse": "Université de Galway, University Road, Galway, Irlande H91 TK33",
+    "imageUrl": "/docs/Bourses-d-tudes-internationales-du-Coll-ge-des-sciences-et-de-l-ing-nierie.jpg",
+    "extrait_le": "2026-07-27T03:13:27",
+    "slug": "bourse-universite-galway-sciences-ingenierie-2026"
+  },
+  {
+    "titre": "Bourse d'excellence du Vice-Chancelier pour étudiants internationaux",
+    "seo_slug": "bourse-vice-chancelier-international-waikato-2026",
+    "organisation": "University of Waikato",
+    "montant": 15000,
+    "devise": "NZD",
+    "type_financement": "bourse partielle",
+    "deadline": null,
+    "deadline_texte": "Les candidatures sont examinées mensuellement. Dates limites selon le trimestre : 30 novembre (trimestre A), 31 mai (trimestre B), 31 août (trimestre C), 31 octobre (trimestre H ou X).",
+    "niveau_etudes": [
+      "Undergraduate",
+      "Postgraduate (Taught)"
+    ],
+    "domaines": [
+      "Arts",
+      "Business & Management",
+      "Computer Science",
+      "Mathematics",
+      "Education",
+      "Health",
+      "Engineering",
+      "Law",
+      "Māori & Indigenous Studies",
+      "Science",
+      "Social Sciences"
+    ],
+    "pays_eligibles": [
+      "Tous les pays sauf Nouvelle-Zélande et Australie"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Candidature en ligne via MyWaikato",
+      "Demande d'inscription à l'université"
+    ],
+    "avantages": [
+      "Jusqu'à 15 000 NZD vers les frais de scolarité"
+    ],
+    "eligibilite": [
+      "Étudiant international",
+      "Première inscription à l'Université de Waikato",
+      "Excellent dossier académique"
+    ],
+    "procedure_etapes": [
+      "1. Lire le règlement (PDF).",
+      "2. Si nouveau, compléter une demande d'inscription à l'université.",
+      "3. Se connecter à MyWaikato, cliquer sur l'onglet 'Scholarships' et postuler."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Règlement (PDF)",
+        "url": "https://www.waikato.ac.nz/assets/Uploads/VCIES-2026-all-other-countries-v2.pdf"
+      },
+      {
+        "label": "Demande d'inscription",
+        "url": "https://www.waikato.ac.nz/int/study/apply/"
+      },
+      {
+        "label": "Portail MyWaikato",
+        "url": "https://my.waikato.ac.nz/sitsvision/wrd/siw_lgn"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "excellence",
+      "vice-chancelier",
+      "international",
+      "Waikato",
+      "Nouvelle-Zélande",
+      "undergraduate",
+      "postgraduate"
+    ],
+    "lien_candidature": "https://my.waikato.ac.nz/sitsvision/wrd/siw_lgn",
+    "source_url": "https://www.waikato.ac.nz/int/study/scholarships/find-a-scholarship/vice-chancellors-international-excellence-scholarship/?fbclid=IwY2xjawTTrBFleHRuA2FlbQIxMABicmlkETE5WXZWdjJLRVB6WEdjWXU4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpZxdDHTNlpvwEawM-hbf41TEL8w9TGIqnC2ZC_E5Cmm0J7bfDnhkiQ2gC15_aem_VDUTK-s9KHYGXJs2B_8GiA",
+    "statut": "ouvert",
+    "resume": "La Bourse d'excellence du Vice-Chancelier de l'Université de Waikato offre jusqu'à 15 000 NZD aux étudiants internationaux talentueux s'inscrivant pour la première fois en premier cycle ou en master. Les candidatures sont examinées mensuellement, avec des dates limites selon le trimestre. Les domaines d'études sont vastes, incluant arts, commerce, sciences, ingénierie, droit et plus.",
+    "imageUrl": "/docs/Bourse-d-excellence-internationale-du-vice-chancelier.webp",
+    "extrait_le": "2026-07-27T03:16:51",
+    "slug": "bourse-vice-chancelier-international-waikato-2026"
+  },
+  {
+    "titre": "Bourse de mérite pour étudiants internationaux de premier cycle - Université Zayed",
+    "seo_slug": "bourse-merite-internationaux-premier-cycle-zayed",
+    "organisation": "Zayed University",
+    "montant": null,
+    "devise": "AED",
+    "type_financement": "bourse partielle",
+    "deadline": null,
+    "deadline_texte": "Date limite non spécifiée dans le texte",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Tous les domaines de premier cycle"
+    ],
+    "pays_eligibles": [
+      "Tous les pays (étudiants internationaux)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature à la bourse",
+      "Lettre de recommandation de l'école précédente",
+      "Relevés de notes",
+      "Preuves d'activités extrascolaires (certificats, médailles, lettres de recommandation)"
+    ],
+    "avantages": [
+      "Prise en charge totale des frais de scolarité (President's Award)",
+      "50% des frais de scolarité (Academic Merit Scholarship 50%)",
+      "25% des frais de scolarité (Academic Merit Scholarship 25%)",
+      "Ne couvre pas les frais supplémentaires (ordinateur portable, nourriture, logement, transport)"
+    ],
+    "eligibilite": [
+      "Être un étudiant international",
+      "S'inscrire dans un programme de premier cycle à l'Université Zayed",
+      "Avoir un diplôme de fin d'études secondaires avec des notes minimales selon le système éducatif (voir tableau)",
+      "Avoir un score minimum en mathématiques (EmSAT 1100 ou SAT Math 650 pour President's Award; EmSAT 900 ou SAT Math 590 pour Academic Merit Scholarship)",
+      "Avoir participé à un nombre significatif d'activités extrascolaires au cours des 3 dernières années"
+    ],
+    "procedure_etapes": [
+      "1. Compléter et soumettre le formulaire de candidature à la bourse avec tous les documents justificatifs",
+      "2. Soumettre une lettre de recommandation de l'école la plus récente",
+      "3. Soumettre la candidature avant la date de publication (aucune soumission tardive ne sera acceptée)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature à la bourse",
+        "url": "https://eservices.zu.ac.ae/Service/en/Card/Undergraduate-Scholarship-Request"
+      },
+      {
+        "label": "Politique de paiement (PDF)",
+        "url": "https://www.zu.ac.ae/main/en/undergraduate-programs/_images/Payment-Guidelines.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse universitaire",
+      "étudiants internationaux",
+      "premier cycle",
+      "Zayed University",
+      "bourse de mérite",
+      "frais de scolarité",
+      "Émirats Arabes Unis"
+    ],
+    "lien_candidature": "https://eservices.zu.ac.ae/Service/en/Card/Undergraduate-Scholarship-Request",
+    "source_url": "https://www.zu.ac.ae/main/en/undergraduate-programs/_images/tuition-scholarship?fbclid=IwY2xjawTTrOBleHRuA2FlbQIxMABicmlkETE5WXZWdjJLRVB6WEdjWXU4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpZxdDHTNlpvwEawM-hbf41TEL8w9TGIqnC2ZC_E5Cmm0J7bfDnhkiQ2gC15_aem_VDUTK-s9KHYGXJs2B_8GiA",
+    "statut": "ouvert",
+    "resume": "L'Université Zayed offre des bourses de mérite aux étudiants internationaux de premier cycle exceptionnels, couvrant jusqu'à 100% des frais de scolarité. Les bourses sont attribuées en fonction des résultats scolaires et de l'implication extrascolaire. Les candidats doivent soumettre un formulaire de candidature, une lettre de recommandation et des preuves d'activités. Les bourses sont renouvelables sous condition de maintien d'une moyenne minimale et d'absence de problèmes disciplinaires.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-27T03:19:50",
+    "slug": "bourse-merite-internationaux-premier-cycle-zayed"
   },
   {
     "titre": "Bourses Chevening",
@@ -11495,6 +11505,689 @@
     "adresse": "8658 Kudu Road Kabulonga, Lusaka, Zambia",
     "extrait_le": "2026-06-19T16:41:27",
     "slug": "ecosocc-elections-5e-assemblee-2026"
+  },
+  {
+    "titre": "Youth for Peace : Programme de Leadership Interculturel de l'UNESCO - Deuxième Édition",
+    "seo_slug": "bourse-unesco-youth-for-peace-2026",
+    "organisation": "UNESCO",
+    "montant": 10000,
+    "devise": "USD",
+    "type_financement": "bourse partielle (seed funding)",
+    "deadline": "2026-07-19",
+    "deadline_texte": "19 juillet 2026 à 23h59 CET (heure de Paris)",
+    "niveau_etudes": [
+      "Professionnel",
+      "Leadership"
+    ],
+    "domaines": [
+      "Dialogue interculturel",
+      "Paix",
+      "Cohésion sociale",
+      "Intelligence artificielle"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": 45,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Financement de démarrage de 10 000 USD",
+      "Programme de formation en ligne",
+      "Mentorat",
+      "Réseau mondial d'anciens élèves",
+      "Participation au Dialogue mondial de la jeunesse pour la paix de l'UNESCO"
+    ],
+    "eligibilite": [
+      "Âge entre 25 et 45 ans au 22 octobre 2026",
+      "Expérience avérée de leadership",
+      "Engagement en faveur du dialogue interculturel et de l'impact social",
+      "Ouverture à l'autoréflexion et à l'apprentissage collaboratif",
+      "Disponibilité pour participer à toutes les composantes du programme"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre le formulaire de candidature en ligne avant le 19 juillet 2026",
+      "2. Vérification de l'éligibilité",
+      "3. Évaluation technique par un jury international",
+      "4. Notification des 50 jeunes leaders sélectionnés d'ici mi-octobre 2026"
+    ],
+    "contacts": [
+      "info@unesco.org",
+      "+33 1 45 68 10 00"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://surveys.unesco.org/171854?lang=en"
+      },
+      {
+        "label": "Termes et conditions",
+        "url": "https://unesdoc.unesco.org/ark:/48223/pf0000398412"
+      }
+    ],
+    "mots_cles": [
+      "bourse unesco",
+      "leadership interculturel",
+      "jeunes leaders",
+      "paix",
+      "dialogue interculturel",
+      "intelligence artificielle",
+      "financement projet",
+      "programme jeunesse"
+    ],
+    "lien_candidature": "https://surveys.unesco.org/171854?lang=en",
+    "source_url": "https://www.unesco.org/en/call-applications-2026?hub=181405",
+    "statut": "fermé",
+    "resume": "L'UNESCO lance la deuxième édition du programme Youth for Peace, un programme de leadership interculturel destiné aux jeunes leaders de 25 à 45 ans. Les participants bénéficient d'une formation en ligne, d'un mentorat et d'un financement de démarrage de 10 000 USD pour mener une initiative de dialogue interculturel sur le thème 'Connexion humaine et dialogue à l'ère de l'intelligence artificielle'. Les candidatures sont ouvertes jusqu'au 19 juillet 2026.",
+    "extrait_le": "2026-06-25T14:39:29",
+    "slug": "bourse-unesco-youth-for-peace-2026"
+  },
+  {
+    "titre": "Youth for Peace : Programme de Leadership Interculturel de l'UNESCO - Deuxième Édition",
+    "seo_slug": "unesco-youth-peace-leadership-2026",
+    "organisation": "UNESCO",
+    "montant": 10000,
+    "devise": "USD",
+    "type_financement": "bourse partielle (seed funding)",
+    "deadline": "2026-07-19",
+    "deadline_texte": "19 juillet 2026 à 23h59 CET (heure de Paris)",
+    "niveau_etudes": [
+      "Professionnel",
+      "Leadership"
+    ],
+    "domaines": [
+      "Dialogue interculturel",
+      "Paix",
+      "Intelligence artificielle",
+      "Cohésion sociale"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": 45,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Plan d'action"
+    ],
+    "avantages": [
+      "Financement de démarrage de 10 000 USD",
+      "Programme de formation en ligne",
+      "Mentorat",
+      "Réseau d'anciens élèves",
+      "Participation au Dialogue mondial de la jeunesse pour la paix de l'UNESCO"
+    ],
+    "eligibilite": [
+      "Âge entre 25 et 45 ans au 22 octobre 2026",
+      "Expérience avérée en leadership",
+      "Engagement en faveur du dialogue interculturel et de l'impact social",
+      "Ouverture à l'autoréflexion et à l'apprentissage collaboratif",
+      "Disponibilité pour participer à toutes les composantes du programme"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre le formulaire de candidature en ligne avant le 19 juillet 2026.",
+      "2. Vérification de l'éligibilité.",
+      "3. Évaluation technique par un jury international.",
+      "4. Notification des 50 jeunes leaders sélectionnés d'ici mi-octobre 2026."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://surveys.unesco.org/171854?lang=en"
+      },
+      {
+        "label": "Termes et conditions",
+        "url": "https://unesdoc.unesco.org/ark:/48223/pf0000398412"
+      }
+    ],
+    "mots_cles": [
+      "bourse unesco",
+      "leadership interculturel",
+      "jeunes leaders",
+      "paix",
+      "intelligence artificielle",
+      "dialogue interculturel",
+      "financement projet",
+      "programme jeunesse"
+    ],
+    "lien_candidature": "https://surveys.unesco.org/171854?lang=en",
+    "source_url": "https://www.unesco.org/en/call-applications-2026?fbclid=IwY2xjawTEZ0tleHRuA2FlbQIxMABicmlkETFhWmRaUGNCZTBwSThIdTNMc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv3Uf4MxUn_YcWuzkd5lqT3g8p6MsHHj6ReiNodLfbBNgUeWqfpnQhxiQ2ez_aem_RxYmgXJo6n3cvkYPQ5ybhw&hub=181405",
+    "statut": "fermé",
+    "resume": "L'UNESCO lance la deuxième édition du programme Youth for Peace, un programme de leadership interculturel destiné aux jeunes leaders de 25 à 45 ans. Les participants bénéficient d'une formation en ligne, d'un financement de démarrage de 10 000 USD pour mener une initiative locale, et d'un accès à un réseau mondial d'anciens élèves. La thématique 2026 explore le lien entre intelligence artificielle et dialogue interculturel. Les candidatures sont ouvertes jusqu'au 19 juillet 2026.",
+    "imageUrl": "/docs/Appel-candidatures-Deuxi-me-dition-Jeunesse-pour-la-paix-Programme-de-leadership-interculturel-de-l-UNESCO.webp",
+    "extrait_le": "2026-07-15T13:26:47",
+    "slug": "unesco-youth-peace-leadership-2026"
+  },
+  {
+    "titre": "Doctorat d'Intérêt National en Sciences et Technologies Spatiales - SST",
+    "seo_slug": "doctorat-sciences-spatiales-trento-2026",
+    "organisation": "Università degli Studi di Trento",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-20",
+    "deadline_texte": "20 juillet 2026 à 16h00 (heure italienne)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences spatiales",
+      "Ingénierie spatiale",
+      "Technologie spatiale",
+      "Relations internationales"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Diplôme de master ou équivalent",
+      "CV",
+      "Lettre de motivation",
+      "Projet de recherche",
+      "Relevés de notes",
+      "Lettres de recommandation",
+      "Copie du passeport"
+    ],
+    "avantages": [
+      "Bourse de doctorat (montant non spécifié)",
+      "Frais de voyage pour séjours à l'étranger (minimum 6 mois)",
+      "Accès à des cours avancés et laboratoires"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un master ou équivalent (ou l'obtenir avant le 31 octobre 2025)",
+      "Pour les postes réservés : être citoyen kenyan ou collaborer avec une institution de recherche"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le bando (avis de concours) en ligne",
+      "2. Remplir la demande en ligne avant le 20 juillet 2026 à 16h00",
+      "3. Soumettre les documents requis",
+      "4. Évaluation des titres à partir du 27 juillet 2026",
+      "5. Entretien oral à partir du 31 juillet 2026"
+    ],
+    "contacts": [
+      "phd.office-st@unitn.it",
+      "dottorati.scientifici@unitn.it"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Bando de candidature (PDF)",
+        "url": "https://www.unitn.it/sites/default/files/2026-06/SST_bando_42_ITA.pdf"
+      },
+      {
+        "label": "Bourses à thématique liée (PDF)",
+        "url": "https://www.unitn.it/sites/default/files/2026-06/SST_Borse_tematica_vincolata_Schede_2.pdf"
+      },
+      {
+        "label": "Informatique sur le traitement des données (PDF)",
+        "url": "https://www.unitn.it/sites/default/files/2026-06/INFORMATIVA%20SUL%20TRATTAMENTO%20DEI%20DATI%20PERSONALI.pdf"
+      },
+      {
+        "label": "Déclaration substitutive des examens (DOCX)",
+        "url": "https://www.unitn.it/sites/default/files/2026-03/Fac-simile_elenco_esami_sostenuti_1.docx"
+      },
+      {
+        "label": "Site web du doctorat SST",
+        "url": "https://phd.unitn.it/phd-sst"
+      },
+      {
+        "label": "Guide d'admission aux doctorats",
+        "url": "https://www.unitn.it/it/studiare/iscriversi/guida-alle-ammissioni/dottorati-di-ricerca"
+      },
+      {
+        "label": "Guide au doctorat",
+        "url": "https://www.unitn.it/it/studiare/iscriversi/guida-al-dottorato"
+      },
+      {
+        "label": "Règlements internes des doctorats",
+        "url": "https://www.unitn.it/it/ateneo/regolamenti-manuali-e-informative/regolamenti/regolamento-didattico-di-ateneo/dottorati-di-ricerca"
+      }
+    ],
+    "mots_cles": [
+      "doctorat",
+      "sciences spatiales",
+      "bourse",
+      "Italie",
+      "Trento",
+      "2026",
+      "recherche",
+      "ingénierie spatiale"
+    ],
+    "lien_candidature": "https://webapps.unitn.it/Apply/it/Web/Home/dott",
+    "source_url": "https://www.unitn.it/it/dottorati/space-science-and-technology?fbclid=IwY2xjawS6nI1leHRuA2FlbQIxMABicmlkETFOaTFuYUNNaGhwOG02Uk53c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHj9YtfoM1MBTpzlFUQdk7mbIcM0a-D7UrKJfiRrtDZKc19aZ68Bv45CNAtPO_aem_yih1CJp0C7EdJN5L_E9FJQ",
+    "statut": "fermé",
+    "resume": "Le Doctorat d'Intérêt National en Sciences et Technologies Spatiales (SST) de l'Université de Trento forme des experts en sciences, ingénierie et relations internationales spatiales. Pour le 42e cycle, 41 postes sont disponibles, dont 30 bourses à thématique liée et 5 réservés aux citoyens kenyans. Les candidatures sont ouvertes jusqu'au 20 juillet 2026. Le programme dure 3 ans, inclut des séjours à l'étranger et couvre huit curricula spécialisés.",
+    "adresse": "Via Sommarive, 14 - 38123 Povo - Trente",
+    "imageUrl": null,
+    "extrait_le": "2026-07-08T03:11:20",
+    "slug": "doctorat-sciences-spatiales-trento-2026"
+  },
+  {
+    "titre": "Bourses de doctorat Walsh Scholars",
+    "seo_slug": "walsh-scholars-phd-irlande-2026",
+    "organisation": "Teagasc",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-24",
+    "deadline_texte": "24 juillet 2026 à 17h00 (dernière date limite parmi les offres)",
+    "niveau_etudes": [
+      "Doctorat",
+      "Master"
+    ],
+    "domaines": [
+      "Agriculture",
+      "Alimentation",
+      "Environnement",
+      "Climat",
+      "Développement rural"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Consulter les offres individuelles"
+    ],
+    "avantages": [
+      "Formation entièrement financée",
+      "Supervision par des chercheurs de premier plan",
+      "Accès à des installations de recherche de pointe",
+      "Opportunités de collaboration internationale, voyages et conférences",
+      "Formation en recherche, communication, leadership et résolution de problèmes",
+      "Appartenance à une communauté de recherche solidaire"
+    ],
+    "eligibilite": [
+      "Diplômés de niveau master ou licence (selon l'offre)",
+      "Intérêt pour la recherche en agriculture, alimentation, environnement, climat, développement rural"
+    ],
+    "procedure_etapes": [
+      "1. Parcourir les opportunités disponibles",
+      "2. Examiner les détails du projet et de l'encadrement",
+      "3. Postuler comme indiqué dans l'offre"
+    ],
+    "contacts": [
+      "walshscholarships@teagasc.ie",
+      "+353 59 917 0200"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page d'accueil du programme Walsh Scholars",
+        "url": "https://teagasc.ie/about/research-innovation/the-walsh-scholars-programme/"
+      },
+      {
+        "label": "Offre MSc 2024014 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2024014_E.Mullins_D.Ryan_.pdf"
+      },
+      {
+        "label": "Offre PhD 2025202 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025202_M.ODonovan_D.Hennessy.pdf"
+      },
+      {
+        "label": "Offre PhD 2025206 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-2025206_N.McHugh_D.Purfileld-ad2.pdf"
+      },
+      {
+        "label": "Offre PhD 2025207 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025207_C.Ryan_D.Purfield-AD-2.pdf"
+      },
+      {
+        "label": "Offre PhD 2025210 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025210_J.Magan_T.OCallaghan.pdf"
+      },
+      {
+        "label": "Offre PhD 2025213 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025213_P.Lamichhane_T.Huppertz.pdf"
+      },
+      {
+        "label": "Offre PhD 2025214 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025214_J.Tobin_T.Huppertz.pdf"
+      },
+      {
+        "label": "Offre PhD 2026001 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/WS-REF-2026001_A.Murray_B.ONeill.pdf"
+      },
+      {
+        "label": "Offre PhD 2026011 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2026011_N.Byrne_A.Kelly_.pdf"
+      },
+      {
+        "label": "Offre PhD 2026045 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2026045__P.Crosson_J.Kinsella-R2-online-only.pdf"
+      },
+      {
+        "label": "Offre MSc 2023298 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2023298_S.Hannon_U.Tiwari.pdf"
+      },
+      {
+        "label": "Offre PhD 2025049 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025049_S.Hogan_A.Kelly_.pdf"
+      },
+      {
+        "label": "Offre PhD 2025215 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2025215_L.Giblin_K.Nally_.pdf"
+      },
+      {
+        "label": "Offre PhD 2026041 (PDF)",
+        "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/about/walsh-scholarships/WS-REF-2026041_L.Walsh_D.Styles.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat irlande",
+      "walsh scholars",
+      "teagasc",
+      "agriculture",
+      "alimentation",
+      "environnement",
+      "recherche",
+      "financement complet"
+    ],
+    "lien_candidature": "https://teagasc.ie/about/research-innovation/the-walsh-scholars-programme/",
+    "source_url": "https://teagasc.ie/about/research--innovation/the-walsh-scholars-programme/walsh-scholars-opportunities/?fbclid=IwY2xjawSvaz9leHRuA2FlbQIxMABicmlkETFUczRoV0dDVHBPWG5MbzROc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHo2jgpdKhae68FcdNGedYTUkYWAOfRhboIBcweH6a7aD3j2fj6G5gmgf_p0m_aem_4cWakMXRuLNXjDA_8kFWaA",
+    "statut": "fermé",
+    "resume": "Le programme Walsh Scholars de Teagasc offre des bourses entièrement financées pour des doctorats et masters en agriculture, alimentation, environnement, climat et développement rural. Les boursiers bénéficient d'un encadrement par des chercheurs de renom, d'accès à des installations de pointe et d'opportunités de collaboration internationale. Les candidatures sont ouvertes jusqu'au 24 juillet 2026 selon les offres.",
+    "adresse": "Teagasc, Oak Park, Carlow, R93 XE12",
+    "imageUrl": null,
+    "extrait_le": "2026-06-29T15:17:34",
+    "slug": "walsh-scholars-phd-irlande-2026"
+  },
+  {
+    "titre": "94 Postes Doctoraux Financés à l'Université de Messine, Italie - 42e Cycle 2026",
+    "seo_slug": "bourse-doctorat-messine-italie-2026",
+    "organisation": "University of Messina",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-24",
+    "deadline_texte": "24 juillet 2026 à 23h59 (heure italienne)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Bioingénierie",
+      "Biologie",
+      "Médecine",
+      "Économie",
+      "Gestion",
+      "Statistiques",
+      "Physique",
+      "Ingénierie",
+      "Psychologie",
+      "Sciences cognitives",
+      "Chimie",
+      "Sciences de l'administration publique",
+      "Sciences juridiques",
+      "Sciences politiques",
+      "Sciences humaines",
+      "Sciences vétérinaires",
+      "Biotechnologies",
+      "Sciences agricoles",
+      "Sciences de la durabilité",
+      "Médecine moléculaire translationnelle",
+      "Chirurgie",
+      "Mathématiques",
+      "Informatique",
+      "Droit",
+      "Philologie",
+      "Archéologie",
+      "Histoire"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Non spécifiée",
+    "documents_requis": [
+      "Diplômes",
+      "CV",
+      "Lettre de motivation",
+      "Autres documents selon le programme"
+    ],
+    "avantages": [
+      "94 postes financés",
+      "Mobilité internationale de recherche",
+      "Environnement de recherche multidisciplinaire",
+      "Encadrement académique de qualité"
+    ],
+    "eligibilite": [
+      "Ouvert aux candidats de toutes nationalités",
+      "Diplôme requis pour l'admission en doctorat",
+      "Sélection sur titres et examen d'entrée"
+    ],
+    "procedure_etapes": [
+      "1. Lire attentivement l'appel officiel et les annexes.",
+      "2. Vérifier les conditions d'admission pour le programme choisi.",
+      "3. Préparer tous les documents justificatifs requis.",
+      "4. Soumettre la candidature en ligne via le portail avant le 24 juillet 2026."
+    ],
+    "contacts": [
+      "dottorati@unime.it",
+      "090 676 8716 / 8502 / 8286 / 8281 / 8277",
+      "090 676 8716"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://unime.esse3.cineca.it/Home.do"
+      },
+      {
+        "label": "Appel officiel (bando)",
+        "url": "https://www.unime.it/bandi/bando-di-concorso-pubblico-titoli-ed-esami-lammissione-ai-corsi-di-dottorato-di-ricerca-1"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat",
+      "Italie",
+      "Université de Messine",
+      "42e cycle",
+      "2026",
+      "financement complet",
+      "mobilité internationale",
+      "recherche"
+    ],
+    "lien_candidature": "https://unime.esse3.cineca.it/Home.do",
+    "source_url": "https://agristok.net/2026/07/02/94-funded-phd-positions-university-of-messina-italy-2026/",
+    "statut": "fermé",
+    "resume": "L'Université de Messine en Italie ouvre les candidatures pour son 42e cycle de doctorat avec 94 postes entièrement financés. Ouvert aux candidats du monde entier, ce programme couvre un large éventail de disciplines allant de l'ingénierie à la médecine en passant par les sciences humaines. La sélection se fait sur titres et examen d'entrée, avec une date limite de candidature fixée au 24 juillet 2026. Les doctorants bénéficient d'opportunités de mobilité internationale et d'un environnement de recherche multidisciplinaire.",
+    "adresse": "Piazza Pugliatti, 1  98122 Messina  Italy",
+    "imageUrl": "/docs/Bourses-de-doctorat-PhD-Scholarships.webp",
+    "extrait_le": "2026-07-06T03:57:33",
+    "slug": "bourse-doctorat-messine-italie-2026"
+  },
+  {
+    "titre": "31e Assemblée de la Jeunesse AFS 2026",
+    "seo_slug": "afs-youth-assembly-geneve-2026",
+    "organisation": "AFS Intercultural Programs",
+    "montant": null,
+    "devise": null,
+    "type_financement": "payant",
+    "deadline": "2026-07-24",
+    "deadline_texte": "24 juillet 2026 à 23h59 EST (pour l'inscription Conference-Only au tarif tardif)",
+    "niveau_etudes": [
+      "Tous niveaux"
+    ],
+    "domaines": [
+      "Développement durable",
+      "Affaires internationales",
+      "Climat",
+      "Éducation",
+      "Paix"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais (niveau intermédiaire)",
+    "documents_requis": [
+      "Pré-candidature en ligne"
+    ],
+    "avantages": [
+      "Participation à l'événement",
+      "Réseautage mondial",
+      "Certificat de compétence globale (pour les participants aux Académies)"
+    ],
+    "eligibilite": [
+      "Âge : 18-35 ans",
+      "Expérience de leadership ou implication communautaire",
+      "Intérêt pour les affaires mondiales et le développement durable",
+      "Anglais intermédiaire"
+    ],
+    "procedure_etapes": [
+      "1. Choisir le programme (Conference-Only, Académie, ou Délégation)",
+      "2. Remplir la pré-candidature en ligne",
+      "3. Payer les frais d'inscription",
+      "4. Recevoir la confirmation et préparer le voyage"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Programme 2026",
+        "url": "https://www.youthassembly.org/program-2026/"
+      },
+      {
+        "label": "Candidature individuelle",
+        "url": "https://www.youthassembly.org/apply-now/2026-application/"
+      },
+      {
+        "label": "Candidature groupe délégation",
+        "url": "https://www.youthassembly.org/apply-now/2026-delegation-group-application/"
+      },
+      {
+        "label": "Académies",
+        "url": "https://www.youthassembly.org/academies/"
+      },
+      {
+        "label": "Académie UNITAR",
+        "url": "https://www.youthassembly.org/academies/geneva-international-affairs/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.youthassembly.org/faq/"
+      },
+      {
+        "label": "Termes et conditions",
+        "url": "https://www.youthassembly.org/terms-conditions/"
+      },
+      {
+        "label": "Réseau Alumni",
+        "url": "https://www.youthassembly.org/alumni-impact-network/"
+      }
+    ],
+    "mots_cles": [
+      "AFS Youth Assembly",
+      "jeunesse",
+      "Genève",
+      "conférence",
+      "leadership",
+      "développement durable",
+      "réseautage",
+      "2026"
+    ],
+    "lien_candidature": "https://www.youthassembly.org/apply-now/2026-application/",
+    "source_url": "https://www.youthassembly.org/apply-now/?fbclid=IwY2xjawTEcp5leHRuA2FlbQIxMABicmlkETFhWmRaUGNCZTBwSThIdTNMc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv3Uf4MxUn_YcWuzkd5lqT3g8p6MsHHj6ReiNodLfbBNgUeWqfpnQhxiQ2ez_aem_RxYmgXJo6n3cvkYPQ5ybhw",
+    "statut": "fermé",
+    "resume": "La 31e Assemblée de la Jeunesse AFS se tiendra du 12 au 14 août 2026 à Genève, en Suisse, sur le thème « S'élever. Réimaginer. Reconstruire : Un monde pour tous ». Cet événement rassemble de jeunes leaders du monde entier pour des sessions interactives, des ateliers et des opportunités de réseautage. Les participants peuvent choisir entre la conférence seule, une académie pré-événement (comme l'Académie UNITAR) ou venir en délégation. Les frais d'inscription varient de 325 $ à 595 $ selon la date, et les candidatures sont ouvertes jusqu'au 24 juillet 2026.",
+    "imageUrl": "/docs/Postulez-pour-l_Assembl-e-des-jeunes-de-l_AFS-2026.webp",
+    "extrait_le": "2026-07-15T14:08:25",
+    "slug": "afs-youth-assembly-geneve-2026"
+  },
+  {
+    "titre": "Programme Ireland Fellows 2027/28",
+    "seo_slug": "ireland-fellows-master-irlande-2027",
+    "organisation": "Government of Ireland",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-26",
+    "deadline_texte": "26 juillet 2026",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Tous domaines éligibles"
+    ],
+    "pays_eligibles": [
+      "Nigeria",
+      "Ghana",
+      "Autres pays (voir site global)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Relevés de notes",
+      "Diplômes",
+      "Lettres de recommandation",
+      "Preuve de compétence en anglais"
+    ],
+    "avantages": [
+      "Frais de scolarité complets",
+      "Billet d'avion aller-retour",
+      "Aide au logement",
+      "Allocation mensuelle de subsistance"
+    ],
+    "eligibilite": [
+      "Être ressortissant et résident d'un pays éligible",
+      "Avoir un diplôme de premier cycle",
+      "Avoir au moins 2 ans d'expérience professionnelle",
+      "Démontrer un potentiel de leadership",
+      "S'engager à retourner dans son pays d'origine après les études"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page de candidature de son pays",
+      "2. Lire le guide de candidature",
+      "3. Soumettre la candidature de l'étape 1",
+      "4. Attendre la présélection",
+      "5. Si présélectionné, passer à l'étape 2 (candidature détaillée)",
+      "6. Si retenu, participer à l'étape 3 (entretien)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page Nigeria",
+        "url": "https://irelandfellows.africa/nigeria"
+      },
+      {
+        "label": "Page Ghana",
+        "url": "https://irelandfellows.africa/ghana"
+      },
+      {
+        "label": "Site global IFP",
+        "url": "https://www.ireland.ie/en/ireland-fellows-programme/applying-for-the-ireland-fellows-programme/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://irelandfellows.africa/faqs"
+      },
+      {
+        "label": "Guide de candidature Nigeria",
+        "url": "https://irelandfellows.africa/nigeria/guide"
+      },
+      {
+        "label": "Guide de candidature Ghana",
+        "url": "https://irelandfellows.africa/ghana/guide"
+      }
+    ],
+    "mots_cles": [
+      "bourse irlande",
+      "master irlande",
+      "bourse gouvernement irlandais",
+      "bourse leadership",
+      "bourse afrique"
+    ],
+    "lien_candidature": "https://irelandfellows.africa/eligible-programmes",
+    "source_url": "https://irelandfellows.africa/eligible-programmes",
+    "statut": "fermé",
+    "resume": "Le Programme Ireland Fellows 2027/28 est une bourse entièrement financée du gouvernement irlandais pour des professionnels africains souhaitant poursuivre un master dans une université irlandaise. Il couvre les frais de scolarité, le voyage, le logement et une allocation mensuelle. Les candidatures sont ouvertes jusqu'au 26 juillet 2026 pour les ressortissants du Nigeria et du Ghana, et d'autres pays peuvent postuler via le site global.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-15T14:41:24",
+    "slug": "ireland-fellows-master-irlande-2027"
   },
   {
     "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",

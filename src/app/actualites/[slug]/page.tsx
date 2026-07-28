@@ -4,12 +4,23 @@ import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 import { getActualites } from "@/lib/actualites";
 import { PartageSocial } from "@/components/PartageSocial";
+import { SITE_NAME, SITE_URL } from "@/lib/site";
 
 type Props = {
   params: Promise<{ slug: string }>;
 };
 
+// Next.js effectue un rendu dynamique (SSR) pour s'assurer que les nouvelles actualités
+// ajoutées au JSON soient immédiatement visibles sans build complet du site.
 export const revalidate = 0;
+
+// Permet de pré-générer (SSG) au build les fiches d'actualités connues pour des performances optimales
+export async function generateStaticParams() {
+  const actualites = getActualites();
+  return actualites.filter((a) => a.slug).map((a) => ({
+    slug: a.slug,
+  }));
+}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
@@ -60,8 +71,48 @@ export default async function ActualitePage({ params }: Props) {
   }
   const cleanedContent = lines.slice(startIndex).join('\n').trim().replace(/—/g, ':');
 
+  // Données structurées Schema.org pour aider Google à indexer et qualifier l'actualité
+  const imageComplete = actu.imageUrl
+    ? actu.imageUrl.startsWith("http")
+      ? actu.imageUrl
+      : `${SITE_URL}${actu.imageUrl}`
+    : `${SITE_URL}/favicon.png`;
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": actu.title,
+    "description": actu.subtitle || actu.title,
+    "image": [imageComplete],
+    "datePublished": actu.publishedAt,
+    "dateModified": actu.publishedAt,
+    "author": {
+      "@type": "Organization",
+      "name": SITE_NAME,
+      "url": SITE_URL,
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": SITE_NAME,
+      "logo": {
+        "@type": "ImageObject",
+        "url": `${SITE_URL}/favicon.png`,
+      },
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": `${SITE_URL}/actualites/${slug}`,
+    },
+  };
+
   return (
     <main className="mx-auto max-w-3xl px-6 py-10">
+      {/* Script pour les données structurées Google */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
       <Link
         href="/actualites"
         className="mb-8 inline-flex items-center text-sm font-medium text-stone-500 hover:text-stone-900"

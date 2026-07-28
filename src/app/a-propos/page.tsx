@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 
 import { Breadcrumb } from "@/components/Breadcrumb";
+import { FormulaireContact } from "@/components/FormulaireContact";
 import { SITE_NAME } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -38,10 +39,12 @@ export default function PageAPropos() {
           pays et type de financement.
         </p>
         <p>
-          Cette section est en construction. Une page contact et l&apos;historique
-          du projet seront ajoutés prochainement.
+          Notre objectif est de maintenir un annuaire transparent, entièrement gratuit et mis à jour régulièrement pour propulser les futurs leaders et universitaires du continent.
         </p>
       </section>
+
+      {/* Formulaire de contact opérationnel */}
+      <FormulaireContact />
     </main>
   );
 }

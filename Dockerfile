@@ -5,7 +5,8 @@ WORKDIR /app
 
 # Copier les fichiers de dépendances
 COPY package.json package-lock.json ./
-RUN npm config set fetch-retry-maxtimeout 600000 && \
+RUN npm config set registry https://registry.npmmirror.com && \
+    npm config set fetch-retry-maxtimeout 600000 && \
     npm config set fetch-retry-mintimeout 100000 && \
     npm config set fetch-retries 10 && \
     npm config set maxsockets 3 && \

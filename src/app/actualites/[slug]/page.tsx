@@ -30,6 +30,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!actu) {
     return {
       title: "Actualité non trouvée",
+      robots: { index: false, follow: false },
     };
   }
 

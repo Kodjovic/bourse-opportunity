@@ -28,7 +28,12 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const bourse = await getBourseBySlug(slug);
-  if (!bourse) return { title: "Bourse introuvable" };
+  if (!bourse) {
+    return {
+      title: "Bourse introuvable",
+      robots: { index: false, follow: false },
+    };
+  }
 
   const titre = bourse.titre || "Bourse";
   const description =

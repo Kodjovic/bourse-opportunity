@@ -1,1192 +1,81 @@
 [
   {
-    "titre": "Appel à propositions pour les organisations de la société civile (OSC) ou ONG - Programme régional africain Spotlight Initiative 2.0",
-    "seo_slug": "appel-propositions-osc-ethiopie-2026",
-    "organisation": "UNDP",
+    "titre": "Programme Présidentiel de Bourses d'Études dans le Secteur Minier du Mali (PPBEM)",
+    "seo_slug": "bourse-presidentielle-mali-secteur-minier-2026",
+    "organisation": "Programme Présidentiel de Bourses d'Études dans le Secteur Minier du Mali (PPBEM)",
     "montant": null,
     "devise": null,
-    "type_financement": "subvention",
-    "deadline": "2026-07-29",
-    "deadline_texte": "29 juillet 2026 à 04h00 (heure de New York)",
-    "niveau_etudes": [],
-    "domaines": [
-      "Violences basées sur le genre",
-      "Droits des femmes",
-      "Développement"
-    ],
-    "pays_eligibles": [
-      "Afrique"
-    ],
-    "age_maximum": null,
-    "langue_requise": null,
-    "documents_requis": [],
-    "avantages": [],
-    "eligibilite": [
-      "Être une organisation de la société civile ou ONG"
-    ],
-    "procedure_etapes": [
-      "1. Créer un profil fournisseur sur le portail UNDP Quantum si ce n'est pas déjà fait.",
-      "2. S'abonner à l'appel d'offres en utilisant le numéro de référence UNDP-ETH-00754.",
-      "3. Soumettre l'offre directement dans le système via le lien http://supplier.quantum.partneragencies.org.",
-      "4. Indiquer l'intention de soumettre une offre en créant une réponse provisoire sans soumettre."
-    ],
-    "contacts": [
-      "info.procurementet@undp.org"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Visitez le site :",
-        "url": "http://supplier.quantum.partneragencies.org"
-      },
-      {
-        "label": "Guide utilisateur du portail fournisseur",
-        "url": "https://undp.service-now.com/kb_view.do?sysparm_article=KB0014104"
-      },
-      {
-        "label": "Enregistrement fournisseur",
-        "url": "https://estm.fa.em2.oraclecloud.com/fscmUI/redwood/supplier-registration/register-supplier/register-supplier-verification?id=TUW16eK6qsD94MNMxAfJMoYCOHny7FmchTkULY6m3ioPfah13ZhtWEU2Zg%3D%3D"
-      },
-      {
-        "label": "Portail fournisseur",
-        "url": "https://supplier.quantum.partneragencies.org"
-      },
-      {
-        "label": "Ressources pour soumissionnaires UNDP",
-        "url": "https://www.undp.org/procurement/business/resources-for-bidders"
-      },
-      {
-        "label": "Documents de négociation",
-        "url": "https://undp.sharepoint.com/sites/Docs-Public/Procurement/Forms/AllItems.aspx?env=Embedded&isAscending=false&FilterType1=Text&sortField=Modified&FilterField1=NegotiationNumber&FilterValue1=UNDP-ETH-00754"
-      }
-    ],
-    "mots_cles": [
-      "appel à propositions",
-      "OSC",
-      "ONG",
-      "Ethiopie",
-      "UNDP",
-      "Spotlight Initiative",
-      "violences femmes",
-      "subvention"
-    ],
-    "lien_candidature": "http://supplier.quantum.partneragencies.org",
-    "source_url": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47385&fbclid=IwY2xjawTTnQJleHRuA2FlbQIxMABicmlkETE5WXZWdjJLRVB6WEdjWXU4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpZxdDHTNlpvwEawM-hbf41TEL8w9TGIqnC2ZC_E5Cmm0J7bfDnhkiQ2gC15_aem_VDUTK-s9KHYGXJs2B_8GiA",
-    "statut": "ouvert",
-    "resume": "Le PNUD lance un appel à propositions pour des organisations de la société civile ou ONG dans le cadre du Programme régional africain Spotlight Initiative 2.0 pour mettre fin aux violences faites aux femmes et aux filles. Les candidatures doivent être soumises via le portail fournisseur UNDP Quantum avant le 29 juillet 2026. Les organisations intéressées doivent s'enregistrer et soumettre leur offre en ligne.",
-    "imageUrl": "/docs/Appel---propositions---Organisations-de-la-soci-t--civile-_OSC_-ou-ONG.webp",
-    "extrait_le": "2026-07-27T02:13:21",
-    "slug": "appel-propositions-osc-ethiopie-2026"
-  },
-  {
-    "titre": "Bourse Rhodes 2027 pour des études supérieures à l'Université d'Oxford",
-    "seo_slug": "bourse-rhodes-master-oxford-2027",
-    "organisation": "Rhodes Trust",
-    "montant": 20400,
-    "devise": "GBP",
     "type_financement": "bourse complète",
-    "deadline": "2026-07-31",
-    "deadline_texte": "31 juillet 2026 (variable selon les circonscriptions)",
+    "deadline": "2026-08-07",
+    "deadline_texte": "07 août 2026 à 17h00",
     "niveau_etudes": [
-      "Master",
-      "Doctorat"
+      "Baccalauréat",
+      "DUT",
+      "Licence"
     ],
     "domaines": [
-      "Tous les domaines"
+      "Sciences",
+      "Techniques",
+      "Économie",
+      "Droit",
+      "Secteur minier"
     ],
     "pays_eligibles": [
-      "Monde entier"
+      "Mali"
     ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "CV",
-      "Lettre de motivation",
-      "Relevés de notes",
-      "Lettres de recommandation",
-      "Preuve de compétence en anglais"
-    ],
-    "avantages": [
-      "Frais de scolarité complets",
-      "Bourse annuelle de 20 400 £ (1 700 £/mois)",
-      "Frais de demande d'admission à Oxford",
-      "Frais de visa étudiant et IHS",
-      "Deux billets d'avion aller-retour en classe économique",
-      "Allocation d'installation",
-      "Aide pour le renouvellement de visa"
-    ],
-    "eligibilite": [
-      "Être âgé de 18 à 24 ans (ou jusqu'à 27 ans pour certaines circonscriptions)",
-      "Avoir obtenu un diplôme de premier cycle avec mention très bien",
-      "Être citoyen d'un pays éligible (liste par circonscription)",
-      "Faire preuve de leadership, d'intégrité et d'engagement envers le service public"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier votre éligibilité et la circonscription de candidature sur le site officiel.",
-      "2. Préparer les documents requis (CV, lettre de motivation, relevés de notes, lettres de recommandation).",
-      "3. Soumettre votre candidature en ligne via le portail dédié avant la date limite de votre circonscription.",
-      "4. Si présélectionné, participer à un entretien.",
-      "5. En cas de succès, accepter l'offre et entamer les démarches d'admission à Oxford."
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/"
-      },
-      {
-        "label": "Critères de sélection",
-        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/selection-criteria/"
-      },
-      {
-        "label": "Vérifier l'éligibilité et postuler",
-        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/"
-      },
-      {
-        "label": "FAQ",
-        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/faqs/"
-      },
-      {
-        "label": "Conditions de tenure (PDF)",
-        "url": "https://www.rhodeshouse.ox.ac.uk/files/conditions-of-tenure/"
-      },
-      {
-        "label": "Inscription à la newsletter",
-        "url": "https://confirmsubscription.com/h/r/65B4B104DE9B6853"
-      }
-    ],
-    "mots_cles": [
-      "bourse rhodes",
-      "bourse oxford",
-      "bourse master",
-      "bourse doctorat",
-      "bourse internationale",
-      "bourse complète",
-      "royaume-uni",
-      "2027"
-    ],
-    "lien_candidature": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/",
-    "source_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/",
-    "statut": "ouvert",
-    "resume": "La bourse Rhodes est la plus ancienne bourse internationale au monde, offrant aux étudiants exceptionnels la possibilité d'effectuer des études supérieures à temps plein à l'Université d'Oxford. Cette bourse complète couvre les frais de scolarité, une allocation annuelle de 20 400 £, les frais de visa et les billets d'avion. Les candidatures pour 2027 sont ouvertes ; les candidats doivent vérifier leur éligibilité et postuler via le site officiel avant la date limite de leur circonscription.",
-    "extrait_le": "2026-06-15T03:06:36",
-    "slug": "bourse-rhodes-master-oxford-2027"
-  },
-  {
-    "titre": "Bourse DAAD pour les matières STEM en Allemagne 2026",
-    "seo_slug": "bourse-daad-stem-master-allemagne-2026",
-    "organisation": "DAAD",
-    "montant": null,
-    "devise": "EUR",
-    "type_financement": "bourse complète",
-    "deadline": "2026-07-31",
-    "deadline_texte": "31 juillet 2026",
-    "niveau_etudes": [
-      "Master"
-    ],
-    "domaines": [
-      "Mathématiques",
-      "Informatique",
-      "Sciences naturelles",
-      "Ingénierie"
-    ],
-    "pays_eligibles": [
-      "Pays en développement et émergents"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Allemand ou Anglais (selon programme)",
-    "documents_requis": [],
-    "avantages": [
-      "Financement complet du Master",
-      "Bourse mensuelle",
-      "Frais de voyage",
-      "Assurance",
-      "Allocation d'études"
-    ],
-    "eligibilite": [
-      "Être étudiant d'un pays en développement ou émergent",
-      "Avoir un premier diplôme reconnu en Allemagne (Bachelor) au plus tard à la date limite de candidature",
-      "Ne pas avoir déjà de Master",
-      "Être admis dans un programme de Master sans frais de scolarité en STEM dans une université allemande",
-      "Le programme doit débuter au semestre d'hiver 2026/27"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier l'éligibilité et les conditions sur le site DAAD",
-      "2. Trouver un programme de Master STEM sans frais de scolarité dans une université allemande",
-      "3. Préparer les documents requis (diplômes, relevés de notes, lettre de motivation, CV, etc.)",
-      "4. Soumettre la candidature via le portail DAAD avant la date limite"
-    ],
-    "contacts": [
-      "info.nairobi@daad.de",
-      "+254 (733) 92 99 29"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://www.daad-kenya.org/en/2026/06/03/the-call-for-scholarships-for-stem-subjects-is-out/"
-      },
-      {
-        "label": "Informations importantes pour les candidats",
-        "url": "https://www.daad.de/en/studying-in-germany/scholarships/information-for-scholarship-applicants/"
-      },
-      {
-        "label": "Plus d'informations sur la bourse",
-        "url": "http://daad.de/go/en/stipa57742130"
-      }
-    ],
-    "mots_cles": [
-      "bourse DAAD",
-      "master STEM",
-      "Allemagne",
-      "pays en développement",
-      "2026",
-      "mathématiques",
-      "informatique",
-      "sciences naturelles",
-      "ingénierie"
-    ],
-    "lien_candidature": "http://daad.de/go/en/stipa57742130",
-    "source_url": "https://www.daad-kenya.org/en/2026/06/03/the-call-for-scholarships-for-stem-subjects-is-out/",
-    "statut": "ouvert",
-    "resume": "Le DAAD offre une bourse complète pour un Master en STEM (mathématiques, informatique, sciences naturelles, ingénierie) dans une université allemande aux étudiants de pays en développement et émergents. Le programme finance les frais de voyage, une bourse mensuelle et une assurance. Les candidatures sont ouvertes pour le semestre d'hiver 2026/27.",
-    "adresse": "Madison Insurance House, 3rd floor, Upper Hill Close, P.O. Box 14050 00800 Nairobi",
-    "extrait_le": "2026-06-15T03:20:26",
-    "slug": "bourse-daad-stem-master-allemagne-2026"
-  },
-  {
-    "titre": "Programme MIPD 2027 Printemps - Pré-avis de candidature",
-    "seo_slug": "mipd-program-printemps-2027",
-    "organisation": "KDI School & WIPO",
-    "montant": null,
-    "devise": null,
-    "type_financement": "non spécifié",
-    "deadline": "2026-07-31",
-    "deadline_texte": "31 juillet 2026",
-    "niveau_etudes": [
-      "Master"
-    ],
-    "domaines": [
-      "Propriété intellectuelle",
-      "Développement"
-    ],
-    "pays_eligibles": [
-      "Tous pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Score de test d'anglais valide"
-    ],
-    "avantages": [],
-    "eligibilite": [
-      "Soumission à la fois à KDI School et au portail WIPO",
-      "Certificat de langue d'enseignement non accepté comme preuve de compétence en anglais"
-    ],
-    "procedure_etapes": [
-      "1. Consulter le fichier joint pour des informations brèves.",
-      "2. Attendre les directives d'admission Printemps 2027 pour les détails complets.",
-      "3. Soumettre la candidature à KDI School via http://apply.kdischool.ac.kr",
-      "4. Soumettre la candidature au portail WIPO via https://welc.wipo.int/acc/index.jsf?page=aipCatalog.xhtml&lang=en&cc=MIPD_KDI#plus_MIPD_KDI"
-    ],
-    "contacts": [
-      "mipdadm@kdischool.ac.kr"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://www.kdischool.ac.kr/board.es?mid=a40401000000&bid=0014&list_no=19750&act=view&fbclid=IwY2xjawScaSxleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkgZimaLFkuL4aHZPUTnKpkmDp1DbBemvBoXUAgcRmedJgGHsg5YOmYzKvyW_aem_Yxwh0IOD9SMfvmFM_WrcRg"
-      },
-      {
-        "label": "Portail de candidature KDI School",
-        "url": "http://apply.kdischool.ac.kr"
-      },
-      {
-        "label": "Portail de candidature WIPO",
-        "url": "https://welc.wipo.int/acc/index.jsf?page=aipCatalog.xhtml&lang=en&cc=MIPD_KDI#plus_MIPD_KDI"
-      },
-      {
-        "label": "Pré-avis MIPD 2027 (PDF)",
-        "url": "https://www.kdischool.ac.kr/boardDownload.es?mid=a40401000000&bid=0014&list_no=19750&seq=1"
-      }
-    ],
-    "mots_cles": [
-      "MIPD",
-      "KDI School",
-      "WIPO",
-      "master",
-      "propriété intellectuelle",
-      "développement",
-      "Corée",
-      "2027",
-      "bourse"
-    ],
-    "lien_candidature": "http://apply.kdischool.ac.kr",
-    "source_url": "https://www.kdischool.ac.kr/board.es?mid=a40401000000&bid=0014&list_no=19750&act=view&fbclid=IwY2xjawScaSxleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkgZimaLFkuL4aHZPUTnKpkmDp1DbBemvBoXUAgcRmedJgGHsg5YOmYzKvyW_aem_Yxwh0IOD9SMfvmFM_WrcRg",
-    "statut": "ouvert",
-    "resume": "Le programme MIPD (Master en Propriété Intellectuelle et Développement) pour le printemps 2027 est ouvert aux candidatures du 1er juin au 31 juillet 2026. Organisé conjointement par KDI School et WIPO, ce programme dure environ un an (3 trimestres académiques). Les candidats doivent soumettre leur dossier à la fois sur le portail de KDI School et sur celui de WIPO. Les certificats de langue d'enseignement ne sont pas acceptés comme preuve de compétence en anglais ; un score valide à un test d'anglais approuvé est requis.",
-    "adresse": "263 NAMSEJONG-RO, SEJONG-SI, 30149, REPUBLIC OF KOREA",
-    "extrait_le": "2026-06-15T05:17:06",
-    "slug": "mipd-program-printemps-2027"
-  },
-  {
-    "titre": "Deuxième édition du concours « Ma thèse en 180 secondes » en Asie-Pacifique",
-    "seo_slug": "concours-ma-these-180-secondes-asie-pacifique-2026",
-    "organisation": "Agence Universitaire de la Francophonie (AUF)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "concours",
-    "deadline": "2026-07-31",
-    "deadline_texte": "31 juillet 2026 à 23h59 (fuseau Europe/Paris)",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Toutes disciplines"
-    ],
-    "pays_eligibles": [
-      "Pacifique",
-      "Asie du Sud",
-      "Asie de l'Est",
-      "Asie du Sud-Est (ASEAN)"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Français",
-    "documents_requis": [
-      "Formulaire d'inscription en ligne",
-      "Vidéo de présentation de thèse en 3 minutes (format MP4, AVI ou MOV)"
-    ],
-    "avantages": [
-      "Formation à la communication orale",
-      "Participation à la finale régionale en ligne",
-      "Possibilité de participer à la présélection internationale et à la finale internationale"
-    ],
-    "eligibilite": [
-      "Être inscrit ou avoir été inscrit en doctorat au cours de l'année universitaire 2025-2026, ou avoir obtenu son doctorat au cours de l'année universitaire 2024-2025",
-      "Présenter un état d'avancement suffisant du projet de recherche doctoral (à partir de la fin de la deuxième année de thèse)",
-      "Ne pas avoir remporté de prix du jury ou du public lors d'une précédente finale nationale de MT180",
-      "Être disponible et présent à la finale nationale ainsi qu'aux activités liées",
-      "Être capable de s'exprimer en français",
-      "Pour les doctorants en cotutelle : choisir le territoire de participation (Asie-Pacifique ou autre) dès l'inscription, choix définitif"
-    ],
-    "procedure_etapes": [
-      "1. Remplir le formulaire d'inscription en ligne avant le 31 juillet 2026",
-      "2. Joindre une vidéo de présentation de thèse en 3 minutes (format MP4, AVI ou MOV)",
-      "3. Attendre l'annonce des résultats de sélection le 10 août 2026",
-      "4. Suivre le cycle de formation du 30 août au 4 septembre 2026 (si sélectionné)",
-      "5. Participer à la finale régionale en ligne le 25 septembre 2026"
-    ],
-    "contacts": [
-      "nguyen.thi.thuy.nga@auf.org"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://appels-propositions.auf.org/deuxieme-edition-du-concours-ma-these-en-180-secondes-en-asie-pacifique"
-      },
-      {
-        "label": "Candidater",
-        "url": "/connexion?course=mt180drap2-6a029a255f76e&cid=216&Itemid=1135"
-      }
-    ],
-    "mots_cles": [
-      "concours",
-      "ma thèse en 180 secondes",
-      "MT180",
-      "doctorat",
-      "vulgarisation scientifique",
-      "Asie-Pacifique",
-      "francophonie",
-      "AUF",
-      "2026"
-    ],
-    "lien_candidature": "/connexion?course=mt180drap2-6a029a255f76e&cid=216&Itemid=1135",
-    "source_url": "https://appels-propositions.auf.org/deuxieme-edition-du-concours-ma-these-en-180-secondes-en-asie-pacifique",
-    "statut": "ouvert",
-    "resume": "L'Agence Universitaire de la Francophonie (AUF) lance la deuxième édition régionale Asie-Pacifique du concours « Ma thèse en 180 secondes ». Ce concours permet aux doctorants et jeunes docteurs de présenter leur sujet de recherche en termes simples en trois minutes. Les candidats doivent être inscrits en doctorat en 2025-2026 ou avoir obtenu leur doctorat en 2024-2025, et s'exprimer en français. Les inscriptions sont ouvertes jusqu'au 31 juillet 2026, avec une finale régionale en ligne prévue le 25 septembre 2026.",
-    "extrait_le": "2026-06-16T04:00:33",
-    "slug": "concours-ma-these-180-secondes-asie-pacifique-2026"
-  },
-  {
-    "titre": "Prix AUF Dolla Karam Sarkis 2026",
-    "seo_slug": "prix-auf-dolla-karam-sarkis-2026",
-    "organisation": "AUF Moyen-Orient",
-    "montant": 4000,
-    "devise": "EUR",
-    "type_financement": "prix",
-    "deadline": "2026-07-31",
-    "deadline_texte": "31 juillet 2026 à 12h00 (fuseau Europe/Paris)",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Toutes les disciplines scientifiques"
-    ],
-    "pays_eligibles": [
-      "Liban"
-    ],
-    "age_maximum": 40,
-    "langue_requise": "Français",
+    "age_maximum": 21,
+    "langue_requise": "Français, Anglais",
     "documents_requis": [
       "Formulaire de candidature en ligne",
-      "Attestation de travail prouvant le rattachement à un établissement d'enseignement supérieur libanais membre de l'AUF",
-      "Extrait d'état civil",
-      "Copie du diplôme de doctorat",
-      "Curriculum vitae à jour en français détaillé (liste de publications, interventions, brevets, prix et distinctions)"
-    ],
-    "avantages": [
-      "Prix de 4 000 € par lauréat",
-      "Cérémonie officielle de remise des prix"
-    ],
-    "eligibilite": [
-      "Jeune chercheur libanais",
-      "40 ans ou moins",
-      "Titulaire d'un doctorat",
-      "Projet de recherche en cours (programme scientifique, axe de recherche, post-doctorat, etc.)",
-      "Rattachement à un établissement d'enseignement supérieur libanais membre de l'AUF"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les critères d'éligibilité",
-      "2. Préparer les documents requis (CV, attestation de travail, extrait d'état civil, copie du doctorat)",
-      "3. Remplir le formulaire de candidature en ligne",
-      "4. Soumettre le dossier avant le 31 juillet 2026 à 12h00 (Europe/Paris)"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://appels-propositions.auf.org/prix-auf-dolla-karam-sarkis-2026-1"
-      },
-      {
-        "label": "Présentation Prix AUF Dolla Karam Sarkis 2026 (PDF)",
-        "url": "https://appels-propositions.auf.org/files/349/prix-auf-dolla-karam-sarkis-2025/322/Présentation Prix AUF Dolla Karam Sarkis 2026.pdf"
-      }
-    ],
-    "mots_cles": [
-      "prix",
-      "AUF",
-      "Dolla Karam Sarkis",
-      "jeune chercheur",
-      "Liban",
-      "recherche scientifique",
-      "doctorat",
-      "2026"
-    ],
-    "lien_candidature": "https://appels-propositions.auf.org/connexion?course=prixaufdol-67977a6a92fd8&cid=224&Itemid=1135",
-    "source_url": "https://appels-propositions.auf.org/prix-auf-dolla-karam-sarkis-2026-1",
-    "statut": "ouvert",
-    "resume": "Le Prix AUF Dolla Karam Sarkis 2026 récompense deux jeunes chercheurs libanais de 40 ans ou moins, titulaires d'un doctorat, pour un projet de recherche en cours. D'une valeur de 4 000 € chacun, ce prix honore la mémoire du Professeur Dolla Karam Sarkis et célèbre l'excellence scientifique au Liban. Les candidatures sont ouvertes jusqu'au 31 juillet 2026.",
-    "extrait_le": "2026-06-16T04:01:27",
-    "slug": "prix-auf-dolla-karam-sarkis-2026"
-  },
-  {
-    "titre": "Programme de Bourses Mastercard Foundation à l'Université McGill",
-    "seo_slug": "bourse-mastercard-foundation-mcgill-afrique-2026",
-    "organisation": "Mastercard Foundation Scholars Program at McGill University",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-07-31",
-    "deadline_texte": "31 juillet 2026 (dernière session d'information)",
-    "niveau_etudes": [
-      "Master"
-    ],
-    "domaines": [
-      "Sciences animales",
-      "Génie des bioressources",
-      "Biostatistique",
-      "Biotechnologie",
-      "Science alimentaire",
-      "Nutrition humaine",
-      "Santé publique",
-      "Politiques publiques"
-    ],
-    "pays_eligibles": [
-      "Algérie",
-      "Angola",
-      "Bénin",
-      "Botswana",
-      "Burkina Faso",
-      "Burundi",
-      "Cabo Verde",
-      "Cameroun",
-      "République centrafricaine",
-      "Tchad",
-      "Comores",
-      "Congo (République démocratique)",
-      "Congo (République)",
-      "Côte d'Ivoire",
-      "Djibouti",
-      "Égypte",
-      "Guinée équatoriale",
-      "Érythrée",
-      "Eswatini",
-      "Éthiopie",
-      "Gabon",
-      "Gambie",
-      "Ghana",
-      "Guinée",
-      "Guinée-Bissau",
-      "Kenya",
-      "Lesotho",
-      "Liberia",
-      "Libye",
-      "Madagascar",
-      "Malawi",
-      "Mali",
-      "Mauritanie",
-      "Maurice",
-      "Maroc",
-      "Mozambique",
-      "Namibie",
-      "Niger",
-      "Nigeria",
-      "Rwanda",
-      "São Tomé et Príncipe",
-      "Sénégal",
-      "Seychelles",
-      "Sierra Leone",
-      "Somalie",
-      "Afrique du Sud",
-      "Soudan du Sud",
-      "Soudan",
-      "Tanzanie",
-      "Togo",
-      "Tunisie",
-      "Ouganda",
-      "Zambie",
-      "Zimbabwe"
-    ],
-    "age_maximum": 35,
-    "langue_requise": "Anglais (non spécifié mais McGill exige anglais)",
-    "documents_requis": [
-      "Formulaire de candidature",
-      "Diplôme de bachelor",
-      "Relevés de notes",
-      "Preuve de citoyenneté",
-      "Passeport valide",
-      "Lettre de motivation",
-      "Preuve d'engagement social"
-    ],
-    "avantages": [
-      "Bourse complète (frais de scolarité, frais de subsistance, voyage, etc.)"
-    ],
-    "eligibilite": [
-      "Être admissible à un programme de maîtrise éligible à McGill",
-      "N'avoir jamais été inscrit ni complété un master",
-      "Être citoyen et résident d'un pays africain",
-      "Avoir un passeport valide et être admissible au Canada comme étudiant international",
-      "Ne pas avoir la double nationalité, asile, réfugié ou résident permanent aux États-Unis, Canada, Royaume-Uni ou UE",
-      "Avoir un dossier exceptionnel de service, leadership et activité dans son école/communauté",
-      "Démontrer un désir de redonner à sa communauté d'origine",
-      "Démontrer que des contraintes financières ont empêché ou limité ses opportunités éducatives",
-      "Âge maximum 35 ans à la date de candidature",
-      "Priorité aux femmes, personnes déplacées de force, personnes handicapées, et ceux avec First Class Honors"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier l'éligibilité et les programmes éligibles.",
-      "2. Assister à une session d'information obligatoire (inscription selon la région).",
-      "3. Recevoir le lien du formulaire de candidature après la session.",
-      "4. Soumettre la candidature complète avant la date limite."
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/information-sessions?fbclid=IwY2xjawSfE4RleHRuA2FlbQIxMABicmlkETFBb3dLMGlvU1kwZ2xGWFg4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlCUKjXxT5ptnn2XCAW9SYEDOmPhOZhjyUalK-N5GGV7EQyQ_6uoQUWho-57_aem_1Le8SPq50pPlAsYD0D3AtQ"
-      },
-      {
-        "label": "Page d'éligibilité",
-        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/eligibility"
-      },
-      {
-        "label": "Sessions d'information",
-        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/information-sessions"
-      },
-      {
-        "label": "Processus de sélection",
-        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/selection-process"
-      },
-      {
-        "label": "FAQ",
-        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/faq"
-      },
-      {
-        "label": "Formulaire de barrière technologique",
-        "url": "https://forms.office.com/r/qCCssAtKnM"
-      },
-      {
-        "label": "Inscription session Afrique du Nord/Ouest (23 juin)",
-        "url": "https://forms.office.com/r/BXXkC2EZFd"
-      },
-      {
-        "label": "Liste des pays éligibles",
-        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/eligibility#eligible-countries"
-      }
-    ],
-    "mots_cles": [
-      "bourse mastercard foundation",
-      "bourse mcgill",
-      "master afrique",
-      "bourse master 2026",
-      "bourse complète canada",
-      "bourse leadership",
-      "bourse développement"
-    ],
-    "lien_candidature": "https://www.mcgill.ca/mastercardfdn-scholars/apply/information-sessions",
-    "source_url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/information-sessions?fbclid=IwY2xjawSfE4RleHRuA2FlbQIxMABicmlkETFBb3dLMGlvU1kwZ2xGWFg4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlCUKjXxT5ptnn2XCAW9SYEDOmPhOZhjyUalK-N5GGV7EQyQ_6uoQUWho-57_aem_1Le8SPq50pPlAsYD0D3AtQ",
-    "statut": "ouvert",
-    "resume": "Le Programme de Bourses Mastercard Foundation à l'Université McGill offre une bourse complète pour des études de master à des étudiants africains talentueux ayant un fort engagement social. Les candidats doivent assister à une session d'information obligatoire avant de postuler. Les programmes éligibles couvrent des domaines variés comme la santé publique, les politiques publiques et les sciences alimentaires. Priorité est donnée aux femmes, aux personnes déplacées et aux personnes handicapées.",
-    "adresse": "Suite 4100, Brown Student Services Building, 3600 rue McTavish, Montréal, Quebec H3A 0G3",
-    "extrait_le": "2026-06-17T05:47:44",
-    "slug": "bourse-mastercard-foundation-mcgill-afrique-2026"
-  },
-  {
-    "titre": "Forum Civique des Jeunes 2026",
-    "seo_slug": "forum-civique-jeunes-copenhague-2026",
-    "organisation": "Centre for Diplomatic Advancement",
-    "montant": null,
-    "devise": "USD",
-    "type_financement": "bourse complète, partielle, accès gratuit",
-    "deadline": "2026-07-31",
-    "deadline_texte": "31 juillet 2026 (estimé)",
-    "niveau_etudes": [
-      "Tous niveaux"
-    ],
-    "domaines": [
-      "Gouvernance",
-      "Politiques publiques",
-      "Leadership civique",
-      "Démocratie",
-      "Développement durable"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": 45,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne",
-      "Lettre de motivation",
-      "Preuve d'engagement civique"
-    ],
-    "avantages": [
-      "Billet d'avion (bourse complète)",
-      "Hébergement partagé",
-      "Repas pendant le forum",
-      "Petit-déjeuner quotidien",
-      "Frais de visa (bourse complète)",
-      "Coordination d'ambassade",
-      "Lettre d'invitation officielle",
-      "Accès au forum",
-      "Opportunité de prise de parole",
-      "Certificat international",
-      "Reconnaissance de leadership"
-    ],
-    "eligibilite": [
-      "Âge 16-45 ans",
-      "Toutes nationalités",
-      "Étudiants, jeunes professionnels, militants, chercheurs, décideurs, entrepreneurs sociaux",
-      "Maîtrise de l'anglais (niveau professionnel)"
-    ],
-    "procedure_etapes": [
-      "1. Remplir le formulaire de candidature en ligne",
-      "2. Soumettre une seule candidature pour toutes les catégories de bourse",
-      "3. Attendre la sélection basée sur la motivation, l'impact civique, l'intérêt politique, le potentiel de leadership, la diversité et la qualité de la candidature"
-    ],
-    "contacts": [
-      "info@mtscholarships.org"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://www.youtube.com/watch?v=2i4D5LYx_Qg&t=26s"
-      },
-      {
-        "label": "Page de candidature aux bourses",
-        "url": "https://thecda.co/product/cyf-2026-scholarships/"
-      },
-      {
-        "label": "Inscription payante - Lettre d'invitation",
-        "url": "https://thecda.co/product/invitation-only-cyf-2026/"
-      },
-      {
-        "label": "Inscription payante - Accès Forum",
-        "url": "https://thecda.co/product/forum-access-cyf-2026/"
-      },
-      {
-        "label": "Inscription payante - Package autofinancé",
-        "url": "https://thecda.co/product/self-funded-cyf-2026/"
-      }
-    ],
-    "mots_cles": [
-      "bourse forum jeunesse",
-      "copenhague 2026",
-      "leadership civique",
-      "gouvernance",
-      "politiques publiques",
-      "bourse entièrement financée",
-      "jeunes délégués",
-      "danemark"
-    ],
-    "lien_candidature": "https://thecda.co/product/cyf-2026-scholarships/",
-    "source_url": "https://thecda.co/civic-youth-forum-2026/?gad_source=0&gad_campaignid=23731100822&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD2yaze8G1lvOZTth3k2uHtAjJugPDvQkldtX9Gkgs3wJYJNTMlIfN8aAjKUEALw_wcB#",
-    "statut": "ouvert",
-    "resume": "Le Forum Civique des Jeunes 2026 (CYF 2026) se tiendra à Copenhague, au Danemark, du 17 au 20 septembre 2026. Organisé par le Centre pour l'Avancement Diplomatique, cet événement international offre 500 bourses réparties en trois catégories : 100 places entièrement financées (incluant billet d'avion, hébergement et frais de visa), 150 places partiellement financées et 250 accès gratuits. Ouvert à toutes les nationalités pour les jeunes de 16 à 45 ans, le forum propose des ateliers sur le leadership civique, la gouvernance et les politiques publiques, avec une langue de travail anglaise. Les candidats sont automatiquement considérés pour toutes les catégories via une seule candidature en ligne.",
-    "extrait_le": "2026-06-19T16:23:04",
-    "slug": "forum-civique-jeunes-copenhague-2026"
-  },
-  {
-    "titre": "Bourses de Recherche du 90e Anniversaire du British Council",
-    "seo_slug": "bourses-recherche-british-council-2027",
-    "organisation": "British Council et Institute for Advanced Studies in the Humanities (IASH), University of Edinburgh",
-    "montant": 2500,
-    "devise": "GBP",
-    "type_financement": "bourse complète",
-    "deadline": "2026-07-31",
-    "deadline_texte": "31 juillet 2026 à 17h00 BST",
-    "niveau_etudes": [
-      "Postdoctorat"
-    ],
-    "domaines": [
-      "Arts",
-      "Éducation",
-      "Langue anglaise",
-      "Relations internationales",
-      "Soft power",
-      "Développement international",
-      "Consolidation de la paix",
-      "Relations culturelles",
-      "Diplomatie culturelle"
-    ],
-    "pays_eligibles": [
-      "Albanie",
-      "Algérie",
-      "Argentine",
-      "Arménie",
-      "Azerbaïdjan",
-      "Bangladesh",
-      "Bosnie-Herzégovine",
-      "Botswana",
-      "Brésil",
-      "Cambodge",
-      "Cameroun",
-      "Chine",
-      "Colombie",
-      "Cuba",
-      "Égypte",
-      "Éthiopie",
-      "Géorgie",
-      "Ghana",
-      "Inde",
-      "Indonésie",
-      "Irak",
-      "Jamaïque",
-      "Jordanie",
-      "Kazakhstan",
-      "Kenya",
-      "Kosovo",
-      "Laos",
-      "Liban",
-      "Libye",
-      "Malawi",
-      "Malaisie",
-      "Maurice",
-      "Mexique",
-      "Monténégro",
-      "Maroc",
-      "Mozambique",
-      "Myanmar",
-      "Namibie",
-      "Népal",
-      "Nigeria",
-      "Macédoine du Nord",
-      "Pakistan",
-      "Pérou",
-      "Philippines",
-      "Rwanda",
-      "Sénégal",
-      "Serbie",
-      "Sierra Leone",
-      "Afrique du Sud",
-      "Soudan du Sud",
-      "Sri Lanka",
-      "Soudan",
-      "Syrie",
-      "Tanzanie",
-      "Thaïlande",
-      "Tunisie",
-      "Turquie",
-      "Ouganda",
-      "Ukraine",
-      "Ouzbékistan",
-      "Venezuela",
-      "Vietnam",
-      "Territoires palestiniens occupés",
-      "Yémen",
-      "Zambie",
-      "Zimbabwe"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature",
-      "CV",
-      "Proposition de recherche",
-      "Lettre de motivation",
-      "Références (2 à 3, envoyées par les référents à iash@ed.ac.uk)"
-    ],
-    "avantages": [
-      "Bourse mensuelle de 2 500 £ pendant 12 mois",
-      "Frais de voyage",
-      "Espace de travail dédié",
-      "Accès à la bibliothèque de l'Université d'Édimbourg",
-      "Adresse e-mail universitaire",
-      "Mentorat académique",
-      "Déjeuners hebdomadaires des boursiers",
-      "Séminaires de travail en cours",
-      "Calendrier d'événements",
-      "Opportunités de participer et de concevoir des ateliers financés"
-    ],
-    "eligibilite": [
-      "Être basé dans un pays bénéficiaire de l'APD où le British Council opère",
-      "Avoir obtenu un doctorat dans les 7 dernières années (tenant compte des pauses de carrière)",
-      "Ne pas avoir occupé un poste permanent dans une université ou une bourse antérieure à l'IASH",
-      "Proposer une recherche alignée sur la vision du British Council et les domaines prioritaires (Arts, Éducation, Langue anglaise, relations internationales, etc.)",
-      "Inclure des résultats pertinents pour la politique ou la pratique de l'APD"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier l'éligibilité (pays, doctorat récent, etc.).",
-      "2. Préparer les documents : formulaire de candidature, CV, proposition de recherche, lettre de motivation.",
-      "3. Demander à 2-3 référents d'envoyer leurs lettres de référence à iash@ed.ac.uk avant la date limite.",
-      "4. Soumettre la candidature via le portail en ligne avant le 31 juillet 2026 à 17h00 BST.",
-      "5. Envoyer tout document supplémentaire par email à iash@ed.ac.uk.",
-      "6. Attendre la notification des résultats fin septembre 2026."
-    ],
-    "contacts": [
-      "researchglobal@britishcouncil.org",
-      "iash@ed.ac.uk",
-      "+44 (0)131 650 4671"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://www.iash.ed.ac.uk/british-council-90th-anniversary-research-fellowships?fbclid=IwY2xjawSiTedleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsfZNQ_-0Xzxknn5VNRRZW8lzJBrZMDieN7V9I8BSjqfnixiNX2O_AbNxZ7Y_aem_LF8NerQ-TbFJ9cq99LpRog"
-      },
-      {
-        "label": "Portail de candidature",
-        "url": "https://www.iash.ed.ac.uk/application-form"
-      },
-      {
-        "label": "Enregistrement du webinaire",
-        "url": "https://media.ed.ac.uk/media/Webinar%3A+British+Council+90th+Anniversary+Research+Fellowships+at+IASH+2027/1_27yh7q8c"
-      },
-      {
-        "label": "Diapositives du webinaire (PDF)",
-        "url": "https://www.iash.ed.ac.uk/sites/default/files/IASH%20BC%20Fellowships%202027.pdf"
-      },
-      {
-        "label": "Liste des pays éligibles (page 139 du rapport annuel)",
-        "url": "https://www.britishcouncil.org/sites/default/files/britishcouncil_annualreport_2022-23.pdf"
-      },
-      {
-        "label": "Stratégie du British Council",
-        "url": "https://www.britishcouncil.org/about-us/our-strategy"
-      },
-      {
-        "label": "Définition de l'APD (OCDE)",
-        "url": "https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/official-development-assistance.htm"
-      }
-    ],
-    "mots_cles": [
-      "bourse postdoctorale",
-      "British Council",
-      "recherche",
-      "Édimbourg",
-      "Royaume-Uni",
-      "APD",
-      "arts",
-      "éducation",
-      "relations internationales",
-      "2027"
-    ],
-    "lien_candidature": "https://www.iash.ed.ac.uk/application-form",
-    "source_url": "https://www.iash.ed.ac.uk/british-council-90th-anniversary-research-fellowships?fbclid=IwY2xjawSiTedleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsfZNQ_-0Xzxknn5VNRRZW8lzJBrZMDieN7V9I8BSjqfnixiNX2O_AbNxZ7Y_aem_LF8NerQ-TbFJ9cq99LpRog",
-    "statut": "ouvert",
-    "resume": "Le British Council, en partenariat avec l'Institute for Advanced Studies in the Humanities (IASH) de l'Université d'Édimbourg, propose des bourses de recherche postdoctorales de 12 mois pour des chercheurs en début de carrière issus de pays éligibles à l'APD. Les boursiers passeront 10 mois à Édimbourg et 2 mois dans leur pays d'origine pour des activités de transfert de connaissances. La bourse comprend une allocation mensuelle de 2 500 £, les frais de voyage, un espace de travail, l'accès à la bibliothèque et un mentorat académique. Les candidatures sont ouvertes jusqu'au 31 juillet 2026.",
-    "adresse": "The Institute for Advanced Studies in the Humanities The University of Edinburgh Hope Park Square Edinburgh EH8 9NW",
-    "extrait_le": "2026-06-19T16:33:04",
-    "slug": "bourses-recherche-british-council-2027"
-  },
-  {
-    "titre": "Programme de Bourse Spéciale (SSP) - Doctorat à l'Université de Technologie de Kochi",
-    "seo_slug": "bourse-ssp-doctorat-japon-2026",
-    "organisation": "Kochi University of Technology (KUT)",
-    "montant": 150000,
-    "devise": "JPY",
-    "type_financement": "bourse complète",
-    "deadline": "2026-07-31",
-    "deadline_texte": "31 juillet 2026",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Ingénierie",
-      "Génie mécanique et aérospatial",
-      "Génie électronique et photonique",
-      "Architecture et conception d'infrastructures",
-      "Sciences de l'ingénieur",
-      "Informatique",
-      "Données et innovation",
-      "Économie et gestion"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": 35,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "CV",
-      "Lettre de motivation",
       "Relevés de notes",
       "Diplômes",
-      "Lettre de recommandation",
-      "Preuve de compétence en anglais",
-      "Formulaire de pré-candidature en ligne",
-      "Formulaire d'accord du superviseur"
+      "Pièce d'identité"
     ],
     "avantages": [
-      "Exonération des frais d'examen d'entrée (15 000 yens)",
-      "Exonération des frais d'inscription (300 000 yens)",
-      "Exonération des frais de scolarité (535 800 yens/an pendant 3 ans)",
-      "Bourse mensuelle de 150 000 yens pour les frais de subsistance (3 ans)",
-      "Allocation de 150 000 yens pour le voyage et les frais d'installation (uniquement pour les candidats internationaux vivant hors du Japon)"
+      "Bourse complète",
+      "Frais de scolarité",
+      "Frais de subsistance",
+      "Frais de voyage"
     ],
     "eligibilite": [
-      "Avoir l'autorisation du superviseur préféré pour postuler",
-      "Détenir un diplôme de master ou équivalent après 18 ans d'études",
-      "Avoir 35 ans ou moins au moment de l'inscription",
-      "Excellent dossier académique et diplômes de master et bachelor de qualité",
-      "Intention, connaissances et compétences de recherche adéquates dans le domaine",
-      "Maîtrise élevée de l'anglais"
+      "Être de nationalité malienne",
+      "Pour les néo-bacheliers : être bachelier de la session de juin 2026, âgé de 21 ans au plus au 31 décembre 2026, avoir obtenu au moins la mention Bien (14/20) avec l'anglais comme LV1",
+      "Pour les détenteurs de DUT/Licence : être titulaire d'un DUT ou d'une licence (Bac+2 ou Bac+3) délivré par un établissement reconnu par l'État, dans un domaine scientifique, technique, économique ou juridique en lien avec le secteur minier, avoir une moyenne générale supérieure ou égale à 12/20 (mention assez bien) sur l'ensemble du cursus et lors des soutenances"
     ],
     "procedure_etapes": [
-      "1. Consulter la liste des superviseurs SSP et contacter un superviseur potentiel pour obtenir son accord.",
-      "2. Soumettre une pré-candidature en ligne via le portail dédié.",
-      "3. Préparer et soumettre les documents requis selon les directives de candidature SSP.",
-      "4. Passer les entretiens et examens éventuels.",
-      "5. Recevoir la décision d'admission et procéder aux formalités d'inscription."
+      "1. Consulter le communiqué officiel et les profils de formation via les liens fournis",
+      "2. Préparer les documents requis (relevés de notes, diplômes, pièce d'identité)",
+      "3. Remplir le formulaire de candidature en ligne via le lien Google Forms avant le 07 août 2026 à 17h00"
     ],
-    "contacts": [
-      "+81 887 53 1130"
-    ],
+    "contacts": [],
     "liens_utiles": [
       {
-        "label": "Site officiel",
-        "url": "https://www.kochi-tech.ac.jp/english/admission/ssp/outline.html?fbclid=IwY2xjawSiVQhleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlEqRao0kszGDW4HLVLjoBydkT7iHKSJhQ0a30pWNqOPwsDyIyfJgK61e7SG_aem_LTUdjNaDmZCn67s0FAme-w"
+        "label": "Formulaire de candidature (Google Forms)",
+        "url": "https://forms.gle/Yisa3e2bQAAGGSgi7"
       },
       {
-        "label": "Directives de candidature SSP",
-        "url": "https://www.kochi-tech.ac.jp/english/admission/ssp/application-guideline.html"
+        "label": "Communiqué officiel (PDF)",
+        "url": "https://dg-enseignementsup.ml/wp-content/uploads/2026/07/Programme-presidentiel-de-bourses-d_etudes-dans-le-secteur-minier.pdf"
       },
       {
-        "label": "Liste des superviseurs SSP",
-        "url": "https://www.kochi-tech.ac.jp/english/admission/ssp/supervisor-list.html"
-      },
-      {
-        "label": "Pré-candidature en ligne",
-        "url": "https://irc-admission.kochi-tech.ac.jp/application_form/PreApplication/Index/ssp"
-      },
-      {
-        "label": "Thèses des diplômés SSP",
-        "url": "https://www.kochi-tech.ac.jp/english/admission/ssp_aft19oct/dissertations-of-graduated-ssp-students.html"
-      },
-      {
-        "label": "Témoignages d'étudiants",
-        "url": "https://www.kochi-tech.ac.jp/english/admission/ssp_aft19oct/students-voice-1.html"
-      },
-      {
-        "label": "Liste des conférences internationales",
-        "url": "https://www.kochi-tech.ac.jp/english/admission/ssp_aft19oct/list-of-international-conferences-ssp-students-joined.html"
-      },
-      {
-        "label": "Logement - International House (Campus Kami)",
-        "url": "https://www.kochi-tech.ac.jp/english/campus_life/housing/international_house.html"
-      },
-      {
-        "label": "Logement - Dormitory Takasone C (Campus Eikokuji)",
-        "url": "https://www.kochi-tech.ac.jp/english/campus_life/housing/takasone_dormitory_c_eikokuji_campus.html"
-      },
-      {
-        "label": "Logement - Location individuelle",
-        "url": "https://www.kochi-tech.ac.jp/english/campus_life/housing/renting.html"
+        "label": "Profils de formation PPBEM (PDF)",
+        "url": "https://dg-enseignementsup.ml/wp-content/uploads/2026/07/Profiles-PPBEM-2026.pdf"
       }
     ],
     "mots_cles": [
-      "bourse doctorat japon",
-      "ssp kochi",
-      "bourse complète japon",
-      "doctorat ingénierie japon",
-      "bourse kochi university"
+      "bourse Mali",
+      "secteur minier",
+      "bourse présidentielle",
+      "études supérieures Mali",
+      "bourse 2026"
     ],
-    "lien_candidature": "https://irc-admission.kochi-tech.ac.jp/application_form/PreApplication/Index/ssp",
-    "source_url": "https://www.kochi-tech.ac.jp/english/admission/ssp/outline.html?fbclid=IwY2xjawSiVQhleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlEqRao0kszGDW4HLVLjoBydkT7iHKSJhQ0a30pWNqOPwsDyIyfJgK61e7SG_aem_LTUdjNaDmZCn67s0FAme-w",
+    "lien_candidature": "https://forms.gle/Yisa3e2bQAAGGSgi7",
+    "source_url": "https://dg-enseignementsup.ml/9883-2/",
     "statut": "ouvert",
-    "resume": "Le Programme de Bourse Spéciale (SSP) de l'Université de Technologie de Kochi (KUT) offre un financement complet pour un doctorat de 3 ans en ingénierie. Les étudiants bénéficient d'une exonération totale des frais de scolarité, d'une bourse mensuelle de 150 000 yens et d'une allocation d'installation de 150 000 yens. Ce programme de recherche en anglais est ouvert aux candidats internationaux de moins de 35 ans titulaires d'un master. Les candidatures se font en ligne après accord d'un superviseur.",
-    "adresse": "185 Miyanokuchi, Tosayamada, Kami City, Kochi 782-8502, JAPAN",
-    "extrait_le": "2026-06-19T17:06:26",
-    "slug": "bourse-ssp-doctorat-japon-2026"
-  },
-  {
-    "titre": "Autonomisation des jeunes et des femmes face à l'instabilité économique : Renforcer le partenariat public-privé entre le Japon et l'Afrique pour les pays d'Afrique subsaharienne, relever les défis urgents et promouvoir la TICAD9",
-    "seo_slug": "bourse-unitar-ticad9-afrique-japon-2026",
-    "organisation": "United Nations Institute for Training and Research (UNITAR)",
-    "montant": 0,
-    "devise": "USD",
-    "type_financement": "gratuit",
-    "deadline": "2026-07-31",
-    "deadline_texte": "31 juillet 2026",
-    "niveau_etudes": [
-      "Professionnel",
-      "Master",
-      "Doctorat"
-    ],
-    "domaines": [
-      "Finance publique et commerce",
-      "Entrepreneuriat",
-      "Innovation",
-      "Développement durable",
-      "Partenariats public-privé"
-    ],
-    "pays_eligibles": [
-      "Afrique subsaharienne"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Candidature en ligne"
-    ],
-    "avantages": [
-      "Programme de formation gratuit",
-      "Mentorat",
-      "Immersion au Japon (phase III)"
-    ],
-    "eligibilite": [
-      "Jeunes et femmes d'Afrique subsaharienne",
-      "Intérêt pour l'entrepreneuriat et l'innovation",
-      "Capacité à développer des projets"
-    ],
-    "procedure_etapes": [
-      "1. Créer un compte sur le site UNITAR",
-      "2. Remplir le formulaire de candidature en ligne",
-      "3. Soumettre avant le 31 juillet 2026"
-    ],
-    "contacts": [
-      "tftp@unitar.org"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel UNITAR",
-        "url": "http://www.unitar.org"
-      },
-      {
-        "label": "Page de l'événement",
-        "url": "https://event.unitar.org/full-catalog/empowering-youth-and-women-amid-economic-instability-enhancing-public-private?fbclid=IwY2xjawS5PUxleHRuA2FlbQIxMABicmlkETFsVGRlWHY0VTdFd2h2WVhTc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkQCcFHDUAqevoX8_rXSB-3scqFTV0jyuue48Vp6xN4h_DL1vKf__RSAEk3I_aem_BVLsEYN11-k1r2rG6TTQPg"
-      }
-    ],
-    "mots_cles": [
-      "bourse",
-      "formation",
-      "Afrique subsaharienne",
-      "Japon",
-      "TICAD9",
-      "jeunes",
-      "femmes",
-      "entrepreneuriat",
-      "innovation",
-      "partenariat public-privé"
-    ],
-    "lien_candidature": "https://event.unitar.org/full-catalog/empowering-youth-and-women-amid-economic-instability-enhancing-public-private?fbclid=IwY2xjawS5PUxleHRuA2FlbQIxMABicmlkETFsVGRlWHY0VTdFd2h2WVhTc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkQCcFHDUAqevoX8_rXSB-3scqFTV0jyuue48Vp6xN4h_DL1vKf__RSAEk3I_aem_BVLsEYN11-k1r2rG6TTQPg",
-    "source_url": "https://event.unitar.org/full-catalog/empowering-youth-and-women-amid-economic-instability-enhancing-public-private?fbclid=IwY2xjawS5PUxleHRuA2FlbQIxMABicmlkETFsVGRlWHY0VTdFd2h2WVhTc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkQCcFHDUAqevoX8_rXSB-3scqFTV0jyuue48Vp6xN4h_DL1vKf__RSAEk3I_aem_BVLsEYN11-k1r2rG6TTQPg",
-    "statut": "ouvert",
-    "resume": "L'UNITAR, avec le soutien du gouvernement japonais, lance un programme de renforcement des capacités pour les jeunes et les femmes d'Afrique subsaharienne dans le cadre de la TICAD9. Ce programme gratuit de 7 mois (août 2026 à février 2027) combine formation en ligne, mentorat et une immersion au Japon pour transformer des idées innovantes en projets viables et attractifs pour les investisseurs. Les candidatures sont ouvertes jusqu'au 31 juillet 2026.",
-    "imageUrl": "/docs/autonomiser-jeunes-femmes-japon-unitar.webp",
-    "extrait_le": "2026-07-07T05:16:29",
-    "slug": "bourse-unitar-ticad9-afrique-japon-2026"
-  },
-  {
-    "titre": "Appel à candidatures : Conseil des jeunes co-créateurs africains",
-    "seo_slug": "conseil-jeunes-co-createurs-africains-2026",
-    "organisation": "Programme des Nations Unies pour le développement (PNUD)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "volontariat avec prise en charge des frais",
-    "deadline": "2026-07-31",
-    "deadline_texte": "31 juillet 2026",
-    "niveau_etudes": [],
-    "domaines": [
-      "Gouvernance",
-      "Paix",
-      "Climat",
-      "Économie",
-      "Innovation numérique",
-      "Santé mentale",
-      "Genre"
-    ],
-    "pays_eligibles": [
-      "Afrique",
-      "Diaspora africaine"
-    ],
-    "age_maximum": 34,
-    "langue_requise": "Anglais (fort) ; soumissions acceptées en français",
-    "documents_requis": [
-      "Formulaire de candidature en ligne"
-    ],
-    "avantages": [
-      "Prise en charge des frais de voyage, hébergement, repas et communications numériques pour les activités du Conseil"
-    ],
-    "eligibilite": [
-      "Être un ressortissant africain âgé de 18 à 34 ans au moment de la sélection",
-      "Vivre sur le continent ou dans la diaspora (maximum 2 sièges pour la diaspora)",
-      "Avoir démontré une expérience de leadership, d'engagement communautaire ou d'innovation dans au moins un des domaines listés",
-      "Être engagé en faveur du développement inclusif et de l'autonomisation des jeunes",
-      "Ne pas avoir siégé auparavant dans un conseil consultatif de la jeunesse ou mécanisme similaire de l'ONU ou d'un autre partenaire de développement",
-      "Pouvoir participer à des réunions virtuelles régulières et à des engagements en personne périodiques",
-      "Avoir une bonne maîtrise de l'anglais écrit et parlé",
-      "Pouvoir siéger à titre personnel et apolitique"
-    ],
-    "procedure_etapes": [
-      "1. Compléter le formulaire de candidature en ligne avant le 31 juillet 2026",
-      "2. Les bureaux de pays du PNUD en Afrique compilent une liste longue",
-      "3. L'équipe RSCA prépare une liste restreinte basée sur la diversité régionale et les critères d'inclusion",
-      "4. Les candidats présélectionnés sont interviewés par un panel",
-      "5. Les candidats les mieux classés sont officiellement notifiés"
-    ],
-    "contacts": [
-      "ana.dju@undp.org"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://shorturl.at/Cajzy"
-      }
-    ],
-    "mots_cles": [
-      "conseil jeunesse",
-      "PNUD",
-      "Afrique",
-      "co-création",
-      "leadership",
-      "jeunes",
-      "diaspora",
-      "bénévole",
-      "2026"
-    ],
-    "lien_candidature": "https://shorturl.at/Cajzy",
-    "source_url": "https://www.undp.org/africa/blog/call-applications-african-youth-co-creators-council",
-    "statut": "ouvert",
-    "resume": "Le PNUD lance un appel à candidatures pour son Conseil des jeunes co-créateurs africains, sélectionnant 11 jeunes leaders d'Afrique et de la diaspora pour conseiller et co-créer ses programmes jeunesse. Les membres, âgés de 18 à 34 ans, siégeront pour deux ans et participeront à des réunions en ligne et en personne. Les frais de voyage et d'hébergement sont pris en charge. Candidatures avant le 31 juillet 2026.",
+    "resume": "Le Programme Présidentiel de Bourses d'Études dans le Secteur Minier du Mali (PPBEM) offre 30 bourses complètes pour des études supérieures dans des domaines liés au secteur minier. Les candidats maliens, qu'ils soient néo-bacheliers (10 bourses) ou titulaires d'un DUT/Licence (20 bourses), peuvent postuler avant le 07 août 2026. Les critères incluent l'excellence académique et, pour les néo-bacheliers, une limite d'âge de 21 ans. Les candidatures se font en ligne via un formulaire Google Forms.",
     "imageUrl": null,
-    "extrait_le": "2026-07-15T13:45:25",
-    "slug": "conseil-jeunes-co-createurs-africains-2026"
+    "extrait_le": "2026-08-03T07:46:36",
+    "slug": "bourse-presidentielle-mali-secteur-minier-2026"
   },
   {
     "titre": "Appel à candidatures pour siéger au Conseil consultatif sur l'intégrité YouthLED de l'UNODC 2026-2028",
@@ -1617,89 +506,6 @@
     "imageUrl": "/docs/McCall-MacBain-bourse-d-etude-de-l-universit-s.jpg",
     "extrait_le": "2026-07-06T04:37:57",
     "slug": "bourse-mccall-macbain-mcgill-2027"
-  },
-  {
-    "titre": "Programme de bourses Mastercard Foundation à l'Université du Rwanda",
-    "seo_slug": "bourse-mastercard-rwanda-master-2026",
-    "organisation": "Mastercard Foundation",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-08-22",
-    "deadline_texte": "22 août 2026 à 23h59 (heure d'Afrique centrale)",
-    "niveau_etudes": [
-      "Master"
-    ],
-    "domaines": [
-      "STEM",
-      "Sciences",
-      "Technologie",
-      "Ingénierie",
-      "Mathématiques"
-    ],
-    "pays_eligibles": [
-      "Rwanda",
-      "Afrique"
-    ],
-    "age_maximum": 45,
-    "langue_requise": "Non spécifié",
-    "documents_requis": [
-      "Formulaire de candidature en ligne",
-      "Pièces justificatives (format PDF, moins de 250 Ko)"
-    ],
-    "avantages": [
-      "Frais de scolarité complets",
-      "Ordinateur portable",
-      "Matériel pédagogique",
-      "Billet d'avion aller-retour annuel",
-      "Allocation mensuelle",
-      "Soutien psychosocial",
-      "Stages",
-      "Mentorat académique et professionnel"
-    ],
-    "eligibilite": [
-      "Avoir postulé à l'admission à l'Université du Rwanda pour la rentrée de septembre 2026 (programmes de 2 ans)",
-      "80% des places réservées aux filières STEM",
-      "Priorité : 70% femmes, 25% réfugiés certifiés, 10% personnes en situation de handicap",
-      "Ne pas être déjà inscrit dans un autre établissement",
-      "Licence dans un domaine lié au Master visé",
-      "Nationalité rwandaise ou africaine (réfugiés certifiés par HCR, MINEMA ou autre)",
-      "Âge max : 40 ans hommes, 45 ans femmes",
-      "Besoins sociaux/économiques critiques et/ou handicap",
-      "Engagement en leadership et action communautaire"
-    ],
-    "procedure_etapes": [
-      "1. Postuler à l'admission à l'Université du Rwanda pour septembre 2026",
-      "2. Remplir le formulaire en ligne sur https://mcfsprecruitment.ur.ac.rw/",
-      "3. Joindre tous les documents justificatifs requis (PDF, moins de 250 Ko, nommés avec le nom du candidat)",
-      "4. Cliquer sur 'Submit' une fois tous les champs et pièces jointes complétés"
-    ],
-    "contacts": [
-      "e.kamanzi@ur.ac.rw",
-      "registrar@ur.ac.rw",
-      "j.b.mugiraneza@ur.ac.rw",
-      "o.muvandimwe@ur.ac.rw"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature en ligne",
-        "url": "https://mcfsprecruitment.ur.ac.rw/"
-      }
-    ],
-    "mots_cles": [
-      "bourse mastercard foundation",
-      "bourse rwanda master",
-      "bourse africaine master",
-      "bourse stem afrique",
-      "bourse réfugié master"
-    ],
-    "lien_candidature": "https://mcfsprecruitment.ur.ac.rw/",
-    "source_url": "manuel",
-    "statut": "ouvert",
-    "resume": "Le programme de bourses Mastercard Foundation à l'Université du Rwanda offre 30 bourses complètes de Master pour l'année académique 2026-2027, destinées aux jeunes Africains talentueux mais économiquement défavorisés, avec une priorité aux femmes, réfugiés et personnes handicapées. Les candidats doivent déjà avoir postulé à l'admission à l'Université du Rwanda et remplir les critères d'éligibilité. La date limite de candidature est le 22 août 2026.",
-    "imageUrl": "/docs/Recrutement-en-ligne-des-tudiants-de-troisi-me-cycle.webp",
-    "extrait_le": "2026-07-27T03:26:29",
-    "slug": "bourse-mastercard-rwanda-master-2026"
   },
   {
     "titre": "Bourse ER.GO pour l'année académique 2026/2027",
@@ -2792,6 +1598,91 @@
     "slug": "reinvitation-anciens-boursiers-daad-2027"
   },
   {
+    "titre": "Concours de recrutement en Master Professionnel à l'École des Assistants Médicaux (EAM) de l'Université de Lomé - Année académique 2026-2027",
+    "seo_slug": "master-eam-universite-lome-2026",
+    "organisation": "Université de Lomé",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2026-09-25",
+    "deadline_texte": "Dépôt des dossiers du lundi 7 septembre 2026 au vendredi 25 septembre 2026, de 8h00 à 12h00 et de 15h00 à 17h00",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Anesthésie et Réanimation",
+      "Radiologie et Imagerie Médicale",
+      "Santé Environnementale",
+      "Instrumentation Chirurgicale des Blocs Opératoires",
+      "Santé Mentale",
+      "Ophtalmologie",
+      "Soins Obstétricaux et Néonataux"
+    ],
+    "pays_eligibles": [
+      "Togo",
+      "Étrangers"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français",
+    "documents_requis": [
+      "Lettre de motivation manuscrite adressée au directeur de l'EAM, précisant la spécialité choisie",
+      "Copie légalisée du diplôme de BAC II",
+      "Copie légalisée du DUT de l'EAM ou de la Licence Professionnelle de l'ENAM",
+      "Copie légalisée de la Licence LMD de la spécialité de son option ou d'un diplôme jugé équivalent",
+      "Copies légalisées de tous les relevés de notes du parcours Licence LMD",
+      "Justification des acquis ou expérience professionnelle (copies légalisées d'attestations d'emploi, de stages professionnels)",
+      "Copie légalisée de l'acte de naissance",
+      "Copie légalisée ou duplicata du certificat de nationalité",
+      "Curriculum vitae détaillé",
+      "Copie légalisée de la carte d'identité nationale ou du passeport en cours de validité",
+      "Certificat médical attestant que le candidat est apte à continuer ses études à l'Université",
+      "Autorisation du Ministère de tutelle ou de l'autorité administrative dont relève le candidat ou la candidate (pour les fonctionnaires)",
+      "Quittance (original) des frais d'étude de dossier, portant le nom du candidat, d'un montant de 15 000 FCFA pour les nationaux et 20 000 FCFA pour les étrangers, payable sur le compte de l'UL banque IB BANK n° 024 01030006429700111 01 ou ECOBANK N TG 055 01708 140004450003 40"
+    ],
+    "avantages": [],
+    "eligibilite": [
+      "Être titulaire d'une Licence LMD de la spécialité de son option ou d'un diplôme jugé équivalent",
+      "Pour le Master Professionnel en Soins Obstétricaux et Néonataux : avoir obtenu une licence professionnelle en Sciences infirmières, option : Soins obstétricaux et néonataux, ou être professionnel Sage-femme ou maïeuticien nanti d'un diplôme équivalent",
+      "Être étudiant, professionnel fonctionnaire ou contractuel",
+      "Pour les fonctionnaires : autorisation du Ministère de tutelle ou de l'autorité administrative",
+      "Pour les étrangers : admission sur étude de dossiers"
+    ],
+    "procedure_etapes": [
+      "Constituer le dossier de candidature avec les pièces requises",
+      "Payer les frais d'étude de dossier (15 000 FCFA pour les nationaux, 20 000 FCFA pour les étrangers) sur le compte de l'UL banque IB BANK n° 024 01030006429700111 01 ou ECOBANK N TG 055 01708 140004450003 40",
+      "Déposer le dossier complet au secrétariat de l'EAM, sis au CHU-Sylvanus Olympio, du lundi 7 septembre 2026 au vendredi 25 septembre 2026, de 8h00 à 12h00 et de 15h00 à 17h00",
+      "Participer à la présélection sur la base de la moyenne arithmétique des notes obtenues dans sept (7) UE de la Licence préparant à la spécialité (moyenne ≥ 12)",
+      "Passer l'épreuve d'entretien individuel (culture générale et expérience professionnelle) si présélectionné",
+      "Passer l'épreuve écrite de spécialité si retenu après l'entretien",
+      "Attendre les résultats publiés le 9 octobre 2026"
+    ],
+    "contacts": [
+      "+228 22 21 51 12"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de l'Université de Lomé",
+        "url": "http://www.univ-lome.tg"
+      }
+    ],
+    "mots_cles": [
+      "master professionnel",
+      "EAM",
+      "Université de Lomé",
+      "concours",
+      "Togo",
+      "santé",
+      "2026-2027"
+    ],
+    "lien_candidature": "http://www.univ-lome.tg",
+    "source_url": "manuel",
+    "statut": "ouvert",
+    "resume": "L'Université de Lomé ouvre un concours de recrutement pour le cycle Master Professionnel à l'École des Assistants Médicaux (EAM) pour l'année académique 2026-2027. Sept spécialités sont proposées, allant de l'anesthésie à la santé mentale. Les candidats doivent être titulaires d'une Licence LMD ou équivalent, et déposer un dossier complet entre le 7 et le 25 septembre 2026. Le concours comprend une présélection, un entretien et une épreuve écrite, avec des résultats attendus le 9 octobre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-03T07:45:40",
+    "slug": "master-eam-universite-lome-2026"
+  },
+  {
     "titre": "Fondation Rosa Luxemburg : Programme de bourses pour doctorants internationaux",
     "seo_slug": "bourse-rosa-luxemburg-doctorat-allemagne",
     "organisation": "Rosa Luxemburg Foundation",
@@ -3571,6 +2462,201 @@
     "imageUrl": "/docs/Bourses-d_-tudes-internationales-Lester-B.-Pearson.webp",
     "extrait_le": "2026-07-27T02:29:10",
     "slug": "bourse-pearson-international-2027"
+  },
+  {
+    "titre": "Bourse d'excellence et programme d'opportunités (ESOP) de l'ETH Zurich",
+    "seo_slug": "bourse-excellence-eth-zurich-master-2027",
+    "organisation": "ETH Zurich",
+    "montant": 12000,
+    "devise": "CHF",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-30",
+    "deadline_texte": "30 novembre 2026 à 11h59 (heure de l'Europe centrale)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Tous les domaines d'études de master à l'ETH Zurich"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (selon le programme)",
+    "documents_requis": [
+      "CV",
+      "Pré-proposition de thèse de master",
+      "Lettres de recommandation (si requis)",
+      "Documents d'admission au master"
+    ],
+    "avantages": [
+      "Bourse de 12 000 CHF par semestre",
+      "Exonération des frais de scolarité",
+      "Mentorat",
+      "Réseau de la Fondation ETH"
+    ],
+    "eligibilite": [
+      "Excellents résultats de bachelor (top 10%)",
+      "Ne pas être déjà inscrit dans un programme de master à l'ETH Zurich",
+      "Ne pas détenir déjà un diplôme de master",
+      "Postuler dans la première fenêtre de candidature"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Préparer les documents requis",
+      "3. Soumettre une candidature en ligne via eApply",
+      "4. Télécharger la pré-proposition de thèse de master",
+      "5. S'assurer que les références sont soumises avant la date limite"
+    ],
+    "contacts": [
+      "studienfinanzierung@sts.ethz.ch",
+      "+41 44 632 20 23",
+      "+41 44 632 20 88"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature eApply",
+        "url": "https://www.lehrbetrieb.ethz.ch/eApply/ealogin.view?lang=en"
+      },
+      {
+        "label": "Directives pour la pré-proposition (PDF)",
+        "url": "https://ethz.ch/content/dam/ethz/main/education/finanzielles/files-en/guidelines_preproposal.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse excellence ETH Zurich",
+      "bourse master Suisse",
+      "ESOP ETH",
+      "financement études master",
+      "bourse complète Suisse"
+    ],
+    "lien_candidature": "https://www.lehrbetrieb.ethz.ch/eApply/ealogin.view?lang=en",
+    "source_url": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html?fbclid=IwY2xjawTdI_xleHRuA2FlbQIxMABicmlkETFWOEhSUFNkcGRrVWg0ek5wc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHif-dxmch5nBZOUSpQ-7lTU3iqQRUJk3--MF4B5BFw4G5IqYim8Bz0r5pfM2_aem_WfOH-HH2VjgaRGX5opVkJg",
+    "statut": "ouvert",
+    "resume": "L'ETH Zurich offre la bourse d'excellence et programme d'opportunités (ESOP) aux étudiants de master exceptionnels. Cette bourse complète couvre les frais de subsistance et d'études, avec un montant de 12 000 CHF par semestre et une exonération des frais de scolarité. Les candidats doivent avoir d'excellents résultats de bachelor (top 10%) et postuler entre le 1er et le 30 novembre 2026 pour une entrée en master en 2027. La sélection inclut un entretien téléphonique ou en visioconférence en février, et les décisions sont communiquées fin mars.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-03T07:38:04",
+    "slug": "bourse-excellence-eth-zurich-master-2027"
+  },
+  {
+    "titre": "Bourses de l'Université de Maastricht pour étudiants internationaux",
+    "seo_slug": "bourses-universite-maastricht-internationaux-2027",
+    "organisation": "Maastricht University (UM)",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse partielle ou complète",
+    "deadline": "2026-12-08",
+    "deadline_texte": "8 décembre 2026 (pour la bourse Maastricht University NL-High Potential et UM Social Justice Scholarship)",
+    "niveau_etudes": [
+      "Bachelor",
+      "Master"
+    ],
+    "domaines": [
+      "Tous les domaines",
+      "Global Studies",
+      "Globalisation et droit",
+      "Politiques publiques",
+      "Développement humain",
+      "Sciences et ingénierie",
+      "Sciences de la santé",
+      "Droit",
+      "Psychologie et neurosciences",
+      "Économie et gestion",
+      "Arts et sciences sociales"
+    ],
+    "pays_eligibles": [
+      "Tous les pays",
+      "Non-UE/EEE",
+      "UE/EEE",
+      "Suisse",
+      "Suriname",
+      "Chine",
+      "Allemagne",
+      "Belgique",
+      "Luxembourg",
+      "France",
+      "Pays-Bas",
+      "États-Unis"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Relevés de notes",
+      "Preuve de compétences linguistiques",
+      "Preuve de besoin financier",
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Frais de scolarité",
+      "Frais de subsistance",
+      "Assurance",
+      "Visa",
+      "Billet d'avion",
+      "Bourse mensuelle"
+    ],
+    "eligibilite": [
+      "Excellence académique",
+      "Engagement extrascolaire",
+      "Citoyenneté active",
+      "Besoin financier",
+      "Être admis dans un programme d'études de l'UM",
+      "Nationalité éligible",
+      "Programme d'études éligible",
+      "Ne pas avoir déjà obtenu un diplôme de l'UM",
+      "Ne pas être éligible à d'autres bourses UM"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Postuler à un programme d'études de l'UM",
+      "3. Trouver une bourse via le guide des bourses",
+      "4. Soumettre une demande de bourse en ligne",
+      "5. Fournir les documents requis",
+      "6. Attendre la décision"
+    ],
+    "contacts": [
+      "scholarships@maastrichtuniversity.nl"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Guide des bourses",
+        "url": "https://www.maastrichtuniversity.nl/support/your-studies-begin/international-students-coming-maastricht/scholarships/scholarship-guide"
+      },
+      {
+        "label": "Programmes de master participants (NL-High Potential)",
+        "url": "https://www.maastrichtuniversity.nl/media/58116"
+      },
+      {
+        "label": "Programmes de master participants (Brightlands)",
+        "url": "https://www.maastrichtuniversity.nl/file/um-brightlands-studyprogrammes-2026-2027-0pdf"
+      },
+      {
+        "label": "Programmes participants (Changemaker)",
+        "url": "https://www.maastrichtuniversity.nl/file/participating-programmes-changemaker-scholarshipdocx"
+      },
+      {
+        "label": "Programmes de bachelor participants (FGS)",
+        "url": "https://www.maastrichtuniversity.nl/file/lijstje-ba-programmas-26-270docx"
+      }
+    ],
+    "mots_cles": [
+      "bourse université maastricht",
+      "bourse master international",
+      "bourse bachelor international",
+      "bourse non-UE",
+      "bourse 2027",
+      "bourse Maastricht University",
+      "bourse NL-High Potential",
+      "bourse UM"
+    ],
+    "lien_candidature": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships",
+    "source_url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships?fbclid=IwY2xjawTdJutleHRuA2FlbQIxMABicmlkETE5WmdFWlFWUkdPMkJXVkhPc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgsj2DHb8r9NXqip-TdedKDzPea-mJ0SPtE8t53N7aXYk4VcDgGX_XnE0n4R_aem_So07DmVe2w0r5AjfIyOSMg",
+    "statut": "ouvert",
+    "resume": "L'Université de Maastricht (UM) offre une variété de bourses aux étudiants internationaux de tous niveaux (Bachelor et Master) pour favoriser l'excellence académique et l'engagement citoyen. Les bourses UM comprennent notamment la prestigieuse bourse NL-High Potential, qui couvre les frais de scolarité et les frais de subsistance, ainsi que d'autres bourses spécifiques comme la UM Brightlands Talent Scholarship et la UM Social Justice Scholarship. Les candidats doivent d'abord être admis dans un programme d'études de l'UM, puis postuler à une seule bourse. Les critères de sélection incluent l'excellence académique, l'engagement extrascolaire, la citoyenneté active et le besoin financier. Les candidatures pour l'année académique 2027/28 ouvrent en octobre 2026, avec des dates limites variables selon la bourse.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-03T15:33:52",
+    "slug": "bourses-universite-maastricht-internationaux-2027"
   },
   {
     "titre": "Master en ligne de l'Université de Salford - 1 an - 100% en ligne",
@@ -12188,6 +11274,1195 @@
     "imageUrl": null,
     "extrait_le": "2026-07-15T14:41:24",
     "slug": "ireland-fellows-master-irlande-2027"
+  },
+  {
+    "titre": "Appel à propositions pour les organisations de la société civile (OSC) ou ONG - Programme régional africain Spotlight Initiative 2.0",
+    "seo_slug": "appel-propositions-osc-ethiopie-2026",
+    "organisation": "UNDP",
+    "montant": null,
+    "devise": null,
+    "type_financement": "subvention",
+    "deadline": "2026-07-29",
+    "deadline_texte": "29 juillet 2026 à 04h00 (heure de New York)",
+    "niveau_etudes": [],
+    "domaines": [
+      "Violences basées sur le genre",
+      "Droits des femmes",
+      "Développement"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [
+      "Être une organisation de la société civile ou ONG"
+    ],
+    "procedure_etapes": [
+      "1. Créer un profil fournisseur sur le portail UNDP Quantum si ce n'est pas déjà fait.",
+      "2. S'abonner à l'appel d'offres en utilisant le numéro de référence UNDP-ETH-00754.",
+      "3. Soumettre l'offre directement dans le système via le lien http://supplier.quantum.partneragencies.org.",
+      "4. Indiquer l'intention de soumettre une offre en créant une réponse provisoire sans soumettre."
+    ],
+    "contacts": [
+      "info.procurementet@undp.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Visitez le site :",
+        "url": "http://supplier.quantum.partneragencies.org"
+      },
+      {
+        "label": "Guide utilisateur du portail fournisseur",
+        "url": "https://undp.service-now.com/kb_view.do?sysparm_article=KB0014104"
+      },
+      {
+        "label": "Enregistrement fournisseur",
+        "url": "https://estm.fa.em2.oraclecloud.com/fscmUI/redwood/supplier-registration/register-supplier/register-supplier-verification?id=TUW16eK6qsD94MNMxAfJMoYCOHny7FmchTkULY6m3ioPfah13ZhtWEU2Zg%3D%3D"
+      },
+      {
+        "label": "Portail fournisseur",
+        "url": "https://supplier.quantum.partneragencies.org"
+      },
+      {
+        "label": "Ressources pour soumissionnaires UNDP",
+        "url": "https://www.undp.org/procurement/business/resources-for-bidders"
+      },
+      {
+        "label": "Documents de négociation",
+        "url": "https://undp.sharepoint.com/sites/Docs-Public/Procurement/Forms/AllItems.aspx?env=Embedded&isAscending=false&FilterType1=Text&sortField=Modified&FilterField1=NegotiationNumber&FilterValue1=UNDP-ETH-00754"
+      }
+    ],
+    "mots_cles": [
+      "appel à propositions",
+      "OSC",
+      "ONG",
+      "Ethiopie",
+      "UNDP",
+      "Spotlight Initiative",
+      "violences femmes",
+      "subvention"
+    ],
+    "lien_candidature": "http://supplier.quantum.partneragencies.org",
+    "source_url": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=47385&fbclid=IwY2xjawTTnQJleHRuA2FlbQIxMABicmlkETE5WXZWdjJLRVB6WEdjWXU4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpZxdDHTNlpvwEawM-hbf41TEL8w9TGIqnC2ZC_E5Cmm0J7bfDnhkiQ2gC15_aem_VDUTK-s9KHYGXJs2B_8GiA",
+    "statut": "fermé",
+    "resume": "Le PNUD lance un appel à propositions pour des organisations de la société civile ou ONG dans le cadre du Programme régional africain Spotlight Initiative 2.0 pour mettre fin aux violences faites aux femmes et aux filles. Les candidatures doivent être soumises via le portail fournisseur UNDP Quantum avant le 29 juillet 2026. Les organisations intéressées doivent s'enregistrer et soumettre leur offre en ligne.",
+    "imageUrl": "/docs/Appel---propositions---Organisations-de-la-soci-t--civile-_OSC_-ou-ONG.webp",
+    "extrait_le": "2026-07-27T02:13:21",
+    "slug": "appel-propositions-osc-ethiopie-2026"
+  },
+  {
+    "titre": "Bourse Rhodes 2027 pour des études supérieures à l'Université d'Oxford",
+    "seo_slug": "bourse-rhodes-master-oxford-2027",
+    "organisation": "Rhodes Trust",
+    "montant": 20400,
+    "devise": "GBP",
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026 (variable selon les circonscriptions)",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Relevés de notes",
+      "Lettres de recommandation",
+      "Preuve de compétence en anglais"
+    ],
+    "avantages": [
+      "Frais de scolarité complets",
+      "Bourse annuelle de 20 400 £ (1 700 £/mois)",
+      "Frais de demande d'admission à Oxford",
+      "Frais de visa étudiant et IHS",
+      "Deux billets d'avion aller-retour en classe économique",
+      "Allocation d'installation",
+      "Aide pour le renouvellement de visa"
+    ],
+    "eligibilite": [
+      "Être âgé de 18 à 24 ans (ou jusqu'à 27 ans pour certaines circonscriptions)",
+      "Avoir obtenu un diplôme de premier cycle avec mention très bien",
+      "Être citoyen d'un pays éligible (liste par circonscription)",
+      "Faire preuve de leadership, d'intégrité et d'engagement envers le service public"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier votre éligibilité et la circonscription de candidature sur le site officiel.",
+      "2. Préparer les documents requis (CV, lettre de motivation, relevés de notes, lettres de recommandation).",
+      "3. Soumettre votre candidature en ligne via le portail dédié avant la date limite de votre circonscription.",
+      "4. Si présélectionné, participer à un entretien.",
+      "5. En cas de succès, accepter l'offre et entamer les démarches d'admission à Oxford."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/"
+      },
+      {
+        "label": "Critères de sélection",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/selection-criteria/"
+      },
+      {
+        "label": "Vérifier l'éligibilité et postuler",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/faqs/"
+      },
+      {
+        "label": "Conditions de tenure (PDF)",
+        "url": "https://www.rhodeshouse.ox.ac.uk/files/conditions-of-tenure/"
+      },
+      {
+        "label": "Inscription à la newsletter",
+        "url": "https://confirmsubscription.com/h/r/65B4B104DE9B6853"
+      }
+    ],
+    "mots_cles": [
+      "bourse rhodes",
+      "bourse oxford",
+      "bourse master",
+      "bourse doctorat",
+      "bourse internationale",
+      "bourse complète",
+      "royaume-uni",
+      "2027"
+    ],
+    "lien_candidature": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/",
+    "source_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/",
+    "statut": "fermé",
+    "resume": "La bourse Rhodes est la plus ancienne bourse internationale au monde, offrant aux étudiants exceptionnels la possibilité d'effectuer des études supérieures à temps plein à l'Université d'Oxford. Cette bourse complète couvre les frais de scolarité, une allocation annuelle de 20 400 £, les frais de visa et les billets d'avion. Les candidatures pour 2027 sont ouvertes ; les candidats doivent vérifier leur éligibilité et postuler via le site officiel avant la date limite de leur circonscription.",
+    "extrait_le": "2026-06-15T03:06:36",
+    "slug": "bourse-rhodes-master-oxford-2027"
+  },
+  {
+    "titre": "Bourse DAAD pour les matières STEM en Allemagne 2026",
+    "seo_slug": "bourse-daad-stem-master-allemagne-2026",
+    "organisation": "DAAD",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Mathématiques",
+      "Informatique",
+      "Sciences naturelles",
+      "Ingénierie"
+    ],
+    "pays_eligibles": [
+      "Pays en développement et émergents"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand ou Anglais (selon programme)",
+    "documents_requis": [],
+    "avantages": [
+      "Financement complet du Master",
+      "Bourse mensuelle",
+      "Frais de voyage",
+      "Assurance",
+      "Allocation d'études"
+    ],
+    "eligibilite": [
+      "Être étudiant d'un pays en développement ou émergent",
+      "Avoir un premier diplôme reconnu en Allemagne (Bachelor) au plus tard à la date limite de candidature",
+      "Ne pas avoir déjà de Master",
+      "Être admis dans un programme de Master sans frais de scolarité en STEM dans une université allemande",
+      "Le programme doit débuter au semestre d'hiver 2026/27"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et les conditions sur le site DAAD",
+      "2. Trouver un programme de Master STEM sans frais de scolarité dans une université allemande",
+      "3. Préparer les documents requis (diplômes, relevés de notes, lettre de motivation, CV, etc.)",
+      "4. Soumettre la candidature via le portail DAAD avant la date limite"
+    ],
+    "contacts": [
+      "info.nairobi@daad.de",
+      "+254 (733) 92 99 29"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.daad-kenya.org/en/2026/06/03/the-call-for-scholarships-for-stem-subjects-is-out/"
+      },
+      {
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/studying-in-germany/scholarships/information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Plus d'informations sur la bourse",
+        "url": "http://daad.de/go/en/stipa57742130"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "master STEM",
+      "Allemagne",
+      "pays en développement",
+      "2026",
+      "mathématiques",
+      "informatique",
+      "sciences naturelles",
+      "ingénierie"
+    ],
+    "lien_candidature": "http://daad.de/go/en/stipa57742130",
+    "source_url": "https://www.daad-kenya.org/en/2026/06/03/the-call-for-scholarships-for-stem-subjects-is-out/",
+    "statut": "fermé",
+    "resume": "Le DAAD offre une bourse complète pour un Master en STEM (mathématiques, informatique, sciences naturelles, ingénierie) dans une université allemande aux étudiants de pays en développement et émergents. Le programme finance les frais de voyage, une bourse mensuelle et une assurance. Les candidatures sont ouvertes pour le semestre d'hiver 2026/27.",
+    "adresse": "Madison Insurance House, 3rd floor, Upper Hill Close, P.O. Box 14050 00800 Nairobi",
+    "extrait_le": "2026-06-15T03:20:26",
+    "slug": "bourse-daad-stem-master-allemagne-2026"
+  },
+  {
+    "titre": "Programme MIPD 2027 Printemps - Pré-avis de candidature",
+    "seo_slug": "mipd-program-printemps-2027",
+    "organisation": "KDI School & WIPO",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Propriété intellectuelle",
+      "Développement"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Score de test d'anglais valide"
+    ],
+    "avantages": [],
+    "eligibilite": [
+      "Soumission à la fois à KDI School et au portail WIPO",
+      "Certificat de langue d'enseignement non accepté comme preuve de compétence en anglais"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le fichier joint pour des informations brèves.",
+      "2. Attendre les directives d'admission Printemps 2027 pour les détails complets.",
+      "3. Soumettre la candidature à KDI School via http://apply.kdischool.ac.kr",
+      "4. Soumettre la candidature au portail WIPO via https://welc.wipo.int/acc/index.jsf?page=aipCatalog.xhtml&lang=en&cc=MIPD_KDI#plus_MIPD_KDI"
+    ],
+    "contacts": [
+      "mipdadm@kdischool.ac.kr"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.kdischool.ac.kr/board.es?mid=a40401000000&bid=0014&list_no=19750&act=view&fbclid=IwY2xjawScaSxleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkgZimaLFkuL4aHZPUTnKpkmDp1DbBemvBoXUAgcRmedJgGHsg5YOmYzKvyW_aem_Yxwh0IOD9SMfvmFM_WrcRg"
+      },
+      {
+        "label": "Portail de candidature KDI School",
+        "url": "http://apply.kdischool.ac.kr"
+      },
+      {
+        "label": "Portail de candidature WIPO",
+        "url": "https://welc.wipo.int/acc/index.jsf?page=aipCatalog.xhtml&lang=en&cc=MIPD_KDI#plus_MIPD_KDI"
+      },
+      {
+        "label": "Pré-avis MIPD 2027 (PDF)",
+        "url": "https://www.kdischool.ac.kr/boardDownload.es?mid=a40401000000&bid=0014&list_no=19750&seq=1"
+      }
+    ],
+    "mots_cles": [
+      "MIPD",
+      "KDI School",
+      "WIPO",
+      "master",
+      "propriété intellectuelle",
+      "développement",
+      "Corée",
+      "2027",
+      "bourse"
+    ],
+    "lien_candidature": "http://apply.kdischool.ac.kr",
+    "source_url": "https://www.kdischool.ac.kr/board.es?mid=a40401000000&bid=0014&list_no=19750&act=view&fbclid=IwY2xjawScaSxleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkgZimaLFkuL4aHZPUTnKpkmDp1DbBemvBoXUAgcRmedJgGHsg5YOmYzKvyW_aem_Yxwh0IOD9SMfvmFM_WrcRg",
+    "statut": "fermé",
+    "resume": "Le programme MIPD (Master en Propriété Intellectuelle et Développement) pour le printemps 2027 est ouvert aux candidatures du 1er juin au 31 juillet 2026. Organisé conjointement par KDI School et WIPO, ce programme dure environ un an (3 trimestres académiques). Les candidats doivent soumettre leur dossier à la fois sur le portail de KDI School et sur celui de WIPO. Les certificats de langue d'enseignement ne sont pas acceptés comme preuve de compétence en anglais ; un score valide à un test d'anglais approuvé est requis.",
+    "adresse": "263 NAMSEJONG-RO, SEJONG-SI, 30149, REPUBLIC OF KOREA",
+    "extrait_le": "2026-06-15T05:17:06",
+    "slug": "mipd-program-printemps-2027"
+  },
+  {
+    "titre": "Deuxième édition du concours « Ma thèse en 180 secondes » en Asie-Pacifique",
+    "seo_slug": "concours-ma-these-180-secondes-asie-pacifique-2026",
+    "organisation": "Agence Universitaire de la Francophonie (AUF)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "concours",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026 à 23h59 (fuseau Europe/Paris)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Toutes disciplines"
+    ],
+    "pays_eligibles": [
+      "Pacifique",
+      "Asie du Sud",
+      "Asie de l'Est",
+      "Asie du Sud-Est (ASEAN)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français",
+    "documents_requis": [
+      "Formulaire d'inscription en ligne",
+      "Vidéo de présentation de thèse en 3 minutes (format MP4, AVI ou MOV)"
+    ],
+    "avantages": [
+      "Formation à la communication orale",
+      "Participation à la finale régionale en ligne",
+      "Possibilité de participer à la présélection internationale et à la finale internationale"
+    ],
+    "eligibilite": [
+      "Être inscrit ou avoir été inscrit en doctorat au cours de l'année universitaire 2025-2026, ou avoir obtenu son doctorat au cours de l'année universitaire 2024-2025",
+      "Présenter un état d'avancement suffisant du projet de recherche doctoral (à partir de la fin de la deuxième année de thèse)",
+      "Ne pas avoir remporté de prix du jury ou du public lors d'une précédente finale nationale de MT180",
+      "Être disponible et présent à la finale nationale ainsi qu'aux activités liées",
+      "Être capable de s'exprimer en français",
+      "Pour les doctorants en cotutelle : choisir le territoire de participation (Asie-Pacifique ou autre) dès l'inscription, choix définitif"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire d'inscription en ligne avant le 31 juillet 2026",
+      "2. Joindre une vidéo de présentation de thèse en 3 minutes (format MP4, AVI ou MOV)",
+      "3. Attendre l'annonce des résultats de sélection le 10 août 2026",
+      "4. Suivre le cycle de formation du 30 août au 4 septembre 2026 (si sélectionné)",
+      "5. Participer à la finale régionale en ligne le 25 septembre 2026"
+    ],
+    "contacts": [
+      "nguyen.thi.thuy.nga@auf.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://appels-propositions.auf.org/deuxieme-edition-du-concours-ma-these-en-180-secondes-en-asie-pacifique"
+      },
+      {
+        "label": "Candidater",
+        "url": "/connexion?course=mt180drap2-6a029a255f76e&cid=216&Itemid=1135"
+      }
+    ],
+    "mots_cles": [
+      "concours",
+      "ma thèse en 180 secondes",
+      "MT180",
+      "doctorat",
+      "vulgarisation scientifique",
+      "Asie-Pacifique",
+      "francophonie",
+      "AUF",
+      "2026"
+    ],
+    "lien_candidature": "/connexion?course=mt180drap2-6a029a255f76e&cid=216&Itemid=1135",
+    "source_url": "https://appels-propositions.auf.org/deuxieme-edition-du-concours-ma-these-en-180-secondes-en-asie-pacifique",
+    "statut": "fermé",
+    "resume": "L'Agence Universitaire de la Francophonie (AUF) lance la deuxième édition régionale Asie-Pacifique du concours « Ma thèse en 180 secondes ». Ce concours permet aux doctorants et jeunes docteurs de présenter leur sujet de recherche en termes simples en trois minutes. Les candidats doivent être inscrits en doctorat en 2025-2026 ou avoir obtenu leur doctorat en 2024-2025, et s'exprimer en français. Les inscriptions sont ouvertes jusqu'au 31 juillet 2026, avec une finale régionale en ligne prévue le 25 septembre 2026.",
+    "extrait_le": "2026-06-16T04:00:33",
+    "slug": "concours-ma-these-180-secondes-asie-pacifique-2026"
+  },
+  {
+    "titre": "Prix AUF Dolla Karam Sarkis 2026",
+    "seo_slug": "prix-auf-dolla-karam-sarkis-2026",
+    "organisation": "AUF Moyen-Orient",
+    "montant": 4000,
+    "devise": "EUR",
+    "type_financement": "prix",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026 à 12h00 (fuseau Europe/Paris)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Toutes les disciplines scientifiques"
+    ],
+    "pays_eligibles": [
+      "Liban"
+    ],
+    "age_maximum": 40,
+    "langue_requise": "Français",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Attestation de travail prouvant le rattachement à un établissement d'enseignement supérieur libanais membre de l'AUF",
+      "Extrait d'état civil",
+      "Copie du diplôme de doctorat",
+      "Curriculum vitae à jour en français détaillé (liste de publications, interventions, brevets, prix et distinctions)"
+    ],
+    "avantages": [
+      "Prix de 4 000 € par lauréat",
+      "Cérémonie officielle de remise des prix"
+    ],
+    "eligibilite": [
+      "Jeune chercheur libanais",
+      "40 ans ou moins",
+      "Titulaire d'un doctorat",
+      "Projet de recherche en cours (programme scientifique, axe de recherche, post-doctorat, etc.)",
+      "Rattachement à un établissement d'enseignement supérieur libanais membre de l'AUF"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Préparer les documents requis (CV, attestation de travail, extrait d'état civil, copie du doctorat)",
+      "3. Remplir le formulaire de candidature en ligne",
+      "4. Soumettre le dossier avant le 31 juillet 2026 à 12h00 (Europe/Paris)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://appels-propositions.auf.org/prix-auf-dolla-karam-sarkis-2026-1"
+      },
+      {
+        "label": "Présentation Prix AUF Dolla Karam Sarkis 2026 (PDF)",
+        "url": "https://appels-propositions.auf.org/files/349/prix-auf-dolla-karam-sarkis-2025/322/Présentation Prix AUF Dolla Karam Sarkis 2026.pdf"
+      }
+    ],
+    "mots_cles": [
+      "prix",
+      "AUF",
+      "Dolla Karam Sarkis",
+      "jeune chercheur",
+      "Liban",
+      "recherche scientifique",
+      "doctorat",
+      "2026"
+    ],
+    "lien_candidature": "https://appels-propositions.auf.org/connexion?course=prixaufdol-67977a6a92fd8&cid=224&Itemid=1135",
+    "source_url": "https://appels-propositions.auf.org/prix-auf-dolla-karam-sarkis-2026-1",
+    "statut": "fermé",
+    "resume": "Le Prix AUF Dolla Karam Sarkis 2026 récompense deux jeunes chercheurs libanais de 40 ans ou moins, titulaires d'un doctorat, pour un projet de recherche en cours. D'une valeur de 4 000 € chacun, ce prix honore la mémoire du Professeur Dolla Karam Sarkis et célèbre l'excellence scientifique au Liban. Les candidatures sont ouvertes jusqu'au 31 juillet 2026.",
+    "extrait_le": "2026-06-16T04:01:27",
+    "slug": "prix-auf-dolla-karam-sarkis-2026"
+  },
+  {
+    "titre": "Programme de Bourses Mastercard Foundation à l'Université McGill",
+    "seo_slug": "bourse-mastercard-foundation-mcgill-afrique-2026",
+    "organisation": "Mastercard Foundation Scholars Program at McGill University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026 (dernière session d'information)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Sciences animales",
+      "Génie des bioressources",
+      "Biostatistique",
+      "Biotechnologie",
+      "Science alimentaire",
+      "Nutrition humaine",
+      "Santé publique",
+      "Politiques publiques"
+    ],
+    "pays_eligibles": [
+      "Algérie",
+      "Angola",
+      "Bénin",
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Cabo Verde",
+      "Cameroun",
+      "République centrafricaine",
+      "Tchad",
+      "Comores",
+      "Congo (République démocratique)",
+      "Congo (République)",
+      "Côte d'Ivoire",
+      "Djibouti",
+      "Égypte",
+      "Guinée équatoriale",
+      "Érythrée",
+      "Eswatini",
+      "Éthiopie",
+      "Gabon",
+      "Gambie",
+      "Ghana",
+      "Guinée",
+      "Guinée-Bissau",
+      "Kenya",
+      "Lesotho",
+      "Liberia",
+      "Libye",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mauritanie",
+      "Maurice",
+      "Maroc",
+      "Mozambique",
+      "Namibie",
+      "Niger",
+      "Nigeria",
+      "Rwanda",
+      "São Tomé et Príncipe",
+      "Sénégal",
+      "Seychelles",
+      "Sierra Leone",
+      "Somalie",
+      "Afrique du Sud",
+      "Soudan du Sud",
+      "Soudan",
+      "Tanzanie",
+      "Togo",
+      "Tunisie",
+      "Ouganda",
+      "Zambie",
+      "Zimbabwe"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais (non spécifié mais McGill exige anglais)",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Diplôme de bachelor",
+      "Relevés de notes",
+      "Preuve de citoyenneté",
+      "Passeport valide",
+      "Lettre de motivation",
+      "Preuve d'engagement social"
+    ],
+    "avantages": [
+      "Bourse complète (frais de scolarité, frais de subsistance, voyage, etc.)"
+    ],
+    "eligibilite": [
+      "Être admissible à un programme de maîtrise éligible à McGill",
+      "N'avoir jamais été inscrit ni complété un master",
+      "Être citoyen et résident d'un pays africain",
+      "Avoir un passeport valide et être admissible au Canada comme étudiant international",
+      "Ne pas avoir la double nationalité, asile, réfugié ou résident permanent aux États-Unis, Canada, Royaume-Uni ou UE",
+      "Avoir un dossier exceptionnel de service, leadership et activité dans son école/communauté",
+      "Démontrer un désir de redonner à sa communauté d'origine",
+      "Démontrer que des contraintes financières ont empêché ou limité ses opportunités éducatives",
+      "Âge maximum 35 ans à la date de candidature",
+      "Priorité aux femmes, personnes déplacées de force, personnes handicapées, et ceux avec First Class Honors"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et les programmes éligibles.",
+      "2. Assister à une session d'information obligatoire (inscription selon la région).",
+      "3. Recevoir le lien du formulaire de candidature après la session.",
+      "4. Soumettre la candidature complète avant la date limite."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/information-sessions?fbclid=IwY2xjawSfE4RleHRuA2FlbQIxMABicmlkETFBb3dLMGlvU1kwZ2xGWFg4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlCUKjXxT5ptnn2XCAW9SYEDOmPhOZhjyUalK-N5GGV7EQyQ_6uoQUWho-57_aem_1Le8SPq50pPlAsYD0D3AtQ"
+      },
+      {
+        "label": "Page d'éligibilité",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/eligibility"
+      },
+      {
+        "label": "Sessions d'information",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/information-sessions"
+      },
+      {
+        "label": "Processus de sélection",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/selection-process"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/faq"
+      },
+      {
+        "label": "Formulaire de barrière technologique",
+        "url": "https://forms.office.com/r/qCCssAtKnM"
+      },
+      {
+        "label": "Inscription session Afrique du Nord/Ouest (23 juin)",
+        "url": "https://forms.office.com/r/BXXkC2EZFd"
+      },
+      {
+        "label": "Liste des pays éligibles",
+        "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/eligibility#eligible-countries"
+      }
+    ],
+    "mots_cles": [
+      "bourse mastercard foundation",
+      "bourse mcgill",
+      "master afrique",
+      "bourse master 2026",
+      "bourse complète canada",
+      "bourse leadership",
+      "bourse développement"
+    ],
+    "lien_candidature": "https://www.mcgill.ca/mastercardfdn-scholars/apply/information-sessions",
+    "source_url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/information-sessions?fbclid=IwY2xjawSfE4RleHRuA2FlbQIxMABicmlkETFBb3dLMGlvU1kwZ2xGWFg4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlCUKjXxT5ptnn2XCAW9SYEDOmPhOZhjyUalK-N5GGV7EQyQ_6uoQUWho-57_aem_1Le8SPq50pPlAsYD0D3AtQ",
+    "statut": "fermé",
+    "resume": "Le Programme de Bourses Mastercard Foundation à l'Université McGill offre une bourse complète pour des études de master à des étudiants africains talentueux ayant un fort engagement social. Les candidats doivent assister à une session d'information obligatoire avant de postuler. Les programmes éligibles couvrent des domaines variés comme la santé publique, les politiques publiques et les sciences alimentaires. Priorité est donnée aux femmes, aux personnes déplacées et aux personnes handicapées.",
+    "adresse": "Suite 4100, Brown Student Services Building, 3600 rue McTavish, Montréal, Quebec H3A 0G3",
+    "extrait_le": "2026-06-17T05:47:44",
+    "slug": "bourse-mastercard-foundation-mcgill-afrique-2026"
+  },
+  {
+    "titre": "Forum Civique des Jeunes 2026",
+    "seo_slug": "forum-civique-jeunes-copenhague-2026",
+    "organisation": "Centre for Diplomatic Advancement",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète, partielle, accès gratuit",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026 (estimé)",
+    "niveau_etudes": [
+      "Tous niveaux"
+    ],
+    "domaines": [
+      "Gouvernance",
+      "Politiques publiques",
+      "Leadership civique",
+      "Démocratie",
+      "Développement durable"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": 45,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Lettre de motivation",
+      "Preuve d'engagement civique"
+    ],
+    "avantages": [
+      "Billet d'avion (bourse complète)",
+      "Hébergement partagé",
+      "Repas pendant le forum",
+      "Petit-déjeuner quotidien",
+      "Frais de visa (bourse complète)",
+      "Coordination d'ambassade",
+      "Lettre d'invitation officielle",
+      "Accès au forum",
+      "Opportunité de prise de parole",
+      "Certificat international",
+      "Reconnaissance de leadership"
+    ],
+    "eligibilite": [
+      "Âge 16-45 ans",
+      "Toutes nationalités",
+      "Étudiants, jeunes professionnels, militants, chercheurs, décideurs, entrepreneurs sociaux",
+      "Maîtrise de l'anglais (niveau professionnel)"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne",
+      "2. Soumettre une seule candidature pour toutes les catégories de bourse",
+      "3. Attendre la sélection basée sur la motivation, l'impact civique, l'intérêt politique, le potentiel de leadership, la diversité et la qualité de la candidature"
+    ],
+    "contacts": [
+      "info@mtscholarships.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.youtube.com/watch?v=2i4D5LYx_Qg&t=26s"
+      },
+      {
+        "label": "Page de candidature aux bourses",
+        "url": "https://thecda.co/product/cyf-2026-scholarships/"
+      },
+      {
+        "label": "Inscription payante - Lettre d'invitation",
+        "url": "https://thecda.co/product/invitation-only-cyf-2026/"
+      },
+      {
+        "label": "Inscription payante - Accès Forum",
+        "url": "https://thecda.co/product/forum-access-cyf-2026/"
+      },
+      {
+        "label": "Inscription payante - Package autofinancé",
+        "url": "https://thecda.co/product/self-funded-cyf-2026/"
+      }
+    ],
+    "mots_cles": [
+      "bourse forum jeunesse",
+      "copenhague 2026",
+      "leadership civique",
+      "gouvernance",
+      "politiques publiques",
+      "bourse entièrement financée",
+      "jeunes délégués",
+      "danemark"
+    ],
+    "lien_candidature": "https://thecda.co/product/cyf-2026-scholarships/",
+    "source_url": "https://thecda.co/civic-youth-forum-2026/?gad_source=0&gad_campaignid=23731100822&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD2yaze8G1lvOZTth3k2uHtAjJugPDvQkldtX9Gkgs3wJYJNTMlIfN8aAjKUEALw_wcB#",
+    "statut": "fermé",
+    "resume": "Le Forum Civique des Jeunes 2026 (CYF 2026) se tiendra à Copenhague, au Danemark, du 17 au 20 septembre 2026. Organisé par le Centre pour l'Avancement Diplomatique, cet événement international offre 500 bourses réparties en trois catégories : 100 places entièrement financées (incluant billet d'avion, hébergement et frais de visa), 150 places partiellement financées et 250 accès gratuits. Ouvert à toutes les nationalités pour les jeunes de 16 à 45 ans, le forum propose des ateliers sur le leadership civique, la gouvernance et les politiques publiques, avec une langue de travail anglaise. Les candidats sont automatiquement considérés pour toutes les catégories via une seule candidature en ligne.",
+    "extrait_le": "2026-06-19T16:23:04",
+    "slug": "forum-civique-jeunes-copenhague-2026"
+  },
+  {
+    "titre": "Bourses de Recherche du 90e Anniversaire du British Council",
+    "seo_slug": "bourses-recherche-british-council-2027",
+    "organisation": "British Council et Institute for Advanced Studies in the Humanities (IASH), University of Edinburgh",
+    "montant": 2500,
+    "devise": "GBP",
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026 à 17h00 BST",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Arts",
+      "Éducation",
+      "Langue anglaise",
+      "Relations internationales",
+      "Soft power",
+      "Développement international",
+      "Consolidation de la paix",
+      "Relations culturelles",
+      "Diplomatie culturelle"
+    ],
+    "pays_eligibles": [
+      "Albanie",
+      "Algérie",
+      "Argentine",
+      "Arménie",
+      "Azerbaïdjan",
+      "Bangladesh",
+      "Bosnie-Herzégovine",
+      "Botswana",
+      "Brésil",
+      "Cambodge",
+      "Cameroun",
+      "Chine",
+      "Colombie",
+      "Cuba",
+      "Égypte",
+      "Éthiopie",
+      "Géorgie",
+      "Ghana",
+      "Inde",
+      "Indonésie",
+      "Irak",
+      "Jamaïque",
+      "Jordanie",
+      "Kazakhstan",
+      "Kenya",
+      "Kosovo",
+      "Laos",
+      "Liban",
+      "Libye",
+      "Malawi",
+      "Malaisie",
+      "Maurice",
+      "Mexique",
+      "Monténégro",
+      "Maroc",
+      "Mozambique",
+      "Myanmar",
+      "Namibie",
+      "Népal",
+      "Nigeria",
+      "Macédoine du Nord",
+      "Pakistan",
+      "Pérou",
+      "Philippines",
+      "Rwanda",
+      "Sénégal",
+      "Serbie",
+      "Sierra Leone",
+      "Afrique du Sud",
+      "Soudan du Sud",
+      "Sri Lanka",
+      "Soudan",
+      "Syrie",
+      "Tanzanie",
+      "Thaïlande",
+      "Tunisie",
+      "Turquie",
+      "Ouganda",
+      "Ukraine",
+      "Ouzbékistan",
+      "Venezuela",
+      "Vietnam",
+      "Territoires palestiniens occupés",
+      "Yémen",
+      "Zambie",
+      "Zimbabwe"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "CV",
+      "Proposition de recherche",
+      "Lettre de motivation",
+      "Références (2 à 3, envoyées par les référents à iash@ed.ac.uk)"
+    ],
+    "avantages": [
+      "Bourse mensuelle de 2 500 £ pendant 12 mois",
+      "Frais de voyage",
+      "Espace de travail dédié",
+      "Accès à la bibliothèque de l'Université d'Édimbourg",
+      "Adresse e-mail universitaire",
+      "Mentorat académique",
+      "Déjeuners hebdomadaires des boursiers",
+      "Séminaires de travail en cours",
+      "Calendrier d'événements",
+      "Opportunités de participer et de concevoir des ateliers financés"
+    ],
+    "eligibilite": [
+      "Être basé dans un pays bénéficiaire de l'APD où le British Council opère",
+      "Avoir obtenu un doctorat dans les 7 dernières années (tenant compte des pauses de carrière)",
+      "Ne pas avoir occupé un poste permanent dans une université ou une bourse antérieure à l'IASH",
+      "Proposer une recherche alignée sur la vision du British Council et les domaines prioritaires (Arts, Éducation, Langue anglaise, relations internationales, etc.)",
+      "Inclure des résultats pertinents pour la politique ou la pratique de l'APD"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité (pays, doctorat récent, etc.).",
+      "2. Préparer les documents : formulaire de candidature, CV, proposition de recherche, lettre de motivation.",
+      "3. Demander à 2-3 référents d'envoyer leurs lettres de référence à iash@ed.ac.uk avant la date limite.",
+      "4. Soumettre la candidature via le portail en ligne avant le 31 juillet 2026 à 17h00 BST.",
+      "5. Envoyer tout document supplémentaire par email à iash@ed.ac.uk.",
+      "6. Attendre la notification des résultats fin septembre 2026."
+    ],
+    "contacts": [
+      "researchglobal@britishcouncil.org",
+      "iash@ed.ac.uk",
+      "+44 (0)131 650 4671"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.iash.ed.ac.uk/british-council-90th-anniversary-research-fellowships?fbclid=IwY2xjawSiTedleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsfZNQ_-0Xzxknn5VNRRZW8lzJBrZMDieN7V9I8BSjqfnixiNX2O_AbNxZ7Y_aem_LF8NerQ-TbFJ9cq99LpRog"
+      },
+      {
+        "label": "Portail de candidature",
+        "url": "https://www.iash.ed.ac.uk/application-form"
+      },
+      {
+        "label": "Enregistrement du webinaire",
+        "url": "https://media.ed.ac.uk/media/Webinar%3A+British+Council+90th+Anniversary+Research+Fellowships+at+IASH+2027/1_27yh7q8c"
+      },
+      {
+        "label": "Diapositives du webinaire (PDF)",
+        "url": "https://www.iash.ed.ac.uk/sites/default/files/IASH%20BC%20Fellowships%202027.pdf"
+      },
+      {
+        "label": "Liste des pays éligibles (page 139 du rapport annuel)",
+        "url": "https://www.britishcouncil.org/sites/default/files/britishcouncil_annualreport_2022-23.pdf"
+      },
+      {
+        "label": "Stratégie du British Council",
+        "url": "https://www.britishcouncil.org/about-us/our-strategy"
+      },
+      {
+        "label": "Définition de l'APD (OCDE)",
+        "url": "https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/official-development-assistance.htm"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "British Council",
+      "recherche",
+      "Édimbourg",
+      "Royaume-Uni",
+      "APD",
+      "arts",
+      "éducation",
+      "relations internationales",
+      "2027"
+    ],
+    "lien_candidature": "https://www.iash.ed.ac.uk/application-form",
+    "source_url": "https://www.iash.ed.ac.uk/british-council-90th-anniversary-research-fellowships?fbclid=IwY2xjawSiTedleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsfZNQ_-0Xzxknn5VNRRZW8lzJBrZMDieN7V9I8BSjqfnixiNX2O_AbNxZ7Y_aem_LF8NerQ-TbFJ9cq99LpRog",
+    "statut": "fermé",
+    "resume": "Le British Council, en partenariat avec l'Institute for Advanced Studies in the Humanities (IASH) de l'Université d'Édimbourg, propose des bourses de recherche postdoctorales de 12 mois pour des chercheurs en début de carrière issus de pays éligibles à l'APD. Les boursiers passeront 10 mois à Édimbourg et 2 mois dans leur pays d'origine pour des activités de transfert de connaissances. La bourse comprend une allocation mensuelle de 2 500 £, les frais de voyage, un espace de travail, l'accès à la bibliothèque et un mentorat académique. Les candidatures sont ouvertes jusqu'au 31 juillet 2026.",
+    "adresse": "The Institute for Advanced Studies in the Humanities The University of Edinburgh Hope Park Square Edinburgh EH8 9NW",
+    "extrait_le": "2026-06-19T16:33:04",
+    "slug": "bourses-recherche-british-council-2027"
+  },
+  {
+    "titre": "Programme de Bourse Spéciale (SSP) - Doctorat à l'Université de Technologie de Kochi",
+    "seo_slug": "bourse-ssp-doctorat-japon-2026",
+    "organisation": "Kochi University of Technology (KUT)",
+    "montant": 150000,
+    "devise": "JPY",
+    "type_financement": "bourse complète",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Ingénierie",
+      "Génie mécanique et aérospatial",
+      "Génie électronique et photonique",
+      "Architecture et conception d'infrastructures",
+      "Sciences de l'ingénieur",
+      "Informatique",
+      "Données et innovation",
+      "Économie et gestion"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Relevés de notes",
+      "Diplômes",
+      "Lettre de recommandation",
+      "Preuve de compétence en anglais",
+      "Formulaire de pré-candidature en ligne",
+      "Formulaire d'accord du superviseur"
+    ],
+    "avantages": [
+      "Exonération des frais d'examen d'entrée (15 000 yens)",
+      "Exonération des frais d'inscription (300 000 yens)",
+      "Exonération des frais de scolarité (535 800 yens/an pendant 3 ans)",
+      "Bourse mensuelle de 150 000 yens pour les frais de subsistance (3 ans)",
+      "Allocation de 150 000 yens pour le voyage et les frais d'installation (uniquement pour les candidats internationaux vivant hors du Japon)"
+    ],
+    "eligibilite": [
+      "Avoir l'autorisation du superviseur préféré pour postuler",
+      "Détenir un diplôme de master ou équivalent après 18 ans d'études",
+      "Avoir 35 ans ou moins au moment de l'inscription",
+      "Excellent dossier académique et diplômes de master et bachelor de qualité",
+      "Intention, connaissances et compétences de recherche adéquates dans le domaine",
+      "Maîtrise élevée de l'anglais"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la liste des superviseurs SSP et contacter un superviseur potentiel pour obtenir son accord.",
+      "2. Soumettre une pré-candidature en ligne via le portail dédié.",
+      "3. Préparer et soumettre les documents requis selon les directives de candidature SSP.",
+      "4. Passer les entretiens et examens éventuels.",
+      "5. Recevoir la décision d'admission et procéder aux formalités d'inscription."
+    ],
+    "contacts": [
+      "+81 887 53 1130"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.kochi-tech.ac.jp/english/admission/ssp/outline.html?fbclid=IwY2xjawSiVQhleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlEqRao0kszGDW4HLVLjoBydkT7iHKSJhQ0a30pWNqOPwsDyIyfJgK61e7SG_aem_LTUdjNaDmZCn67s0FAme-w"
+      },
+      {
+        "label": "Directives de candidature SSP",
+        "url": "https://www.kochi-tech.ac.jp/english/admission/ssp/application-guideline.html"
+      },
+      {
+        "label": "Liste des superviseurs SSP",
+        "url": "https://www.kochi-tech.ac.jp/english/admission/ssp/supervisor-list.html"
+      },
+      {
+        "label": "Pré-candidature en ligne",
+        "url": "https://irc-admission.kochi-tech.ac.jp/application_form/PreApplication/Index/ssp"
+      },
+      {
+        "label": "Thèses des diplômés SSP",
+        "url": "https://www.kochi-tech.ac.jp/english/admission/ssp_aft19oct/dissertations-of-graduated-ssp-students.html"
+      },
+      {
+        "label": "Témoignages d'étudiants",
+        "url": "https://www.kochi-tech.ac.jp/english/admission/ssp_aft19oct/students-voice-1.html"
+      },
+      {
+        "label": "Liste des conférences internationales",
+        "url": "https://www.kochi-tech.ac.jp/english/admission/ssp_aft19oct/list-of-international-conferences-ssp-students-joined.html"
+      },
+      {
+        "label": "Logement - International House (Campus Kami)",
+        "url": "https://www.kochi-tech.ac.jp/english/campus_life/housing/international_house.html"
+      },
+      {
+        "label": "Logement - Dormitory Takasone C (Campus Eikokuji)",
+        "url": "https://www.kochi-tech.ac.jp/english/campus_life/housing/takasone_dormitory_c_eikokuji_campus.html"
+      },
+      {
+        "label": "Logement - Location individuelle",
+        "url": "https://www.kochi-tech.ac.jp/english/campus_life/housing/renting.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat japon",
+      "ssp kochi",
+      "bourse complète japon",
+      "doctorat ingénierie japon",
+      "bourse kochi university"
+    ],
+    "lien_candidature": "https://irc-admission.kochi-tech.ac.jp/application_form/PreApplication/Index/ssp",
+    "source_url": "https://www.kochi-tech.ac.jp/english/admission/ssp/outline.html?fbclid=IwY2xjawSiVQhleHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlEqRao0kszGDW4HLVLjoBydkT7iHKSJhQ0a30pWNqOPwsDyIyfJgK61e7SG_aem_LTUdjNaDmZCn67s0FAme-w",
+    "statut": "fermé",
+    "resume": "Le Programme de Bourse Spéciale (SSP) de l'Université de Technologie de Kochi (KUT) offre un financement complet pour un doctorat de 3 ans en ingénierie. Les étudiants bénéficient d'une exonération totale des frais de scolarité, d'une bourse mensuelle de 150 000 yens et d'une allocation d'installation de 150 000 yens. Ce programme de recherche en anglais est ouvert aux candidats internationaux de moins de 35 ans titulaires d'un master. Les candidatures se font en ligne après accord d'un superviseur.",
+    "adresse": "185 Miyanokuchi, Tosayamada, Kami City, Kochi 782-8502, JAPAN",
+    "extrait_le": "2026-06-19T17:06:26",
+    "slug": "bourse-ssp-doctorat-japon-2026"
+  },
+  {
+    "titre": "Autonomisation des jeunes et des femmes face à l'instabilité économique : Renforcer le partenariat public-privé entre le Japon et l'Afrique pour les pays d'Afrique subsaharienne, relever les défis urgents et promouvoir la TICAD9",
+    "seo_slug": "bourse-unitar-ticad9-afrique-japon-2026",
+    "organisation": "United Nations Institute for Training and Research (UNITAR)",
+    "montant": 0,
+    "devise": "USD",
+    "type_financement": "gratuit",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026",
+    "niveau_etudes": [
+      "Professionnel",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Finance publique et commerce",
+      "Entrepreneuriat",
+      "Innovation",
+      "Développement durable",
+      "Partenariats public-privé"
+    ],
+    "pays_eligibles": [
+      "Afrique subsaharienne"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Candidature en ligne"
+    ],
+    "avantages": [
+      "Programme de formation gratuit",
+      "Mentorat",
+      "Immersion au Japon (phase III)"
+    ],
+    "eligibilite": [
+      "Jeunes et femmes d'Afrique subsaharienne",
+      "Intérêt pour l'entrepreneuriat et l'innovation",
+      "Capacité à développer des projets"
+    ],
+    "procedure_etapes": [
+      "1. Créer un compte sur le site UNITAR",
+      "2. Remplir le formulaire de candidature en ligne",
+      "3. Soumettre avant le 31 juillet 2026"
+    ],
+    "contacts": [
+      "tftp@unitar.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel UNITAR",
+        "url": "http://www.unitar.org"
+      },
+      {
+        "label": "Page de l'événement",
+        "url": "https://event.unitar.org/full-catalog/empowering-youth-and-women-amid-economic-instability-enhancing-public-private?fbclid=IwY2xjawS5PUxleHRuA2FlbQIxMABicmlkETFsVGRlWHY0VTdFd2h2WVhTc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkQCcFHDUAqevoX8_rXSB-3scqFTV0jyuue48Vp6xN4h_DL1vKf__RSAEk3I_aem_BVLsEYN11-k1r2rG6TTQPg"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "formation",
+      "Afrique subsaharienne",
+      "Japon",
+      "TICAD9",
+      "jeunes",
+      "femmes",
+      "entrepreneuriat",
+      "innovation",
+      "partenariat public-privé"
+    ],
+    "lien_candidature": "https://event.unitar.org/full-catalog/empowering-youth-and-women-amid-economic-instability-enhancing-public-private?fbclid=IwY2xjawS5PUxleHRuA2FlbQIxMABicmlkETFsVGRlWHY0VTdFd2h2WVhTc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkQCcFHDUAqevoX8_rXSB-3scqFTV0jyuue48Vp6xN4h_DL1vKf__RSAEk3I_aem_BVLsEYN11-k1r2rG6TTQPg",
+    "source_url": "https://event.unitar.org/full-catalog/empowering-youth-and-women-amid-economic-instability-enhancing-public-private?fbclid=IwY2xjawS5PUxleHRuA2FlbQIxMABicmlkETFsVGRlWHY0VTdFd2h2WVhTc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkQCcFHDUAqevoX8_rXSB-3scqFTV0jyuue48Vp6xN4h_DL1vKf__RSAEk3I_aem_BVLsEYN11-k1r2rG6TTQPg",
+    "statut": "fermé",
+    "resume": "L'UNITAR, avec le soutien du gouvernement japonais, lance un programme de renforcement des capacités pour les jeunes et les femmes d'Afrique subsaharienne dans le cadre de la TICAD9. Ce programme gratuit de 7 mois (août 2026 à février 2027) combine formation en ligne, mentorat et une immersion au Japon pour transformer des idées innovantes en projets viables et attractifs pour les investisseurs. Les candidatures sont ouvertes jusqu'au 31 juillet 2026.",
+    "imageUrl": "/docs/autonomiser-jeunes-femmes-japon-unitar.webp",
+    "extrait_le": "2026-07-07T05:16:29",
+    "slug": "bourse-unitar-ticad9-afrique-japon-2026"
+  },
+  {
+    "titre": "Appel à candidatures : Conseil des jeunes co-créateurs africains",
+    "seo_slug": "conseil-jeunes-co-createurs-africains-2026",
+    "organisation": "Programme des Nations Unies pour le développement (PNUD)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "volontariat avec prise en charge des frais",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Gouvernance",
+      "Paix",
+      "Climat",
+      "Économie",
+      "Innovation numérique",
+      "Santé mentale",
+      "Genre"
+    ],
+    "pays_eligibles": [
+      "Afrique",
+      "Diaspora africaine"
+    ],
+    "age_maximum": 34,
+    "langue_requise": "Anglais (fort) ; soumissions acceptées en français",
+    "documents_requis": [
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Prise en charge des frais de voyage, hébergement, repas et communications numériques pour les activités du Conseil"
+    ],
+    "eligibilite": [
+      "Être un ressortissant africain âgé de 18 à 34 ans au moment de la sélection",
+      "Vivre sur le continent ou dans la diaspora (maximum 2 sièges pour la diaspora)",
+      "Avoir démontré une expérience de leadership, d'engagement communautaire ou d'innovation dans au moins un des domaines listés",
+      "Être engagé en faveur du développement inclusif et de l'autonomisation des jeunes",
+      "Ne pas avoir siégé auparavant dans un conseil consultatif de la jeunesse ou mécanisme similaire de l'ONU ou d'un autre partenaire de développement",
+      "Pouvoir participer à des réunions virtuelles régulières et à des engagements en personne périodiques",
+      "Avoir une bonne maîtrise de l'anglais écrit et parlé",
+      "Pouvoir siéger à titre personnel et apolitique"
+    ],
+    "procedure_etapes": [
+      "1. Compléter le formulaire de candidature en ligne avant le 31 juillet 2026",
+      "2. Les bureaux de pays du PNUD en Afrique compilent une liste longue",
+      "3. L'équipe RSCA prépare une liste restreinte basée sur la diversité régionale et les critères d'inclusion",
+      "4. Les candidats présélectionnés sont interviewés par un panel",
+      "5. Les candidats les mieux classés sont officiellement notifiés"
+    ],
+    "contacts": [
+      "ana.dju@undp.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://shorturl.at/Cajzy"
+      }
+    ],
+    "mots_cles": [
+      "conseil jeunesse",
+      "PNUD",
+      "Afrique",
+      "co-création",
+      "leadership",
+      "jeunes",
+      "diaspora",
+      "bénévole",
+      "2026"
+    ],
+    "lien_candidature": "https://shorturl.at/Cajzy",
+    "source_url": "https://www.undp.org/africa/blog/call-applications-african-youth-co-creators-council",
+    "statut": "fermé",
+    "resume": "Le PNUD lance un appel à candidatures pour son Conseil des jeunes co-créateurs africains, sélectionnant 11 jeunes leaders d'Afrique et de la diaspora pour conseiller et co-créer ses programmes jeunesse. Les membres, âgés de 18 à 34 ans, siégeront pour deux ans et participeront à des réunions en ligne et en personne. Les frais de voyage et d'hébergement sont pris en charge. Candidatures avant le 31 juillet 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-07-15T13:45:25",
+    "slug": "conseil-jeunes-co-createurs-africains-2026"
   },
   {
     "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",

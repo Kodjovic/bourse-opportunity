@@ -1,169 +1,5 @@
 [
   {
-    "titre": "Programme Présidentiel de Bourses d'Études dans le Secteur Minier du Mali (PPBEM)",
-    "seo_slug": "bourse-presidentielle-mali-secteur-minier-2026",
-    "organisation": "Programme Présidentiel de Bourses d'Études dans le Secteur Minier du Mali (PPBEM)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-08-07",
-    "deadline_texte": "07 août 2026 à 17h00",
-    "niveau_etudes": [
-      "Baccalauréat",
-      "DUT",
-      "Licence"
-    ],
-    "domaines": [
-      "Sciences",
-      "Techniques",
-      "Économie",
-      "Droit",
-      "Secteur minier"
-    ],
-    "pays_eligibles": [
-      "Mali"
-    ],
-    "age_maximum": 21,
-    "langue_requise": "Français, Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne",
-      "Relevés de notes",
-      "Diplômes",
-      "Pièce d'identité"
-    ],
-    "avantages": [
-      "Bourse complète",
-      "Frais de scolarité",
-      "Frais de subsistance",
-      "Frais de voyage"
-    ],
-    "eligibilite": [
-      "Être de nationalité malienne",
-      "Pour les néo-bacheliers : être bachelier de la session de juin 2026, âgé de 21 ans au plus au 31 décembre 2026, avoir obtenu au moins la mention Bien (14/20) avec l'anglais comme LV1",
-      "Pour les détenteurs de DUT/Licence : être titulaire d'un DUT ou d'une licence (Bac+2 ou Bac+3) délivré par un établissement reconnu par l'État, dans un domaine scientifique, technique, économique ou juridique en lien avec le secteur minier, avoir une moyenne générale supérieure ou égale à 12/20 (mention assez bien) sur l'ensemble du cursus et lors des soutenances"
-    ],
-    "procedure_etapes": [
-      "1. Consulter le communiqué officiel et les profils de formation via les liens fournis",
-      "2. Préparer les documents requis (relevés de notes, diplômes, pièce d'identité)",
-      "3. Remplir le formulaire de candidature en ligne via le lien Google Forms avant le 07 août 2026 à 17h00"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature (Google Forms)",
-        "url": "https://forms.gle/Yisa3e2bQAAGGSgi7"
-      },
-      {
-        "label": "Communiqué officiel (PDF)",
-        "url": "https://dg-enseignementsup.ml/wp-content/uploads/2026/07/Programme-presidentiel-de-bourses-d_etudes-dans-le-secteur-minier.pdf"
-      },
-      {
-        "label": "Profils de formation PPBEM (PDF)",
-        "url": "https://dg-enseignementsup.ml/wp-content/uploads/2026/07/Profiles-PPBEM-2026.pdf"
-      }
-    ],
-    "mots_cles": [
-      "bourse Mali",
-      "secteur minier",
-      "bourse présidentielle",
-      "études supérieures Mali",
-      "bourse 2026"
-    ],
-    "lien_candidature": "https://forms.gle/Yisa3e2bQAAGGSgi7",
-    "source_url": "https://dg-enseignementsup.ml/9883-2/",
-    "statut": "ouvert",
-    "resume": "Le Programme Présidentiel de Bourses d'Études dans le Secteur Minier du Mali (PPBEM) offre 30 bourses complètes pour des études supérieures dans des domaines liés au secteur minier. Les candidats maliens, qu'ils soient néo-bacheliers (10 bourses) ou titulaires d'un DUT/Licence (20 bourses), peuvent postuler avant le 07 août 2026. Les critères incluent l'excellence académique et, pour les néo-bacheliers, une limite d'âge de 21 ans. Les candidatures se font en ligne via un formulaire Google Forms.",
-    "imageUrl": null,
-    "extrait_le": "2026-08-03T07:46:36",
-    "slug": "bourse-presidentielle-mali-secteur-minier-2026"
-  },
-  {
-    "titre": "Appel à candidatures pour siéger au Conseil consultatif sur l'intégrité YouthLED de l'UNODC 2026-2028",
-    "seo_slug": "conseil-youthled-unodc-2026-2028",
-    "organisation": "UNODC (Office des Nations Unies contre la drogue et le crime)",
-    "montant": 0,
-    "devise": "EUR",
-    "type_financement": "bénévole",
-    "deadline": "2026-08-14",
-    "deadline_texte": "14 août 2026",
-    "niveau_etudes": [],
-    "domaines": [
-      "Anti-corruption",
-      "Intégrité",
-      "Éthique",
-      "Justice",
-      "Paix",
-      "Engagement civique"
-    ],
-    "pays_eligibles": [
-      "Monde entier"
-    ],
-    "age_maximum": 29,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Curriculum Vitae (CV)",
-      "Lettre de motivation (1 page ou max 500 mots)",
-      "Vidéo courte (jusqu'à 90 secondes)"
-    ],
-    "avantages": [],
-    "eligibilite": [
-      "Âge entre 18 et 29 ans à la date de candidature",
-      "Capacité à communiquer efficacement en anglais",
-      "Intérêt démontré pour l'intégrité, l'éthique, la paix, la justice, l'anti-corruption, l'état de droit, l'engagement civique, l'action communautaire, les réseaux de jeunes ou domaines connexes",
-      "Engagement à consacrer environ trois jours par mois aux activités du Conseil",
-      "Participation volontaire sans compensation financière"
-    ],
-    "procedure_etapes": [
-      "1. Remplir le formulaire de candidature en ligne",
-      "2. Soumettre un CV",
-      "3. Soumettre une lettre de motivation (1 page ou max 500 mots)",
-      "4. Soumettre une vidéo courte (jusqu'à 90 secondes)",
-      "5. Les candidats présélectionnés peuvent être invités à un entretien"
-    ],
-    "contacts": [
-      "+ (43) (1) 263-3389"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://grace.unodc.org/grace/en/news-and-events/youthled-integrity-advisory-board-2026-2028_call-for-applications.html?fbclid=IwY2xjawSiUx1leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkGmP8O24pQVuHrY96xiZZwBu2tXBMOgdMzr7POS4Ky32e_b6MDf8NoFgUCm_aem_OFhJ9svyv7ft0FG0x5eQbQ"
-      },
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://forms.gle/MQLXdaNndvrp4wdMA"
-      },
-      {
-        "label": "Page YouthLED Integrity Advisory Board",
-        "url": "https://grace.unodc.org/grace/en/youth-empowerment/discover-YouthLED.html"
-      },
-      {
-        "label": "Termes de référence",
-        "url": "https://grace.unodc.org/grace/en/youth-empowerment/discover-YouthLED.html"
-      },
-      {
-        "label": "Code de conduite",
-        "url": "https://grace.unodc.org/grace/en/youth-empowerment/discover-YouthLED.html"
-      }
-    ],
-    "mots_cles": [
-      "conseil consultatif jeunesse",
-      "intégrité",
-      "anti-corruption",
-      "UNODC",
-      "YouthLED",
-      "bénévole",
-      "jeunes",
-      "gouvernance"
-    ],
-    "lien_candidature": "https://forms.gle/MQLXdaNndvrp4wdMA",
-    "source_url": "https://grace.unodc.org/grace/en/news-and-events/youthled-integrity-advisory-board-2026-2028_call-for-applications.html?fbclid=IwY2xjawSiUx1leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkGmP8O24pQVuHrY96xiZZwBu2tXBMOgdMzr7POS4Ky32e_b6MDf8NoFgUCm_aem_OFhJ9svyv7ft0FG0x5eQbQ",
-    "statut": "ouvert",
-    "resume": "L'UNODC recherche des jeunes motivés âgés de 18 à 29 ans pour siéger au Conseil consultatif sur l'intégrité YouthLED 2026-2028. Les membres conseilleront l'UNODC sur l'engagement des jeunes dans la lutte anti-corruption, contribueront à des campagnes de sensibilisation et animeront des actions communautaires. La participation est bénévole, sans compensation financière, et nécessite un engagement d'environ trois jours par mois. Les candidatures sont ouvertes jusqu'au 14 août 2026.",
-    "adresse": "United Nations Office On Drugs and Crime (UNODC) Vienna International Centre PO Box 500 A 1400 Vienna Austria",
-    "extrait_le": "2026-06-19T16:54:04",
-    "slug": "conseil-youthled-unodc-2026-2028"
-  },
-  {
     "titre": "Appel à candidatures pour l'admission aux programmes de doctorat, 42e cycle, année académique 2026/2027",
     "seo_slug": "bourse-doctorat-unitus-italie-2026",
     "organisation": "Università degli Studi della Tuscia (UNITUS)",
@@ -508,6 +344,130 @@
     "slug": "bourse-mccall-macbain-mcgill-2027"
   },
   {
+    "titre": "Appel à lettres d'intention : Aborder les domaines négligés de la santé et des droits sexuels et reproductifs en Afrique subsaharienne (ANeSA)",
+    "seo_slug": "bourse-anesa-sante-reproductive-afrique-2026",
+    "organisation": "International Development Research Centre (IDRC), Global Affairs Canada (GAC), Canadian Institutes of Health Research (CIHR)",
+    "montant": 1200000,
+    "devise": "CAD",
+    "type_financement": "subvention",
+    "deadline": "2026-08-23",
+    "deadline_texte": "23 août 2026 à 23h59 (heure de l'Est)",
+    "niveau_etudes": [
+      "Recherche"
+    ],
+    "domaines": [
+      "Santé mondiale",
+      "Santé et droits sexuels et reproductifs"
+    ],
+    "pays_eligibles": [
+      "Angola",
+      "Bénin",
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Cameroun",
+      "République centrafricaine",
+      "Tchad",
+      "Congo (Brazzaville)",
+      "République démocratique du Congo (Kinshasa)",
+      "Guinée équatoriale",
+      "Éthiopie",
+      "Gabon",
+      "Gambie",
+      "Ghana",
+      "Guinée",
+      "Guinée-Bissau",
+      "Côte d'Ivoire",
+      "Kenya",
+      "Lesotho",
+      "Liberia",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mauritanie",
+      "Maurice",
+      "Mozambique",
+      "Namibie",
+      "Niger",
+      "Nigeria",
+      "Rwanda",
+      "Sénégal",
+      "Sierra Leone",
+      "Afrique du Sud",
+      "Eswatini",
+      "Soudan du Sud",
+      "Tanzanie",
+      "Togo",
+      "Ouganda",
+      "Zambie",
+      "Zimbabwe"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français ou Anglais",
+    "documents_requis": [
+      "Lettre d'intention",
+      "Proposition complète (si invité)"
+    ],
+    "avantages": [
+      "Subvention jusqu'à 1,2 million CAD",
+      "Durée de financement jusqu'à 36 mois"
+    ],
+    "eligibilite": [
+      "Équipes de recherche en mise en œuvre dirigées par un chercheur basé en Afrique subsaharienne",
+      "Affiliation à une institution éligible dans un pays éligible",
+      "Projets abordant au moins un des cinq domaines prioritaires d'ANeSA"
+    ],
+    "procedure_etapes": [
+      "Créer un compte sur SurveyMonkey Apply",
+      "Consulter l'appel à lettres d'intention (PDF)",
+      "Soumettre la lettre d'intention avant le 23 août 2026",
+      "Si invité, participer à l'atelier de développement de proposition (février 2027)",
+      "Soumettre la proposition complète avant le 2 mai 2027"
+    ],
+    "contacts": [
+      "SRHR-SDSR@idrc.ca"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Appel à lettres d'intention (PDF)",
+        "url": "https://idrc-crdi.ca/sites/default/files/2026-06/ANeSA%20-%20Cohort%202%20Call%20for%20LoIs%20-%20Stream%202-New%20Grants-EN-2026%20Jun%2025-POSTED.pdf"
+      },
+      {
+        "label": "Page FAQ",
+        "url": "https://idrc-crdi.ca/en/frequently-asked-questions-faq-addressing-neglected-areas-sexual-and-reproductive-health-and-rights"
+      },
+      {
+        "label": "Inscription au webinaire (français)",
+        "url": "https://events.teams.microsoft.com/event/1917674d-3a53-4670-9066-945f118a5d80@a7498537-0e38-4077-8382-ebd7d9214f53"
+      },
+      {
+        "label": "Guide de configuration de compte SurveyMonkey Apply",
+        "url": "https://www.idrc.ca/sites/default/files/2021-05/Survey%20Monkey%20Apply%20-%20General%20Applicant%20Guide.pdf"
+      },
+      {
+        "label": "Portail de candidature",
+        "url": "https://idrc-crdi.smapply.io/prog/anesa-cohort2-irt/"
+      }
+    ],
+    "mots_cles": [
+      "bourse santé reproductive",
+      "subvention recherche Afrique",
+      "ANeSA",
+      "santé sexuelle",
+      "droits reproductifs",
+      "financement recherche",
+      "IDRC",
+      "appel à propositions"
+    ],
+    "lien_candidature": "https://idrc-crdi.smapply.io/prog/anesa-cohort2-irt/",
+    "source_url": "https://idrc-crdi.ca/en/funding/call-letters-interest-addressing-neglected-areas-sexual-and-reproductive-health-and-0?fbclid=IwY2xjawTugkxwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeAkFWutq4GzaE3bdD2Fvk0TrBv-plnsY62thGTOPa7YtyWlkXUt14GrKpW1o_aem_N5cRW2ccP5GcUhOp7PY3Ew",
+    "statut": "ouvert",
+    "resume": "L'appel à lettres d'intention ANeSA finance des équipes de recherche en mise en œuvre en Afrique subsaharienne pour aborder des domaines négligés de la santé et des droits sexuels et reproductifs. Jusqu'à six subventions de 1,2 million CAD chacune seront attribuées. Les candidatures doivent être soumises avant le 23 août 2026. Les projets doivent se concentrer sur au moins un des cinq domaines prioritaires, notamment l'accès à la contraception, les soins d'avortement sécurisé, les droits des adolescents, la prévention des violences basées sur le genre et le plaidoyer pour les droits en santé sexuelle et reproductive.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T11:48:44",
+    "slug": "bourse-anesa-sante-reproductive-afrique-2026"
+  },
+  {
     "titre": "Bourse ER.GO pour l'année académique 2026/2027",
     "seo_slug": "bourse-er-go-italie-2026",
     "organisation": "ER.GO - Azienda Regionale per il Diritto agli Studi Superiori",
@@ -562,6 +522,223 @@
     "imageUrl": null,
     "extrait_le": "2026-07-13T15:52:55",
     "slug": "bourse-er-go-italie-2026"
+  },
+  {
+    "titre": "Programme de Petites Subventions pour Chercheurs Africains (SGP VIII) - Appel à candidatures",
+    "seo_slug": "bourse-sgp-viii-afrique-2026",
+    "organisation": "African Research Network for Neglected Tropical Diseases (ARNTD)",
+    "montant": 30000,
+    "devise": "USD",
+    "type_financement": "subvention",
+    "deadline": "2026-08-24",
+    "deadline_texte": "24 août 2026 à 17h00 GMT",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Recherche opérationnelle",
+      "Maladies tropicales négligées"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (pour les propositions complètes)",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Proposition complète",
+      "Documentation supplémentaire"
+    ],
+    "avantages": [
+      "Financement jusqu'à 30 000 USD (début de carrière)",
+      "Financement jusqu'à 65 000 USD (mi-carrière)"
+    ],
+    "eligibilite": [
+      "Chercheurs et universitaires basés dans des institutions de recherche ou universités en Afrique",
+      "Pour les subventions début de carrière : chercheurs en début de carrière et étudiants en doctorat",
+      "Pour les subventions mi-carrière : anciens bénéficiaires du SGP (SGP I-VI) ayant terminé avec succès et démontré l'excellence",
+      "Les candidats doivent démontrer que la recherche proposée est alignée avec les intérêts du programme national de lutte contre les MTN de leur pays",
+      "Les candidats ayant interrompu leur carrière pour raisons de santé ou obligations familiales sont encouragés à postuler"
+    ],
+    "procedure_etapes": [
+      "1. Télécharger l'appel détaillé pour le volet concerné (début de carrière ou mi-carrière)",
+      "2. Vérifier les critères d'éligibilité et le processus de candidature spécifiques",
+      "3. Remplir le formulaire de candidature en ligne (anglais, français ou portugais)",
+      "4. Si présélectionné, soumettre une proposition complète et des documents supplémentaires en anglais uniquement"
+    ],
+    "contacts": [
+      "secretariat@arntd.org",
+      "(+233) 3220 60351"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature (anglais)",
+        "url": "https://forms.gle/KfJoZ4iSBeB7K6u39"
+      },
+      {
+        "label": "Formulaire de candidature (français)",
+        "url": "https://forms.gle/xmnhaUonmPej2hrp8"
+      },
+      {
+        "label": "Formulaire de candidature (portugais)",
+        "url": "https://forms.gle/ZV3dps5FSQgim6AK6"
+      },
+      {
+        "label": "Appel détaillé - Subventions début de carrière (PDF)",
+        "url": "https://arntd.org/wp-content/uploads/2026/07/SGP-VIII-Call_Early-Career_2026.pdf"
+      },
+      {
+        "label": "Appel détaillé - Subventions mi-carrière (PDF)",
+        "url": "https://arntd.org/wp-content/uploads/2026/07/SGP-VIII-Call_Mid-Career_2026.pdf"
+      },
+      {
+        "label": "Feuille de route de l'OMS pour les MTN 2030",
+        "url": "https://www.who.int/teams/control-of-neglected-tropical-diseases/ending-ntds-together-towards-2030/targets"
+      }
+    ],
+    "mots_cles": [
+      "bourse recherche Afrique",
+      "subvention maladies tropicales",
+      "SGP VIII",
+      "ARNTD",
+      "recherche opérationnelle",
+      "MTN",
+      "chercheur africain"
+    ],
+    "lien_candidature": "https://forms.gle/KfJoZ4iSBeB7K6u39",
+    "source_url": "https://arntd.org/grants-funding/?fbclid=IwY2xjawTugtxwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeAkFWutq4GzaE3bdD2Fvk0TrBv-plnsY62thGTOPa7YtyWlkXUt14GrKpW1o_aem_N5cRW2ccP5GcUhOp7PY3Ew",
+    "statut": "ouvert",
+    "resume": "Le Programme de Petites Subventions pour Chercheurs Africains (SGP VIII) de l'ARNTD, en partenariat avec la COR-NTD, offre des financements pour la recherche opérationnelle sur les maladies tropicales négligées (MTN) en Afrique. Deux types de subventions sont disponibles : jusqu'à 30 000 USD pour les chercheurs en début de carrière (4 bourses) et jusqu'à 65 000 USD pour les chercheurs en mi-carrière (2 bourses). Les candidatures sont ouvertes jusqu'au 24 août 2026 à 17h00 GMT. Les chercheurs africains sont invités à postuler via les formulaires en ligne en anglais, français ou portugais, mais les propositions complètes doivent être soumises en anglais.",
+    "adresse": "KCCR, South-end Asuogya Road, KNUST, Kumasi, Ghana",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T11:51:07",
+    "slug": "bourse-sgp-viii-afrique-2026"
+  },
+  {
+    "titre": "Engagement des consommateurs par l'IA pour faire progresser la planification familiale",
+    "seo_slug": "bourse-ia-planification-familiale-afrique-2026",
+    "organisation": "Fondation Bill et Melinda Gates",
+    "montant": 500000,
+    "devise": "USD",
+    "type_financement": "Subvention de projet",
+    "deadline": "2026-08-25",
+    "deadline_texte": "25 août 2026 à 11h30 PDT",
+    "niveau_etudes": [],
+    "domaines": [
+      "Intelligence artificielle",
+      "Planification familiale",
+      "Santé publique"
+    ],
+    "pays_eligibles": [
+      "Nigeria",
+      "Éthiopie",
+      "République démocratique du Congo",
+      "Tanzanie",
+      "Sénégal",
+      "Niger",
+      "Kenya",
+      "Afrique du Sud",
+      "Zambie",
+      "Côte d'Ivoire"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Non spécifiée",
+    "documents_requis": [
+      "Proposition de projet",
+      "Budget",
+      "Documents de conformité"
+    ],
+    "avantages": [
+      "Subvention jusqu'à 500 000 USD",
+      "Durée de projet jusqu'à 12 mois",
+      "Coûts indirects jusqu'à 15% du budget total"
+    ],
+    "eligibilite": [
+      "Organisations à but non lucratif, entreprises à but lucratif, organisations internationales, agences gouvernementales et institutions académiques",
+      "Avoir une cohorte existante d'interventions en santé des femmes/consommateurs dans les pays cibles",
+      "Avoir une approche d'engagement des consommateurs existante et une base d'utilisateurs établie",
+      "Proposer un plan d'évaluation crédible",
+      "S'engager à produire des résultats pour la base de preuves partagée",
+      "Démontrer que le contenu généré par l'IA est fondé sur des informations locales et alignées sur les directives nationales"
+    ],
+    "procedure_etapes": [
+      "1. Lire les documents de soutien (conditions générales, règles et directives, instructions de candidature, FAQ)",
+      "2. Assister au webinaire du 4 août 2026 (optionnel)",
+      "3. Soumettre la candidature via le portail en ligne avant la date limite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Conditions générales de la Fondation Gates",
+        "url": "https://docs.gatesfoundation.org/documents/sample-terms-and-conditions.pdf"
+      },
+      {
+        "label": "Règles et directives",
+        "url": "https://gcgh.grandchallenges.org/sites/default/files/files/ai_consumer_engagement_for_family_planning_rules_and_guidelines.pdf"
+      },
+      {
+        "label": "Instructions de candidature",
+        "url": "https://gcgh.grandchallenges.org/sites/default/files/files/ai_consumer_engagement_for_family_planning_application_instructions.pdf"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://gcgh.grandchallenges.org/ai-enabled-consumer-engagement-advance-family-planning-frequently-asked-questions-faqs"
+      },
+      {
+        "label": "Inscription au webinaire",
+        "url": "https://events.teams.microsoft.com/event/ac4a79a3-e3f8-4878-8384-7f4a6a2fc759@296b3838-4bd5-496c-bd4b-f456ea743b74"
+      },
+      {
+        "label": "Soumettre des questions à l'avance",
+        "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ODhrKdVLbEm9S_RW6nQ7dNyUf4PhutFBmFMAT6JKpddUNFc3TjhIQ05MMTVJUVJSWDg4MkVZOEE0Ty4u"
+      },
+      {
+        "label": "Politique de coûts indirects",
+        "url": "https://docs.gatesfoundation.org/Documents/Indirect_Cost_Policy.pdf"
+      },
+      {
+        "label": "RFP (PDF)",
+        "url": "https://gcgh.grandchallenges.org/sites/default/files/files/ai_consumer_engagement_for_family_planning_rfp.pdf"
+      },
+      {
+        "label": "RFP en chinois",
+        "url": "https://gcgh.grandchallenges.org/sites/default/files/files/ai_consumer_engagement_for_family_planning_rfp_chinese.pdf"
+      },
+      {
+        "label": "RFP en français",
+        "url": "https://gcgh.grandchallenges.org/sites/default/files/files/ai_consumer_engagement_for_family_planning_rfp_french.pdf"
+      },
+      {
+        "label": "RFP en coréen",
+        "url": "https://gcgh.grandchallenges.org/sites/default/files/files/ai_consumer_engagement_for_family_planning_rfp_korean.pdf"
+      },
+      {
+        "label": "RFP en portugais",
+        "url": "https://gcgh.grandchallenges.org/sites/default/files/files/ai_consumer_engagement_for_family_planning_rfp_portuguese.pdf"
+      },
+      {
+        "label": "RFP en espagnol",
+        "url": "https://gcgh.grandchallenges.org/sites/default/files/files/ai_consumer_engagement_for_family_planning_rfp_spanish.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse IA",
+      "planification familiale",
+      "subvention santé",
+      "Afrique subsaharienne",
+      "engagement consommateur",
+      "intelligence artificielle",
+      "Fondation Gates",
+      "2026"
+    ],
+    "lien_candidature": "https://submit.gatesfoundation.org/prog/ai-enabled_consumer_engagement_to_advance_family_planning",
+    "source_url": "https://gcgh.grandchallenges.org/challenge/ai-enabled-consumer-engagement-advance-family-planning?fbclid=IwY2xjawTug2hwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeJ1dun24uLe8BuaRp7U1x6E51D7j3NnUirKRaFSf8xMZqgD-O1ocZkcXa4jo_aem_LPFx0a5OIXT6xQZWAKIqGg",
+    "statut": "ouvert",
+    "resume": "La Fondation Bill et Melinda Gates lance un appel à propositions pour financer des projets innovants utilisant l'intelligence artificielle pour améliorer l'engagement des consommateurs en matière de planification familiale en Afrique subsaharienne. Les subventions peuvent atteindre 500 000 USD sur 12 mois. Les candidats doivent avoir une base d'utilisateurs existante et proposer une évaluation rigoureuse. La date limite est le 25 août 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T11:52:20",
+    "slug": "bourse-ia-planification-familiale-afrique-2026"
   },
   {
     "titre": "Bourse Rhodes pour l'Afrique de l'Ouest 2027",
@@ -872,6 +1049,526 @@
     "slug": "global-innovation-challenge-2026"
   },
   {
+    "titre": "Fonds pour la Paix de l'Union Africaine : Appel à candidatures pour les fenêtres programmatiques",
+    "seo_slug": "fonds-paix-union-africaine-appel-candidatures-2026",
+    "organisation": "Union Africaine (UA)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "Financement de projets",
+    "deadline": "2026-08-31",
+    "deadline_texte": "31 août 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Médiation et diplomatie préventive",
+      "Renforcement des capacités institutionnelles",
+      "Opérations de soutien à la paix"
+    ],
+    "pays_eligibles": [
+      "États membres de l'Union Africaine"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Proposition de projet"
+    ],
+    "avantages": [
+      "Financement de projets liés à la paix"
+    ],
+    "eligibilite": [
+      "Être un État membre de l'Union Africaine",
+      "Être une Communauté économique régionale (CER)",
+      "Être un Mécanisme régional (MR)",
+      "Être le Département des affaires politiques, de la paix et de la sécurité (PAPS) de la Commission de l'Union Africaine"
+    ],
+    "procedure_etapes": [
+      "1. Consulter les critères d'éligibilité, les directives de candidature et le formulaire de candidature via le lien fourni.",
+      "2. Préparer la proposition de projet conformément aux directives.",
+      "3. Envoyer la candidature par e-mail au Secrétariat du Fonds pour la Paix à l'adresse pfs@africanunion.org, avec pour objet : 'Application for Funding under the AU Peace Fund Programmatic Windows – Funding Cycle 2028'."
+    ],
+    "contacts": [
+      "pfs@africanunion.org",
+      "molalett@africanunion.org",
+      "estifanost@africanunion.org",
+      "dci@africanunion.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Modalities et méthodologies pour l'utilisation et la contribution du Fonds pour la Paix",
+        "url": "https://shorturl.at/KUOZ4"
+      },
+      {
+        "label": "Critères d'éligibilité, directives et formulaire de candidature",
+        "url": "https://acesse.one/dhkz24o"
+      },
+      {
+        "label": "Appel à candidatures (EN) - PDF",
+        "url": "https://au.int/sites/default/files/PR_AUPF%20Funding%20Opportunity%20for%20Eligible%20Beneficiaries_July2026.pdf"
+      },
+      {
+        "label": "Appel à candidatures (FR) - PDF",
+        "url": "https://au.int/sites/default/files/FRS-AUPF%20Funding%20Opportunity%20for%20Eligible%20Beneficiaries.pdf"
+      },
+      {
+        "label": "Page Facebook de la Commission de l'UA",
+        "url": "https://www.facebook.com/AfricanUnionCommission"
+      },
+      {
+        "label": "Twitter de l'UA",
+        "url": "https://twitter.com/_AfricanUnion"
+      },
+      {
+        "label": "Instagram de l'UA",
+        "url": "https://www.instagram.com/africanunion_official/"
+      },
+      {
+        "label": "YouTube de l'UA",
+        "url": "https://www.youtube.com/AUCommission"
+      }
+    ],
+    "mots_cles": [
+      "Fonds pour la Paix",
+      "Union Africaine",
+      "financement paix",
+      "appel à candidatures",
+      "projets paix",
+      "Afrique",
+      "médiation",
+      "prévention des conflits",
+      "opérations de soutien à la paix"
+    ],
+    "lien_candidature": "https://acesse.one/dhkz24o",
+    "source_url": "https://au.int/en/announcement/african-union-peace-fund-announces-call-applications-under-programmatic-windows?fbclid=IwY2xjawTug7FwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLgVBXjaUOeOgDggeKoJv-CSElodIAha3Px0irceEyIRvUiFkkEboWzxHVYc_aem_ZwY-jQwDJVjSc9zgQLbp5Q",
+    "statut": "ouvert",
+    "resume": "Le Fonds pour la Paix de l'Union Africaine lance un appel à candidatures pour financer des initiatives de paix dans le cadre de ses fenêtres programmatiques. Les bénéficiaires éligibles incluent les États membres, les CER, les MR et le département PAPS. Les candidatures doivent être soumises avant le 31 août 2026. Ce financement soutient des projets dans les domaines de la médiation, du renforcement des capacités et des opérations de soutien à la paix, contribuant ainsi à l'Agenda 2063.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T11:53:29",
+    "slug": "fonds-paix-union-africaine-appel-candidatures-2026"
+  },
+  {
+    "titre": "Défi Mondial de l'Innovation 2026",
+    "seo_slug": "bourse-innovation-jeunes-2026",
+    "organisation": "Social Shifters",
+    "montant": 15000,
+    "devise": "USD",
+    "type_financement": "subvention",
+    "deadline": "2026-08-31",
+    "deadline_texte": "31 août 2026 à 17h00 UTC",
+    "niveau_etudes": [],
+    "domaines": [
+      "Impact social",
+      "Impact environnemental"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": 30,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Subventions jusqu'à 15 000 USD",
+      "Accompagnement gratuit pour les candidats",
+      "Accès à des opportunités (travail rémunéré, bourses, réseautage, apprentissage)"
+    ],
+    "eligibilite": [
+      "Être un jeune fondateur âgé de 18 à 30 ans",
+      "Le projet ou la startup doit être dirigé à 100% par des jeunes",
+      "Le projet doit avoir un impact social ou environnemental clair",
+      "Le projet doit déjà être opérationnel et produire des résultats mesurables"
+    ],
+    "procedure_etapes": [
+      "S'inscrire sur la plateforme de candidature",
+      "Préparer sa candidature en utilisant les ressources gratuites",
+      "Soumettre sa candidature avant la date limite"
+    ],
+    "contacts": [
+      "challenge@socialshifters.com"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://globalinnovationchallenge.awardsplatform.com/"
+      },
+      {
+        "label": "Lignes directrices du concours (PDF)",
+        "url": "https://www.socialshifters.co/wp-content/uploads/2026/05/Guidelines-Social-Shifters-Global-Innovation-Challenge-2026_compressed.pdf"
+      },
+      {
+        "label": "FAQ du concours (PDF)",
+        "url": "https://www.socialshifters.co/wp-content/uploads/2026/05/FAQS-Social-Shifters-Global-Innovation-Challenge-2026_compressed.pdf"
+      },
+      {
+        "label": "Objectifs de développement durable des Nations Unies",
+        "url": "https://sdgs.un.org/goals"
+      },
+      {
+        "label": "Formulaire de recommandation d'un fondateur",
+        "url": "https://www.socialshifters.co/founder-referral-form/"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "subvention",
+      "jeunes entrepreneurs",
+      "innovation sociale",
+      "startup",
+      "impact",
+      "2026"
+    ],
+    "lien_candidature": "https://globalinnovationchallenge.awardsplatform.com/",
+    "source_url": "https://www.socialshifters.co/global-innovation-challenge/?fbclid=IwY2xjawTug_hwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLgVBXjaUOeOgDggeKoJv-CSElodIAha3Px0irceEyIRvUiFkkEboWzxHVYc_aem_ZwY-jQwDJVjSc9zgQLbp5Q",
+    "statut": "ouvert",
+    "resume": "Le Défi Mondial de l'Innovation 2026 de Social Shifters offre des subventions allant jusqu'à 15 000 USD à de jeunes fondateurs (18-30 ans) qui dirigent des projets ou startups à impact social ou environnemental. En plus du financement, les lauréats bénéficient d'un accompagnement gratuit, d'un accès à une communauté mondiale et d'opportunités de développement. Les candidatures sont ouvertes jusqu'au 31 août 2026. Ne manquez pas cette chance de propulser votre projet !",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T11:54:39",
+    "slug": "bourse-innovation-jeunes-2026"
+  },
+  {
+    "titre": "Appel à lettres d'intention pour les petites subventions : Point chaud de biodiversité des forêts guinéennes d'Afrique de l'Ouest",
+    "seo_slug": "bourse-petites-subventions-forets-guineennes-2026",
+    "organisation": "Critical Ecosystem Partnership Fund (CEPF)",
+    "montant": 50000,
+    "devise": "USD",
+    "type_financement": "subvention",
+    "deadline": "2026-08-31",
+    "deadline_texte": "31 août 2026 à 23h59 GMT/UTC",
+    "niveau_etudes": [],
+    "domaines": [
+      "Biodiversité",
+      "Conservation",
+      "Environnement"
+    ],
+    "pays_eligibles": [
+      "Guinée",
+      "Sierra Leone",
+      "Libéria",
+      "Côte d'Ivoire",
+      "Ghana",
+      "Togo",
+      "Bénin",
+      "Nigéria",
+      "Cameroun",
+      "Guinée équatoriale",
+      "Sao Tomé-et-Principe"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais, français, portugais, espagnol",
+    "documents_requis": [
+      "Lettre d'intention (LOI) en format Word (.docx)",
+      "Documents justificatifs (PDF)"
+    ],
+    "avantages": [
+      "Subvention jusqu'à 50 000 USD"
+    ],
+    "eligibilite": [
+      "Organisations non gouvernementales",
+      "Groupes communautaires",
+      "Entreprises privées",
+      "Institutions publiques indépendantes",
+      "Organisations de la société civile (OSC)"
+    ],
+    "procedure_etapes": [
+      "Lire l'intégralité de l'appel à lettres d'intention",
+      "Se familiariser avec le profil d'écosystème du point chaud GFWA",
+      "Contacter l'équipe RIT pour toute question (cepf.gfwa.info@arocha.org)",
+      "Télécharger le modèle de lettre d'intention",
+      "Remplir le modèle officiel en format Word (.docx)",
+      "Préparer les documents justificatifs en PDF",
+      "Envoyer le fichier .docx et les documents justificatifs à cepf.gfwa.applications@arocha.org avant la date limite"
+    ],
+    "contacts": [
+      "cepf.gfwa.info@arocha.org",
+      "cepf.gfwa.applications@arocha.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Appel à lettres d'intention (anglais, PDF)",
+        "url": "https://www.cepf.net/resources/calls-for-proposals/gfwa-small-grants-cfp-july-2026-english"
+      },
+      {
+        "label": "Appel à lettres d'intention (français, PDF)",
+        "url": "https://www.cepf.net/resources/calls-for-proposals/gfwa-small-grants-cfp-july-2026-french"
+      },
+      {
+        "label": "Appel à lettres d'intention (espagnol, PDF)",
+        "url": "https://www.cepf.net/resources/calls-for-proposals/gfwa-small-grants-cfp-july-2026-spanish"
+      },
+      {
+        "label": "Appel à lettres d'intention (portugais, PDF)",
+        "url": "https://www.cepf.net/resources/calls-for-proposals/gfwa-small-grants-cfp-july-2026-portuguese"
+      },
+      {
+        "label": "Modèle de lettre d'intention (anglais)",
+        "url": "https://www.cepf.net/resources/documents/gfwa-small-grants-cfp-loi-template-july-2026-english"
+      },
+      {
+        "label": "Modèle de lettre d'intention (français)",
+        "url": "https://www.cepf.net/resources/documents/gfwa-small-grants-cfp-loi-template-july-2026-french"
+      },
+      {
+        "label": "Modèle de lettre d'intention (portugais)",
+        "url": "https://www.cepf.net/resources/documents/gfwa-small-grants-cfp-loi-template-july-2026-portuguese"
+      },
+      {
+        "label": "Profil d'écosystème (anglais)",
+        "url": "https://www.cepf.net/resources/ecosystem-profile-documents/guinean-forests-of-west-africa-ecosystem-profile-2025-english"
+      },
+      {
+        "label": "Profil d'écosystème (français)",
+        "url": "https://www.cepf.net/resources/ecosystem-profile-documents/guinean-forests-of-west-africa-ecosystem-profile-2025-french"
+      },
+      {
+        "label": "Critères d'admissibilité",
+        "url": "https://ghana.arocha.org/cepf-grant-eligibility-criteria/"
+      },
+      {
+        "label": "12 conseils pour obtenir un financement",
+        "url": "https://www.cepf.net/stories/12-tips-getting-your-grant-idea-funded"
+      },
+      {
+        "label": "Boîte à outils sur l'égalité de genre",
+        "url": "https://www.cepf.net/stories/announcing-cepfs-new-gender-toolkit"
+      },
+      {
+        "label": "Cadre de gestion environnementale et sociale",
+        "url": "https://www.cepf.net/resources/documents/cepf-environmental-and-social-management-framework-2022"
+      },
+      {
+        "label": "Série de vidéos sur les mesures de sauvegarde",
+        "url": "https://www.youtube.com/playlist?list=PLNcZTLJKNBrJghFdlL58BSM2zyoQEy7Ui"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "subvention",
+      "forêts guinéennes",
+      "Afrique de l'Ouest",
+      "biodiversité",
+      "CEPF",
+      "petites subventions",
+      "ONG",
+      "2026"
+    ],
+    "lien_candidature": "https://www.cepf.net/grants/open-calls-for-proposals/gfwa-small-grants-cfp-july-2026",
+    "source_url": "https://www.cepf.net/grants/open-calls-for-proposals/gfwa-small-grants-cfp-july-2026?fbclid=IwY2xjawTuhD1wZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeAkFWutq4GzaE3bdD2Fvk0TrBv-plnsY62thGTOPa7YtyWlkXUt14GrKpW1o_aem_N5cRW2ccP5GcUhOp7PY3Ew",
+    "statut": "ouvert",
+    "resume": "Le Fonds de partenariat pour les écosystèmes critiques (CEPF) lance un appel à lettres d'intention pour des petites subventions destinées à la conservation de la biodiversité dans le point chaud des forêts guinéennes d'Afrique de l'Ouest. Les organisations de la société civile, groupes communautaires, entreprises privées et institutions publiques de 11 pays éligibles peuvent postuler jusqu'au 31 août 2026. Les subventions peuvent atteindre 50 000 USD pour des projets alignés sur les priorités d'investissement 1.1, 2.1 et 2.2. Les candidatures doivent être soumises en anglais, français, portugais ou espagnol, en utilisant le modèle officiel de lettre d'intention.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T11:56:31",
+    "slug": "bourse-petites-subventions-forets-guineennes-2026"
+  },
+  {
+    "titre": "Défi d'Innovation : Appel à Candidatures",
+    "seo_slug": "defi-innovation-giz-afrique-du-sud-2026",
+    "organisation": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+    "montant": 75000,
+    "devise": "EUR",
+    "type_financement": "subvention",
+    "deadline": "2026-08-31",
+    "deadline_texte": "31 août 2026 à 17h00 (heure normale d'Afrique du Sud)",
+    "niveau_etudes": [],
+    "domaines": [
+      "Biotechnologies",
+      "Produits pharmaceutiques",
+      "Santé des femmes"
+    ],
+    "pays_eligibles": [
+      "Afrique du Sud"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Proposition de projet",
+      "Plan de travail",
+      "Budget"
+    ],
+    "avantages": [
+      "Subvention de 75 000 euros"
+    ],
+    "eligibilite": [
+      "Être une start-up sud-africaine (niveau de maturité technologique minimum 3)",
+      "Être un groupe de recherche ou une institution de recherche sud-africaine",
+      "Avoir une innovation alignée sur le volet Biotechnologies ou Produits pharmaceutiques",
+      "Proposer un projet réalisable en six mois"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le dossier d'information du Défi d'Innovation",
+      "2. Préparer la proposition, le plan de travail et le budget",
+      "3. Soumettre la proposition via la plateforme de candidature avant la date limite"
+    ],
+    "contacts": [
+      "+49 228 44 60-0"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Dossier d'information du Défi d'Innovation",
+        "url": "https://www.giz.de/en/innovation-challenge-information-pack"
+      }
+    ],
+    "mots_cles": [
+      "défi innovation",
+      "GIZ",
+      "Afrique du Sud",
+      "subvention",
+      "santé des femmes",
+      "biotechnologies",
+      "pharmaceutique",
+      "start-up"
+    ],
+    "lien_candidature": "https://www.giz.de/en/innovation-challenge-information-pack",
+    "source_url": "https://www.giz.de/en/regions/africa/south-africa/news/innovation-challenge-call-applications?fbclid=IwY2xjawTuhJdwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeqyBGE25oopYg0zKW1npNkcAsMuBxW7umClb3Akr9C3fai_BDI02iBmDQ7-0_aem_Ae4PeSBBjLkvYZTabudukA",
+    "statut": "ouvert",
+    "resume": "Le Défi d'Innovation, lancé par la GIZ dans le cadre du programme SAVax, offre une subvention de 75 000 euros à deux lauréats sud-africains pour développer des solutions innovantes en biotechnologies ou en produits pharmaceutiques, visant à améliorer la santé des femmes dans les pays à revenu faible ou intermédiaire. Les candidatures sont ouvertes aux start-ups et institutions de recherche sud-africaines, avec une date limite fixée au 31 août 2026. Cette initiative soutient l'entrepreneuriat et l'innovation locale pour un impact durable.",
+    "adresse": "Friedrich-Ebert-Allee 32 + 36 53113 Bonn",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T11:58:04",
+    "slug": "defi-innovation-giz-afrique-du-sud-2026"
+  },
+  {
+    "titre": "Défi des Jeunes Innovateurs 2026",
+    "seo_slug": "defi-jeunes-innovateurs-kenya-2026",
+    "organisation": "Kenya Community Development Foundation (KCDF)",
+    "montant": 5000000,
+    "devise": "KES",
+    "type_financement": "subvention",
+    "deadline": "2026-08-31",
+    "deadline_texte": "31 août 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Environnement",
+      "Développement durable",
+      "Innovation"
+    ],
+    "pays_eligibles": [
+      "Kenya"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Budget détaillé",
+      "Documents justificatifs (vidéos, photos)"
+    ],
+    "avantages": [
+      "Subvention jusqu'à 5 000 000 KES pour les organisations",
+      "Subvention jusqu'à 1 500 000 KES pour les individus",
+      "Mentorat",
+      "Soutien technique"
+    ],
+    "eligibilite": [
+      "Être un jeune innovateur âgé de 15 à 35 ans",
+      "Résider au Kenya et mettre en œuvre le projet au Kenya",
+      "Pour les individus : innovation environnementale testée et à impact",
+      "Pour les organisations : être enregistrée et dirigée par des jeunes",
+      "Avoir une solution durable et évolutive"
+    ],
+    "procedure_etapes": [
+      "Télécharger le formulaire de candidature approprié (individu ou organisation)",
+      "Remplir le formulaire hors ligne",
+      "Préparer un budget détaillé et des documents justificatifs",
+      "Soumettre la candidature via le lien de soumission correspondant avant le 31 août 2026"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature pour groupe/organisation",
+        "url": "https://ee-eu.kobotoolbox.org/x/Xcnrtb7o"
+      },
+      {
+        "label": "Formulaire de candidature individuel",
+        "url": "https://ee-eu.kobotoolbox.org/x/hKDskXmE"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "subvention",
+      "jeunes innovateurs",
+      "Kenya",
+      "environnement",
+      "développement durable",
+      "2026"
+    ],
+    "lien_candidature": "https://ee-eu.kobotoolbox.org/x/Xcnrtb7o",
+    "source_url": "https://kcdf.or.ke/our-focus-areas/community-led-development/environmentalist-innovative-challenge-yeic/?fbclid=IwY2xjawTuiLJwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeAkFWutq4GzaE3bdD2Fvk0TrBv-plnsY62thGTOPa7YtyWlkXUt14GrKpW1o_aem_N5cRW2ccP5GcUhOp7PY3Ew",
+    "statut": "ouvert",
+    "resume": "Le Défi des Jeunes Innovateurs 2026, lancé par la Kenya Community Development Foundation (KCDF) en partenariat avec la Fondation I&M, offre des subventions allant jusqu'à 5 millions de KES aux jeunes innovateurs kenyans (15-35 ans) qui développent des solutions durables dans les domaines de l'environnement, du climat et du développement communautaire. Avec 16 prix à attribuer (10 pour des organisations et 6 pour des individus), ce programme vise à soutenir des innovations à fort impact et à accélérer la transition verte du Kenya. Les candidatures sont ouvertes du 31 juillet au 31 août 2026, et les finalistes seront annoncés en janvier 2027.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T12:14:58",
+    "slug": "defi-jeunes-innovateurs-kenya-2026"
+  },
+  {
+    "titre": "Défi des Jeunes Innovateurs 2026",
+    "seo_slug": "defi-jeunes-innovateurs-kenya-2026",
+    "organisation": "Kenya Community Development Foundation (KCDF) et I&M Foundation",
+    "montant": 5000000,
+    "devise": "KES",
+    "type_financement": "subvention",
+    "deadline": "2026-08-31",
+    "deadline_texte": "31 août 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Environnement",
+      "Innovation",
+      "Développement durable"
+    ],
+    "pays_eligibles": [
+      "Kenya"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature technique",
+      "Budget prévisionnel",
+      "Documents justificatifs (vidéos, photos)"
+    ],
+    "avantages": [
+      "Subvention jusqu'à 1 500 000 KES pour les individus",
+      "Subvention jusqu'à 5 000 000 KES pour les organisations",
+      "Accompagnement technique et mentorat"
+    ],
+    "eligibilite": [
+      "Être un jeune innovateur âgé de 15 à 35 ans",
+      "Résider au Kenya et mettre en œuvre le projet au Kenya",
+      "Pour les individus : innovation environnementale testée et à impact",
+      "Pour les organisations : organisation enregistrée dirigée par des jeunes avec des solutions durables et évolutives"
+    ],
+    "procedure_etapes": [
+      "Télécharger le formulaire de candidature approprié (individu ou organisation)",
+      "Remplir le formulaire hors ligne",
+      "Préparer un budget prévisionnel et des documents justificatifs",
+      "Soumettre la candidature via le lien de soumission correspondant avant le 31 août 2026"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature pour groupe/organisation",
+        "url": "https://ee-eu.kobotoolbox.org/x/Xcnrtb7o"
+      },
+      {
+        "label": "Formulaire de candidature pour individu",
+        "url": "https://ee-eu.kobotoolbox.org/x/hKDskXmE"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "subvention",
+      "jeunes innovateurs",
+      "Kenya",
+      "environnement",
+      "développement durable",
+      "2026"
+    ],
+    "lien_candidature": "https://ee-eu.kobotoolbox.org/x/Xcnrtb7o",
+    "source_url": "https://kcdf.or.ke/our-focus-areas/community-led-development/environmentalist-innovative-challenge-yeic/?fbclid=IwY2xjawTuiP1wZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeAkFWutq4GzaE3bdD2Fvk0TrBv-plnsY62thGTOPa7YtyWlkXUt14GrKpW1o_aem_N5cRW2ccP5GcUhOp7PY3Ew",
+    "statut": "ouvert",
+    "resume": "Le Défi des Jeunes Innovateurs 2026, organisé par la Kenya Community Development Foundation (KCDF) et I&M Foundation, offre des subventions allant jusqu'à 5 millions de KES aux jeunes innovateurs kenyans âgés de 15 à 35 ans. Ce programme vise à soutenir des solutions innovantes dans les domaines de l'environnement, du climat et du développement durable. Les candidatures sont ouvertes du 31 juillet au 31 août 2026, et les lauréats seront annoncés en janvier 2027. Ne manquez pas cette opportunité de financer votre projet et de contribuer à la transition verte du Kenya.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T12:16:37",
+    "slug": "defi-jeunes-innovateurs-kenya-2026"
+  },
+  {
     "titre": "Bourses postdoctorales ETH",
     "seo_slug": "bourses-postdoctorales-eth-zurich-2026",
     "organisation": "ETH Zurich",
@@ -981,6 +1678,76 @@
     "slug": "bourses-postdoctorales-eth-zurich-2026"
   },
   {
+    "titre": "Subvention de la Fondation Halton",
+    "seo_slug": "subvention-fondation-halton-2026",
+    "organisation": "Halton Foundation",
+    "montant": null,
+    "devise": null,
+    "type_financement": "subvention",
+    "deadline": "2026-09-01",
+    "deadline_texte": "1er septembre 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Qualité environnementale intérieure",
+      "Bien-être humain"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [
+      "Proposition de projet détaillée",
+      "Budget"
+    ],
+    "avantages": [
+      "Financement de projet"
+    ],
+    "eligibilite": [
+      "Organisation à but non lucratif",
+      "Recherche sur la qualité environnementale intérieure ou solutions pour l'améliorer",
+      "Aucune limite géographique"
+    ],
+    "procedure_etapes": [
+      "1. Ouvrir le portail de candidature à partir du 1er juillet 2026.",
+      "2. Remplir le formulaire en ligne et joindre tous les documents requis.",
+      "3. Soumettre la candidature avant le 1er septembre 2026."
+    ],
+    "contacts": [
+      "foundation@halton.com",
+      "+1 270 239 6380"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://s.zef.fi/dytneajz/"
+      },
+      {
+        "label": "Page de contact",
+        "url": "https://foundation.halton.com/contact-us/"
+      },
+      {
+        "label": "Liste des bénéficiaires",
+        "url": "https://foundation.halton.com/halton-foundation-grants-awarded/"
+      }
+    ],
+    "mots_cles": [
+      "subvention",
+      "fondation halton",
+      "qualité environnementale intérieure",
+      "recherche",
+      "bien-être"
+    ],
+    "lien_candidature": "https://s.zef.fi/dytneajz/",
+    "source_url": "https://foundation.halton.com/halton-foundation-grant-application/?fbclid=IwY2xjawTuhQdwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeAvlmXN87MuXG38Pfmb7eymjmhGlZHeoETAsWEJT1fosRmRgfZ2905oKNwfw_aem_uDcKwOXf-6ghkwZSDAZZmw",
+    "statut": "ouvert",
+    "resume": "La Fondation Halton octroie chaque année des subventions à des organisations à but non lucratif qui mènent des recherches sur la qualité environnementale intérieure et le bien-être humain. Les candidatures sont ouvertes du 1er juillet au 1er septembre 2026. Les projets doivent viser à améliorer la qualité de l'air intérieur, les conditions thermiques ou la santé des occupants. Les organisations du monde entier sont éligibles, avec un plafond de frais généraux de 10 %.",
+    "adresse": "103 Industrial Drive Scottsville, KY 42164 USA",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T11:59:45",
+    "slug": "subvention-fondation-halton-2026"
+  },
+  {
     "titre": "Fonds de Recherche Cambridge-Afrique ALBORADA 2026",
     "seo_slug": "fonds-recherche-cambridge-afrique-alborada-2026",
     "organisation": "Cambridge-Africa ALBORADA Research Fund",
@@ -1061,6 +1828,89 @@
     "adresse": "Cambridge-Africa Programme Department of Pathology Tennis Court Road Cambridge CB2 1QP United Kingdom",
     "extrait_le": "2026-06-23T12:17:08",
     "slug": "fonds-recherche-cambridge-afrique-alborada-2026"
+  },
+  {
+    "titre": "Appel à candidatures 2026 - Fonds de recherche Cambridge-Afrique ALBORADA",
+    "seo_slug": "bourse-cambridge-afrique-alborada-2026",
+    "organisation": "Cambridge-Africa ALBORADA Research Fund",
+    "montant": 25000,
+    "devise": "GBP",
+    "type_financement": "subvention de recherche",
+    "deadline": "2026-09-03",
+    "deadline_texte": "3 septembre 2026",
+    "niveau_etudes": [
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Toutes les disciplines"
+    ],
+    "pays_eligibles": [
+      "Afrique",
+      "Royaume-Uni"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Lettre d'acceptation des conditions",
+      "Lettre d'acceptation des modèles de lettres"
+    ],
+    "avantages": [
+      "Financement de 1 000 à 25 000 £",
+      "Couverture des coûts de recherche",
+      "Financement d'activités de formation en Afrique"
+    ],
+    "eligibilite": [
+      "Chercheurs de niveau post-doctoral ou supérieur",
+      "Être affilié à l'Université de Cambridge ou à une institution affiliée",
+      "Collaborer avec un chercheur d'une institution africaine",
+      "Être dans toutes les disciplines"
+    ],
+    "procedure_etapes": [
+      "Lire les directives et critères d'éligibilité",
+      "Le candidat de Cambridge doit s'inscrire en ligne",
+      "Inviter le candidat africain à s'inscrire et à modifier le formulaire",
+      "Remplir et soumettre le formulaire avant la date limite"
+    ],
+    "contacts": [
+      "alboradafund@cambridge-africa.cam.ac.uk",
+      "+44 (0)1223 333336"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Directives et conditions (PDF)",
+        "url": "https://www.cambridge-africa.cam.ac.uk/assets/ALBORADA-CALL/ALBORADA-Call-2026/ALBORADA-TC-2026.pdf"
+      },
+      {
+        "label": "FAQ (PDF)",
+        "url": "https://www.cambridge-africa.cam.ac.uk/assets/ALBORADA-CALL/ALBORADA-Call-2026/FAQs.pdf"
+      },
+      {
+        "label": "Modèles de lettres d'attribution",
+        "url": "https://www.cambridge-africa.cam.ac.uk/initiatives/alborada-award-letters-templates-2026/"
+      },
+      {
+        "label": "Page d'inscription",
+        "url": "https://www.cambridge-africa.cam.ac.uk/register/?group=ALBORADA2026"
+      }
+    ],
+    "mots_cles": [
+      "bourse recherche",
+      "Cambridge Afrique",
+      "ALBORADA",
+      "subvention recherche",
+      "collaboration Afrique",
+      "financement post-doctorat",
+      "2026"
+    ],
+    "lien_candidature": "https://www.cambridge-africa.cam.ac.uk/register/?group=ALBORADA2026",
+    "source_url": "https://www.cambridge-africa.cam.ac.uk/initiatives/2026-call-for-applications/?fbclid=IwY2xjawTuhV1wZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeQMoBNXgr0Xh_0bUHoe-TfxobqMGwMMtVkiXwKZ1jy7MGnXvidvOB6E6pVsY_aem_5cmV4blRDXvvjcpVyDWpaQ",
+    "statut": "ouvert",
+    "resume": "Le Fonds de recherche Cambridge-Afrique ALBORADA, créé en 2012, soutient des collaborations de recherche entre des chercheurs de l'Université de Cambridge et des institutions africaines. Pour l'appel 2026, des subventions compétitives de 1 000 à 25 000 £ sont offertes pour couvrir les coûts de recherche et les activités de formation en Afrique. Les candidatures doivent être soumises en ligne avant le 3 septembre 2026. Ce fonds a déjà permis 392 récompenses impliquant 38 pays africains.",
+    "adresse": "Cambridge-Africa Programme Department of Pathology Tennis Court Road Cambridge CB2 1QP United Kingdom",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T12:01:29",
+    "slug": "bourse-cambridge-afrique-alborada-2026"
   },
   {
     "titre": "Bourse postdoctorale ISTA-Fellow 2026",
@@ -1157,6 +2007,97 @@
     "imageUrl": "/docs/ISTA-Fellow-Programme-postdoctoral.webp",
     "extrait_le": "2026-07-06T03:36:11",
     "slug": "bourse-ista-fellow-postdoc-autriche-2026"
+  },
+  {
+    "titre": "Appel à propositions 2026 de la Facilité africaine de l'eau pour renforcer le pipeline d'investissement dans l'eau et l'assainissement en Afrique",
+    "seo_slug": "appel-propositions-fae-2026-eau-assainissement-afrique",
+    "organisation": "African Water Facility (AWF)",
+    "montant": 1000000,
+    "devise": "EUR",
+    "type_financement": "subvention",
+    "deadline": "2026-09-10",
+    "deadline_texte": "10 septembre 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Eau",
+      "Assainissement",
+      "Gouvernance",
+      "Financement innovant",
+      "Changement climatique"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français et Anglais",
+    "documents_requis": [
+      "Note conceptuelle",
+      "Formulaire de candidature"
+    ],
+    "avantages": [
+      "Subvention jusqu'à 1 million d'euros par projet"
+    ],
+    "eligibilite": [
+      "Pays membres régionaux",
+      "Institutions publiques",
+      "Services publics",
+      "Organisations de bassin"
+    ],
+    "procedure_etapes": [
+      "Télécharger l'appel à propositions complet",
+      "Télécharger le modèle de note conceptuelle",
+      "Préparer la note conceptuelle",
+      "Soumettre la note conceptuelle par courriel avant la date limite"
+    ],
+    "contacts": [
+      "africanwaterfacility@afdb.org",
+      "awf@afdb.org",
+      "s.blazyk@afdb.org",
+      "h.njiwa@afdb.org",
+      "d.arjoon@afdb.org",
+      "+225 20 26 53 09"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Appel à propositions complet (PDF)",
+        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-07/awf-2026-call-for-proposal-announcement-july-2026_3.pdf"
+      },
+      {
+        "label": "Modèle de note conceptuelle (DOCX)",
+        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-07/application-template-for-project-concepts---awf-cfp-2026--july-2026_4.docx"
+      },
+      {
+        "label": "FAQ (PDF)",
+        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-08/faq-2026-awf-call-for-proposal-card_0.pdf"
+      },
+      {
+        "label": "Appel à propositions en français (PDF)",
+        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-07/awf_2026_appel_a_propositions_annonce_fr_0.pdf"
+      },
+      {
+        "label": "Modèle de note conceptuelle en français (DOCX)",
+        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-07/modele_note_conceptuelle_projet_awf_cfp_2026_fr_0.docx"
+      },
+      {
+        "label": "FAQ en français (PDF)",
+        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-08/faq-appel-a-propositions-fae-2026_0.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse eau afrique",
+      "subvention assainissement",
+      "appel à propositions AWF",
+      "financement projets eau",
+      "investissement eau Afrique"
+    ],
+    "lien_candidature": "https://www.africanwaterfacility.org/en/news/awf-launches-2026-call-proposals-strengthen-africas-water-and-sanitation-investment-pipeline",
+    "source_url": "https://www.africanwaterfacility.org/en/news/awf-launches-2026-call-proposals-strengthen-africas-water-and-sanitation-investment-pipeline?fbclid=IwY2xjawTuhgJwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeQMoBNXgr0Xh_0bUHoe-TfxobqMGwMMtVkiXwKZ1jy7MGnXvidvOB6E6pVsY_aem_5cmV4blRDXvvjcpVyDWpaQ",
+    "statut": "ouvert",
+    "resume": "La Facilité africaine de l'eau (AWF) lance son appel à propositions 2026 pour financer des projets d'investissement dans les secteurs de l'eau et de l'assainissement en Afrique. Avec une contribution pouvant atteindre 1 million d'euros par projet, cet appel vise à renforcer le pipeline de projets bancables et à catalyser le financement en aval. Les candidats éligibles incluent les pays membres régionaux, les institutions publiques, les services publics et les organisations de bassin. Les propositions doivent être soumises avant le 10 septembre 2026.",
+    "adresse": "African Water Facility  African Development Bank  Immeuble du Centre de commerce International d’Abidjan  CCIA Avenue Jean-Paul II - Abidjan 01 BP 1387",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T12:04:33",
+    "slug": "appel-propositions-fae-2026-eau-assainissement-afrique"
   },
   {
     "titre": "Programme de formation à la recherche du gouvernement australien (RTP)",
@@ -1598,89 +2539,112 @@
     "slug": "reinvitation-anciens-boursiers-daad-2027"
   },
   {
-    "titre": "Concours de recrutement en Master Professionnel à l'École des Assistants Médicaux (EAM) de l'Université de Lomé - Année académique 2026-2027",
-    "seo_slug": "master-eam-universite-lome-2026",
-    "organisation": "Université de Lomé",
-    "montant": null,
-    "devise": null,
-    "type_financement": "non spécifié",
+    "titre": "Appel multilatéral de recherche SGCI soutenant STISA 2034 : faire progresser les priorités de l'Afrique en matière de science, technologie et innovation",
+    "seo_slug": "bourse-sgci-stisa-2034-afrique-2026",
+    "organisation": "Science Granting Councils Initiative (SGCI)",
+    "montant": 300000,
+    "devise": "CAD",
+    "type_financement": "subvention de recherche",
     "deadline": "2026-09-25",
-    "deadline_texte": "Dépôt des dossiers du lundi 7 septembre 2026 au vendredi 25 septembre 2026, de 8h00 à 12h00 et de 15h00 à 17h00",
+    "deadline_texte": "25 septembre 2026 à 23h59 (heure de l'Est)",
     "niveau_etudes": [
-      "Master"
+      "Recherche postdoctorale",
+      "Chercheur"
     ],
     "domaines": [
-      "Anesthésie et Réanimation",
-      "Radiologie et Imagerie Médicale",
-      "Santé Environnementale",
-      "Instrumentation Chirurgicale des Blocs Opératoires",
-      "Santé Mentale",
-      "Ophtalmologie",
-      "Soins Obstétricaux et Néonataux"
+      "Agriculture",
+      "Santé",
+      "Intelligence artificielle et technologies numériques",
+      "Énergie",
+      "Environnement"
     ],
     "pays_eligibles": [
+      "Botswana",
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Éthiopie",
+      "Ghana",
+      "Kenya",
+      "Malawi",
+      "Mozambique",
+      "Namibie",
+      "Nigéria",
+      "Rwanda",
+      "Sénégal",
+      "Sierra Leone",
+      "Afrique du Sud",
+      "Tanzanie",
       "Togo",
-      "Étrangers"
+      "Ouganda",
+      "Zambie",
+      "Zimbabwe"
     ],
     "age_maximum": null,
-    "langue_requise": "Français",
+    "langue_requise": "Anglais, Français, Portugais",
     "documents_requis": [
-      "Lettre de motivation manuscrite adressée au directeur de l'EAM, précisant la spécialité choisie",
-      "Copie légalisée du diplôme de BAC II",
-      "Copie légalisée du DUT de l'EAM ou de la Licence Professionnelle de l'ENAM",
-      "Copie légalisée de la Licence LMD de la spécialité de son option ou d'un diplôme jugé équivalent",
-      "Copies légalisées de tous les relevés de notes du parcours Licence LMD",
-      "Justification des acquis ou expérience professionnelle (copies légalisées d'attestations d'emploi, de stages professionnels)",
-      "Copie légalisée de l'acte de naissance",
-      "Copie légalisée ou duplicata du certificat de nationalité",
-      "Curriculum vitae détaillé",
-      "Copie légalisée de la carte d'identité nationale ou du passeport en cours de validité",
-      "Certificat médical attestant que le candidat est apte à continuer ses études à l'Université",
-      "Autorisation du Ministère de tutelle ou de l'autorité administrative dont relève le candidat ou la candidate (pour les fonctionnaires)",
-      "Quittance (original) des frais d'étude de dossier, portant le nom du candidat, d'un montant de 15 000 FCFA pour les nationaux et 20 000 FCFA pour les étrangers, payable sur le compte de l'UL banque IB BANK n° 024 01030006429700111 01 ou ECOBANK N TG 055 01708 140004450003 40"
+      "Expression d'intérêt",
+      "Proposition de recherche",
+      "CV du chercheur principal",
+      "Lettres de soutien des institutions partenaires"
     ],
-    "avantages": [],
+    "avantages": [
+      "Financement de 50 000 à 300 000 CAD par membre du consortium",
+      "Soutien à la recherche collaborative",
+      "Renforcement des capacités",
+      "Mise en réseau"
+    ],
     "eligibilite": [
-      "Être titulaire d'une Licence LMD de la spécialité de son option ou d'un diplôme jugé équivalent",
-      "Pour le Master Professionnel en Soins Obstétricaux et Néonataux : avoir obtenu une licence professionnelle en Sciences infirmières, option : Soins obstétricaux et néonataux, ou être professionnel Sage-femme ou maïeuticien nanti d'un diplôme équivalent",
-      "Être étudiant, professionnel fonctionnaire ou contractuel",
-      "Pour les fonctionnaires : autorisation du Ministère de tutelle ou de l'autorité administrative",
-      "Pour les étrangers : admission sur étude de dossiers"
+      "Être une organisation éligible",
+      "Constituer un consortium avec un organisme principal et deux à quatre co-demandeurs",
+      "Proposer un chercheur principal à temps plein",
+      "Démontrer la capacité à gérer des fonds de recherche",
+      "Aligner la recherche sur au moins un des thèmes"
     ],
     "procedure_etapes": [
-      "Constituer le dossier de candidature avec les pièces requises",
-      "Payer les frais d'étude de dossier (15 000 FCFA pour les nationaux, 20 000 FCFA pour les étrangers) sur le compte de l'UL banque IB BANK n° 024 01030006429700111 01 ou ECOBANK N TG 055 01708 140004450003 40",
-      "Déposer le dossier complet au secrétariat de l'EAM, sis au CHU-Sylvanus Olympio, du lundi 7 septembre 2026 au vendredi 25 septembre 2026, de 8h00 à 12h00 et de 15h00 à 17h00",
-      "Participer à la présélection sur la base de la moyenne arithmétique des notes obtenues dans sept (7) UE de la Licence préparant à la spécialité (moyenne ≥ 12)",
-      "Passer l'épreuve d'entretien individuel (culture générale et expérience professionnelle) si présélectionné",
-      "Passer l'épreuve écrite de spécialité si retenu après l'entretien",
-      "Attendre les résultats publiés le 9 octobre 2026"
+      "1. Lire le document d'appel détaillé",
+      "2. Consulter les FAQ",
+      "3. Créer un compte sur SurveyMonkey Apply",
+      "4. Soumettre l'expression d'intérêt via le portail"
     ],
     "contacts": [
-      "+228 22 21 51 12"
+      "SGCSSA@idrc.ca"
     ],
     "liens_utiles": [
       {
-        "label": "Site officiel de l'Université de Lomé",
-        "url": "http://www.univ-lome.tg"
+        "label": "Visitez le site :",
+        "url": "https://idrc-crdi.smapply.io/prog/supporting_stisa_2034_sgci_multilateral_research_call_advancing_africas_science_technology_and_innovation_priorities/"
+      },
+      {
+        "label": "Document d'appel détaillé",
+        "url": "https://idrc-crdi.ca/en/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology-and"
+      },
+      {
+        "label": "Foire aux questions (FAQ)",
+        "url": "https://idrc-crdi.ca/en/frequently-asked-questions-faq-sgci-multilateral-research-call-advancing-africas-science-technology"
+      },
+      {
+        "label": "Guide de configuration de compte SurveyMonkey Apply",
+        "url": "https://www.idrc.ca/sites/default/files/2021-05/Survey%20Monkey%20Apply%20-%20General%20Applicant%20Guide.pdf"
+      },
+      {
+        "label": "Version portugaise de l'appel (PDF)",
+        "url": "https://idrc-crdi.ca/sites/default/files/2026-07/Suporte%20%C3%A0%20STISA%202034_0.pdf"
       }
     ],
     "mots_cles": [
-      "master professionnel",
-      "EAM",
-      "Université de Lomé",
-      "concours",
-      "Togo",
-      "santé",
-      "2026-2027"
+      "bourse de recherche Afrique",
+      "SGCI STISA 2034",
+      "subvention recherche Afrique",
+      "appel à projets science technologie",
+      "financement recherche collaborative Afrique"
     ],
-    "lien_candidature": "http://www.univ-lome.tg",
-    "source_url": "manuel",
+    "lien_candidature": "https://idrc-crdi.smapply.io/prog/supporting_stisa_2034_sgci_multilateral_research_call_advancing_africas_science_technology_and_innovation_priorities/",
+    "source_url": "https://idrc-crdi.ca/en/funding/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology?fbclid=IwY2xjawTuhndwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeJ1dun24uLe8BuaRp7U1x6E51D7j3NnUirKRaFSf8xMZqgD-O1ocZkcXa4jo_aem_LPFx0a5OIXT6xQZWAKIqGg",
     "statut": "ouvert",
-    "resume": "L'Université de Lomé ouvre un concours de recrutement pour le cycle Master Professionnel à l'École des Assistants Médicaux (EAM) pour l'année académique 2026-2027. Sept spécialités sont proposées, allant de l'anesthésie à la santé mentale. Les candidats doivent être titulaires d'une Licence LMD ou équivalent, et déposer un dossier complet entre le 7 et le 25 septembre 2026. Le concours comprend une présélection, un entretien et une épreuve écrite, avec des résultats attendus le 9 octobre 2026.",
+    "resume": "L'Initiative des conseils subventionnaires de la science en Afrique subsaharienne (SGCI) lance un appel multilatéral de recherche pour soutenir la mise en œuvre de la stratégie STISA-2034 de l'Union africaine. Ce financement soutient des projets collaboratifs multi-pays dans cinq domaines prioritaires : agriculture, santé, intelligence artificielle, énergie et environnement. Les consortiums éligibles, composés d'institutions de plusieurs pays participants, peuvent recevoir entre 50 000 et 300 000 CAD. Les candidatures se font en ligne via le portail SurveyMonkey Apply avant le 25 septembre 2026.",
     "imageUrl": null,
-    "extrait_le": "2026-08-03T07:45:40",
-    "slug": "master-eam-universite-lome-2026"
+    "extrait_le": "2026-08-16T12:05:29",
+    "slug": "bourse-sgci-stisa-2034-afrique-2026"
   },
   {
     "titre": "Fondation Rosa Luxemburg : Programme de bourses pour doctorants internationaux",
@@ -3386,6 +4350,87 @@
     "resume": "L'Université de Tasmanie propose des bourses de recherche pour les étudiants de master et doctorat. Les candidats doivent trouver un projet et un superviseur, puis soumettre une proposition de recherche. Les bourses incluent une allocation de subsistance et une exonération des frais de scolarité. Les candidatures sont ouvertes toute l'année avec des dates limites spécifiques selon les projets.",
     "extrait_le": "2026-06-15T03:27:30",
     "slug": "bourse-recherche-tasmanie-2026"
+  },
+  {
+    "titre": "Subventions à court terme : Soutien aux initiatives de la société civile pour combler les lacunes urgentes concernant l'influence des femmes dans les processus de paix",
+    "seo_slug": "subventions-court-terme-femmes-paix",
+    "organisation": "Fonds des Nations Unies pour la consolidation de la paix (WPHF)",
+    "montant": 100000,
+    "devise": "USD",
+    "type_financement": "subvention",
+    "deadline": null,
+    "deadline_texte": "Aucune date limite ; les candidatures sont acceptées en continu (rolling basis).",
+    "niveau_etudes": [],
+    "domaines": [
+      "Paix et sécurité",
+      "Droits des femmes",
+      "Participation politique"
+    ],
+    "pays_eligibles": [
+      "Libye",
+      "Guatemala",
+      "République démocratique du Congo",
+      "Palestine",
+      "Syrie"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Non spécifiée",
+    "documents_requis": [
+      "Formulaire de demande (Concept Note)",
+      "Preuve d'enregistrement légal"
+    ],
+    "avantages": [
+      "Subvention jusqu'à 100 000 USD",
+      "Durée maximale de six mois",
+      "Possibilité d'extension de 50 000 USD pour trois mois supplémentaires",
+      "Soutien technique et stratégique d'un partenaire INGO"
+    ],
+    "eligibilite": [
+      "Organisations locales de défense des droits des femmes (WRO)",
+      "Enregistrement légal requis",
+      "Exception : enregistrement dans un autre pays accepté si l'enregistrement dans le pays d'intervention est compliqué en raison de conflit ou de risques sécuritaires"
+    ],
+    "procedure_etapes": [
+      "Préparer le formulaire de demande (Concept Note)",
+      "Envoyer la demande par email à WPHF-RRW@unwomen.org"
+    ],
+    "contacts": [
+      "WPHF-RRW@unwomen.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Appel à candidatures (PDF)",
+        "url": "https://wphfund.org/wp-content/uploads/2022/10/RRW-Call-for-Applications_FINAL-20-Oct-2022-ENG.pdf"
+      },
+      {
+        "label": "Formulaire de demande (Concept Note)",
+        "url": "https://wphfund.org/wp-content/uploads/2025/05/ENG-RRW-STG-ConceptNote_Application-Form-Updated-April-2025.docx"
+      },
+      {
+        "label": "Page de la fenêtre de réponse rapide (RRW)",
+        "url": "https://wphfund.org/rrw/"
+      },
+      {
+        "label": "Partenaires INGO du RRW",
+        "url": "https://wphfund.org/rrw-ingo-partners/"
+      }
+    ],
+    "mots_cles": [
+      "subvention",
+      "femmes",
+      "paix",
+      "société civile",
+      "processus de paix",
+      "ONG",
+      "droits des femmes"
+    ],
+    "lien_candidature": "https://wphfund.org/rrw-short-term-grants/",
+    "source_url": "manuel",
+    "statut": "ouvert",
+    "resume": "Le Fonds des Nations Unies pour la consolidation de la paix (WPHF) offre des subventions à court terme pour soutenir des initiatives urgentes d'organisations locales de défense des droits des femmes visant à accroître leur influence dans les processus de paix. Les subventions peuvent atteindre 100 000 USD pour une durée maximale de six mois, avec possibilité d'extension. Les candidatures sont acceptées en continu, sans date limite. Les organisations éligibles doivent être légalement enregistrées et peuvent bénéficier d'un soutien technique et stratégique d'un partenaire INGO.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T12:11:56",
+    "slug": "subventions-court-terme-femmes-paix"
   },
   {
     "titre": "Programme de Bourses Karsh International",
@@ -6191,6 +7236,308 @@
     "imageUrl": null,
     "extrait_le": "2026-07-27T03:19:50",
     "slug": "bourse-merite-internationaux-premier-cycle-zayed"
+  },
+  {
+    "titre": "Plateformes multiplex pour évaluer les indicateurs du statut en micronutriments et de l'infection et de l'inflammation",
+    "seo_slug": "bourse-micronutriments-multiplex-2026",
+    "organisation": "Grand Challenges (Fondation Gates)",
+    "montant": 800000,
+    "devise": "USD",
+    "type_financement": "Subvention de recherche",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte",
+    "niveau_etudes": [
+      "Postdoctorat",
+      "Chercheur"
+    ],
+    "domaines": [
+      "Nutrition",
+      "Santé publique",
+      "Biotechnologie",
+      "Immunologie"
+    ],
+    "pays_eligibles": [
+      "Pays à revenu faible et intermédiaire"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Proposition de projet",
+      "Budget",
+      "CV"
+    ],
+    "avantages": [
+      "Financement jusqu'à 800 000 USD",
+      "Durée de projet jusqu'à 24 mois"
+    ],
+    "eligibilite": [
+      "Être une organisation ou une institution de recherche",
+      "Travailler dans le domaine des micronutriments",
+      "Basé dans un pays à revenu faible ou intermédiaire"
+    ],
+    "procedure_etapes": [
+      "Lire les documents de référence",
+      "S'inscrire au webinaire (optionnel)",
+      "Soumettre une proposition"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Conditions générales de la Fondation Gates",
+        "url": "https://docs.gatesfoundation.org/documents/sample-terms-and-conditions.pdf"
+      },
+      {
+        "label": "Règles et directives",
+        "url": "https://gcgh.grandchallenges.org/sites/default/files/files/indicators_of_micronutrient_status_rules_and_guidelines.pdf"
+      },
+      {
+        "label": "Instructions de candidature",
+        "url": "https://gcgh.grandchallenges.org/sites/default/files/files/indicators_of_micronutrient_status_application_instructions.pdf"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://gcgh.grandchallenges.org/multiplex-platforms-assess-indicators-micronutrient-status-and-infection-and-inflammation"
+      },
+      {
+        "label": "Inscription au webinaire",
+        "url": "https://events.teams.microsoft.com/event/87a5ecee-9e3c-417d-a46c-ab3012b9fa85@296b3838-4bd5-496c-bd4b-f456ea743b74"
+      },
+      {
+        "label": "Soumettre des questions à l'avance",
+        "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ODhrKdVLbEm9S_RW6nQ7dNyUf4PhutFBmFMAT6JKpddUOVBQVzFaR041MFc4MEU0QkFDTEpUVEs1Qi4u"
+      },
+      {
+        "label": "Profil de produit cible",
+        "url": "https://gcgh.grandchallenges.org/sites/default/files/files/indicators_of_micronutrient_status_target_product_profile.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse micronutriments",
+      "subvention recherche nutrition",
+      "plateforme multiplex",
+      "statut en micronutriments",
+      "infection inflammation",
+      "fondation Gates",
+      "appel à propositions 2026"
+    ],
+    "lien_candidature": "https://gcgh.grandchallenges.org/challenge/multiplex-platforms-assess-indicators-micronutrient-status-and-infection-and-inflammation",
+    "source_url": "https://gcgh.grandchallenges.org/challenge/multiplex-platforms-assess-indicators-micronutrient-status-and-infection-and-inflammation?fbclid=IwY2xjawTuhdlwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeqyBGE25oopYg0zKW1npNkcAsMuBxW7umClb3Akr9C3fai_BDI02iBmDQ7-0_aem_Ae4PeSBBjLkvYZTabudukA",
+    "statut": "ouvert",
+    "resume": "La Fondation Gates, par le biais de son initiative Grand Challenges, lance un appel à propositions pour développer des plateformes multiplex innovantes capables d'évaluer simultanément les indicateurs du statut en micronutriments et les biomarqueurs d'infection et d'inflammation. Ce financement vise à améliorer les tests existants, à étendre le panel à de nouvelles vitamines et à réduire les coûts pour une utilisation dans les pays à revenu faible et intermédiaire. Deux alternatives de portée sont proposées, avec des financements allant jusqu'à 200 000 USD pour la portée minimale et 800 000 USD pour la portée optimiste. Les candidats sont invités à consulter les documents de référence et à participer à un webinaire d'information le 11 août 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T12:02:40",
+    "slug": "bourse-micronutriments-multiplex-2026"
+  },
+  {
+    "titre": "Subventions Rufford pour la conservation de la nature",
+    "seo_slug": "bourse-rufford-conservation-nature",
+    "organisation": "Rufford Foundation",
+    "montant": null,
+    "devise": null,
+    "type_financement": "subvention",
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [],
+    "domaines": [
+      "Conservation de la nature",
+      "Protection des espèces menacées",
+      "Recherche en conservation"
+    ],
+    "pays_eligibles": [
+      "Pays en développement"
+    ],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [],
+    "avantages": [
+      "Financement de projets de conservation",
+      "Soutien aux jeunes chercheurs"
+    ],
+    "eligibilite": [
+      "Jeunes chercheurs en début de carrière",
+      "Projets de conservation dans les pays en développement"
+    ],
+    "procedure_etapes": [],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Voir tous les projets",
+        "url": "https://www.rufford.org/projects/"
+      },
+      {
+        "label": "Où nous travaillons",
+        "url": "https://www.rufford.org/projects/where-we-work/"
+      },
+      {
+        "label": "Conférences",
+        "url": "https://www.rufford.org/conferences/"
+      },
+      {
+        "label": "Actualités",
+        "url": "https://www.rufford.org/news/"
+      }
+    ],
+    "mots_cles": [
+      "bourse conservation",
+      "subvention nature",
+      "Rufford Foundation",
+      "projet conservation",
+      "financement recherche"
+    ],
+    "lien_candidature": "https://www.rufford.org/",
+    "source_url": "https://www.rufford.org/?fbclid=IwY2xjawTuhqlwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeQMoBNXgr0Xh_0bUHoe-TfxobqMGwMMtVkiXwKZ1jy7MGnXvidvOB6E6pVsY_aem_5cmV4blRDXvvjcpVyDWpaQ",
+    "statut": "ouvert",
+    "resume": "La Fondation Rufford offre des subventions pour des programmes de conservation de la nature et des projets pilotes à travers le monde. Depuis plus de deux décennies, elle soutient des milliers de jeunes chercheurs dans leur travail vital sur les habitats et les espèces menacés. Les subventions sont destinées à des projets dans les pays en développement, avec un accent sur les chercheurs en début de carrière. Le site présente des projets financés, des conférences et des actualités, mais ne fournit pas de détails spécifiques sur les montants ou les dates limites.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T12:06:21",
+    "slug": "bourse-rufford-conservation-nature"
+  },
+  {
+    "titre": "Bourse de démarrage du Pollination Project",
+    "seo_slug": "bourse-pollination-project-demarrage-2026",
+    "organisation": "The Pollination Project",
+    "montant": 500,
+    "devise": "USD",
+    "type_financement": "bourse de démarrage",
+    "deadline": null,
+    "deadline_texte": "Candidatures acceptées en continu (rolling basis). Les candidatures complètes reçues avant le dernier jour du mois sont examinées le mois suivant, avec décision à la fin de ce mois.",
+    "niveau_etudes": [],
+    "domaines": [
+      "Projets à impact social",
+      "Environnement",
+      "Justice sociale",
+      "Développement communautaire"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Référence (pour candidats internationaux)"
+    ],
+    "avantages": [
+      "Financement de démarrage jusqu'à 500 USD",
+      "Accès à un réseau mondial de plus de 6 000 acteurs du changement",
+      "Opportunités de financements supplémentaires",
+      "Soutien au renforcement des capacités",
+      "Mise en avant du projet via articles, médias sociaux et vidéos",
+      "Aide pour la mise en relation avec d'autres bailleurs de fonds"
+    ],
+    "eligibilite": [
+      "Être un individu, un groupe informel ou une organisation à but non lucratif (formellement enregistrée ou non) basé n'importe où dans le monde.",
+      "Le budget annuel de votre groupe ou organisation doit être inférieur à 50 000 USD.",
+      "Le coût total du projet doit être inférieur à 10 000 USD.",
+      "Avoir déjà commencé un certain niveau de travail sur le projet (être un rêveur pratique).",
+      "Ne pas avoir déjà reçu de financement de The Pollination Project pour ce projet ou tout autre projet.",
+      "Aucun autre représentant de votre groupe ou organisation ne doit avoir une proposition en cours d'examen au moment de votre candidature.",
+      "Votre groupe ou organisation ne doit pas avoir de personnel rémunéré.",
+      "Le projet ne doit pas être conçu pour générer un profit personnel.",
+      "Ne pas promouvoir ou défendre l'agriculture animale.",
+      "Ne pas chercher à prosélyter, évangéliser ou exiger des participants qu'ils participent à des pratiques religieuses.",
+      "Ne pas discriminer sur la base de la race, de l'origine ethnique, de la sexualité, du genre, de l'âge ou de la foi.",
+      "Ne pas chercher à influencer les élections de candidats spécifiques, encourager les violations de la loi ou de la politique publique, ou causer un avantage privé inapproprié.",
+      "Être en mesure de recevoir un virement bancaire ou un paiement PayPal en dollars américains."
+    ],
+    "procedure_etapes": [
+      "1. Vérifier que votre projet et votre organisation répondent aux critères d'éligibilité.",
+      "2. Préparer les informations sur votre projet, votre budget et votre impact.",
+      "3. Remplir le formulaire de candidature en ligne sur le portail The Pollination Project.",
+      "4. Pour les candidats internationaux, s'assurer qu'un référent soumette une référence en ligne.",
+      "5. Soumettre la candidature complète avant la fin du mois pour une revue le mois suivant."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://thepollinationproject.smapply.us/"
+      },
+      {
+        "label": "Exigences de rapport",
+        "url": "https://thepollinationproject.org/reporting-requirements/"
+      }
+    ],
+    "mots_cles": [
+      "bourse démarrage",
+      "financement projet social",
+      "subvention 500 dollars",
+      "Pollination Project",
+      "financement ONG"
+    ],
+    "lien_candidature": "https://thepollinationproject.smapply.us/",
+    "source_url": "https://thepollinationproject.org/apply/?fbclid=IwY2xjawTuhupwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeQMoBNXgr0Xh_0bUHoe-TfxobqMGwMMtVkiXwKZ1jy7MGnXvidvOB6E6pVsY_aem_5cmV4blRDXvvjcpVyDWpaQ",
+    "statut": "ouvert",
+    "resume": "The Pollination Project offre des bourses de démarrage allant jusqu'à 500 dollars US à des acteurs de changement de base, individuels ou organisations, qui œuvrent pour un monde plus bienveillant et compatissant. Les candidatures sont acceptées en continu, et les projets doivent être à un stade précoce avec un budget annuel inférieur à 50 000 dollars. En rejoignant ce réseau mondial de plus de 6 000 acteurs, les bénéficiaires reçoivent non seulement un financement initial, mais aussi un soutien en renforcement de capacités et des opportunités de mise en réseau. Les critères d'éligibilité excluent notamment les projets promouvant l'agriculture animale ou le prosélytisme religieux.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T12:07:16",
+    "slug": "bourse-pollination-project-demarrage-2026"
+  },
+  {
+    "titre": "Bourse de la Fondation Draper Richards Kaplan pour Entreprises Sociales",
+    "seo_slug": "bourse-draper-richards-kaplan-entreprises-sociales",
+    "organisation": "Draper Richards Kaplan Foundation",
+    "montant": null,
+    "devise": null,
+    "type_financement": "financement",
+    "deadline": null,
+    "deadline_texte": "Candidatures acceptées toute l'année",
+    "niveau_etudes": [],
+    "domaines": [
+      "Entrepreneuriat social"
+    ],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Résumé exécutif",
+      "Pitch deck",
+      "Plan d'affaires",
+      "CV des entrepreneurs et/ou membres clés de l'équipe de direction"
+    ],
+    "avantages": [
+      "Financement"
+    ],
+    "eligibilite": [
+      "Organisation à but non lucratif ou entreprise sociale",
+      "Adresse un problème social",
+      "Solution innovante",
+      "Dirigée par un entrepreneur ou une équipe de direction",
+      "Impact mesurable",
+      "Potentiel de mise à l'échelle"
+    ],
+    "procedure_etapes": [
+      "1. Préparer les documents requis (résumé exécutif, pitch deck ou plan d'affaires)",
+      "2. Préparer les CV des entrepreneurs et/ou membres clés de l'équipe de direction",
+      "3. Remplir le formulaire de candidature en ligne",
+      "4. Téléverser les documents requis",
+      "5. Soumettre la candidature via le lien fourni"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://www.tfaforms.com/4887099"
+      },
+      {
+        "label": "Modèle de candidature (DOCX)",
+        "url": "https://www.drkfoundation.org/wp-content/uploads/2026/02/Template-DRK-Application-2.docx"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "financement",
+      "entreprise sociale",
+      "impact",
+      "innovation"
+    ],
+    "lien_candidature": "https://www.tfaforms.com/4887099",
+    "source_url": "https://www.drkfoundation.org/apply/?fbclid=IwY2xjawTuiHpwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEePbnHShvbtB-OozOB1szUvOo2jP-m3ZK89g9tJJFJ5WSKS5HYRMZJ7MX93Lw_aem_ZKlpZnhBm7iNf0Sp5KXtDw",
+    "statut": "ouvert",
+    "resume": "La Fondation Draper Richards Kaplan (DRK) offre un financement aux entreprises sociales innovantes qui s'attaquent à des problèmes sociaux critiques. Les candidatures sont acceptées toute l'année et le processus est conçu pour être simple, prenant environ 30 à 60 minutes. Les organisations doivent soumettre un résumé exécutif, un pitch deck ou un plan d'affaires, ainsi que les CV des dirigeants. Les candidats retenus bénéficient d'un financement et d'un accompagnement stratégique pour développer leur impact.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T12:13:44",
+    "slug": "bourse-draper-richards-kaplan-entreprises-sociales"
   },
   {
     "titre": "Bourses Chevening",
@@ -12463,6 +13810,170 @@
     "imageUrl": null,
     "extrait_le": "2026-07-15T13:45:25",
     "slug": "conseil-jeunes-co-createurs-africains-2026"
+  },
+  {
+    "titre": "Programme Présidentiel de Bourses d'Études dans le Secteur Minier du Mali (PPBEM)",
+    "seo_slug": "bourse-presidentielle-mali-secteur-minier-2026",
+    "organisation": "Programme Présidentiel de Bourses d'Études dans le Secteur Minier du Mali (PPBEM)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-08-07",
+    "deadline_texte": "07 août 2026 à 17h00",
+    "niveau_etudes": [
+      "Baccalauréat",
+      "DUT",
+      "Licence"
+    ],
+    "domaines": [
+      "Sciences",
+      "Techniques",
+      "Économie",
+      "Droit",
+      "Secteur minier"
+    ],
+    "pays_eligibles": [
+      "Mali"
+    ],
+    "age_maximum": 21,
+    "langue_requise": "Français, Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Relevés de notes",
+      "Diplômes",
+      "Pièce d'identité"
+    ],
+    "avantages": [
+      "Bourse complète",
+      "Frais de scolarité",
+      "Frais de subsistance",
+      "Frais de voyage"
+    ],
+    "eligibilite": [
+      "Être de nationalité malienne",
+      "Pour les néo-bacheliers : être bachelier de la session de juin 2026, âgé de 21 ans au plus au 31 décembre 2026, avoir obtenu au moins la mention Bien (14/20) avec l'anglais comme LV1",
+      "Pour les détenteurs de DUT/Licence : être titulaire d'un DUT ou d'une licence (Bac+2 ou Bac+3) délivré par un établissement reconnu par l'État, dans un domaine scientifique, technique, économique ou juridique en lien avec le secteur minier, avoir une moyenne générale supérieure ou égale à 12/20 (mention assez bien) sur l'ensemble du cursus et lors des soutenances"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le communiqué officiel et les profils de formation via les liens fournis",
+      "2. Préparer les documents requis (relevés de notes, diplômes, pièce d'identité)",
+      "3. Remplir le formulaire de candidature en ligne via le lien Google Forms avant le 07 août 2026 à 17h00"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature (Google Forms)",
+        "url": "https://forms.gle/Yisa3e2bQAAGGSgi7"
+      },
+      {
+        "label": "Communiqué officiel (PDF)",
+        "url": "https://dg-enseignementsup.ml/wp-content/uploads/2026/07/Programme-presidentiel-de-bourses-d_etudes-dans-le-secteur-minier.pdf"
+      },
+      {
+        "label": "Profils de formation PPBEM (PDF)",
+        "url": "https://dg-enseignementsup.ml/wp-content/uploads/2026/07/Profiles-PPBEM-2026.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse Mali",
+      "secteur minier",
+      "bourse présidentielle",
+      "études supérieures Mali",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://forms.gle/Yisa3e2bQAAGGSgi7",
+    "source_url": "https://dg-enseignementsup.ml/9883-2/",
+    "statut": "fermé",
+    "resume": "Le Programme Présidentiel de Bourses d'Études dans le Secteur Minier du Mali (PPBEM) offre 30 bourses complètes pour des études supérieures dans des domaines liés au secteur minier. Les candidats maliens, qu'ils soient néo-bacheliers (10 bourses) ou titulaires d'un DUT/Licence (20 bourses), peuvent postuler avant le 07 août 2026. Les critères incluent l'excellence académique et, pour les néo-bacheliers, une limite d'âge de 21 ans. Les candidatures se font en ligne via un formulaire Google Forms.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-03T07:46:36",
+    "slug": "bourse-presidentielle-mali-secteur-minier-2026"
+  },
+  {
+    "titre": "Appel à candidatures pour siéger au Conseil consultatif sur l'intégrité YouthLED de l'UNODC 2026-2028",
+    "seo_slug": "conseil-youthled-unodc-2026-2028",
+    "organisation": "UNODC (Office des Nations Unies contre la drogue et le crime)",
+    "montant": 0,
+    "devise": "EUR",
+    "type_financement": "bénévole",
+    "deadline": "2026-08-14",
+    "deadline_texte": "14 août 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Anti-corruption",
+      "Intégrité",
+      "Éthique",
+      "Justice",
+      "Paix",
+      "Engagement civique"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": 29,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Curriculum Vitae (CV)",
+      "Lettre de motivation (1 page ou max 500 mots)",
+      "Vidéo courte (jusqu'à 90 secondes)"
+    ],
+    "avantages": [],
+    "eligibilite": [
+      "Âge entre 18 et 29 ans à la date de candidature",
+      "Capacité à communiquer efficacement en anglais",
+      "Intérêt démontré pour l'intégrité, l'éthique, la paix, la justice, l'anti-corruption, l'état de droit, l'engagement civique, l'action communautaire, les réseaux de jeunes ou domaines connexes",
+      "Engagement à consacrer environ trois jours par mois aux activités du Conseil",
+      "Participation volontaire sans compensation financière"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne",
+      "2. Soumettre un CV",
+      "3. Soumettre une lettre de motivation (1 page ou max 500 mots)",
+      "4. Soumettre une vidéo courte (jusqu'à 90 secondes)",
+      "5. Les candidats présélectionnés peuvent être invités à un entretien"
+    ],
+    "contacts": [
+      "+ (43) (1) 263-3389"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://grace.unodc.org/grace/en/news-and-events/youthled-integrity-advisory-board-2026-2028_call-for-applications.html?fbclid=IwY2xjawSiUx1leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkGmP8O24pQVuHrY96xiZZwBu2tXBMOgdMzr7POS4Ky32e_b6MDf8NoFgUCm_aem_OFhJ9svyv7ft0FG0x5eQbQ"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://forms.gle/MQLXdaNndvrp4wdMA"
+      },
+      {
+        "label": "Page YouthLED Integrity Advisory Board",
+        "url": "https://grace.unodc.org/grace/en/youth-empowerment/discover-YouthLED.html"
+      },
+      {
+        "label": "Termes de référence",
+        "url": "https://grace.unodc.org/grace/en/youth-empowerment/discover-YouthLED.html"
+      },
+      {
+        "label": "Code de conduite",
+        "url": "https://grace.unodc.org/grace/en/youth-empowerment/discover-YouthLED.html"
+      }
+    ],
+    "mots_cles": [
+      "conseil consultatif jeunesse",
+      "intégrité",
+      "anti-corruption",
+      "UNODC",
+      "YouthLED",
+      "bénévole",
+      "jeunes",
+      "gouvernance"
+    ],
+    "lien_candidature": "https://forms.gle/MQLXdaNndvrp4wdMA",
+    "source_url": "https://grace.unodc.org/grace/en/news-and-events/youthled-integrity-advisory-board-2026-2028_call-for-applications.html?fbclid=IwY2xjawSiUx1leHRuA2FlbQIxMABicmlkETFva2hoS0lVRTh3Z3pyZ0tWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkGmP8O24pQVuHrY96xiZZwBu2tXBMOgdMzr7POS4Ky32e_b6MDf8NoFgUCm_aem_OFhJ9svyv7ft0FG0x5eQbQ",
+    "statut": "fermé",
+    "resume": "L'UNODC recherche des jeunes motivés âgés de 18 à 29 ans pour siéger au Conseil consultatif sur l'intégrité YouthLED 2026-2028. Les membres conseilleront l'UNODC sur l'engagement des jeunes dans la lutte anti-corruption, contribueront à des campagnes de sensibilisation et animeront des actions communautaires. La participation est bénévole, sans compensation financière, et nécessite un engagement d'environ trois jours par mois. Les candidatures sont ouvertes jusqu'au 14 août 2026.",
+    "adresse": "United Nations Office On Drugs and Crime (UNODC) Vienna International Centre PO Box 500 A 1400 Vienna Austria",
+    "extrait_le": "2026-06-19T16:54:04",
+    "slug": "conseil-youthled-unodc-2026-2028"
   },
   {
     "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",

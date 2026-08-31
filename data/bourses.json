@@ -6810,6 +6810,95 @@
     "slug": "bourse-schmidt-fellows-master-2026"
   },
   {
+    "titre": "Programme d'immersion pour jeunes diplômés dans les institutions et agences de la CEDEAO",
+    "seo_slug": "bourse-cedeo-jeunes-diplomes-2027",
+    "organisation": "CEDEAO (Communauté économique des États de l'Afrique de l'Ouest)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Intégration régionale",
+      "Développement",
+      "Gouvernance",
+      "Diplomatie",
+      "Leadership"
+    ],
+    "pays_eligibles": [
+      "Afrique de l'Ouest"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français et Anglais",
+    "documents_requis": [
+      "Certificat",
+      "CV",
+      "Lettre de motivation"
+    ],
+    "avantages": [
+      "Formation avancée",
+      "Mentorat personnalisé",
+      "Opportunités de leadership",
+      "Réseau d'excellence"
+    ],
+    "eligibilite": [
+      "Jeune diplômé",
+      "Engagement envers l'intégration régionale",
+      "Excellence académique",
+      "Compétences en leadership"
+    ],
+    "procedure_etapes": [
+      "1. Créer un compte et accéder au formulaire de candidature",
+      "2. Remplir les informations personnelles et coordonnées",
+      "3. Détaillez votre parcours académique et professionnel",
+      "4. Télécharger votre certificat, CV et lettre de motivation",
+      "5. Vérifier et confirmer toutes vos informations",
+      "6. Finaliser et soumettre votre candidature complète"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Discours de lancement (PDF)",
+        "url": "https://youngprofessional.ecowas.int/en/download-pdf/discours/"
+      },
+      {
+        "label": "Termes de référence (PDF)",
+        "url": "https://youngprofessional.ecowas.int/en/download-pdf/tdr/"
+      },
+      {
+        "label": "Profils requis (PDF)",
+        "url": "https://youngprofessional.ecowas.int/en/download-pdf/profil/"
+      },
+      {
+        "label": "Commencer ma candidature",
+        "url": "https://youngprofessional.ecowas.int/en/candidat/register/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://youngprofessional.ecowas.int/en/faq/"
+      }
+    ],
+    "mots_cles": [
+      "bourse CEDEAO",
+      "jeunes diplômés",
+      "immersion",
+      "Afrique de l'Ouest",
+      "intégration régionale",
+      "programme 2027"
+    ],
+    "lien_candidature": "https://youngprofessional.ecowas.int/en/candidat/register/",
+    "source_url": "https://youngprofessional.ecowas.int/en/?fbclid=IwY2xjawUBuihwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMXdMUkJSRGNYUTh2T25PUFBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeGq5XToKTqMutczFR9prnykOoS5aGXGyv9t-K2X-PuYotLEwAtKuLrXImf5Q_aem_4I7jAveww0ICbLwtd4tu2g",
+    "statut": "ouvert",
+    "resume": "Le Programme d'immersion pour jeunes diplômés de la CEDEAO offre une opportunité unique de rejoindre l'élite des jeunes professionnels africains et de contribuer à l'intégration régionale en Afrique de l'Ouest. Ce programme prestigieux propose une formation avancée, un mentorat personnalisé et un réseau d'excellence, avec un impact continental sur 400 millions de vies. Les candidats sélectionnés bénéficieront d'une expérience immersive au sein des institutions de la CEDEAO, développant leurs compétences en leadership et en diplomatie. Postulez dès maintenant pour faire partie de la prochaine génération de leaders africains.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-31T01:41:18",
+    "slug": "bourse-cedeo-jeunes-diplomes-2027"
+  },
+  {
     "titre": "Bourses Chevening",
     "seo_slug": "bourses-chevening-master-royaume-uni-2027",
     "organisation": "Foreign and Commonwealth Office (FDCO)",

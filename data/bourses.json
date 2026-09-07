@@ -1797,6 +1797,104 @@
     "slug": "bourses-universite-maastricht-internationaux-2027"
   },
   {
+    "titre": "Bourses de l'Université Sophia pour étudiants avant l'entrée (2027)",
+    "seo_slug": "bourses-universite-sophia-2027",
+    "organisation": "Université Sophia",
+    "montant": null,
+    "devise": "JPY",
+    "type_financement": "bourse partielle ou complète",
+    "deadline": "2027-04-07",
+    "deadline_texte": "7 avril 2027 (deuxième période pour les entrées d'automne 2027 et certaines entrées de printemps 2027)",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Arts libéraux",
+      "Technologie numérique verte",
+      "Développement durable",
+      "Études globales",
+      "Environnement global",
+      "Sciences et technologies vertes",
+      "Linguistique (TESOL)",
+      "Éducation",
+      "Coopération internationale"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature à la bourse",
+      "Documents d'admission"
+    ],
+    "avantages": [
+      "Prise en charge d'un tiers, de la moitié ou de la totalité des frais de scolarité de la première année (bourse Nouvel Étudiant)",
+      "Prise en charge complète des frais de scolarité et des frais d'éducation de la première année (bourse Adachi)"
+    ],
+    "eligibilite": [
+      "Être candidat à l'examen d'entrée 2027 pour les programmes en anglais de l'Université Sophia (premier cycle ou cycles supérieurs)",
+      "Avoir d'excellents résultats académiques",
+      "Rencontrer des difficultés financières",
+      "Avoir choisi l'Université Sophia comme premier choix",
+      "Pour la bourse Adachi : être un étudiant international"
+    ],
+    "procedure_etapes": [
+      "1. Consulter les lignes directrices de candidature à la bourse pour les étudiants internationaux ou japonais.",
+      "2. Remplir le formulaire de candidature à la bourse correspondant.",
+      "3. Envoyer le formulaire de candidature à la bourse séparément des documents d'admission au Centre des affaires étudiantes pendant la période de candidature.",
+      "4. Respecter la date limite de candidature spécifique à votre programme et à la période d'entrée."
+    ],
+    "contacts": [
+      "scholarship-co@sophia.ac.jp"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Lignes directrices pour la candidature à la bourse pour étudiants internationaux (PDF)",
+        "url": "https://piloti.sophia.ac.jp/assets/uploads/2026/05/27_03a_procedure_intl_students_eng_uggraduate.pdf"
+      },
+      {
+        "label": "Formulaire de candidature à la bourse pour étudiants internationaux (Excel)",
+        "url": "https://piloti.sophia.ac.jp/assets/uploads/2026/07/233f9a279551684930b94a9cce204d08.xlsx"
+      },
+      {
+        "label": "Procédure de candidature à la bourse pour étudiants japonais (PDF)",
+        "url": "https://piloti.sophia.ac.jp/assets/uploads/2026/05/27_04a_procedure_cklist_eng_uggraduate.pdf"
+      },
+      {
+        "label": "Formulaire de candidature à la bourse pour étudiants japonais (Excel)",
+        "url": "https://piloti.sophia.ac.jp/assets/uploads/2026/05/27_04b_applicationform_eng_uggraduate.xlsx"
+      },
+      {
+        "label": "Page d'admission de l'Université Sophia",
+        "url": "https://adm.sophia.ac.jp/eng/admissions/"
+      },
+      {
+        "label": "Bourse de l'école doctorale pour la formation de chercheurs en programme de doctorat",
+        "url": "https://piloti.sophia.ac.jp/eng/scholarships1/postgraduate/doctoralprogram/"
+      }
+    ],
+    "mots_cles": [
+      "bourse université sophia",
+      "bourse japon 2027",
+      "bourse premier cycle japon",
+      "bourse master japon",
+      "bourse doctorat japon",
+      "bourse pour étudiants internationaux",
+      "bourse Adachi",
+      "bourse nouvel étudiant"
+    ],
+    "lien_candidature": "https://piloti.sophia.ac.jp/eng/scholarships1/scholraship_e0005/",
+    "source_url": "https://piloti.sophia.ac.jp/eng/scholarships1/scholraship_e0005/",
+    "statut": "ouvert",
+    "resume": "L'Université Sophia au Japon offre plusieurs bourses aux étudiants internationaux et japonais qui postulent pour l'entrée en 2027 dans ses programmes enseignés en anglais. Ces bourses, comme la bourse Nouvel Étudiant et la bourse Adachi, couvrent une partie ou la totalité des frais de scolarité de la première année. Les candidatures se font en même temps que la demande d'admission, avec des périodes spécifiques selon le programme et la date d'entrée. Les étudiants intéressés doivent consulter les lignes directrices et soumettre leur dossier avant les dates limites indiquées.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-07T19:14:29",
+    "slug": "bourses-universite-sophia-2027"
+  },
+  {
     "titre": "Master en ligne de l'Université de Salford - 1 an - 100% en ligne",
     "seo_slug": "master-en-ligne-salford-1-an",
     "organisation": "University of Salford",

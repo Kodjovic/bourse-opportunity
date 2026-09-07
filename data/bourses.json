@@ -2526,85 +2526,99 @@
     "slug": "bourse-recherche-tasmanie-2026"
   },
   {
-    "titre": "Subventions à court terme : Soutien aux initiatives de la société civile pour combler les lacunes urgentes concernant l'influence des femmes dans les processus de paix",
-    "seo_slug": "subventions-court-terme-femmes-paix",
-    "organisation": "Fonds des Nations Unies pour la consolidation de la paix (WPHF)",
-    "montant": 100000,
-    "devise": "USD",
-    "type_financement": "subvention",
+    "titre": "Doctorat en cotutelle ou co-encadrement bi-national (DAAD)",
+    "seo_slug": "bourse-daad-doctorat-cotutelle-allemagne-2027",
+    "organisation": "DAAD",
+    "montant": 1400,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
     "deadline": null,
-    "deadline_texte": "Aucune date limite ; les candidatures sont acceptées en continu (rolling basis).",
-    "niveau_etudes": [],
+    "deadline_texte": "Les dates limites sont mises à jour chaque année au deuxième trimestre. Dans la plupart des cas, elles se situent à la même période que l'année précédente. Les dates actuelles sont disponibles sur le site du DAAD.",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
     "domaines": [
-      "Paix et sécurité",
-      "Droits des femmes",
-      "Participation politique"
+      "Tous les domaines"
     ],
     "pays_eligibles": [
-      "Libye",
-      "Guatemala",
-      "République démocratique du Congo",
-      "Palestine",
-      "Syrie"
+      "Tous les pays (hors Allemagne)"
     ],
     "age_maximum": null,
-    "langue_requise": "Non spécifiée",
+    "langue_requise": "Allemand ou anglais (selon la langue de travail)",
     "documents_requis": [
-      "Formulaire de demande (Concept Note)",
-      "Preuve d'enregistrement légal"
+      "Curriculum vitae complet sous forme de tableau (max. 3 pages)",
+      "Lettre de motivation",
+      "Plan de recherche et calendrier",
+      "Diplômes et relevés de notes",
+      "Preuves de compétences linguistiques",
+      "Lettres de recommandation",
+      "Convention de cotutelle (si applicable)",
+      "Traductions en allemand ou en anglais des documents en langue nationale"
     ],
     "avantages": [
-      "Subvention jusqu'à 100 000 USD",
-      "Durée maximale de six mois",
-      "Possibilité d'extension de 50 000 USD pour trois mois supplémentaires",
-      "Soutien technique et stratégique d'un partenaire INGO"
+      "Paiements mensuels de 1 400 euros pendant le séjour en Allemagne",
+      "Paiements versés pour l'assurance maladie, accident et responsabilité civile",
+      "Allocations de voyage (sur demande) pour jusqu'à trois voyages aller-retour",
+      "Allocation de recherche de 460 euros",
+      "Frais de voyage et d'hébergement pour les superviseurs universitaires (un voyage jusqu'à 10 jours)",
+      "Cours de langue en ligne après réception de la lettre d'attribution",
+      "Cours de langue (2, 4 ou 6 mois) avant le séjour de recherche si nécessaire",
+      "Allocation pour un cours de langue allemande choisi personnellement pendant la période de financement",
+      "Remboursement des frais de test TestDaF ou DSH",
+      "Supplément de loyer mensuel (pour séjours ininterrompus de plus de 6 mois)",
+      "Allocation mensuelle pour les membres de la famille accompagnants",
+      "Subvention pour frais supplémentaires en cas de handicap ou maladie chronique"
     ],
     "eligibilite": [
-      "Organisations locales de défense des droits des femmes (WRO)",
-      "Enregistrement légal requis",
-      "Exception : enregistrement dans un autre pays accepté si l'enregistrement dans le pays d'intervention est compliqué en raison de conflit ou de risques sécuritaires"
+      "Pour l'option a) (modèle sandwich) : avoir obtenu un Master ou un Diplom (ou dans des cas exceptionnels une licence) au plus tard au début de la période de financement.",
+      "Pour l'option b) (modèle cotutelle) : avoir été admis dans un programme de doctorat au plus tard au début de la période de financement.",
+      "Le diplôme universitaire le plus récent ne doit pas avoir été obtenu il y a plus de six ans avant la date limite de candidature.",
+      "Si le doctorat a déjà commencé, le début du doctorat ne doit pas remonter à plus de trois ans au moment de la candidature.",
+      "Ne pas avoir résidé en Allemagne depuis plus de 15 mois à la date limite de candidature.",
+      "Pour les candidats en médecine humaine, vétérinaire ou dentisterie, des réglementations différentes s'appliquent."
     ],
     "procedure_etapes": [
-      "Préparer le formulaire de demande (Concept Note)",
-      "Envoyer la demande par email à WPHF-RRW@unwomen.org"
+      "Vérifier les critères d'éligibilité.",
+      "S'inscrire sur le portail DAAD.",
+      "Remplir la demande en ligne complète.",
+      "Télécharger les documents requis dans la section 'Pièces jointes'.",
+      "Soumettre la demande avant la date limite."
     ],
-    "contacts": [
-      "WPHF-RRW@unwomen.org"
-    ],
+    "contacts": [],
     "liens_utiles": [
       {
-        "label": "Appel à candidatures (PDF)",
-        "url": "https://wphfund.org/wp-content/uploads/2022/10/RRW-Call-for-Applications_FINAL-20-Oct-2022-ENG.pdf"
+        "label": "Portail de candidature DAAD",
+        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
       },
       {
-        "label": "Formulaire de demande (Concept Note)",
-        "url": "https://wphfund.org/wp-content/uploads/2025/05/ENG-RRW-STG-ConceptNote_Application-Form-Updated-April-2025.docx"
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
       },
       {
-        "label": "Page de la fenêtre de réponse rapide (RRW)",
-        "url": "https://wphfund.org/rrw/"
+        "label": "Allocations de voyage (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_reisekostenzuschuesse_stipendiaten.pdf"
       },
       {
-        "label": "Partenaires INGO du RRW",
-        "url": "https://wphfund.org/rrw-ingo-partners/"
+        "label": "Informations supplémentaires pour la médecine",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/scholarship-database/additional-information-medicine/"
       }
     ],
     "mots_cles": [
-      "subvention",
-      "femmes",
-      "paix",
-      "société civile",
-      "processus de paix",
-      "ONG",
-      "droits des femmes"
+      "bourse doctorat allemagne",
+      "cotutelle",
+      "sandwich model",
+      "DAAD",
+      "financement recherche",
+      "séjour recherche allemagne",
+      "doctorat bi-national"
     ],
-    "lien_candidature": "https://wphfund.org/rrw-short-term-grants/",
+    "lien_candidature": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html",
     "source_url": "manuel",
     "statut": "ouvert",
-    "resume": "Le Fonds des Nations Unies pour la consolidation de la paix (WPHF) offre des subventions à court terme pour soutenir des initiatives urgentes d'organisations locales de défense des droits des femmes visant à accroître leur influence dans les processus de paix. Les subventions peuvent atteindre 100 000 USD pour une durée maximale de six mois, avec possibilité d'extension. Les candidatures sont acceptées en continu, sans date limite. Les organisations éligibles doivent être légalement enregistrées et peuvent bénéficier d'un soutien technique et stratégique d'un partenaire INGO.",
+    "resume": "Le programme DAAD de doctorats en cotutelle ou co-encadrement bi-national offre aux doctorants internationaux la possibilité de réaliser leur thèse entre leur université d'origine et une université allemande. Deux options sont possibles : le modèle 'sandwich' avec un co-encadrement, ou la cotutelle avec un diplôme conjoint. La bourse comprend une allocation mensuelle de 1 400 euros, une allocation de recherche, des allocations de voyage et divers avantages. Les candidatures sont ouvertes pour un financement débutant en 2027, avec des dates limites mises à jour chaque année.",
     "imageUrl": null,
-    "extrait_le": "2026-08-16T12:11:56",
-    "slug": "subventions-court-terme-femmes-paix"
+    "extrait_le": "2026-09-07T19:08:56",
+    "slug": "bourse-daad-doctorat-cotutelle-allemagne-2027"
   },
   {
     "titre": "Programme de Bourses Karsh International",
@@ -6489,6 +6503,219 @@
     "imageUrl": null,
     "extrait_le": "2026-09-06T22:36:27",
     "slug": "ressources-recherche-psychologie-maryland"
+  },
+  {
+    "titre": "Cours de troisième cycle liés au développement (EPOS) - DAAD",
+    "seo_slug": "bourse-epos-master-allemagne",
+    "organisation": "DAAD",
+    "montant": 992,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Selon le programme d'études choisi ; veuillez consulter la brochure de bourses ou le site web de votre programme d'études.",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Toutes les disciplines"
+    ],
+    "pays_eligibles": [
+      "Pays en développement et nouvellement industrialisés (voir liste)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand (B1 minimum) ou Anglais (selon le programme)",
+    "documents_requis": [
+      "Checklist signée",
+      "Formulaire de candidature EPOS",
+      "CV en ordre chronologique inverse (modèle Europass)",
+      "Lettre de motivation",
+      "Lettre de recommandation de l'employeur actuel",
+      "Certificat(s) d'emploi",
+      "Preuve de compétences linguistiques (IELTS/TOEFL ou DSH/TestDaF)",
+      "Copies des diplômes de l'enseignement supérieur",
+      "Relevé de notes complet",
+      "Certificat APS (pour les candidats chinois)"
+    ],
+    "avantages": [
+      "Paiements mensuels de 992 euros pour les diplômés ou 1 300 euros (1 400 euros à partir de février 2026) pour les doctorants",
+      "Paiements vers une assurance maladie, accident et responsabilité civile",
+      "Allocation de voyage",
+      "Allocation mensuelle de logement (sous conditions)",
+      "Allocation mensuelle pour les membres de la famille accompagnants (sous conditions)"
+    ],
+    "eligibilite": [
+      "Être diplômé d'un pays en développement ou nouvellement industrialisé (liste spécifique)",
+      "Avoir au moins deux ans d'expérience professionnelle",
+      "Être titulaire d'une licence (généralement quatre ans) dans une discipline pertinente",
+      "Avoir obtenu un diplôme avec des résultats nettement supérieurs à la moyenne (tiers supérieur)",
+      "Les diplômes ne doivent pas dater de plus de six ans",
+      "Ne pas résider en Allemagne depuis plus de 15 mois à la date limite de candidature",
+      "Avoir des compétences linguistiques suffisantes (allemand B1 minimum pour les cours en allemand, ou anglais selon les exigences du programme)",
+      "Avoir une motivation liée au développement et être prêt à assumer des responsabilités sociales"
+    ],
+    "procedure_etapes": [
+      "Vérifier la liste des cours de troisième cycle éligibles et leurs dates limites",
+      "Préparer tous les documents requis dans l'ordre indiqué",
+      "Soumettre la candidature complète directement au programme d'études choisi (maximum 3 cours)",
+      "Si sélectionné par le comité de sélection, le DAAD contactera le candidat pour téléverser les documents sur le portail DAAD",
+      "Attendre la décision finale du processus de sélection"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Liste des pays éligibles (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/dac_laenderliste_epos.pdf"
+      },
+      {
+        "label": "Liste des cours de troisième cycle avec dates limites 2027/2028 (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_epos_deadlines.pdf"
+      },
+      {
+        "label": "FAQ (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/epos_faq_en.pdf"
+      },
+      {
+        "label": "Checklist (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/epos_checkliste.pdf"
+      },
+      {
+        "label": "Formulaire de candidature EPOS (DOCX)",
+        "url": "http://static.daad.de/media/daad_de/word-excel-nicht-barrierefrei/in-deutschland-studieren-forschen-lehren/daad_epos_application_form.docx"
+      },
+      {
+        "label": "Modèle Europass",
+        "url": "http://europass.cedefop.europa.eu/"
+      },
+      {
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Exigences techniques pour le portail",
+        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "EPOS",
+      "master Allemagne",
+      "doctorat Allemagne",
+      "pays en développement",
+      "études supérieures",
+      "financement études",
+      "bourse complète"
+    ],
+    "lien_candidature": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777",
+    "statut": "ouvert",
+    "resume": "Le programme DAAD EPOS offre des bourses complètes pour des masters et doctorats liés au développement dans des universités allemandes. Destiné aux diplômés de pays en développement avec au moins deux ans d'expérience professionnelle, il finance les études, l'assurance, le voyage et éventuellement le logement. Les candidatures se font directement auprès des programmes choisis, avec des dates limites variables. Une excellente opportunité pour contribuer au développement durable de votre pays grâce à une formation de haut niveau en Allemagne.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-07T19:06:37",
+    "slug": "bourse-epos-master-allemagne"
+  },
+  {
+    "titre": "Portail pour les organismes d'accueil de stage RISE Worldwide",
+    "seo_slug": "rise-worldwide-stage-allemagne-2027",
+    "organisation": "DAAD – Service allemand d'échanges universitaires",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Les offres de stage doivent être soumises entre le 15 août et le 30 septembre 2026.",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Ingénierie",
+      "Sciences naturelles",
+      "Sciences de la Terre",
+      "Médecine",
+      "Informatique",
+      "Disciplines connexes"
+    ],
+    "pays_eligibles": [
+      "Allemagne"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand",
+    "documents_requis": [
+      "Description du projet (PDF, une page maximum)",
+      "Coordonnées et page web de l'institut"
+    ],
+    "avantages": [
+      "Bourse DAAD pour le séjour de recherche"
+    ],
+    "eligibilite": [
+      "Chercheurs d'universités accréditées ou d'instituts de recherche à but non lucratif",
+      "Proposer un stage pour des étudiants allemands en ingénierie, sciences naturelles, sciences de la Terre, médecine, informatique ou disciplines connexes"
+    ],
+    "procedure_etapes": [
+      "S'inscrire sur la base de données des stages RISE Worldwide entre le 15 août et le 30 septembre 2026.",
+      "Soumettre une offre de projet via le portail des organismes d'accueil.",
+      "Inclure dans la description du projet : questions de recherche, approche expérimentale, tâches possibles du stagiaire, informations générales sur le groupe de travail, l'université et la région.",
+      "Classer les candidatures reçues entre le 13 et le 24 janvier 2027."
+    ],
+    "contacts": [
+      "rise-ww@daad.de"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail des organismes d'accueil RISE Worldwide",
+        "url": "https://www.rise-worldwide.de/provider/login/"
+      },
+      {
+        "label": "Page d'accueil RISE Worldwide",
+        "url": "https://www.daad.de/rise/en/rise-worldwide/"
+      },
+      {
+        "label": "À propos du programme RISE Worldwide",
+        "url": "https://www.daad.de/rise/en/rise-worldwide/about-the-programm/"
+      },
+      {
+        "label": "Rapports RISE Worldwide",
+        "url": "https://www.daad.de/rise/en/rise-worldwide/about-the-programm/reports/"
+      },
+      {
+        "label": "Téléchargements RISE Worldwide",
+        "url": "https://www.daad.de/rise/en/rise-worldwide/about-the-programm/downloads/"
+      },
+      {
+        "label": "Normes de qualité RISE Worldwide",
+        "url": "https://www.daad.de/rise/en/rise-worldwide/about-the-programm/quality-standards/"
+      },
+      {
+        "label": "Impressions RISE Worldwide",
+        "url": "https://www.daad.de/rise/en/rise-worldwide/about-the-programm/impressions-ww/"
+      },
+      {
+        "label": "Ce que les organismes d'accueil doivent savoir",
+        "url": "https://www.daad.de/rise/en/rise-worldwide/offer-an-internship/what-providers-need-to-know/"
+      },
+      {
+        "label": "Portail pour les organismes d'accueil canadiens",
+        "url": "https://www.daad.de/rise/en/rise-worldwide/offer-an-internship/portal-for-canadian-internship-providers/"
+      },
+      {
+        "label": "Contact RISE Worldwide",
+        "url": "https://www.daad.de/rise/en/contact/"
+      }
+    ],
+    "mots_cles": [
+      "stage recherche Allemagne",
+      "bourse DAAD",
+      "RISE Worldwide",
+      "offre de stage",
+      "étudiants allemands"
+    ],
+    "lien_candidature": "https://www.rise-worldwide.de/provider/login/",
+    "source_url": "https://www.daad.de/rise/en/rise-worldwide/offer-an-internship/submit-an-internship-offer/",
+    "statut": "ouvert",
+    "resume": "Le programme RISE Worldwide du DAAD permet aux chercheurs d'universités et d'instituts de recherche allemands de proposer des stages de recherche à des étudiants allemands en ingénierie, sciences naturelles, médecine, informatique et disciplines connexes. Les organismes d'accueil peuvent soumettre leurs offres de projet entre le 15 août et le 30 septembre 2026 via le portail en ligne. Les stagiaires retenus bénéficient d'une bourse DAAD pour effectuer un séjour de recherche. Cette page s'adresse aux chercheurs souhaitant devenir hôtes d'un stagiaire.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-07T19:07:37",
+    "slug": "rise-worldwide-stage-allemagne-2027"
   },
   {
     "titre": "Programme de bourses Coca-Cola MENA 2014 pour étudier aux États-Unis",

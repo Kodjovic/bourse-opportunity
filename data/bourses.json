@@ -1,101 +1,5 @@
 [
   {
-    "titre": "Bourse postdoctorale ISTA-Fellow 2026",
-    "seo_slug": "bourse-ista-fellow-postdoc-autriche-2026",
-    "organisation": "Institute of Science and Technology Austria (ISTA)",
-    "montant": 73500,
-    "devise": "EUR",
-    "type_financement": "bourse complète",
-    "deadline": "2026-09-08",
-    "deadline_texte": "8 septembre 2026 à 14h00 CEST",
-    "niveau_etudes": [
-      "Postdoctorat"
-    ],
-    "domaines": [
-      "Biologie",
-      "Neurosciences",
-      "Mathématiques",
-      "Informatique",
-      "Physique",
-      "Chimie",
-      "Sciences de la Terre",
-      "Astronomie"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne",
-      "Proposition de recherche (max 4 pages)",
-      "CV",
-      "Lettres de recommandation",
-      "Preuve de diplôme de doctorat"
-    ],
-    "avantages": [
-      "Contrat de travail de 2 ans à temps plein",
-      "Salaire minimum de 73 500 EUR brut par an",
-      "Couverture sociale complète",
-      "Budget de base pour frais de projet (consommables, voyages, frais de conférence, etc.)",
-      "Accès aux installations scientifiques de pointe",
-      "Logement sur le campus (sous réserve de disponibilité)",
-      "Garderie sur place (sous réserve de disponibilité)",
-      "Cours de langue allemande"
-    ],
-    "eligibilite": [
-      "Titulaire d'un doctorat (ou équivalent) à la date limite de l'appel ou achèvement prévu avant le début de la bourse (au plus tard le 15/06/2027)",
-      "Chercheurs déjà employés à l'ISTA avant le 1er septembre 2026 non éligibles",
-      "Projet de recherche aligné avec l'expertise du superviseur hôte à l'ISTA",
-      "Tous les groupes de recherche à l'ISTA sont éligibles sauf les groupes d'astronomie"
-    ],
-    "procedure_etapes": [
-      "1. Télécharger et lire attentivement le Guide du candidat",
-      "2. Créer un compte sur apply.ista.ac.at",
-      "3. Vérifier le compte via l'email de confirmation",
-      "4. Remplir le formulaire en ligne avec toutes les informations requises et télécharger tous les documents requis",
-      "5. Soumettre la candidature avant la date limite"
-    ],
-    "contacts": [
-      "ista-fellow@ista.ac.at"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://ist.ac.at/wp-content/uploads/2026/06/ISTA-Fellow-Guide_for_Applicants_2026.pdf"
-      },
-      {
-        "label": "Portail de candidature",
-        "url": "https://apply.ista.ac.at/"
-      },
-      {
-        "label": "Page de recherche ISTA",
-        "url": "https://ist.ac.at/en/research"
-      },
-      {
-        "label": "Logement sur le campus",
-        "url": "https://ist.ac.at/en/campus/housing/"
-      }
-    ],
-    "mots_cles": [
-      "bourse postdoctorale",
-      "ISTA",
-      "Autriche",
-      "recherche",
-      "sciences",
-      "2026",
-      "postdoc",
-      "financement"
-    ],
-    "lien_candidature": "https://apply.ista.ac.at/",
-    "source_url": "https://ist.ac.at/en/education/postdocs/ista-fellow/?fbclid=IwY2xjawS3_xdleHRuA2FlbQIxMABicmlkETE5bzJBTHJYdHVZZ0ZNSDk1c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHuxqvIwA9OCijM95tUHyKsxk5C2pc_GDBBdSTKXz9-LFYrRkJXHc4bmnVkoI_aem_DKqJ6fYvbFdMOasQm8Klpw",
-    "statut": "ouvert",
-    "resume": "Le programme ISTA-Fellow de l'Institute of Science and Technology Austria (ISTA) offre des bourses postdoctorales entièrement financées de deux ans pour des chercheurs hautement qualifiés dans les sciences naturelles, l'informatique, les mathématiques ou disciplines connexes. Les boursiers bénéficient d'un salaire compétitif (minimum 73 500 EUR brut par an), d'une couverture sociale complète, d'un budget de projet et d'un accès à des installations de pointe. La date limite de candidature est le 8 septembre 2026.",
-    "imageUrl": "/docs/ISTA-Fellow-Programme-postdoctoral.webp",
-    "extrait_le": "2026-07-06T03:36:11",
-    "slug": "bourse-ista-fellow-postdoc-autriche-2026"
-  },
-  {
     "titre": "Appel à propositions 2026 de la Facilité africaine de l'eau pour renforcer le pipeline d'investissement dans l'eau et l'assainissement en Afrique",
     "seo_slug": "appel-propositions-fae-2026-eau-assainissement-afrique",
     "organisation": "African Water Facility (AWF)",
@@ -2143,6 +2047,49 @@
     "imageUrl": null,
     "extrait_le": "2026-08-03T15:33:52",
     "slug": "bourses-universite-maastricht-internationaux-2027"
+  },
+  {
+    "titre": "Bourses de l'Institut de Doha pour les Études Supérieures",
+    "seo_slug": "bourses-institut-doha-etudes-superieures",
+    "organisation": "Doha Institute for Graduate Studies",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2027-01-15",
+    "deadline_texte": "15 janvier 2027",
+    "niveau_etudes": [
+      "Doctorat",
+      "Master"
+    ],
+    "domaines": [
+      "Sciences sociales",
+      "Sciences humaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Arabe, Anglais ou Français",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [],
+    "procedure_etapes": [],
+    "contacts": [],
+    "liens_utiles": [],
+    "mots_cles": [
+      "bourse",
+      "études supérieures",
+      "Qatar",
+      "master",
+      "doctorat"
+    ],
+    "lien_candidature": "https://www.dohainstitute.edu.qa/en/Admissions-Office/Pages/Scholarships.aspx",
+    "source_url": "https://www.dohainstitute.edu.qa/en/Admissions-Office/Pages/Scholarships.aspx",
+    "statut": "ouvert",
+    "resume": "L'Institut de Doha pour les Études Supérieures (Qatar) offre des bourses complètes pour ses programmes de master et de doctorat. Les candidatures pour l'année académique 2027-2028 sont ouvertes jusqu'au 15 janvier 2027. Les bourses couvrent les frais de scolarité, le logement et d'autres avantages. Les candidats de tous pays sont éligibles, avec une maîtrise de l'arabe, de l'anglais ou du français.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-09T09:44:48",
+    "slug": "bourses-institut-doha-etudes-superieures"
   },
   {
     "titre": "Bourses de l'Université Sophia pour étudiants avant l'entrée (2027)",
@@ -7509,6 +7456,274 @@
     "imageUrl": null,
     "extrait_le": "2026-09-08T10:28:00",
     "slug": "stage-recherche-ustc-chine"
+  },
+  {
+    "titre": "Bourse de formation tech 90% de MICRO TECH HUB AFRICA",
+    "seo_slug": "bourse-tech-afrique-90",
+    "organisation": "MICRO TECH HUB AFRICA",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse partielle (90% de réduction sur les frais de formation)",
+    "deadline": null,
+    "deadline_texte": null,
+    "niveau_etudes": [
+      "Formation professionnelle"
+    ],
+    "domaines": [
+      "Data Analysis Excel",
+      "Data Analysis SQL",
+      "Virtual Assistant",
+      "Digital Marketing",
+      "Project Management",
+      "AI content creation",
+      "AI Automation",
+      "AI Web Development",
+      "Agentic AI Automation"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "90% de réduction sur les frais de formation",
+      "Cours en direct avec des experts de l'industrie",
+      "Formation pratique et concrète",
+      "Projets de portfolio pour faciliter l'emploi",
+      "Optimisation du CV et du profil LinkedIn",
+      "Guide de freelancing (Upwork, Fiverr, etc.)",
+      "Certification reconnue",
+      "Communauté de soutien solide",
+      "Chance de gagner un ordinateur portable et d'autres prix en espèces"
+    ],
+    "eligibilite": [
+      "Être prêt à apprendre une compétence technologique",
+      "Résider en Afrique (implicite)"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne via le lien 'Start Now'."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://forms.gle/rg7CF7LurewJckZe8"
+      }
+    ],
+    "mots_cles": [
+      "bourse tech",
+      "formation en ligne",
+      "Afrique",
+      "data analysis",
+      "marketing digital",
+      "IA",
+      "développement web",
+      "certification"
+    ],
+    "lien_candidature": "https://forms.gle/rg7CF7LurewJckZe8",
+    "source_url": "https://www.microtechafrica.com/scholarship?fbclid=IwY2xjawUOBXhwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMTFtNFpqTlNmcm9Ua0EzVmlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeR8nC2r3tW2CdHAyBircYK08GMWqp7n577mQIqyJ450nEqJqNgv3XuUBWh4M_aem_dKD1AwmmZRdMDrAoGafOew",
+    "statut": "ouvert",
+    "resume": "MICRO TECH HUB AFRICA offre une bourse de 90% sur des formations tech pratiques et recherchées, avec des cours en direct, des projets concrets et un accompagnement vers l'emploi. Les participants peuvent choisir parmi des domaines comme l'analyse de données, le marketing digital, l'IA et le développement web. En plus de la réduction, des prix tels qu'un ordinateur portable et des récompenses en espèces sont à gagner. Postulez dès maintenant en remplissant le formulaire en ligne pour saisir cette opportunité de transformer votre carrière.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-09T09:29:41",
+    "slug": "bourse-tech-afrique-90"
+  },
+  {
+    "titre": "Bourses internationales de premier cycle de l'Université du Manitoba",
+    "seo_slug": "bourses-internationales-premier-cycle-manitoba",
+    "organisation": "Université du Manitoba",
+    "montant": null,
+    "devise": "CAD",
+    "type_financement": "bourse partielle",
+    "deadline": null,
+    "deadline_texte": "Date limite non spécifiée pour la plupart des bourses; la bourse d'entrée générale exige une demande d'admission avant le 1er mars.",
+    "niveau_etudes": [
+      "Premier cycle"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Demande d'admission",
+      "Relevés de notes",
+      "Preuve de compétence en anglais"
+    ],
+    "avantages": [
+      "Bourse de 25 000 $",
+      "Bourse de 10 000 $",
+      "Bourse de 3 000 $",
+      "Bourse de 2 000 $",
+      "Bourse de 1 000 $"
+    ],
+    "eligibilite": [
+      "Être un étudiant international (permis d'études valide)",
+      "Payer les frais de scolarité internationaux",
+      "Avoir une moyenne minimale de 90% (pour la bourse d'excellence internationale)",
+      "Avoir une moyenne minimale de 85% (pour la bourse d'entrée générale)",
+      "Être inscrit à temps plein dans un programme admissible",
+      "Pour la bourse d'entrée générale, avoir postulé avant le 1er mars",
+      "Pour la bourse d'études internationale, avoir complété 24 crédits avec une moyenne minimale de 3,5"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à l'admission à l'Université du Manitoba avant la date limite.",
+      "2. Pour la bourse d'excellence internationale, consulter la description de la bourse pour les détails de candidature.",
+      "3. Pour la bourse d'entrée générale, être automatiquement considéré lors de la demande d'admission.",
+      "4. Pour les bourses d'études, être évalué après avoir complété 24 crédits.",
+      "5. Pour les bourses, postuler via le portail Aurora si nécessaire."
+    ],
+    "contacts": [
+      "awards@umanitoba.ca"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Description de la bourse d'excellence internationale",
+        "url": "https://apply.umanitoba.ca/portal/program-info?cmd=program-details&progTerm=0a46dda2-76cd-46bc-b8d5-5ff06bfbdbde"
+      },
+      {
+        "label": "Liste des cours approuvés pour la bourse d'entrée générale (PDF)",
+        "url": "https://www.umanitoba.ca/sites/default/files/2021-10/40s-coursescholarship-list-100721.pdf"
+      },
+      {
+        "label": "Portail Aurora",
+        "url": "https://experience.elluciancloud.ca/uom12982/"
+      },
+      {
+        "label": "Page des bourses d'entrée",
+        "url": "https://umanitoba.ca/financial-aid-and-awards/entrance-awards"
+      },
+      {
+        "label": "Bourses pour étudiants diplômés internationaux",
+        "url": "https://umanitoba.ca/graduate-studies/funding-awards-and-financial-aid"
+      },
+      {
+        "label": "Bourses pour étudiants actuels",
+        "url": "https://umanitoba.ca/financial-aid-and-awards/scholarships"
+      },
+      {
+        "label": "Aide financière",
+        "url": "https://umanitoba.ca/financial-aid-and-awards#financial-aid"
+      }
+    ],
+    "mots_cles": [
+      "bourse université manitoba",
+      "bourse internationale canada",
+      "bourse premier cycle manitoba",
+      "bourse excellence internationale",
+      "bourse entrée générale manitoba"
+    ],
+    "lien_candidature": "https://umanitoba.ca/financial-aid-and-awards/international",
+    "source_url": "https://umanitoba.ca/financial-aid-and-awards/international?fbclid=IwY2xjawUOBh1wZG9mAWV4dG4DYWVtAjEwAGJyaWQRMTFtNFpqTlNmcm9Ua0EzVmlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEexuazTWdB9iC9ElzsO-tkcJmnkvBNxop_3ZL6En0v5jN7jTHjIW4mMHq_za8_aem_BRjK-PRydOUmX1u61CATUg",
+    "statut": "ouvert",
+    "resume": "L'Université du Manitoba offre plusieurs bourses aux étudiants internationaux de premier cycle, récompensant l'excellence académique et l'engagement communautaire. Les bourses d'entrée comprennent la bourse d'excellence internationale (25 000 $, 10 000 $) et la bourse d'entrée générale (jusqu'à 3 000 $). Les étudiants actuels peuvent également bénéficier de bourses d'études et de bourses d'aide financière. Les candidatures se font via le portail d'admission de l'université.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-09T09:39:47",
+    "slug": "bourses-internationales-premier-cycle-manitoba"
+  },
+  {
+    "titre": "Programme de formation à la recherche (Research Training Program - RTP)",
+    "seo_slug": "bourse-rtp-recherche-australie-2026",
+    "organisation": "Gouvernement australien - Département de l'Éducation",
+    "montant": 34315,
+    "devise": "AUD",
+    "type_financement": "Bourse complète (frais de scolarité, allocation de subsistance, indemnités)",
+    "deadline": null,
+    "deadline_texte": "Les candidatures se font directement auprès des établissements d'enseignement supérieur éligibles ; les dates limites varient selon chaque établissement.",
+    "niveau_etudes": [
+      "Doctorat",
+      "Master de recherche"
+    ],
+    "domaines": [
+      "Tous les domaines de recherche"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Aucun document spécifique n'est listé sur cette page ; les exigences sont définies par chaque établissement."
+    ],
+    "avantages": [
+      "Prise en charge des frais de scolarité (tuition fees offset)",
+      "Allocation de subsistance (stipend) pour les frais de vie courants",
+      "Indemnités pour les coûts annexes liés à la recherche",
+      "Durée de financement : 3 à 4 ans pour un doctorat à temps plein, 6 à 8 ans à temps partiel ; 2 ans pour un master de recherche à temps plein, 4 ans à temps partiel"
+    ],
+    "eligibilite": [
+      "Être un étudiant national ou international",
+      "Être inscrit ou sur le point de s'inscrire dans un programme de doctorat ou de master de recherche dans un établissement d'enseignement supérieur australien éligible",
+      "Répondre aux critères d'éligibilité spécifiques de l'établissement choisi"
+    ],
+    "procedure_etapes": [
+      "1. Choisir un établissement d'enseignement supérieur éligible en Australie.",
+      "2. Contacter directement l'établissement pour connaître les modalités de candidature.",
+      "3. Soumettre une candidature pour un programme de recherche (doctorat ou master) et pour la bourse RTP auprès de l'établissement.",
+      "4. Respecter les délais fixés par l'établissement."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Liste des établissements éligibles",
+        "url": "https://www.education.gov.au/research-block-grants/higher-education-providers-eligible-research-block-grants"
+      },
+      {
+        "label": "FAQ RTP pour les étudiants",
+        "url": "https://www.education.gov.au/research-block-grants/research-training-program/research-training-program-frequently-asked-questions-students"
+      },
+      {
+        "label": "FAQ RTP pour les administrateurs",
+        "url": "https://www.education.gov.au/research-block-grants/research-training-program/research-training-program-rtp-frequently-asked-questions-university-administrators"
+      },
+      {
+        "label": "FAQ sur la pondération des stages en industrie RTP",
+        "url": "https://www.education.gov.au/research-block-grants/research-training-program/faqs-research-training-program-industry-internship-weighting"
+      },
+      {
+        "label": "Lignes directrices 2025 sur les bourses du Commonwealth",
+        "url": "https://www.legislation.gov.au/F2025L01474/asmade/text"
+      },
+      {
+        "label": "Loi sur le soutien à l'enseignement supérieur de 2003",
+        "url": "https://www.legislation.gov.au/Series/C2004A01234"
+      },
+      {
+        "label": "Montants des subventions RTP 2026",
+        "url": "https://www.education.gov.au/research-block-grants/resources/2026-research-block-grant-allocations"
+      },
+      {
+        "label": "Calcul des allocations RTP",
+        "url": "https://www.education.gov.au/research-block-grants/resources/calculation-research-training-program-allocations"
+      },
+      {
+        "label": "Taux historiques des bourses de troisième cycle",
+        "url": "https://www.education.gov.au/research-block-grants/resources/historical-stipend-rates-postgraduate-scholarships"
+      },
+      {
+        "label": "Fiche d'information sur les griefs HDR",
+        "url": "https://www.education.gov.au/research-block-grants/resources/higher-degree-research-student-grievance-fact-sheet"
+      }
+    ],
+    "mots_cles": [
+      "bourse RTP",
+      "recherche Australie",
+      "doctorat Australie",
+      "master recherche Australie",
+      "financement études Australie",
+      "bourse gouvernement australien"
+    ],
+    "lien_candidature": "https://www.education.gov.au/research-block-grants/research-training-program",
+    "source_url": "https://www.education.gov.au/research-block-grants/research-training-program?fbclid=IwY2xjawUOByxwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMTFtNFpqTlNmcm9Ua0EzVmlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe_SKbKKJBcz62TFrePkFi6THkpu7wQchuDAwR2EgswiksfzvzKiqtt8cb11w_aem_kmbc1IgEPM2lKwqrVTsElg",
+    "statut": "ouvert",
+    "resume": "Le Programme de formation à la recherche (RTP) du gouvernement australien offre des bourses complètes aux étudiants nationaux et internationaux pour entreprendre un doctorat ou un master de recherche dans des établissements australiens éligibles. Les bourses couvrent les frais de scolarité, fournissent une allocation de subsistance et des indemnités pour les coûts annexes. Les candidatures se font directement auprès des universités, qui fixent leurs propres critères et délais. Les taux d'allocation pour 2026 sont de 34 315 AUD par an pour le taux de base à temps plein.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-09T09:43:10",
+    "slug": "bourse-rtp-recherche-australie-2026"
   },
   {
     "titre": "Programme de bourses Coca-Cola MENA 2014 pour étudier aux États-Unis",
@@ -16017,6 +16232,102 @@
     "imageUrl": null,
     "extrait_le": "2026-08-16T12:01:29",
     "slug": "bourse-cambridge-afrique-alborada-2026"
+  },
+  {
+    "titre": "Bourse postdoctorale ISTA-Fellow 2026",
+    "seo_slug": "bourse-ista-fellow-postdoc-autriche-2026",
+    "organisation": "Institute of Science and Technology Austria (ISTA)",
+    "montant": 73500,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-09-08",
+    "deadline_texte": "8 septembre 2026 à 14h00 CEST",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Biologie",
+      "Neurosciences",
+      "Mathématiques",
+      "Informatique",
+      "Physique",
+      "Chimie",
+      "Sciences de la Terre",
+      "Astronomie"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Proposition de recherche (max 4 pages)",
+      "CV",
+      "Lettres de recommandation",
+      "Preuve de diplôme de doctorat"
+    ],
+    "avantages": [
+      "Contrat de travail de 2 ans à temps plein",
+      "Salaire minimum de 73 500 EUR brut par an",
+      "Couverture sociale complète",
+      "Budget de base pour frais de projet (consommables, voyages, frais de conférence, etc.)",
+      "Accès aux installations scientifiques de pointe",
+      "Logement sur le campus (sous réserve de disponibilité)",
+      "Garderie sur place (sous réserve de disponibilité)",
+      "Cours de langue allemande"
+    ],
+    "eligibilite": [
+      "Titulaire d'un doctorat (ou équivalent) à la date limite de l'appel ou achèvement prévu avant le début de la bourse (au plus tard le 15/06/2027)",
+      "Chercheurs déjà employés à l'ISTA avant le 1er septembre 2026 non éligibles",
+      "Projet de recherche aligné avec l'expertise du superviseur hôte à l'ISTA",
+      "Tous les groupes de recherche à l'ISTA sont éligibles sauf les groupes d'astronomie"
+    ],
+    "procedure_etapes": [
+      "1. Télécharger et lire attentivement le Guide du candidat",
+      "2. Créer un compte sur apply.ista.ac.at",
+      "3. Vérifier le compte via l'email de confirmation",
+      "4. Remplir le formulaire en ligne avec toutes les informations requises et télécharger tous les documents requis",
+      "5. Soumettre la candidature avant la date limite"
+    ],
+    "contacts": [
+      "ista-fellow@ista.ac.at"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://ist.ac.at/wp-content/uploads/2026/06/ISTA-Fellow-Guide_for_Applicants_2026.pdf"
+      },
+      {
+        "label": "Portail de candidature",
+        "url": "https://apply.ista.ac.at/"
+      },
+      {
+        "label": "Page de recherche ISTA",
+        "url": "https://ist.ac.at/en/research"
+      },
+      {
+        "label": "Logement sur le campus",
+        "url": "https://ist.ac.at/en/campus/housing/"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "ISTA",
+      "Autriche",
+      "recherche",
+      "sciences",
+      "2026",
+      "postdoc",
+      "financement"
+    ],
+    "lien_candidature": "https://apply.ista.ac.at/",
+    "source_url": "https://ist.ac.at/en/education/postdocs/ista-fellow/?fbclid=IwY2xjawS3_xdleHRuA2FlbQIxMABicmlkETE5bzJBTHJYdHVZZ0ZNSDk1c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHuxqvIwA9OCijM95tUHyKsxk5C2pc_GDBBdSTKXz9-LFYrRkJXHc4bmnVkoI_aem_DKqJ6fYvbFdMOasQm8Klpw",
+    "statut": "fermé",
+    "resume": "Le programme ISTA-Fellow de l'Institute of Science and Technology Austria (ISTA) offre des bourses postdoctorales entièrement financées de deux ans pour des chercheurs hautement qualifiés dans les sciences naturelles, l'informatique, les mathématiques ou disciplines connexes. Les boursiers bénéficient d'un salaire compétitif (minimum 73 500 EUR brut par an), d'une couverture sociale complète, d'un budget de projet et d'un accès à des installations de pointe. La date limite de candidature est le 8 septembre 2026.",
+    "imageUrl": "/docs/ISTA-Fellow-Programme-postdoctoral.webp",
+    "extrait_le": "2026-07-06T03:36:11",
+    "slug": "bourse-ista-fellow-postdoc-autriche-2026"
   },
   {
     "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",

@@ -1481,6 +1481,147 @@
     "slug": "bourse-daad-epos-master-gouvernance-environnementale-2027"
   },
   {
+    "titre": "Bourses de Master du Commonwealth",
+    "seo_slug": "bourse-commonwealth-master-uk-2027",
+    "organisation": "Commonwealth Scholarship Commission in the UK (CSC)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-20",
+    "deadline_texte": "20 octobre 2026 à 16h00 BST (heure britannique)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Développement durable",
+      "Thèmes de développement du CSC"
+    ],
+    "pays_eligibles": [
+      "Pays du Commonwealth à revenu faible et intermédiaire"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Preuve de citoyenneté ou statut de réfugié dans un pays éligible du Commonwealth : copie d'un passeport valide (ou carte d'identité nationale) avec photo, date de naissance et pays de citoyenneté",
+      "Relevés de notes complets détaillant toutes les qualifications d'études supérieures, y compris les relevés à jour pour les cours en cours, avec traductions certifiées si non en anglais",
+      "Références d'au moins deux personnes, au format PDF, signées et sur papier à en-tête institutionnel ou par email montrant clairement les coordonnées de l'expéditeur"
+    ],
+    "avantages": [
+      "Frais de scolarité",
+      "Allocation mensuelle",
+      "Frais de voyage",
+      "Allocation d'installation",
+      "Frais de thèse",
+      "Couverture médicale"
+    ],
+    "eligibilite": [
+      "Être citoyen ou avoir obtenu le statut de réfugié dans un pays éligible du Commonwealth, ou être une personne protégée britannique",
+      "Résider en permanence dans un pays éligible du Commonwealth",
+      "Être disponible pour commencer les études universitaires au Royaume-Uni au début de l'année universitaire en septembre 2027",
+      "D'ici septembre 2027, détenir un premier diplôme d'au moins une licence avec mention upper second-class (2:1) honours, ou une licence lower second-class et un diplôme d'études supérieures pertinent (généralement un Master)",
+      "Être incapable de financer ses études au Royaume-Uni sans cette bourse",
+      "Avoir fourni tous les documents justificatifs dans le format requis"
+    ],
+    "procedure_etapes": [
+      "Vérifier l'éligibilité et les critères spécifiques du pays",
+      "Préparer les réponses aux questions du formulaire en dehors du système",
+      "Créer un compte sur CSC Central et passer l'authentification à deux facteurs (2FA)",
+      "Remplir le formulaire de candidature en ligne",
+      "Télécharger les documents justificatifs (passeport, relevés de notes, références) au format PDF",
+      "Soumettre la candidature avant la date limite",
+      "Postuler également auprès d'un organisme de nomination (agence nationale de nomination ou ONG/association caritative sélectionnée)",
+      "Attendre les résultats en juillet 2027"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature CSC Central",
+        "url": "https://portal.csccentralonline.org.uk/application"
+      },
+      {
+        "label": "Formulaire de candidature modèle",
+        "url": "https://cscuk.fcdo.gov.uk/wp-content/uploads/2020/09/Masters-template-form-2027.pdf"
+      },
+      {
+        "label": "Document d'orientation pour les candidats",
+        "url": "https://cscuk.fcdo.gov.uk/wp-content/uploads/2020/09/Guidance-Document-for-Applicants.docx"
+      },
+      {
+        "label": "Agences nationales de nomination",
+        "url": "https://cscuk.fcdo.gov.uk/national-nominating-agencies/"
+      },
+      {
+        "label": "ONG et organismes de nomination",
+        "url": "https://cscuk.fcdo.gov.uk/ngos/"
+      },
+      {
+        "label": "Thèmes de développement du CSC",
+        "url": "https://cscuk.fcdo.gov.uk/csc-development-themes/"
+      },
+      {
+        "label": "Conseils pour les candidats",
+        "url": "https://cscuk.fcdo.gov.uk/advice-for-applicants/"
+      },
+      {
+        "label": "Study UK (British Council)",
+        "url": "https://study-uk.britishcouncil.org/"
+      },
+      {
+        "label": "Steps to Postgraduate Study",
+        "url": "http://postgradsteps.officeforstudents.org.uk/"
+      },
+      {
+        "label": "Postgrad.com",
+        "url": "https://www.postgrad.com/"
+      },
+      {
+        "label": "Prospects",
+        "url": "https://www.prospects.ac.uk/postgraduate-study"
+      },
+      {
+        "label": "Research Excellent Framework 2021",
+        "url": "http://www.ref.ac.uk/"
+      },
+      {
+        "label": "UCAS Postgraduate",
+        "url": "https://www.ucas.com/ucas/postgraduate"
+      },
+      {
+        "label": "Discover Uni",
+        "url": "https://discoveruni.gov.uk/"
+      },
+      {
+        "label": "UKCISA",
+        "url": "http://www.ukcisa.org.uk/Information--Advice/Preparation-and-Arrival/Choosing-a-course"
+      },
+      {
+        "label": "Histoires d'impact du développement",
+        "url": "https://cscuk.fcdo.gov.uk/all-development-theme-articles/"
+      },
+      {
+        "label": "Page des ONG et organismes de nomination",
+        "url": "https://cscuk.fcdo.gov.uk/ngos-and-charitable-body-nominators/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Commonwealth",
+      "bourse master Royaume-Uni",
+      "bourse études UK",
+      "bourse développement durable",
+      "bourse pays Commonwealth",
+      "bourse 2027",
+      "bourse complète",
+      "CSC scholarship"
+    ],
+    "lien_candidature": "https://portal.csccentralonline.org.uk/application",
+    "source_url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/?fbclid=IwY2xjawUPdb9wZG9mAWV4dG4DYWVtAjEwAGJyaWQRMUU3RHF5M01ONXIzVFIyZWxzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeeRSV3ul3kUsiG_gtEEVUGXxm5_I7cCdZIPZbiRpvfI69mOZJ8yR4kOlDrcQ_aem_iKaKo5yUUGonqeAHixsyqQ",
+    "statut": "ouvert",
+    "resume": "Les bourses de Master du Commonwealth, financées par le Foreign, Commonwealth & Development Office (FCDO) du Royaume-Uni, permettent à des étudiants talentueux issus de pays éligibles du Commonwealth de poursuivre un master à temps plein dans une université britannique. Ces bourses complètes couvrent les frais de scolarité, une allocation mensuelle, les frais de voyage et d'autres avantages. Les candidats doivent postuler via le portail CSC Central et être nommés par une agence nationale de nomination ou une ONG sélectionnée. La date limite de candidature est fixée au 20 octobre 2026 à 16h00 BST pour des études débutant en septembre/octobre 2027.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-10T11:44:20",
+    "slug": "bourse-commonwealth-master-uk-2027"
+  },
+  {
     "titre": "Bourses de recherche pour diplômés - Université de Melbourne",
     "seo_slug": "bourse-recherche-melbourne-2026",
     "organisation": "University of Melbourne",
@@ -7724,6 +7865,83 @@
     "imageUrl": null,
     "extrait_le": "2026-09-09T09:43:10",
     "slug": "bourse-rtp-recherche-australie-2026"
+  },
+  {
+    "titre": "Bourse de l'Université Polytechnique de Hangzhou",
+    "seo_slug": "bourse-hangzhou-polytechnic-2026",
+    "organisation": "Hangzhou Polytechnic University (HVTC)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [],
+    "domaines": [],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [],
+    "avantages": [
+      "Frais de scolarité réduits ou couverts (selon les détails de la bourse)",
+      "Hébergement disponible sur le campus (environ 4500 RMB par personne et par an)",
+      "Accès aux installations du campus (bibliothèque, salles de sport, etc.)",
+      "Possibilité de participer à des programmes d'échange et des stages en entreprise"
+    ],
+    "eligibilite": [],
+    "procedure_etapes": [],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de l'Université Polytechnique de Hangzhou",
+        "url": "https://hvtc.cucas.cn"
+      },
+      {
+        "label": "Programmes d'admission",
+        "url": "https://hvtc.cucas.cn/program/"
+      },
+      {
+        "label": "Hébergement",
+        "url": "https://hvtc.cucas.cn/accommodation/"
+      },
+      {
+        "label": "Installations",
+        "url": "https://hvtc.cucas.cn/facilities/"
+      },
+      {
+        "label": "Structure des frais",
+        "url": "https://hvtc.cucas.cn/fee-structure/"
+      },
+      {
+        "label": "Carte 3D",
+        "url": "https://hvtc.cucas.cn/3d_map/"
+      },
+      {
+        "label": "Guide de demande de visa",
+        "url": "https://www.cucas.cn/visa/guide-for-countries.html"
+      },
+      {
+        "label": "À propos de CUCAS",
+        "url": "https://www.cucas.cn/server/brand"
+      },
+      {
+        "label": "Contact",
+        "url": "https://www.cucas.cn/server/index/2384/2384"
+      }
+    ],
+    "mots_cles": [
+      "bourse Chine",
+      "bourse Hangzhou",
+      "étudier en Chine",
+      "bourse université polytechnique",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://hvtc.cucas.cn",
+    "source_url": "https://hvtc.cucas.cn/?fbclid=IwY2xjawUO2oZwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMUU3RHF5M01ONXIzVFIyZWxzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLGDxzj7OToG2Faa5q_3RNJA5Lrx_BLlhWjbfHcgLWQMSN_wNmL7KDQBNWN0_aem_AroRLcESh_2Jp19is6Z9mA",
+    "statut": "ouvert",
+    "resume": "L'Université Polytechnique de Hangzhou (HVTC) propose des bourses d'études pour les étudiants internationaux souhaitant poursuivre leurs études en Chine. Située à Hangzhou, cette institution publique offre un environnement académique de qualité avec des partenariats industriels solides. Les candidats peuvent postuler en ligne via la plateforme CUCAS. Les détails spécifiques sur le montant et les critères d'éligibilité sont disponibles sur le site officiel.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-10T11:42:03",
+    "slug": "bourse-hangzhou-polytechnic-2026"
   },
   {
     "titre": "Programme de bourses Coca-Cola MENA 2014 pour étudier aux États-Unis",

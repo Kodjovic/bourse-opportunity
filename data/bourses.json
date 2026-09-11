@@ -1,96 +1,5 @@
 [
   {
-    "titre": "Appel à propositions 2026 de la Facilité africaine de l'eau pour renforcer le pipeline d'investissement dans l'eau et l'assainissement en Afrique",
-    "seo_slug": "appel-propositions-fae-2026-eau-assainissement-afrique",
-    "organisation": "African Water Facility (AWF)",
-    "montant": 1000000,
-    "devise": "EUR",
-    "type_financement": "subvention",
-    "deadline": "2026-09-10",
-    "deadline_texte": "10 septembre 2026",
-    "niveau_etudes": [],
-    "domaines": [
-      "Eau",
-      "Assainissement",
-      "Gouvernance",
-      "Financement innovant",
-      "Changement climatique"
-    ],
-    "pays_eligibles": [
-      "Afrique"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Français et Anglais",
-    "documents_requis": [
-      "Note conceptuelle",
-      "Formulaire de candidature"
-    ],
-    "avantages": [
-      "Subvention jusqu'à 1 million d'euros par projet"
-    ],
-    "eligibilite": [
-      "Pays membres régionaux",
-      "Institutions publiques",
-      "Services publics",
-      "Organisations de bassin"
-    ],
-    "procedure_etapes": [
-      "Télécharger l'appel à propositions complet",
-      "Télécharger le modèle de note conceptuelle",
-      "Préparer la note conceptuelle",
-      "Soumettre la note conceptuelle par courriel avant la date limite"
-    ],
-    "contacts": [
-      "africanwaterfacility@afdb.org",
-      "awf@afdb.org",
-      "s.blazyk@afdb.org",
-      "h.njiwa@afdb.org",
-      "d.arjoon@afdb.org",
-      "+225 20 26 53 09"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Appel à propositions complet (PDF)",
-        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-07/awf-2026-call-for-proposal-announcement-july-2026_3.pdf"
-      },
-      {
-        "label": "Modèle de note conceptuelle (DOCX)",
-        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-07/application-template-for-project-concepts---awf-cfp-2026--july-2026_4.docx"
-      },
-      {
-        "label": "FAQ (PDF)",
-        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-08/faq-2026-awf-call-for-proposal-card_0.pdf"
-      },
-      {
-        "label": "Appel à propositions en français (PDF)",
-        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-07/awf_2026_appel_a_propositions_annonce_fr_0.pdf"
-      },
-      {
-        "label": "Modèle de note conceptuelle en français (DOCX)",
-        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-07/modele_note_conceptuelle_projet_awf_cfp_2026_fr_0.docx"
-      },
-      {
-        "label": "FAQ en français (PDF)",
-        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-08/faq-appel-a-propositions-fae-2026_0.pdf"
-      }
-    ],
-    "mots_cles": [
-      "bourse eau afrique",
-      "subvention assainissement",
-      "appel à propositions AWF",
-      "financement projets eau",
-      "investissement eau Afrique"
-    ],
-    "lien_candidature": "https://www.africanwaterfacility.org/en/news/awf-launches-2026-call-proposals-strengthen-africas-water-and-sanitation-investment-pipeline",
-    "source_url": "https://www.africanwaterfacility.org/en/news/awf-launches-2026-call-proposals-strengthen-africas-water-and-sanitation-investment-pipeline?fbclid=IwY2xjawTuhgJwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeQMoBNXgr0Xh_0bUHoe-TfxobqMGwMMtVkiXwKZ1jy7MGnXvidvOB6E6pVsY_aem_5cmV4blRDXvvjcpVyDWpaQ",
-    "statut": "ouvert",
-    "resume": "La Facilité africaine de l'eau (AWF) lance son appel à propositions 2026 pour financer des projets d'investissement dans les secteurs de l'eau et de l'assainissement en Afrique. Avec une contribution pouvant atteindre 1 million d'euros par projet, cet appel vise à renforcer le pipeline de projets bancables et à catalyser le financement en aval. Les candidats éligibles incluent les pays membres régionaux, les institutions publiques, les services publics et les organisations de bassin. Les propositions doivent être soumises avant le 10 septembre 2026.",
-    "adresse": "African Water Facility  African Development Bank  Immeuble du Centre de commerce International d’Abidjan  CCIA Avenue Jean-Paul II - Abidjan 01 BP 1387",
-    "imageUrl": null,
-    "extrait_le": "2026-08-16T12:04:33",
-    "slug": "appel-propositions-fae-2026-eau-assainissement-afrique"
-  },
-  {
     "titre": "Programme de formation à la recherche du gouvernement australien (RTP)",
     "seo_slug": "bourse-rtp-recherche-australie-2026",
     "organisation": "University of Sydney",
@@ -880,6 +789,110 @@
     "slug": "bourse-sgci-stisa-2034-afrique-2026"
   },
   {
+    "titre": "Bourse d'études en innovation et technologie 2027 - Mastercard Foundation Scholars Program",
+    "seo_slug": "bourse-mastercard-innovation-technologie-asu-2027",
+    "organisation": "Mastercard Foundation Scholars Program en partenariat avec Arizona State University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-09-27",
+    "deadline_texte": "27 septembre 2026 à 23h59 GMT",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Technologie et innovation",
+      "Développement technologique",
+      "Technologies de l'information",
+      "Ingénierie des systèmes humains",
+      "Informatique",
+      "Science des données",
+      "Robotique et systèmes autonomes",
+      "Génie civil, environnemental et durable",
+      "Systèmes énergétiques propres",
+      "Production et utilisation durable de l'énergie moderne"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": 33,
+    "langue_requise": "Anglais (exigences de compétence linguistique de l'ASU pour l'admission aux études supérieures)",
+    "documents_requis": [
+      "CV/Resume",
+      "Lettre de recommandation",
+      "Relevés de notes (transcripts)",
+      "Formulaire de candidature complété"
+    ],
+    "avantages": [
+      "Frais de traitement de la demande de visa",
+      "Bon pour l'examen de compétence en anglais (si nécessaire)",
+      "Exonération des frais de candidature aux études supérieures de l'ASU",
+      "Billet d'avion aller-retour vers Phoenix, Arizona",
+      "Frais de scolarité complets, livres requis et frais étudiants",
+      "Soutien médical",
+      "Logement sur le campus",
+      "Programme de leadership et de développement professionnel",
+      "Mentorat",
+      "Engagement communautaire",
+      "Opportunités d'enrichissement"
+    ],
+    "eligibilite": [
+      "Avoir obtenu un diplôme de bachelor d'une institution reconnue d'ici août 2027",
+      "Les diplômes d'études supérieures, certificats et autres titres non-diplômants ne sont pas équivalents à un bachelor",
+      "Démontrer un dossier académique solide, équivalent à un GPA minimum de 3,5 sur une échelle de 4,0",
+      "Répondre aux exigences de compétence en anglais de l'ASU pour l'admission aux études supérieures",
+      "Être citoyen d'un pays africain",
+      "Avoir entre 18 et 33 ans au plus tard à la date limite de candidature",
+      "Démontrer un historique de leadership, de service et un engagement à créer un changement positif dans sa communauté",
+      "Ne pas avoir été précédemment inscrit ou avoir complété un programme d'études supérieures ou de master",
+      "Ne pas être inscrit ou commencer un autre programme d'études supérieures ou de master pendant la candidature à cette bourse",
+      "Être capable de déménager et de résider sur le campus de l'ASU à Tempe, Arizona, États-Unis, pendant toute la durée du programme"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité et s'assurer de répondre à toutes les conditions",
+      "2. Consulter la FAQ pour toute question sur la bourse ou le processus de candidature",
+      "3. Remplir le formulaire de candidature en ligne (cliquer sur NEXT en bas de page) ou télécharger la version PDF si accès internet limité",
+      "4. Si candidature par email : envoyer le formulaire complété et les pièces jointes requises (CV, lettre de recommandation, relevés de notes) au format PDF à mastercardfdnscholars@asu.edu",
+      "5. Ne pas postuler directement à l'ASU ou à un programme d'études supérieures sans instruction de l'équipe du programme",
+      "6. Attendre l'invitation à un entretien si sélectionné pour avancer dans le processus",
+      "7. Si invité, postuler à l'admission à l'ASU avec exonération des frais de candidature"
+    ],
+    "contacts": [
+      "mastercardfdnscholars@asu.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://asu.co1.qualtrics.com/jfe/form/SV_4ZPcHMerRF8cPBA"
+      },
+      {
+        "label": "Document FAQ",
+        "url": null
+      },
+      {
+        "label": "Version PDF du formulaire",
+        "url": null
+      }
+    ],
+    "mots_cles": [
+      "bourse mastercard foundation",
+      "bourse innovation technologie",
+      "bourse master afrique",
+      "bourse études supérieures États-Unis",
+      "bourse Arizona State University",
+      "bourse 2027",
+      "bourse complète",
+      "bourse pour étudiants africains"
+    ],
+    "lien_candidature": "https://asu.co1.qualtrics.com/jfe/form/SV_4ZPcHMerRF8cPBA",
+    "source_url": "https://asu.co1.qualtrics.com/jfe/form/SV_4ZPcHMerRF8cPBA",
+    "statut": "ouvert",
+    "resume": "Le Mastercard Foundation Scholars Program, en partenariat avec l'Arizona State University, offre 30 bourses d'études supérieures complètes pour l'année académique 2027-2028. Ces bourses permettent de poursuivre un master en présentiel de deux ans sur le campus de Tempe, en Arizona, dans des domaines liés à la technologie et à l'innovation. La bourse couvre intégralement les frais de scolarité, le logement sur le campus, les soins de santé, le voyage et offre un accompagnement complet en leadership et développement professionnel. Les candidats doivent être citoyens africains, âgés de 18 à 33 ans, et démontrer un excellent parcours académique et un engagement communautaire.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-11T13:00:32",
+    "slug": "bourse-mastercard-innovation-technologie-asu-2027"
+  },
+  {
     "titre": "Fondation Rosa Luxemburg : Programme de bourses pour doctorants internationaux",
     "seo_slug": "bourse-rosa-luxemburg-doctorat-allemagne",
     "organisation": "Rosa Luxemburg Foundation",
@@ -971,6 +984,100 @@
     "adresse": "Rosa Luxemburg Foundation Straße der Pariser Kommune 8A 10243 Berlin Germany",
     "extrait_le": "2026-06-15T02:25:10",
     "slug": "bourse-rosa-luxemburg-doctorat-allemagne"
+  },
+  {
+    "titre": "Bourse du Sommet de l'Action des Jeunes 2027",
+    "seo_slug": "bourse-yas-2027-berlin",
+    "organisation": "Centre for Diplomatic Advancement (CDA)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète, partielle et accès au forum",
+    "deadline": "2026-10-05",
+    "deadline_texte": "5 octobre 2026",
+    "niveau_etudes": [
+      "Tous niveaux"
+    ],
+    "domaines": [
+      "Diplomatie",
+      "Leadership",
+      "Politique",
+      "Développement durable"
+    ],
+    "pays_eligibles": [
+      "Toutes nationalités"
+    ],
+    "age_maximum": 45,
+    "langue_requise": "Anglais (connaissance pratique)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Histoire personnelle (motivation, expérience de leadership, changement souhaité)"
+    ],
+    "avantages": [
+      "Billet d'avion aller-retour (bourse complète)",
+      "Hébergement partagé 4 étoiles (bourse complète et partielle)",
+      "Soutien pour le visa et lettre d'invitation officielle",
+      "Remboursement des frais de visa (bourse complète)",
+      "Coordination avec l'ambassade pour le traitement du visa",
+      "Liste de contrôle et conseils pour les documents de visa",
+      "Visites institutionnelles",
+      "Accès à toutes les sessions et ateliers du sommet",
+      "Événements de réseautage",
+      "Repas du sommet",
+      "Certification officielle du Centre for Diplomatic Advancement",
+      "Kit du délégué et marchandise officielle",
+      "Opportunités de prise de parole",
+      "Réseautage avec des délégués de plus de 125 pays"
+    ],
+    "eligibilite": [
+      "Âge : 16-45 ans",
+      "Toutes nationalités",
+      "Tous niveaux d'éducation",
+      "Connaissance pratique de l'anglais",
+      "Aucune expérience minimale requise"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne avant le 5 octobre 2026",
+      "2. Raconter votre histoire : motivation, expérience de leadership et changement souhaité",
+      "3. Sélection et notification : les candidats présélectionnés sont informés par email après la date limite",
+      "4. Confirmer votre place et recevoir vos documents officiels (y compris la lettre d'invitation pour le visa)",
+      "5. Préparez vos bagages pour Berlin : dates du sommet : 11-14 janvier 2027"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Soumettre votre candidature",
+        "url": "https://thecda.co/product/yas-2027-scholarships/"
+      },
+      {
+        "label": "Inscription - Lettre d'invitation",
+        "url": "https://thecda.co/product/invitation-only-yas-2027/"
+      },
+      {
+        "label": "Inscription - Pass d'accès au sommet",
+        "url": "https://thecda.co/product/summit-access-pass-yas-2027/"
+      },
+      {
+        "label": "Inscription - Auto-financé",
+        "url": "https://thecda.co/product/self-funded-yas-2027/"
+      }
+    ],
+    "mots_cles": [
+      "bourse sommet action jeunes",
+      "YAS 2027",
+      "bourse Berlin",
+      "conférence internationale jeunesse",
+      "bourse complète",
+      "leadership",
+      "diplomatie",
+      "développement durable"
+    ],
+    "lien_candidature": "https://thecda.co/product/yas-2027-scholarships/",
+    "source_url": "https://thecda.co/youth-action-summit-2027-berlin/?fbclid=IwcGRvZgNleHRuA2FlbQEwAGFkaWQBqzXla2CDInNydGMGYXBwX2lkDzI3NTI1NDY5MjU5ODI3OQABHpH8_0ukptRTO1wxEQk-LrElM2KrKUcLLF_R71B2RQJz1MVcFgGgNNBYT5la_aem_3PbjHn0kDZSeprCEKGd3HQ&utm_medium=paid&utm_source=fb&utm_id=120248643190610162_v2_s01_i97937687&utm_content=120249074477150162&utm_term=120248643190610162&utm_campaign=120248643131910162",
+    "statut": "ouvert",
+    "resume": "Le Youth Action Summit 2027 est un sommet international entièrement financé qui se tiendra à Berlin, en Allemagne, du 11 au 14 janvier 2027. Il rassemblera plus de 250 jeunes leaders, étudiants et professionnels de plus de 125 pays pour quatre jours de diplomatie, de formation au leadership, de dialogue politique et d'échange interculturel. Les candidatures sont ouvertes jusqu'au 5 octobre 2026. Ne manquez pas cette opportunité unique de participer à un événement de premier plan en Europe et de bénéficier d'une bourse complète ou partielle.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-11T13:01:35",
+    "slug": "bourse-yas-2027-berlin"
   },
   {
     "titre": "Bourse Knight-Hennessy pour études supérieures à Stanford",
@@ -7944,6 +8051,598 @@
     "slug": "bourse-hangzhou-polytechnic-2026"
   },
   {
+    "titre": "Master en Technologie et Développement Globaux",
+    "seo_slug": "master-technologie-developpement-global-asu-2026",
+    "organisation": "Arizona State University (ASU)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": null,
+    "deadline_texte": "Candidatures acceptées en continu (rolling) jusqu'au début du semestre. Les étudiants internationaux doivent tenir compte des délais de visa.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Développement international",
+      "Technologie",
+      "Sciences sociales",
+      "Politique",
+      "Économie"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (preuve de maîtrise requise pour les non-natifs)",
+    "documents_requis": [
+      "Demande d'admission aux études supérieures et frais de dossier",
+      "Relevés de notes officiels",
+      "Déclaration personnelle",
+      "CV",
+      "Preuve de maîtrise de l'anglais"
+    ],
+    "avantages": [
+      "Programme interdisciplinaire en sciences sociales",
+      "Possibilité de projet appliqué personnalisé",
+      "Compétences en recherche, rédaction et analyse",
+      "Préparation à diverses carrières internationales"
+    ],
+    "eligibilite": [
+      "Licence d'un établissement accrédité dans un domaine connexe (sciences politiques, relations internationales, sociologie, anthropologie, économie, commerce, éducation, technologie, ingénierie, sciences de la vie, langues étrangères ou littérature)",
+      "GPA cumulatif minimum de 3,00 sur 4,00 dans les 60 derniers crédits du premier cycle",
+      "Répondre aux exigences générales d'admission de l'université et du Rob Walton College of Global Futures"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'admission générales et spécifiques",
+      "2. Préparer les documents requis (relevés, déclaration, CV, preuve d'anglais)",
+      "3. Soumettre la demande d'admission et payer les frais",
+      "4. Suivre l'état de la candidature"
+    ],
+    "contacts": [
+      "cgfadvising@asu.edu",
+      "sfisgrad@asu.edu",
+      "polyadvising@asu.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://degrees.asu.edu/masters-phd/major/ASU00/LSGTDMS/global-technology-and-development-ms"
+      },
+      {
+        "label": "Demande d'admission pour étudiants internationaux",
+        "url": "https://admission.asu.edu/apply/international/graduate"
+      },
+      {
+        "label": "Preuve de maîtrise de l'anglais",
+        "url": "https://admission.asu.edu/apply/international/graduate/english-proficiency"
+      },
+      {
+        "label": "Programme en ligne",
+        "url": "https://asuonline.asu.edu/online-degree-programs/graduate/master-science-global-technology-development/"
+      },
+      {
+        "label": "Rob Walton College of Global Futures",
+        "url": "https://collegeofglobalfutures.asu.edu/"
+      },
+      {
+        "label": "Page des études à l'étranger",
+        "url": "https://collegeofglobalfutures.asu.edu/student-life/study-abroad/"
+      },
+      {
+        "label": "Bureau de l'éducation mondiale",
+        "url": "https://goglobal.asu.edu/"
+      },
+      {
+        "label": "Bourses nationales",
+        "url": "https://onsa.asu.edu/"
+      },
+      {
+        "label": "Données sur l'emploi",
+        "url": "https://collegeofglobalfutures.asu.edu/careers/employment-data/"
+      },
+      {
+        "label": "School of Innovation Futures",
+        "url": "https://sfis.asu.edu/"
+      }
+    ],
+    "mots_cles": [
+      "bourse master technologie développement",
+      "bourse ASU",
+      "master développement international",
+      "bourse études supérieures",
+      "bourse États-Unis",
+      "bourse technologie et développement",
+      "bourse master 2026",
+      "bourse Arizona State University"
+    ],
+    "lien_candidature": "https://admission.asu.edu/apply/international/graduate",
+    "source_url": "https://degrees.asu.edu/masters-phd/major/ASU00/LSGTDMS/global-technology-and-development-ms",
+    "statut": "ouvert",
+    "resume": "Le Master en Technologie et Développement Globaux de l'Arizona State University forme les étudiants à analyser les inégalités mondiales et le rôle de la technologie dans le développement. Ce programme interdisciplinaire en sciences sociales offre une formation personnalisée avec un projet appliqué. Les candidatures sont acceptées en continu, avec des sessions en présentiel et en ligne. Préparez-vous à une carrière internationale dans les gouvernements, ONG, entreprises et institutions éducatives.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-11T12:49:27",
+    "slug": "master-technologie-developpement-global-asu-2026"
+  },
+  {
+    "titre": "Master en Technologie de l'Information - Arizona State University",
+    "seo_slug": "master-technologie-information-asu-2026",
+    "organisation": "Arizona State University (ASU)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": null,
+    "deadline_texte": "Les candidatures sont examinées au fur et à mesure jusqu'au début du semestre (rolling deadline). Les étudiants internationaux doivent tenir compte des délais de visa.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Technologie de l'information",
+      "Sécurité des systèmes d'information",
+      "Gestion des systèmes d'information"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (preuve de maîtrise requise pour les non-natifs)",
+    "documents_requis": [
+      "Demande d'admission aux études supérieures et frais de dossier",
+      "Relevés de notes officiels",
+      "Déclaration personnelle",
+      "CV professionnel",
+      "Preuve de maîtrise de l'anglais"
+    ],
+    "avantages": [
+      "Programme STEM-OPT éligible : les étudiants internationaux en F-1 peuvent prolonger leur expérience professionnelle aux États-Unis de 24 mois.",
+      "Accréditation par la Higher Learning Commission."
+    ],
+    "eligibilite": [
+      "Diplôme de bachelor ou de master en technologie de l'information, informatique, informatique appliquée, génie informatique ou domaine connexe d'un établissement accrédité.",
+      "GPA cumulatif minimum de 3,00 sur 4,00 dans le premier programme de bachelor ou dans les 60 derniers crédits, ou dans 9 crédits de cours de troisième cycle d'un établissement américain, ou dans un programme de master conféré.",
+      "Les candidats dont la langue maternelle n'est pas l'anglais doivent fournir une preuve de maîtrise de l'anglais.",
+      "Les candidats ne répondant pas aux critères de GPA peuvent être considérés si leur expérience professionnelle ou formation post-baccalauréat démontre une aptitude."
+    ],
+    "procedure_etapes": [
+      "1. Remplir la demande d'admission aux études supérieures et payer les frais de dossier.",
+      "2. Soumettre les relevés de notes officiels (non officiels acceptés à la candidature, officiels si admis).",
+      "3. Rédiger et soumettre une déclaration personnelle.",
+      "4. Fournir un CV professionnel.",
+      "5. Fournir une preuve de maîtrise de l'anglais (pour les non-natifs).",
+      "6. Les candidatures sont examinées au fur et à mesure (rolling deadline)."
+    ],
+    "contacts": [
+      "polygrad@asu.edu",
+      "480-727-1874"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://degrees.asu.edu/masters-phd/major/ASU00/TSIFTMS/information-technology-ms"
+      },
+      {
+        "label": "Demande d'admission pour étudiants internationaux",
+        "url": "https://admission.asu.edu/apply/international/graduate"
+      },
+      {
+        "label": "Exigences de maîtrise de l'anglais",
+        "url": "https://admission.asu.edu/apply/international/graduate/english-proficiency"
+      },
+      {
+        "label": "Demande d'admission pour étudiants américains",
+        "url": "https://admission.asu.edu/apply/graduate/admission"
+      },
+      {
+        "label": "Programme accéléré bachelor's + master's",
+        "url": "https://acceleratedmasters.asu.edu/how-apply"
+      },
+      {
+        "label": "Liste des diplômes ASU éligibles à la prolongation STEM-OPT",
+        "url": "https://issc.asu.edu/f-1j-1-students/employment/stem"
+      },
+      {
+        "label": "Higher Learning Commission (accréditation)",
+        "url": "https://www.hlcommission.org/"
+      },
+      {
+        "label": "Estimateur de frais de scolarité",
+        "url": "https://tuition.asu.edu/cost/tuition-estimator"
+      },
+      {
+        "label": "Aide financière",
+        "url": "https://tuition.asu.edu/financial-aid"
+      },
+      {
+        "label": "Programme en ligne",
+        "url": "https://asuonline.asu.edu/online-degree-programs/graduate/information-technology-ms/"
+      },
+      {
+        "label": "Ira A. Fulton Schools of Engineering",
+        "url": "https://engineering.asu.edu/"
+      },
+      {
+        "label": "Campus Polytechnic",
+        "url": "https://campus.asu.edu/polytechnic"
+      },
+      {
+        "label": "Conseil académique",
+        "url": "https://poly.engineering.asu.edu/advising/"
+      }
+    ],
+    "mots_cles": [
+      "bourse master technologie information",
+      "bourse ASU",
+      "master informatique États-Unis",
+      "bourse études supérieures",
+      "STEM-OPT",
+      "bourse Arizona State University",
+      "master sécurité informatique",
+      "bourse génie informatique"
+    ],
+    "lien_candidature": "https://degrees.asu.edu/masters-phd/major/ASU00/TSIFTMS/information-technology-ms",
+    "source_url": "https://degrees.asu.edu/masters-phd/major/ASU00/TSIFTMS/information-technology-ms",
+    "statut": "ouvert",
+    "resume": "Le Master en Technologie de l'Information de l'Arizona State University (ASU) est un programme transdisciplinaire conçu pour former des leaders capables de gérer des systèmes complexes et de conduire la transformation numérique des organisations. Ce programme de 30 crédits offre deux spécialisations : sécurité des systèmes d'information ou gestion des systèmes d'information. Les étudiants internationaux en visa F-1 peuvent bénéficier d'une extension STEM-OPT de 24 mois pour travailler aux États-Unis après l'obtention du diplôme. Les candidatures sont examinées en continu (rolling deadline), offrant une flexibilité aux candidats.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-11T12:50:11",
+    "slug": "master-technologie-information-asu-2026"
+  },
+  {
+    "titre": "Master en Ingénierie des Systèmes Humains (Systèmes Intelligents)",
+    "seo_slug": "master-ingenierie-systemes-humains-intelligents-asu",
+    "organisation": "Arizona State University (Ira A. Fulton Schools of Engineering)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": null,
+    "deadline_texte": "Date limite flexible (rolling) - les candidatures sont examinées en continu jusqu'au début du semestre. Les étudiants internationaux doivent tenir compte des délais de visa.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Ingénierie",
+      "Systèmes intelligents",
+      "Robotique",
+      "Sciences cognitives appliquées",
+      "Interaction humain-robot"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (preuve de maîtrise requise pour les non-natifs)",
+    "documents_requis": [
+      "Demande d'admission aux cycles supérieurs et frais de dossier",
+      "Relevés de notes officiels",
+      "Curriculum vitae ou CV professionnel",
+      "Déclaration professionnelle",
+      "Résumé de recherche",
+      "Trois lettres de recommandation",
+      "Preuve de maîtrise de l'anglais"
+    ],
+    "avantages": [
+      "Programme STEM-OPT éligible : les étudiants internationaux en F-1 peuvent prolonger leur expérience professionnelle aux États-Unis de 24 mois.",
+      "Accréditation par la Higher Learning Commission.",
+      "Possibilité de poursuivre un master accéléré (bachelor's + master's en 5 ans)."
+    ],
+    "eligibilite": [
+      "Diplôme de bachelor ou master en ingénierie, ingénierie robotique, mathématiques ou domaine connexe d'un établissement accrédité.",
+      "Solide formation en mathématiques, incluant jusqu'au calcul III et l'algèbre linéaire.",
+      "GPA cumulatif minimum de 3,00 sur 4,00 dans le premier programme de bachelor ou dans les 60 derniers crédits, ou dans 9 crédits d'études supérieures, ou dans un master conféré.",
+      "Les candidats dont la langue maternelle n'est pas l'anglais doivent fournir une preuve de maîtrise de l'anglais.",
+      "Les lettres de recommandation doivent provenir de professeurs d'université, d'employeurs (dans un domaine lié aux facteurs humains ou aux systèmes intelligents) ou d'une combinaison de références académiques et professionnelles."
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'admission générales de l'université et les exigences spécifiques au programme.",
+      "2. Préparer tous les documents requis : demande d'admission, relevés de notes, CV, déclaration professionnelle, résumé de recherche, lettres de recommandation, preuve de maîtrise de l'anglais.",
+      "3. Soumettre la demande d'admission en ligne avec les frais de dossier.",
+      "4. Les relevés de notes non officiels peuvent être soumis au moment de la candidature ; si admis, les relevés officiels doivent être envoyés au ASU Graduate Admission Services.",
+      "5. Les candidatures sont examinées en continu (rolling) jusqu'au début du semestre ; il est recommandé de soumettre le dossier dès que possible.",
+      "6. Les étudiants internationaux doivent tenir compte des délais de visa et s'assurer qu'il reste suffisamment de temps pour produire les documents de visa nécessaires."
+    ],
+    "contacts": [
+      "polygrad@asu.edu",
+      "480-727-4723",
+      "480-727-1874"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Demande d'admission pour étudiants internationaux",
+        "url": "https://admission.asu.edu/apply/international/graduate"
+      },
+      {
+        "label": "Exigences de maîtrise de l'anglais",
+        "url": "https://admission.asu.edu/apply/international/graduate/english-proficiency"
+      },
+      {
+        "label": "Global Launch - Alternative en ligne pour la maîtrise de l'anglais",
+        "url": "https://globallaunch.asu.edu/learn-english/online-english/english-for-admission"
+      },
+      {
+        "label": "Liste des diplômes ASU éligibles à la STEM-OPT extension",
+        "url": "https://issc.asu.edu/f-1j-1-students/employment/stem"
+      },
+      {
+        "label": "Higher Learning Commission (accréditation)",
+        "url": "https://www.hlcommission.org/"
+      },
+      {
+        "label": "Programme accéléré bachelor's + master's - Comment postuler",
+        "url": "https://acceleratedmasters.asu.edu/how-apply"
+      },
+      {
+        "label": "Calculateur de frais de scolarité",
+        "url": "https://tuition.asu.edu/cost/tuition-estimator"
+      },
+      {
+        "label": "Aide financière",
+        "url": "https://tuition.asu.edu/financial-aid"
+      },
+      {
+        "label": "Site du programme Human Systems Engineering",
+        "url": "https://poly.engineering.asu.edu"
+      },
+      {
+        "label": "Ira A. Fulton Schools of Engineering",
+        "url": "https://engineering.asu.edu/"
+      },
+      {
+        "label": "Campus Polytechnic",
+        "url": "https://campus.asu.edu/polytechnic"
+      },
+      {
+        "label": "Signaler un problème d'accessibilité",
+        "url": "https://www.asu.edu/accessibility/"
+      }
+    ],
+    "mots_cles": [
+      "master ingénierie systèmes humains",
+      "systèmes intelligents master",
+      "Arizona State University master",
+      "bourse études États-Unis",
+      "master robotique intelligence artificielle",
+      "STEM-OPT extension",
+      "master ingénierie ASU",
+      "étudier aux États-Unis"
+    ],
+    "lien_candidature": "https://admission.asu.edu/apply/international/graduate",
+    "source_url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESHSEISMS/human-systems-engineering-intelligent-systems-ms",
+    "statut": "ouvert",
+    "resume": "Le Master en Ingénierie des Systèmes Humains (Systèmes Intelligents) de l'Arizona State University forme les étudiants à concevoir des systèmes intelligents qui répondent aux besoins humains, anticipent les comportements et améliorent les capacités. Ce programme de 30 crédits, offert par la Ira A. Fulton Schools of Engineering, prépare à une carrière à l'intersection de l'intelligence artificielle, de la robotique et de l'expérience humaine. Les candidatures sont examinées en continu (rolling) et les étudiants internationaux peuvent bénéficier d'une extension STEM-OPT de 24 mois pour travailler aux États-Unis après l'obtention du diplôme.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-11T12:51:18",
+    "slug": "master-ingenierie-systemes-humains-intelligents-asu"
+  },
+  {
+    "titre": "Master en robotique et systèmes autonomes",
+    "seo_slug": "master-robotique-systemes-autonomes-asu-2026",
+    "organisation": "Arizona State University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Robotique",
+      "Intelligence artificielle",
+      "Ingénierie biomédicale",
+      "Génie électrique",
+      "Ingénierie des systèmes",
+      "Génie mécanique et aérospatial"
+    ],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [],
+    "procedure_etapes": [
+      "1. Visiter la page d'admission",
+      "2. Remplir le formulaire de candidature en ligne",
+      "3. Soumettre les documents requis"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page d'admission",
+        "url": "https://admission.asu.edu/apply/graduate/admission"
+      },
+      {
+        "label": "Détails du programme BSE en robotique et systèmes autonomes",
+        "url": "https://degrees.apps.asu.edu/bachelors/major/ASU00/ESRASBSE/robotics-and-autonomous-systems"
+      },
+      {
+        "label": "Détails du MS en robotique et systèmes autonomes (Intelligence Artificielle)",
+        "url": "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESRASAIMS/robotics-and-autonomous-systems-artificial-intelligence-ms"
+      },
+      {
+        "label": "Détails du MS en robotique et systèmes autonomes (Ingénierie Biomédicale)",
+        "url": "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESRASBEMS/robotics-and-autonomous-systems-biomedical-engineering-ms"
+      },
+      {
+        "label": "Détails du MS en robotique et systèmes autonomes (Génie Électrique)",
+        "url": "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESRASEEMS/robotics-and-autonomous-systems-electrical-engineering-ms"
+      },
+      {
+        "label": "Détails du MS en robotique et systèmes autonomes (Génie Mécanique et Aérospatial)",
+        "url": "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESRASMAEMS/robotics-and-autonomous-systems-mechanical-and-aerospace-engineering-ms"
+      },
+      {
+        "label": "Détails du PhD en robotique et systèmes autonomes (Mécatronique et Automatisation)",
+        "url": "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESRASMAPHD/robotics-and-autonomous-systems-mechatronics-and-automation-phd"
+      },
+      {
+        "label": "Détails du MS en robotique et systèmes autonomes (Ingénierie des Systèmes)",
+        "url": "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESRASSEMS/robotics-and-autonomous-systems-systems-engineering-ms"
+      }
+    ],
+    "mots_cles": [
+      "master robotique",
+      "systèmes autonomes",
+      "Arizona State University",
+      "bourse robotique",
+      "intelligence artificielle",
+      "génie électrique",
+      "ingénierie biomédicale",
+      "génie mécanique",
+      "aérospatial",
+      "ingénierie des systèmes"
+    ],
+    "lien_candidature": "https://admission.asu.edu/apply/graduate/admission",
+    "source_url": "https://ras.engineering.asu.edu/",
+    "statut": "ouvert",
+    "resume": "Le master en robotique et systèmes autonomes de l'Arizona State University offre une formation interdisciplinaire de pointe pour concevoir la prochaine génération de robots intelligents. Les étudiants acquièrent une expertise en intelligence artificielle, apprentissage automatique, contrôle adaptatif et interaction homme-machine, avec des applications dans la fabrication, les transports, l'aérospatiale, la défense et la santé. Le programme propose des concentrations en intelligence artificielle, ingénierie biomédicale, génie électrique, ingénierie des systèmes, et génie mécanique et aérospatial. Les diplômés sont préparés à poursuivre un doctorat ou à occuper des postes industriels de haut niveau en recherche, gestion de projet et innovation produit.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-11T12:54:50",
+    "slug": "master-robotique-systemes-autonomes-asu-2026"
+  },
+  {
+    "titre": "Master en Systèmes d'Énergie Propre",
+    "seo_slug": "master-energie-propre-asu-2026",
+    "organisation": "Arizona State University (Ira A. Fulton Schools of Engineering)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": null,
+    "deadline_texte": "Les candidatures sont examinées au fur et à mesure (rolling) jusqu'au début du semestre. Les étudiants internationaux doivent tenir compte des délais de visa.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Énergie propre",
+      "Ingénierie",
+      "Systèmes énergétiques"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (preuve de maîtrise requise)",
+    "documents_requis": [
+      "Demande d'admission aux études supérieures et frais de dossier",
+      "Relevés de notes officiels",
+      "CV professionnel",
+      "Deux lettres de recommandation",
+      "Déclaration écrite",
+      "Preuve de maîtrise de l'anglais"
+    ],
+    "avantages": [
+      "Programme STEM-OPT éligible : les étudiants internationaux en F1 peuvent prolonger leur expérience professionnelle aux États-Unis de 24 mois.",
+      "Accréditation par la Higher Learning Commission."
+    ],
+    "eligibilite": [
+      "Avoir obtenu un bachelor ou un master en systèmes d'énergie propre, ingénierie ou domaine connexe d'un établissement accrédité.",
+      "GPA cumulatif minimum de 3,00 (sur 4,00) dans les 60 derniers crédits du premier bachelor ou dans un programme de master applicable.",
+      "Les candidats dont la langue maternelle n'est pas l'anglais doivent fournir une preuve de maîtrise de l'anglais, quelle que soit leur résidence actuelle."
+    ],
+    "procedure_etapes": [
+      "1. Remplir la demande d'admission aux études supérieures et payer les frais de dossier.",
+      "2. Soumettre les relevés de notes officiels.",
+      "3. Fournir un CV professionnel.",
+      "4. Obtenir deux lettres de recommandation (de professeurs, managers, superviseurs ou associés professionnels).",
+      "5. Rédiger une déclaration écrite incluant une introduction, les objectifs et les raisons de poursuivre des études supérieures.",
+      "6. Fournir une preuve de maîtrise de l'anglais (si nécessaire).",
+      "7. Soumettre la candidature complète avant la date limite (rolling)."
+    ],
+    "contacts": [
+      "polygrad@asu.edu",
+      "480-727-1874"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESCESMS/clean-energy-systems-ms"
+      },
+      {
+        "label": "Conditions d'admission pour les étudiants américains",
+        "url": "https://admission.asu.edu/apply/graduate/admission"
+      },
+      {
+        "label": "Conditions d'admission pour les étudiants internationaux",
+        "url": "https://admission.asu.edu/apply/international/graduate"
+      },
+      {
+        "label": "Preuve de maîtrise de l'anglais",
+        "url": "https://admission.asu.edu/apply/international/graduate/english-proficiency"
+      },
+      {
+        "label": "Informations sur les frais de scolarité",
+        "url": "https://tuition.asu.edu/cost/tuition-estimator"
+      },
+      {
+        "label": "Aide financière",
+        "url": "https://tuition.asu.edu/financial-aid"
+      },
+      {
+        "label": "Programme accéléré bachelor+master",
+        "url": "https://acceleratedmasters.asu.edu/how-apply"
+      },
+      {
+        "label": "Liste des diplômes éligibles au STEM-OPT",
+        "url": "https://issc.asu.edu/f-1j-1-students/employment/stem"
+      },
+      {
+        "label": "Higher Learning Commission",
+        "url": "https://www.hlcommission.org/"
+      },
+      {
+        "label": "Site de l'Ira A. Fulton Schools of Engineering",
+        "url": "https://engineering.asu.edu/"
+      },
+      {
+        "label": "Campus Polytechnic",
+        "url": "https://campus.asu.edu/polytechnic"
+      },
+      {
+        "label": "Programme de licence en génie des systèmes automobiles",
+        "url": "/bachelors/major/ASU00/TSEGRASBSE/engineering-automotive-systems"
+      },
+      {
+        "label": "Programme de licence en génie des systèmes d'énergie propre",
+        "url": "/bachelors/major/ASU00/ESEGRCEBSE/engineering-clean-energy-systems"
+      },
+      {
+        "label": "Programme de licence en génie des systèmes électriques",
+        "url": "/bachelors/major/ASU00/TSEGRESBSE/engineering-electrical-systems"
+      },
+      {
+        "label": "Programme de licence en génie mécanique",
+        "url": "/bachelors/major/ASU00/TSEGRMEBSE/engineering-mechanical-engineering-systems"
+      },
+      {
+        "label": "Programme de licence en génie robotique",
+        "url": "/bachelors/major/ASU00/TSEGRRBSE/engineering-robotics"
+      },
+      {
+        "label": "Programme de licence en génie manufacturier",
+        "url": "/bachelors/major/ASU00/TSMEGRBS/manufacturing-engineering"
+      },
+      {
+        "label": "Programme de licence en robotique et systèmes autonomes",
+        "url": "/bachelors/major/ASU00/ESRASBS/robotics-and-autonomous-systems"
+      }
+    ],
+    "mots_cles": [
+      "bourse énergie propre",
+      "master énergie propre",
+      "Arizona State University",
+      "bourse ingénierie",
+      "bourse États-Unis",
+      "master ingénierie",
+      "bourse STEM",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://degrees.asu.edu/masters-phd/major/ASU00/ESCESMS/clean-energy-systems-ms",
+    "source_url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESCESMS/clean-energy-systems-ms",
+    "statut": "ouvert",
+    "resume": "Le Master of Science en Systèmes d'Énergie Propre de l'Arizona State University forme les ingénieurs de demain à relever les défis techniques et environnementaux actuels. Ce programme interdisciplinaire de 30 crédits combine cours pratiques en laboratoire et projets concrets pour concevoir des applications énergétiques propres. Les étudiants acquièrent des compétences en conception, gestion et contrôle des systèmes énergétiques, avec des débouchés dans les énergies renouvelables, les véhicules électriques et les technologies automobiles. Les candidatures sont examinées en continu, offrant une flexibilité aux étudiants internationaux.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-11T12:57:27",
+    "slug": "master-energie-propre-asu-2026"
+  },
+  {
     "titre": "Programme de bourses Coca-Cola MENA 2014 pour étudier aux États-Unis",
     "seo_slug": "bourse-coca-cola-mena-usa-2014",
     "organisation": "The Coca-Cola Company & US Department of State",
@@ -9032,6 +9731,232 @@
     "slug": "bourse-eric-bleumink-master-pays-bas-2026"
   },
   {
+    "titre": "Master of Science en informatique - Arizona State University",
+    "seo_slug": "master-informatique-asu-2026",
+    "organisation": "Arizona State University (Ira A. Fulton Schools of Engineering)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2025-12-01",
+    "deadline_texte": "1er décembre (prioritaire) pour la session d'automne; 1er août (prioritaire) pour la session de printemps",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Informatique",
+      "Génie logiciel",
+      "Intelligence artificielle",
+      "Cybersécurité",
+      "Science des données"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (preuve de compétence en anglais requise)",
+    "documents_requis": [
+      "Demande d'admission aux cycles supérieurs et frais de dossier",
+      "Relevés de notes officiels",
+      "Déclaration d'objectif (statement of purpose)",
+      "Preuve de compétence en anglais"
+    ],
+    "avantages": [
+      "Programme STEM-OPT éligible: les étudiants internationaux (F1) peuvent prolonger leur expérience professionnelle aux États-Unis de 24 mois.",
+      "Accréditation par la Higher Learning Commission."
+    ],
+    "eligibilite": [
+      "Diplôme de bachelor ou de master en informatique, génie informatique ou domaine connexe d'un établissement accrédité au niveau régional.",
+      "Moyenne cumulative minimale de 3,25 sur 4,00 dans les 60 derniers crédits du premier diplôme de bachelor ou dans un programme de master applicable.",
+      "Avoir complété deux semestres ou six crédits de calcul différentiel et intégral (équivalent à Calcul I et II).",
+      "Avoir complété un cours de mathématiques discrètes (recommandé).",
+      "Les étudiants dont la langue maternelle n'est pas l'anglais doivent fournir une preuve de compétence en anglais, indépendamment de leur résidence actuelle."
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'admission générales de l'université et les exigences spécifiques au programme.",
+      "2. Préparer tous les documents requis: demande d'admission, relevés de notes, déclaration d'objectif, preuve de compétence en anglais.",
+      "3. Soumettre la demande d'admission en ligne avant la date limite (prioritaire: 1er décembre pour l'automne, 1er août pour le printemps).",
+      "4. Payer les frais de dossier.",
+      "5. S'assurer que tous les documents sont reçus par Admission Services pour que la demande soit complète.",
+      "6. Si des cours supplémentaires sont assignés à l'admission, les compléter avec une note de 'C' ou plus dans les deux semestres suivant l'admission."
+    ],
+    "contacts": [
+      "scai.4+1@asu.edu",
+      "SCAI.Grad.Admission@asu.edu",
+      "480-965-3199",
+      "480-965-3197"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://scai.engineering.asu.edu/graduate-computer-science/"
+      },
+      {
+        "label": "Demande d'admission pour étudiants internationaux",
+        "url": "https://admission.asu.edu/apply/international/graduate"
+      },
+      {
+        "label": "Exigences de compétence en anglais",
+        "url": "https://admission.asu.edu/apply/international/graduate/english-proficiency"
+      },
+      {
+        "label": "Demande d'admission pour étudiants américains",
+        "url": "https://admission.asu.edu/apply/graduate/admission"
+      },
+      {
+        "label": "Calculateur de frais de scolarité",
+        "url": "https://tuition.asu.edu/cost/tuition-estimator"
+      },
+      {
+        "label": "Aide financière",
+        "url": "https://tuition.asu.edu/financial-aid"
+      },
+      {
+        "label": "Programme accéléré bachelor's + master's",
+        "url": "https://acceleratedmasters.asu.edu/how-apply"
+      },
+      {
+        "label": "Signaler un problème d'accessibilité",
+        "url": "https://www.asu.edu/accessibility/"
+      }
+    ],
+    "mots_cles": [
+      "bourse master informatique",
+      "Arizona State University",
+      "MS computer science",
+      "bourse études États-Unis",
+      "master informatique ASU",
+      "bourse génie logiciel",
+      "bourse intelligence artificielle",
+      "bourse cybersécurité"
+    ],
+    "lien_candidature": "https://admission.asu.edu/apply/international/graduate",
+    "source_url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESCOMSCMS/computer-science-ms",
+    "statut": "fermé",
+    "resume": "Le Master of Science en informatique de l'Arizona State University offre une formation rigoureuse axée sur la recherche en théorie, systèmes et applications. Ce programme de 30 crédits permet d'explorer des domaines de pointe comme l'intelligence artificielle, la cybersécurité, l'informatique quantique et bien d'autres. Les étudiants peuvent choisir entre un mémoire ou un projet appliqué, et bénéficient d'un environnement de recherche de classe mondiale. Les candidatures sont ouvertes avec des dates limites prioritaires le 1er décembre pour l'automne et le 1er août pour le printemps.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-11T12:52:02",
+    "slug": "master-informatique-asu-2026"
+  },
+  {
+    "titre": "Master en Production d'Énergie Moderne et Utilisation Durable",
+    "seo_slug": "master-energie-durable-asu-2026",
+    "organisation": "Arizona State University (ASU)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2025-12-31",
+    "deadline_texte": "31 décembre 2025 (date limite prioritaire pour la session d'automne)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Ingénierie",
+      "Énergie",
+      "Développement durable"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Demande d'admission aux études supérieures et frais de dossier",
+      "Relevés de notes officiels",
+      "Trois lettres de recommandation",
+      "CV professionnel",
+      "Déclaration personnelle",
+      "Preuve de maîtrise de l'anglais"
+    ],
+    "avantages": [
+      "Programme STEM-OPT éligible : les étudiants internationaux en F1 peuvent prolonger leur expérience professionnelle aux États-Unis de 24 mois.",
+      "Accréditation par la Higher Learning Commission."
+    ],
+    "eligibilite": [
+      "Être titulaire d'une licence ou d'un master dans n'importe quel domaine de l'ingénierie, des sciences physiques ou domaine connexe d'un établissement accrédité au niveau régional.",
+      "Avoir une moyenne cumulative minimale de 3,00 (sur une échelle de 4,00) lors des 60 derniers crédits du premier programme de licence ou une moyenne cumulative minimale de 3,00 dans un programme de master applicable.",
+      "Les candidats dont la langue maternelle n'est pas l'anglais doivent fournir une preuve de maîtrise de l'anglais : score minimum de 4 à l'Internet-based TOEFL (iBT) ou un score de 80 si passé avant le 21 janvier 2026 dans un centre de test, 6,5 à l'IELTS, 60 au Pearson Test of English (PTE), ou 105 au Duolingo English Test."
+    ],
+    "procedure_etapes": [
+      "1. Remplir la demande d'admission aux études supérieures et payer les frais de dossier.",
+      "2. Soumettre les relevés de notes officiels.",
+      "3. Fournir trois lettres de recommandation.",
+      "4. Soumettre un CV professionnel.",
+      "5. Rédiger une déclaration personnelle.",
+      "6. Fournir une preuve de maîtrise de l'anglais (TOEFL, IELTS, PTE ou Duolingo).",
+      "7. Respecter la date limite de candidature (prioritaire : 31 décembre pour l'automne, 1er août pour le printemps)."
+    ],
+    "contacts": [
+      "semtegrad@asu.edu",
+      "semte4+1@asu.edu",
+      "480-965-2335"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESMEPSUMS/modern-energy-production-and-sustainable-use-ms/"
+      },
+      {
+        "label": "Demande d'admission pour étudiants américains",
+        "url": "https://admission.asu.edu/apply/graduate/admission"
+      },
+      {
+        "label": "Demande d'admission pour étudiants internationaux",
+        "url": "https://admission.asu.edu/apply/international/graduate"
+      },
+      {
+        "label": "Exigences de maîtrise de l'anglais",
+        "url": "https://admission.asu.edu/apply/international/graduate/english-proficiency"
+      },
+      {
+        "label": "Informations sur les programmes accélérés",
+        "url": "https://acceleratedmasters.asu.edu/how-apply"
+      },
+      {
+        "label": "Liste des diplômes ASU éligibles à la prolongation STEM-OPT",
+        "url": "https://issc.asu.edu/f-1j-1-students/employment/stem"
+      },
+      {
+        "label": "Higher Learning Commission",
+        "url": "https://www.hlcommission.org/"
+      },
+      {
+        "label": "ASU Online",
+        "url": "https://asuonline.asu.edu/"
+      },
+      {
+        "label": "Calculateur de frais de scolarité",
+        "url": "https://tuition.asu.edu/cost/tuition-estimator"
+      },
+      {
+        "label": "Aide financière",
+        "url": "https://tuition.asu.edu/financial-aid"
+      },
+      {
+        "label": "Signaler un problème d'accessibilité",
+        "url": "https://www.asu.edu/accessibility/"
+      }
+    ],
+    "mots_cles": [
+      "bourse énergie durable",
+      "master énergie renouvelable",
+      "Arizona State University",
+      "bourse études supérieures",
+      "ingénierie énergie",
+      "bourse STEM",
+      "bourse États-Unis",
+      "master ingénierie",
+      "bourse 2026",
+      "production d'énergie"
+    ],
+    "lien_candidature": "https://degrees.asu.edu/masters-phd/major/ASU00/ESMEPSUMS/modern-energy-production-and-sustainable-use-ms/",
+    "source_url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESMEPSUMS/modern-energy-production-and-sustainable-use-ms/",
+    "statut": "fermé",
+    "resume": "Le Master en Production d'Énergie Moderne et Utilisation Durable de l'Arizona State University forme les ingénieurs de demain à relever les défis énergétiques. Ce programme interdisciplinaire de 30 crédits allie théorie et pratique pour maîtriser la création, le stockage et l'utilisation des énergies renouvelables. Les étudiants bénéficient d'un environnement de recherche de pointe et d'une éligibilité à la prolongation STEM-OPT pour travailler aux États-Unis. Une opportunité unique pour contribuer à un avenir durable.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-11T12:58:09",
+    "slug": "master-energie-durable-asu-2026"
+  },
+  {
     "titre": "Bourses d'études de premier cycle de l'Université de Floride",
     "seo_slug": "bourses-premier-cycle-universite-floride-2026",
     "organisation": "University of Florida",
@@ -9140,6 +10065,119 @@
     "adresse": "Office of Admissions Division of Enrollment Management 201 Criser Hall - PO Box 114000 Gainesville, FL 32611-4000 352-392-1365  Instagram icon InsThreadstagram icon",
     "extrait_le": "2026-06-19T17:03:11",
     "slug": "bourses-premier-cycle-universite-floride-2026"
+  },
+  {
+    "titre": "Master en génie civil, environnemental et durable",
+    "seo_slug": "master-genie-civil-environnemental-durable-asu-2026",
+    "organisation": "Arizona State University (Ira A. Fulton Schools of Engineering)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2026-03-01",
+    "deadline_texte": "1er mars 2026 (date limite prioritaire pour la session d'automne)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Génie civil",
+      "Génie environnemental",
+      "Génie durable"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de demande d'admission aux études supérieures",
+      "Frais de dossier",
+      "Relevés de notes officiels",
+      "Trois lettres de recommandation",
+      "Preuve de maîtrise de l'anglais",
+      "CV (recommandé)",
+      "Déclaration personnelle (recommandée)"
+    ],
+    "avantages": [
+      "Programme STEM-OPT éligible : les étudiants internationaux en F-1 peuvent prolonger leur expérience professionnelle aux États-Unis de 24 mois.",
+      "Possibilité de stage, de rejoindre une équipe de recherche ou de travailler comme assistant d'enseignement ou de recherche.",
+      "Accès à des salons de l'emploi et à des rencontres avec des professionnels de l'industrie.",
+      "Participation à plus de 100 organisations étudiantes axées sur l'ingénierie."
+    ],
+    "eligibilite": [
+      "Avoir obtenu un bachelor's ou un master's avec une spécialisation en ingénierie ou dans un domaine étroitement lié, délivré par un établissement accrédité au niveau régional.",
+      "Avoir une moyenne cumulative minimale de 3,00 sur 4,00 dans les 60 derniers crédits du premier programme de bachelor's ou dans un programme de master applicable.",
+      "Les candidats ayant une moyenne inférieure peuvent être admis à titre provisoire à la discrétion du comité d'admission.",
+      "Les candidats dont la langue maternelle n'est pas l'anglais doivent fournir une preuve de maîtrise de l'anglais, quelle que soit leur résidence actuelle.",
+      "Pour ceux qui cherchent un poste d'assistant d'enseignement, démontrer une maîtrise de l'anglais parlé avec un score de 55 ou plus au Speaking Proficiency English Assessment Kit ou un score de 26 à la partie orale du TOEFL.",
+      "Les candidats dont le diplôme de bachelor's n'est pas en génie civil doivent suivre des cours de premier cycle appropriés pour établir une base de connaissances dans la discipline."
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'admission générales de l'université et les exigences spécifiques au programme.",
+      "2. Préparer tous les documents requis : formulaire de demande, frais de dossier, relevés de notes officiels, trois lettres de recommandation, preuve de maîtrise de l'anglais, CV et déclaration personnelle (recommandés).",
+      "3. Soumettre la demande d'admission aux études supérieures avant la date limite prioritaire (1er mars pour l'automne, 1er octobre pour le printemps).",
+      "4. S'assurer que tous les documents sont reçus par Admission Services pour que la demande soit complète.",
+      "5. Les candidatures soumises après la date limite prioritaire seront examinées dans l'ordre de réception et en fonction des places disponibles."
+    ],
+    "contacts": [
+      "sebe.advising@asu.edu",
+      "480-965-0595",
+      "480-965-1202"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://ssebe.engineering.asu.edu/graduate/civil/"
+      },
+      {
+        "label": "Demande d'admission pour les étudiants internationaux",
+        "url": "https://admission.asu.edu/apply/international/graduate"
+      },
+      {
+        "label": "Exigences de maîtrise de l'anglais",
+        "url": "https://admission.asu.edu/apply/international/graduate/english-proficiency"
+      },
+      {
+        "label": "Demande d'admission pour les étudiants américains",
+        "url": "https://admission.asu.edu/apply/graduate/admission"
+      },
+      {
+        "label": "Liste des diplômes ASU éligibles à la prolongation STEM-OPT",
+        "url": "https://issc.asu.edu/f-1j-1-students/employment/stem"
+      },
+      {
+        "label": "Comment postuler au programme accéléré bachelor's + master's",
+        "url": "https://acceleratedmasters.asu.edu/how-apply"
+      },
+      {
+        "label": "Estimateur de frais de scolarité",
+        "url": "https://tuition.asu.edu/cost/tuition-estimator"
+      },
+      {
+        "label": "Aide financière",
+        "url": "https://tuition.asu.edu/financial-aid"
+      },
+      {
+        "label": "Higher Learning Commission (accréditation)",
+        "url": "https://www.hlcommission.org/"
+      }
+    ],
+    "mots_cles": [
+      "bourse master génie civil",
+      "bourse Arizona State University",
+      "bourse études supérieures ingénierie",
+      "bourse génie environnemental",
+      "bourse génie durable",
+      "bourse États-Unis master",
+      "bourse STEM-OPT",
+      "bourse internationale ingénierie"
+    ],
+    "lien_candidature": "https://admission.asu.edu/apply/international/graduate",
+    "source_url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESCIVILMS/civil-environmental-and-sustainable-engineering-ms",
+    "statut": "fermé",
+    "resume": "Le Master en génie civil, environnemental et durable de l'Arizona State University forme les ingénieurs de demain à concevoir des systèmes durables et des infrastructures résilientes. Ce programme de 30 crédits, proposé sur le campus de Tempe, permet de se spécialiser en environnement, géotechnique, hydrosystèmes, structures, développement durable ou transport. Les étudiants internationaux en visa F-1 peuvent bénéficier d'une extension STEM-OPT de 24 mois pour travailler aux États-Unis après l'obtention du diplôme. Les candidatures sont évaluées sur dossier, avec des dates limites prioritaires au 1er mars pour l'automne et au 1er octobre pour le printemps.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-11T12:56:44",
+    "slug": "master-genie-civil-environnemental-durable-asu-2026"
   },
   {
     "titre": "Bourse de formation à la recherche (RTP) / Bourse de recherche postdoctorale de l'Université Deakin (DUPR)",
@@ -14289,6 +15327,116 @@
     "slug": "conseil-jeunes-co-createurs-africains-2026"
   },
   {
+    "titre": "Master en science des données, analytique et ingénierie (informatique et analytique décisionnelle)",
+    "seo_slug": "master-data-science-analytics-engineering-asu-2026",
+    "organisation": "Arizona State University (Ira A. Fulton Schools of Engineering)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2026-07-31",
+    "deadline_texte": "31 juillet 2026 (date limite prioritaire pour le semestre de printemps)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Science des données",
+      "Analytique",
+      "Ingénierie",
+      "Informatique",
+      "Génie industriel"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (preuve de compétence requise)",
+    "documents_requis": [
+      "Demande d'admission aux cycles supérieurs et frais de dossier",
+      "Relevés de notes officiels",
+      "Déclaration écrite",
+      "CV professionnel",
+      "Preuve de compétence en anglais (TOEFL iBT, IELTS ou Duolingo)"
+    ],
+    "avantages": [
+      "Programme éligible à l'extension STEM-OPT : les étudiants internationaux en F-1 peuvent prolonger leur expérience professionnelle aux États-Unis de 24 mois.",
+      "Accréditation par la Higher Learning Commission."
+    ],
+    "eligibilite": [
+      "Diplôme de bachelor ou de master dans un domaine lié à l'informatique, l'ingénierie, les mathématiques, les statistiques, la recherche opérationnelle, les technologies de l'information ou un domaine connexe d'un établissement accrédité au niveau régional.",
+      "Moyenne cumulative minimale de 3,00 sur 4,00 dans les 60 derniers crédits du premier programme de bachelor ou dans un programme de master applicable.",
+      "Avoir complété trois semestres ou neuf crédits de calcul différentiel et intégral I, II et III (recommandé : un cours de mathématiques discrètes).",
+      "Les étudiants dont la langue maternelle n'est pas l'anglais doivent fournir une preuve de compétence en anglais : score minimum de 4 à l'Internet-based TOEFL (iBT) ou 80 si passé avant le 21 janvier 2026 dans un centre de test ; 6,5 à l'IELTS ; ou 105 au Duolingo English Test.",
+      "Les étudiants admis avec des exigences supplémentaires doivent compléter ces cours avec une note de 'B' ou plus dans les deux semestres suivant l'entrée dans le programme."
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'admission générales de l'université et les conditions spécifiques au programme.",
+      "2. Préparer les documents requis : demande d'admission, relevés de notes, déclaration écrite, CV, preuve de compétence en anglais.",
+      "3. Soumettre la demande d'admission en ligne avant la date limite (prioritaire : 31 juillet pour le printemps, 31 décembre pour l'automne).",
+      "4. Payer les frais de dossier.",
+      "5. Suivre l'état de la demande et fournir tout document supplémentaire si nécessaire."
+    ],
+    "contacts": [
+      "scai.grad.admission@asu.edu",
+      "SCAI.4+1@asu.edu",
+      "480-965-3199"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://scai.engineering.asu.edu/graduate-data-science-analytics-and-engineering/"
+      },
+      {
+        "label": "Demande d'admission",
+        "url": "https://admission.asu.edu/apply/graduate/admission"
+      },
+      {
+        "label": "Informations pour les candidats internationaux",
+        "url": "https://admission.asu.edu/apply/international/graduate"
+      },
+      {
+        "label": "Preuve de compétence en anglais",
+        "url": "https://admission.asu.edu/apply/international/graduate/english-proficiency"
+      },
+      {
+        "label": "Liste des diplômes ASU éligibles à l'extension STEM-OPT",
+        "url": "https://issc.asu.edu/f-1j-1-students/employment/stem"
+      },
+      {
+        "label": "Comment postuler au programme accéléré bachelor's + master's",
+        "url": "https://acceleratedmasters.asu.edu/how-apply"
+      },
+      {
+        "label": "Estimateur de frais de scolarité",
+        "url": "https://tuition.asu.edu/cost/tuition-estimator"
+      },
+      {
+        "label": "Aide financière",
+        "url": "https://tuition.asu.edu/financial-aid"
+      },
+      {
+        "label": "Higher Learning Commission (accréditation)",
+        "url": "https://www.hlcommission.org/"
+      }
+    ],
+    "mots_cles": [
+      "bourse master data science",
+      "bourse études États-Unis",
+      "master science des données ASU",
+      "bourse ingénierie informatique",
+      "bourse analytique décisionnelle",
+      "bourse STEM-OPT",
+      "bourse master Arizona State University",
+      "bourse études supérieures USA"
+    ],
+    "lien_candidature": "https://admission.asu.edu/apply/graduate/admission",
+    "source_url": "https://degrees.asu.edu/masters-phd/major/ASU00/ESDSECDAMS/data-science-analytics-and-engineering-computing-and-decision-analytics-ms",
+    "statut": "fermé",
+    "resume": "Le Master en science des données, analytique et ingénierie (concentration informatique et analytique décisionnelle) de l'Arizona State University forme les étudiants à maîtriser les outils de la science des données appliqués à l'ingénierie. Ce programme de 30 crédits, proposé par la Ira A. Fulton Schools of Engineering, combine des cours de statistiques, apprentissage automatique, exploration de données et ingénierie industrielle. Les étudiants internationaux en visa F-1 peuvent bénéficier d'une extension STEM-OPT de 24 mois pour travailler aux États-Unis après l'obtention du diplôme. Les candidatures sont ouvertes avec des dates limites prioritaires le 31 juillet pour le semestre de printemps et le 31 décembre pour l'automne.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-11T12:52:58",
+    "slug": "master-data-science-analytics-engineering-asu-2026"
+  },
+  {
     "titre": "Programme Présidentiel de Bourses d'Études dans le Secteur Minier du Mali (PPBEM)",
     "seo_slug": "bourse-presidentielle-mali-secteur-minier-2026",
     "organisation": "Programme Présidentiel de Bourses d'Études dans le Secteur Minier du Mali (PPBEM)",
@@ -16546,6 +17694,97 @@
     "imageUrl": "/docs/ISTA-Fellow-Programme-postdoctoral.webp",
     "extrait_le": "2026-07-06T03:36:11",
     "slug": "bourse-ista-fellow-postdoc-autriche-2026"
+  },
+  {
+    "titre": "Appel à propositions 2026 de la Facilité africaine de l'eau pour renforcer le pipeline d'investissement dans l'eau et l'assainissement en Afrique",
+    "seo_slug": "appel-propositions-fae-2026-eau-assainissement-afrique",
+    "organisation": "African Water Facility (AWF)",
+    "montant": 1000000,
+    "devise": "EUR",
+    "type_financement": "subvention",
+    "deadline": "2026-09-10",
+    "deadline_texte": "10 septembre 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Eau",
+      "Assainissement",
+      "Gouvernance",
+      "Financement innovant",
+      "Changement climatique"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français et Anglais",
+    "documents_requis": [
+      "Note conceptuelle",
+      "Formulaire de candidature"
+    ],
+    "avantages": [
+      "Subvention jusqu'à 1 million d'euros par projet"
+    ],
+    "eligibilite": [
+      "Pays membres régionaux",
+      "Institutions publiques",
+      "Services publics",
+      "Organisations de bassin"
+    ],
+    "procedure_etapes": [
+      "Télécharger l'appel à propositions complet",
+      "Télécharger le modèle de note conceptuelle",
+      "Préparer la note conceptuelle",
+      "Soumettre la note conceptuelle par courriel avant la date limite"
+    ],
+    "contacts": [
+      "africanwaterfacility@afdb.org",
+      "awf@afdb.org",
+      "s.blazyk@afdb.org",
+      "h.njiwa@afdb.org",
+      "d.arjoon@afdb.org",
+      "+225 20 26 53 09"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Appel à propositions complet (PDF)",
+        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-07/awf-2026-call-for-proposal-announcement-july-2026_3.pdf"
+      },
+      {
+        "label": "Modèle de note conceptuelle (DOCX)",
+        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-07/application-template-for-project-concepts---awf-cfp-2026--july-2026_4.docx"
+      },
+      {
+        "label": "FAQ (PDF)",
+        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-08/faq-2026-awf-call-for-proposal-card_0.pdf"
+      },
+      {
+        "label": "Appel à propositions en français (PDF)",
+        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-07/awf_2026_appel_a_propositions_annonce_fr_0.pdf"
+      },
+      {
+        "label": "Modèle de note conceptuelle en français (DOCX)",
+        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-07/modele_note_conceptuelle_projet_awf_cfp_2026_fr_0.docx"
+      },
+      {
+        "label": "FAQ en français (PDF)",
+        "url": "https://www.africanwaterfacility.org/sites/default/files/2026-08/faq-appel-a-propositions-fae-2026_0.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse eau afrique",
+      "subvention assainissement",
+      "appel à propositions AWF",
+      "financement projets eau",
+      "investissement eau Afrique"
+    ],
+    "lien_candidature": "https://www.africanwaterfacility.org/en/news/awf-launches-2026-call-proposals-strengthen-africas-water-and-sanitation-investment-pipeline",
+    "source_url": "https://www.africanwaterfacility.org/en/news/awf-launches-2026-call-proposals-strengthen-africas-water-and-sanitation-investment-pipeline?fbclid=IwY2xjawTuhgJwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeQMoBNXgr0Xh_0bUHoe-TfxobqMGwMMtVkiXwKZ1jy7MGnXvidvOB6E6pVsY_aem_5cmV4blRDXvvjcpVyDWpaQ",
+    "statut": "fermé",
+    "resume": "La Facilité africaine de l'eau (AWF) lance son appel à propositions 2026 pour financer des projets d'investissement dans les secteurs de l'eau et de l'assainissement en Afrique. Avec une contribution pouvant atteindre 1 million d'euros par projet, cet appel vise à renforcer le pipeline de projets bancables et à catalyser le financement en aval. Les candidats éligibles incluent les pays membres régionaux, les institutions publiques, les services publics et les organisations de bassin. Les propositions doivent être soumises avant le 10 septembre 2026.",
+    "adresse": "African Water Facility  African Development Bank  Immeuble du Centre de commerce International d’Abidjan  CCIA Avenue Jean-Paul II - Abidjan 01 BP 1387",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T12:04:33",
+    "slug": "appel-propositions-fae-2026-eau-assainissement-afrique"
   },
   {
     "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",

@@ -1,233 +1,5 @@
 [
   {
-    "titre": "Appel à candidatures 2026/27 – Formations diplômantes internationales à distance",
-    "seo_slug": "formations-diplomantes-distance-auf-2026",
-    "organisation": "Agence Universitaire de la Francophonie (AUF)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "prise en charge partielle des frais d'inscription",
-    "deadline": "2026-09-14",
-    "deadline_texte": "14 septembre 2026 (pour formations débutant en janvier/février 2027) ; 9 juin 2026 (pour formations débutant en septembre/octobre 2026)",
-    "niveau_etudes": [
-      "Licence",
-      "Master",
-      "Doctorat"
-    ],
-    "domaines": [
-      "Tous domaines"
-    ],
-    "pays_eligibles": [
-      "Pays francophones"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Français",
-    "documents_requis": [],
-    "avantages": [
-      "Allocation de mobilité virtuelle internationale (prise en charge partielle des frais d'inscription)",
-      "Accompagnement depuis la candidature jusqu'au diplôme",
-      "Accès gratuit aux implantations de l'AUF"
-    ],
-    "eligibilite": [
-      "Être étudiant francophone",
-      "Être méritant ou avoir des ressources limitées"
-    ],
-    "procedure_etapes": [
-      "1. Consulter le catalogue des formations : https://l.auf.org/FOAD-FD",
-      "2. Postuler avant la date de clôture correspondant à la formation choisie"
-    ],
-    "contacts": [
-      "foad@auf.org"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Catalogue des formations FOAD",
-        "url": "https://l.auf.org/FOAD-FD"
-      }
-    ],
-    "mots_cles": [
-      "bourse",
-      "formation à distance",
-      "AUF",
-      "FOAD",
-      "diplôme universitaire",
-      "francophonie",
-      "2026"
-    ],
-    "lien_candidature": "https://l.auf.org/FOAD-FD",
-    "source_url": "https://appels-propositions.auf.org/appel-a-candidatures-2026-27-formations-diplomantes-internationales-a-distance",
-    "statut": "ouvert",
-    "resume": "L'AUF propose plus de 150 formations diplômantes à distance (licence à doctorat) pour les étudiants francophones. Les candidats méritants ou à ressources limitées peuvent bénéficier d'une prise en charge partielle des frais d'inscription et d'un accompagnement complet. Les candidatures sont ouvertes jusqu'au 14 septembre 2026 selon la date de début de formation.",
-    "extrait_le": "2026-06-16T03:59:23",
-    "slug": "formations-diplomantes-distance-auf-2026"
-  },
-  {
-    "titre": "Bourses de fin de thèse au Département Droit et Anthropologie",
-    "seo_slug": "bourse-fin-these-anthropologie-max-planck-2027",
-    "organisation": "Max Planck Institute for Social Anthropology",
-    "montant": null,
-    "devise": "EUR",
-    "type_financement": "bourse de séjour",
-    "deadline": "2026-09-15",
-    "deadline_texte": "15 septembre 2026",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Anthropologie sociale",
-      "Droit et anthropologie"
-    ],
-    "pays_eligibles": [
-      "Tous pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Lettre de motivation",
-      "Curriculum vitae",
-      "Échantillon d'écriture (chapitre de la thèse)",
-      "Résumé de la thèse (1-2 pages)",
-      "Photocopies des diplômes et relevés de notes",
-      "Lettre de recommandation du directeur de thèse"
-    ],
-    "avantages": [
-      "Allocation mensuelle non imposable",
-      "Exonération de cotisations sociales",
-      "Accès aux ressources de l'institut",
-      "Participation aux activités du département"
-    ],
-    "eligibilite": [
-      "Doctorants en phase finale de rédaction de thèse",
-      "Sujet de thèse pertinent pour le programme de recherche du département",
-      "Priorité aux doctorants en anthropologie",
-      "Accord préalable entre le directeur du département et le superviseur principal"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier l'éligibilité et la pertinence du sujet",
-      "2. Contacter le directeur du département pour accord préalable",
-      "3. Préparer les documents requis",
-      "4. Demander la lettre de recommandation au superviseur (envoyée directement à marencakova@eth.mpg.de)",
-      "5. Soumettre le dossier en ligne avant le 15 septembre 2026"
-    ],
-    "contacts": [
-      "marencakova@eth.mpg.de",
-      "klevenow@eth.mpg.de"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Rapport 2020-2022 de l'institut",
-        "url": "https://www.eth.mpg.de/6364624/2020-2022"
-      },
-      {
-        "label": "Site web de l'institut",
-        "url": "http://www.eth.mpg.de"
-      },
-      {
-        "label": "Formulaire de candidature en ligne",
-        "url": "https://recruitingapp-5034.de.umantis.com/Vacancies/527/Application/New/1%3Flang=ger"
-      },
-      {
-        "label": "Postuler maintenant",
-        "url": "https://recruitingapp-5034.de.umantis.com/Vacancies/527/Application/CheckLogin/1?lang=ger"
-      }
-    ],
-    "mots_cles": [
-      "bourse doctorat",
-      "anthropologie",
-      "Max Planck",
-      "fin de thèse",
-      "Allemagne",
-      "bourse séjour",
-      "rédaction thèse"
-    ],
-    "lien_candidature": "https://recruitingapp-5034.de.umantis.com/Vacancies/527/Application/New/1%3Flang=ger",
-    "source_url": "https://recruitingapp-5034.de.umantis.com/Vacancies/527/Description/1?fbclid=IwY2xjawUBuEBwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMXdMUkJSRGNYUTh2T25PUFBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe-qFOv8BPYDCmB6cRLrSFcVaWgEfhKGM7zSvf-FFuEZfmHDpjZzsbWhMB6qU_aem_MMQlZVdUvsJ_l40oVNk6_g",
-    "statut": "ouvert",
-    "resume": "Le Département Droit et Anthropologie de l'Institut Max Planck d'anthropologie sociale à Halle propose des bourses de fin de thèse pour permettre aux doctorants en phase finale de rédaction de passer jusqu'à 4 mois à l'institut. Les candidats retenus bénéficieront d'une allocation mensuelle non imposable et d'un environnement de recherche stimulant. Les candidatures sont ouvertes jusqu'au 15 septembre 2026 pour des séjours au printemps ou à l'automne 2027. Cette opportunité s'adresse principalement aux doctorants en anthropologie dont le sujet est en lien avec le programme de recherche du département.",
-    "imageUrl": null,
-    "extrait_le": "2026-08-31T01:37:33",
-    "slug": "bourse-fin-these-anthropologie-max-planck-2027"
-  },
-  {
-    "titre": "Professionnel Diplômé (Approches Intégrées)",
-    "seo_slug": "bourse-unidir-geneve-2026",
-    "organisation": "Institut des Nations Unies pour la Recherche sur le Désarmement (UNIDIR)",
-    "montant": 1500,
-    "devise": "USD",
-    "type_financement": "stage rémunéré",
-    "deadline": "2026-09-16",
-    "deadline_texte": "16 septembre 2026 à minuit, heure de Genève",
-    "niveau_etudes": [
-      "Master",
-      "Doctorat"
-    ],
-    "domaines": [
-      "Relations internationales",
-      "Science politique",
-      "Droit international",
-      "Études de genre",
-      "Désarmement",
-      "Sécurité"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais (courant)",
-    "documents_requis": [
-      "Lettre de motivation",
-      "Profil Personnel Inspira (PDF)",
-      "Réponses aux questions de sélection"
-    ],
-    "avantages": [
-      "Indemnité mensuelle de 1500 USD",
-      "Expérience professionnelle à Genève"
-    ],
-    "eligibilite": [
-      "Être inscrit dans un programme de troisième cycle (master ou équivalent) ou avoir obtenu un diplôme de troisième cycle dans l'année précédant le début du programme",
-      "Maîtrise de l'anglais (oral et écrit)",
-      "Compétences en informatique (Microsoft Office, Canva, InDesign)",
-      "Intérêt pour le travail des Nations Unies",
-      "Capacité à interagir avec des personnes de cultures différentes"
-    ],
-    "procedure_etapes": [
-      "1. Préparer une lettre de motivation.",
-      "2. Créer un profil Inspira et télécharger le PDF du Personal History Profile (PHP).",
-      "3. Rédiger des réponses brèves (250 caractères maximum chacune) aux questions de sélection.",
-      "4. Envoyer les documents en pièces jointes PDF à unidir.recruitment@un.org, en indiquant en objet 'UNIDIR GPP – IntApp (Geneva)'.",
-      "5. S'assurer que le dossier est complet avant la date limite."
-    ],
-    "contacts": [
-      "unidir.recruitment@un.org"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Programme Approches Intégrées – Genre et Désarmement",
-        "url": "https://unidir.org/programme/integrated-approaches/"
-      },
-      {
-        "label": "Guide Inspira",
-        "url": "https://inspira.un.org/"
-      }
-    ],
-    "mots_cles": [
-      "bourse UNIDIR",
-      "stage Genève",
-      "désarmement",
-      "genre",
-      "jeunesse",
-      "relations internationales",
-      "master",
-      "2026"
-    ],
-    "lien_candidature": "https://unidir.org/job/graduate-professional-integrated-approaches-260902/",
-    "source_url": "https://unidir.org/job/graduate-professional-integrated-approaches-260902/",
-    "statut": "ouvert",
-    "resume": "L'Institut des Nations Unies pour la Recherche sur le Désarmement (UNIDIR) recherche un professionnel diplômé pour son programme Approches Intégrées – Genre et Désarmement à Genève. Ce stage de 6 mois, renouvelable, offre une indemnité mensuelle de 1500 USD. Les candidats doivent être inscrits dans un programme de troisième cycle ou avoir obtenu leur diplôme dans l'année. Les candidatures sont à envoyer avant le 16 septembre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-08T10:27:05",
-    "slug": "bourse-unidir-geneve-2026"
-  },
-  {
     "titre": "Stage au Département des Technologies de l'Information (DIT) au Fonds Vert pour le Climat (GCF)",
     "seo_slug": "stage-gcf-it-incheon-2026",
     "organisation": "Green Climate Fund (GCF)",
@@ -301,6 +73,94 @@
     "imageUrl": null,
     "extrait_le": "2026-09-08T10:18:22",
     "slug": "stage-gcf-it-incheon-2026"
+  },
+  {
+    "titre": "Bourse de recherche doctorale Meta",
+    "seo_slug": "bourse-meta-phd-2026",
+    "organisation": "Meta Research",
+    "montant": 42000,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-09-20",
+    "deadline_texte": "20 septembre 2026 (date limite de candidature). Les lettres de recommandation doivent être soumises avant le 6 octobre 2026.",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Informatique",
+      "Intelligence artificielle",
+      "Réalité augmentée/virtuelle",
+      "Interaction homme-machine",
+      "Politique technologique",
+      "Systèmes distribués",
+      "Réseaux",
+      "Graphisme",
+      "Bases de données",
+      "Langages de programmation",
+      "Audio",
+      "Batteries",
+      "Sans fil"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Deux lettres de recommandation (dont une de votre directeur de thèse)",
+      "Relevés de notes",
+      "CV",
+      "Déclaration de recherche"
+    ],
+    "avantages": [
+      "Frais de scolarité et frais payés pendant deux ans",
+      "Bourse annuelle de 42 000 $ pour couvrir les frais de subsistance et de voyage aux conférences",
+      "Visite payée au siège de Meta pour le sommet annuel des boursiers",
+      "Diverses opportunités d'engagement avec les chercheurs de Meta"
+    ],
+    "eligibilite": [
+      "Être inscrit en doctorat (toute année)",
+      "La recherche doit être alignée avec l'un des domaines de recherche applicables",
+      "Les candidats de divers horizons sont encouragés à postuler, en particulier ceux issus de groupes minoritaires traditionnellement sous-représentés"
+    ],
+    "procedure_etapes": [
+      "Lire et remplir soigneusement le formulaire de candidature",
+      "Sélectionner le domaine de recherche pertinent le plus aligné avec votre recherche",
+      "Marquer la candidature comme complète une fois remplie",
+      "Demander deux lettres de recommandation (dont une de votre directeur de thèse)",
+      "Soumettre les adresses e-mail des recommandataires dans le formulaire de demande de recommandation et marquer comme complet",
+      "Cliquer sur 'Soumettre' une fois toutes les tâches marquées comme complètes"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse",
+        "url": "https://research.facebook.com/fellowship/"
+      },
+      {
+        "label": "FAQ de la bourse Meta",
+        "url": "https://research.facebook.com/fellowship/#faqs"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat",
+      "bourse Meta",
+      "bourse recherche",
+      "bourse informatique",
+      "bourse intelligence artificielle",
+      "bourse AR/VR",
+      "bourse interaction homme-machine",
+      "bourse politique technologique",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://research.facebook.com/fellowship/",
+    "source_url": "https://metaresearchphdfellowship.smapply.io/",
+    "statut": "ouvert",
+    "resume": "La bourse de recherche doctorale Meta est ouverte aux étudiants en doctorat de toute année, avec un fort encouragement pour les candidats issus de groupes sous-représentés. Les lauréats bénéficient de deux ans de frais de scolarité payés, d'une allocation annuelle de 42 000 $, d'une visite au siège de Meta et d'opportunités de collaboration avec les chercheurs de Meta. Les candidatures sont évaluées sur la base de la déclaration de recherche, de l'impact de la recherche et des lettres de recommandation. La date limite de candidature est le 20 septembre 2026, et les lettres de recommandation doivent être soumises avant le 6 octobre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-14T00:55:30",
+    "slug": "bourse-meta-phd-2026"
   },
   {
     "titre": "Doctorat sous supervision binationale / Cotutelle • DAAD",
@@ -2228,6 +2088,122 @@
     "imageUrl": null,
     "extrait_le": "2026-09-09T09:44:48",
     "slug": "bourses-institut-doha-etudes-superieures"
+  },
+  {
+    "titre": "Master MITRA - Programme de Master en Études Migratoires Internationales",
+    "seo_slug": "bourse-mitra-master-migration-2027",
+    "organisation": "Université de Lille (consortium MITRA)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "Non spécifié",
+    "deadline": "2027-01-17",
+    "deadline_texte": "17 janvier 2027 (date de clôture de la campagne de candidature pour la cohorte 2027-2029)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Sciences sociales",
+      "Études migratoires",
+      "Politiques publiques",
+      "Droit",
+      "Langues étrangères",
+      "Humanités"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français et Anglais (niveau B2 du CECRL dans les deux langues)",
+    "documents_requis": [],
+    "avantages": [
+      "Diplôme de master du consortium",
+      "Diplômes des universités partenaires",
+      "Programme bilingue (français et anglais)",
+      "Alternance entre lieux d'études en Europe et hors Europe",
+      "Alternance entre apprentissage académique et travail de terrain",
+      "Possibilité de poursuivre des études doctorales",
+      "Formation de chercheurs, analystes de politiques publiques et praticiens de terrain",
+      "Durée du programme : vingt-quatre mois",
+      "Selon la spécialisation de l'étudiant, le consortium délivre conjointement deux ou trois diplômes de master à la fin du programme"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un diplôme en sciences sociales, droit, langues étrangères ou humanités (180 ECTS)",
+      "Des exceptions sont possibles pour les étudiants d'autres disciplines ayant une expérience professionnelle",
+      "Maîtrise du français et de l'anglais au niveau B2 (CECRL)"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le site web pour toutes les informations sur la procédure de candidature",
+      "2. Se rendre dans l'onglet 'Candidature et admission', section 'Admission et sélection'",
+      "3. Soumettre la candidature pendant la période de recrutement (du 16 octobre 2026 au 17 janvier 2027)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme MITRA",
+        "url": "https://www.master-mitra.eu/en/"
+      },
+      {
+        "label": "Université de Lille",
+        "url": "https://www.univ-lille.fr"
+      },
+      {
+        "label": "University College Cork",
+        "url": "https://www.ucc.ie/en/"
+      },
+      {
+        "label": "Université Fédérale de Rio de Janeiro",
+        "url": "https://ufrj.br/fr/"
+      },
+      {
+        "label": "Université Libre de Bruxelles",
+        "url": "https://www.ulb.be/"
+      },
+      {
+        "label": "Université Károli Gáspár de l'Église Réformée",
+        "url": "https://english.kre.hu/"
+      },
+      {
+        "label": "Université de l'Égée",
+        "url": "https://www.aegean.edu/index.html"
+      },
+      {
+        "label": "Université Babeș-Bolyai",
+        "url": "https://www.ubbcluj.ro/en/"
+      },
+      {
+        "label": "Université de Grenade",
+        "url": "https://www.ugr.es/en/"
+      },
+      {
+        "label": "Université Galatasaray",
+        "url": "https://gsu.edu.tr/fr"
+      },
+      {
+        "label": "Université de Wrocław",
+        "url": "https://uwr.edu.pl/en/"
+      },
+      {
+        "label": "Université Cheikh Anta Diop de Dakar",
+        "url": "https://www.ucad.sn/"
+      }
+    ],
+    "mots_cles": [
+      "bourse master migration",
+      "MITRA master",
+      "bourse études internationales",
+      "master études migratoires",
+      "bourse université Lille",
+      "programme master Europe",
+      "bourse master 2027",
+      "candidature master MITRA"
+    ],
+    "lien_candidature": "https://www.master-mitra.eu/en/",
+    "source_url": "https://www.master-mitra.eu/en/",
+    "statut": "ouvert",
+    "resume": "Le Master MITRA est un programme de master interdisciplinaire bilingue (français et anglais) en sciences sociales, dédié à l'étude des phénomènes migratoires à l'échelle internationale. Il forme des chercheurs, des analystes de politiques publiques et des praticiens de terrain, avec une approche alternant les lieux d'études en Europe et hors Europe, ainsi que l'apprentissage académique et le travail de terrain. Les étudiants obtiennent un diplôme de master du consortium et des diplômes des universités partenaires. La campagne de candidature pour la cohorte 2027-2029 se déroulera du 16 octobre 2026 au 17 janvier 2027.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:10:15",
+    "slug": "bourse-mitra-master-migration-2027"
   },
   {
     "titre": "Bourses de l'Université Sophia pour étudiants avant l'entrée (2027)",
@@ -8533,6 +8509,2512 @@
     "slug": "master-energie-propre-asu-2026"
   },
   {
+    "titre": "Bourses Mastercard Foundation Scholars Program - University of Edinburgh",
+    "seo_slug": "bourse-mastercard-foundation-edinburgh-2025",
+    "organisation": "Mastercard Foundation & University of Edinburgh",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni. Consulter la page des délais de candidature.",
+    "niveau_etudes": [
+      "Master",
+      "Postgraduate"
+    ],
+    "domaines": [
+      "Tous domaines",
+      "Leadership climatique"
+    ],
+    "pays_eligibles": [
+      "Afrique",
+      "Pays en développement"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Prise en charge complète des frais de scolarité",
+      "Frais de subsistance",
+      "Frais de voyage",
+      "Participation au programme de leadership climatique"
+    ],
+    "eligibilite": [
+      "Jeunes leaders exceptionnels ayant surmonté des obstacles éducatifs",
+      "Engagement à étudier sur le campus ou en ligne",
+      "Être ressortissant d'un pays éligible (généralement en Afrique subsaharienne)"
+    ],
+    "procedure_etapes": [
+      "1. Consulter les conseils de candidature sur la page dédiée",
+      "2. Choisir le type de bourse : sur le campus ou en ligne",
+      "3. Vérifier les délais de candidature",
+      "4. Soumettre la candidature via le portail approprié"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page de candidature",
+        "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship"
+      },
+      {
+        "label": "Bourses pour études sur le campus (postgraduate)",
+        "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/on-campus-postgraduate-scholarships"
+      },
+      {
+        "label": "Programme de leadership climatique",
+        "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/climate-leadership-programme"
+      },
+      {
+        "label": "Bourses pour études en ligne (postgraduate)",
+        "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/online-postgraduate-scholarships"
+      },
+      {
+        "label": "Communauté des boursiers",
+        "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/our-mastercard-foundation-scholar"
+      },
+      {
+        "label": "Calendrier des candidatures",
+        "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/application-timelines"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/frequently-asked-questions"
+      },
+      {
+        "label": "Témoignages de boursiers",
+        "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/our-mastercard-foundation-scholar"
+      }
+    ],
+    "mots_cles": [
+      "bourse Mastercard Foundation",
+      "bourse University of Edinburgh",
+      "bourse master Royaume-Uni",
+      "bourse études supérieures",
+      "bourse pour étudiants africains",
+      "bourse leadership climatique",
+      "bourse complète",
+      "bourse 2025"
+    ],
+    "lien_candidature": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship",
+    "source_url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship?fbclid=IwY2xjawUYJo9wZG9mAWV4dG4DYWVtAjEwAGJyaWQRMUFtcEJ1VjVJYlY5ZEtGb0ZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeDage66GGZs54KCCeuwiQ-MDeFBwfsfBP-QrjWOtn6GQJM7OQKlfqMhl0-qU_aem_RoKzW_gQiIZdZuhMAl2glw",
+    "statut": "ouvert",
+    "resume": "Le Mastercard Foundation Scholars Program à l'Université d'Édimbourg offre des bourses complètes à des jeunes leaders exceptionnels, en particulier ceux qui ont surmonté des obstacles éducatifs. Les bourses sont disponibles pour des études de troisième cycle sur le campus ou en ligne, avec un accent sur le leadership climatique. Les candidats doivent être ressortissants de pays éligibles, généralement en Afrique subsaharienne. Les délais de candidature sont disponibles sur la page dédiée.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T01:51:58",
+    "slug": "bourse-mastercard-foundation-edinburgh-2025"
+  },
+  {
+    "titre": "Bourse mondiale de Corée 2027 pour le premier cycle (GKS-U)",
+    "seo_slug": "bourse-gks-coree-licence-2027",
+    "organisation": "Gouvernement coréen (National Institute for International Education - NIIED)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni (voir le guide de candidature pour les dates exactes)",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "Non spécifié dans le texte fourni (voir le guide de candidature)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais et Coréen",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Guide de candidature",
+      "Informations sur les universités"
+    ],
+    "avantages": [
+      "Bourse complète (détails dans le guide de candidature)"
+    ],
+    "eligibilite": [
+      "Non spécifié dans le texte fourni (voir le guide de candidature)"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le guide de candidature (Application Guidelines) pour les dates limites, documents requis et procédures.",
+      "2. Consulter le fichier d'informations sur les universités (University Information File) pour la liste des universités et départements éligibles.",
+      "3. Préparer le dossier de candidature selon les instructions.",
+      "4. Soumettre la candidature avant la date limite indiquée dans le guide."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Guide de candidature GKS-U 2027 (anglais)",
+        "url": "https://www.studyinkorea.go.kr/ko/plan/gksNoticeRead.do?bbsId=BBSMSTR_000000000461&nttId=4522"
+      },
+      {
+        "label": "Guide de candidature GKS-U 2027 (coréen)",
+        "url": "https://www.studyinkorea.go.kr/ko/plan/gksNoticeRead.do?bbsId=BBSMSTR_000000000461&nttId=4522"
+      },
+      {
+        "label": "Formulaires de candidature GKS-U 2027",
+        "url": "https://www.studyinkorea.go.kr/ko/plan/gksNoticeRead.do?bbsId=BBSMSTR_000000000461&nttId=4522"
+      },
+      {
+        "label": "Informations sur les universités - Ambassade (Type A)",
+        "url": "https://www.studyinkorea.go.kr/ko/plan/gksNoticeRead.do?bbsId=BBSMSTR_000000000461&nttId=4522"
+      },
+      {
+        "label": "Informations sur les universités - Ambassade (Type B) A-C",
+        "url": "https://www.studyinkorea.go.kr/ko/plan/gksNoticeRead.do?bbsId=BBSMSTR_000000000461&nttId=4522"
+      },
+      {
+        "label": "Informations sur les universités - Ambassade (Type B) D-G",
+        "url": "https://www.studyinkorea.go.kr/ko/plan/gksNoticeRead.do?bbsId=BBSMSTR_000000000461&nttId=4522"
+      },
+      {
+        "label": "Informations sur les universités - Ambassade (Type B) H-K",
+        "url": "https://www.studyinkorea.go.kr/ko/plan/gksNoticeRead.do?bbsId=BBSMSTR_000000000461&nttId=4522"
+      },
+      {
+        "label": "Informations sur les universités - Ambassade (Type B) M-Y",
+        "url": "https://www.studyinkorea.go.kr/ko/plan/gksNoticeRead.do?bbsId=BBSMSTR_000000000461&nttId=4522"
+      },
+      {
+        "label": "Informations sur les universités - Piste universitaire",
+        "url": "https://www.studyinkorea.go.kr/ko/plan/gksNoticeRead.do?bbsId=BBSMSTR_000000000461&nttId=4522"
+      },
+      {
+        "label": "TOPIK (Test de compétence en coréen)",
+        "url": "https://www.topik.go.kr/TWMAIN/TWMAIN0010.do"
+      },
+      {
+        "label": "Human Resources In Korea (HURIK)",
+        "url": "https://hurik.go.kr/"
+      },
+      {
+        "label": "Hi! Korea",
+        "url": "https://www.hikorea.go.kr/Main.pt"
+      },
+      {
+        "label": "Portail d'éducation coréenne à l'étranger",
+        "url": "https://okep.moe.go.kr/root/eng_index.do"
+      },
+      {
+        "label": "K-MOOC",
+        "url": "https://www.kmooc.kr/"
+      },
+      {
+        "label": "Informations touristiques sur la Corée",
+        "url": "https://english.visitkorea.or.kr/svc/main/index.do"
+      },
+      {
+        "label": "English Program in Korea (EPIK)",
+        "url": "http://www.epik.go.kr"
+      },
+      {
+        "label": "Ministère de l'Éducation",
+        "url": "http://english.moe.go.kr"
+      },
+      {
+        "label": "Institut national pour l'éducation internationale (NIIED)",
+        "url": "http://niied.go.kr/eng/main.do"
+      },
+      {
+        "label": "Ministère des Affaires étrangères",
+        "url": "https://www.mofa.go.kr/eng/index.do"
+      },
+      {
+        "label": "Service d'immigration de Corée",
+        "url": "https://www.immigration.go.kr/immigration_eng/index.do"
+      },
+      {
+        "label": "Organisation coréenne du tourisme",
+        "url": "https://kto.visitkorea.or.kr/eng.kto"
+      }
+    ],
+    "mots_cles": [
+      "bourse Corée",
+      "GKS",
+      "bourse premier cycle",
+      "bourse gouvernement coréen",
+      "étudier en Corée",
+      "bourse licence Corée",
+      "bourse 2027",
+      "bourse complète Corée"
+    ],
+    "lien_candidature": "https://www.studyinkorea.go.kr/ko/plan/gksNoticeRead.do?bbsId=BBSMSTR_000000000461&nttId=4522",
+    "source_url": "https://www.studyinkorea.go.kr/ko/plan/gksNoticeRead.do?bbsId=BBSMSTR_000000000461&nttId=4522&fbclid=IwY2xjawUYJuBwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMUFtcEJ1VjVJYlY5ZEtGb0ZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEesxlIJSAeXJnqNpZhFmTqLqHV7p07R5bl5YlTcEzyI8o63317yIiYKll5CmQ_aem__5of-emjHiwOpYNmXWuBNQ",
+    "statut": "ouvert",
+    "resume": "La bourse mondiale de Corée (GKS) pour le premier cycle 2027 est offerte par le gouvernement coréen aux étudiants internationaux souhaitant poursuivre des études de licence en Corée. Cette bourse complète couvre les frais de scolarité, les frais de subsistance et d'autres avantages. Les candidats doivent consulter le guide de candidature pour connaître les dates limites, les documents requis et la procédure détaillée. Les informations sur les universités et départements éligibles sont disponibles dans les fichiers joints.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T01:55:18",
+    "slug": "bourse-gks-coree-licence-2027"
+  },
+  {
+    "titre": "Bourses Erasmus Mundus Joint Masters",
+    "seo_slug": "bourse-erasmus-mundus-master-2026",
+    "organisation": "Commission européenne - Erasmus+",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Variable selon le programme, généralement entre octobre et janvier pour l'année académique suivante",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (généralement)",
+    "documents_requis": [
+      "Diplôme de licence ou équivalent",
+      "Relevés de notes",
+      "Lettre de motivation",
+      "Lettres de recommandation",
+      "Preuve de compétence linguistique",
+      "Passeport"
+    ],
+    "avantages": [
+      "Couverture des frais de participation",
+      "Contribution aux frais de voyage",
+      "Contribution aux frais de visa",
+      "Indemnité de subsistance"
+    ],
+    "eligibilite": [
+      "Être titulaire d'une licence (premier cycle) ou être en dernière année de licence",
+      "Obtenir le diplôme avant le début du programme de master",
+      "Niveau de licence équivalent officiellement reconnu selon la législation nationale du pays délivrant le diplôme"
+    ],
+    "procedure_etapes": [
+      "Rechercher le catalogue des cours pour trouver les programmes Erasmus Mundus Joint Masters disponibles",
+      "Consulter le site web du master choisi pour connaître les détails du programme, les universités participantes, les conditions d'admission et les étapes de candidature",
+      "Postuler directement auprès de l'institution qui gère le programme choisi",
+      "Soumettre les documents requis (diplômes, relevés de notes, lettre de motivation, etc.)",
+      "Respecter les dates limites de candidature spécifiques à chaque programme (généralement entre octobre et janvier)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Catalogue des cours Erasmus Mundus",
+        "url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en"
+      },
+      {
+        "label": "Raisons de choisir Erasmus Mundus",
+        "url": "https://education.ec.europa.eu/news/why-choose-erasmus-mundus-as-an-international-student"
+      },
+      {
+        "label": "Conseils et inspiration pour les candidats",
+        "url": "https://www.em-a.eu/"
+      },
+      {
+        "label": "Erasmus Mundus en chiffres",
+        "url": "https://erasmus-plus.ec.europa.eu/resources-and-tools/factsheets-statistics-evaluations/statistics/erasmus-mundus-20"
+      },
+      {
+        "label": "Financement pour les institutions",
+        "url": "https://erasmus-plus.ec.europa.eu/opportunities/organisations/cooperation-among-organisations-and-institutions/erasmus-mundus-joint-masters"
+      },
+      {
+        "label": "Bourses postdoctorales Marie Skłodowska-Curie",
+        "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships"
+      },
+      {
+        "label": "Échanges de personnel",
+        "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/staff-exchanges"
+      },
+      {
+        "label": "Opportunités Erasmus+ pour les individus",
+        "url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals"
+      },
+      {
+        "label": "Guide du programme Erasmus+",
+        "url": "https://erasmus-plus.ec.europa.eu/programme-guide/erasmus-programme-guide"
+      },
+      {
+        "label": "Points de contact",
+        "url": "https://erasmus-plus.ec.europa.eu/about-erasmus/contacts"
+      },
+      {
+        "label": "Écrire à Europe Direct",
+        "url": "https://european-union.europa.eu/contact-eu/write-us_en"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master Erasmus Mundus",
+      "bourse master Europe",
+      "bourse études Europe",
+      "Erasmus Mundus Joint Masters",
+      "bourse complète master",
+      "candidature Erasmus Mundus",
+      "bourse internationale master"
+    ],
+    "lien_candidature": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+    "source_url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
+    "statut": "ouvert",
+    "resume": "Les bourses Erasmus Mundus Joint Masters offrent aux étudiants du monde entier la possibilité de poursuivre un master international prestigieux, conçu et délivré conjointement par au moins trois universités européennes. Les meilleurs candidats peuvent bénéficier d'une bourse complète couvrant les frais de participation, de voyage, de visa et une indemnité de subsistance. Les candidatures se font directement auprès des institutions gérant chaque programme, généralement entre octobre et janvier. C'est une opportunité unique d'étudier dans plusieurs pays et d'obtenir un diplôme conjoint ou multiple reconnu internationalement.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T01:55:47",
+    "slug": "bourse-erasmus-mundus-master-2026"
+  },
+  {
+    "titre": "Master conjoint Erasmus Mundus en Multilinguisme et Diversité Culturelle (MultiDiverse)",
+    "seo_slug": "bourse-erasmus-mundus-multidiverse-master-2026",
+    "organisation": "Erasmus Mundus / Université de Konstanz, Université Aristote de Thessalonique, Université Jagellonne de Cracovie",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Linguistique",
+      "Éducation",
+      "Sociologie",
+      "Psychologie"
+    ],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement, non spécifié)",
+    "documents_requis": [],
+    "avantages": [
+      "Formation de haute qualité",
+      "Mobilité académique dans trois pays européens",
+      "Diplôme conjoint délivré par les trois universités partenaires"
+    ],
+    "eligibilite": [
+      "Être titulaire d'une licence ou équivalent",
+      "Avoir un fort intérêt pour le multilinguisme et la diversité culturelle",
+      "Répondre aux critères d'admission du programme"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le site officiel du programme",
+      "2. Vérifier les conditions d'admission et les documents requis",
+      "3. Préparer son dossier de candidature",
+      "4. Soumettre sa candidature via le portail en ligne",
+      "5. Attendre les résultats de sélection"
+    ],
+    "contacts": [
+      "emjm.multidiverse@uni-konstanz.de"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://www.multidiverse.eu/"
+      },
+      {
+        "label": "Découvrir le programme",
+        "url": "https://www.multidiverse.eu/programme"
+      },
+      {
+        "label": "Universités partenaires",
+        "url": "https://www.multidiverse.eu/partners#map"
+      },
+      {
+        "label": "Comment postuler",
+        "url": "https://www.multidiverse.eu/applications#Hero"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master multilinguisme",
+      "diversité culturelle",
+      "bourse master Europe",
+      "EMJM MultiDiverse",
+      "bourse études Allemagne",
+      "bourse études Grèce",
+      "bourse études Pologne"
+    ],
+    "lien_candidature": "https://www.multidiverse.eu/applications#Hero",
+    "source_url": "https://www.multidiverse.eu/",
+    "statut": "ouvert",
+    "resume": "Le master conjoint Erasmus Mundus MultiDiverse en Multilinguisme et Diversité Culturelle est un programme prestigieux et multidisciplinaire offert par trois universités européennes : l'Université de Konstanz, l'Université Aristote de Thessalonique et l'Université Jagellonne de Cracovie. Il forme les étudiants à analyser le multilinguisme et la diversité culturelle sous des angles linguistiques, éducatifs, sociologiques et psychologiques. Les diplômés obtiennent un master conjoint reconnu internationalement et peuvent poursuivre en doctorat ou travailler dans l'éducation, les médias, la santé, la technologie linguistique, l'administration et l'intégration. Les candidatures se font via le site officiel du programme.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T01:56:59",
+    "slug": "bourse-erasmus-mundus-multidiverse-master-2026"
+  },
+  {
+    "titre": "Master conjoint Erasmus Mundus en Droit, Genre, Intersectionnalité et Diversité (LAWGID)",
+    "seo_slug": "bourse-erasmus-mundus-lawgid-master-2026",
+    "organisation": "Consortium LAWGID (Université de Belgrade, LUMSA, Université d'Örebro)",
+    "montant": 1400,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Droit",
+      "Études de genre",
+      "Droits humains",
+      "Politique publique",
+      "Justice sociale"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (niveau B2)",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse mensuelle de 1400€ pendant 24 mois",
+      "Frais de scolarité couverts",
+      "Frais de voyage",
+      "Frais de visa",
+      "Frais d'installation",
+      "Frais de subsistance"
+    ],
+    "eligibilite": [
+      "Licence (180 ou 240 ECTS) ou Master (300 ECTS)",
+      "Certificat d'anglais niveau B2"
+    ],
+    "procedure_etapes": [],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme LAWGID",
+        "url": "https://lawgid.ius.bg.ac.rs/"
+      },
+      {
+        "label": "Page de candidature",
+        "url": "https://lawgid.ius.bg.ac.rs/application/"
+      },
+      {
+        "label": "Conditions d'éligibilité",
+        "url": "https://lawgid.ius.bg.ac.rs/admission/eligibility-requirements/"
+      },
+      {
+        "label": "Procédure de classement et sélection",
+        "url": "https://lawgid.ius.bg.ac.rs/admission/ranking-and-selection/"
+      },
+      {
+        "label": "Procédure d'appel",
+        "url": "https://lawgid.ius.bg.ac.rs/admission/appeal-procedure/"
+      },
+      {
+        "label": "Procédure de confirmation EACEA",
+        "url": "https://lawgid.ius.bg.ac.rs/admission/eacea-confirmation-procedure/"
+      },
+      {
+        "label": "Inscription pour les boursiers",
+        "url": "https://lawgid.ius.bg.ac.rs/admission/enrolment/scholarship-holders/"
+      },
+      {
+        "label": "Inscription pour les non-boursiers",
+        "url": "https://lawgid.ius.bg.ac.rs/admission/enrolment/non-scholarship-holders/"
+      },
+      {
+        "label": "Contact",
+        "url": "https://lawgid.ius.bg.ac.rs/contacts/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://lawgid.ius.bg.ac.rs/faq/"
+      },
+      {
+        "label": "Programme détaillé",
+        "url": "https://lawgid.ius.bg.ac.rs/program/"
+      },
+      {
+        "label": "Université de Belgrade - Faculté de Droit",
+        "url": "http://www.ius.bg.ac.rs"
+      },
+      {
+        "label": "LUMSA - Département de Droit, Économie et Communication",
+        "url": "https://lumsa.it/en/department-law-economics-communication"
+      },
+      {
+        "label": "Université d'Örebro - Faculté des Sciences Humaines et Sociales",
+        "url": "https://www.oru.se/english/about-us/organisation-and-governance/faculties/faculty-of-humanities-and-social-sciences/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master droit genre",
+      "bourse études Europe",
+      "LAWGID",
+      "bourse master 2026",
+      "bourse droit international",
+      "bourse genre et diversité",
+      "Erasmus Mundus Joint Master"
+    ],
+    "lien_candidature": "https://lawgid.ius.bg.ac.rs/application/",
+    "source_url": "https://lawgid.ius.bg.ac.rs/",
+    "statut": "ouvert",
+    "resume": "Le programme LAWGID est un Master conjoint Erasmus Mundus de deux ans axé sur le droit, l'égalité de genre, l'intersectionnalité et la diversité. Il est proposé par un consortium de trois universités européennes : l'Université de Belgrade (Serbie), l'Université LUMSA (Italie) et l'Université d'Örebro (Suède). Les étudiants bénéficient d'une mobilité intégrée et reçoivent plusieurs diplômes. Des bourses complètes de 1400€ par mois pendant 24 mois sont disponibles pour les candidats exceptionnels du monde entier.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T01:58:45",
+    "slug": "bourse-erasmus-mundus-lawgid-master-2026"
+  },
+  {
+    "titre": "Bourse Erasmus Mundus Joint Master Degree en Politique et Société Européennes (EPS) - Programme Václav Havel",
+    "seo_slug": "bourse-erasmus-mundus-eps-master-2026",
+    "organisation": "Erasmus Mundus / Commission européenne",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Date limite de candidature non spécifiée dans le texte. Les admissions sont ouvertes pour la cohorte 2026-2028. La date limite pour les candidats auto-financés est le 30 août (année non précisée).",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Politique européenne",
+      "Histoire contemporaine",
+      "Culture",
+      "Économie",
+      "Relations internationales",
+      "Élaboration de politiques"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse mensuelle",
+      "Frais de voyage",
+      "Frais de scolarité",
+      "Assurance",
+      "Allocation d'installation"
+    ],
+    "eligibilite": [
+      "Diplôme de bachelor ou équivalent",
+      "Maîtrise de l'anglais",
+      "Intérêt pour les questions européennes"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'admission sur le site officiel",
+      "2. Préparer les documents requis (CV, lettre de motivation, diplômes, relevés de notes, preuve de maîtrise de l'anglais)",
+      "3. Soumettre la candidature en ligne via le portail de candidature",
+      "4. Attendre les résultats de la sélection"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme EPS",
+        "url": "https://epsmaster.eu/"
+      },
+      {
+        "label": "Procédure de candidature",
+        "url": "https://epsmaster.eu/application-procedure/"
+      },
+      {
+        "label": "Portail de candidature (Charles University)",
+        "url": "https://is.cuni.cz/studium/eng/prijimacky/index.php?do=detail_obor&id_obor=30673"
+      },
+      {
+        "label": "Page des admissions",
+        "url": "https://epsmaster.eu/admissions"
+      },
+      {
+        "label": "Candidature pour auto-financement",
+        "url": "https://epsmaster.eu/admissions/self-payers/"
+      },
+      {
+        "label": "À propos du programme",
+        "url": "https://epsmaster.eu/about-us/"
+      },
+      {
+        "label": "Anciens étudiants (Alumni)",
+        "url": "https://epsmaster.eu/alumni/"
+      },
+      {
+        "label": "Plateforme étudiante European Waves",
+        "url": "https://epsmaster.eu/european-waves/"
+      },
+      {
+        "label": "Appel à candidatures : Prix d'excellence et de leadership 2026",
+        "url": "https://epsmaster.eu/call-excellence-and-leadership-award-2026/"
+      },
+      {
+        "label": "Appel à candidatures : Prix de la meilleure thèse 2026",
+        "url": "https://epsmaster.eu/call-best-thesis-award-2026/"
+      },
+      {
+        "label": "Résultats du Prix de la meilleure thèse 2025",
+        "url": "https://epsmaster.eu/best-thesis-award-2025-results/"
+      },
+      {
+        "label": "Actualités",
+        "url": "https://epsmaster.eu/news/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master Europe",
+      "bourse études Europe",
+      "programme EPS",
+      "bourse master 2026",
+      "bourse politique européenne",
+      "bourse relations internationales",
+      "Erasmus Mundus Joint Master",
+      "bourse complète Europe",
+      "candidature master Europe"
+    ],
+    "lien_candidature": "https://is.cuni.cz/studium/eng/prijimacky/index.php?do=detail_obor&id_obor=30673",
+    "source_url": "https://epsmaster.eu/",
+    "statut": "ouvert",
+    "resume": "Le programme Erasmus Mundus Joint Master Degree en Politique et Société Européennes (EPS) - Programme Václav Havel est un master pluridisciplinaire de deux ans offert par un consortium de quatre universités européennes. Il forme une nouvelle génération de gestionnaires, décideurs politiques et chercheurs en se concentrant sur les processus sociétaux, politiques, économiques et culturels qui ont façonné l'Europe contemporaine. Les étudiants bénéficient d'une expérience unique dans un environnement multiculturel et peuvent recevoir une bourse complète grâce au soutien de la Commission européenne. Les candidatures sont ouvertes pour la cohorte 2026-2028.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:01:14",
+    "slug": "bourse-erasmus-mundus-eps-master-2026"
+  },
+  {
+    "titre": "Master conjoint Erasmus Mundus en Insectes comme Solutions pour un Avenir Durable (ISSF)",
+    "seo_slug": "bourse-erasmus-mundus-issf-master-2026",
+    "organisation": "Consortium ISSF (Université de Tours, Université d'Orléans, KU Leuven, Universidade Nova de Lisboa)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Sciences des insectes",
+      "Durabilité environnementale",
+      "Agriculture",
+      "Technologie",
+      "Santé publique",
+      "Biotechnologie",
+      "Conservation de la biodiversité",
+      "Résilience des écosystèmes",
+      "Contrôle des vecteurs"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement, non spécifié)",
+    "documents_requis": [],
+    "avantages": [
+      "Programme financé par l'UE",
+      "Mobilité obligatoire dans les universités d'accueil",
+      "Diplôme conjoint délivré par quatre universités européennes",
+      "Stage de thèse de master de 6 mois",
+      "Bourse complète (détails non spécifiés)"
+    ],
+    "eligibilite": [
+      "Étudiants du monde entier",
+      "Mobilité obligatoire dans les universités d'accueil"
+    ],
+    "procedure_etapes": [],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel ISSF",
+        "url": "https://issf-master.eu/"
+      },
+      {
+        "label": "Programmes Erasmus Mundus Joint Masters",
+        "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master insectes",
+      "ISSF",
+      "bourse master Europe",
+      "bourse sciences insectes",
+      "Erasmus Mundus Joint Master",
+      "bourse 2026",
+      "master durabilité",
+      "bourse France Belgique Portugal"
+    ],
+    "lien_candidature": "https://issf-master.eu/",
+    "source_url": "https://issf-master.eu/",
+    "statut": "ouvert",
+    "resume": "Le master conjoint Erasmus Mundus ISSF (Insects as Solutions for a Sustainable Future) est un programme de deux ans financé par l'Union européenne, axé sur le rôle des insectes dans la durabilité, l'agriculture, la technologie et la santé publique. Il est proposé par un consortium de quatre universités européennes (Université de Tours et d'Orléans en France, KU Leuven en Belgique, Universidade Nova de Lisboa au Portugal) et offre une mobilité obligatoire entre trois pays. Les étudiants bénéficient d'une formation interdisciplinaire et d'un stage de thèse de six mois, aboutissant à un diplôme conjoint. Ce programme prépare une nouvelle génération d'experts en sciences des insectes pour relever les défis mondiaux.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:01:49",
+    "slug": "bourse-erasmus-mundus-issf-master-2026"
+  },
+  {
+    "titre": "Master Européen en Architecture et Construction en Terre (TERRA)",
+    "seo_slug": "bourse-erasmus-mundus-terra-master-2026",
+    "organisation": "Consortium TERRA (Erasmus Mundus)",
+    "montant": 25800,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée (le troisième appel à candidatures est ouvert)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Architecture",
+      "Construction durable",
+      "Conservation du patrimoine"
+    ],
+    "pays_eligibles": [
+      "Non spécifié"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Non spécifié",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse Erasmus Mundus",
+      "Bourse du consortium",
+      "Prise en charge des coûts jusqu'à 25 800 €"
+    ],
+    "eligibilite": [],
+    "procedure_etapes": [
+      "1. Consulter la page des candidatures",
+      "2. Vérifier les conditions d'éligibilité",
+      "3. Soumettre la candidature en ligne"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page des candidatures",
+        "url": "https://msc-terra.org/applications/"
+      },
+      {
+        "label": "Informations sur le master",
+        "url": "https://msc-terra.org/master/"
+      },
+      {
+        "label": "Bourses",
+        "url": "https://msc-terra.org/scholarships/"
+      },
+      {
+        "label": "Référentiel de documents",
+        "url": "https://msc-terra.org/repository/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://msc-terra.org/faq/"
+      },
+      {
+        "label": "Toutes les actualités",
+        "url": "https://msc-terra.org/all-news/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master architecture terre",
+      "TERRA master",
+      "bourse master Europe",
+      "architecture durable",
+      "construction en terre",
+      "patrimoine",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://msc-terra.org/applications/",
+    "source_url": "https://msc-terra.org/",
+    "statut": "ouvert",
+    "resume": "Le Master Européen en Architecture et Construction en Terre (TERRA) est un programme conjoint Erasmus Mundus qui forme des professionnels à la construction durable en terre et à la conservation du patrimoine. La première édition débutera en septembre 2026 et se déroulera au Portugal, en Espagne, en France et en Italie. Les candidats peuvent bénéficier de bourses Erasmus Mundus ou de consortium couvrant jusqu'à 25 800 € de frais. Le troisième appel à candidatures est actuellement ouvert.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:04:06",
+    "slug": "bourse-erasmus-mundus-terra-master-2026"
+  },
+  {
+    "titre": "Master Conjoint TFMASA en Ingénierie Aéronautique et Spatiale Durable",
+    "seo_slug": "bourse-tfm-asa-master-europe-2026",
+    "organisation": "Consortium TFMASA (Université de Bordeaux, BTU Cottbus, UCLouvain)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Ingénierie aéronautique",
+      "Ingénierie spatiale",
+      "Énergies renouvelables",
+      "Développement durable"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement)",
+    "documents_requis": [],
+    "avantages": [
+      "Diplôme conjoint européen",
+      "Mobilité internationale en France, Belgique et Allemagne",
+      "Formation dispensée par des chercheurs de premier plan",
+      "Liens avec l'industrie aérospatiale",
+      "Bourse complète (détails non précisés)"
+    ],
+    "eligibilite": [
+      "Excellence académique",
+      "Intérêt pour l'aéronautique et le spatial durables",
+      "Volonté de suivre un programme international"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le site officiel pour les détails du programme",
+      "2. Vérifier les conditions d'admission et les dates limites",
+      "3. Préparer les documents requis (non spécifiés)",
+      "4. Soumettre la candidature via le portail officiel"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel TFMASA",
+        "url": "https://tfmasa.com/"
+      },
+      {
+        "label": "Programme complet du master",
+        "url": "https://tfmasa.com/tfm-asa-master-program/"
+      }
+    ],
+    "mots_cles": [
+      "bourse master aéronautique",
+      "bourse ingénierie spatiale",
+      "master conjoint europe",
+      "bourse erasmus mundus",
+      "etudes france belgique allemagne",
+      "bourse genie aeronautique",
+      "master durable aviation"
+    ],
+    "lien_candidature": "https://tfmasa.com/",
+    "source_url": "https://tfmasa.com/",
+    "statut": "ouvert",
+    "resume": "Le master conjoint TFMASA (Technologies for Future Mobility in Aeronautics and Space Applications) est un programme d'excellence en ingénierie aéronautique et spatiale durable, proposé par trois universités européennes : l'Université de Bordeaux (France), la BTU Cottbus (Allemagne) et l'UCLouvain (Belgique). Ce master vise à former la prochaine génération d'ingénieurs et de chercheurs capables de proposer des solutions décarbonées et durables dans les domaines aéronautique et spatial. Les étudiants bénéficient d'une mobilité internationale, d'un diplôme conjoint et de liens étroits avec l'industrie. Une bourse complète est disponible pour les candidats sélectionnés.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:04:30",
+    "slug": "bourse-tfm-asa-master-europe-2026"
+  },
+  {
+    "titre": "Bourse de dispense de frais de scolarité du programme EDISS",
+    "seo_slug": "bourse-ediss-master-europe-2026",
+    "organisation": "EDISS (European Master in Distributed Systems and Software Engineering)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse partielle (dispense de frais de scolarité)",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Informatique",
+      "Génie logiciel",
+      "Science des données",
+      "Intelligence artificielle",
+      "Systèmes distribués"
+    ],
+    "pays_eligibles": [
+      "Non spécifié"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Dispense de frais de scolarité"
+    ],
+    "eligibilite": [],
+    "procedure_etapes": [],
+    "contacts": [
+      "ediss@abo.fi"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel EDISS",
+        "url": "https://www.master-ediss.eu/"
+      },
+      {
+        "label": "Page d'admission",
+        "url": "https://www.master-ediss.eu/index.php/admission/"
+      },
+      {
+        "label": "Programme",
+        "url": "https://www.master-ediss.eu/programme/"
+      },
+      {
+        "label": "Débouchés professionnels",
+        "url": "https://www.master-ediss.eu/job-market-opportunities/"
+      },
+      {
+        "label": "Webinaire Q&R sur les bourses de dispense de frais de scolarité",
+        "url": "https://www.master-ediss.eu/ediss-qa-webinar-19-02-26-tuition-fee-waiver-scholarships/"
+      },
+      {
+        "label": "Tour de candidature pour les étudiants autofinancés",
+        "url": "https://www.master-ediss.eu/application-round-for-self-funded-applications/"
+      },
+      {
+        "label": "Formulaire d'inscription aux démonstrations de projets AI/ML",
+        "url": "https://link.webropol.com/ep/edissML26"
+      },
+      {
+        "label": "Politique de cookies (UE)",
+        "url": "https://www.master-ediss.eu/cookie-policy-eu/"
+      }
+    ],
+    "mots_cles": [
+      "bourse EDISS",
+      "master Europe",
+      "dispense frais scolarité",
+      "bourse master informatique",
+      "bourse 2026",
+      "EDISS scholarship",
+      "tuition fee waiver",
+      "bourse études Europe"
+    ],
+    "lien_candidature": "https://www.master-ediss.eu/index.php/admission/",
+    "source_url": "https://www.master-ediss.eu/",
+    "statut": "ouvert",
+    "resume": "Le programme EDISS (European Master in Distributed Systems and Software Engineering) offre des bourses de dispense de frais de scolarité pour les étudiants souhaitant poursuivre un master en informatique, génie logiciel et science des données. Ce programme européen de haut niveau forme la prochaine génération d'experts en systèmes intelligents, combinant développement logiciel, intelligence artificielle, Internet des objets et analyse de données massives. Les candidats peuvent bénéficier d'une exonération des frais de scolarité et rejoindre une communauté internationale de chercheurs et de professionnels. Les candidatures se font via le portail d'admission en ligne du programme.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:05:06",
+    "slug": "bourse-ediss-master-europe-2026"
+  },
+  {
+    "titre": "Master Conjoint Erasmus Mundus en Science des Matériaux Pharmaceutiques (BIOPHAM)",
+    "seo_slug": "bourse-erasmus-mundus-bipham-master-2026",
+    "organisation": "Consortium BIOPHAM (Erasmus Mundus)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni. Le prochain appel à candidatures ouvrira le 1er novembre 2026.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Science des matériaux",
+      "Physique des matériaux",
+      "Pharmacie",
+      "Biopharmacie"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Formation de haut niveau théorique et appliquée",
+      "Programme entièrement enseigné en anglais",
+      "Réseau international d'entreprises et d'universités partenaires",
+      "Diplôme conjoint de quatre universités européennes reconnues"
+    ],
+    "eligibilite": [
+      "Diplôme de licence ou équivalent",
+      "Maîtrise de l'anglais",
+      "Intérêt pour la science des matériaux et la pharmacie"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la procédure de candidature",
+      "2. Remplir le formulaire de candidature en ligne",
+      "3. Soumettre les documents requis",
+      "4. Attendre les résultats de la sélection"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Procédure de candidature",
+        "url": "https://www.master-biopham.eu/how-to-apply/application-procedure/2/selection-procedure-1-2"
+      },
+      {
+        "label": "Postuler maintenant",
+        "url": "https://www.master-biopham.eu/how-to-apply/application-procedure/2/selection-procedure-1-1-1-1"
+      },
+      {
+        "label": "Catalogue des cours",
+        "url": "https://www.master-biopham.eu/programme/course-catalogue"
+      },
+      {
+        "label": "Partenaires associés",
+        "url": "https://www.master-biopham.eu/general-information/associated-partners"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master science des matériaux",
+      "BIOPHAM",
+      "bourse master Europe",
+      "bourse pharmacie",
+      "master conjoint",
+      "bourse 2026",
+      "études en Europe"
+    ],
+    "lien_candidature": "https://www.master-biopham.eu/how-to-apply/application-procedure/2/selection-procedure-1-1-1-1",
+    "source_url": "https://www.master-biopham.eu/",
+    "statut": "ouvert",
+    "resume": "Le Master Conjoint Erasmus Mundus BIOPHAM est un programme de deux ans entièrement enseigné en anglais, axé sur la science des matériaux et la physique appliquée aux produits pharmaceutiques et biopharmaceutiques. Il est proposé par un consortium de quatre universités européennes reconnues et bénéficie d'un vaste réseau international d'entreprises et d'universités partenaires. Ce master vise à former des diplômés hautement qualifiés pour répondre à la demande internationale dans ce domaine. Les candidatures pour la prochaine édition ouvriront le 1er novembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:06:28",
+    "slug": "bourse-erasmus-mundus-bipham-master-2026"
+  },
+  {
+    "titre": "Master SuCat - Erasmus Mundus en Catalyse Durable",
+    "seo_slug": "bourse-master-sucat-erasmus-mundus-2026",
+    "organisation": "Erasmus Mundus (Université de Poitiers, Université d'Aveiro, Université de Padoue, Université Rovira i Virgili)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée sur la page d'accueil. Consulter la page 'How to apply' pour les dates limites.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Catalyse",
+      "Chimie durable",
+      "Génie chimique"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [],
+    "procedure_etapes": [
+      "1. Consulter la page 'How to apply' pour les conditions d'admission et la procédure de sélection",
+      "2. Remplir le formulaire de candidature en ligne",
+      "3. Soumettre les documents requis (voir la page 'How to apply')",
+      "4. Attendre les résultats de sélection"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du Master SuCat",
+        "url": "https://www.master-sucat.eu/"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://www.master-sucat.eu/how-to-apply#Ozl7R9Tipc91iFxa8MUu"
+      },
+      {
+        "label": "Conditions d'admission",
+        "url": "https://www.master-sucat.eu/how-to-apply#ZJirzHhU6uFnyKpCrEu3"
+      },
+      {
+        "label": "Procédure de sélection",
+        "url": "https://www.master-sucat.eu/how-to-apply/#OTPNSg7GIxQeZ3AnSeUw"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.master-sucat.eu/how-to-apply/#4pTUKGSRvRKtpae896ne"
+      },
+      {
+        "label": "Informations générales",
+        "url": "https://www.master-sucat.eu/general-information/"
+      },
+      {
+        "label": "Programme",
+        "url": "https://www.master-sucat.eu/program/"
+      },
+      {
+        "label": "Frais et bourses",
+        "url": "https://www.master-sucat.eu/fees-scholarship/"
+      },
+      {
+        "label": "Comment postuler",
+        "url": "https://www.master-sucat.eu/how-to-apply/"
+      },
+      {
+        "label": "Résultats de sélection",
+        "url": "https://www.master-sucat.eu/selection-results/"
+      },
+      {
+        "label": "Vie étudiante",
+        "url": "https://www.master-sucat.eu/student-life/"
+      },
+      {
+        "label": "Recrutement",
+        "url": "https://www.master-sucat.eu/recruitment/"
+      },
+      {
+        "label": "Stages",
+        "url": "https://www.master-sucat.eu/internships-portraits/"
+      },
+      {
+        "label": "Portail de candidature ouvert pour 2026-2028",
+        "url": "https://www.master-sucat.eu/sucat-application-portal-open-for-the-2026-2028-intake/"
+      },
+      {
+        "label": "SuCat prolongé pour 6 ans",
+        "url": "https://www.master-sucat.eu/the-emjmd-sucat-goes-for-another-6-years-stint-%e2%9a%97%ef%b8%8f%f0%9f%87%aa%f0%9f%87%ba/"
+      },
+      {
+        "label": "Page LinkedIn",
+        "url": "https://www.master-sucat.eu/a-new-linkedin-page-for-sucat/"
+      },
+      {
+        "label": "Cérémonie de remise des diplômes",
+        "url": "https://www.master-sucat.eu/celebrating-sucats-3rd-graduation-ceremony-%f0%9f%8e%89/"
+      },
+      {
+        "label": "Actualités SuCat",
+        "url": "https://www.master-sucat.eu/whats-up-sucat/"
+      },
+      {
+        "label": "Université de Poitiers",
+        "url": "https://www.univ-poitiers.fr/"
+      },
+      {
+        "label": "Université d'Aveiro",
+        "url": "https://www.ua.pt/"
+      },
+      {
+        "label": "Université de Padoue",
+        "url": "https://www.unipd.it/"
+      },
+      {
+        "label": "Université Rovira i Virgili",
+        "url": "https://www.urv.cat/en/"
+      }
+    ],
+    "mots_cles": [
+      "bourse master Erasmus Mundus",
+      "bourse catalyse durable",
+      "master SuCat",
+      "bourse chimie durable",
+      "Erasmus Mundus 2026",
+      "bourse master Europe",
+      "catalyse homogène",
+      "catalyse hétérogène",
+      "catalyse enzymatique"
+    ],
+    "lien_candidature": "https://www.master-sucat.eu/how-to-apply",
+    "source_url": "https://www.master-sucat.eu/",
+    "statut": "ouvert",
+    "resume": "Le Master SuCat est un programme Erasmus Mundus conjoint en catalyse durable, offert par un consortium de quatre universités européennes : l'Université de Poitiers, l'Université d'Aveiro, l'Université de Padoue et l'Université Rovira i Virgili. Ce master vise à fournir une expertise multidisciplinaire en catalyse homogène, hétérogène et enzymatique, ainsi qu'en chimie durable, pour répondre aux besoins de l'industrie chimique. Les candidatures pour la promotion 2026-2028 sont ouvertes. Les étudiants intéressés doivent consulter la page 'How to apply' pour connaître les conditions d'admission, la procédure de sélection et les dates limites. Des bourses sont disponibles pour les candidats sélectionnés.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:08:37",
+    "slug": "bourse-master-sucat-erasmus-mundus-2026"
+  },
+  {
+    "titre": "Master conjoint Erasmus Mundus en Droit international de la sécurité, de la paix et du développement durable",
+    "seo_slug": "bourse-erasmus-mundus-droit-international-2026",
+    "organisation": "Erasmus Mundus Joint Master (Consortium ILSPSD)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Droit international",
+      "Sécurité",
+      "Paix",
+      "Développement durable",
+      "Relations internationales",
+      "Science politique"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement, non spécifié)",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse Erasmus Mundus (couvre probablement les frais de scolarité, les frais de voyage et une allocation mensuelle)",
+      "Mobilité dans au moins trois pays européens",
+      "Programme de deux ans à temps plein",
+      "Possibilité de stage optionnel",
+      "Accès à un réseau international",
+      "Écoles d'été",
+      "Cliniques juridiques",
+      "Conférences invitées",
+      "Interaction directe avec des praticiens"
+    ],
+    "eligibilite": [
+      "Diplôme de premier cycle (licence) ou équivalent",
+      "Excellence académique",
+      "Maîtrise de l'anglais (niveau requis non spécifié)",
+      "Motivation pour les questions internationales"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'éligibilité sur le site officiel",
+      "2. Préparer les documents requis (CV, lettre de motivation, diplômes, relevés de notes, preuve de compétence linguistique, etc.)",
+      "3. Soumettre la candidature via le portail en ligne (les détails ne sont pas fournis dans le texte)",
+      "4. Attendre les résultats de la sélection"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://master-international-law-erasmusmundus.eu/"
+      },
+      {
+        "label": "Partenaires du consortium",
+        "url": "https://master-international-law-erasmusmundus.eu/consortium-partners/"
+      },
+      {
+        "label": "Partenaires associés",
+        "url": "https://master-international-law-erasmusmundus.eu/associate-partners/"
+      },
+      {
+        "label": "Université Leuphana de Lüneburg",
+        "url": "https://master-international-law-erasmusmundus.eu/leuphana-university/"
+      },
+      {
+        "label": "Institut Barcelona d'Estudis Internacionals (IBEI)",
+        "url": "https://master-international-law-erasmusmundus.eu/institut-barcelona-destudis-internacionals/"
+      },
+      {
+        "label": "Université de Glasgow",
+        "url": "https://master-international-law-erasmusmundus.eu/university-of-glasgow/"
+      },
+      {
+        "label": "Université libre de Bruxelles",
+        "url": "https://master-international-law-erasmusmundus.eu/universite-libre-de-bruxelles/"
+      },
+      {
+        "label": "Universidade NOVA de Lisboa",
+        "url": "https://master-international-law-erasmusmundus.eu/universidade-nova-de-lisboa/"
+      },
+      {
+        "label": "Université de Tartu",
+        "url": "https://master-international-law-erasmusmundus.eu/university-of-tartu/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master droit international",
+      "bourse études Europe",
+      "master sécurité paix développement durable",
+      "bourse master 2026",
+      "programme Erasmus Mundus",
+      "bourse complète master",
+      "droit international bourse"
+    ],
+    "lien_candidature": "https://master-international-law-erasmusmundus.eu/",
+    "source_url": "https://master-international-law-erasmusmundus.eu/",
+    "statut": "ouvert",
+    "resume": "Le Master conjoint Erasmus Mundus en Droit international de la sécurité, de la paix et du développement durable (ILSPSD) est un programme de deux ans offert par un consortium de six universités européennes. Il forme la prochaine génération de juristes et de décideurs capables de relever les défis mondiaux complexes. Les étudiants bénéficient d'une mobilité dans au moins trois pays et d'une spécialisation dans l'un des quatre parcours proposés. Des bourses Erasmus Mundus sont disponibles pour couvrir les frais de participation.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:09:35",
+    "slug": "bourse-erasmus-mundus-droit-international-2026"
+  },
+  {
+    "titre": "Master Conjoint Erasmus Mundus JANUS en Sécurité et Défense",
+    "seo_slug": "bourse-erasmus-mundus-janus-master-securite-defense-2026",
+    "organisation": "Consortium JANUS (Université Jean Moulin Lyon 3, Université Libanaise, Université de Grenade, Université de Bucarest, Université de Northumbria)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Sécurité",
+      "Défense",
+      "Relations internationales",
+      "Droit",
+      "Science politique",
+      "Études stratégiques"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français (B2), Anglais (TOEFL 90, IELTS 6.5, Cambridge C1), Espagnol (B2 si spécialisation à Grenade)",
+    "documents_requis": [
+      "Certificats de compétence linguistique (obtenus dans les deux dernières années)",
+      "Diplômes académiques",
+      "Relevés de notes",
+      "CV",
+      "Lettre de motivation",
+      "Lettre de recommandation",
+      "Passeport",
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Bourse Erasmus Mundus compétitive pour les meilleurs candidats",
+      "Frais de scolarité couverts",
+      "Allocation mensuelle",
+      "Frais de voyage",
+      "Assurance",
+      "Soutien à l'installation"
+    ],
+    "eligibilite": [
+      "Diplôme de licence ou équivalent",
+      "Solide formation académique dans les domaines couverts par le programme (relations internationales, science politique, droit, etc.)",
+      "Maîtrise du français (B2 minimum) et de l'anglais (TOEFL 90, IELTS 6.5 ou Cambridge C1)",
+      "Maîtrise de l'espagnol (B2) si spécialisation à l'Université de Grenade au premier semestre de la deuxième année",
+      "Certificats de langue obtenus dans les deux dernières années"
+    ],
+    "procedure_etapes": [
+      "1. Explorer le programme et vérifier les conditions d'éligibilité",
+      "2. Préparer les documents de candidature (diplômes, relevés de notes, certificats de langue, CV, lettre de motivation, lettres de recommandation, passeport)",
+      "3. Soumettre la candidature en ligne via le portail de candidature",
+      "4. Examen du dossier par le comité de sélection",
+      "5. Décision d'admission",
+      "6. Rejoindre le programme"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme JANUS",
+        "url": "https://master-janus-security-defense.eu/"
+      },
+      {
+        "label": "Page du Master Conjoint Erasmus Mundus",
+        "url": "https://master-janus-security-defense.eu/erasmus-mundus-joint-master-program/"
+      },
+      {
+        "label": "Comment postuler",
+        "url": "https://master-janus-security-defense.eu/how-to-apply-janus/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master sécurité défense",
+      "bourse master Europe",
+      "JANUS master",
+      "bourse études sécurité",
+      "master relations internationales",
+      "bourse Erasmus Mundus 2026",
+      "master conjoint Erasmus Mundus"
+    ],
+    "lien_candidature": "https://master-janus-security-defense.eu/how-to-apply-janus/",
+    "source_url": "https://master-janus-security-defense.eu/",
+    "statut": "ouvert",
+    "resume": "Le Master Conjoint Erasmus Mundus JANUS en Sécurité et Défense est un programme d'excellence de deux ans coordonné par l'Université Jean Moulin Lyon 3 et délivré par un consortium de cinq universités en France, au Liban, en Roumanie, en Espagne et au Royaume-Uni. Financé par la Commission européenne, il offre une double spécialisation en sécurité et défense, avec une mobilité dans au moins trois pays. Les meilleurs candidats peuvent bénéficier de bourses Erasmus Mundus compétitives couvrant les frais de scolarité, une allocation mensuelle, les frais de voyage et l'assurance. Le programme prépare à des carrières dans les ministères, organisations internationales, think tanks, agences de sécurité et le secteur privé.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:11:18",
+    "slug": "bourse-erasmus-mundus-janus-master-securite-defense-2026"
+  },
+  {
+    "titre": "Master Erasmus Mundus LASCALA « Grands Accélérateurs et Lasers »",
+    "seo_slug": "bourse-erasmus-mundus-lascala-master-2026",
+    "organisation": "Consortium LASCALA (Université Paris-Saclay, Università di Roma La Sapienza, Universidad de Salamanca, Lunds Universitet)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni (les candidatures pour la promotion 2026-2028 sont ouvertes)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Physique des accélérateurs",
+      "Technologies laser de haute puissance",
+      "Interactions laser-plasma de haute intensité",
+      "Physique des détecteurs d'ondes gravitationnelles",
+      "Applications interdisciplinaires (sources d'énergie, technologies médicales, diagnostic de sécurité)"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (programme international)",
+    "documents_requis": [],
+    "avantages": [
+      "Expérience de mobilité dans jusqu'à 4 universités européennes",
+      "Écoles d'hiver dans des installations à grande échelle",
+      "Double ou multiple diplôme",
+      "Stage de recherche de 6 mois",
+      "École d'été en gestion de grands projets scientifiques",
+      "Grand réseau international"
+    ],
+    "eligibilite": [
+      "Étudiants du monde entier",
+      "Aucun critère d'âge maximum spécifié",
+      "Aucune nationalité spécifique requise"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page de candidature : https://www.master-lascala.eu/campagne-info?view=programme&cid=11",
+      "2. Remplir le formulaire de candidature en ligne",
+      "3. Soumettre les documents requis (non spécifiés dans le texte)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du Master LASCALA",
+        "url": "https://master-lascala.eu/"
+      },
+      {
+        "label": "Page de candidature",
+        "url": "https://www.master-lascala.eu/campagne-info?view=programme&cid=11"
+      },
+      {
+        "label": "Procédure d'appel",
+        "url": "/images/custom/lascala/Appeal_procedure.pdf"
+      },
+      {
+        "label": "Contrat étudiant",
+        "url": "/images/custom/Annexe_5_Student_agreement_template.pdf"
+      },
+      {
+        "label": "Affiche LASCALA",
+        "url": "/images/custom/Poster_Lascala_2026-2031.pdf"
+      },
+      {
+        "label": "Flyer LASCALA",
+        "url": "/images/custom/Flyer_Lascala_2026_2031.pdf"
+      },
+      {
+        "label": "Règles de stage et mobilité",
+        "url": null
+      },
+      {
+        "label": "Association des étudiants et anciens Erasmus Mundus",
+        "url": "https://www.em-a.eu/"
+      },
+      {
+        "label": "Université Paris-Saclay",
+        "url": "https://www.universite-paris-saclay.fr/en"
+      },
+      {
+        "label": "Università di Roma La Sapienza",
+        "url": "https://www.uniroma1.it/en"
+      },
+      {
+        "label": "Universidad de Salamanca",
+        "url": "https://www.usal.es/"
+      },
+      {
+        "label": "Lunds Universitet",
+        "url": "https://www.lunduniversity.lu.se/"
+      },
+      {
+        "label": "Page de contact",
+        "url": "/contact-us"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/master.lascala"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/master.lascala/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://fr.linkedin.com/in/master-lascala-bba42a1b7"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master LASCALA",
+      "bourse master physique",
+      "bourse Europe 2026",
+      "bourse accélérateurs lasers",
+      "bourse master 2026",
+      "Erasmus Mundus LASCALA",
+      "bourse études physique",
+      "bourse internationale master"
+    ],
+    "lien_candidature": "https://www.master-lascala.eu/campagne-info?view=programme&cid=11",
+    "source_url": "https://www.master-lascala.eu/",
+    "statut": "ouvert",
+    "resume": "Le Master Erasmus Mundus LASCALA « Large Scale Accelerators and Lasers » est un programme international de deux ans proposé par un consortium de quatre universités européennes : l'Université Paris-Saclay, l'Università di Roma La Sapienza, l'Universidad de Salamanca et l'Université de Lund. Il offre une formation avancée en physique des accélérateurs, technologies laser de haute puissance, interactions laser-plasma et détecteurs d'ondes gravitationnelles, avec un accent sur les applications interdisciplinaires. Les candidatures pour la promotion 2026-2028 sont ouvertes. Les étudiants bénéficient d'une mobilité dans jusqu'à quatre universités, d'écoles d'hiver et d'été, d'un stage de recherche de six mois et d'un double ou multiple diplôme.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:12:03",
+    "slug": "bourse-erasmus-mundus-lascala-master-2026"
+  },
+  {
+    "titre": "Master Conjoint Erasmus Mundus en Action Humanitaire Internationale",
+    "seo_slug": "bourse-erasmus-mundus-action-humanitaire-2026",
+    "organisation": "NOHA (Network on Humanitarian Action)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Date limite non spécifiée dans le texte fourni",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Action humanitaire",
+      "Relations internationales",
+      "Sciences sociales",
+      "Droit",
+      "Économie",
+      "Ingénierie",
+      "Sciences médicales",
+      "Sciences de l'éducation",
+      "Humanités"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (C1), Français (C1 pour Aix-Marseille), Espagnol (B2 pour Deusto)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Diplôme de premier cycle universitaire (Bachelor, EQF niveau 6, minimum 180 ECTS)",
+      "Relevés de notes",
+      "Certificat de langue (TOEFL IBT, IELTS, CAE, CPE, ou certificat de langue espagnole/française selon l'université)",
+      "Lettre de motivation",
+      "Lettres de recommandation",
+      "CV"
+    ],
+    "avantages": [
+      "Bourse Erasmus Mundus (couvre les frais de participation, voyage, subsistance)",
+      "Frais de participation couverts (4000€ par semestre)",
+      "Assurance pour la durée des études",
+      "Mobilité dans au moins deux pays européens"
+    ],
+    "eligibilite": [
+      "Diplôme de premier cycle universitaire (Bachelor, EQF niveau 6, minimum 180 ECTS) dans une discipline pertinente pour l'action humanitaire",
+      "Maîtrise de la langue d'enseignement (anglais C1, français C1 pour Aix-Marseille, espagnol B2 pour Deusto)",
+      "Expérience professionnelle ou intérêt pour l'action humanitaire",
+      "Sensibilité multiculturelle",
+      "Aptitude linguistique",
+      "Nationalité et équilibre entre les genres"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'admission spécifiques aux universités choisies (exigences nationales)",
+      "2. Remplir le formulaire de candidature en ligne sur http://apply.nohanet.org/",
+      "3. Soumettre tous les documents requis via le système en ligne",
+      "4. Respecter la date limite de candidature (non spécifiée dans le texte)",
+      "5. Passer un entretien si nécessaire",
+      "6. Attendre les résultats de la sélection"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Système de candidature en ligne",
+        "url": "http://apply.nohanet.org/"
+      },
+      {
+        "label": "Exigences nationales spécifiques",
+        "url": "https://www.nohanet.org/admission-requirements"
+      },
+      {
+        "label": "DG pour l'action humanitaire et la protection civile (ECHO)",
+        "url": "https://ec.europa.eu/echo/index_en"
+      },
+      {
+        "label": "DG pour l'éducation et la culture",
+        "url": "https://ec.europa.eu/info/departments/education-youth-sport-and-culture_en"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master action humanitaire",
+      "NOHA master",
+      "bourse master Europe",
+      "études humanitaires",
+      "bourse internationale 2026",
+      "master conjoint Erasmus Mundus",
+      "bourse action humanitaire"
+    ],
+    "lien_candidature": "http://apply.nohanet.org/",
+    "source_url": "https://www.nohanet.org/masters",
+    "statut": "ouvert",
+    "resume": "Le Master Conjoint Erasmus Mundus en Action Humanitaire Internationale (NOHA) est un programme pluridisciplinaire de haut niveau formant les professionnels de l'action humanitaire. Sélectionné à nouveau comme programme Erasmus Mundus en 2025, il offre des bourses complètes pour étudier dans plusieurs universités européennes. Ce master unique combine théorie et pratique, avec une mobilité obligatoire dans au moins deux pays. Les diplômés acquièrent des compétences en gestion stratégique, vision globale et intégrité personnelle pour répondre aux défis humanitaires complexes.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:12:57",
+    "slug": "bourse-erasmus-mundus-action-humanitaire-2026"
+  },
+  {
+    "titre": "Master conjoint Erasmus Mundus en Chimie Analytique d'Excellence (EACH)",
+    "seo_slug": "bourse-each-master-chimie-analytique-2026",
+    "organisation": "Erasmus Mundus (consortium EACH)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Chimie analytique",
+      "Sciences analytiques",
+      "Chimie"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [],
+    "procedure_etapes": [],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme EACH",
+        "url": "https://each.ut.ee/EACH/"
+      },
+      {
+        "label": "Université de Tartu",
+        "url": "https://ut.ee/en"
+      },
+      {
+        "label": "Université d'Uppsala",
+        "url": "https://www.uu.se/"
+      },
+      {
+        "label": "Université Åbo Akademi",
+        "url": "https://www.abo.fi/en/"
+      },
+      {
+        "label": "Université Claude Bernard Lyon 1",
+        "url": "https://www.univ-lyon1.fr/en"
+      },
+      {
+        "label": "Témoignages des étudiants EACH (vidéo)",
+        "url": "https://www.uttv.ee/naita?id=30245&keel=eng"
+      },
+      {
+        "label": "Souvenirs humoristiques de la vie à Tartu (vidéo)",
+        "url": "https://www.uttv.ee/naita?id=28630&keel=eng"
+      },
+      {
+        "label": "Témoignage d'Anthony (promotion 2019) sur EACH (vidéo)",
+        "url": "https://www.youtube.com/watch?v=GRZNrXSUhpI&list=PLzGRAEtdqsEP9onyic7r5ahsqWKhuTJEQ&index=4"
+      },
+      {
+        "label": "Blog et actualités EACH",
+        "url": "https://each.ut.ee/EACH/blog/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master chimie analytique",
+      "EACH master",
+      "bourse master Europe",
+      "chimie analytique bourse",
+      "Erasmus Mundus 2026",
+      "bourse études chimie",
+      "master conjoint Erasmus"
+    ],
+    "lien_candidature": "https://each.ut.ee/EACH/",
+    "source_url": "https://each.ut.ee/EACH/",
+    "statut": "ouvert",
+    "resume": "Le programme EACH (Excellence in Analytical CHemistry) est un master conjoint Erasmus Mundus de deux ans qui offre une formation diversifiée en chimie analytique. Les diplômés sont très recherchés dans les laboratoires d'analyse et l'industrie pour des postes de haut niveau dans les domaines de l'alimentation, de la pharmacie, de l'environnement, de la santé et des matériaux. Ce programme est proposé par un consortium d'universités européennes prestigieuses : l'Université de Tartu, l'Université d'Uppsala, l'Université Åbo Akademi et l'Université Claude Bernard Lyon 1. Les étudiants bénéficient d'une mobilité entre ces institutions et d'une expérience internationale enrichissante.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:14:58",
+    "slug": "bourse-each-master-chimie-analytique-2026"
+  },
+  {
+    "titre": "Choreomundus - Master Erasmus Mundus en Danse et Mouvement en tant que Connaissance Pratique et Patrimoine",
+    "seo_slug": "bourse-choreomundus-master-danse-2026",
+    "organisation": "Consortium Choreomundus (VMU, NKUA, UCA, UR) - Erasmus+",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée pour la campagne 2026-2027 (les informations sur les procédures de candidature et le financement seront disponibles prochainement)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Danse",
+      "Mouvement",
+      "Patrimoine culturel immatériel",
+      "Ethnochoréologie",
+      "Anthropologie de la danse",
+      "Études culturelles",
+      "Études patrimoniales",
+      "Danse et technologie"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement, non spécifié)",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse complète (frais de scolarité, allocation mensuelle, frais de voyage et d'installation) - détails à venir",
+      "Programme conjoint Erasmus Mundus de haut niveau",
+      "Mobilité entre quatre universités européennes",
+      "Possibilité de participer à un réseau international d'anciens élèves",
+      "Bourses de courte durée pour chercheurs invités (activités d'enseignement et de recherche)"
+    ],
+    "eligibilite": [
+      "Être titulaire d'une licence ou équivalent",
+      "Intérêt pour la danse, le mouvement et le patrimoine culturel immatériel",
+      "Maîtrise de l'anglais (niveau requis non précisé)",
+      "Critères spécifiques à venir"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le site officiel pour les mises à jour sur les procédures de candidature et le financement",
+      "2. Préparer les documents requis (CV, lettre de motivation, diplômes, relevés de notes, preuve de compétence linguistique, etc.)",
+      "3. Soumettre la candidature en ligne via le portail dédié (lien à venir)",
+      "4. Suivre les instructions spécifiques qui seront publiées prochainement"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel Choreomundus",
+        "url": "https://choreomundus.org/"
+      },
+      {
+        "label": "Résumé du programme",
+        "url": "https://choreomundus.org/programme-content/"
+      },
+      {
+        "label": "Candidature pour chercheurs invités",
+        "url": "https://choreomundus.org/visiting-scholars/"
+      },
+      {
+        "label": "Informations pour les candidats",
+        "url": "https://choreomundus.org/for-applicants/"
+      },
+      {
+        "label": "Contenu du programme",
+        "url": "https://choreomundus.org/programme-content/"
+      },
+      {
+        "label": "Chercheurs invités",
+        "url": "https://choreomundus.org/visiting-scholars/"
+      },
+      {
+        "label": "À propos du projet",
+        "url": "https://choreomundus.org/about-the-project/"
+      },
+      {
+        "label": "Partenaires associés",
+        "url": "https://choreomundus.org/associated-partners/"
+      },
+      {
+        "label": "Corps enseignant",
+        "url": "https://choreomundus.org/teaching-staff/"
+      },
+      {
+        "label": "Patrimoine culturel immatériel",
+        "url": "https://choreomundus.org/intangible-cultural-heritage/"
+      },
+      {
+        "label": "Anciens élèves Choreomundus",
+        "url": "https://choreomundus.org/choreomundus-alumni/"
+      },
+      {
+        "label": "Contact",
+        "url": "https://choreomundus.org/contact-information/"
+      },
+      {
+        "label": "Avertissement et protection des données",
+        "url": "https://choreomundus.org/disclaimer/"
+      },
+      {
+        "label": "Université Clermont Auvergne",
+        "url": "https://www.uca.fr/"
+      },
+      {
+        "label": "University of Roehampton",
+        "url": "https://www.roehampton.ac.uk/"
+      }
+    ],
+    "mots_cles": [
+      "bourse danse",
+      "master erasmus mundus",
+      "patrimoine culturel immatériel",
+      "ethnochoréologie",
+      "bourse europe",
+      "master danse",
+      "bourse 2026",
+      "choreomundus"
+    ],
+    "lien_candidature": "https://choreomundus.org/for-applicants/",
+    "source_url": "https://choreomundus.org/",
+    "statut": "ouvert",
+    "resume": "Le programme Choreomundus est un Master Erasmus Mundus conjoint de haut niveau qui explore la danse et les systèmes de mouvement en tant que patrimoine culturel immatériel. Proposé par un consortium de quatre universités européennes (Lituanie, Grèce, France, Royaume-Uni), il offre une formation interdisciplinaire unique alliant ethnochoréologie, anthropologie, études culturelles et patrimoniales. Les candidatures pour l'année académique 2026-2027 sont ouvertes depuis le 1er novembre 2025, avec des informations détaillées sur les procédures et le financement à venir. Les étudiants sélectionnés bénéficieront d'une bourse complète et d'une expérience internationale enrichissante.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:16:19",
+    "slug": "bourse-choreomundus-master-danse-2026"
+  },
+  {
+    "titre": "Bourse Erasmus+ MSc GEM en Science de l'Information Géographique et Observation de la Terre pour la Modélisation et la Gestion de l'Environnement",
+    "seo_slug": "bourse-erasmus-master-gem-2026",
+    "organisation": "Consortium GEM (Erasmus+ Programme)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Science de l'information géographique",
+      "Observation de la Terre",
+      "Modélisation environnementale",
+      "Gestion de l'environnement"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [],
+    "procedure_etapes": [],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Aperçu du programme",
+        "url": "https://www.gem-msc.eu/about-gem-msc/programme-overview/"
+      },
+      {
+        "label": "Brochure du programme",
+        "url": "https://www.gem-msc.eu/about-gem-msc/"
+      },
+      {
+        "label": "ITC - University of Twente",
+        "url": "https://www.itc.nl"
+      },
+      {
+        "label": "Lund University",
+        "url": "http://www.lunduniversity.lu.se"
+      },
+      {
+        "label": "UCLouvain University",
+        "url": "https://uclouvain.be/fr/index.html"
+      },
+      {
+        "label": "University of Tartu",
+        "url": "https://www.ut.ee/en"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus+",
+      "master GEM",
+      "science de l'information géographique",
+      "observation de la Terre",
+      "modélisation environnementale",
+      "gestion de l'environnement",
+      "bourse Europe",
+      "master Erasmus Mundus"
+    ],
+    "lien_candidature": "https://www.gem-msc.eu/",
+    "source_url": "https://www.gem-msc.eu/",
+    "statut": "ouvert",
+    "resume": "Le programme GEM est un master Erasmus Mundus conjoint de quatre universités européennes (University of Twente, Lund University, UCLouvain, University of Tartu) qui forme la prochaine génération de leaders environnementaux. Les étudiants choisissent parmi quatre spécialisations : planificateur géospatial, analyste géospatial, développeur géospatial ou modélisateur géospatial. Le programme offre une formation de pointe en science de l'information géographique, observation de la Terre et modélisation environnementale, avec d'excellents débouchés (taux d'emploi des diplômés supérieur à 95%). Les candidatures sont ouvertes aux étudiants internationaux, avec des bourses Erasmus+ disponibles pour les candidats éligibles.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:17:50",
+    "slug": "bourse-erasmus-master-gem-2026"
+  },
+  {
+    "titre": "Master Européen en Neurosciences Neurasmus",
+    "seo_slug": "bourse-neurasmus-master-neurosciences-2026",
+    "organisation": "Neurasmus (Université de Bordeaux)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse partielle",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Neurosciences"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Frais de scolarité abordables",
+      "Nombreuses opportunités de bourses",
+      "Programme dans au moins deux universités européennes ou canadiennes",
+      "Accès à des chercheurs de renommée mondiale",
+      "Environnement multiculturel",
+      "Possibilité de poursuivre en doctorat (67% des diplômés)",
+      "Taux d'emploi de 99% après l'obtention du diplôme",
+      "50 nationalités représentées",
+      "6 universités prestigieuses",
+      "686 publications scientifiques co-écrites par des anciens et des étudiants"
+    ],
+    "eligibilite": [
+      "Être passionné par les neurosciences",
+      "Avoir un excellent parcours académique",
+      "Être prêt à étudier dans un environnement multiculturel",
+      "Avoir un fort intérêt pour la recherche"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le site officiel du programme",
+      "2. Télécharger la brochure pour plus d'informations",
+      "3. Remplir le formulaire de candidature en ligne",
+      "4. Soumettre les documents requis (non spécifiés dans le texte)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://www.neurasmus.u-bordeaux.fr/"
+      },
+      {
+        "label": "Présentation du programme",
+        "url": "https://www.neurasmus.u-bordeaux.fr/program/program-presentation/"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://emundus-neurasmus.u-bordeaux.fr/index.php"
+      },
+      {
+        "label": "Brochure du programme (PDF)",
+        "url": "https://www.neurasmus.u-bordeaux.fr/wp-content/uploads/2025/02/Neurasmus-2025-European-master-in-Neuroscience-v2.pdf"
+      },
+      {
+        "label": "Frais et bourses",
+        "url": "https://www.neurasmus.u-bordeaux.fr/fees-and-scholarships/"
+      },
+      {
+        "label": "Vie étudiante",
+        "url": "https://www.neurasmus.u-bordeaux.fr/student-life/"
+      }
+    ],
+    "mots_cles": [
+      "bourse neurosciences",
+      "master neurosciences europe",
+      "neurasmus",
+      "bourse master europe",
+      "etudes neurosciences",
+      "bourse universite bordeaux",
+      "master international neurosciences",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://emundus-neurasmus.u-bordeaux.fr/index.php",
+    "source_url": "https://www.neurasmus.u-bordeaux.fr/",
+    "statut": "ouvert",
+    "resume": "Le Master Européen en Neurosciences Neurasmus est un programme prestigieux de deux ans offert par un consortium de six universités européennes et canadiennes. Il offre une formation d'excellence en neurosciences, avec des cours interdisciplinaires, des rotations en laboratoire et une immersion multiculturelle. Les étudiants bénéficient d'un environnement de recherche de pointe et d'opportunités de bourses. Rejoignez une communauté internationale de 20 étudiants sélectionnés parmi plus de 800 candidats et préparez-vous à une carrière prometteuse en neurosciences.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:18:28",
+    "slug": "bourse-neurasmus-master-neurosciences-2026"
+  },
+  {
+    "titre": "Admission au programme de diplôme international de l'Université Nationale Tsing Hua - Printemps 2027",
+    "seo_slug": "admission-nthu-printemps-2027",
+    "organisation": "National Tsing Hua University (NTHU)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2026-09-30",
+    "deadline_texte": "30 septembre 2026 à 15h00 (heure de Taïwan)",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement, mais non spécifié)",
+    "documents_requis": [
+      "Documents requis selon les directives de candidature"
+    ],
+    "avantages": [
+      "Possibilité de bourse (résultats annoncés fin décembre 2026)"
+    ],
+    "eligibilite": [
+      "Étudiants internationaux talentueux"
+    ],
+    "procedure_etapes": [
+      "1. Lire attentivement les directives de candidature",
+      "2. Préparer tous les documents requis",
+      "3. Télécharger et soumettre les documents via le système de candidature en ligne avant la date limite",
+      "4. Attendre les résultats d'admission (1er décembre 2026)",
+      "5. Attendre les résultats de bourse (fin décembre 2026)",
+      "6. Confirmer l'inscription avant le 20 décembre 2026"
+    ],
+    "contacts": [
+      "itc@my.nthu.edu.tw",
+      "oga@my.nthu.edu.tw",
+      "gac@my.nthu.edu.tw",
+      "dos@my.nthu.edu.tw"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Système de candidature en ligne pour étudiants internationaux de NTHU",
+        "url": "https://nthuoga-admission.vm.nthu.edu.tw/student/index/portal"
+      },
+      {
+        "label": "Directives de candidature pour le programme de printemps 2027",
+        "url": "https://oga.site.nthu.edu.tw/var/file/524/1524/img/4520/140282968.pdf"
+      },
+      {
+        "label": "Page d'accueil de l'Office of Global Affairs",
+        "url": "https://oga.site.nthu.edu.tw/index.php?Lang=en"
+      },
+      {
+        "label": "Contact",
+        "url": "https://oga.site.nthu.edu.tw/p/412-1524-17816.php?Lang=en"
+      }
+    ],
+    "mots_cles": [
+      "bourse Taïwan",
+      "admission NTHU",
+      "programme international",
+      "printemps 2027",
+      "études à Taïwan",
+      "bourse universitaire",
+      "candidature en ligne"
+    ],
+    "lien_candidature": "https://nthuoga-admission.vm.nthu.edu.tw/student/index/portal",
+    "source_url": "https://oga.site.nthu.edu.tw/p/406-1524-311375,r8945.php?Lang=en",
+    "statut": "à venir",
+    "resume": "L'Université Nationale Tsing Hua (NTHU) à Taïwan ouvre les candidatures pour ses programmes de diplôme international au printemps 2027. Les étudiants internationaux talentueux sont invités à postuler du 3 août au 30 septembre 2026 (heure de Taïwan). Les candidats doivent soumettre leur dossier via le système de candidature en ligne et peuvent être éligibles à des bourses dont les résultats seront annoncés fin décembre 2026. Ne manquez pas cette opportunité de rejoindre une communauté académique dynamique.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T01:50:54",
+    "slug": "admission-nthu-printemps-2027"
+  },
+  {
+    "titre": "Master Européen en Linguistique Clinique (EMCL)",
+    "seo_slug": "bourse-emcl-master-linguistique-clinique-2027",
+    "organisation": "Erasmus Mundus Joint Master Degree (EMJMD) - Universités de Finlande orientale, Gand et Groningue",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-12-01",
+    "deadline_texte": "1 décembre 2026",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Linguistique clinique",
+      "Neurolinguistique",
+      "Psycholinguistique"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Financement complet",
+      "Formation à la recherche originale",
+      "Employabilité dans le milieu académique (doctorat) et industriel (neurotechnologie, secteur clinique)"
+    ],
+    "eligibilite": [
+      "Étudiants talentueux et motivés",
+      "Capacité à mener des recherches originales"
+    ],
+    "procedure_etapes": [
+      "1. Consulter les conditions d'admission et les exigences sur la page /admission",
+      "2. Se rendre sur le portail de candidature (lien à venir)",
+      "3. Soumettre la candidature avant le 1 décembre 2026"
+    ],
+    "contacts": [
+      "emcl@rug.nl"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel EMCL",
+        "url": "https://www.emcl.eu/"
+      },
+      {
+        "label": "Page d'admission",
+        "url": "/admission"
+      },
+      {
+        "label": "Modules et cours",
+        "url": "/students"
+      },
+      {
+        "label": "Aperçu des cours",
+        "url": "/students/courses"
+      },
+      {
+        "label": "Carte mondiale et liste des anciens élèves (2005-2019)",
+        "url": "http://emcl.eu/students/alumni/EMCLalumni/alumniAll.html"
+      },
+      {
+        "label": "Association Erasmus Mundus",
+        "url": "http://www.em-a.eu/"
+      },
+      {
+        "label": "Accord de consortium (2021-2026)",
+        "url": "/files/CA-new.pdf"
+      },
+      {
+        "label": "Université de Finlande orientale",
+        "url": "https://www.uef.fi/en"
+      },
+      {
+        "label": "Université de Gand",
+        "url": "https://www.ugent.be/en"
+      },
+      {
+        "label": "Université de Groningue",
+        "url": "https://www.rug.nl/?lang=en"
+      },
+      {
+        "label": "Partenaires associés",
+        "url": "/partners"
+      }
+    ],
+    "mots_cles": [
+      "bourse EMCL",
+      "master linguistique clinique",
+      "Erasmus Mundus",
+      "bourse master Europe",
+      "neurolinguistique",
+      "psycholinguistique",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://www.emcl.eu/",
+    "source_url": "https://www.emcl.eu/",
+    "statut": "à venir",
+    "resume": "Le Master Européen en Linguistique Clinique (EMCL) est un programme de master conjoint Erasmus Mundus de 24 mois (120 ECTS) offert par les universités de Finlande orientale, Gand et Groningue. Ce programme forme des étudiants talentueux à la recherche en linguistique clinique, neurolinguistique et psycholinguistique, avec un financement complet. Les candidatures pour la promotion 2027-2029 seront ouvertes du 1er octobre au 1er décembre 2026. Rejoignez une communauté internationale et préparez une carrière académique ou industrielle dans des domaines de pointe.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:15:44",
+    "slug": "bourse-emcl-master-linguistique-clinique-2027"
+  },
+  {
+    "titre": "Master conjoint Erasmus Mundus en biodiversité animale et génomique (EMABG)",
+    "seo_slug": "bourse-emabg-master-europe-2027",
+    "organisation": "Erasmus Mundus Joint Master (EMABG) - financé par l'Union européenne",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2027-01-15",
+    "deadline_texte": "15 janvier 2027 (date limite de dépôt des candidatures pour la 3e promotion, ouverture le 15 septembre 2026)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Biodiversité animale",
+      "Génomique",
+      "Sciences animales",
+      "Biologie"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse Erasmus Mundus (montant non précisé dans le texte)",
+      "Frais de scolarité pris en charge (selon les conditions EMJM)",
+      "Mobilité dans deux universités du consortium"
+    ],
+    "eligibilite": [
+      "Candidats internationaux (programme Erasmus Mundus ouvert au monde entier)",
+      "Niveau master (2 ans, enseigné en anglais)",
+      "Répondre aux exigences linguistiques (anglais)",
+      "Respecter les critères d'admission du consortium"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la FAQ et les informations générales sur le site officiel",
+      "2. Vérifier les exigences linguistiques et les conditions d'admission",
+      "3. Préparer les documents requis (CV, lettre de motivation, diplômes, etc.)",
+      "4. Soumettre la candidature via le portail de candidature en ligne",
+      "5. Suivre les instructions du consortium pour la sélection"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel EMABG",
+        "url": "https://www.emabg.eu/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.emabg.eu/faq/"
+      },
+      {
+        "label": "Candidature",
+        "url": "https://www.emabg.eu/application/"
+      },
+      {
+        "label": "Bourses EMJM",
+        "url": "https://www.emabg.eu/general-information/emjm/"
+      },
+      {
+        "label": "Coûts",
+        "url": "https://www.emabg.eu/general-information/costs/"
+      },
+      {
+        "label": "Exigences linguistiques et conditions d'admission",
+        "url": "https://www.emabg.eu/application/admission-requirements/"
+      },
+      {
+        "label": "Parcours d'études / Curriculum",
+        "url": "https://www.emabg.eu/curriculum/"
+      },
+      {
+        "label": "Portail de candidature (BOKU)",
+        "url": "https://emabg.boku.ac.at/home"
+      },
+      {
+        "label": "Déclaration de confidentialité des étudiants (EACEA)",
+        "url": "https://www.eacea.ec.europa.eu/about-eacea/data-protection/student-privacy-statement_en"
+      },
+      {
+        "label": "Politique de confidentialité",
+        "url": "https://www.emabg.eu/privacy-policy/"
+      },
+      {
+        "label": "Mentions légales",
+        "url": "https://www.emabg.eu/legalnotice/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master biodiversité animale",
+      "génomique animale",
+      "EMABG",
+      "bourse master Europe",
+      "bourse 2027",
+      "études en anglais",
+      "master conjoint Erasmus"
+    ],
+    "lien_candidature": "https://emabg.boku.ac.at/home",
+    "source_url": "https://www.emabg.eu/",
+    "statut": "à venir",
+    "resume": "Le Master conjoint Erasmus Mundus en biodiversité animale et génomique (EMABG) est un programme de deux ans enseigné en anglais, permettant aux étudiants de poursuivre leurs études dans deux des six universités du consortium. La troisième promotion ouvre les candidatures le 15 septembre 2026 et les clôture le 15 janvier 2027. Ce programme financé par l'Union européenne offre des bourses Erasmus Mundus complètes pour les candidats internationaux. Les étudiants bénéficient d'une mobilité internationale et d'une formation de pointe en biodiversité animale et génomique.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:14:24",
+    "slug": "bourse-emabg-master-europe-2027"
+  },
+  {
+    "titre": "Bourse Mundus Journalism - Master en Journalisme, Médias et Mondialisation",
+    "seo_slug": "bourse-mundus-journalism-master-2027",
+    "organisation": "Mundus Journalism (Erasmus Mundus)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "La date limite de candidature n'est pas encore annoncée. L'appel à candidatures pour le programme 2027-2029 ouvrira le 1er novembre 2026.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Journalisme",
+      "Médias",
+      "Mondialisation"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Environ 10 à 15 bourses Erasmus Mundus par promotion",
+      "Programme d'excellence Erasmus Mundus",
+      "Études dans au moins deux pays parmi Aarhus, Amsterdam, Londres, Munich et Prague",
+      "Réseau mondial d'anciens élèves et de professionnels",
+      "Cinq villes, une salle de classe mondiale",
+      "Réseau professionnel à vie"
+    ],
+    "eligibilite": [
+      "Candidats internationaux du monde entier",
+      "Aucune restriction d'âge mentionnée",
+      "Aucune nationalité spécifique requise"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le site officiel de Mundus Journalism pour les détails du programme",
+      "2. Attendre l'ouverture de l'appel à candidatures le 1er novembre 2026",
+      "3. Préparer et soumettre le dossier de candidature via le portail officiel",
+      "4. Postuler pour les bourses Erasmus Mundus (environ 10-15 par promotion)"
+    ],
+    "contacts": [
+      "band@au.dk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel Mundus Journalism",
+        "url": "https://mundusjournalism.com/"
+      },
+      {
+        "label": "Programme de Master Mundus Journalism",
+        "url": "https://mundusjournalism.com/the-mundus-journalism-ma-degree/the-mundus-journalism-ma-degree"
+      },
+      {
+        "label": "Vie étudiante",
+        "url": "https://mundusjournalism.com/student-life"
+      },
+      {
+        "label": "Carrière et réseau des anciens",
+        "url": "https://mundusjournalism.com/alumni-career/your-future-career"
+      }
+    ],
+    "mots_cles": [
+      "bourse Mundus Journalism",
+      "bourse Erasmus Mundus journalisme",
+      "master journalisme médias mondialisation",
+      "bourse master Europe journalisme",
+      "bourse études journalisme 2027",
+      "Erasmus Mundus scholarship journalism",
+      "bourse complète journalisme international"
+    ],
+    "lien_candidature": "https://mundusjournalism.com/",
+    "source_url": "https://mundusjournalism.com/",
+    "statut": "à venir",
+    "resume": "Le programme Mundus Journalism est un master d'excellence Erasmus Mundus unique en son genre, axé sur une approche analytique et critique du journalisme, des médias et de la mondialisation. Depuis 2005, il rassemble des étudiants du monde entier à travers cinq villes européennes : Aarhus, Amsterdam, Londres, Munich et Prague. Le programme bénéficie d'un nouveau financement Erasmus Mundus et offre environ 10 à 15 bourses complètes par promotion. L'appel à candidatures pour la période 2027-2029 ouvrira le 1er novembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:03:36",
+    "slug": "bourse-mundus-journalism-master-2027"
+  },
+  {
+    "titre": "Master conjoint Erasmus Mundus en Ingénierie pour la Durabilité Environnementale et la Coopération Internationale (EESIC)",
+    "seo_slug": "bourse-erasmus-mundus-eesic-master-2027",
+    "organisation": "University of Trento (coordinateur), Instituto Superior Técnico - Universidade de Lisboa, Universitat Politècnica de València",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Les candidatures pour la promotion 2027-2029 ouvriront en octobre 2026. La date limite exacte n'est pas encore annoncée.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Ingénierie environnementale",
+      "Durabilité",
+      "Coopération internationale"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Programme de master conjoint Erasmus Mundus (EMJM)",
+      "Mobilité dans trois pays européens (Portugal, Espagne, Italie)",
+      "Possibilité de bourse Erasmus Mundus (non détaillée dans le texte)",
+      "Trois diplômes en ingénierie environnementale (Portugal, Espagne, Italie)",
+      "Stage de terrain et thèse avec 48 partenaires associés dans le monde"
+    ],
+    "eligibilite": [
+      "Diplôme de bachelor ou équivalent",
+      "Fort background en ingénierie",
+      "Compétences interdisciplinaires et globales",
+      "Maîtrise de l'anglais"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la section FAQ pour le programme complet",
+      "2. Préparer les documents requis (non spécifiés dans le texte)",
+      "3. Soumettre la candidature en ligne (le portail sera ouvert en octobre 2026)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel EESIC",
+        "url": "https://eesic.eu/"
+      },
+      {
+        "label": "Programme Erasmus Mundus Joint Masters",
+        "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-organisations/cooperation-among-organisations-and-institutions/erasmus-mundus-joint-masters"
+      },
+      {
+        "label": "University of Trento",
+        "url": "https://www.unitn.it/en"
+      },
+      {
+        "label": "Instituto Superior Técnico - Universidade de Lisboa",
+        "url": "https://tecnico.ulisboa.pt/en/"
+      },
+      {
+        "label": "Universitat Politècnica de València",
+        "url": "http://www.upv.es/es"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master ingénierie environnementale",
+      "EESIC",
+      "bourse master Europe",
+      "durabilité environnementale",
+      "coopération internationale",
+      "bourse 2027",
+      "master conjoint"
+    ],
+    "lien_candidature": "https://eesic.eu/",
+    "source_url": "https://eesic.eu/",
+    "statut": "à venir",
+    "resume": "Le master conjoint Erasmus Mundus EESIC forme des ingénieurs mondiaux pour un avenir durable. Ce programme de deux ans (120 ECTS) est proposé par trois universités européennes : l'Université de Trente (Italie), l'Instituto Superior Técnico de Lisbonne (Portugal) et l'Universitat Politècnica de València (Espagne). Les étudiants passent un semestre dans chaque université et réalisent leur dernier semestre de terrain et de thèse avec l'un des 48 partenaires associés dans le monde. Les candidatures pour la promotion 2027-2029 ouvriront en octobre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:10:43",
+    "slug": "bourse-erasmus-mundus-eesic-master-2027"
+  },
+  {
+    "titre": "DocNomadsPLUS - Master conjoint Erasmus Mundus en réalisation documentaire",
+    "seo_slug": "bourse-docnomadsplus-master-documentaire-2026",
+    "organisation": "Consortium DocNomadsPLUS (Université Lusófona, Académie de musique et de théâtre de Lituanie, LUCA School of Arts)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "L'appel à candidatures ouvre en novembre 2026. La date limite de dépôt des candidatures n'est pas encore annoncée.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Réalisation documentaire",
+      "Production",
+      "Arts visuels"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Formation complète en réalisation documentaire",
+      "Programme de deux ans à temps plein",
+      "Expérience pratique dans trois hubs culturels : Lisbonne, Vilnius et Bruxelles",
+      "Possibilité de bourse Erasmus Mundus (non détaillée)"
+    ],
+    "eligibilite": [
+      "Ouvert aux étudiants du monde entier",
+      "Aucune restriction d'âge mentionnée",
+      "Aucun domaine d'études spécifique requis"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le site officiel pour plus d'informations",
+      "2. Attendre l'ouverture de l'appel à candidatures en novembre 2026",
+      "3. Soumettre sa candidature selon les modalités qui seront précisées"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://www.filmeu.eu"
+      },
+      {
+        "label": "Université Lusófona",
+        "url": "https://www.ulusofona.pt/en"
+      },
+      {
+        "label": "Académie de musique et de théâtre de Lituanie",
+        "url": "https://lmta.lt/en/"
+      },
+      {
+        "label": "LUCA School of Arts",
+        "url": "https://www.luca-arts.be/nl"
+      },
+      {
+        "label": "Page du programme",
+        "url": "/programme"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master documentaire",
+      "DocNomadsPLUS",
+      "bourse cinéma",
+      "master réalisation documentaire",
+      "bourse Europe",
+      "bourse master 2026",
+      "bourse arts visuels"
+    ],
+    "lien_candidature": "https://www.filmeu.eu",
+    "source_url": "https://www.docnomadsplus.eu/",
+    "statut": "à venir",
+    "resume": "Le DocNomadsPLUS est un master conjoint Erasmus Mundus en réalisation documentaire proposé par un consortium de trois universités européennes. Ce programme intensif de deux ans forme les étudiants à la réalisation, la production et la vision artistique indépendante, avec des cours dispensés à Lisbonne, Vilnius et Bruxelles. Ouvert aux étudiants du monde entier, il combine excellence académique et expérience pratique. L'appel à candidatures ouvrira en novembre 2026, offrant potentiellement des bourses Erasmus Mundus.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:19:12",
+    "slug": "bourse-docnomadsplus-master-documentaire-2026"
+  },
+  {
     "titre": "Programme de bourses Coca-Cola MENA 2014 pour étudier aux États-Unis",
     "seo_slug": "bourse-coca-cola-mena-usa-2014",
     "organisation": "The Coca-Cola Company & US Department of State",
@@ -9847,6 +12329,151 @@
     "slug": "master-energie-durable-asu-2026"
   },
   {
+    "titre": "Master conjoint Erasmus Mundus en transports durables et systèmes d'énergie électrique - STEPS",
+    "seo_slug": "bourse-erasmus-mundus-steps-master-2026",
+    "organisation": "Consortium EMJM STEPS (Université d'Oviedo, Université de Kiel, Université Sapienza de Rome, Institut Polytechnique de Coimbra)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-01-15",
+    "deadline_texte": "15 janvier 2026",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Ingénierie électrique",
+      "Transport durable",
+      "Systèmes d'énergie électrique"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse complète",
+      "Frais de scolarité",
+      "Frais de voyage",
+      "Allocation mensuelle",
+      "Assurance",
+      "Stage en entreprise ou université partenaire"
+    ],
+    "eligibilite": [
+      "Diplôme de bachelor ou équivalent",
+      "Maîtrise de l'anglais",
+      "Candidats internationaux"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'éligibilité",
+      "2. Préparer les documents requis",
+      "3. Remplir le formulaire de candidature en ligne",
+      "4. Soumettre la candidature avant la date limite"
+    ],
+    "contacts": [
+      "info-emmcsteps.eu@uniovi.es"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Candidature en ligne",
+        "url": "https://emjmdsteps.em.uniovi.es/emjmd_steps_rock_01.html"
+      },
+      {
+        "label": "Nouveaux étudiants",
+        "url": "https://www.emjmdstepsrock.eu/new-students"
+      },
+      {
+        "label": "Programme du cours",
+        "url": "https://www.emjmdstepsrock.eu/course-programme"
+      },
+      {
+        "label": "Développement de carrière",
+        "url": "https://www.emjmdstepsrock.eu/career-development"
+      },
+      {
+        "label": "Consortium en un coup d'œil",
+        "url": "https://www.emjmdstepsrock.eu/consortium-at-glance"
+      },
+      {
+        "label": "Faculté",
+        "url": "https://www.emjmdstepsrock.eu/faculty"
+      },
+      {
+        "label": "Informations générales pour les nouveaux étudiants",
+        "url": "https://www.emjmdstepsrock.eu/general-info"
+      },
+      {
+        "label": "Foire aux questions (FAQ)",
+        "url": "https://www.emjmdstepsrock.eu/frequently-asked-questions"
+      },
+      {
+        "label": "Contenu du cours",
+        "url": "https://www.emjmdstepsrock.eu/course-content"
+      },
+      {
+        "label": "Contact",
+        "url": "https://www.emjmdstepsrock.eu/contact"
+      },
+      {
+        "label": "Mentions légales",
+        "url": "https://www.emjmdstepsrock.eu/legal-notice"
+      },
+      {
+        "label": "Déclaration de confidentialité",
+        "url": "https://www.emjmdstepsrock.eu/privacy-statement"
+      },
+      {
+        "label": "Accessibilité",
+        "url": "https://www.emjmdstepsrock.eu/accesibility"
+      },
+      {
+        "label": "Politique de cookies",
+        "url": "https://www.emjmdstepsrock.eu/cookies-policy"
+      },
+      {
+        "label": "Plan du site",
+        "url": "https://www.emjmdstepsrock.eu/site-map"
+      },
+      {
+        "label": "Site de l'Université d'Oviedo",
+        "url": "https://www.uniovi.es"
+      },
+      {
+        "label": "Site de l'Institut Polytechnique de Coimbra",
+        "url": "http://www.isec.pt/"
+      },
+      {
+        "label": "Site de l'Université Sapienza de Rome",
+        "url": "http://www.uniroma1.it/"
+      },
+      {
+        "label": "Site de l'Université de Kiel",
+        "url": "https://www.uni-kiel.de/de/"
+      },
+      {
+        "label": "Bourses classées par sujet, pays ou caractéristiques",
+        "url": "https://scholarship-positions.com/"
+      }
+    ],
+    "mots_cles": [
+      "bourse erasmus mundus",
+      "master transports durables",
+      "systèmes d'énergie électrique",
+      "bourse master europe",
+      "bourse ingénierie électrique",
+      "bourse 2026",
+      "erasmus mundus steps",
+      "bourse master 2026"
+    ],
+    "lien_candidature": "https://emjmdsteps.em.uniovi.es/emjmd_steps_rock_01.html",
+    "source_url": "https://www.emjmdstepsrock.eu/",
+    "statut": "fermé",
+    "resume": "Le master conjoint Erasmus Mundus STEPS offre une formation spécialisée en ingénierie électrique, axée sur les transports durables et les systèmes d'énergie électrique. Ce programme de deux ans, dispensé en anglais, permet aux étudiants de suivre des cours dans au moins trois pays européens et d'effectuer des stages en entreprise. Les candidatures sont ouvertes du 15 octobre 2025 au 15 janvier 2026 pour la rentrée de septembre 2026. Les diplômés obtiennent un diplôme conjoint reconnu dans les quatre pays partenaires.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:00:19",
+    "slug": "bourse-erasmus-mundus-steps-master-2026"
+  },
+  {
     "titre": "Bourses d'études de premier cycle de l'Université de Floride",
     "seo_slug": "bourses-premier-cycle-universite-floride-2026",
     "organisation": "University of Florida",
@@ -9955,6 +12582,286 @@
     "adresse": "Office of Admissions Division of Enrollment Management 201 Criser Hall - PO Box 114000 Gainesville, FL 32611-4000 352-392-1365  Instagram icon InsThreadstagram icon",
     "extrait_le": "2026-06-19T17:03:11",
     "slug": "bourses-premier-cycle-universite-floride-2026"
+  },
+  {
+    "titre": "Master of Arts in Sports Ethics and Integrity (MAiSI) - Erasmus Mundus Joint Master",
+    "seo_slug": "bourse-master-erasmus-mundus-sports-ethics-integrity-2026",
+    "organisation": "Consortium MAiSI (KU Leuven, CUNI, UPF, JGU, UoP)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-02-01",
+    "deadline_texte": "1er février 2026 pour les bourses Erasmus Mundus; 1er avril 2026 pour les citoyens non-EEE; 1er juillet 2026 pour les citoyens EEE",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Éthique du sport",
+      "Intégrité sportive",
+      "Gouvernance sportive",
+      "Droit du sport"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse Erasmus Mundus",
+      "Frais de scolarité",
+      "Frais de voyage",
+      "Allocation mensuelle"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un diplôme de premier cycle",
+      "Maîtrise de l'anglais",
+      "Répondre aux critères d'admission du programme"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le site officiel pour les informations détaillées sur le programme, le financement et la candidature",
+      "2. Préparer les documents requis (CV, lettre de motivation, diplômes, relevés de notes, preuve de maîtrise de l'anglais)",
+      "3. Soumettre la candidature en ligne avant la date limite correspondant à votre statut (1er février pour les bourses Erasmus Mundus, 1er avril pour les non-EEE, 1er juillet pour les EEE)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme MAiSI",
+        "url": "https://www.maisi-project.eu/masters-degree/"
+      },
+      {
+        "label": "Informations sur les bourses Erasmus Mundus",
+        "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters"
+      },
+      {
+        "label": "Site de l'Université Charles (CUNI)",
+        "url": "https://cuni.cz/UKEN-1.html"
+      },
+      {
+        "label": "Site de l'Université KU Leuven",
+        "url": "https://www.kuleuven.be/english/"
+      },
+      {
+        "label": "Site de l'Université Pompeu Fabra (UPF)",
+        "url": "https://www.upf.edu/"
+      },
+      {
+        "label": "Site de l'Université Johannes Gutenberg de Mayence (JGU)",
+        "url": "https://www.uni-mainz.de/"
+      },
+      {
+        "label": "Site de l'Université du Péloponnèse (UoP)",
+        "url": "https://www.uop.gr/"
+      },
+      {
+        "label": "Site des anciens élèves MAiSI",
+        "url": "https://www.themaisialumni.com/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master éthique du sport",
+      "intégrité sportive",
+      "bourse master Europe",
+      "MAiSI",
+      "bourse études sport",
+      "master éthique et intégrité",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://www.maisi-project.eu/masters-degree/",
+    "source_url": "https://www.maisi-project.eu/",
+    "statut": "fermé",
+    "resume": "Le Master of Arts in Sports Ethics and Integrity (MAiSI) est un programme de master conjoint Erasmus Mundus de deux ans, offert par cinq universités européennes prestigieuses. Il forme des experts en éthique et intégrité sportive, capables de travailler dans la gouvernance sportive, la conformité, l'anti-dopage et la protection des athlètes. Les candidatures pour 2026-2027 ouvrent le 8 octobre 2026, avec des dates limites spécifiques pour les bourses Erasmus Mundus (1er février), les citoyens non-EEE (1er avril) et les citoyens EEE (1er juillet).",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:02:56",
+    "slug": "bourse-master-erasmus-mundus-sports-ethics-integrity-2026"
+  },
+  {
+    "titre": "Master européen en radiation et ses effets sur les technologies microélectroniques et photoniques (RADMEP+)",
+    "seo_slug": "bourse-radmep-master-europe-2026",
+    "organisation": "Université Jean Monnet Saint-Étienne (coordonnateur) - Consortium EMJM RADMEP+",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète (Erasmus Mundus Joint Master)",
+    "deadline": "2026-02-09",
+    "deadline_texte": "9 février 2026 (appel à candidatures ouvert du 15 octobre 2025 au 9 février 2026)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Microélectronique",
+      "Photonique",
+      "Radiation",
+      "Technologies habilitantes clés",
+      "Ingénierie"
+    ],
+    "pays_eligibles": [
+      "Monde entier (programme européen ouvert aux candidats internationaux)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (programme enseigné en anglais)",
+    "documents_requis": [],
+    "avantages": [
+      "Programme de master européen de 2 ans (120 ECTS)",
+      "Formation multidisciplinaire et innovante",
+      "Développement de compétences professionnelles et transversales",
+      "Contexte culturel européen riche",
+      "Amélioration des perspectives de carrière",
+      "Réponse aux besoins de l'industrie, des agences et de la société"
+    ],
+    "eligibilite": [
+      "Candidats internationaux souhaitant poursuivre un master",
+      "Intérêt pour les interactions entre radiation, microélectronique et photonique",
+      "Volonté de développer des compétences professionnelles et transversales"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le site officiel du programme RADMEP+",
+      "2. Se rendre sur le portail de candidature (APPLY NOW)",
+      "3. Créer un compte et soumettre la candidature en ligne",
+      "4. Respecter la date limite du 9 février 2026"
+    ],
+    "contacts": [
+      "master.RADMEP@univ-st-etienne.fr",
+      "0033 477915730"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature (APPLY NOW)",
+        "url": "https://international-sciencemasters.univ-st-etienne.fr/login"
+      },
+      {
+        "label": "Contact",
+        "url": "https://master-radmep.org/contact/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/OIVMmaster/"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/OivmD"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/oivmmaster/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/in/master-oivm-3b4a54197"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com"
+      }
+    ],
+    "mots_cles": [
+      "bourse RADMEP+",
+      "master européen radiation",
+      "bourse Erasmus Mundus",
+      "master microélectronique photonique",
+      "bourse master Europe 2026",
+      "EMJM bourse",
+      "master radiation technologies"
+    ],
+    "lien_candidature": "https://international-sciencemasters.univ-st-etienne.fr/login",
+    "source_url": "https://master-radmep.org/",
+    "statut": "fermé",
+    "resume": "Le master européen RADMEP+ (Radiation and its Effects on MicroElectronics and Photonics Technologies) est un programme de 2 ans (120 ECTS) co-financé par l'Union européenne dans le cadre des Erasmus Mundus Joint Masters. Il offre une formation multidisciplinaire et innovante couvrant les interactions entre la radiation, la microélectronique et la photonique, deux technologies habilitantes clés pour l'avenir de l'Europe. L'objectif est de préparer les étudiants à ces technologies avancées, d'améliorer leurs perspectives de carrière et de répondre aux besoins de l'industrie, des agences et de la société. Les candidatures pour la promotion 2026-2028 sont ouvertes du 15 octobre 2025 au 9 février 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:05:37",
+    "slug": "bourse-radmep-master-europe-2026"
+  },
+  {
+    "titre": "Bourse Erasmus Mundus Joint Master (EMJM) - InterMaths",
+    "seo_slug": "bourse-erasmus-mundus-intermaths-2026",
+    "organisation": "Consortium InterMaths (Erasmus Mundus)",
+    "montant": 33600,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-02-25",
+    "deadline_texte": "25 février 2026 à 13h00 CET",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Mathématiques appliquées",
+      "Modélisation mathématique",
+      "Simulation",
+      "Ingénierie",
+      "Sciences biomédicales"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Diplômes",
+      "Relevés de notes",
+      "Certificat de langue",
+      "Passeport",
+      "Lettre de recommandation"
+    ],
+    "avantages": [
+      "Bourse complète de 33 600 EUR",
+      "Frais de scolarité",
+      "Frais de voyage",
+      "Allocation mensuelle",
+      "Assurance"
+    ],
+    "eligibilite": [
+      "Diplôme de bachelor en mathématiques ou domaine connexe",
+      "Excellence académique",
+      "Maîtrise de l'anglais"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'éligibilité",
+      "2. Préparer les documents requis",
+      "3. Soumettre la candidature en ligne avant la date limite",
+      "4. Attendre les résultats de sélection"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel InterMaths",
+        "url": "https://www.intermaths.eu"
+      },
+      {
+        "label": "Page de candidature",
+        "url": "https://www.intermaths.eu/erasmus-mundus/apply"
+      },
+      {
+        "label": "Liste de sélection 2026",
+        "url": "https://www.intermaths.eu/home/news/2026-selection-list-intermaths-emjm-erasmus-mundus-mathmods-realmaths"
+      },
+      {
+        "label": "Page officielle EACEA",
+        "url": "https://erasmus-plus.ec.europa.eu/projects/search/details/619815-EPP-1-2020-1-IT-EPPKA1-JMD-MOB"
+      },
+      {
+        "label": "Programme Erasmus Mundus Joint Master",
+        "url": "https://ec.europa.eu/programmes/erasmus-plus/opportunities/individuals/students/erasmus-mundus-joint-master-degrees_en"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "InterMaths",
+      "master mathématiques",
+      "bourse Europe",
+      "EMJM",
+      "bourse 2026",
+      "mathématiques appliquées",
+      "bourse complète"
+    ],
+    "lien_candidature": "https://www.intermaths.eu/erasmus-mundus/apply",
+    "source_url": "https://www.intermaths.eu/erasmus-mundus",
+    "statut": "fermé",
+    "resume": "Le programme InterMaths EMJM est un master conjoint Erasmus Mundus de deux ans en modélisation mathématique et simulation, avec des applications interdisciplinaires en sciences biomédicales et ingénierie industrielle. Il est proposé par cinq universités européennes : l'Université de L'Aquila (coordinateur), l'Université Technique de Hambourg, l'Université Technique de Vienne, l'Université Autonome de Barcelone et l'Université Côte d'Azur. Le programme offre 20 bourses complètes de 33 600 EUR chacune pour la promotion 2026-2028. La date limite de candidature est fixée au 25 février 2026 à 13h00 CET. Les étudiants bénéficient d'une mobilité entre les universités partenaires et peuvent choisir parmi six spécialisations.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:17:21",
+    "slug": "bourse-erasmus-mundus-intermaths-2026"
   },
   {
     "titre": "Master en génie civil, environnemental et durable",
@@ -17779,6 +20686,234 @@
     "slug": "bourse-rtp-recherche-australie-2026"
   },
   {
+    "titre": "Appel à candidatures 2026/27 – Formations diplômantes internationales à distance",
+    "seo_slug": "formations-diplomantes-distance-auf-2026",
+    "organisation": "Agence Universitaire de la Francophonie (AUF)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "prise en charge partielle des frais d'inscription",
+    "deadline": "2026-09-14",
+    "deadline_texte": "14 septembre 2026 (pour formations débutant en janvier/février 2027) ; 9 juin 2026 (pour formations débutant en septembre/octobre 2026)",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Pays francophones"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français",
+    "documents_requis": [],
+    "avantages": [
+      "Allocation de mobilité virtuelle internationale (prise en charge partielle des frais d'inscription)",
+      "Accompagnement depuis la candidature jusqu'au diplôme",
+      "Accès gratuit aux implantations de l'AUF"
+    ],
+    "eligibilite": [
+      "Être étudiant francophone",
+      "Être méritant ou avoir des ressources limitées"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le catalogue des formations : https://l.auf.org/FOAD-FD",
+      "2. Postuler avant la date de clôture correspondant à la formation choisie"
+    ],
+    "contacts": [
+      "foad@auf.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Catalogue des formations FOAD",
+        "url": "https://l.auf.org/FOAD-FD"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "formation à distance",
+      "AUF",
+      "FOAD",
+      "diplôme universitaire",
+      "francophonie",
+      "2026"
+    ],
+    "lien_candidature": "https://l.auf.org/FOAD-FD",
+    "source_url": "https://appels-propositions.auf.org/appel-a-candidatures-2026-27-formations-diplomantes-internationales-a-distance",
+    "statut": "fermé",
+    "resume": "L'AUF propose plus de 150 formations diplômantes à distance (licence à doctorat) pour les étudiants francophones. Les candidats méritants ou à ressources limitées peuvent bénéficier d'une prise en charge partielle des frais d'inscription et d'un accompagnement complet. Les candidatures sont ouvertes jusqu'au 14 septembre 2026 selon la date de début de formation.",
+    "extrait_le": "2026-06-16T03:59:23",
+    "slug": "formations-diplomantes-distance-auf-2026"
+  },
+  {
+    "titre": "Bourses de fin de thèse au Département Droit et Anthropologie",
+    "seo_slug": "bourse-fin-these-anthropologie-max-planck-2027",
+    "organisation": "Max Planck Institute for Social Anthropology",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse de séjour",
+    "deadline": "2026-09-15",
+    "deadline_texte": "15 septembre 2026",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Anthropologie sociale",
+      "Droit et anthropologie"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Lettre de motivation",
+      "Curriculum vitae",
+      "Échantillon d'écriture (chapitre de la thèse)",
+      "Résumé de la thèse (1-2 pages)",
+      "Photocopies des diplômes et relevés de notes",
+      "Lettre de recommandation du directeur de thèse"
+    ],
+    "avantages": [
+      "Allocation mensuelle non imposable",
+      "Exonération de cotisations sociales",
+      "Accès aux ressources de l'institut",
+      "Participation aux activités du département"
+    ],
+    "eligibilite": [
+      "Doctorants en phase finale de rédaction de thèse",
+      "Sujet de thèse pertinent pour le programme de recherche du département",
+      "Priorité aux doctorants en anthropologie",
+      "Accord préalable entre le directeur du département et le superviseur principal"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et la pertinence du sujet",
+      "2. Contacter le directeur du département pour accord préalable",
+      "3. Préparer les documents requis",
+      "4. Demander la lettre de recommandation au superviseur (envoyée directement à marencakova@eth.mpg.de)",
+      "5. Soumettre le dossier en ligne avant le 15 septembre 2026"
+    ],
+    "contacts": [
+      "marencakova@eth.mpg.de",
+      "klevenow@eth.mpg.de"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Rapport 2020-2022 de l'institut",
+        "url": "https://www.eth.mpg.de/6364624/2020-2022"
+      },
+      {
+        "label": "Site web de l'institut",
+        "url": "http://www.eth.mpg.de"
+      },
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://recruitingapp-5034.de.umantis.com/Vacancies/527/Application/New/1%3Flang=ger"
+      },
+      {
+        "label": "Postuler maintenant",
+        "url": "https://recruitingapp-5034.de.umantis.com/Vacancies/527/Application/CheckLogin/1?lang=ger"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat",
+      "anthropologie",
+      "Max Planck",
+      "fin de thèse",
+      "Allemagne",
+      "bourse séjour",
+      "rédaction thèse"
+    ],
+    "lien_candidature": "https://recruitingapp-5034.de.umantis.com/Vacancies/527/Application/New/1%3Flang=ger",
+    "source_url": "https://recruitingapp-5034.de.umantis.com/Vacancies/527/Description/1?fbclid=IwY2xjawUBuEBwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMXdMUkJSRGNYUTh2T25PUFBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe-qFOv8BPYDCmB6cRLrSFcVaWgEfhKGM7zSvf-FFuEZfmHDpjZzsbWhMB6qU_aem_MMQlZVdUvsJ_l40oVNk6_g",
+    "statut": "fermé",
+    "resume": "Le Département Droit et Anthropologie de l'Institut Max Planck d'anthropologie sociale à Halle propose des bourses de fin de thèse pour permettre aux doctorants en phase finale de rédaction de passer jusqu'à 4 mois à l'institut. Les candidats retenus bénéficieront d'une allocation mensuelle non imposable et d'un environnement de recherche stimulant. Les candidatures sont ouvertes jusqu'au 15 septembre 2026 pour des séjours au printemps ou à l'automne 2027. Cette opportunité s'adresse principalement aux doctorants en anthropologie dont le sujet est en lien avec le programme de recherche du département.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-31T01:37:33",
+    "slug": "bourse-fin-these-anthropologie-max-planck-2027"
+  },
+  {
+    "titre": "Professionnel Diplômé (Approches Intégrées)",
+    "seo_slug": "bourse-unidir-geneve-2026",
+    "organisation": "Institut des Nations Unies pour la Recherche sur le Désarmement (UNIDIR)",
+    "montant": 1500,
+    "devise": "USD",
+    "type_financement": "stage rémunéré",
+    "deadline": "2026-09-16",
+    "deadline_texte": "16 septembre 2026 à minuit, heure de Genève",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Relations internationales",
+      "Science politique",
+      "Droit international",
+      "Études de genre",
+      "Désarmement",
+      "Sécurité"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (courant)",
+    "documents_requis": [
+      "Lettre de motivation",
+      "Profil Personnel Inspira (PDF)",
+      "Réponses aux questions de sélection"
+    ],
+    "avantages": [
+      "Indemnité mensuelle de 1500 USD",
+      "Expérience professionnelle à Genève"
+    ],
+    "eligibilite": [
+      "Être inscrit dans un programme de troisième cycle (master ou équivalent) ou avoir obtenu un diplôme de troisième cycle dans l'année précédant le début du programme",
+      "Maîtrise de l'anglais (oral et écrit)",
+      "Compétences en informatique (Microsoft Office, Canva, InDesign)",
+      "Intérêt pour le travail des Nations Unies",
+      "Capacité à interagir avec des personnes de cultures différentes"
+    ],
+    "procedure_etapes": [
+      "1. Préparer une lettre de motivation.",
+      "2. Créer un profil Inspira et télécharger le PDF du Personal History Profile (PHP).",
+      "3. Rédiger des réponses brèves (250 caractères maximum chacune) aux questions de sélection.",
+      "4. Envoyer les documents en pièces jointes PDF à unidir.recruitment@un.org, en indiquant en objet 'UNIDIR GPP – IntApp (Geneva)'.",
+      "5. S'assurer que le dossier est complet avant la date limite."
+    ],
+    "contacts": [
+      "unidir.recruitment@un.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Programme Approches Intégrées – Genre et Désarmement",
+        "url": "https://unidir.org/programme/integrated-approaches/"
+      },
+      {
+        "label": "Guide Inspira",
+        "url": "https://inspira.un.org/"
+      }
+    ],
+    "mots_cles": [
+      "bourse UNIDIR",
+      "stage Genève",
+      "désarmement",
+      "genre",
+      "jeunesse",
+      "relations internationales",
+      "master",
+      "2026"
+    ],
+    "lien_candidature": "https://unidir.org/job/graduate-professional-integrated-approaches-260902/",
+    "source_url": "https://unidir.org/job/graduate-professional-integrated-approaches-260902/",
+    "statut": "fermé",
+    "resume": "L'Institut des Nations Unies pour la Recherche sur le Désarmement (UNIDIR) recherche un professionnel diplômé pour son programme Approches Intégrées – Genre et Désarmement à Genève. Ce stage de 6 mois, renouvelable, offre une indemnité mensuelle de 1500 USD. Les candidats doivent être inscrits dans un programme de troisième cycle ou avoir obtenu leur diplôme dans l'année. Les candidatures sont à envoyer avant le 16 septembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-08T10:27:05",
+    "slug": "bourse-unidir-geneve-2026"
+  },
+  {
     "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",
     "seo_slug": "cours-ete-allemagne-daad-2026",
     "organisation": "DAAD",
@@ -18046,6 +21181,740 @@
     "imageUrl": null,
     "extrait_le": "2026-09-06T22:25:46",
     "slug": "exemples-propositions-reussies-fonds-imagine"
+  },
+  {
+    "titre": "Master WOCC : Défis contemporains des mondes du travail",
+    "seo_slug": "master-wocc-sciences-sociales-international",
+    "organisation": "Consortium de six universités (Université de Lille, UBA, ULB, UCM, ULaval, Sapienza)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "Non spécifié",
+    "deadline": null,
+    "deadline_texte": "La phase de dépôt de candidatures est close",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Sciences sociales",
+      "Sciences humaines",
+      "Droit",
+      "Sciences économiques",
+      "Humanités"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français et Anglais ou Espagnol (niveau B2 minimum)",
+    "documents_requis": [],
+    "avantages": [
+      "Diplôme de Master WOCC délivré par le consortium",
+      "Diplômes des universités partenaires (multidiplomation)",
+      "Mobilité internationale entre trois pays",
+      "Stages obligatoires",
+      "Voyages d'études auprès d'institutions internationales"
+    ],
+    "eligibilite": [
+      "Titulaires d'un diplôme universitaire de premier cycle (licence, baccalauréat universitaire, bachelor ou équivalent) en sciences humaines et sociales, droit, sciences économiques ou humanités",
+      "Candidatures d'autres disciplines considérées sous réserve d'une expérience académique ou professionnelle pertinente",
+      "Maîtrise des langues d'enseignement au niveau B2 (ou équivalent)"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'éligibilité",
+      "2. Préparer les documents requis (non spécifiés)",
+      "3. Soumettre la candidature via le portail (phase close)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du Master WOCC",
+        "url": "https://www.master-wocc.eu/"
+      },
+      {
+        "label": "Programme de mobilité",
+        "url": "https://www.master-wocc.eu/programme/programme-de-mobilite"
+      },
+      {
+        "label": "Admission et sélection",
+        "url": "https://www.master-wocc.eu/candidature-et-admission/admission-et-selection"
+      },
+      {
+        "label": "WOCC en quelques mots",
+        "url": "https://www.master-wocc.eu/home/wocc-en-quelques-mots"
+      },
+      {
+        "label": "Université de Lille - FASEST",
+        "url": "https://fasest.univ-lille.fr/"
+      },
+      {
+        "label": "Université de Buenos Aires - Sociales",
+        "url": "https://www.sociales.uba.ar/"
+      },
+      {
+        "label": "Université libre de Bruxelles - Phisoc",
+        "url": "https://phisoc.ulb.be/"
+      },
+      {
+        "label": "Université Complutense de Madrid - Politicas y Sociologia",
+        "url": "https://politicasysociologia.ucm.es/"
+      },
+      {
+        "label": "Université Laval - Relations industrielles",
+        "url": "https://www.fss.ulaval.ca/relations-industrielles"
+      },
+      {
+        "label": "Sapienza Université de Rome - Disse",
+        "url": "https://disse.web.uniroma1.it/"
+      }
+    ],
+    "mots_cles": [
+      "master wocc",
+      "bourse master international",
+      "sciences sociales",
+      "mobilité internationale",
+      "master en travail et emploi",
+      "diplôme consortium",
+      "études en Europe",
+      "master bilingue"
+    ],
+    "lien_candidature": "https://www.master-wocc.eu/candidature-et-admission/admission-et-selection",
+    "source_url": "https://www.master-wocc.eu/",
+    "statut": "fermé",
+    "resume": "Le Master WOCC (Contemporary Challenges in the Worlds of Work) est un programme international et interdisciplinaire d'excellence en sciences sociales, consacré à l'étude des transformations du travail et de l'emploi. Il offre une mobilité unique entre trois pays et est délivré par un consortium de six universités prestigieuses. La formation, bilingue (français et anglais/espagnol), prépare aux carrières de chercheur, analyste des politiques publiques ou praticien de terrain. Les candidatures sont actuellement closes.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T01:59:24",
+    "slug": "master-wocc-sciences-sociales-international"
+  },
+  {
+    "titre": "Programme de Master International CLIDE - Leadership Interculturel à l'Ère Numérique",
+    "seo_slug": "bourse-clide-master-international-2027",
+    "organisation": "Consortium de cinq universités (Université Nicolaus Copernicus, Université de Grenade, Université des Sciences Appliquées de Haute-Autriche, Université Nationale d'Économie Simon Kuznets de Kharkiv, Université Hassan II de Casablanca)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": null,
+    "deadline_texte": "Les admissions pour l'année académique 2027/2028 ouvriront en février 2027. Aucune date limite précise n'est mentionnée.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Leadership interculturel",
+      "Transformation digitale",
+      "Gestion internationale",
+      "Innovation"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement, non spécifié explicitement)",
+    "documents_requis": [],
+    "avantages": [
+      "5 universités",
+      "Étudier dans des institutions partenaires de premier plan à travers l'Europe et au-delà",
+      "120 ECTS. Programme de master international de deux ans",
+      "2 parcours d'apprentissage",
+      "Mobilité internationale. Étudier dans plusieurs pays et acquérir une expérience mondiale",
+      "Programme assuré de qualité. Accrédité selon les normes européennes de qualité",
+      "Développer les compétences nécessaires pour diriger efficacement des équipes internationales et multiculturelles",
+      "Comprendre comment les technologies émergentes transforment les organisations, les sociétés et les pratiques de leadership",
+      "Étudier aux côtés d'étudiants de différents horizons culturels et construire un réseau véritablement mondial",
+      "Travailler sur des défis du monde réel à travers des projets, des stages et un apprentissage collaboratif",
+      "Se préparer à des postes de leadership dans les organisations internationales, les entreprises, l'enseignement supérieur, l'administration publique et les secteurs non gouvernementaux"
+    ],
+    "eligibilite": [],
+    "procedure_etapes": [
+      "1. Consulter les instructions étape par étape pour la candidature 2026/2027",
+      "2. Accéder au lien d'admission pour les études à temps plein - Intercultural Leadership",
+      "3. Remplir le formulaire de candidature via le système IRK",
+      "4. Soumettre les documents requis (non spécifiés)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Lien d'admission pour les études à temps plein - Intercultural Leadership",
+        "url": "https://irk.umk.pl/en-gb/offer/U2026/programme/11550305-KRK/?from=field:IL"
+      },
+      {
+        "label": "Instructions étape par étape pour la candidature 2026/2027",
+        "url": "http://clide.umk.pl/pliki/CLIDE%20IRK%20system.pdf"
+      },
+      {
+        "label": "Explorer le programme (PDF)",
+        "url": "http://clide.umk.pl/pliki/Annex6.pdf"
+      },
+      {
+        "label": "Rapport d'accréditation EQAR",
+        "url": "https://www.eqar.eu/qa-results/search/by-report/report/?id=140594"
+      }
+    ],
+    "mots_cles": [
+      "bourse master international",
+      "CLIDE master",
+      "leadership interculturel",
+      "transformation digitale",
+      "études en Europe",
+      "master 2027",
+      "bourse études",
+      "programme master",
+      "candidature master",
+      "universités partenaires"
+    ],
+    "lien_candidature": "https://irk.umk.pl/en-gb/offer/U2026/programme/11550305-KRK/?from=field:IL",
+    "source_url": "https://clide.umk.pl/pages/home/",
+    "statut": "fermé",
+    "resume": "Le programme de master international CLIDE (Leadership Interculturel à l'Ère Numérique) forme les futurs leaders capables de conduire le changement dans des environnements culturellement divers et numériquement connectés. Proposé par un consortium de cinq universités européennes et au-delà, il combine leadership interculturel, transformation digitale, mobilité internationale et apprentissage pratique. Les admissions pour l'année académique 2027/2028 ouvriront en février 2027. Rejoignez une nouvelle génération de leaders aptes à connecter les personnes, les cultures et la technologie.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T01:59:54",
+    "slug": "bourse-clide-master-international-2027"
+  },
+  {
+    "titre": "Bourse Erasmus Mundus RESCO – Master en Énergies Renouvelables et Construction Durable",
+    "seo_slug": "bourse-erasmus-mundus-resco-master-2026",
+    "organisation": "Consortium RESCO (Erasmus Mundus Joint Master's Degree)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni. Les admissions 2026 sont closes (19 mai 2026). La campagne de candidature pour la prochaine promotion n'est pas encore annoncée.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Énergies renouvelables",
+      "Construction durable",
+      "Génie civil",
+      "Efficacité énergétique"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (langue d'enseignement principale)",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse complète (frais de scolarité, voyage, allocation mensuelle) selon les modalités Erasmus Mundus",
+      "Mobilité dans quatre institutions européennes",
+      "Expérience internationale et multiculturelle"
+    ],
+    "eligibilite": [
+      "Être titulaire d'une licence (ou équivalent) dans un domaine pertinent (génie civil, énergies renouvelables, etc.)",
+      "Maîtrise de l'anglais",
+      "Candidats internationaux et européens"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le site officiel du programme RESCO pour connaître les modalités de candidature.",
+      "2. Créer un compte sur la plateforme de candidature en ligne : https://e-admission.bme.hu/login/signup.php?lang=en",
+      "3. Remplir le formulaire de candidature et téléverser les documents requis (CV, lettre de motivation, diplômes, relevés de notes, preuve de compétence linguistique, etc.).",
+      "4. Soumettre la candidature avant la date limite (à vérifier sur le site).",
+      "5. Attendre les résultats de la sélection."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://e-admission.bme.hu/login/signup.php?lang=en"
+      },
+      {
+        "label": "Site officiel RESCO",
+        "url": "https://resco-master.eu/"
+      },
+      {
+        "label": "Découvrir le programme",
+        "url": "https://resco-master.eu/programme/"
+      },
+      {
+        "label": "Consortium",
+        "url": "https://resco-master.eu/consortium/"
+      },
+      {
+        "label": "Admission",
+        "url": "https://resco-master.eu/admission/"
+      },
+      {
+        "label": "Frais et bourses",
+        "url": "https://resco-master.eu/admission/fees-and-scholarships/"
+      },
+      {
+        "label": "Vie étudiante",
+        "url": "https://resco-master.eu/student-life/"
+      },
+      {
+        "label": "Actualités",
+        "url": "https://resco-master.eu/news/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master énergies renouvelables",
+      "construction durable",
+      "bourse Europe",
+      "RESCO master",
+      "bourse master 2026",
+      "études en Europe",
+      "bourse complète"
+    ],
+    "lien_candidature": "https://e-admission.bme.hu/login/signup.php?lang=en",
+    "source_url": "https://resco-master.eu/",
+    "statut": "fermé",
+    "resume": "Le master RESCO est un programme Erasmus Mundus conjoint de deux ans, dispensé par un consortium de quatre institutions européennes en Hongrie, Espagne, Portugal et France. Il forme des professionnels hautement qualifiés dans les domaines des énergies renouvelables et de la construction durable. Les étudiants bénéficient d'une mobilité internationale et d'une expérience unique au sein de villes européennes dynamiques. Les candidatures pour la promotion 2026 sont désormais closes, mais restez informés pour la prochaine campagne.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:02:22",
+    "slug": "bourse-erasmus-mundus-resco-master-2026"
+  },
+  {
+    "titre": "Master CYBERSURE en cybersécurité et assurance",
+    "seo_slug": "bourse-cybersure-master-europe-2027",
+    "organisation": "Consortium CYBERSURE (Erasmus Mundus)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète (frais de scolarité, voyage et frais de subsistance)",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni. La période de candidature est actuellement fermée. Les dates d'admission pour la promotion 2027 sont publiées et les informations seront mises à jour en continu.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Cybersécurité",
+      "Assurance",
+      "Informatique",
+      "Sécurité des réseaux",
+      "Cryptographie",
+      "Gestion des risques",
+      "Sécurité cloud",
+      "Sécurité de l'IA",
+      "Informatique légale"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (les cours sont dispensés en anglais)",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse Erasmus Mundus compétitive couvrant les frais de scolarité",
+      "Frais de voyage",
+      "Frais de subsistance",
+      "Diplômes conjoints prestigieux",
+      "Expérience internationale dans plusieurs universités européennes",
+      "Accès à des stages et réseaux industriels",
+      "Possibilité de réaliser un mémoire de master avec des groupes de recherche de premier plan"
+    ],
+    "eligibilite": [
+      "Talents étudiants du monde entier",
+      "Avoir un diplôme de licence ou équivalent",
+      "Maîtrise de l'anglais",
+      "Répondre aux critères d'admission spécifiques du programme (non détaillés dans le texte)"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page 'Comment postuler' pour connaître les étapes détaillées",
+      "2. Préparer votre candidature en vue de la prochaine période d'admission (2027)",
+      "3. Soumettre votre candidature via le portail officiel lorsque la période sera ouverte"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel CYBERSURE",
+        "url": "https://www.cybersure-master.eu/"
+      },
+      {
+        "label": "Programme",
+        "url": "/programme"
+      },
+      {
+        "label": "Bourses et frais",
+        "url": "/scholarships-and-fees"
+      },
+      {
+        "label": "Comment postuler",
+        "url": "/admission/how-to-apply"
+      },
+      {
+        "label": "À propos du consortium",
+        "url": "/about"
+      },
+      {
+        "label": "Vie étudiante",
+        "url": "/student-life"
+      },
+      {
+        "label": "Carrières",
+        "url": "/programme/careers"
+      },
+      {
+        "label": "Mémoire",
+        "url": "/programme/thesis"
+      },
+      {
+        "label": "Université NTNU (Norvège)",
+        "url": "https://www.ntnu.edu"
+      },
+      {
+        "label": "Université Aalto (Finlande)",
+        "url": "https://www.aalto.fi"
+      },
+      {
+        "label": "KTH Royal Institute of Technology (Suède)",
+        "url": "https://www.kth.se"
+      },
+      {
+        "label": "Université technique du Danemark (DTU)",
+        "url": "https://www.dtu.dk"
+      },
+      {
+        "label": "Université de Tartu (Estonie)",
+        "url": "https://www.ut.ee"
+      },
+      {
+        "label": "EURECOM (France)",
+        "url": "https://www.eurecom.fr"
+      },
+      {
+        "label": "Université technique de Graz (Autriche)",
+        "url": "https://www.tugraz.at"
+      }
+    ],
+    "mots_cles": [
+      "bourse cybersécurité",
+      "master cybersécurité europe",
+      "bourse Erasmus Mundus",
+      "CYBERSURE",
+      "bourse master 2027",
+      "étudier en Europe",
+      "bourse complète",
+      "cybersécurité et assurance"
+    ],
+    "lien_candidature": "https://www.cybersure-master.eu/admission/how-to-apply",
+    "source_url": "https://www.cybersure-master.eu/",
+    "statut": "fermé",
+    "resume": "Le master CYBERSURE en cybersécurité et assurance est un programme d'excellence Erasmus Mundus coordonné par sept universités européennes de premier plan. Il forme la prochaine génération de professionnels de la cybersécurité à travers un cursus de pointe et une expérience internationale unique. Les étudiants bénéficient de bourses compétitives couvrant les frais de scolarité, de voyage et de subsistance. La période de candidature est actuellement fermée, mais les dates d'admission pour la promotion 2027 sont déjà publiées.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:06:50",
+    "slug": "bourse-cybersure-master-europe-2027"
+  },
+  {
+    "titre": "Master en Énergie Renouvelable dans l'Environnement Marin (REM Plus 2)",
+    "seo_slug": "bourse-rem-plus-2-master-erasmus-mundus-2027",
+    "organisation": "Erasmus Mundus Joint Master Degree (REM Plus 2) - Universités : EHU, UCC, POLITO, ECN",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Les candidatures pour l'édition 2026 sont fermées. Plus d'informations sur l'édition 2027 seront bientôt disponibles.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Énergie renouvelable",
+      "Environnement marin",
+      "Ingénierie"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse complète (frais de scolarité, voyage, allocation mensuelle)",
+      "Possibilité de réaliser la thèse de master en entreprise",
+      "Programme international dans quatre universités (Espagne, Irlande, France, Italie)",
+      "Corps enseignant international et professionnels de l'industrie",
+      "Réseau de plus de 40 entreprises et institutions partenaires",
+      "Débouchés professionnels dans un secteur en forte demande",
+      "Formation dispensée par des enseignants universitaires et des professionnels d'entreprise"
+    ],
+    "eligibilite": [
+      "Étudiants internationaux",
+      "Répondre aux exigences académiques du programme",
+      "Maîtrise de l'anglais"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la procédure de candidature sur le site officiel",
+      "2. Remplir le formulaire de candidature en ligne",
+      "3. Soumettre les documents requis (diplômes, relevés de notes, CV, lettre de motivation, preuve de compétence linguistique)",
+      "4. Attendre les résultats de la sélection"
+    ],
+    "contacts": [
+      "info@master-remplus2.eu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://master-remplus2.eu/"
+      },
+      {
+        "label": "Brochure numérique (PDF)",
+        "url": "https://master-remplus2.eu/wp-content/uploads/REM-PLUS2-brochure.pdf"
+      },
+      {
+        "label": "Procédure de candidature",
+        "url": "https://master-remplus2.eu/application-procedure/"
+      },
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://master-remplus2.eu/online-application-form/"
+      },
+      {
+        "label": "Coûts de participation",
+        "url": "https://master-remplus2.eu/participation-costs/"
+      },
+      {
+        "label": "Spécialisations",
+        "url": "https://master-remplus2.eu/specializations/"
+      },
+      {
+        "label": "Parcours",
+        "url": "https://master-remplus2.eu/pathways/"
+      },
+      {
+        "label": "Plan académique",
+        "url": "https://master-remplus2.eu/academic-plan/"
+      },
+      {
+        "label": "Calendrier académique",
+        "url": "https://master-remplus2.eu/academic-calendar/"
+      },
+      {
+        "label": "Témoignages de réussite",
+        "url": "https://master-remplus2.eu/success-stories/"
+      }
+    ],
+    "mots_cles": [
+      "bourse master énergie renouvelable",
+      "Erasmus Mundus",
+      "REM Plus 2",
+      "bourse environnement marin",
+      "master international",
+      "bourse Europe",
+      "études énergie",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://master-remplus2.eu/online-application-form/",
+    "source_url": "https://master-remplus2.eu/",
+    "statut": "fermé",
+    "resume": "Le Master en Énergie Renouvelable dans l'Environnement Marin (REM Plus 2) est un programme de master conjoint Erasmus Mundus co-financé par l'Union européenne, dispensé dans quatre universités en Espagne, Irlande, France et Italie. Il offre une formation d'excellence dans le domaine des énergies marines renouvelables, avec la possibilité de réaliser une thèse en entreprise et un réseau de plus de 40 partenaires industriels. Des bourses complètes sont disponibles pour les étudiants internationaux. Les candidatures pour l'édition 2026 sont closes ; restez informés pour l'édition 2027.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:08:00",
+    "slug": "bourse-rem-plus-2-master-erasmus-mundus-2027"
+  },
+  {
+    "titre": "MULTICOM Erasmus Mundus Joint Master en Science des Données de la Communication Multimodale Humaine",
+    "seo_slug": "bourse-multicom-erasmus-master-2026",
+    "organisation": "Erasmus Mundus (Union européenne) - Universités de Murcia, Lund et FAU Erlangen-Nürnberg",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète ou partielle",
+    "deadline": null,
+    "deadline_texte": "Les candidatures sont actuellement fermées. La nouvelle période de candidature devrait ouvrir le 1er novembre 2026 ou peu après.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Science des données",
+      "Communication multimodale",
+      "Linguistique",
+      "Sciences cognitives",
+      "Intelligence artificielle",
+      "Technologies multimodales"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (excellente maîtrise)",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse Erasmus Mundus couvrant tout ou partie des coûts",
+      "Diplôme conjoint Erasmus Mundus co-financé par l'Union européenne",
+      "Éligibilité au doctorat",
+      "Possibilité d'apprendre l'espagnol, le suédois et l'allemand",
+      "Projet professionnel, événements internationaux, réseau d'anciens élèves, programme social et de networking",
+      "Soutien adapté aux candidats en situation de handicap ou ayant des besoins spéciaux"
+    ],
+    "eligibilite": [
+      "Compétences quantitatives de base",
+      "Solide formation en langue, communication et pensée",
+      "Excellente maîtrise de l'anglais"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page 'How to apply' pour connaître les modalités de candidature",
+      "2. Remplir séparément la demande d'aide financière (bourse Erasmus Mundus) si souhaité",
+      "3. Soumettre le dossier de candidature pendant la période d'ouverture (à partir du 1er novembre 2026 ou peu après)"
+    ],
+    "contacts": [
+      "hello@multicom-em.eu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel MULTICOM",
+        "url": "https://multicom-em.eu"
+      },
+      {
+        "label": "Programme",
+        "url": "https://multicom-em.eu/program/"
+      },
+      {
+        "label": "Comment postuler",
+        "url": "https://multicom-em.eu/how-to-apply/"
+      },
+      {
+        "label": "Critères d'admission",
+        "url": "https://multicom-em.eu/admission-criteria/"
+      },
+      {
+        "label": "Coûts et aide financière",
+        "url": "https://multicom-em.eu/costs-and-financial-aid/"
+      },
+      {
+        "label": "Universités partenaires",
+        "url": "https://multicom-em.eu/universities/"
+      },
+      {
+        "label": "Partenariats",
+        "url": "https://multicom-em.eu/partnerships/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://multicom-em.eu/faq"
+      },
+      {
+        "label": "Newsletter",
+        "url": "https://mailchi.mp/5f9679af1a63/multicom-newsletter"
+      },
+      {
+        "label": "Association Erasmus Mundus",
+        "url": "https://www.em-a.eu/"
+      },
+      {
+        "label": "Daedalus Lab (Université de Murcie)",
+        "url": "https://daedalus.um.es/"
+      },
+      {
+        "label": "Centre for Languages and Literature (Université de Lund)",
+        "url": "https://www.sol.lu.se/en/"
+      },
+      {
+        "label": "Big-Data Linguistics Chair (FAU Erlangen-Nuremberg)",
+        "url": "https://www.angam.phil.fau.de/fields/engling/big-data-linguistics/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master science des données",
+      "communication multimodale",
+      "bourse master Europe",
+      "MULTICOM",
+      "bourse études Espagne",
+      "bourse études Suède",
+      "bourse études Allemagne",
+      "master intelligence artificielle",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://multicom-em.eu/how-to-apply/",
+    "source_url": "https://multicom-em.eu/",
+    "statut": "fermé",
+    "resume": "MULTICOM est le premier master Erasmus Mundus en science des données de la communication multimodale humaine, combinant linguistique, sciences cognitives, intelligence artificielle et technologies multimodales. Ce programme conjoint de deux ans (120 ECTS) est dispensé en anglais par les universités de Murcia (Espagne), Lund (Suède) et FAU Erlangen-Nürnberg (Allemagne), avec un diplôme co-délivré et co-financé par l'Union européenne. Les candidats peuvent bénéficier de bourses Erasmus Mundus couvrant tout ou partie des frais, attribuées sur mérite et diversité internationale. Les candidatures sont actuellement fermées ; la prochaine période d'ouverture est prévue le 1er novembre 2026 ou peu après.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:13:44",
+    "slug": "bourse-multicom-erasmus-master-2026"
+  },
+  {
+    "titre": "Master Conjoint Erasmus Mundus en Physique Nucléaire (NucPhys)",
+    "seo_slug": "bourse-erasmus-mundus-nucphys-2027-2029",
+    "organisation": "Consortium NucPhys (Erasmus Mundus)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "La période de candidature pour 2026-2028 est fermée. La période de candidature pour 2027-2029 ouvrira à l'automne 2026.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Physique nucléaire"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [],
+    "procedure_etapes": [
+      "1. Consulter la page de procédure de candidature pour connaître les étapes détaillées.",
+      "2. Remplir le formulaire de candidature étudiant en ligne.",
+      "3. Soumettre le dossier avant la date limite (à venir pour 2027-2029)."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature étudiant",
+        "url": "https://www.emm-nucphys.eu/en/application-admission/application-procedure"
+      },
+      {
+        "label": "Procédure de candidature",
+        "url": "https://www.emm-nucphys.eu/en/application-admission/application-procedure"
+      },
+      {
+        "label": "Page d'accueil et présentation",
+        "url": "https://www.emm-nucphys.eu/nuphysjmd/en/welcome-and-presentation"
+      },
+      {
+        "label": "Actualités",
+        "url": "https://www.emm-nucphys.eu/en/news"
+      },
+      {
+        "label": "Liens utiles",
+        "url": "https://www.emm-nucphys.eu/en/useful-info/useful-links"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.emm-nucphys.eu/en/faqs"
+      },
+      {
+        "label": "Université de Séville",
+        "url": "https://www.us.es/"
+      },
+      {
+        "label": "Université de Barcelone",
+        "url": "https://www.ub.edu/web/ub/ca/"
+      },
+      {
+        "label": "Université de Caen Normandie",
+        "url": "https://www.unicaen.fr/"
+      },
+      {
+        "label": "Université Complutense de Madrid",
+        "url": "https://www.ucm.es/"
+      },
+      {
+        "label": "Université de Padoue",
+        "url": "https://www.unipd.it/"
+      },
+      {
+        "label": "Université de Catane",
+        "url": "https://www.unict.it/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master physique nucléaire",
+      "NucPhys",
+      "bourse master Europe",
+      "Erasmus Mundus 2027-2029",
+      "bourse études physique",
+      "master conjoint Erasmus",
+      "candidature NucPhys"
+    ],
+    "lien_candidature": "https://www.emm-nucphys.eu/en/application-admission/application-procedure",
+    "source_url": "https://www.emm-nucphys.eu/",
+    "statut": "fermé",
+    "resume": "Le Master Conjoint Erasmus Mundus en Physique Nucléaire (NucPhys) est un programme de deux ans (120 ECTS) offert par un consortium de six universités en Espagne, France et Italie, avec la participation d'environ 30 institutions de recherche et entreprises partenaires à travers le monde. Ce programme prestigieux, soutenu par Erasmus Mundus, forme des experts en physique nucléaire. Les candidatures pour la période 2026-2028 sont actuellement fermées, mais la prochaine session pour 2027-2029 ouvrira à l'automne 2026. Les étudiants intéressés sont invités à consulter le site officiel pour plus de détails sur les modalités de candidature et les opportunités de bourses.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T02:21:24",
+    "slug": "bourse-erasmus-mundus-nucphys-2027-2029"
   },
   {
     "titre": "Propositions de recherche réussies - Cours de rhétorique du modernisme",

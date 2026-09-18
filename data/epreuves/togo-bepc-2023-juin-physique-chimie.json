@@ -1,0 +1,18 @@
+{
+  "type": "examen",
+  "pays": "togo",
+  "matiere": "physique-chimie",
+  "annee": 2023,
+  "session": "juin",
+  "contenu_texte": null,
+  "fichiers": {
+    "sujet": "/docs/BEPC-BL-PCT-MTK.pdf",
+    "corrige": null
+  },
+  "nb_exercices": null,
+  "examen": "BEPC",
+  "serie": null,
+  "slug": "/epreuves/togo/bepc/2023/physique-chimie",
+  "id": "togo-bepc-2023-juin-physique-chimie",
+  "created_at": "2026-09-17T23:54:04.423847Z"
+}

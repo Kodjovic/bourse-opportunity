@@ -1,0 +1,18 @@
+{
+  "type": "examen",
+  "pays": "togo",
+  "matiere": "mathematiques",
+  "annee": 2025,
+  "session": "Juin",
+  "contenu_texte": null,
+  "fichiers": {
+    "sujet": "/docs/BEPC-BLANC-maths-MTK-2025-2026.pdf",
+    "corrige": null
+  },
+  "nb_exercices": null,
+  "examen": "BEPC",
+  "serie": null,
+  "slug": "/epreuves/togo/bepc/2025/mathematiques",
+  "id": "togo-bepc-2025-juin-mathematiques",
+  "created_at": "2026-09-18T00:00:41.008807Z"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "composition",
+  "pays": "togo",
+  "matiere": "svt",
+  "annee": 2025,
+  "session": "Juin",
+  "contenu_texte": null,
+  "fichiers": {
+    "sujet": "/docs/COMP-AGRI-3e-2e-TR-CEG-KOUDASSI_080354.pdf",
+    "corrige": null
+  },
+  "nb_exercices": null,
+  "classe": "Troisième",
+  "duree_minutes": null,
+  "coefficient": null,
+  "slug": "/compositions/togo/troisieme/2025/juin/svt",
+  "id": "compo-togo-troisieme-2025-juin-svt",
+  "created_at": "2026-09-18T00:01:47.615143Z"
+}

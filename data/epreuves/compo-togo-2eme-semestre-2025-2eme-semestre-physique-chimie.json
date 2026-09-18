@@ -1,0 +1,19 @@
+{
+  "type": "composition",
+  "pays": "togo",
+  "matiere": "physique-chimie",
+  "annee": 2025,
+  "session": "2eme semestre",
+  "contenu_texte": null,
+  "fichiers": {
+    "sujet": "/docs/PCT_Sujet-3e.pdf",
+    "corrige": null
+  },
+  "nb_exercices": null,
+  "classe": "2eme semestre",
+  "duree_minutes": null,
+  "coefficient": null,
+  "slug": "/compositions/togo/2eme-semestre/2025/2eme-semestre/physique-chimie",
+  "id": "compo-togo-2eme-semestre-2025-2eme-semestre-physique-chimie",
+  "created_at": "2026-09-18T00:10:24.083240Z"
+}

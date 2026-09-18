@@ -2958,99 +2958,92 @@
     "slug": "bourse-recherche-tasmanie-2026"
   },
   {
-    "titre": "Doctorat en cotutelle ou co-encadrement bi-national (DAAD)",
-    "seo_slug": "bourse-daad-doctorat-cotutelle-allemagne-2027",
-    "organisation": "DAAD",
-    "montant": 1400,
-    "devise": "EUR",
+    "titre": "Bourse Mastercard Foundation Scholars Program - University of Edinburgh",
+    "seo_slug": "bourse-mastercard-foundation-edinburgh-2026",
+    "organisation": "Mastercard Foundation & University of Edinburgh",
+    "montant": null,
+    "devise": null,
     "type_financement": "bourse complète",
     "deadline": null,
-    "deadline_texte": "Les dates limites sont mises à jour chaque année au deuxième trimestre. Dans la plupart des cas, elles se situent à la même période que l'année précédente. Les dates actuelles sont disponibles sur le site du DAAD.",
+    "deadline_texte": "Non spécifiée dans le texte fourni. Consulter la page des délais de candidature.",
     "niveau_etudes": [
-      "Doctorat"
+      "Master",
+      "Postgraduate"
     ],
     "domaines": [
-      "Tous les domaines"
+      "Leadership climatique",
+      "Études supérieures"
     ],
     "pays_eligibles": [
-      "Tous les pays (hors Allemagne)"
+      "Afrique subsaharienne"
     ],
     "age_maximum": null,
-    "langue_requise": "Allemand ou anglais (selon la langue de travail)",
-    "documents_requis": [
-      "Curriculum vitae complet sous forme de tableau (max. 3 pages)",
-      "Lettre de motivation",
-      "Plan de recherche et calendrier",
-      "Diplômes et relevés de notes",
-      "Preuves de compétences linguistiques",
-      "Lettres de recommandation",
-      "Convention de cotutelle (si applicable)",
-      "Traductions en allemand ou en anglais des documents en langue nationale"
-    ],
+    "langue_requise": "Anglais",
+    "documents_requis": [],
     "avantages": [
-      "Paiements mensuels de 1 400 euros pendant le séjour en Allemagne",
-      "Paiements versés pour l'assurance maladie, accident et responsabilité civile",
-      "Allocations de voyage (sur demande) pour jusqu'à trois voyages aller-retour",
-      "Allocation de recherche de 460 euros",
-      "Frais de voyage et d'hébergement pour les superviseurs universitaires (un voyage jusqu'à 10 jours)",
-      "Cours de langue en ligne après réception de la lettre d'attribution",
-      "Cours de langue (2, 4 ou 6 mois) avant le séjour de recherche si nécessaire",
-      "Allocation pour un cours de langue allemande choisi personnellement pendant la période de financement",
-      "Remboursement des frais de test TestDaF ou DSH",
-      "Supplément de loyer mensuel (pour séjours ininterrompus de plus de 6 mois)",
-      "Allocation mensuelle pour les membres de la famille accompagnants",
-      "Subvention pour frais supplémentaires en cas de handicap ou maladie chronique"
+      "Prise en charge complète des frais de scolarité",
+      "Frais de subsistance",
+      "Participation au programme de leadership climatique",
+      "Accès à une communauté de boursiers"
     ],
     "eligibilite": [
-      "Pour l'option a) (modèle sandwich) : avoir obtenu un Master ou un Diplom (ou dans des cas exceptionnels une licence) au plus tard au début de la période de financement.",
-      "Pour l'option b) (modèle cotutelle) : avoir été admis dans un programme de doctorat au plus tard au début de la période de financement.",
-      "Le diplôme universitaire le plus récent ne doit pas avoir été obtenu il y a plus de six ans avant la date limite de candidature.",
-      "Si le doctorat a déjà commencé, le début du doctorat ne doit pas remonter à plus de trois ans au moment de la candidature.",
-      "Ne pas avoir résidé en Allemagne depuis plus de 15 mois à la date limite de candidature.",
-      "Pour les candidats en médecine humaine, vétérinaire ou dentisterie, des réglementations différentes s'appliquent."
+      "Jeunes leaders exceptionnels ayant surmonté des obstacles éducatifs",
+      "Engagement à étudier sur le campus ou en ligne",
+      "Être ressortissant d'un pays d'Afrique subsaharienne"
     ],
     "procedure_etapes": [
-      "Vérifier les critères d'éligibilité.",
-      "S'inscrire sur le portail DAAD.",
-      "Remplir la demande en ligne complète.",
-      "Télécharger les documents requis dans la section 'Pièces jointes'.",
-      "Soumettre la demande avant la date limite."
+      "1. Consulter les conseils de candidature",
+      "2. Choisir le type de bourse (sur le campus ou en ligne)",
+      "3. Vérifier les délais de candidature",
+      "4. Soumettre la candidature via le portail"
     ],
     "contacts": [],
     "liens_utiles": [
       {
-        "label": "Portail de candidature DAAD",
-        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
+        "label": "Page de candidature",
+        "url": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship"
       },
       {
-        "label": "Informations importantes pour les candidats",
-        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+        "label": "Bourses de troisième cycle sur le campus",
+        "url": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/on-campus-postgraduate-scholarships"
       },
       {
-        "label": "Allocations de voyage (PDF)",
-        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_reisekostenzuschuesse_stipendiaten.pdf"
+        "label": "Programme de leadership climatique",
+        "url": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/climate-leadership-programme"
       },
       {
-        "label": "Informations supplémentaires pour la médecine",
-        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/scholarship-database/additional-information-medicine/"
+        "label": "Bourses de troisième cycle en ligne",
+        "url": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/online-postgraduate-scholarships"
+      },
+      {
+        "label": "Communauté de boursiers",
+        "url": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/our-mastercard-foundation-scholar"
+      },
+      {
+        "label": "Calendrier de candidature",
+        "url": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/application-timelines"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/frequently-asked-questions"
       }
     ],
     "mots_cles": [
-      "bourse doctorat allemagne",
-      "cotutelle",
-      "sandwich model",
-      "DAAD",
-      "financement recherche",
-      "séjour recherche allemagne",
-      "doctorat bi-national"
+      "bourse Mastercard Foundation",
+      "University of Edinburgh",
+      "bourse études supérieures",
+      "bourse Afrique",
+      "bourse leadership climatique",
+      "bourse complète",
+      "bourse 2026"
     ],
-    "lien_candidature": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html",
+    "lien_candidature": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship",
     "source_url": "manuel",
     "statut": "ouvert",
-    "resume": "Le programme DAAD de doctorats en cotutelle ou co-encadrement bi-national offre aux doctorants internationaux la possibilité de réaliser leur thèse entre leur université d'origine et une université allemande. Deux options sont possibles : le modèle 'sandwich' avec un co-encadrement, ou la cotutelle avec un diplôme conjoint. La bourse comprend une allocation mensuelle de 1 400 euros, une allocation de recherche, des allocations de voyage et divers avantages. Les candidatures sont ouvertes pour un financement débutant en 2027, avec des dates limites mises à jour chaque année.",
+    "resume": "Le Mastercard Foundation Scholars Program de l'Université d'Édimbourg offre des bourses complètes à des jeunes leaders exceptionnels d'Afrique subsaharienne qui ont surmonté des obstacles éducatifs. Les boursiers peuvent étudier sur le campus ou en ligne et participent à un programme de leadership climatique. La bourse couvre les frais de scolarité, les frais de subsistance et offre l'accès à une communauté mondiale de boursiers. Les candidatures sont ouvertes pour les études de troisième cycle.",
     "imageUrl": null,
-    "extrait_le": "2026-09-07T19:08:56",
-    "slug": "bourse-daad-doctorat-cotutelle-allemagne-2027"
+    "extrait_le": "2026-09-18T00:08:01",
+    "slug": "bourse-mastercard-foundation-edinburgh-2026"
   },
   {
     "titre": "Programme de Bourses Karsh International",

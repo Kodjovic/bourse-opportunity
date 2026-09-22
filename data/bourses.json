@@ -1,93 +1,5 @@
 [
   {
-    "titre": "Bourse de recherche doctorale Meta",
-    "seo_slug": "bourse-meta-phd-2026",
-    "organisation": "Meta Research",
-    "montant": 42000,
-    "devise": "USD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-09-20",
-    "deadline_texte": "20 septembre 2026 (date limite de candidature). Les lettres de recommandation doivent être soumises avant le 6 octobre 2026.",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Informatique",
-      "Intelligence artificielle",
-      "Réalité augmentée/virtuelle",
-      "Interaction homme-machine",
-      "Politique technologique",
-      "Systèmes distribués",
-      "Réseaux",
-      "Graphisme",
-      "Bases de données",
-      "Langages de programmation",
-      "Audio",
-      "Batteries",
-      "Sans fil"
-    ],
-    "pays_eligibles": [
-      "Monde entier"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature",
-      "Deux lettres de recommandation (dont une de votre directeur de thèse)",
-      "Relevés de notes",
-      "CV",
-      "Déclaration de recherche"
-    ],
-    "avantages": [
-      "Frais de scolarité et frais payés pendant deux ans",
-      "Bourse annuelle de 42 000 $ pour couvrir les frais de subsistance et de voyage aux conférences",
-      "Visite payée au siège de Meta pour le sommet annuel des boursiers",
-      "Diverses opportunités d'engagement avec les chercheurs de Meta"
-    ],
-    "eligibilite": [
-      "Être inscrit en doctorat (toute année)",
-      "La recherche doit être alignée avec l'un des domaines de recherche applicables",
-      "Les candidats de divers horizons sont encouragés à postuler, en particulier ceux issus de groupes minoritaires traditionnellement sous-représentés"
-    ],
-    "procedure_etapes": [
-      "Lire et remplir soigneusement le formulaire de candidature",
-      "Sélectionner le domaine de recherche pertinent le plus aligné avec votre recherche",
-      "Marquer la candidature comme complète une fois remplie",
-      "Demander deux lettres de recommandation (dont une de votre directeur de thèse)",
-      "Soumettre les adresses e-mail des recommandataires dans le formulaire de demande de recommandation et marquer comme complet",
-      "Cliquer sur 'Soumettre' une fois toutes les tâches marquées comme complètes"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Site officiel de la bourse",
-        "url": "https://research.facebook.com/fellowship/"
-      },
-      {
-        "label": "FAQ de la bourse Meta",
-        "url": "https://research.facebook.com/fellowship/#faqs"
-      }
-    ],
-    "mots_cles": [
-      "bourse doctorat",
-      "bourse Meta",
-      "bourse recherche",
-      "bourse informatique",
-      "bourse intelligence artificielle",
-      "bourse AR/VR",
-      "bourse interaction homme-machine",
-      "bourse politique technologique",
-      "bourse 2026"
-    ],
-    "lien_candidature": "https://research.facebook.com/fellowship/",
-    "source_url": "https://metaresearchphdfellowship.smapply.io/",
-    "statut": "ouvert",
-    "resume": "La bourse de recherche doctorale Meta est ouverte aux étudiants en doctorat de toute année, avec un fort encouragement pour les candidats issus de groupes sous-représentés. Les lauréats bénéficient de deux ans de frais de scolarité payés, d'une allocation annuelle de 42 000 $, d'une visite au siège de Meta et d'opportunités de collaboration avec les chercheurs de Meta. Les candidatures sont évaluées sur la base de la déclaration de recherche, de l'impact de la recherche et des lettres de recommandation. La date limite de candidature est le 20 septembre 2026, et les lettres de recommandation doivent être soumises avant le 6 octobre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-14T00:55:30",
-    "slug": "bourse-meta-phd-2026"
-  },
-  {
     "titre": "Doctorat sous supervision binationale / Cotutelle • DAAD",
     "seo_slug": "doctorat-binantional-cotutelle-daad-2027",
     "organisation": "DAAD",
@@ -20901,6 +20813,94 @@
     "imageUrl": null,
     "extrait_le": "2026-09-08T10:18:22",
     "slug": "stage-gcf-it-incheon-2026"
+  },
+  {
+    "titre": "Bourse de recherche doctorale Meta",
+    "seo_slug": "bourse-meta-phd-2026",
+    "organisation": "Meta Research",
+    "montant": 42000,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-09-20",
+    "deadline_texte": "20 septembre 2026 (date limite de candidature). Les lettres de recommandation doivent être soumises avant le 6 octobre 2026.",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Informatique",
+      "Intelligence artificielle",
+      "Réalité augmentée/virtuelle",
+      "Interaction homme-machine",
+      "Politique technologique",
+      "Systèmes distribués",
+      "Réseaux",
+      "Graphisme",
+      "Bases de données",
+      "Langages de programmation",
+      "Audio",
+      "Batteries",
+      "Sans fil"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Deux lettres de recommandation (dont une de votre directeur de thèse)",
+      "Relevés de notes",
+      "CV",
+      "Déclaration de recherche"
+    ],
+    "avantages": [
+      "Frais de scolarité et frais payés pendant deux ans",
+      "Bourse annuelle de 42 000 $ pour couvrir les frais de subsistance et de voyage aux conférences",
+      "Visite payée au siège de Meta pour le sommet annuel des boursiers",
+      "Diverses opportunités d'engagement avec les chercheurs de Meta"
+    ],
+    "eligibilite": [
+      "Être inscrit en doctorat (toute année)",
+      "La recherche doit être alignée avec l'un des domaines de recherche applicables",
+      "Les candidats de divers horizons sont encouragés à postuler, en particulier ceux issus de groupes minoritaires traditionnellement sous-représentés"
+    ],
+    "procedure_etapes": [
+      "Lire et remplir soigneusement le formulaire de candidature",
+      "Sélectionner le domaine de recherche pertinent le plus aligné avec votre recherche",
+      "Marquer la candidature comme complète une fois remplie",
+      "Demander deux lettres de recommandation (dont une de votre directeur de thèse)",
+      "Soumettre les adresses e-mail des recommandataires dans le formulaire de demande de recommandation et marquer comme complet",
+      "Cliquer sur 'Soumettre' une fois toutes les tâches marquées comme complètes"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse",
+        "url": "https://research.facebook.com/fellowship/"
+      },
+      {
+        "label": "FAQ de la bourse Meta",
+        "url": "https://research.facebook.com/fellowship/#faqs"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat",
+      "bourse Meta",
+      "bourse recherche",
+      "bourse informatique",
+      "bourse intelligence artificielle",
+      "bourse AR/VR",
+      "bourse interaction homme-machine",
+      "bourse politique technologique",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://research.facebook.com/fellowship/",
+    "source_url": "https://metaresearchphdfellowship.smapply.io/",
+    "statut": "fermé",
+    "resume": "La bourse de recherche doctorale Meta est ouverte aux étudiants en doctorat de toute année, avec un fort encouragement pour les candidats issus de groupes sous-représentés. Les lauréats bénéficient de deux ans de frais de scolarité payés, d'une allocation annuelle de 42 000 $, d'une visite au siège de Meta et d'opportunités de collaboration avec les chercheurs de Meta. Les candidatures sont évaluées sur la base de la déclaration de recherche, de l'impact de la recherche et des lettres de recommandation. La date limite de candidature est le 20 septembre 2026, et les lettres de recommandation doivent être soumises avant le 6 octobre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-14T00:55:30",
+    "slug": "bourse-meta-phd-2026"
   },
   {
     "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",

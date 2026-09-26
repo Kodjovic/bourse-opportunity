@@ -1,389 +1,5 @@
 [
   {
-    "titre": "Doctorat sous supervision binationale / Cotutelle • DAAD",
-    "seo_slug": "doctorat-binantional-cotutelle-daad-2027",
-    "organisation": "DAAD",
-    "montant": 1400,
-    "devise": "EUR",
-    "type_financement": "bourse mensuelle",
-    "deadline": "2026-09-24",
-    "deadline_texte": "24 septembre 2026",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Tous domaines"
-    ],
-    "pays_eligibles": [
-      "Tous pays sauf Allemagne"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Allemand ou Anglais",
-    "documents_requis": [
-      "Diplôme de Master ou équivalent",
-      "Plan de recherche",
-      "Calendrier",
-      "Lettre de motivation",
-      "CV",
-      "Lettres de recommandation",
-      "Convention de cotutelle (option b)",
-      "Preuve de langue"
-    ],
-    "avantages": [
-      "Allocation mensuelle de 1400 EUR",
-      "Assurance santé, accident et responsabilité civile",
-      "Indemnité de voyage (jusqu'à 3 allers-retours)",
-      "Allocation de recherche de 460 EUR",
-      "Frais de déplacement et d'hébergement pour les superviseurs (1 voyage jusqu'à 10 jours)",
-      "Subvention de loyer (séjour >6 mois)",
-      "Allocation familiale (séjour >6 mois)",
-      "Cours de langue en ligne",
-      "Cours de langue intensif (2,4,6 mois)",
-      "Remboursement TestDaF/DSH"
-    ],
-    "eligibilite": [
-      "Diplôme le plus récent obtenu il y a moins de 6 ans avant la date limite",
-      "Début du doctorat il y a moins de 3 ans à la date de candidature",
-      "Ne pas résider en Allemagne depuis plus de 15 mois à la date limite",
-      "Master ou Diplom (ou exceptionnellement Bachelor) pour option a",
-      "Admission dans un programme doctoral pour option b"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les critères d'éligibilité",
-      "2. Préparer les documents (plan de recherche, calendrier, etc.)",
-      "3. Contacter les superviseurs en Allemagne et dans le pays d'origine",
-      "4. Soumettre la candidature via le portail DAAD avant le 24 septembre 2026",
-      "5. Attendre la sélection (février 2027)",
-      "6. Début du financement à partir d'octobre 2027"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Portail de candidature DAAD",
-        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
-      },
-      {
-        "label": "Informations importantes pour les candidats",
-        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
-      },
-      {
-        "label": "Indemnités de voyage (PDF)",
-        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_reisekostenzuschuesse_stipendiaten.pdf"
-      },
-      {
-        "label": "Informations supplémentaires pour la médecine",
-        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/scholarship-database/additional-information-medicine/"
-      }
-    ],
-    "mots_cles": [
-      "bourse doctorat allemagne",
-      "cotutelle daad",
-      "doctorat binational",
-      "bourse sandwich",
-      "daad 2027"
-    ],
-    "lien_candidature": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html",
-    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=1&detail=57507783",
-    "statut": "ouvert",
-    "resume": "Le programme de doctorat sous supervision binationale / Cotutelle du DAAD offre aux doctorants internationaux la possibilité de réaliser un projet de recherche conjoint entre leur université d'origine et une université allemande. Deux options sont proposées : le modèle sandwich (supervision binationale) et le modèle Cotutelle (diplôme conjoint). La bourse comprend une allocation mensuelle de 1400 EUR, une assurance, des indemnités de voyage et une allocation de recherche. Les candidatures sont ouvertes jusqu'au 24 septembre 2026 pour un début de financement en octobre 2027.",
-    "imageUrl": "/docs/Doctorats-encadr-s-binationalement-Cotutelle-DAAD.webp",
-    "extrait_le": "2026-07-09T02:34:38",
-    "slug": "doctorat-binantional-cotutelle-daad-2027"
-  },
-  {
-    "titre": "Bourses d'études - Études postuniversitaires dans le domaine de la musique",
-    "seo_slug": "bourse-daad-musique-master-allemagne-2026",
-    "organisation": "DAAD",
-    "montant": 992,
-    "devise": "EUR",
-    "type_financement": "bourse complète",
-    "deadline": "2026-09-24",
-    "deadline_texte": "24 septembre 2026",
-    "niveau_etudes": [
-      "Master",
-      "Postgraduate",
-      "Konzertexamen",
-      "Meisterklasse"
-    ],
-    "domaines": [
-      "Musique"
-    ],
-    "pays_eligibles": [
-      "Tous pays sauf Allemagne"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Allemand ou anglais selon la langue d'enseignement",
-    "documents_requis": [
-      "Curriculum vitae",
-      "Lettre de motivation",
-      "Lettre d'admission (si disponible)",
-      "Enregistrements vidéo/audio",
-      "Formulaire de candidature en ligne"
-    ],
-    "avantages": [
-      "Paiement mensuel de 992 euros",
-      "Allocation de voyage (sur demande)",
-      "Allocation d'études unique",
-      "Assurance maladie, accident et responsabilité civile",
-      "Allocation de loyer (sous conditions)",
-      "Allocation familiale (sous conditions)",
-      "Cours de langue allemande",
-      "Remise des frais de TestDaF ou DSH",
-      "Green Mobility Top Up"
-    ],
-    "eligibilite": [
-      "Diplôme de premier cycle en musique obtenu avant le début de la bourse",
-      "Diplôme datant de moins de 6 ans à la date limite de candidature",
-      "Ne pas avoir résidé en Allemagne plus de 15 mois avant la date limite",
-      "Ne pas avoir déjà commencé un master/postgraduate en Allemagne"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les critères d'éligibilité",
-      "2. Rassembler les documents requis",
-      "3. Compléter la candidature en ligne sur le portail DAAD",
-      "4. Télécharger les pièces justificatives",
-      "5. Soumettre avant la date limite"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Portail DAAD",
-        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
-      },
-      {
-        "label": "Informations importantes pour les candidats",
-        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
-      },
-      {
-        "label": "Allocation de voyage (PDF)",
-        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_reisekostenzuschuesse_stipendiaten.pdf"
-      },
-      {
-        "label": "Informations supplémentaires musique",
-        "url": "https://www.daad.de/en/studying-in-germany/scholarships/scholarship-database/information-music/"
-      }
-    ],
-    "mots_cles": [
-      "bourse DAAD",
-      "musique Allemagne",
-      "master musique",
-      "bourse postuniversitaire",
-      "étudier en Allemagne",
-      "bourse 2026",
-      "DAAD musique",
-      "bourse complète"
-    ],
-    "lien_candidature": "https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=2&detail=57135743",
-    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=2&detail=57135743",
-    "statut": "ouvert",
-    "resume": "Le DAAD offre des bourses pour des études postuniversitaires en musique en Allemagne, couvrant les masters, Konzertexamen et Meisterklasse. Les candidats doivent être diplômés en musique et présenter un projet artistique de qualité. La bourse comprend 992 euros par mois, une allocation de voyage et divers avantages. Date limite : 24 septembre 2026.",
-    "imageUrl": "/docs/Bourses-d-tudes-tudes-sup-rieures-en-musique-DAAD.webp",
-    "extrait_le": "2026-07-09T02:44:15",
-    "slug": "bourse-daad-musique-master-allemagne-2026"
-  },
-  {
-    "titre": "Programme de Réinvitation pour Anciens Boursiers DAAD",
-    "seo_slug": "reinvitation-anciens-boursiers-daad-2027",
-    "organisation": "DAAD",
-    "montant": 2150,
-    "devise": "EUR",
-    "type_financement": "bourse partielle",
-    "deadline": "2026-09-24",
-    "deadline_texte": "24 septembre 2026 (première échéance) et 17 mars 2027 (deuxième échéance)",
-    "niveau_etudes": [
-      "Post-doctorat",
-      "Recherche"
-    ],
-    "domaines": [
-      "Tous domaines"
-    ],
-    "pays_eligibles": [
-      "Tous pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Allemand ou Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne",
-      "CV tabulaire (max 3 pages)",
-      "Liste des publications (si applicable)",
-      "Exposé détaillé du projet de recherche ou de travail (max 10 pages)",
-      "Calendrier et itinéraire du séjour",
-      "Confirmation de l'hôte académique en Allemagne"
-    ],
-    "avantages": [
-      "Allocation mensuelle de 2000 € (pour assistants, maîtres de conférences) ou 2150 € (pour professeurs)",
-      "Allocation de voyage (sous conditions)",
-      "Subvention pour frais supplémentaires liés au handicap ou maladie chronique (sur demande)",
-      "Assurance maladie (si nécessaire, déduite de la bourse)"
-    ],
-    "eligibilite": [
-      "Ancien boursier DAAD de recherche ou d'études ayant été financé pendant plus de six mois par le ministère fédéral des Affaires étrangères ou dans un programme cofinancé",
-      "Ancien boursier est-allemand ayant étudié au moins un an en Allemagne",
-      "Ne pas avoir vécu en Allemagne depuis au moins trois ans",
-      "Projet de recherche ou de travail coordonné avec un partenaire de coopération en Allemagne"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les critères d'éligibilité",
-      "2. Préparer les documents requis (traductions en allemand ou anglais si nécessaire)",
-      "3. Accéder au portail DAAD (ouverture au moins 6 semaines avant la date limite)",
-      "4. Remplir le formulaire en ligne et télécharger les documents en PDF",
-      "5. Soumettre la candidature avant 24h00 (CET/CEST) le jour de la date limite"
-    ],
-    "contacts": [
-      "portal@daad.de",
-      "+49 228 882 180",
-      "+49 (0) 228 882-8888"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Portail de candidature DAAD",
-        "url": "https://www.daad.de/sapportal/"
-      },
-      {
-        "label": "Informations importantes pour les candidats",
-        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
-      },
-      {
-        "label": "Allocation de voyage (PDF)",
-        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_reisekostenzuschuesse_stipendiaten.pdf"
-      },
-      {
-        "label": "Notes sur l'inscription au portail (PDF)",
-        "url": "https://www.daad.de/sapportal/hilfe/hb_portal_pdf/01_Registrierung_PBF_AUSL_en.pdf"
-      },
-      {
-        "label": "Notes sur la candidature en ligne (PDF)",
-        "url": "https://www.daad.de/sapportal/hilfe/hb_portal_pdf/02_Bewerbung_PBF_AUSL_en.pdf"
-      },
-      {
-        "label": "Formulaire de contact DAAD",
-        "url": "https://www.daad.de/en/the-daad/contact/contact-study-research-in-germany/"
-      }
-    ],
-    "mots_cles": [
-      "bourse DAAD",
-      "anciens boursiers",
-      "recherche Allemagne",
-      "séjour de recherche",
-      "programme de réinvitation"
-    ],
-    "lien_candidature": "https://www.daad.de/sapportal/",
-    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=2&detail=50015492",
-    "statut": "ouvert",
-    "resume": "Le programme de réinvitation du DAAD permet aux anciens boursiers de réaliser un projet de recherche ou de travail en Allemagne pour une durée d'un à trois mois en 2027. Les candidats doivent avoir été financés par le DAAD pendant plus de six mois et ne pas avoir vécu en Allemagne depuis au moins trois ans. La bourse comprend une allocation mensuelle de 2000 à 2150 euros selon le statut, une allocation de voyage et une assurance maladie si nécessaire. Les candidatures se font en ligne via le portail DAAD, avec deux dates limites : 24 septembre 2026 et 17 mars 2027.",
-    "imageUrl": "/docs/Programme-de-r-invitation-pour-les-anciens-boursiers-DAAD.webp",
-    "extrait_le": "2026-07-09T02:49:07",
-    "slug": "reinvitation-anciens-boursiers-daad-2027"
-  },
-  {
-    "titre": "Appel multilatéral de recherche SGCI soutenant STISA 2034 : faire progresser les priorités de l'Afrique en matière de science, technologie et innovation",
-    "seo_slug": "bourse-sgci-stisa-2034-afrique-2026",
-    "organisation": "Science Granting Councils Initiative (SGCI)",
-    "montant": 300000,
-    "devise": "CAD",
-    "type_financement": "subvention de recherche",
-    "deadline": "2026-09-25",
-    "deadline_texte": "25 septembre 2026 à 23h59 (heure de l'Est)",
-    "niveau_etudes": [
-      "Recherche postdoctorale",
-      "Chercheur"
-    ],
-    "domaines": [
-      "Agriculture",
-      "Santé",
-      "Intelligence artificielle et technologies numériques",
-      "Énergie",
-      "Environnement"
-    ],
-    "pays_eligibles": [
-      "Botswana",
-      "Burkina Faso",
-      "Côte d'Ivoire",
-      "Éthiopie",
-      "Ghana",
-      "Kenya",
-      "Malawi",
-      "Mozambique",
-      "Namibie",
-      "Nigéria",
-      "Rwanda",
-      "Sénégal",
-      "Sierra Leone",
-      "Afrique du Sud",
-      "Tanzanie",
-      "Togo",
-      "Ouganda",
-      "Zambie",
-      "Zimbabwe"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais, Français, Portugais",
-    "documents_requis": [
-      "Expression d'intérêt",
-      "Proposition de recherche",
-      "CV du chercheur principal",
-      "Lettres de soutien des institutions partenaires"
-    ],
-    "avantages": [
-      "Financement de 50 000 à 300 000 CAD par membre du consortium",
-      "Soutien à la recherche collaborative",
-      "Renforcement des capacités",
-      "Mise en réseau"
-    ],
-    "eligibilite": [
-      "Être une organisation éligible",
-      "Constituer un consortium avec un organisme principal et deux à quatre co-demandeurs",
-      "Proposer un chercheur principal à temps plein",
-      "Démontrer la capacité à gérer des fonds de recherche",
-      "Aligner la recherche sur au moins un des thèmes"
-    ],
-    "procedure_etapes": [
-      "1. Lire le document d'appel détaillé",
-      "2. Consulter les FAQ",
-      "3. Créer un compte sur SurveyMonkey Apply",
-      "4. Soumettre l'expression d'intérêt via le portail"
-    ],
-    "contacts": [
-      "SGCSSA@idrc.ca"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Visitez le site :",
-        "url": "https://idrc-crdi.smapply.io/prog/supporting_stisa_2034_sgci_multilateral_research_call_advancing_africas_science_technology_and_innovation_priorities/"
-      },
-      {
-        "label": "Document d'appel détaillé",
-        "url": "https://idrc-crdi.ca/en/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology-and"
-      },
-      {
-        "label": "Foire aux questions (FAQ)",
-        "url": "https://idrc-crdi.ca/en/frequently-asked-questions-faq-sgci-multilateral-research-call-advancing-africas-science-technology"
-      },
-      {
-        "label": "Guide de configuration de compte SurveyMonkey Apply",
-        "url": "https://www.idrc.ca/sites/default/files/2021-05/Survey%20Monkey%20Apply%20-%20General%20Applicant%20Guide.pdf"
-      },
-      {
-        "label": "Version portugaise de l'appel (PDF)",
-        "url": "https://idrc-crdi.ca/sites/default/files/2026-07/Suporte%20%C3%A0%20STISA%202034_0.pdf"
-      }
-    ],
-    "mots_cles": [
-      "bourse de recherche Afrique",
-      "SGCI STISA 2034",
-      "subvention recherche Afrique",
-      "appel à projets science technologie",
-      "financement recherche collaborative Afrique"
-    ],
-    "lien_candidature": "https://idrc-crdi.smapply.io/prog/supporting_stisa_2034_sgci_multilateral_research_call_advancing_africas_science_technology_and_innovation_priorities/",
-    "source_url": "https://idrc-crdi.ca/en/funding/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology?fbclid=IwY2xjawTuhndwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeJ1dun24uLe8BuaRp7U1x6E51D7j3NnUirKRaFSf8xMZqgD-O1ocZkcXa4jo_aem_LPFx0a5OIXT6xQZWAKIqGg",
-    "statut": "ouvert",
-    "resume": "L'Initiative des conseils subventionnaires de la science en Afrique subsaharienne (SGCI) lance un appel multilatéral de recherche pour soutenir la mise en œuvre de la stratégie STISA-2034 de l'Union africaine. Ce financement soutient des projets collaboratifs multi-pays dans cinq domaines prioritaires : agriculture, santé, intelligence artificielle, énergie et environnement. Les consortiums éligibles, composés d'institutions de plusieurs pays participants, peuvent recevoir entre 50 000 et 300 000 CAD. Les candidatures se font en ligne via le portail SurveyMonkey Apply avant le 25 septembre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-08-16T12:05:29",
-    "slug": "bourse-sgci-stisa-2034-afrique-2026"
-  },
-  {
     "titre": "Bourse d'études en innovation et technologie 2027 - Mastercard Foundation Scholars Program",
     "seo_slug": "bourse-mastercard-innovation-technologie-asu-2027",
     "organisation": "Mastercard Foundation Scholars Program en partenariat avec Arizona State University",
@@ -1062,6 +678,93 @@
     "adresse": "Rosa Luxemburg Foundation Straße der Pariser Kommune 8A 10243 Berlin Germany",
     "extrait_le": "2026-06-15T02:25:10",
     "slug": "bourse-rosa-luxemburg-doctorat-allemagne"
+  },
+  {
+    "titre": "Inscription au 6e Forum mondial des données des Nations Unies (UNWDF) 2026",
+    "seo_slug": "unwdf-2026-inscription-riyadh",
+    "organisation": "United Nations World Data Forum (UNWDF)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "aucun financement (participation à titre individuel)",
+    "deadline": "2026-10-01",
+    "deadline_texte": "1 octobre 2026 (date limite d'inscription en ligne)",
+    "niveau_etudes": [],
+    "domaines": [
+      "Données",
+      "Statistiques",
+      "Développement durable"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Scan du passeport ou de la carte d'identité nationale",
+      "Photo de profil (format PNG, style passeport)",
+      "Documents supplémentaires pour vérifier les informations professionnelles (si nécessaire)",
+      "Documents supplémentaires pour le visa (si nécessaire)"
+    ],
+    "avantages": [
+      "Réductions exclusives sur les billets d'avion pour les participants approuvés (sous réserve de disponibilité et de conditions de réservation)",
+      "Participation en personne à l'événement",
+      "Possibilité de participer à distance si la candidature n'est pas approuvée"
+    ],
+    "eligibilite": [
+      "Disposer d'une adresse e-mail valide pour créer un compte INDICO",
+      "Fournir un scan d'une pièce d'identité (passeport ou carte d'identité nationale)",
+      "Fournir des informations personnelles et professionnelles (organisation, poste, coordonnées)",
+      "Fournir les informations de visa requises pour le voyage (le cas échéant)"
+    ],
+    "procedure_etapes": [
+      "1. Avant de commencer : préparer une adresse e-mail valide, un scan de pièce d'identité, les informations personnelles et professionnelles, et les informations de visa si nécessaire.",
+      "2. Accéder au formulaire d'inscription 'UNWDF 2026 Registration to attend in person' sur la plateforme INDICO des Nations Unies : https://indico.un.org/event/1021645/registrations/",
+      "3. Sélectionner 'Log in to proceed'.",
+      "4. Créer un compte INDICO si vous n'en avez pas : cliquer sur 'create one here', vérifier votre adresse e-mail, puis vous connecter.",
+      "5. Remplir le formulaire d'inscription avec toutes les informations requises : informations personnelles, professionnelles et de contact ; informations sur l'organisation ; informations de voyage, visa et participation ; informations diverses.",
+      "6. Téléverser les documents requis : scan du passeport ou de la carte d'identité, photo de profil (PNG, style passeport), et tout document supplémentaire si nécessaire.",
+      "7. Soumettre le formulaire en cliquant sur 'Submit Registration'.",
+      "8. Recevoir un e-mail de confirmation de soumission.",
+      "9. Attendre l'examen de la candidature par le Secrétariat de l'UNWDF et le pays hôte ; les inscriptions sont examinées et approuvées au fur et à mesure pour assurer une représentation équilibrée.",
+      "10. Si approuvé, recevoir une confirmation avec plus d'informations ; si non approuvé, recevoir des informations sur la participation à distance.",
+      "11. Les candidats seront informés de la décision au plus tard le 9 octobre 2026."
+    ],
+    "contacts": [
+      "dataforum@un.org",
+      "support.accreditation@un.org",
+      "Events.Logistics@stats.gov.sa"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page d'inscription UNWDF 2026 (INDICO)",
+        "url": "https://indico.un.org/event/1021645/registrations/"
+      },
+      {
+        "label": "Aide INDICO (contact)",
+        "url": "https://conf.unog.ch/indico-help/en/contact"
+      },
+      {
+        "label": "Liste de diffusion UNWDF",
+        "url": "https://mdirector-pages.com/unwdf_mailing_list"
+      }
+    ],
+    "mots_cles": [
+      "UNWDF 2026",
+      "Forum mondial des données",
+      "inscription UNWDF",
+      "Riyadh 2026",
+      "Nations Unies données",
+      "conférence statistiques",
+      "INDICO inscription",
+      "événement données Arabie Saoudite"
+    ],
+    "lien_candidature": "https://indico.un.org/event/1021645/registrations/",
+    "source_url": "https://unstats.un.org/unsd/undataforum/registration/?fbclid=IwY2xjawUk6YVleHRuA2FlbQIxMABwZG9mBWJyaWQRMVVmck40SUVqVWVBZlFwTjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEedTbKlAWggSZIvTQ3eSDTwJ-Jrhzg_JiepEPAlTP032mBGCmFgy_ONB-_cd8_aem_vRfB7KMaxZy3W5Gg3nngjg",
+    "statut": "ouvert",
+    "resume": "Le 6e Forum mondial des données des Nations Unies (UNWDF) se tiendra en personne du 9 au 12 novembre 2026 à Riyad, en Arabie saoudite. Les inscriptions sont ouvertes du 30 juin 2026 au 1er octobre 2026 via la plateforme INDICO des Nations Unies. Les participants doivent créer un compte INDICO, remplir un formulaire détaillé et fournir des documents justificatifs. Les candidatures sont examinées au fur et à mesure, et les décisions seront communiquées au plus tard le 9 octobre 2026. Des réductions exclusives sur les billets d'avion sont disponibles pour les participants approuvés.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-26T18:11:42",
+    "slug": "unwdf-2026-inscription-riyadh"
   },
   {
     "titre": "Bourse du Sommet de l'Action des Jeunes 2027",
@@ -14390,6 +14093,79 @@
     "slug": "postdoc-microbiologie-buffalo-2026"
   },
   {
+    "titre": "Événement européen de la jeunesse (EYE) 2027",
+    "seo_slug": "eye-2027-parlement-europeen",
+    "organisation": "Parlement européen",
+    "montant": null,
+    "devise": null,
+    "type_financement": "événement gratuit avec contribution financière possible",
+    "deadline": null,
+    "deadline_texte": "Appel à l'organisation d'activités : du 25 septembre au 16 octobre 2026 ; Appel pour les groupes de jeunes défavorisés : octobre 2026 ; Ouverture des inscriptions des participants : février 2027",
+    "niveau_etudes": [],
+    "domaines": [],
+    "pays_eligibles": [
+      "Union européenne",
+      "International"
+    ],
+    "age_maximum": 30,
+    "langue_requise": "Anglais (probablement)",
+    "documents_requis": [],
+    "avantages": [
+      "Participation gratuite à l'événement",
+      "Possibilité de demander une contribution financière pour les groupes de jeunes défavorisés (handicap, zones rurales, milieux défavorisés)"
+    ],
+    "eligibilite": [
+      "Jeunes âgés de 16 à 30 ans",
+      "Ouvert aux jeunes de l'Union européenne et au-delà"
+    ],
+    "procedure_etapes": [
+      "1. Consulter l'appel à l'organisation d'activités (si vous représentez une organisation de jeunesse ou un groupe de jeunes)",
+      "2. Soumettre une proposition d'activité pendant la période d'appel (25 septembre - 16 octobre 2026)",
+      "3. Pour les groupes de jeunes défavorisés, postuler à l'appel à contribution financière en octobre 2026",
+      "4. S'inscrire en tant que participant à partir de février 2027"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Appel à l'organisation d'activités",
+        "url": "https://european-youth-event.europarl.europa.eu/en/programme-call"
+      },
+      {
+        "label": "Rapport des moments forts d'EYE2025 (PDF)",
+        "url": "https://european-youth-event.europarl.europa.eu/files/live/sites/eye/files/pdfs/eye2025-highlights-report.pdf"
+      },
+      {
+        "label": "Album photo d'EYE2025",
+        "url": "https://www.facebook.com/share/p/1CLYZgwNVR/?mibextid=wwXIfr"
+      },
+      {
+        "label": "Page des éditions précédentes",
+        "url": "/en/previous-editions"
+      },
+      {
+        "label": "Page À propos",
+        "url": "/en/about-us"
+      }
+    ],
+    "mots_cles": [
+      "EYE 2027",
+      "Parlement européen",
+      "événement jeunesse",
+      "Strasbourg",
+      "bourse jeunesse",
+      "contribution financière",
+      "jeunes défavorisés",
+      "appel à activités"
+    ],
+    "lien_candidature": "https://european-youth-event.europarl.europa.eu/en/programme-call",
+    "source_url": "https://european-youth-event.europarl.europa.eu/en",
+    "statut": "ouvert",
+    "resume": "L'Événement européen de la jeunesse (EYE) 2027 est un rassemblement unique de milliers de jeunes de 16 à 30 ans au Parlement européen à Strasbourg les 18 et 19 juin 2027. Co-créé avec les jeunes, il offre des débats, ateliers et performances artistiques autour de quatre thèmes clés : qualité de vie, compétitivité, sécurité et valeurs de l'UE. La participation est gratuite, mais les frais de voyage et d'hébergement sont à la charge des participants. Des contributions financières sont disponibles pour les groupes de jeunes défavorisés. Les appels à organiser des activités et à demander un soutien financier auront lieu en septembre-octobre 2026, et les inscriptions des participants ouvriront en février 2027.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-26T18:30:02",
+    "slug": "eye-2027-parlement-europeen"
+  },
+  {
     "titre": "Admission au programme de diplôme international de l'Université Nationale Tsing Hua - Printemps 2027",
     "seo_slug": "admission-nthu-printemps-2027",
     "organisation": "National Tsing Hua University (NTHU)",
@@ -25461,6 +25237,390 @@
     "imageUrl": null,
     "extrait_le": "2026-09-14T00:55:30",
     "slug": "bourse-meta-phd-2026"
+  },
+  {
+    "titre": "Doctorat sous supervision binationale / Cotutelle • DAAD",
+    "seo_slug": "doctorat-binantional-cotutelle-daad-2027",
+    "organisation": "DAAD",
+    "montant": 1400,
+    "devise": "EUR",
+    "type_financement": "bourse mensuelle",
+    "deadline": "2026-09-24",
+    "deadline_texte": "24 septembre 2026",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays sauf Allemagne"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand ou Anglais",
+    "documents_requis": [
+      "Diplôme de Master ou équivalent",
+      "Plan de recherche",
+      "Calendrier",
+      "Lettre de motivation",
+      "CV",
+      "Lettres de recommandation",
+      "Convention de cotutelle (option b)",
+      "Preuve de langue"
+    ],
+    "avantages": [
+      "Allocation mensuelle de 1400 EUR",
+      "Assurance santé, accident et responsabilité civile",
+      "Indemnité de voyage (jusqu'à 3 allers-retours)",
+      "Allocation de recherche de 460 EUR",
+      "Frais de déplacement et d'hébergement pour les superviseurs (1 voyage jusqu'à 10 jours)",
+      "Subvention de loyer (séjour >6 mois)",
+      "Allocation familiale (séjour >6 mois)",
+      "Cours de langue en ligne",
+      "Cours de langue intensif (2,4,6 mois)",
+      "Remboursement TestDaF/DSH"
+    ],
+    "eligibilite": [
+      "Diplôme le plus récent obtenu il y a moins de 6 ans avant la date limite",
+      "Début du doctorat il y a moins de 3 ans à la date de candidature",
+      "Ne pas résider en Allemagne depuis plus de 15 mois à la date limite",
+      "Master ou Diplom (ou exceptionnellement Bachelor) pour option a",
+      "Admission dans un programme doctoral pour option b"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Préparer les documents (plan de recherche, calendrier, etc.)",
+      "3. Contacter les superviseurs en Allemagne et dans le pays d'origine",
+      "4. Soumettre la candidature via le portail DAAD avant le 24 septembre 2026",
+      "5. Attendre la sélection (février 2027)",
+      "6. Début du financement à partir d'octobre 2027"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature DAAD",
+        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
+      },
+      {
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Indemnités de voyage (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_reisekostenzuschuesse_stipendiaten.pdf"
+      },
+      {
+        "label": "Informations supplémentaires pour la médecine",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/scholarship-database/additional-information-medicine/"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat allemagne",
+      "cotutelle daad",
+      "doctorat binational",
+      "bourse sandwich",
+      "daad 2027"
+    ],
+    "lien_candidature": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=1&detail=57507783",
+    "statut": "fermé",
+    "resume": "Le programme de doctorat sous supervision binationale / Cotutelle du DAAD offre aux doctorants internationaux la possibilité de réaliser un projet de recherche conjoint entre leur université d'origine et une université allemande. Deux options sont proposées : le modèle sandwich (supervision binationale) et le modèle Cotutelle (diplôme conjoint). La bourse comprend une allocation mensuelle de 1400 EUR, une assurance, des indemnités de voyage et une allocation de recherche. Les candidatures sont ouvertes jusqu'au 24 septembre 2026 pour un début de financement en octobre 2027.",
+    "imageUrl": "/docs/Doctorats-encadr-s-binationalement-Cotutelle-DAAD.webp",
+    "extrait_le": "2026-07-09T02:34:38",
+    "slug": "doctorat-binantional-cotutelle-daad-2027"
+  },
+  {
+    "titre": "Bourses d'études - Études postuniversitaires dans le domaine de la musique",
+    "seo_slug": "bourse-daad-musique-master-allemagne-2026",
+    "organisation": "DAAD",
+    "montant": 992,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-09-24",
+    "deadline_texte": "24 septembre 2026",
+    "niveau_etudes": [
+      "Master",
+      "Postgraduate",
+      "Konzertexamen",
+      "Meisterklasse"
+    ],
+    "domaines": [
+      "Musique"
+    ],
+    "pays_eligibles": [
+      "Tous pays sauf Allemagne"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand ou anglais selon la langue d'enseignement",
+    "documents_requis": [
+      "Curriculum vitae",
+      "Lettre de motivation",
+      "Lettre d'admission (si disponible)",
+      "Enregistrements vidéo/audio",
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Paiement mensuel de 992 euros",
+      "Allocation de voyage (sur demande)",
+      "Allocation d'études unique",
+      "Assurance maladie, accident et responsabilité civile",
+      "Allocation de loyer (sous conditions)",
+      "Allocation familiale (sous conditions)",
+      "Cours de langue allemande",
+      "Remise des frais de TestDaF ou DSH",
+      "Green Mobility Top Up"
+    ],
+    "eligibilite": [
+      "Diplôme de premier cycle en musique obtenu avant le début de la bourse",
+      "Diplôme datant de moins de 6 ans à la date limite de candidature",
+      "Ne pas avoir résidé en Allemagne plus de 15 mois avant la date limite",
+      "Ne pas avoir déjà commencé un master/postgraduate en Allemagne"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Rassembler les documents requis",
+      "3. Compléter la candidature en ligne sur le portail DAAD",
+      "4. Télécharger les pièces justificatives",
+      "5. Soumettre avant la date limite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail DAAD",
+        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
+      },
+      {
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Allocation de voyage (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_reisekostenzuschuesse_stipendiaten.pdf"
+      },
+      {
+        "label": "Informations supplémentaires musique",
+        "url": "https://www.daad.de/en/studying-in-germany/scholarships/scholarship-database/information-music/"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "musique Allemagne",
+      "master musique",
+      "bourse postuniversitaire",
+      "étudier en Allemagne",
+      "bourse 2026",
+      "DAAD musique",
+      "bourse complète"
+    ],
+    "lien_candidature": "https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=2&detail=57135743",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=2&detail=57135743",
+    "statut": "fermé",
+    "resume": "Le DAAD offre des bourses pour des études postuniversitaires en musique en Allemagne, couvrant les masters, Konzertexamen et Meisterklasse. Les candidats doivent être diplômés en musique et présenter un projet artistique de qualité. La bourse comprend 992 euros par mois, une allocation de voyage et divers avantages. Date limite : 24 septembre 2026.",
+    "imageUrl": "/docs/Bourses-d-tudes-tudes-sup-rieures-en-musique-DAAD.webp",
+    "extrait_le": "2026-07-09T02:44:15",
+    "slug": "bourse-daad-musique-master-allemagne-2026"
+  },
+  {
+    "titre": "Programme de Réinvitation pour Anciens Boursiers DAAD",
+    "seo_slug": "reinvitation-anciens-boursiers-daad-2027",
+    "organisation": "DAAD",
+    "montant": 2150,
+    "devise": "EUR",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-09-24",
+    "deadline_texte": "24 septembre 2026 (première échéance) et 17 mars 2027 (deuxième échéance)",
+    "niveau_etudes": [
+      "Post-doctorat",
+      "Recherche"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand ou Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "CV tabulaire (max 3 pages)",
+      "Liste des publications (si applicable)",
+      "Exposé détaillé du projet de recherche ou de travail (max 10 pages)",
+      "Calendrier et itinéraire du séjour",
+      "Confirmation de l'hôte académique en Allemagne"
+    ],
+    "avantages": [
+      "Allocation mensuelle de 2000 € (pour assistants, maîtres de conférences) ou 2150 € (pour professeurs)",
+      "Allocation de voyage (sous conditions)",
+      "Subvention pour frais supplémentaires liés au handicap ou maladie chronique (sur demande)",
+      "Assurance maladie (si nécessaire, déduite de la bourse)"
+    ],
+    "eligibilite": [
+      "Ancien boursier DAAD de recherche ou d'études ayant été financé pendant plus de six mois par le ministère fédéral des Affaires étrangères ou dans un programme cofinancé",
+      "Ancien boursier est-allemand ayant étudié au moins un an en Allemagne",
+      "Ne pas avoir vécu en Allemagne depuis au moins trois ans",
+      "Projet de recherche ou de travail coordonné avec un partenaire de coopération en Allemagne"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Préparer les documents requis (traductions en allemand ou anglais si nécessaire)",
+      "3. Accéder au portail DAAD (ouverture au moins 6 semaines avant la date limite)",
+      "4. Remplir le formulaire en ligne et télécharger les documents en PDF",
+      "5. Soumettre la candidature avant 24h00 (CET/CEST) le jour de la date limite"
+    ],
+    "contacts": [
+      "portal@daad.de",
+      "+49 228 882 180",
+      "+49 (0) 228 882-8888"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature DAAD",
+        "url": "https://www.daad.de/sapportal/"
+      },
+      {
+        "label": "Informations importantes pour les candidats",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Allocation de voyage (PDF)",
+        "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_reisekostenzuschuesse_stipendiaten.pdf"
+      },
+      {
+        "label": "Notes sur l'inscription au portail (PDF)",
+        "url": "https://www.daad.de/sapportal/hilfe/hb_portal_pdf/01_Registrierung_PBF_AUSL_en.pdf"
+      },
+      {
+        "label": "Notes sur la candidature en ligne (PDF)",
+        "url": "https://www.daad.de/sapportal/hilfe/hb_portal_pdf/02_Bewerbung_PBF_AUSL_en.pdf"
+      },
+      {
+        "label": "Formulaire de contact DAAD",
+        "url": "https://www.daad.de/en/the-daad/contact/contact-study-research-in-germany/"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "anciens boursiers",
+      "recherche Allemagne",
+      "séjour de recherche",
+      "programme de réinvitation"
+    ],
+    "lien_candidature": "https://www.daad.de/sapportal/",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=166&subjectGrps=&daad=1&intention=&q=&page=2&detail=50015492",
+    "statut": "fermé",
+    "resume": "Le programme de réinvitation du DAAD permet aux anciens boursiers de réaliser un projet de recherche ou de travail en Allemagne pour une durée d'un à trois mois en 2027. Les candidats doivent avoir été financés par le DAAD pendant plus de six mois et ne pas avoir vécu en Allemagne depuis au moins trois ans. La bourse comprend une allocation mensuelle de 2000 à 2150 euros selon le statut, une allocation de voyage et une assurance maladie si nécessaire. Les candidatures se font en ligne via le portail DAAD, avec deux dates limites : 24 septembre 2026 et 17 mars 2027.",
+    "imageUrl": "/docs/Programme-de-r-invitation-pour-les-anciens-boursiers-DAAD.webp",
+    "extrait_le": "2026-07-09T02:49:07",
+    "slug": "reinvitation-anciens-boursiers-daad-2027"
+  },
+  {
+    "titre": "Appel multilatéral de recherche SGCI soutenant STISA 2034 : faire progresser les priorités de l'Afrique en matière de science, technologie et innovation",
+    "seo_slug": "bourse-sgci-stisa-2034-afrique-2026",
+    "organisation": "Science Granting Councils Initiative (SGCI)",
+    "montant": 300000,
+    "devise": "CAD",
+    "type_financement": "subvention de recherche",
+    "deadline": "2026-09-25",
+    "deadline_texte": "25 septembre 2026 à 23h59 (heure de l'Est)",
+    "niveau_etudes": [
+      "Recherche postdoctorale",
+      "Chercheur"
+    ],
+    "domaines": [
+      "Agriculture",
+      "Santé",
+      "Intelligence artificielle et technologies numériques",
+      "Énergie",
+      "Environnement"
+    ],
+    "pays_eligibles": [
+      "Botswana",
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Éthiopie",
+      "Ghana",
+      "Kenya",
+      "Malawi",
+      "Mozambique",
+      "Namibie",
+      "Nigéria",
+      "Rwanda",
+      "Sénégal",
+      "Sierra Leone",
+      "Afrique du Sud",
+      "Tanzanie",
+      "Togo",
+      "Ouganda",
+      "Zambie",
+      "Zimbabwe"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais, Français, Portugais",
+    "documents_requis": [
+      "Expression d'intérêt",
+      "Proposition de recherche",
+      "CV du chercheur principal",
+      "Lettres de soutien des institutions partenaires"
+    ],
+    "avantages": [
+      "Financement de 50 000 à 300 000 CAD par membre du consortium",
+      "Soutien à la recherche collaborative",
+      "Renforcement des capacités",
+      "Mise en réseau"
+    ],
+    "eligibilite": [
+      "Être une organisation éligible",
+      "Constituer un consortium avec un organisme principal et deux à quatre co-demandeurs",
+      "Proposer un chercheur principal à temps plein",
+      "Démontrer la capacité à gérer des fonds de recherche",
+      "Aligner la recherche sur au moins un des thèmes"
+    ],
+    "procedure_etapes": [
+      "1. Lire le document d'appel détaillé",
+      "2. Consulter les FAQ",
+      "3. Créer un compte sur SurveyMonkey Apply",
+      "4. Soumettre l'expression d'intérêt via le portail"
+    ],
+    "contacts": [
+      "SGCSSA@idrc.ca"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Visitez le site :",
+        "url": "https://idrc-crdi.smapply.io/prog/supporting_stisa_2034_sgci_multilateral_research_call_advancing_africas_science_technology_and_innovation_priorities/"
+      },
+      {
+        "label": "Document d'appel détaillé",
+        "url": "https://idrc-crdi.ca/en/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology-and"
+      },
+      {
+        "label": "Foire aux questions (FAQ)",
+        "url": "https://idrc-crdi.ca/en/frequently-asked-questions-faq-sgci-multilateral-research-call-advancing-africas-science-technology"
+      },
+      {
+        "label": "Guide de configuration de compte SurveyMonkey Apply",
+        "url": "https://www.idrc.ca/sites/default/files/2021-05/Survey%20Monkey%20Apply%20-%20General%20Applicant%20Guide.pdf"
+      },
+      {
+        "label": "Version portugaise de l'appel (PDF)",
+        "url": "https://idrc-crdi.ca/sites/default/files/2026-07/Suporte%20%C3%A0%20STISA%202034_0.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse de recherche Afrique",
+      "SGCI STISA 2034",
+      "subvention recherche Afrique",
+      "appel à projets science technologie",
+      "financement recherche collaborative Afrique"
+    ],
+    "lien_candidature": "https://idrc-crdi.smapply.io/prog/supporting_stisa_2034_sgci_multilateral_research_call_advancing_africas_science_technology_and_innovation_priorities/",
+    "source_url": "https://idrc-crdi.ca/en/funding/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology?fbclid=IwY2xjawTuhndwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMU1uRG9kVVRQRFpsekNZdjdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeJ1dun24uLe8BuaRp7U1x6E51D7j3NnUirKRaFSf8xMZqgD-O1ocZkcXa4jo_aem_LPFx0a5OIXT6xQZWAKIqGg",
+    "statut": "fermé",
+    "resume": "L'Initiative des conseils subventionnaires de la science en Afrique subsaharienne (SGCI) lance un appel multilatéral de recherche pour soutenir la mise en œuvre de la stratégie STISA-2034 de l'Union africaine. Ce financement soutient des projets collaboratifs multi-pays dans cinq domaines prioritaires : agriculture, santé, intelligence artificielle, énergie et environnement. Les consortiums éligibles, composés d'institutions de plusieurs pays participants, peuvent recevoir entre 50 000 et 300 000 CAD. Les candidatures se font en ligne via le portail SurveyMonkey Apply avant le 25 septembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-08-16T12:05:29",
+    "slug": "bourse-sgci-stisa-2034-afrique-2026"
   },
   {
     "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",

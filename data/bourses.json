@@ -1,187 +1,5 @@
 [
   {
-    "titre": "Bourse d'études en innovation et technologie 2027 - Mastercard Foundation Scholars Program",
-    "seo_slug": "bourse-mastercard-innovation-technologie-asu-2027",
-    "organisation": "Mastercard Foundation Scholars Program en partenariat avec Arizona State University",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-09-27",
-    "deadline_texte": "27 septembre 2026 à 23h59 GMT",
-    "niveau_etudes": [
-      "Master"
-    ],
-    "domaines": [
-      "Technologie et innovation",
-      "Développement technologique",
-      "Technologies de l'information",
-      "Ingénierie des systèmes humains",
-      "Informatique",
-      "Science des données",
-      "Robotique et systèmes autonomes",
-      "Génie civil, environnemental et durable",
-      "Systèmes énergétiques propres",
-      "Production et utilisation durable de l'énergie moderne"
-    ],
-    "pays_eligibles": [
-      "Afrique"
-    ],
-    "age_maximum": 33,
-    "langue_requise": "Anglais (exigences de compétence linguistique de l'ASU pour l'admission aux études supérieures)",
-    "documents_requis": [
-      "CV/Resume",
-      "Lettre de recommandation",
-      "Relevés de notes (transcripts)",
-      "Formulaire de candidature complété"
-    ],
-    "avantages": [
-      "Frais de traitement de la demande de visa",
-      "Bon pour l'examen de compétence en anglais (si nécessaire)",
-      "Exonération des frais de candidature aux études supérieures de l'ASU",
-      "Billet d'avion aller-retour vers Phoenix, Arizona",
-      "Frais de scolarité complets, livres requis et frais étudiants",
-      "Soutien médical",
-      "Logement sur le campus",
-      "Programme de leadership et de développement professionnel",
-      "Mentorat",
-      "Engagement communautaire",
-      "Opportunités d'enrichissement"
-    ],
-    "eligibilite": [
-      "Avoir obtenu un diplôme de bachelor d'une institution reconnue d'ici août 2027",
-      "Les diplômes d'études supérieures, certificats et autres titres non-diplômants ne sont pas équivalents à un bachelor",
-      "Démontrer un dossier académique solide, équivalent à un GPA minimum de 3,5 sur une échelle de 4,0",
-      "Répondre aux exigences de compétence en anglais de l'ASU pour l'admission aux études supérieures",
-      "Être citoyen d'un pays africain",
-      "Avoir entre 18 et 33 ans au plus tard à la date limite de candidature",
-      "Démontrer un historique de leadership, de service et un engagement à créer un changement positif dans sa communauté",
-      "Ne pas avoir été précédemment inscrit ou avoir complété un programme d'études supérieures ou de master",
-      "Ne pas être inscrit ou commencer un autre programme d'études supérieures ou de master pendant la candidature à cette bourse",
-      "Être capable de déménager et de résider sur le campus de l'ASU à Tempe, Arizona, États-Unis, pendant toute la durée du programme"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les critères d'éligibilité et s'assurer de répondre à toutes les conditions",
-      "2. Consulter la FAQ pour toute question sur la bourse ou le processus de candidature",
-      "3. Remplir le formulaire de candidature en ligne (cliquer sur NEXT en bas de page) ou télécharger la version PDF si accès internet limité",
-      "4. Si candidature par email : envoyer le formulaire complété et les pièces jointes requises (CV, lettre de recommandation, relevés de notes) au format PDF à mastercardfdnscholars@asu.edu",
-      "5. Ne pas postuler directement à l'ASU ou à un programme d'études supérieures sans instruction de l'équipe du programme",
-      "6. Attendre l'invitation à un entretien si sélectionné pour avancer dans le processus",
-      "7. Si invité, postuler à l'admission à l'ASU avec exonération des frais de candidature"
-    ],
-    "contacts": [
-      "mastercardfdnscholars@asu.edu"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature en ligne",
-        "url": "https://asu.co1.qualtrics.com/jfe/form/SV_4ZPcHMerRF8cPBA"
-      }
-    ],
-    "mots_cles": [
-      "bourse mastercard foundation",
-      "bourse innovation technologie",
-      "bourse master afrique",
-      "bourse études supérieures États-Unis",
-      "bourse Arizona State University",
-      "bourse 2027",
-      "bourse complète",
-      "bourse pour étudiants africains"
-    ],
-    "lien_candidature": "https://asu.co1.qualtrics.com/jfe/form/SV_4ZPcHMerRF8cPBA",
-    "source_url": "https://asu.co1.qualtrics.com/jfe/form/SV_4ZPcHMerRF8cPBA",
-    "statut": "ouvert",
-    "resume": "Le Mastercard Foundation Scholars Program, en partenariat avec l'Arizona State University, offre 30 bourses d'études supérieures complètes pour l'année académique 2027-2028. Ces bourses permettent de poursuivre un master en présentiel de deux ans sur le campus de Tempe, en Arizona, dans des domaines liés à la technologie et à l'innovation. La bourse couvre intégralement les frais de scolarité, le logement sur le campus, les soins de santé, le voyage et offre un accompagnement complet en leadership et développement professionnel. Les candidats doivent être citoyens africains, âgés de 18 à 33 ans, et démontrer un excellent parcours académique et un engagement communautaire.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-11T13:00:32",
-    "slug": "bourse-mastercard-innovation-technologie-asu-2027"
-  },
-  {
-    "titre": "Bourse d'études en innovation et technologie - Mastercard Foundation Scholars Program à l'Arizona State University",
-    "seo_slug": "bourse-mastercard-innovation-technologie-asu-2027",
-    "organisation": "Mastercard Foundation Scholars Program en partenariat avec Arizona State University",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-09-27",
-    "deadline_texte": "dimanche 27 septembre 2026 à 23h59 GMT",
-    "niveau_etudes": [
-      "Master"
-    ],
-    "domaines": [
-      "Technologie et innovation",
-      "Développement mondial",
-      "Technologies de l'information",
-      "Informatique",
-      "Science des données, analytique et ingénierie",
-      "Robotique et systèmes autonomes",
-      "Systèmes d'énergie propre",
-      "Génie civil, environnemental et durable",
-      "Production d'énergie moderne et utilisation durable",
-      "Ingénierie des systèmes humains - Systèmes intelligents"
-    ],
-    "pays_eligibles": [
-      "Afrique"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [],
-    "avantages": [
-      "Frais de scolarité et frais annexes complets",
-      "Logement sur le campus et livres",
-      "Visa, billet d'avion et frais médicaux",
-      "Développement du leadership",
-      "Conseil et soutien académique",
-      "Stage de deux mois entre la première et la deuxième année"
-    ],
-    "eligibilite": [
-      "Jeunes professionnels africains",
-      "Fort engagement à utiliser les compétences et l'éducation acquises pour contribuer à leurs communautés et favoriser la croissance sociale et économique dans leurs pays d'origine",
-      "Les femmes, les réfugiés et les personnes déplacées, ainsi que les personnes handicapées sont fortement encouragés à postuler"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les conditions d'éligibilité et les programmes disponibles",
-      "2. Préparer les documents requis (non spécifiés dans le texte)",
-      "3. Soumettre la candidature en ligne via le portail de candidature avant la date limite",
-      "4. Pour toute question, contacter l'équipe par email"
-    ],
-    "contacts": [
-      "[email protected]"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Portail de candidature",
-        "url": "https://asu.co1.qualtrics.com/jfe/form/SV_4ZPcHMerRF8cPBA"
-      },
-      {
-        "label": "FAQs",
-        "url": "https://drive.google.com/file/d/1DnQRt3oAiY61zp3NyuGYhx264t8VOHP4/view?usp=sharing"
-      },
-      {
-        "label": "Flyer",
-        "url": "https://drive.google.com/file/d/1mzpafGDZR12BYMg1WGVidDpm_Jl8GsAa/view?usp=sharing"
-      }
-    ],
-    "mots_cles": [
-      "bourse Mastercard Foundation",
-      "bourse Arizona State University",
-      "bourse innovation technologie",
-      "bourse master Afrique",
-      "bourse études supérieures",
-      "bourse complète",
-      "bourse 2027",
-      "bourse technologies de l'information",
-      "bourse science des données",
-      "bourse énergie propre"
-    ],
-    "lien_candidature": "https://asu.co1.qualtrics.com/jfe/form/SV_4ZPcHMerRF8cPBA",
-    "source_url": "https://mcfscholars.asu.edu/phase-three-innovation-and-technology?utm_id=97758_v0_s00_e0_tv2_a1den5f08gvbpa&fbclid=IwY2xjawUezgVwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeuMCwhDTD1OEU_y_vqthot6q14IHZqkBZu4UtrjwSqCnqEf-g7tMxqLnMpms_aem_4u0xy_lcyQzublcRRJgpaw",
-    "statut": "ouvert",
-    "resume": "Le Mastercard Foundation Scholars Program, en partenariat avec l'Arizona State University, offre 30 bourses d'études supérieures à des jeunes professionnels africains pour poursuivre des masters axés sur la technologie et l'innovation. Les bourses couvrent les frais de scolarité, le logement, les voyages, les dépenses médicales et offrent un développement du leadership ainsi qu'un stage de deux mois. Les candidatures sont ouvertes jusqu'au 27 septembre 2026 à 23h59 GMT. Les femmes, les réfugiés et les personnes handicapées sont fortement encouragés à postuler.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-22T02:59:42",
-    "slug": "bourse-mastercard-innovation-technologie-asu-2027"
-  },
-  {
     "titre": "Stage au Département de la Santé de l'OMS 2027 au Siège à Genève (Financé)",
     "seo_slug": "stage-oms-sante-geneve-2027",
     "organisation": "Organisation Mondiale de la Santé (OMS)",
@@ -767,6 +585,88 @@
     "slug": "unwdf-2026-inscription-riyadh"
   },
   {
+    "titre": "Bourse de visite de recherche - Microbiology Society",
+    "seo_slug": "bourse-visite-recherche-microbiologie-2026",
+    "organisation": "Microbiology Society",
+    "montant": 3000,
+    "devise": "GBP",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-10-01",
+    "deadline_texte": "1er octobre 2026 (deuxième tour). Premier tour : 1er mai 2026.",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Microbiologie",
+      "Sciences de l'infection"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Lettre de soutien du superviseur ou chef de département",
+      "Lettre d'invitation du laboratoire d'accueil",
+      "Coûts détaillés",
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Frais de voyage",
+      "Hébergement",
+      "Frais de subsistance",
+      "Consommables de projet"
+    ],
+    "eligibilite": [
+      "Membre payant à jour (Full, Full Concessionary ou Postgraduate Student)",
+      "Minimum un an d'adhésion (deux paiements consécutifs)",
+      "Ne pas avoir reçu de bourse de ce programme l'année civile précédente",
+      "Être inscrit en doctorat ou être qualifié PhD et employé en poste postdoctoral dans une université, hôpital ou institut de recherche",
+      "Les membres Full ou Full Concessionary dans les cinq ans suivant leur premier poste de lecturer sont également éligibles",
+      "La visite doit se dérouler dans un autre laboratoire que celui d'origine",
+      "Durée de la visite : 4 semaines à 3 mois"
+    ],
+    "procedure_etapes": [
+      "Vérifier l'éligibilité et lire les règles de la bourse",
+      "Préparer une lettre de soutien du superviseur ou chef de département",
+      "Obtenir une lettre d'invitation du laboratoire d'accueil",
+      "Soumettre la candidature en ligne via Mi Society",
+      "Fournir tous les documents supplémentaires requis",
+      "Envoyer la lettre d'invitation de l'hôte par email à [email protected]"
+    ],
+    "contacts": [
+      "[email protected]"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://tms-portal.uksouth01.umbraco.io/account/research-visit-grant-application/"
+      },
+      {
+        "label": "Règles de la bourse",
+        "url": "https://microbiologysociety.org/grants-prizes/all-grants/rules-for-grants.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse microbiologie",
+      "bourse visite recherche",
+      "microbiology society grant",
+      "bourse doctorat",
+      "bourse postdoctorat",
+      "financement recherche",
+      "bourse internationale",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://tms-portal.uksouth01.umbraco.io/account/research-visit-grant-application/",
+    "source_url": "https://microbiologysociety.org/grants-prizes/all-grants/research-visit-grant.html?fbclid=IwY2xjawUmh09leHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeoESkrOKlRoZf0YUaT3QJNTUR5YC0BduQ9vkCdxCeW6p3912aleEV1GRoWqo_aem_hJdUrIYEKYiovepK2U6UZA",
+    "statut": "ouvert",
+    "resume": "La Microbiology Society offre des bourses pouvant atteindre 3 000 £ pour financer des visites de recherche de courte durée (un à trois mois) dans un autre laboratoire. Ce programme soutient des projets innovants au sein de collaborations existantes ou de nouvelles initiatives. Les candidats doivent être membres payants depuis au moins un an et être doctorants ou post-doctorants. Les candidatures sont évaluées deux fois par an, avec des dates limites au 1er mai et au 1er octobre.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:36:15",
+    "slug": "bourse-visite-recherche-microbiologie-2026"
+  },
+  {
     "titre": "Bourse du Sommet de l'Action des Jeunes 2027",
     "seo_slug": "bourse-yas-2027-berlin",
     "organisation": "Centre for Diplomatic Advancement (CDA)",
@@ -859,6 +759,74 @@
     "imageUrl": null,
     "extrait_le": "2026-09-11T13:01:35",
     "slug": "bourse-yas-2027-berlin"
+  },
+  {
+    "titre": "Bourses pour les praticiens créatifs et artistiques - Afrique australe",
+    "seo_slug": "bourse-praticiens-creatifs-afrique-australe-2026",
+    "organisation": "Goethe-Institut",
+    "montant": 6000,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-05",
+    "deadline_texte": "Lundi 5 octobre 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Arts",
+      "Création",
+      "Patrimoine"
+    ],
+    "pays_eligibles": [
+      "Botswana",
+      "Eswatini",
+      "Lesotho",
+      "Namibie",
+      "Afrique du Sud",
+      "Zimbabwe"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse de 6 000 €",
+      "Participation à un processus de développement narratif de six mois",
+      "Participation à la création de trois œuvres créatives co-produites"
+    ],
+    "eligibilite": [
+      "Avoir 18 ans ou plus",
+      "Avoir au moins 3 ans de pratique artistique ou créative professionnelle",
+      "Résider au Botswana, en Eswatini, au Lesotho, en Namibie, en Afrique du Sud ou au Zimbabwe"
+    ],
+    "procedure_etapes": [
+      "1. Lire l'appel à propositions (PDF)",
+      "2. Postuler via le portail de candidature Goethe"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature Goethe",
+        "url": "https://portal.gap.goethe.de/en-US/"
+      },
+      {
+        "label": "Appel à propositions (PDF)",
+        "url": "/resources/files/pdf359/thee-final.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse arts",
+      "bourse Afrique australe",
+      "bourse praticiens créatifs",
+      "bourse Goethe",
+      "bourse 2026",
+      "bourse artistes",
+      "bourse patrimoine"
+    ],
+    "lien_candidature": "https://portal.gap.goethe.de/en-US/",
+    "source_url": "https://www.goethe.de/prj/aep/en/cal/sna.html?fbclid=IwY2xjawUmi9xleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeoESkrOKlRoZf0YUaT3QJNTUR5YC0BduQ9vkCdxCeW6p3912aleEV1GRoWqo_aem_hJdUrIYEKYiovepK2U6UZA",
+    "statut": "ouvert",
+    "resume": "Le Goethe-Institut lance un appel à candidatures pour sélectionner 99 praticiens créatifs et artistiques qui seront répartis dans 11 clusters narratifs. Chaque cluster est dirigé par une organisation patrimoniale et les participants recevront une bourse de 6 000 €. Ils prendront part à un processus de développement narratif de six mois aboutissant à trois œuvres créatives co-produites. Les candidats doivent être âgés d'au moins 18 ans, avoir trois ans d'expérience professionnelle et résider dans l'un des six pays d'Afrique australe éligibles.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:56:07",
+    "slug": "bourse-praticiens-creatifs-afrique-australe-2026"
   },
   {
     "titre": "Bourse Knight-Hennessy pour études supérieures à Stanford",
@@ -1100,6 +1068,261 @@
     "imageUrl": null,
     "extrait_le": "2026-09-22T03:07:33",
     "slug": "bourse-quentin-bryce-doctorat-droit-2026"
+  },
+  {
+    "titre": "GFF x CIVIC VOICES : Appel à propositions",
+    "seo_slug": "bourse-gff-civic-voices-afrique-2026",
+    "organisation": "PATH, AFIDEP, OAY (Consortium VOICES)",
+    "montant": 3350000,
+    "devise": "USD",
+    "type_financement": "subvention",
+    "deadline": "2026-10-07",
+    "deadline_texte": "7 octobre 2026 à 23h59 heure d'Afrique de l'Est",
+    "niveau_etudes": [],
+    "domaines": [
+      "Santé et nutrition des femmes, enfants et adolescents",
+      "Mobilisation des ressources intérieures",
+      "Plaidoyer",
+      "Leadership des jeunes"
+    ],
+    "pays_eligibles": [
+      "Afrique (jusqu'à 22 pays)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Proposition technique (modèle fourni)",
+      "Formulaire de candidature",
+      "Documents organisationnels"
+    ],
+    "avantages": [
+      "Subvention jusqu'à 18 mois",
+      "Formation en plaidoyer",
+      "Assistance technique en analyse budgétaire",
+      "Mentorat"
+    ],
+    "eligibilite": [
+      "Être une organisation locale de la société civile ou une organisation dirigée par des jeunes et/ou une organisation communautaire",
+      "Chaque partenariat doit inclure au moins 2 et au plus 3 organisations, dont au moins une dirigée par des jeunes"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page de ressources pour les détails de soumission et les documents de l'événement de lancement",
+      "2. Télécharger et remplir le modèle de proposition technique",
+      "3. Soumettre la proposition avant la date limite"
+    ],
+    "contacts": [
+      "voices@path.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page de ressources",
+        "url": "https://www.path.org/our-impact/resources/gff-x-civic-voices-funding-opportunity-resources/"
+      },
+      {
+        "label": "Appel à propositions (PDF)",
+        "url": "https://www.path.org/documents/7374/VOICES_Call_for_Proposals.pdf"
+      },
+      {
+        "label": "Modèle de soumission de proposition technique",
+        "url": "https://www.path.org/documents/7377/VOICES_Submission_Template_Fillable.docx"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.path.org/documents/7406/VOICES_FAQ_EN_Updated_25Sept.pdf"
+      },
+      {
+        "label": "Site de signalement sécurisé",
+        "url": "https://secure.ethicspoint.com/domain/media/en/gui/49666/index.html"
+      },
+      {
+        "label": "Site de PATH",
+        "url": "https://www.path.org/"
+      },
+      {
+        "label": "Site de AFIDEP",
+        "url": "https://afidep.org/"
+      },
+      {
+        "label": "Site de OAY",
+        "url": "https://www.oayouth.org/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Afrique",
+      "subvention société civile",
+      "santé femmes enfants",
+      "leadership jeunes",
+      "mobilisation ressources",
+      "GFF CIVIC VOICES",
+      "appel à propositions"
+    ],
+    "lien_candidature": "https://www.path.org/our-impact/resources/gff-x-civic-voices-funding-opportunity-resources/",
+    "source_url": "https://www.path.org/who-we-are/programs/advocacy-and-policy/gff-x-civic-voices-call-for-proposals/?fbclid=IwY2xjawUmjCxleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeodj6m5TnVp14Jx4Tdec37DLG2QuTGWZdApTHiBL8ccdA1VAWDaMfMxo0aMA_aem_uewtMVhjgZvWPcIBp_xyHg",
+    "statut": "ouvert",
+    "resume": "Le consortium VOICES, mené par PATH en partenariat avec AFIDEP et OAY, lance un appel à propositions pour soutenir les organisations de la société civile et dirigées par des jeunes en Afrique. Jusqu'à 3,35 millions de dollars seront attribués à des partenariats dans jusqu'à 22 pays africains. Les subventions, d'une durée maximale de 18 mois, incluent une formation en plaidoyer, une assistance technique en analyse budgétaire et un mentorat. Les candidatures sont ouvertes jusqu'au 7 octobre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:57:56",
+    "slug": "bourse-gff-civic-voices-afrique-2026"
+  },
+  {
+    "titre": "Bourse de voyage commémorative Dr. Gerald A. Soffen pour l'avancement de l'éducation en sciences spatiales",
+    "seo_slug": "bourse-soffen-voyage-sciences-spatiales-2026",
+    "organisation": "Dr. Gerald A. Soffen Memorial Fund for the Advancement of Space Science Education",
+    "montant": 1000,
+    "devise": "USD",
+    "type_financement": "bourse de voyage",
+    "deadline": "2026-10-09",
+    "deadline_texte": "9 octobre 2026 à 17h00 ET (heure de l'Est) pour les conférences débutant le 8 novembre 2026 ou après",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Aérospatiale",
+      "Astrobiologie",
+      "Astronomie",
+      "Sciences de la Terre et de l'espace",
+      "Ingénierie"
+    ],
+    "pays_eligibles": [
+      "États-Unis (inscription dans un établissement accrédité aux États-Unis)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Résumé de la conférence (abstract)",
+      "Preuve d'inscription à temps plein",
+      "Budget de voyage",
+      "Lettre de recommandation (peut-être)"
+    ],
+    "avantages": [
+      "Jusqu'à 2000 $ au total, aucune bourse individuelle ne dépassant 1000 $",
+      "Participation à des conférences virtuelles ou en personne",
+      "Frais de voyage et d'inscription couverts (selon les besoins)"
+    ],
+    "eligibilite": [
+      "Étudiants de toutes nationalités",
+      "Inscription à temps plein dans un établissement d'enseignement supérieur accrédité aux États-Unis (licence ou cycle supérieur)",
+      "Poursuite d'études dans un domaine lié à l'aérospatiale ou à l'ingénierie",
+      "Présentation de recherche lors d'une conférence",
+      "Conférence débutant le 8 novembre 2026 ou après"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les instructions sur le site officiel",
+      "2. Créer un compte utilisateur",
+      "3. Remplir le formulaire de candidature en ligne",
+      "4. Téléverser les documents requis (résumé, preuve d'inscription, etc.)",
+      "5. Soumettre la candidature avant la date limite",
+      "6. Attendre la notification d'attribution environ un mois après la date limite"
+    ],
+    "contacts": [
+      "help@SoffenFund.org",
+      "help@lsoffenfund.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "http://soffenfund.org"
+      },
+      {
+        "label": "Instructions",
+        "url": "http://soffenfund.org/instructions.jsp"
+      },
+      {
+        "label": "Nouvel utilisateur",
+        "url": "http://soffenfund.org/newUser.jsp"
+      },
+      {
+        "label": "Boursiers",
+        "url": "http://soffenfund.org/awardees.jsp"
+      },
+      {
+        "label": "Mot de passe oublié",
+        "url": "http://soffenfund.org/login.jsp"
+      }
+    ],
+    "mots_cles": [
+      "bourse soffen",
+      "bourse voyage",
+      "sciences spatiales",
+      "aérospatiale",
+      "étudiants États-Unis",
+      "conférence",
+      "bourse 2026"
+    ],
+    "lien_candidature": "http://soffenfund.org",
+    "source_url": "https://soffenfund.org/?fbclid=IwY2xjawUmiSZleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeOW_EiSNn-xtQhucSLg0NQfGxbn2sCqrbGnuFO6kLt1vzNB6GKLD1_M2X6C0_aem_kycM2akPfYl-mIN9g6W6xg",
+    "statut": "ouvert",
+    "resume": "La bourse de voyage commémorative Dr. Gerald A. Soffen soutient les étudiants poursuivant des études en sciences et ingénierie aérospatiales en leur offrant des subventions pour présenter leurs recherches lors de conférences. Les candidats doivent être inscrits à temps plein dans un établissement accrédité aux États-Unis, quelle que soit leur nationalité. Les bourses, d'un montant maximal de 1000 $ par personne (jusqu'à 2000 $ au total), couvrent la participation à des conférences virtuelles ou en personne. La date limite de candidature est fixée au 9 octobre 2026 pour les conférences débutant le 8 novembre 2026 ou après.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:50:24",
+    "slug": "bourse-soffen-voyage-sciences-spatiales-2026"
+  },
+  {
+    "titre": "Programme de formation MTN en TIC et compétences commerciales - Phase 8",
+    "seo_slug": "bourse-mtn-ict-business-skills-2026",
+    "organisation": "MTN Foundation",
+    "montant": 1000000,
+    "devise": "NGN",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-10-11",
+    "deadline_texte": "11 octobre 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "TIC",
+      "Compétences commerciales",
+      "Entrepreneuriat"
+    ],
+    "pays_eligibles": [
+      "Nigeria"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Formation de cinq semaines en TIC et compétences commerciales",
+      "Soutien de données pour une expérience d'apprentissage fluide",
+      "Jusqu'à 1 000 000 ₦ en subventions d'équipement pour les 100 meilleurs participants",
+      "Fonds total de 100 000 000 ₦"
+    ],
+    "eligibilite": [
+      "Femme nigériane",
+      "Âge entre 18 et 35 ans",
+      "Propriétaire et gestionnaire d'une micro-entreprise opérationnelle depuis au maximum 2 ans",
+      "Entreprise située dans l'un des États suivants : Rivers, Abia, Ogun, Kwara, Kano ou Gombe"
+    ],
+    "procedure_etapes": [
+      "Vérifier les critères d'éligibilité",
+      "Cliquer sur le lien de candidature",
+      "Remplir le formulaire de candidature en ligne",
+      "Soumettre la candidature avant la date limite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://mtnictandbusinessskills.mtn.ng/mtn-foundation"
+      }
+    ],
+    "mots_cles": [
+      "bourse MTN",
+      "formation TIC",
+      "compétences commerciales",
+      "micro-entreprise",
+      "femmes nigérianes",
+      "subvention équipement",
+      "phase 8",
+      "2026"
+    ],
+    "lien_candidature": "https://mtnictandbusinessskills.mtn.ng/mtn-foundation",
+    "source_url": "https://www.mtn.ng/mtnf-ict/?fbclid=IwY2xjawUmjKlleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeOW_EiSNn-xtQhucSLg0NQfGxbn2sCqrbGnuFO6kLt1vzNB6GKLD1_M2X6C0_aem_kycM2akPfYl-mIN9g6W6xg",
+    "statut": "ouvert",
+    "resume": "Le programme de formation MTN en TIC et compétences commerciales (Phase 8) est une initiative de la MTN Foundation visant à autonomiser les jeunes femmes nigérianes propriétaires de micro-entreprises âgées de 18 à 35 ans. Cette formation de cinq semaines utilise une approche d'apprentissage mixte combinant des modules en ligne, des sessions dirigées par des instructeurs, des masterclasses et un projet de synthèse. Les 100 meilleurs participants recevront jusqu'à 1 000 000 ₦ en subventions d'équipement, provenant d'un fonds total de 100 000 000 ₦. Les candidatures sont ouvertes jusqu'au 11 octobre 2026 pour les femmes résidant dans les États de Rivers, Abia, Ogun, Kwara, Kano ou Gombe.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:58:56",
+    "slug": "bourse-mtn-ict-business-skills-2026"
   },
   {
     "titre": "Bourses d'études - Études postuniversitaires dans les domaines des beaux-arts, du design, de la communication visuelle et du cinéma",
@@ -2064,6 +2287,302 @@
     "slug": "bourse-commonwealth-doctorat-uk-2027"
   },
   {
+    "titre": "Bourses de voyage de The Company of Biologists",
+    "seo_slug": "bourse-voyage-biologistes-2026",
+    "organisation": "The Company of Biologists",
+    "montant": 3000,
+    "devise": "GBP",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-10-23",
+    "deadline_texte": "23 octobre 2026 (pour les voyages après le 7 décembre 2026)",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Biologie du développement",
+      "Science cellulaire",
+      "Biologie expérimentale"
+    ],
+    "pays_eligibles": [
+      "Tous les pays (sauf juridictions sous sanctions)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Lettre de statut du chef de département",
+      "Lettre de soutien du superviseur",
+      "Lettre de soutien du laboratoire d'accueil",
+      "Curriculum Vitae",
+      "Liste des publications"
+    ],
+    "avantages": [
+      "Frais de voyage",
+      "Frais de subsistance",
+      "Hébergement",
+      "Frais de visa",
+      "Frais de bench et d'utilisateur"
+    ],
+    "eligibilite": [
+      "Être étudiant diplômé ou chercheur post-doctoral",
+      "Travailler dans le domaine de la revue à laquelle vous postulez",
+      "Planifier une visite dans un autre laboratoire",
+      "Une seule personne par laboratoire peut postuler par cycle de financement et par revue",
+      "Les candidatures sont limitées à une seule revue par cycle et par personne",
+      "La date du voyage doit avoir lieu dans les six mois suivant l'attribution du financement",
+      "Les candidatures ne sont pas considérées rétrospectivement",
+      "Les fonds ne sont pas fournis pour suivre des cours de formation",
+      "Les bourses de voyage ne peuvent être attribuées qu'une fois tous les deux ans par candidat",
+      "Les dépenses couvrent le voyage, la subsistance, l'hébergement, le visa, les frais de bench et d'utilisateur",
+      "Les frais d'assurance voyage ne sont pas inclus",
+      "Le financement accordé ne s'applique qu'aux dépenses encourues dans les 3 mois suivant le début de la visite"
+    ],
+    "procedure_etapes": [
+      "Vérifier les FAQ et le manuel du candidat",
+      "Remplir le formulaire de candidature en ligne",
+      "Joindre les documents requis (lettres de statut, de soutien, CV, liste de publications)",
+      "Soumettre la candidature avant la date limite",
+      "Si accepté, signer l'accord de bourse de voyage",
+      "Fournir les coordonnées bancaires pour le paiement",
+      "Réaliser la visite collaborative",
+      "Soumettre un résumé de 250-500 mots et au moins deux photographies dans les 3 mois suivant le retour",
+      "Conserver tous les reçus et les télécharger sur le portail en ligne dans le mois suivant la fin de la visite",
+      "Retourner les fonds non dépensés dans le mois suivant la fin de la visite"
+    ],
+    "contacts": [
+      "tf@biologists.com"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://cob.smartsimpleuk.com/s_Login.jsp?lang=1&prole=0"
+      },
+      {
+        "label": "Manuel du candidat (PDF)",
+        "url": "https://www.biologists.com/wp-content/uploads/2025-Travelling-Fellowship-Handbook-Oct-25.pdf"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.biologists.com/grants/travelling-fellowships/faqs/"
+      },
+      {
+        "label": "Page des histoires de boursiers",
+        "url": "https://www.biologists.com/storycategory/grant-recipients/"
+      },
+      {
+        "label": "Blog The Node",
+        "url": "http://thenode.biologists.com/"
+      },
+      {
+        "label": "Article sur la cryo-EM à TU Dresden",
+        "url": "https://www.biologists.com/stories/microtubule-cryo-em-at-technische-universitat-dresden/"
+      }
+    ],
+    "mots_cles": [
+      "bourse de voyage",
+      "The Company of Biologists",
+      "bourse biologie",
+      "bourse doctorat",
+      "bourse post-doctorat",
+      "financement recherche",
+      "collaboration laboratoire",
+      "bourse internationale"
+    ],
+    "lien_candidature": "https://cob.smartsimpleuk.com/s_Login.jsp?lang=1&prole=0",
+    "source_url": "https://www.biologists.com/grants/travelling-fellowships/?fbclid=IwY2xjawUmhvlleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeaPn4_3v0Myh8F2LA8lZnulb5GJQ-0Q3q_6JxSP0-PI8kKl25tDXXQUKZ4zs_aem_nBaufeJhhSG0Hv7tnq52JQ",
+    "statut": "ouvert",
+    "resume": "The Company of Biologists propose des bourses de voyage allant jusqu'à 3 000 £ pour les étudiants diplômés et les chercheurs post-doctoraux souhaitant effectuer des visites collaboratives dans d'autres laboratoires. Ces bourses couvrent les frais de voyage, d'hébergement et d'autres dépenses liées à la recherche. Il n'y a aucune restriction de nationalité, mais les candidats doivent travailler dans le domaine de l'une des trois revues : Development, Journal of Cell Science ou Journal of Experimental Biology. Les candidatures sont évaluées sur l'excellence du candidat et la qualité innovante du travail proposé.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:35:44",
+    "slug": "bourse-voyage-biologistes-2026"
+  },
+  {
+    "titre": "Bourses SofinaBoël pour doctorants",
+    "seo_slug": "bourse-sofinaboel-doctorat-belgique-2026",
+    "organisation": "FWO et F.R.S.-FNRS, avec le soutien de la Fondation Roi Baudouin et du Fonds SofinaBoël pour l'Éducation et le Talent",
+    "montant": 1650,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-26",
+    "deadline_texte": "26 octobre 2026 à minuit CET",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les domaines de recherche"
+    ],
+    "pays_eligibles": [
+      "Monde entier (sauf États-Unis d'Amérique)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Excellente maîtrise de la langue utilisée à l'institution d'accueil",
+    "documents_requis": [
+      "Formulaire de candidature dûment rempli",
+      "Curriculum vitae détaillé (incluant une liste de publications)",
+      "Lettre de recommandation du promoteur de thèse",
+      "Lettre de motivation personnelle",
+      "Lettre d'invitation de l'institution d'accueil étrangère",
+      "Curriculum vitae détaillé (avec liste de publications) du responsable du groupe de recherche étranger"
+    ],
+    "avantages": [
+      "Allocation mensuelle fixe de 1 650 €",
+      "Frais de voyage : somme forfaitaire de 1 000 € couvrant un billet aller-retour en classe économique"
+    ],
+    "eligibilite": [
+      "Être doctorant avec une affiliation rémunérée dans une université belge à la date limite de l'appel et au moment du départ pour le séjour de recherche à l'étranger",
+      "Les bénéficiaires de bourses de doctorat clinique et les candidats de l'École royale militaire sont éligibles",
+      "Avoir obtenu un MA ou MSc après le 1er novembre 2022",
+      "Avoir un lien clair avec la Belgique : être affilié à une université belge depuis au moins un an avant la date limite de soumission et rester affilié pendant toute la durée du séjour de recherche",
+      "Le séjour à l'étranger doit durer 6 ou 12 mois et se dérouler durant l'année académique 2027-2028",
+      "Avoir un excellent dossier académique (résultats d'études, résultats de recherche doctorale si déjà commencée)",
+      "Excellente maîtrise de la langue utilisée à l'institution d'accueil"
+    ],
+    "procedure_etapes": [
+      "Vérifier l'éligibilité et préparer tous les documents requis",
+      "Remplir le formulaire de candidature",
+      "Rassembler les pièces justificatives (CV, lettre de motivation, lettre de recommandation, lettre d'invitation, CV du responsable du groupe d'accueil)",
+      "Compiler le dossier en un seul fichier PDF",
+      "Envoyer le dossier par email à prijzen@fwo.be au plus tard le 26 octobre 2026 à minuit CET"
+    ],
+    "contacts": [
+      "prijzen@fwo.be",
+      "+32-2-550 15 84"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Règlement (PDF)",
+        "url": "https://www.fwo.be/media/xxplhz5v/sbf-regulations.pdf"
+      },
+      {
+        "label": "Formulaire de candidature (DOCX)",
+        "url": "https://www.fwo.be/media/o5gorps5/sbf-form.docx"
+      },
+      {
+        "label": "FAQ (PDF)",
+        "url": "https://www.fwo.be/media/n5zkjnsj/sbf-faq.pdf"
+      },
+      {
+        "label": "Politique de voyage durable du FWO",
+        "url": "https://www.fwo.be/en/about-fwo/research-policy/sustainable-travel-policy/"
+      },
+      {
+        "label": "Objectifs de développement durable des Nations Unies",
+        "url": "https://www.un.org/sustainabledevelopment/sustainable-development-goals/"
+      },
+      {
+        "label": "Fonds SofinaBoël pour l'Éducation et le Talent",
+        "url": "http://www.sofinaboel.be/homepage/"
+      },
+      {
+        "label": "Fondation Roi Baudouin",
+        "url": "https://www.kbs-frb.be/nl/"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat Belgique",
+      "bourse SofinaBoël",
+      "bourse recherche à l'étranger",
+      "financement doctorat",
+      "bourse FWO",
+      "bourse FNRS",
+      "bourse 2026",
+      "bourse pour doctorants",
+      "séjour de recherche à l'étranger"
+    ],
+    "lien_candidature": "mailto:prijzen@fwo.be",
+    "source_url": "https://www.fwo.be/en/support-programmes/all-calls/mobility/sofinaboel-fellowships/?fbclid=IwY2xjawUmiRxleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe14MyH2OBZM6uf1Pbt4Y5ZvbR0Fif5Y78hD1WCzEJnKmIbBkWIPuJhZf1vxE_aem_ZmFrZWR1bW15MTZieXRlcw",
+    "statut": "ouvert",
+    "resume": "Les bourses SofinaBoël, financées par le Fonds SofinaBoël pour l'Éducation et le Talent et la Fondation Roi Baudouin, sont destinées aux doctorants talentueux affiliés à une université belge pour un séjour de recherche ou de formation à l'étranger. Elles offrent une allocation mensuelle de 1 650 € et une prise en charge des frais de voyage à hauteur de 1 000 €. Le séjour, d'une durée de 6 ou 12 mois, doit se dérouler durant l'année académique 2027-2028 dans une institution d'accueil de premier plan, hors États-Unis. Les candidatures sont ouvertes jusqu'au 26 octobre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:43:52",
+    "slug": "bourse-sofinaboel-doctorat-belgique-2026"
+  },
+  {
+    "titre": "Fonds de fiducie et bourse de voyage Alex Simpson Smith",
+    "seo_slug": "bourse-alex-simpson-smith-chirurgie-2026",
+    "organisation": "UCL Great Ormond Street Institute of Child Health (UCL GOS ICH)",
+    "montant": 5000,
+    "devise": "GBP",
+    "type_financement": "bourse de voyage",
+    "deadline": "2026-10-26",
+    "deadline_texte": "26 octobre 2026 à 12h00 (midi)",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat",
+      "Professionnel"
+    ],
+    "domaines": [
+      "Chirurgie académique",
+      "Recherche chirurgicale",
+      "Médecine"
+    ],
+    "pays_eligibles": [
+      "Royaume-Uni"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature complété",
+      "Lettre d'acceptation provisoire du centre d'accueil",
+      "Estimation détaillée des coûts",
+      "CV actuel",
+      "Approbation écrite du consultant superviseur"
+    ],
+    "avantages": [
+      "Jusqu'à 5 000 £ pour une visite allant jusqu'à 4 semaines",
+      "Frais de voyage raisonnables",
+      "Hébergement",
+      "Frais de subsistance",
+      "Frais de conférence (si la visite est combinée à une conférence pertinente)"
+    ],
+    "eligibilite": [
+      "Personnel travaillant déjà en chirurgie académique (ou domaine étroitement lié)",
+      "Étudiants en doctorat clinique suivant une formation en chirurgie académique",
+      "Priorité accordée au personnel et étudiants de l'UCL GOS ICH et du GOSH",
+      "Candidatures d'autres centres académiques ou chirurgicaux britanniques bienvenues",
+      "Soutien d'un consultant superviseur ou d'un superviseur académique requis",
+      "Acceptation provisoire écrite du centre d'accueil proposé requise avant la candidature"
+    ],
+    "procedure_etapes": [
+      "Télécharger le formulaire de candidature et les directives complètes",
+      "Remplir le formulaire de candidature",
+      "Obtenir une lettre d'acceptation provisoire du centre d'accueil",
+      "Préparer une estimation détaillée des coûts",
+      "Mettre à jour votre CV",
+      "Obtenir l'approbation écrite de votre consultant",
+      "Envoyer par email tous les documents à s.eaton@ucl.ac.uk et v.karaluka@ucl.ac.uk, en copie à ich.dbc.admin@ucl.ac.uk, avec pour objet : « Simpson Smith Travelling Fellowship – VOTRE NOM »",
+      "Respecter la date limite : lundi 26 octobre 2026, 12h00 (midi)"
+    ],
+    "contacts": [
+      "s.eaton@ucl.ac.uk",
+      "v.karaluka@ucl.ac.uk",
+      "ich.dbc.admin@ucl.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature et directives (DOCX)",
+        "url": "https://www.ucl.ac.uk/population-health-sciences/sites/population_health_sciences/files/2026-09/Alex%20Simpson%20Smith%20Travel%20Fellowship%202027%20-%20Application%20guidance%20and%20form.docx"
+      }
+    ],
+    "mots_cles": [
+      "bourse chirurgie",
+      "bourse voyage",
+      "bourse Royaume-Uni",
+      "bourse doctorat",
+      "bourse recherche médicale",
+      "Alex Simpson Smith",
+      "UCL GOS ICH",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://www.ucl.ac.uk/population-health-sciences/sites/population_health_sciences/files/2026-09/Alex%20Simpson%20Smith%20Travel%20Fellowship%202027%20-%20Application%20guidance%20and%20form.docx",
+    "source_url": "https://www.ucl.ac.uk/population-health-sciences/child-health/research/stem-cells-regenerative-medicine/alex-simpson-smith-trust-fund-travelling-fellowship?fbclid=IwY2xjawUmiSJleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeOW_EiSNn-xtQhucSLg0NQfGxbn2sCqrbGnuFO6kLt1vzNB6GKLD1_M2X6C0_aem_kycM2akPfYl-mIN9g6W6xg",
+    "statut": "ouvert",
+    "resume": "Le Fonds de fiducie et bourse de voyage Alex Simpson Smith soutient les professionnels de la chirurgie académique et les doctorants cliniques en finançant des visites dans d'autres centres pour acquérir de nouvelles compétences chirurgicales, techniques ou expériences de recherche. Les candidats peuvent demander jusqu'à 5 000 £ pour une visite allant jusqu'à 4 semaines, couvrant les frais de voyage, d'hébergement et de subsistance. La priorité est donnée au personnel et aux étudiants de l'UCL GOS ICH et du GOSH, mais les candidatures d'autres centres britanniques sont les bienvenues. La date limite de candidature est le 26 octobre 2026 à midi.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:44:37",
+    "slug": "bourse-alex-simpson-smith-chirurgie-2026"
+  },
+  {
     "titre": "Bourses UNSW pour étudiants internationaux - Trimestre 1 2027",
     "seo_slug": "bourse-unsw-international-2027",
     "organisation": "UNSW Sydney",
@@ -2481,6 +3000,379 @@
     "slug": "bourse-mastercard-foundation-afrique-2027"
   },
   {
+    "titre": "Fonds Weiss pour la recherche en économie du développement",
+    "seo_slug": "bourse-weiss-economie-developpement-2026",
+    "organisation": "Weiss Fund for Research in Development Economics (University of Chicago)",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "subvention de recherche",
+    "deadline": "2026-11-01",
+    "deadline_texte": "1er novembre 2026 (cycle glissant de novembre). Autres dates limites pour les cycles glissants : 1er février 2027 et 1er mai 2027. Les candidatures pour le cycle d'automne 2026 sont désormais closes. Les candidatures pour le cycle de printemps ouvriront en février.",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat",
+      "Enseignant-chercheur"
+    ],
+    "domaines": [
+      "Économie du développement",
+      "Économie",
+      "Sciences sociales"
+    ],
+    "pays_eligibles": [
+      "Pays en développement",
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Financement de projets de recherche en économie du développement",
+      "Subventions de recherche (montants variables selon le type de projet)",
+      "Subventions de voyage et de pilotage",
+      "Subventions de mise en œuvre et de politique"
+    ],
+    "eligibilite": [
+      "Étudiants et enseignants-chercheurs (ladder faculty) travaillant en économie du développement",
+      "Projets traitant d'un large éventail de problématiques affectant les pays moins développés",
+      "Les candidatures incomplètes ne seront pas examinées et aucune prolongation ne sera accordée"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page d'éligibilité pour vérifier les critères",
+      "2. Choisir le type de subvention approprié (recherche, voyage et pilotage, mise en œuvre et politique)",
+      "3. Déterminer le cycle de candidature (cycle glissant pour les demandes ≤ 25 000 $, cycles de printemps et d'automne pour les demandes > 25 000 $)",
+      "4. Soumettre la candidature via le portail en ligne WizeHive",
+      "5. Consulter la page FAQ pour toute question supplémentaire"
+    ],
+    "contacts": [
+      "weissfund@uchicago.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Visitez le site : https://weissfund.wizehive.app/program/weiss-rolling-call-november-2026/applicant/application/info",
+        "url": "https://weissfund.wizehive.app/program/weiss-rolling-call-november-2026/applicant/application/info"
+      },
+      {
+        "label": "Page d'éligibilité",
+        "url": "https://weissfund.uchicago.edu/eligibility/"
+      },
+      {
+        "label": "Subventions de recherche",
+        "url": "https://weissfund.uchicago.edu/apply/research/"
+      },
+      {
+        "label": "Subventions de voyage et de pilotage",
+        "url": "https://weissfund.uchicago.edu/apply/travel-and-piloting/"
+      },
+      {
+        "label": "Subventions de mise en œuvre et de politique",
+        "url": "https://weissfund.uchicago.edu/implementation-and-policy/"
+      },
+      {
+        "label": "Portail de candidature (cycle glissant de novembre 2026)",
+        "url": "https://weissfund.wizehive.app/program/weiss-rolling-call-november-2026/applicant/application/info"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://weissfund.uchicago.edu/funding-faq/"
+      }
+    ],
+    "mots_cles": [
+      "bourse économie du développement",
+      "subvention recherche développement",
+      "Weiss Fund",
+      "financement recherche pays en développement",
+      "bourse doctorat économie",
+      "subvention voyage recherche",
+      "bourse post-doctorat économie",
+      "financement projet développement"
+    ],
+    "lien_candidature": "https://weissfund.wizehive.app/program/weiss-rolling-call-november-2026/applicant/application/info",
+    "source_url": "https://weissfund.uchicago.edu/applying-for-funding/?utm_id=97758_v0_s00_e0_tv1_a1den1nhp6a39u&fbclid=IwY2xjawUmiDxleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeDKirpGQ0bNhgoVsLwac-NbaQQZ_6vCRzaIGYJdcivSAO7WseXYP88NWTxkY_aem_Z_0akOwglKcd7JnJLYdoVA",
+    "statut": "ouvert",
+    "resume": "Le Fonds Weiss pour la recherche en économie du développement soutient les projets de recherche d'étudiants et d'enseignants-chercheurs travaillant dans le domaine de l'économie du développement, au sens large. Le programme finance des projets abordant un large éventail de problématiques affectant les pays moins développés. Les candidatures sont acceptées via des cycles glissants pour les demandes de 25 000 $ ou moins, et via des cycles de printemps et d'automne pour les demandes supérieures à 25 000 $. La prochaine date limite pour le cycle glissant de novembre est fixée au 1er novembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:40:58",
+    "slug": "bourse-weiss-economie-developpement-2026"
+  },
+  {
+    "titre": "Bourse de voyage de recherche FEEGI 2026",
+    "seo_slug": "bourse-voyage-recherche-feegi-2026",
+    "organisation": "FEEGI (Forum on European Expansion and Global Interaction)",
+    "montant": 1000,
+    "devise": "USD",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-11-01",
+    "deadline_texte": "1er novembre 2026",
+    "niveau_etudes": [
+      "Doctorat",
+      "Master",
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Histoire",
+      "Études coloniales",
+      "Études globales",
+      "Sciences humaines"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV (2 pages maximum)",
+      "Description du projet (500-750 mots)",
+      "Budget détaillé"
+    ],
+    "avantages": [
+      "Bourse de 1000 $ pour frais de voyage",
+      "Deux bourses disponibles"
+    ],
+    "eligibilite": [
+      "Être membre en règle de FEEGI",
+      "Ouvert aux étudiants diplômés, chercheurs indépendants et professeurs non titulaires"
+    ],
+    "procedure_etapes": [
+      "1. Renouveler ou devenir membre de FEEGI",
+      "2. Préparer un CV (2 pages max)",
+      "3. Rédiger une description de projet (500-750 mots)",
+      "4. Établir un budget détaillé",
+      "5. Compiler tous les documents en un seul fichier",
+      "6. Envoyer le dossier par email aux membres du comité",
+      "7. Utiliser l'objet : 'FEEGI Research Travel Award'"
+    ],
+    "contacts": [
+      "oliviabarnard@ufl.edu",
+      "fichter@hku.hk",
+      "jokct@hku.hk",
+      "Daniel.Livesay@ClaremontMcKenna.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de FEEGI",
+        "url": "https://feegi.org/"
+      },
+      {
+        "label": "Page des bourses",
+        "url": "https://feegi.org/awards.html"
+      },
+      {
+        "label": "Adhésion à FEEGI",
+        "url": "https://feegi.org/membership.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse FEEGI",
+      "bourse voyage recherche",
+      "bourse histoire 2026",
+      "bourse études coloniales",
+      "financement recherche",
+      "bourse pour doctorants",
+      "bourse pour chercheurs indépendants",
+      "bourse pour professeurs non titulaires"
+    ],
+    "lien_candidature": "https://feegi.org/awards.html",
+    "source_url": "https://feegi.org/awards.html?fbclid=IwY2xjawUmiKRleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe14MyH2OBZM6uf1Pbt4Y5ZvbR0Fif5Y78hD1WCzEJnKmIbBkWIPuJhZf1vxE_aem_ZmFrZWR1bW15MTZieXRlcw",
+    "statut": "ouvert",
+    "resume": "La bourse de voyage de recherche FEEGI 2026 offre deux subventions de 1000 $ chacune pour soutenir les déplacements vers des sites d'archives ou de terrain. Ouverte aux membres de FEEGI, elle cible particulièrement les étudiants diplômés, les chercheurs indépendants et les professeurs non titulaires. Les candidats doivent soumettre un CV, une description de projet et un budget avant le 1er novembre 2026. Les lauréats seront annoncés à la mi-décembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:41:45",
+    "slug": "bourse-voyage-recherche-feegi-2026"
+  },
+  {
+    "titre": "Bourse commémorative Mikko Luke Immonen en archéologie africaine",
+    "seo_slug": "bourse-mikko-luke-immonen-archeologie-afrique-2026",
+    "organisation": "Archaeological Institute of America (AIA)",
+    "montant": 10000,
+    "devise": "USD",
+    "type_financement": "bourse de recherche",
+    "deadline": "2026-11-01",
+    "deadline_texte": "1er novembre 2026 (tous les documents doivent être reçus à l'AIA à cette date)",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Archéologie",
+      "Études africaines"
+    ],
+    "pays_eligibles": [
+      "Afrique",
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Lettre de soutien du détenteur du permis (si applicable)",
+      "Références",
+      "Relevés de notes (si applicable)"
+    ],
+    "avantages": [
+      "Financement jusqu'à 10 000 USD",
+      "Frais de garde d'enfants ou de soins aux personnes âgées (si justifiés)"
+    ],
+    "eligibilite": [
+      "Mener ou planifier une recherche active sur le continent africain",
+      "Les candidats hors Afrique doivent être membres actuels de l'AIA au niveau Graduate ou Professional",
+      "Les candidats résidant en Afrique peuvent postuler sans adhésion active à l'AIA mais devront devenir membres s'ils sont sélectionnés (frais peuvent être inclus dans le budget)",
+      "Les récipiendaires titulaires d'un doctorat doivent devenir membres professionnels de l'AIA",
+      "Les récipiendaires étudiants de troisième cycle doivent devenir membres étudiants de l'AIA",
+      "Être affilié à un établissement d'enseignement supérieur dans un programme accrédité de troisième cycle ou postdoctoral en archéologie ou discipline connexe",
+      "Si le projet nécessite un permis, démontrer la capacité de l'obtenir ou inclure une lettre de soutien du détenteur principal du permis",
+      "Les lauréats doivent avoir le permis en main ou avoir pris des dispositions alternatives avec le bureau de l'AIA avant le décaissement des fonds",
+      "Les lauréats doivent soumettre un rapport formel à l'AIA à la fin de la période de bourse",
+      "Après la bourse, les récipiendaires doivent soumettre un résumé de poster ou d'article au comité de programme de l'AIA dans les deux ans",
+      "Pour les projets générant des données numériques, la publication du jeu de données est encouragée, idéalement en accès ouvert"
+    ],
+    "procedure_etapes": [
+      "Vérifier les exigences et les directives de candidature",
+      "Remplir le formulaire de candidature en ligne",
+      "S'assurer que tous les documents (y compris références et relevés de notes) sont reçus par l'AIA avant la date limite",
+      "Soumettre la candidature"
+    ],
+    "contacts": [
+      "fellowships@archaeological.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://www.archaeological.org/programs/professionals/grants-awards/applications/application-the-mikko-luke-immonen-memorial-fellowship-in-african-archaeology/"
+      },
+      {
+        "label": "Exigences et directives de candidature",
+        "url": "https://www.archaeological.org/programs/professionals/grants-awards/fellowship-guide/"
+      },
+      {
+        "label": "Devenir membre de l'AIA",
+        "url": "https://www.archaeological.org/join/"
+      },
+      {
+        "label": "Contact",
+        "url": "https://www.archaeological.org/contact/"
+      }
+    ],
+    "mots_cles": [
+      "bourse archéologie Afrique",
+      "bourse recherche archéologique",
+      "bourse postdoctorale archéologie",
+      "bourse doctorale archéologie",
+      "financement recherche Afrique",
+      "AIA fellowship",
+      "bourse Mikko Luke Immonen",
+      "bourse 2026 archéologie"
+    ],
+    "lien_candidature": "https://www.archaeological.org/programs/professionals/grants-awards/applications/application-the-mikko-luke-immonen-memorial-fellowship-in-african-archaeology/",
+    "source_url": "https://www.archaeological.org/grant/the-mikko-luke-immonen-memorial-fellowship-in-african-archaeology/?fbclid=IwY2xjawUmiMtleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeDKirpGQ0bNhgoVsLwac-NbaQQZ_6vCRzaIGYJdcivSAO7WseXYP88NWTxkY_aem_Z_0akOwglKcd7JnJLYdoVA",
+    "statut": "ouvert",
+    "resume": "La bourse commémorative Mikko Luke Immonen en archéologie africaine, offerte par l'Archaeological Institute of America (AIA), soutient la recherche archéologique et les projets de terrain sur le continent africain menés par des étudiants de troisième cycle ou des post-doctorants. Le financement peut atteindre 10 000 USD et couvre également des dépenses liées à la garde d'enfants ou aux soins aux personnes âgées. Les candidats doivent mener ou planifier une recherche active en Afrique et être affiliés à un établissement d'enseignement supérieur. La date limite de candidature est le 1er novembre 2026, et les résultats seront annoncés avant le 1er mars.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:42:35",
+    "slug": "bourse-mikko-luke-immonen-archeologie-afrique-2026"
+  },
+  {
+    "titre": "Bourses de voyage Thomas H. Carpenter et Lynne C. Lancaster",
+    "seo_slug": "bourse-voyage-carpenter-lancaster-2026",
+    "organisation": "Archaeological Institute of America (AIA)",
+    "montant": 25000,
+    "devise": "USD",
+    "type_financement": "bourse de voyage",
+    "deadline": "2026-11-01",
+    "deadline_texte": "1er novembre 2026 (tous les documents de candidature, y compris les références et les relevés de notes, doivent être reçus par l'AIA à cette date)",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Archéologie",
+      "Études classiques",
+      "Histoire de l'art",
+      "Patrimoine culturel"
+    ],
+    "pays_eligibles": [
+      "États-Unis",
+      "Canada"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Références",
+      "Relevés de notes",
+      "Preuve de statut légal (si non-citoyen des États-Unis ou du Canada)",
+      "Rapport à la fin de la bourse",
+      "Résumé pour la conférence annuelle de l'AIA (dans les deux ans suivant la bourse)"
+    ],
+    "avantages": [
+      "Financement pouvant atteindre 25 000 USD",
+      "Frais de transport",
+      "Hébergement",
+      "Visas",
+      "Frais d'entrée",
+      "Assurance liée au voyage",
+      "Frais raisonnables pour la garde de personnes dépendantes et de membres âgés de la famille"
+    ],
+    "eligibilite": [
+      "Être étudiant diplômé inscrit dans une université américaine ou canadienne ou chercheur basé en Amérique du Nord ayant obtenu un doctorat dans les cinq ans précédant la candidature",
+      "Être résident légal des États-Unis ou du Canada au moment de l'attribution de la bourse",
+      "Fournir une preuve de statut légal si non-citoyen des États-Unis ou du Canada",
+      "Être membre actuel de l'AIA au niveau Graduate ou Professional",
+      "Le projet doit se situer géographiquement dans les limites de l'Empire romain et chronologiquement entre environ 1000 av. J.-C. et 1000 apr. J.-C.",
+      "Les projets nécessitant des séjours prolongés à l'étranger (minimum six semaines) et démontrant un fort potentiel pour faire avancer la recherche doctorale ou les publications sont préférés",
+      "Les fonds ne peuvent pas être utilisés pour les frais généraux institutionnels, les coûts de recouvrement administratif, les coûts indirects ou pour soutenir des projets de fouilles"
+    ],
+    "procedure_etapes": [
+      "Vérifier les conditions d'éligibilité et les exigences de la bourse",
+      "Devenir membre de l'AIA au niveau Graduate ou Professional (si ce n'est pas déjà fait)",
+      "Préparer tous les documents de candidature, y compris les références et les relevés de notes",
+      "Soumettre le formulaire de candidature en ligne avant la date limite du 1er novembre 2026",
+      "S'assurer que tous les documents sont reçus par l'AIA avant la date limite",
+      "Après l'attribution, utiliser les fonds pour le voyage de recherche entre le 1er mai de l'année d'attribution et le 30 septembre de l'année suivante",
+      "À la fin de la bourse, soumettre un rapport sur l'utilisation de la bourse au président du comité des bourses de l'AIA",
+      "Dans les deux ans suivant la bourse, soumettre un résumé au comité du programme pour être considéré pour une participation à la réunion annuelle de l'AIA"
+    ],
+    "contacts": [
+      "fellowships@archaeological.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://www.archaeological.org/programs/professionals/grants-awards/applications/application-aia-traveling-fellowships/"
+      },
+      {
+        "label": "Guide des bourses et directives de candidature",
+        "url": "https://www.archaeological.org/programs/professionals/grants-awards/fellowship-guide/"
+      },
+      {
+        "label": "Devenir membre de l'AIA",
+        "url": "https://www.archaeological.org/join/"
+      },
+      {
+        "label": "Page des bourses et prix de l'AIA",
+        "url": "https://www.archaeological.org/programs/professionals/grants-awards/"
+      }
+    ],
+    "mots_cles": [
+      "bourse archéologie",
+      "bourse voyage archéologie",
+      "bourse AIA",
+      "bourse doctorat archéologie",
+      "bourse post-doctorat archéologie",
+      "bourse études classiques",
+      "bourse patrimoine culturel",
+      "bourse États-Unis",
+      "bourse Canada",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://www.archaeological.org/programs/professionals/grants-awards/applications/application-aia-traveling-fellowships/",
+    "source_url": "https://www.archaeological.org/grant/thomas-h-carpenter-and-lynne-c-lancaster-traveling-fellowship/?fbclid=IwY2xjawUmiOZleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEedSSh3mO9sdO9wv-tqMqTd9UDgiApNFhUqycrYhQ-wjKsxIo8PZLJjOmeV5M_aem_3hADZ9phFwuqGnGc0ZSxXQ",
+    "statut": "ouvert",
+    "resume": "Les bourses de voyage Thomas H. Carpenter et Lynne C. Lancaster, offertes par l'Archaeological Institute of America (AIA), soutiennent les voyages d'étude à l'étranger pour les étudiants diplômés et les jeunes docteurs engagés dans la recherche archéologique et la publication. Le financement, pouvant atteindre 25 000 USD, couvre les dépenses liées au voyage (transport, hébergement, visas, etc.) pour des projets situés dans les limites de l'Empire romain et datant entre 1000 av. J.-C. et 1000 apr. J.-C. Les candidats doivent être membres de l'AIA et résider légalement aux États-Unis ou au Canada. La date limite de candidature est le 1er novembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:43:03",
+    "slug": "bourse-voyage-carpenter-lancaster-2026"
+  },
+  {
     "titre": "Bourses d'études internationales Lester B. Pearson",
     "seo_slug": "bourse-pearson-international-2027",
     "organisation": "University of Toronto",
@@ -2636,6 +3528,96 @@
     "slug": "bourse-alche-maurice-2027"
   },
   {
+    "titre": "Bourse de recherche pour doctorants en géochimie de l'IAGC (sponsorisée par Elsevier)",
+    "seo_slug": "bourse-iagc-doctorat-geochimie-2027",
+    "organisation": "International Association of GeoChemistry (IAGC)",
+    "montant": 2300,
+    "devise": "USD",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-11-15",
+    "deadline_texte": "15 novembre 2026",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Géochimie"
+    ],
+    "pays_eligibles": [
+      "Tous les pays sauf Russie, Iran, Irak, Cuba"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature (IAGC_Student_Research_Grant_Application_2027.doc)"
+    ],
+    "avantages": [
+      "Subvention jusqu'à 2300 USD pour les analyses géochimiques",
+      "Article de profil dans le magazine Elements et la newsletter de l'IAGC",
+      "Adhésion gratuite d'un an à l'IAGC pour l'année suivant la réception du prix"
+    ],
+    "eligibilite": [
+      "Être inscrit dans un programme de doctorat reconnu dans une institution délivrant des diplômes de doctorat, dans n'importe quel pays",
+      "Mener des recherches dans un domaine de la géochimie",
+      "Ne pas travailler dans les pays suivants : Russie, Iran, Irak, Cuba (en raison de restrictions bancaires)"
+    ],
+    "procedure_etapes": [
+      "Télécharger le formulaire de candidature à l'adresse : /resources/SRGs/IAGC_Student_Research_Grant_Application_2027.doc",
+      "Suivre les instructions du formulaire",
+      "Soumettre la candidature avant le 15 novembre 2026",
+      "Les décisions seront annoncées le 1er mai 2027"
+    ],
+    "contacts": [
+      "businessoffice@iagc-society.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://www.iagc-society.org/resources/SRGs/IAGC_Student_Research_Grant_Application_2027.doc"
+      },
+      {
+        "label": "Site officiel de l'IAGC",
+        "url": "https://www.iagc-society.org/"
+      },
+      {
+        "label": "Page des bourses étudiantes",
+        "url": "https://www.iagc-society.org/Student-Grants"
+      },
+      {
+        "label": "Site d'Elsevier",
+        "url": "http://www.elsevier.com/"
+      },
+      {
+        "label": "Journal Applied Geochemistry",
+        "url": "https://www.journals.elsevier.com/applied-geochemistry"
+      },
+      {
+        "label": "Magazine Elements",
+        "url": "http://elementsmagazine.org/"
+      },
+      {
+        "label": "Newsletters de l'IAGC",
+        "url": "http://www.iagc-society.org/newsletters.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat géochimie",
+      "bourse IAGC",
+      "bourse Elsevier",
+      "financement thèse géochimie",
+      "bourse recherche géochimie",
+      "bourse internationale doctorat",
+      "subvention analyse géochimique",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://www.iagc-society.org/Student-Grants",
+    "source_url": "https://www.iagc-society.org/Student-Grants?fbclid=IwY2xjawUmghlleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEedSSh3mO9sdO9wv-tqMqTd9UDgiApNFhUqycrYhQ-wjKsxIo8PZLJjOmeV5M_aem_3hADZ9phFwuqGnGc0ZSxXQ",
+    "statut": "ouvert",
+    "resume": "L'International Association of GeoChemistry (IAGC), avec le soutien d'Elsevier, propose des bourses de recherche pouvant atteindre 2 300 USD pour les doctorants en géochimie. Ces subventions visent à financer les analyses géochimiques essentielles à leurs travaux de thèse. Les lauréats bénéficient également d'une visibilité dans le magazine Elements et la newsletter de l'IAGC, ainsi que d'une adhésion gratuite d'un an. Les candidatures pour l'édition 2027 sont ouvertes jusqu'au 15 novembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:13:50",
+    "slug": "bourse-iagc-doctorat-geochimie-2027"
+  },
+  {
     "titre": "Bourse Mastercard Foundation Scholars Program - Université de Cambridge",
     "seo_slug": "bourse-mastercard-cambridge-2026",
     "organisation": "Mastercard Foundation & University of Cambridge",
@@ -2753,6 +3735,93 @@
     "imageUrl": null,
     "extrait_le": "2026-09-22T03:01:35",
     "slug": "bourse-mastercard-cambridge-2026"
+  },
+  {
+    "titre": "Bourses de recherche Monica Cole et Henrietta Hutton",
+    "seo_slug": "bourse-monica-cole-henrietta-hutton-2026",
+    "organisation": "Royal Geographical Society (avec l'Institute of British Geographers)",
+    "montant": 1000,
+    "devise": "GBP",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-11-23",
+    "deadline_texte": "23 novembre 2026 à 23h59 (heure de Londres)",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Géographie physique",
+      "Géographie sociale",
+      "Environnement",
+      "Sciences de la Terre"
+    ],
+    "pays_eligibles": [
+      "Royaume-Uni"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne complété",
+      "CV d'une page (PDF, nommé NOM_CV)",
+      "Deux références (soumises directement par les référents à grants@rgs.org)",
+      "Optionnel : jusqu'à deux pages A4 de cartes et figures (PDF, nommé NOM_Figures and Maps)"
+    ],
+    "avantages": [
+      "Bourse de 1 000 £",
+      "Deux bourses pour la géographie physique (une pour licence, une pour master) soutenues par le legs Monica Cole",
+      "Deux bourses pour des projets à fort impact social ou environnemental (une pour licence, une pour master) soutenues par le fonds commémoratif Henrietta Hutton"
+    ],
+    "eligibilite": [
+      "Être inscrit dans un établissement d'enseignement supérieur au Royaume-Uni",
+      "Entreprendre un projet de recherche sur le terrain indépendant",
+      "Si le candidat fait partie d'une expédition organisée plus large, il doit clairement démontrer en quoi sa recherche de terrain est distincte de celle du projet global",
+      "Fournir des preuves solides de la participation du pays d'accueil"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et les conditions sur le site du RGS",
+      "2. Créer un compte ou se connecter sur le portail RGS",
+      "3. Accéder à 'My Grants' dans le tableau de bord",
+      "4. Remplir le formulaire de candidature en ligne (voir le modèle pour les champs)",
+      "5. Télécharger le CV d'une page au format PDF (nommé NOM_CV)",
+      "6. Optionnel : télécharger jusqu'à deux pages A4 de cartes et figures (PDF, nommé NOM_Figures and Maps)",
+      "7. Demander à deux référents de soumettre directement le formulaire de référence à grants@rgs.org avant la date limite",
+      "8. Soumettre la candidature en ligne avant le 23 novembre 2026 à 23h59"
+    ],
+    "contacts": [
+      "grants@rgs.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://portal.rgs.org/account/dashboard/myGrants"
+      },
+      {
+        "label": "Modèle de formulaire de candidature (PDF)",
+        "url": "/media/ab5nokxf/rgs-grant-application-questions.pdf"
+      },
+      {
+        "label": "Formulaire de référence (DOCX)",
+        "url": "/media/oozhwsx4/rgs-ibg-grants-reference-form.docx"
+      }
+    ],
+    "mots_cles": [
+      "bourse géographie",
+      "bourse recherche terrain",
+      "bourse Royaume-Uni",
+      "bourse licence",
+      "bourse master",
+      "Monica Cole",
+      "Henrietta Hutton",
+      "RGS-IBG",
+      "financement recherche"
+    ],
+    "lien_candidature": "https://portal.rgs.org/account/dashboard/myGrants",
+    "source_url": "https://www.rgs.org/exploration/grants/student-grants/undergraduate-grants/monica-cole-research-grant?fbclid=IwY2xjawUmiD9leHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeDKirpGQ0bNhgoVsLwac-NbaQQZ_6vCRzaIGYJdcivSAO7WseXYP88NWTxkY_aem_Z_0akOwglKcd7JnJLYdoVA",
+    "statut": "ouvert",
+    "resume": "La Royal Geographical Society (RGS) offre chaque année quatre bourses de 1 000 £ pour soutenir des projets de recherche sur le terrain à l'étranger menés par des étudiants de licence et de master inscrits dans un établissement d'enseignement supérieur au Royaume-Uni. Deux bourses sont dédiées à la géographie physique (soutenues par le legs Monica Cole) et deux à des projets à dimension sociale ou environnementale (soutenues par le fonds Henrietta Hutton). Les candidats doivent démontrer l'originalité de leur recherche et une forte implication du pays d'accueil. La date limite de candidature est fixée au 23 novembre 2026 à 23h59.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:40:30",
+    "slug": "bourse-monica-cole-henrietta-hutton-2026"
   },
   {
     "titre": "Bourse d'excellence et programme d'opportunités (ESOP) de l'ETH Zurich",
@@ -3193,6 +4262,72 @@
     "slug": "bourse-doctorat-hong-kong-2027"
   },
   {
+    "titre": "Bourse de la Fondation Horowitz 2026-2027",
+    "seo_slug": "bourse-horowitz-2026-2027",
+    "organisation": "Horowitz Foundation",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse",
+    "deadline": "2026-12-01",
+    "deadline_texte": "1er décembre 2026 à 23h59 EST",
+    "niveau_etudes": [],
+    "domaines": [],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Description du projet (750 mots)",
+      "Formulaire de recommandation"
+    ],
+    "avantages": [],
+    "eligibilite": [
+      "Toutes les candidatures doivent être soumises via le portail de candidature",
+      "Tous les formulaires et documents doivent être en anglais",
+      "Les candidatures incomplètes ne seront pas prises en compte",
+      "La candidature ne peut pas être examinée si les formulaires de recommandation ne sont pas complets"
+    ],
+    "procedure_etapes": [
+      "1. Cliquez sur le bouton \"Application Form\" et créez un compte",
+      "2. Remplissez la demande, y compris : Détails personnels (questions à réponse courte), Aperçu du projet (bref résumé), Votre projet (description de 750 mots), Téléchargez votre CV, Informations de contact des recommandateurs",
+      "3. Cliquez sur le bouton \"Review & Submit\" (au plus tard le 1er décembre à 23h59 EST)",
+      "4. Assurez-vous que vos recommandateurs remplissent le formulaire de recommandation avant le 1er décembre à 23h59 EST"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://apply.mykaleidoscope.com/program/HorowitzFoundation2026-2027Application"
+      },
+      {
+        "label": "Inscription à la liste de diffusion",
+        "url": "https://www.horowitz-foundation.org/contact"
+      },
+      {
+        "label": "Page FAQ",
+        "url": "https://www.horowitz-foundation.org/faq"
+      },
+      {
+        "label": "Flyer de la bourse 2027 (PDF)",
+        "url": "https://2977f790-dd77-4872-8b9a-43d2492a2108.usrfiles.com/ugd/2977f7_1e9772dd9f3840f6b25c175682dacbb6.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse Horowitz",
+      "bourse 2026-2027",
+      "financement études",
+      "bourse internationale",
+      "candidature bourse"
+    ],
+    "lien_candidature": "https://apply.mykaleidoscope.com/program/HorowitzFoundation2026-2027Application",
+    "source_url": "https://www.horowitz-foundation.org/apply?fbclid=IwY2xjawUmgetleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe_fGbjrr6MbV4zXAZgVwkKgRdfG4JyoaR9dbGCij7Owj8SF-FHI5_M8i7gCA_aem_esBMkz5Sx8Db8a2ceqykfA",
+    "statut": "ouvert",
+    "resume": "La Fondation Horowitz offre une opportunité de financement pour l'année académique 2026-2027. Les candidats doivent soumettre leur dossier via le portail de candidature avant le 1er décembre 2026 à 23h59 EST. Tous les documents doivent être en anglais et les formulaires de recommandation doivent être complétés. Les lauréats seront annoncés en juin.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:13:04",
+    "slug": "bourse-horowitz-2026-2027"
+  },
+  {
     "titre": "Bourses de l'Université de Maastricht pour étudiants internationaux",
     "seo_slug": "bourses-universite-maastricht-internationaux-2027",
     "organisation": "Maastricht University (UM)",
@@ -3584,6 +4719,83 @@
     "slug": "bourses-institut-doha-etudes-superieures"
   },
   {
+    "titre": "Bourse d'excellence pour les études de premier cycle à VCUarts Qatar",
+    "seo_slug": "bourse-vcuarts-qatar-undergraduate-2027",
+    "organisation": "VCUarts Qatar",
+    "montant": 40000,
+    "devise": "USD",
+    "type_financement": "bourse partielle",
+    "deadline": "2027-01-15",
+    "deadline_texte": "15 janvier 2027",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Arts",
+      "Design"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Essai (pour les candidats BA)",
+      "Portfolio (pour les candidats BFA)",
+      "Lettres de recommandation",
+      "Relevés de notes",
+      "Preuve de compétence en anglais (TOEFL, IELTS ou Duolingo)"
+    ],
+    "avantages": [
+      "Jusqu'à 40 000 $ par an",
+      "Frais de scolarité (jusqu'à 37 642 $/an)",
+      "Logement étudiant sur le campus (de 2 774 $ à 7 604 $/an selon le type de chambre)"
+    ],
+    "eligibilite": [
+      "Étudiants entrants en première année",
+      "GPA minimum de 3,30 sur 4,0",
+      "Compétence en anglais : TOEFL iBT 4,5+ (test passé après le 21 janvier 2026) ou 94+ (avant le 21 janvier 2026), IELTS 7,0+, ou Duolingo 130-135",
+      "Excellent essai (BA) ou portfolio (BFA) démontrant l'excellence en arts et design"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre une candidature à un programme de premier cycle (BA ou BFA) via le portail d'admission",
+      "2. Les candidats sont automatiquement considérés pour la bourse",
+      "3. Fournir tous les documents requis (essai/portfolio, relevés, tests d'anglais, etc.)",
+      "4. Attendre la décision d'admission et l'attribution de la bourse (les lettres sont envoyées à partir d'avril)"
+    ],
+    "contacts": [
+      "admissions@qatar.vcu.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://qatar.vcu.edu/admissions/undergraduate-admissions/application-requirements/"
+      },
+      {
+        "label": "Page des bourses et prêts",
+        "url": "https://qatar.vcu.edu/enrollment-services/scholarships-loans/"
+      }
+    ],
+    "mots_cles": [
+      "bourse arts qatar",
+      "bourse design qatar",
+      "bourse premier cycle qatar",
+      "bourse VCUarts",
+      "bourse mérite international",
+      "bourse études arts",
+      "bourse licence qatar",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://qatar.vcu.edu/admissions/undergraduate-admissions/application-requirements/",
+    "source_url": "https://qatar.vcu.edu/admissions/undergraduate-merit-scholarship/?fbclid=IwY2xjawUmiuVleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe14MyH2OBZM6uf1Pbt4Y5ZvbR0Fif5Y78hD1WCzEJnKmIbBkWIPuJhZf1vxE_aem_ZmFrZWR1bW15MTZieXRlcw",
+    "statut": "ouvert",
+    "resume": "VCUarts Qatar propose une bourse d'excellence pour les étudiants de premier cycle (BA et BFA) démontrant un potentiel académique et créatif exceptionnel. Cette bourse, d'une valeur pouvant atteindre 40 000 $ par an, couvre les frais de scolarité et éventuellement le logement sur le campus. Tous les candidats sont automatiquement considérés lors de leur demande d'admission. La date limite de candidature est le 15 janvier 2027.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:51:50",
+    "slug": "bourse-vcuarts-qatar-undergraduate-2027"
+  },
+  {
     "titre": "Master MITRA - Programme de Master en Études Migratoires Internationales",
     "seo_slug": "bourse-mitra-master-migration-2027",
     "organisation": "Université de Lille (consortium MITRA)",
@@ -3907,6 +5119,95 @@
     "imageUrl": null,
     "extrait_le": "2026-09-22T03:08:57",
     "slug": "bourses-cdu-international-2027"
+  },
+  {
+    "titre": "Admissions aux cycles supérieurs de l'Université Hamad Bin Khalifa (HBKU)",
+    "seo_slug": "admissions-hbku-master-qatar-2027",
+    "organisation": "Hamad Bin Khalifa University (HBKU)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2027-02-01",
+    "deadline_texte": "1er février 2027 pour les candidats internationaux aux cycles supérieurs",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Études islamiques",
+      "Sciences humaines et sociales",
+      "Sciences et ingénierie",
+      "Droit",
+      "Sciences de la santé et de la vie",
+      "Politiques publiques"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement, non spécifié)",
+    "documents_requis": [
+      "Documents supplémentaires (non spécifiés)",
+      "Coordonnées de références"
+    ],
+    "avantages": [],
+    "eligibilite": [
+      "Complétude du dossier",
+      "Éligibilité selon les critères de l'université"
+    ],
+    "procedure_etapes": [
+      "1. Créer un compte utilisateur en cliquant sur 'Apply Now'",
+      "2. Se connecter avec ses identifiants",
+      "3. Soumettre la candidature en choisissant le collège et le programme (maximum deux candidatures par année académique)",
+      "4. Télécharger les documents supplémentaires et fournir les coordonnées des références",
+      "5. Réception de l'email de confirmation avec instructions",
+      "6. Examen préliminaire de la candidature par l'équipe d'admission",
+      "7. Transmission au collège concerné pour évaluation",
+      "8. Notification de la décision et réception de la lettre d'admission"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://hbkuqa.elluciancrmrecruit.com/Apply"
+      },
+      {
+        "label": "Programmes d'études supérieures",
+        "url": "/programs?program_category=32623,329,331,327"
+      },
+      {
+        "label": "Calendrier académique",
+        "url": "/academic-calendar"
+      },
+      {
+        "label": "Vie à HBKU",
+        "url": "/life-hbku"
+      },
+      {
+        "label": "Événements HBKU",
+        "url": "/events"
+      },
+      {
+        "label": "Se déplacer à HBKU",
+        "url": "/getting-around"
+      }
+    ],
+    "mots_cles": [
+      "bourse HBKU",
+      "admission master Qatar",
+      "études supérieures Qatar",
+      "bourse études Qatar",
+      "HBKU graduate admissions",
+      "bourse internationale Qatar",
+      "financement études Qatar"
+    ],
+    "lien_candidature": "https://hbkuqa.elluciancrmrecruit.com/Apply",
+    "source_url": "https://www.hbku.edu.qa/en/graduate-admissions",
+    "statut": "ouvert",
+    "resume": "L'Université Hamad Bin Khalifa (HBKU) au Qatar ouvre ses admissions aux cycles supérieurs pour l'année académique 2026-2027. Les candidats internationaux ont jusqu'au 1er février 2027 pour soumettre leur dossier via le portail en ligne. La procédure comprend la création d'un compte, la soumission de la candidature, l'upload des documents et des références, suivie d'un examen par l'équipe d'admission et le collège concerné. Les candidats retenus recevront une lettre d'admission.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:53:49",
+    "slug": "admissions-hbku-master-qatar-2027"
   },
   {
     "titre": "Bourses de doctorat du Président de l'Imperial College London",
@@ -14166,6 +15467,369 @@
     "slug": "eye-2027-parlement-europeen"
   },
   {
+    "titre": "Bourses d'aide à la recherche Sigma Xi",
+    "seo_slug": "bourse-sigma-xi-recherche-2026",
+    "organisation": "Sigma Xi",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse de recherche",
+    "deadline": null,
+    "deadline_texte": "Deux dates limites : 15 mars et 1er octobre (chaque année)",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat",
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Recherche scientifique",
+      "Sciences",
+      "Ingénierie",
+      "Mathématiques"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Proposition de recherche",
+      "Lettre de recommandation"
+    ],
+    "avantages": [
+      "Financement de la recherche",
+      "Fonds versés"
+    ],
+    "eligibilite": [
+      "Être étudiant ou chercheur",
+      "Projet de recherche scientifique"
+    ],
+    "procedure_etapes": [
+      "1. Créer un compte sur le portail de candidature en ligne",
+      "2. Consulter les directives de candidature",
+      "3. Préparer une proposition de recherche",
+      "4. Soumettre la candidature avant la date limite",
+      "5. Les décisions de financement sont annoncées par e-mail",
+      "6. Les fonds sont décaissés après l'annonce"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature en ligne",
+        "url": "https://sigmaxi.secure-platform.com/a"
+      },
+      {
+        "label": "Directives de candidature",
+        "url": "https://sigmaxi.secure-platform.com/a/page/guidelines"
+      },
+      {
+        "label": "Préparer une candidature réussie",
+        "url": "https://sigmaxi.secure-platform.com/a/page/preparingsuccessfulapplication"
+      },
+      {
+        "label": "Exemple de proposition",
+        "url": "https://www.sigmaxi.org/docs/default-source/programs-documents/sample-proposal.pdf"
+      },
+      {
+        "label": "Formulaire d'évaluation exemple",
+        "url": "https://www.sigmaxi.org/docs/default-source/programs-documents/giar-rating-form7d42de75e2936b72a79cff000094a25f.pdf"
+      },
+      {
+        "label": "Enregistrements",
+        "url": "https://www.sigmaxi.org/programs/grants-in-aid/recordings"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "recherche",
+      "Sigma Xi",
+      "financement",
+      "étudiants",
+      "scientifique"
+    ],
+    "lien_candidature": "https://sigmaxi.secure-platform.com/a",
+    "source_url": "https://www.sigmaxi.org/programs/grants-in-aid-of-research/apply?fbclid=IwY2xjawUmf9pleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe_fGbjrr6MbV4zXAZgVwkKgRdfG4JyoaR9dbGCij7Owj8SF-FHI5_M8i7gCA_aem_esBMkz5Sx8Db8a2ceqykfA",
+    "statut": "ouvert",
+    "resume": "Les bourses d'aide à la recherche de Sigma Xi soutiennent des projets de recherche scientifique menés par des étudiants et des chercheurs. Elles offrent un financement pour couvrir les dépenses liées à la recherche. Les candidatures sont acceptées deux fois par an, avec des dates limites le 15 mars et le 1er octobre. Le processus de candidature se fait en ligne via un portail dédié.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:12:08",
+    "slug": "bourse-sigma-xi-recherche-2026"
+  },
+  {
+    "titre": "Bourse de recherche sur le terrain pour la thèse (Dissertation Fieldwork Grant)",
+    "seo_slug": "bourse-wenner-gren-recherche-terrain-these-2026",
+    "organisation": "Wenner-Gren Foundation",
+    "montant": 25000,
+    "devise": "USD",
+    "type_financement": "bourse de recherche",
+    "deadline": null,
+    "deadline_texte": "1er mai (pour un début de projet entre le 1er janvier et le 30 juin de l'année suivante) et 1er novembre (pour un début de projet entre le 1er juillet et le 31 décembre de l'année suivante). Le portail de candidature ouvre 2 mois avant la date limite.",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Anthropologie",
+      "Socio-anthropologie",
+      "Anthropologie linguistique",
+      "Anthropologie biologique",
+      "Archéologie"
+    ],
+    "pays_eligibles": [
+      "Toutes nationalités"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Preuve de l'inscription en doctorat",
+      "Preuve de l'achèvement des cours et examens",
+      "Déclaration de resoumission (le cas échéant)"
+    ],
+    "avantages": [
+      "Financement jusqu'à 25 000 $",
+      "Couvre les phases de recherche distinctes",
+      "Aucune limite de durée",
+      "Non renouvelable"
+    ],
+    "eligibilite": [
+      "Être inscrit dans un programme de doctorat en anthropologie",
+      "Avoir un diplôme antérieur en anthropologie ou être affilié à l'anthropologie via le directeur de thèse",
+      "Avoir un directeur de thèse avec un rôle officiellement reconnu dans la formation",
+      "Avoir satisfait à toutes les exigences du programme de doctorat, sauf la thèse, avant la date de début",
+      "Fournir une preuve du département de l'achèvement des cours et examens",
+      "Une seule resoumission possible pour une candidature non financée",
+      "Ne pas avoir plus d'une candidature en cours dans les programmes Wenner-Gren",
+      "Les candidats dont la recherche est orientée vers la primatologie doivent démontrer une pertinence anthropologique plus large"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le guide de candidature",
+      "2. Vérifier les informations fiscales américaines et les exigences de visa",
+      "3. Se conformer aux lois américaines, y compris les réglementations OFAC",
+      "4. Fournir une documentation spéciale pour les projets dans les pays sous sanctions (Cuba, Iran, Corée du Nord, Syrie, Venezuela, Crimée, régions de Donetsk et Lougansk, Russie) avant le déblocage des fonds",
+      "5. Ne pas envoyer de documents supplémentaires non demandés",
+      "6. Consulter la politique sur l'utilisation de l'IA générative",
+      "7. Soumettre la candidature en ligne via le portail"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://wennergren.tfaforms.net/4978023"
+      },
+      {
+        "label": "Guide de candidature",
+        "url": "https://wennergren.org/application-guide/dissertation-fieldwork-grant/"
+      },
+      {
+        "label": "Informations fiscales américaines",
+        "url": "https://wennergren.org/united-states-tax-issues-and-the-wenner-gren-foundations-tax-reporting-requirements/"
+      },
+      {
+        "label": "Directives OFAC",
+        "url": "https://wennergren.org/ofac-guidelines/"
+      },
+      {
+        "label": "Département du Trésor américain",
+        "url": "https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information"
+      },
+      {
+        "label": "Politique sur l'IA générative",
+        "url": "https://wennergren.org/ai-policy/"
+      },
+      {
+        "label": "Motion du 32e RBA",
+        "url": "https://www.abant.org.br/files/20210108_5ff8624aac67c.pdf"
+      },
+      {
+        "label": "Plus d'informations",
+        "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+      }
+    ],
+    "mots_cles": [
+      "bourse anthropologie",
+      "bourse doctorat",
+      "financement recherche terrain",
+      "Wenner-Gren Foundation",
+      "bourse thèse",
+      "anthropologie sociale",
+      "archéologie",
+      "anthropologie linguistique",
+      "bourse internationale"
+    ],
+    "lien_candidature": "https://wennergren.tfaforms.net/4978023",
+    "source_url": "https://wennergren.org/program/dissertation-fieldwork-grant/?fbclid=IwY2xjawUmgddleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeoESkrOKlRoZf0YUaT3QJNTUR5YC0BduQ9vkCdxCeW6p3912aleEV1GRoWqo_aem_hJdUrIYEKYiovepK2U6UZA",
+    "statut": "ouvert",
+    "resume": "La Wenner-Gren Foundation offre des bourses de recherche sur le terrain pour la thèse, destinées aux doctorants en anthropologie. Ce programme finance des projets de recherche qui font progresser la connaissance anthropologique, sans préférence de méthodologie, de lieu ou de sujet. Le montant maximum de la bourse est de 25 000 $, non renouvelable, et couvre potentiellement plusieurs phases de recherche. Les candidatures sont acceptées deux fois par an, avec des dates limites au 1er mai et au 1er novembre.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:12:43",
+    "slug": "bourse-wenner-gren-recherche-terrain-these-2026"
+  },
+  {
+    "titre": "Bourses d'échange scientifique EMBO",
+    "seo_slug": "bourse-echange-scientifique-embo-2026",
+    "organisation": "EMBO (European Molecular Biology Organization)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse de mobilité",
+    "deadline": null,
+    "deadline_texte": "Candidatures acceptées tout au long de l'année",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Sciences de la vie",
+      "Biologie moléculaire"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Frais de subsistance",
+      "Indemnité de voyage"
+    ],
+    "eligibilite": [
+      "Chercheur en début de carrière",
+      "Collaboration internationale"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité",
+      "2. Préparer la candidature",
+      "3. Soumettre la candidature en ligne"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page officielle des bourses d'échange scientifique",
+        "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/"
+      },
+      {
+        "label": "Vérifier l'éligibilité",
+        "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/eligibility/"
+      },
+      {
+        "label": "Postuler",
+        "url": "https://applications.embo.org/register.php?reg=80DN"
+      },
+      {
+        "label": "Directives de candidature (PDF)",
+        "url": "https://www.embo.org/documents/SEG/SEG_guidelines_for_applicants.pdf"
+      },
+      {
+        "label": "Taux de subsistance et allocation de voyage (PDF)",
+        "url": "https://www.embo.org/documents/SEG/SEG_subsistence_rates_and_travel_allowance.pdf"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/faqs/"
+      }
+    ],
+    "mots_cles": [
+      "bourse EMBO",
+      "échange scientifique",
+      "bourse recherche",
+      "financement mobilité",
+      "sciences de la vie",
+      "bourse internationale"
+    ],
+    "lien_candidature": "https://applications.embo.org/register.php?reg=80DN",
+    "source_url": "https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/?fbclid=IwY2xjawUmgj1leHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe14MyH2OBZM6uf1Pbt4Y5ZvbR0Fif5Y78hD1WCzEJnKmIbBkWIPuJhZf1vxE_aem_ZmFrZWR1bW15MTZieXRlcw",
+    "statut": "ouvert",
+    "resume": "Les bourses d'échange scientifique EMBO soutiennent les collaborations internationales et permettent le transfert d'expertise entre chercheurs en début de carrière. Ces bourses offrent un financement pour la mobilité, couvrant les frais de subsistance et les voyages. Les candidatures sont acceptées tout au long de l'année, offrant une flexibilité aux chercheurs du monde entier. C'est une opportunité idéale pour les scientifiques souhaitant élargir leur réseau et acquérir de nouvelles compétences.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:14:29",
+    "slug": "bourse-echange-scientifique-embo-2026"
+  },
+  {
+    "titre": "Bourses de voyage Boehringer Ingelheim Fonds",
+    "seo_slug": "bourse-voyage-bif-biomedicale-2026",
+    "organisation": "Boehringer Ingelheim Fonds (BIF)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse de voyage",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Recherche biomédicale fondamentale"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Financement de séjours de recherche à court terme",
+      "Financement de cours pratiques",
+      "Durée maximale de trois mois"
+    ],
+    "eligibilite": [
+      "Être étudiant en médecine (MD) ou en doctorat (PhD)",
+      "Être chercheur postdoctoral",
+      "Mener un projet expérimental en recherche biomédicale fondamentale",
+      "Souhaiter effectuer un séjour de recherche à court terme ou suivre un cours pratique en Europe ou à l'étranger"
+    ],
+    "procedure_etapes": [
+      "Consulter la page 'How to apply' pour les instructions détaillées",
+      "Préparer les documents requis selon les directives",
+      "Soumettre la candidature via le portail en ligne"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page d'accueil",
+        "url": "https://bifonds.de/index.html"
+      },
+      {
+        "label": "Bourses et subventions",
+        "url": "https://bifonds.de/fellowships-grants/fellowships-grants.html"
+      },
+      {
+        "label": "Ce que nous offrons",
+        "url": "https://bifonds.de/fellowships-grants/travel-grants/what-we-offer-travel-grants.html"
+      },
+      {
+        "label": "Qui peut postuler",
+        "url": "https://bifonds.de/fellowships-grants/travel-grants/who-can-apply-travel-grants.html"
+      },
+      {
+        "label": "Comment postuler",
+        "url": "https://bifonds.de/fellowships-grants/travel-grants/how-to-apply-travel-grants.html"
+      },
+      {
+        "label": "Comment nous décidons",
+        "url": "https://bifonds.de/fellowships-grants/travel-grants/how-we-decide-travel-grants.html"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://bifonds.de/fellowships-grants/travel-grants/frequently-asked-questions-travel-grants.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse de voyage",
+      "recherche biomédicale",
+      "Boehringer Ingelheim Fonds",
+      "bourse doctorat",
+      "bourse postdoctorat",
+      "financement séjour recherche",
+      "cours pratique biomédical"
+    ],
+    "lien_candidature": "https://bifonds.de/fellowships-grants/travel-grants/how-to-apply-travel-grants.html",
+    "source_url": "https://bifonds.de/fellowships-grants/travel-grants.html?fbclid=IwY2xjawUmhsZleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeoESkrOKlRoZf0YUaT3QJNTUR5YC0BduQ9vkCdxCeW6p3912aleEV1GRoWqo_aem_hJdUrIYEKYiovepK2U6UZA",
+    "statut": "ouvert",
+    "resume": "Le Boehringer Ingelheim Fonds (BIF) propose des bourses de voyage d'une durée maximale de trois mois pour les étudiants en médecine (MD), en doctorat (PhD) et les chercheurs postdoctoraux du monde entier. Ces bourses soutiennent des projets expérimentaux en recherche biomédicale fondamentale, que ce soit pour des séjours de recherche à court terme ou des cours pratiques en Europe ou à l'étranger. Les candidats doivent être engagés dans un projet de recherche biomédicale et souhaiter acquérir de nouvelles méthodes. Les candidatures sont ouvertes en continu, sans date limite spécifiée.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:33:51",
+    "slug": "bourse-voyage-bif-biomedicale-2026"
+  },
+  {
     "titre": "Admission au programme de diplôme international de l'Université Nationale Tsing Hua - Printemps 2027",
     "seo_slug": "admission-nthu-printemps-2027",
     "organisation": "National Tsing Hua University (NTHU)",
@@ -16367,6 +18031,120 @@
     "imageUrl": null,
     "extrait_le": "2026-09-17T02:00:19",
     "slug": "bourse-erasmus-mundus-steps-master-2026"
+  },
+  {
+    "titre": "Aide financière de Northwestern University in Qatar",
+    "seo_slug": "aide-financiere-northwestern-qatar-2026",
+    "organisation": "Northwestern University in Qatar",
+    "montant": null,
+    "devise": null,
+    "type_financement": "aide financière (prêts sans intérêt et bourses au mérite)",
+    "deadline": "2026-01-15",
+    "deadline_texte": "15 janvier 2026 pour les candidats en Regular Decision et les transferts (date limite pour le portail QF et les documents). Pour les candidats en Early Action, la date limite est le 1er novembre 2025.",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Copie du passeport du candidat et de tous les membres de la famille",
+      "Permis de résidence qatari (si délivré) pour le candidat et tous les membres de la famille",
+      "Copie de la carte d'identité nationale",
+      "Dernier relevé de notes et/ou lettre d'inscription",
+      "Formulaire de libération des dossiers étudiants (Student release form)",
+      "Formulaire d'obligation parentale (Parent obligation form)",
+      "Copie des reçus de paiements éducatifs pour le candidat et les frères et sœurs",
+      "Lettre de revenus officielle de l'employeur des parents (père et mère)",
+      "Copie des relevés bancaires des parents pour les 19 derniers mois ainsi que les lettres bancaires",
+      "Si la famille possède une entreprise : copie des documents d'enregistrement, dernier bilan et compte de résultat, relevé bancaire de 12 mois au nom de l'entreprise, formulaire fiscal (si applicable)",
+      "Certificat(s) de propriété pour la maison et le terrain",
+      "Formulaires fiscaux (si applicable)",
+      "Contrat de location valide (si applicable)",
+      "Lettre(s) de prêt bancaire indiquant le montant initial, le solde restant, le nombre de versements et la date d'expiration du/des prêt(s) (si applicable)"
+    ],
+    "avantages": [
+      "Prêts sans intérêt de la Qatar Foundation (QF), remboursables ou annulés si certains critères sont remplis après l'obtention du diplôme",
+      "Bourses au mérite (nombre limité, très compétitives) attribuées automatiquement lors de l'examen des candidatures",
+      "Possibilité de plan de prépaiement via QuikPAY"
+    ],
+    "eligibilite": [
+      "Admission need-aware : la demande d'aide financière et le montant requis peuvent influencer la décision d'admission",
+      "Pour les prêts QF : candidats intéressés par une aide financière",
+      "Pour le FAFSA : citoyens et résidents des États-Unis (obligatoire pour eux)",
+      "Pour les bourses au mérite : tous les candidats sont automatiquement considérés"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre la candidature via Common App",
+      "2. Pour les citoyens/résidents américains : remplir le FAFSA (obligatoire) et informer Northwestern Qatar une fois complété",
+      "3. Pour l'aide QF : postuler sur le portail QF après avoir soumis le Common App",
+      "4. Fournir tous les documents requis pour l'aide financière QF (liste ci-dessus) et payer les frais de dossier de 50 $ (180 QAR)",
+      "5. Respecter les dates limites : 1er novembre 2025 pour Early Action, 15 janvier 2026 pour Regular Decision et transferts",
+      "6. Recevoir la décision d'aide financière (lettres envoyées le 15 décembre 2025 pour Early Action, avril 2026 pour Regular Decision)",
+      "7. Payer le dépôt d'inscription avant le 1er mai"
+    ],
+    "contacts": [
+      "undergradaid@qatar.northwestern.edu",
+      "+974 4454 5100"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de Northwestern University in Qatar",
+        "url": "https://www.qatar.northwestern.edu/admissions/undergraduate/tuition-aid.html"
+      },
+      {
+        "label": "Portail de candidature (Common App)",
+        "url": "https://www.commonapp.org/"
+      },
+      {
+        "label": "FAFSA (Free Application for Federal Student Aid)",
+        "url": "https://studentaid.gov/h/apply-for-aid/fafsa"
+      },
+      {
+        "label": "Site d'aide financière de la Qatar Foundation",
+        "url": "https://www.qf.org.qa/education/higher-education/financial-aid"
+      },
+      {
+        "label": "Formulaire de libération des dossiers étudiants (PDF)",
+        "url": "https://assets.ctfassets.net/2h1qowfuxkq7/11ZIbUPVwsUxK0DxXYpAzO/fcb5fc5bb68d827416251fe51f427b39/QF_Student_Records_Release_V_Final.pdf"
+      },
+      {
+        "label": "Formulaire d'obligation parentale (PDF)",
+        "url": "https://assets.ctfassets.net/2h1qowfuxkq7/19z9cyXowQElNkfRtnaWMN/1b1b277fb45b34dcd0c21251a1ef7a5c/QF_Parent___Student_Declaration_V2.pdf"
+      },
+      {
+        "label": "Plan de prépaiement NUQ",
+        "url": "https://my.qatar.northwestern.edu/finance/prepayment-plan.html"
+      },
+      {
+        "label": "Informations sur les frais de scolarité",
+        "url": "https://my.qatar.northwestern.edu/finance/tuition.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse Northwestern Qatar",
+      "aide financière Qatar",
+      "étudier au Qatar",
+      "bourse licence Qatar",
+      "Qatar Foundation aide financière",
+      "bourse université Qatar",
+      "Northwestern University in Qatar",
+      "bourse pour étudiants internationaux",
+      "prêt sans intérêt Qatar",
+      "bourse au mérite Qatar"
+    ],
+    "lien_candidature": "https://www.qatar.northwestern.edu/admissions/undergraduate/tuition-aid.html",
+    "source_url": "https://www.qatar.northwestern.edu/admissions/undergraduate/tuition-aid.html?fbclid=IwY2xjawUmiyhleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEegddbv9AmlrswUXbnGjUlFqUwZfB_ny67xNHCtSc8wcEFwoBrrhSKF_eIW-0_aem_AfFE3tMOW70f49_YfnxXBA",
+    "statut": "fermé",
+    "resume": "Northwestern University in Qatar propose une aide financière complète pour les étudiants de premier cycle, comprenant des prêts sans intérêt de la Qatar Foundation et des bourses au mérite. L'admission est need-aware, ce qui signifie que la demande d'aide peut influencer la décision. Les candidats doivent soumettre leur dossier via Common App et fournir de nombreux documents financiers. Les dates limites sont le 1er novembre 2025 pour Early Action et le 15 janvier 2026 pour Regular Decision et les transferts.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:53:03",
+    "slug": "aide-financiere-northwestern-qatar-2026"
   },
   {
     "titre": "Bourses d'études de premier cycle de l'Université de Floride",
@@ -25621,6 +27399,188 @@
     "imageUrl": null,
     "extrait_le": "2026-08-16T12:05:29",
     "slug": "bourse-sgci-stisa-2034-afrique-2026"
+  },
+  {
+    "titre": "Bourse d'études en innovation et technologie 2027 - Mastercard Foundation Scholars Program",
+    "seo_slug": "bourse-mastercard-innovation-technologie-asu-2027",
+    "organisation": "Mastercard Foundation Scholars Program en partenariat avec Arizona State University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-09-27",
+    "deadline_texte": "27 septembre 2026 à 23h59 GMT",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Technologie et innovation",
+      "Développement technologique",
+      "Technologies de l'information",
+      "Ingénierie des systèmes humains",
+      "Informatique",
+      "Science des données",
+      "Robotique et systèmes autonomes",
+      "Génie civil, environnemental et durable",
+      "Systèmes énergétiques propres",
+      "Production et utilisation durable de l'énergie moderne"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": 33,
+    "langue_requise": "Anglais (exigences de compétence linguistique de l'ASU pour l'admission aux études supérieures)",
+    "documents_requis": [
+      "CV/Resume",
+      "Lettre de recommandation",
+      "Relevés de notes (transcripts)",
+      "Formulaire de candidature complété"
+    ],
+    "avantages": [
+      "Frais de traitement de la demande de visa",
+      "Bon pour l'examen de compétence en anglais (si nécessaire)",
+      "Exonération des frais de candidature aux études supérieures de l'ASU",
+      "Billet d'avion aller-retour vers Phoenix, Arizona",
+      "Frais de scolarité complets, livres requis et frais étudiants",
+      "Soutien médical",
+      "Logement sur le campus",
+      "Programme de leadership et de développement professionnel",
+      "Mentorat",
+      "Engagement communautaire",
+      "Opportunités d'enrichissement"
+    ],
+    "eligibilite": [
+      "Avoir obtenu un diplôme de bachelor d'une institution reconnue d'ici août 2027",
+      "Les diplômes d'études supérieures, certificats et autres titres non-diplômants ne sont pas équivalents à un bachelor",
+      "Démontrer un dossier académique solide, équivalent à un GPA minimum de 3,5 sur une échelle de 4,0",
+      "Répondre aux exigences de compétence en anglais de l'ASU pour l'admission aux études supérieures",
+      "Être citoyen d'un pays africain",
+      "Avoir entre 18 et 33 ans au plus tard à la date limite de candidature",
+      "Démontrer un historique de leadership, de service et un engagement à créer un changement positif dans sa communauté",
+      "Ne pas avoir été précédemment inscrit ou avoir complété un programme d'études supérieures ou de master",
+      "Ne pas être inscrit ou commencer un autre programme d'études supérieures ou de master pendant la candidature à cette bourse",
+      "Être capable de déménager et de résider sur le campus de l'ASU à Tempe, Arizona, États-Unis, pendant toute la durée du programme"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité et s'assurer de répondre à toutes les conditions",
+      "2. Consulter la FAQ pour toute question sur la bourse ou le processus de candidature",
+      "3. Remplir le formulaire de candidature en ligne (cliquer sur NEXT en bas de page) ou télécharger la version PDF si accès internet limité",
+      "4. Si candidature par email : envoyer le formulaire complété et les pièces jointes requises (CV, lettre de recommandation, relevés de notes) au format PDF à mastercardfdnscholars@asu.edu",
+      "5. Ne pas postuler directement à l'ASU ou à un programme d'études supérieures sans instruction de l'équipe du programme",
+      "6. Attendre l'invitation à un entretien si sélectionné pour avancer dans le processus",
+      "7. Si invité, postuler à l'admission à l'ASU avec exonération des frais de candidature"
+    ],
+    "contacts": [
+      "mastercardfdnscholars@asu.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://asu.co1.qualtrics.com/jfe/form/SV_4ZPcHMerRF8cPBA"
+      }
+    ],
+    "mots_cles": [
+      "bourse mastercard foundation",
+      "bourse innovation technologie",
+      "bourse master afrique",
+      "bourse études supérieures États-Unis",
+      "bourse Arizona State University",
+      "bourse 2027",
+      "bourse complète",
+      "bourse pour étudiants africains"
+    ],
+    "lien_candidature": "https://asu.co1.qualtrics.com/jfe/form/SV_4ZPcHMerRF8cPBA",
+    "source_url": "https://asu.co1.qualtrics.com/jfe/form/SV_4ZPcHMerRF8cPBA",
+    "statut": "fermé",
+    "resume": "Le Mastercard Foundation Scholars Program, en partenariat avec l'Arizona State University, offre 30 bourses d'études supérieures complètes pour l'année académique 2027-2028. Ces bourses permettent de poursuivre un master en présentiel de deux ans sur le campus de Tempe, en Arizona, dans des domaines liés à la technologie et à l'innovation. La bourse couvre intégralement les frais de scolarité, le logement sur le campus, les soins de santé, le voyage et offre un accompagnement complet en leadership et développement professionnel. Les candidats doivent être citoyens africains, âgés de 18 à 33 ans, et démontrer un excellent parcours académique et un engagement communautaire.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-11T13:00:32",
+    "slug": "bourse-mastercard-innovation-technologie-asu-2027"
+  },
+  {
+    "titre": "Bourse d'études en innovation et technologie - Mastercard Foundation Scholars Program à l'Arizona State University",
+    "seo_slug": "bourse-mastercard-innovation-technologie-asu-2027",
+    "organisation": "Mastercard Foundation Scholars Program en partenariat avec Arizona State University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-09-27",
+    "deadline_texte": "dimanche 27 septembre 2026 à 23h59 GMT",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Technologie et innovation",
+      "Développement mondial",
+      "Technologies de l'information",
+      "Informatique",
+      "Science des données, analytique et ingénierie",
+      "Robotique et systèmes autonomes",
+      "Systèmes d'énergie propre",
+      "Génie civil, environnemental et durable",
+      "Production d'énergie moderne et utilisation durable",
+      "Ingénierie des systèmes humains - Systèmes intelligents"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Frais de scolarité et frais annexes complets",
+      "Logement sur le campus et livres",
+      "Visa, billet d'avion et frais médicaux",
+      "Développement du leadership",
+      "Conseil et soutien académique",
+      "Stage de deux mois entre la première et la deuxième année"
+    ],
+    "eligibilite": [
+      "Jeunes professionnels africains",
+      "Fort engagement à utiliser les compétences et l'éducation acquises pour contribuer à leurs communautés et favoriser la croissance sociale et économique dans leurs pays d'origine",
+      "Les femmes, les réfugiés et les personnes déplacées, ainsi que les personnes handicapées sont fortement encouragés à postuler"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'éligibilité et les programmes disponibles",
+      "2. Préparer les documents requis (non spécifiés dans le texte)",
+      "3. Soumettre la candidature en ligne via le portail de candidature avant la date limite",
+      "4. Pour toute question, contacter l'équipe par email"
+    ],
+    "contacts": [
+      "[email protected]"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://asu.co1.qualtrics.com/jfe/form/SV_4ZPcHMerRF8cPBA"
+      },
+      {
+        "label": "FAQs",
+        "url": "https://drive.google.com/file/d/1DnQRt3oAiY61zp3NyuGYhx264t8VOHP4/view?usp=sharing"
+      },
+      {
+        "label": "Flyer",
+        "url": "https://drive.google.com/file/d/1mzpafGDZR12BYMg1WGVidDpm_Jl8GsAa/view?usp=sharing"
+      }
+    ],
+    "mots_cles": [
+      "bourse Mastercard Foundation",
+      "bourse Arizona State University",
+      "bourse innovation technologie",
+      "bourse master Afrique",
+      "bourse études supérieures",
+      "bourse complète",
+      "bourse 2027",
+      "bourse technologies de l'information",
+      "bourse science des données",
+      "bourse énergie propre"
+    ],
+    "lien_candidature": "https://asu.co1.qualtrics.com/jfe/form/SV_4ZPcHMerRF8cPBA",
+    "source_url": "https://mcfscholars.asu.edu/phase-three-innovation-and-technology?utm_id=97758_v0_s00_e0_tv2_a1den5f08gvbpa&fbclid=IwY2xjawUezgVwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeuMCwhDTD1OEU_y_vqthot6q14IHZqkBZu4UtrjwSqCnqEf-g7tMxqLnMpms_aem_4u0xy_lcyQzublcRRJgpaw",
+    "statut": "fermé",
+    "resume": "Le Mastercard Foundation Scholars Program, en partenariat avec l'Arizona State University, offre 30 bourses d'études supérieures à des jeunes professionnels africains pour poursuivre des masters axés sur la technologie et l'innovation. Les bourses couvrent les frais de scolarité, le logement, les voyages, les dépenses médicales et offrent un développement du leadership ainsi qu'un stage de deux mois. Les candidatures sont ouvertes jusqu'au 27 septembre 2026 à 23h59 GMT. Les femmes, les réfugiés et les personnes handicapées sont fortement encouragés à postuler.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-22T02:59:42",
+    "slug": "bourse-mastercard-innovation-technologie-asu-2027"
   },
   {
     "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",

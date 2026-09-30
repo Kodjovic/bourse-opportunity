@@ -569,6 +569,91 @@
     "slug": "bourse-visite-recherche-microbiologie-2026"
   },
   {
+    "titre": "Bourse doctorale de l'Université Massey",
+    "seo_slug": "bourse-doctorale-massey-2026",
+    "organisation": "Massey University",
+    "montant": 90000,
+    "devise": "NZD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-01",
+    "deadline_texte": "1 octobre 2026",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de soutien du superviseur (Supervisor Support Template)",
+      "Plan de recherche (200-1000 mots)",
+      "Relevé de notes",
+      "Preuve d'admission ou d'inscription au doctorat"
+    ],
+    "avantages": [
+      "Bourse de 90 000 $ (probablement dollars néo-zélandais) sur trois ans",
+      "Prise en charge des frais de scolarité"
+    ],
+    "eligibilite": [
+      "Être inscrit dans les 12 premiers mois d'un doctorat ou avoir une offre d'admission au doctorat à l'Université Massey",
+      "Avoir une moyenne pondérée cumulative (GPA) de 7,0 ou plus",
+      "Mener des recherches sur un sujet d'importance stratégique pour l'Université",
+      "Accepter les conditions de la bourse telles que décrites dans le règlement"
+    ],
+    "procedure_etapes": [
+      "Vérifier les critères d'éligibilité et s'assurer d'avoir une offre d'admission ou d'être inscrit dans les 12 premiers mois du doctorat.",
+      "Préparer un plan de recherche (200-1000 mots) incluant les domaines disciplinaires clés, les objectifs, l'importance de l'étude et les cadres théoriques et méthodologiques.",
+      "Demander à votre superviseur principal de remplir le modèle de soutien du superviseur (Supervisor Support Template).",
+      "Se connecter au portail étudiant (Student Portal) et accéder à l'onglet Bourses.",
+      "Télécharger le plan de recherche et le formulaire de soutien du superviseur complété dans le portail étudiant.",
+      "Soumettre la candidature avant la date limite du 1 octobre 2026."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail étudiant (connexion)",
+        "url": "https://smsportal.massey.ac.nz/sitsvision/wrd/siw_lgn"
+      },
+      {
+        "label": "Modèle de soutien du superviseur (PDF)",
+        "url": "/documents/2250/Supervisor_Support_Template_Massey_University_Doctoral_Scholarship.pdf"
+      },
+      {
+        "label": "Règlement de la bourse doctorale (PDF)",
+        "url": "/documents/1464/MU_Doctoral_Scholarship.pdf"
+      },
+      {
+        "label": "Informations sur les doctorats et doctorats professionnels",
+        "url": "/study/about-postgraduate-study/phds-and-professional-doctorates/"
+      },
+      {
+        "label": "Candidature aux études à Massey",
+        "url": "/study/apply-to-study/"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorale",
+      "Massey University",
+      "Nouvelle-Zélande",
+      "bourse PhD",
+      "financement doctorat",
+      "bourse 2026",
+      "études en Nouvelle-Zélande",
+      "bourse complète"
+    ],
+    "lien_candidature": "https://smsportal.massey.ac.nz/sitsvision/wrd/siw_lgn",
+    "source_url": "https://www.massey.ac.nz/study/scholarships-and-awards/massey-university-doctoral-scholarship/?fbclid=IwY2xjawUqDDpleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLrkSYHO6vilH4yhr9hbuakBJB_a21VX_Ivw7jZzlLdaRa32W6UWNH6N2m9U_aem_GXhUFfvGcvy0Irc83OIjiw",
+    "statut": "ouvert",
+    "resume": "La bourse doctorale de l'Université Massey offre un soutien financier de 90 000 $ sur trois ans, ainsi que la prise en charge des frais de scolarité, aux étudiants exceptionnels poursuivant un doctorat. Elle est ouverte aux candidats inscrits dans les 12 premiers mois d'un programme doctoral ou ayant une offre d'admission, avec une moyenne pondérée cumulative de 7,0 ou plus. Les candidatures sont acceptées du 1er août au 1er octobre 2026. Cette bourse vise à récompenser l'excellence académique et à soutenir des recherches d'importance stratégique pour l'Université.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:40:08",
+    "slug": "bourse-doctorale-massey-2026"
+  },
+  {
     "titre": "Bourse du Sommet de l'Action des Jeunes 2027",
     "seo_slug": "bourse-yas-2027-berlin",
     "organisation": "Centre for Diplomatic Advancement (CDA)",
@@ -1657,6 +1742,219 @@
     "slug": "bourse-daad-epos-master-gouvernance-environnementale-2027"
   },
   {
+    "titre": "Bourse d'excellence créative internationale pour étudiants de premier cycle",
+    "seo_slug": "bourse-excellence-creative-massey-2027",
+    "organisation": "Massey University",
+    "montant": 5000,
+    "devise": "NZD",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-10-15",
+    "deadline_texte": "15 octobre 2026",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Arts créatifs",
+      "Musique commerciale",
+      "Design",
+      "Beaux-arts",
+      "Arts de l'écran"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Portfolio numérique de travaux créatifs (PDF)",
+      "Déclaration écrite courte (environ 300 mots) sur votre objectif créatif"
+    ],
+    "avantages": [
+      "Jusqu'à 5 000 $ NZD de frais de scolarité",
+      "Durée d'un an",
+      "Jusqu'à 8 bourses disponibles"
+    ],
+    "eligibilite": [
+      "Être un étudiant international",
+      "Être nouveau à Massey University",
+      "Étudier à temps plein",
+      "S'inscrire en première année d'un diplôme de premier cycle au College of Creative Arts",
+      "Démontrer une excellence créative via un portfolio"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Préparer un portfolio numérique de travaux créatifs au format PDF",
+      "3. Rédiger une déclaration écrite courte (environ 300 mots) sur votre objectif créatif",
+      "4. Si vous êtes déjà étudiant à Massey, connectez-vous au portail étudiant et trouvez l'onglet Bourses",
+      "5. Si vous n'êtes pas encore inscrit à Massey, postulez d'abord à un programme d'études pour obtenir l'accès au portail étudiant",
+      "6. Soumettre votre candidature via le portail étudiant"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel des bourses et prix",
+        "url": "https://www.massey.ac.nz/study/scholarships-and-awards/"
+      },
+      {
+        "label": "Règlement de la bourse (PDF)",
+        "url": "/documents/2095/International_Creative_Excellence_Undergraduate_Scholarship.pdf"
+      },
+      {
+        "label": "Portail étudiant pour la candidature",
+        "url": "https://smsportal.massey.ac.nz/sitsvision/wrd/siw_lgn"
+      },
+      {
+        "label": "Postuler à un programme d'études à Massey",
+        "url": "/study/apply-to-study/"
+      },
+      {
+        "label": "Collège des Arts Créatifs",
+        "url": "https://creative.massey.ac.nz/"
+      },
+      {
+        "label": "Bachelor of Commercial Music",
+        "url": "/study/all-qualifications-and-degrees/bachelor-of-commercial-music-UBCMS/"
+      },
+      {
+        "label": "Bachelor of Design",
+        "url": "/study/all-qualifications-and-degrees/bachelor-of-design-UBDSG/"
+      },
+      {
+        "label": "Bachelor of Fine Arts",
+        "url": "/study/all-qualifications-and-degrees/bachelor-of-fine-arts-UBFNA/"
+      },
+      {
+        "label": "Bachelor of Screen Arts",
+        "url": "/study/all-qualifications-and-degrees/bachelor-of-screen-arts-UBCRM/"
+      },
+      {
+        "label": "Bachelor of Commercial Music with Honours",
+        "url": "/study/all-qualifications-and-degrees/bachelor-of-commercial-music-honours-PHCMS/"
+      },
+      {
+        "label": "Bachelor of Design with Honours",
+        "url": "/study/all-qualifications-and-degrees/bachelor-of-design-with-honours-UHDSG/"
+      },
+      {
+        "label": "Bachelor of Fine Arts with Honours",
+        "url": "/study/all-qualifications-and-degrees/bachelor-of-fine-arts-with-honours-UHFNA/"
+      },
+      {
+        "label": "Bachelor of Screen Arts with Honours",
+        "url": "/study/all-qualifications-and-degrees/bachelor-of-screen-arts-with-honours-UHSCA/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Nouvelle-Zélande",
+      "bourse premier cycle",
+      "bourse arts créatifs",
+      "bourse Massey University",
+      "bourse internationale",
+      "bourse licence",
+      "bourse excellence créative",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://smsportal.massey.ac.nz/sitsvision/wrd/siw_lgn",
+    "source_url": "https://www.massey.ac.nz/study/scholarships-and-awards/international-creative-excellence-undergraduate-scholarship/?fbclid=IwY2xjawUqDKNleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeebR_Gd3xjn7siUB5SDdntpzV_GVNOLjPECAWIT7i2HlpPTXEIXT4bMH5Bp0_aem_SVMMLt1WMTl1Ia_OJn6ZhQ",
+    "statut": "ouvert",
+    "resume": "La bourse d'excellence créative internationale pour étudiants de premier cycle de l'Université Massey soutient les étudiants internationaux qui s'inscrivent en première année d'un diplôme de premier cycle au Collège des Arts Créatifs. D'une valeur allant jusqu'à 5 000 $ NZD, elle est attribuée sur la base d'un portfolio démontrant une excellence créative et d'une déclaration d'objectif créatif. Jusqu'à 8 bourses sont disponibles pour les études à temps plein à Wellington, débutant en février 2027. Les candidatures sont ouvertes du 15 juillet 2026 au 15 octobre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:42:13",
+    "slug": "bourse-excellence-creative-massey-2027"
+  },
+  {
+    "titre": "Appel à propositions : Soutien du FIDA à la transformation des systèmes alimentaires au Sahel central",
+    "seo_slug": "fida-sahel-central-transformation-systemes-alimentaires-2026",
+    "organisation": "Fonds international de développement agricole (FIDA)",
+    "montant": 2000000,
+    "devise": "USD",
+    "type_financement": "subvention",
+    "deadline": "2026-10-16",
+    "deadline_texte": "16 octobre 2026 à 23h59 GMT",
+    "niveau_etudes": [],
+    "domaines": [
+      "Agriculture",
+      "Sécurité alimentaire",
+      "Développement rural",
+      "Chaînes de valeur (élevage, manioc, riz)"
+    ],
+    "pays_eligibles": [
+      "Burkina Faso",
+      "Mali",
+      "Niger"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais ou Français",
+    "documents_requis": [
+      "Note conceptuelle de subvention (Grant Concept Note Template)",
+      "Auto-certification d'éligibilité pour le financement de subvention du FIDA (formulaire standard)",
+      "Auto-certification d'éligibilité pour le financement de subvention du FIDA (entités des Nations Unies)",
+      "Profil institutionnel bref (une page maximum) détaillant l'expérience dans le domaine prioritaire et les thèmes spécifiques de la subvention dans la région",
+      "Dispositions générales applicables aux accords de subvention du FIDA"
+    ],
+    "avantages": [
+      "Subvention de 2 millions de dollars américains",
+      "Financement de démarrage catalytique pour des interventions innovantes et évolutives",
+      "Soutien à la transformation des systèmes alimentaires dans la région du Sahel central"
+    ],
+    "eligibilite": [
+      "Institutions éligibles : organisation, agence gouvernementale, entité du secteur privé, institution de recherche ou consortium",
+      "Les propositions doivent démontrer une pertinence régionale, une viabilité commerciale, une résilience climatique, l'inclusion des femmes et des jeunes, et un potentiel de mise à l'échelle des résultats transformateurs dans le Sahel central"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la documentation de l'appel à propositions et la méthodologie d'évaluation",
+      "2. Préparer les documents requis : note conceptuelle, auto-certifications, profil institutionnel, etc.",
+      "3. Soumettre les propositions en anglais ou en français, au format PDF, par voie électronique à l'adresse indiquée",
+      "4. Envoyer les questions éventuelles à l'adresse email dédiée avant le 2 octobre 2026",
+      "5. Soumettre la proposition complète avant la date limite du 16 octobre 2026 à 23h59 GMT"
+    ],
+    "contacts": [
+      "callsforproposals@ifad.org",
+      "grants@ifad.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Appel à propositions et méthodologie d'évaluation et critères",
+        "url": "https://www.ifad.org/documents/48415603/52529602/01+-+Call+for+proposals+and+evaluation+methodology+and+criteria+-+Central+Sahel.docx/b7762bf8-2e02-7339-338b-f62c8e11695f?t=1790666997217"
+      },
+      {
+        "label": "Modèle de note conceptuelle de subvention",
+        "url": "https://www.ifad.org/documents/48415603/52529602/02+-+Grant+Concept+Note+Template+to+be+used+for+the+submission.docx/ba7a74d9-8896-861f-85d7-c358dfd03481?t=1790667001814"
+      },
+      {
+        "label": "Auto-certification d'éligibilité pour le financement de subvention du FIDA (formulaire standard)",
+        "url": "https://www.ifad.org/documents/48415603/52529602/03.1+-+Self-certification+of+eligibility+for+IFAD+grant+financing+%281%29.docx/ff1406e7-7da1-3467-90c4-c1f527d82172?t=1790666997403"
+      },
+      {
+        "label": "Auto-certification d'éligibilité pour le financement de subvention du FIDA (entités des Nations Unies)",
+        "url": "https://www.ifad.org/documents/48415603/52529602/03.2+-+Self-certification+of+eligibility+for+IFAD+grant+financing+%28UN+entities%29.docx/afd462e5-aeeb-f7d2-e674-d0c6d05d8f78?t=1790667001609"
+      },
+      {
+        "label": "Dispositions générales applicables aux accords de subvention du FIDA",
+        "url": "https://www.ifad.org/documents/48415603/52529602/04+-+General+Provisions+Applicable+to+IFAD+Grant+Agreements.docx/010f09b0-e4e7-42a2-f706-cfaaf5c280be?t=1790667001406"
+      }
+    ],
+    "mots_cles": [
+      "FIDA",
+      "Sahel central",
+      "transformation des systèmes alimentaires",
+      "subvention",
+      "appel à propositions",
+      "Burkina Faso",
+      "Mali",
+      "Niger",
+      "sécurité alimentaire",
+      "chaînes de valeur"
+    ],
+    "lien_candidature": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-ifad-support-for-food-systems-transformation-in-the-central-sahel",
+    "source_url": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-ifad-support-for-food-systems-transformation-in-the-central-sahel?fbclid=IwY2xjawUqCP9leHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe_ix3zqgxq_LGNcy5ToexKy35qSha4Gg4siOrjRvXVo496UQ5PyUUECMUoLU_aem_ZcR7HL8snAWlRUQ-1ip6SQ",
+    "statut": "ouvert",
+    "resume": "Le FIDA lance un appel à propositions pour soutenir la transformation des systèmes alimentaires au Sahel central, avec une subvention de 2 millions de dollars. Les candidats éligibles sont invités à soumettre des propositions pour mettre en œuvre une initiative régionale transformatrice au Burkina Faso, au Mali et au Niger. Les propositions doivent se concentrer sur les chaînes de valeur prioritaires que sont l'élevage, le manioc et le riz, et démontrer leur pertinence régionale, leur viabilité commerciale, leur résilience climatique et leur inclusion des femmes et des jeunes. La date limite de soumission est fixée au 16 octobre 2026 à 23h59 GMT.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:26:34",
+    "slug": "fida-sahel-central-transformation-systemes-alimentaires-2026"
+  },
+  {
     "titre": "Bourses de recherche de l'UQ Graduate School (UQGRSS) – incluant le Research Training Program (RTP)",
     "seo_slug": "bourse-recherche-uqgrss-rtp-australie-2026",
     "organisation": "University of Queensland (UQ)",
@@ -2189,6 +2487,215 @@
     "slug": "bourse-commonwealth-doctorat-uk-2027"
   },
   {
+    "titre": "Bourses de frais de scolarité internationales de premier cycle Toroa - Semestre 1, Février 2027",
+    "seo_slug": "bourse-toroa-premier-cycle-massey-2027",
+    "organisation": "Massey University",
+    "montant": 10000,
+    "devise": "NZD",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-10-20",
+    "deadline_texte": "20 octobre 2026",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Sciences animales",
+      "Commerce",
+      "Construction",
+      "Sciences de l'information",
+      "Sciences"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Réponses aux questions spécifiques"
+    ],
+    "avantages": [
+      "10 000 NZD pour les frais de scolarité",
+      "Durée d'un an",
+      "Jusqu'à 40 bourses disponibles"
+    ],
+    "eligibilite": [
+      "Être un étudiant international",
+      "Être nouveau à Massey",
+      "S'inscrire à temps plein sur le campus en Nouvelle-Zélande",
+      "Premiers 120 crédits au semestre 1, février 2027",
+      "Avoir une offre d'admission pour l'un des diplômes suivants : Bachelor of Animal Science, Bachelor of Business, Bachelor of Construction, Bachelor of Information Science, Bachelor of Science"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Se connecter au portail étudiant",
+      "3. Remplir le formulaire de candidature dans l'onglet Bourses",
+      "4. Répondre aux questions : Pourquoi avez-vous choisi Massey ? Quelle contribution aspirez-vous à apporter à la communauté Massey ?",
+      "5. Soumettre la candidature avant la date limite",
+      "6. Les candidatures seront examinées après la date de clôture",
+      "7. Consulter le portail étudiant pour les mises à jour"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail étudiant",
+        "url": "https://smsportal.massey.ac.nz/sitsvision/wrd/siw_lgn"
+      },
+      {
+        "label": "Règlement de la bourse (PDF)",
+        "url": "/documents/1821/Toroa_International_UG_Fee_Scholarships.pdf"
+      },
+      {
+        "label": "Postuler pour étudier à Massey",
+        "url": "/study/apply-to-study/"
+      },
+      {
+        "label": "Toutes les bourses et prix",
+        "url": "https://www.massey.ac.nz/study/scholarships-and-awards/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Nouvelle-Zélande",
+      "bourse premier cycle",
+      "bourse Massey University",
+      "bourse internationale",
+      "frais de scolarité",
+      "bourse 2027",
+      "bourse Toroa",
+      "étudier en Nouvelle-Zélande"
+    ],
+    "lien_candidature": "https://smsportal.massey.ac.nz/sitsvision/wrd/siw_lgn",
+    "source_url": "https://www.massey.ac.nz/study/scholarships-and-awards/toroa-international-undergraduate-fee-scholarships/?fbclid=IwY2xjawUqDNNleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeKbnysIkvcYgq78X0BrwX4Q_JvK6Jz-0l_mWjNbYiv1GuPHsalp4T8FMhdAE_aem_IUYBMk8ryF7Gz9oTjgHx_Q",
+    "statut": "ouvert",
+    "resume": "La bourse Toroa International Undergraduate Fee Scholarships de l'Université Massey offre jusqu'à 40 bourses de 10 000 NZD chacune pour les frais de scolarité des étudiants internationaux qui s'inscrivent pour la première fois dans un programme de premier cycle au semestre 1 (février) 2027. Cette bourse vise à soutenir les étudiants talentueux et motivés qui souhaitent contribuer à la communauté dynamique de Massey. Les candidatures sont ouvertes du 15 septembre 2026 au 20 octobre 2026 et doivent être soumises via le portail étudiant. Les candidats doivent être admis dans l'un des programmes spécifiques et démontrer leur engagement envers la communauté universitaire.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:42:52",
+    "slug": "bourse-toroa-premier-cycle-massey-2027"
+  },
+  {
+    "titre": "Bourses d'études de l'Université d'Auckland pour étudiants internationaux",
+    "seo_slug": "bourses-universite-auckland-international-2026",
+    "organisation": "University of Auckland",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse partielle",
+    "deadline": "2026-10-20",
+    "deadline_texte": "20 octobre 2026 (date limite pour détenir une offre ou une offre conditionnelle pour le semestre 1 2027)",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Jusqu'à 20 000 $ pour les frais de scolarité (Licence)",
+      "25% des frais de scolarité de la première année (Master)",
+      "Frais de scolarité couverts pendant trois ans, allocation de subsistance et frais d'assurance (Doctorat)",
+      "Réduction des frais de scolarité et aide pour d'autres coûts"
+    ],
+    "eligibilite": [
+      "Être un étudiant international",
+      "Répondre aux critères d'admission",
+      "Pour les bourses de master : avoir un GPE minimum de 7,0",
+      "Pour les bourses de master : être un nouveau étudiant international",
+      "Pour les bourses de master : être inscrit dans un programme de master éligible",
+      "Pour les bourses de licence : avoir fréquenté une école secondaire néo-zélandaise ou kura (pour la bourse International School Leaver)",
+      "Pour la bourse Foundation Pathway : être un étudiant performant issu des partenaires du Foundation Pathway et s'inscrire au premier semestre"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité de chaque bourse",
+      "2. Pour les bourses de master : obtenir une offre ou une offre conditionnelle avant le 20 octobre 2026",
+      "3. Pour les bourses de master : recevoir une invitation par email du Scholarships Office le 21 octobre 2026",
+      "4. Pour les bourses de master : postuler sur invitation",
+      "5. Pour les autres bourses : postuler directement selon les instructions spécifiques",
+      "6. Pour la bourse doctorale : être recommandé par le personnel de la faculté (aucune candidature nécessaire)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel des bourses",
+        "url": "https://www.auckland.ac.nz/en/study/scholarships-and-awards.html"
+      },
+      {
+        "label": "Bourses de premier cycle",
+        "url": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/scholarships-for-international-students/undergraduate-scholarships-for-international-students.html"
+      },
+      {
+        "label": "Bourses de troisième cycle",
+        "url": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/scholarships-for-international-students/postgraduate-scholarships-for-international-students.html"
+      },
+      {
+        "label": "Bourses Manaaki Nouvelle-Zélande",
+        "url": "http://auckland.ac.nz/manaaki"
+      },
+      {
+        "label": "Bourse d'excellence pour étudiants internationaux",
+        "url": "/scholarships-international"
+      },
+      {
+        "label": "Bourse China High Achievers",
+        "url": "/scholarship-china"
+      },
+      {
+        "label": "Bourse India High Achievers",
+        "url": "/scholarship-india"
+      },
+      {
+        "label": "Bourse Indonesia High Achievers",
+        "url": "/scholarship-indonesia"
+      },
+      {
+        "label": "Bourse USA High Achievers",
+        "url": "/scholarship-usa"
+      },
+      {
+        "label": "Bourse Vietnam High Achievers",
+        "url": "/scholarship-vietnam"
+      },
+      {
+        "label": "Bourse doctorale de l'Université d'Auckland",
+        "url": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-doctoral-scholarship-43-all.html"
+      },
+      {
+        "label": "Bourses spécifiques par pays",
+        "url": "https://www.auckland.ac.nz/en/study/international-students/scholarships-loans-and-funding/country-specific-scholarships-and-funding0.html"
+      },
+      {
+        "label": "Rechercher parmi plus de 170 bourses",
+        "url": "https://www.auckland.ac.nz/en/search-result.html/#/?query=%20&scope=scholarships&scholarFilters=(personal-characteristics:International%20student)"
+      },
+      {
+        "label": "Témoignages d'étudiants boursiers",
+        "url": "https://www.auckland.ac.nz/en/study/international-students/meet-our-international-students/scholarship-student-stories.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse Université d'Auckland",
+      "bourse Nouvelle-Zélande",
+      "bourse études internationales",
+      "bourse master Nouvelle-Zélande",
+      "bourse licence Nouvelle-Zélande",
+      "bourse doctorat Nouvelle-Zélande",
+      "financement études Auckland",
+      "bourse excellence internationale"
+    ],
+    "lien_candidature": "https://www.auckland.ac.nz/en/study/scholarships-and-awards.html",
+    "source_url": "https://international.auckland.ac.nz/study/scholarships?utm_id=97758_v0_s00_e0_tv1_a1den5f08gvbpa&fbclid=IwY2xjawUqDPVleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe7yq_tfb5khgktANgPvOXwaaJEuiZJjcnLJevtl9Cfv3A9Nh6ysHZ0OxqNQc_aem_lnDqrLoqxe54mW0Ah4G46g",
+    "statut": "ouvert",
+    "resume": "L'Université d'Auckland offre plus de 170 bourses aux étudiants internationaux, couvrant les frais de scolarité et d'autres coûts. Les bourses sont disponibles pour les niveaux licence, master et doctorat, avec des montants allant jusqu'à 20 000 $ ou 25% des frais de scolarité. Certaines bourses ne nécessitent pas de candidature séparée, tandis que d'autres sont sur invitation. Les candidats doivent vérifier les critères d'éligibilité spécifiques à chaque bourse.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:43:34",
+    "slug": "bourses-universite-auckland-international-2026"
+  },
+  {
     "titre": "Bourses de voyage de The Company of Biologists",
     "seo_slug": "bourse-voyage-biologistes-2026",
     "organisation": "The Company of Biologists",
@@ -2485,6 +2992,141 @@
     "slug": "bourse-alex-simpson-smith-chirurgie-2026"
   },
   {
+    "titre": "Bourse de subvention ouverte de la Fondation du Commonwealth",
+    "seo_slug": "bourse-commonwealth-subvention-2026",
+    "organisation": "Commonwealth Foundation",
+    "montant": 30000,
+    "devise": "GBP",
+    "type_financement": "subvention",
+    "deadline": "2026-10-26",
+    "deadline_texte": "26 octobre 2026 à 13h00 GMT",
+    "niveau_etudes": [],
+    "domaines": [
+      "Justice climatique et environnementale",
+      "Inclusion économique",
+      "Liberté d'expression",
+      "Petits États",
+      "Genre et intersectionnalité",
+      "Jeunesse"
+    ],
+    "pays_eligibles": [
+      "Commonwealth"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Documents de guidance (à consulter)"
+    ],
+    "avantages": [
+      "Subvention de 15 000 à 30 000 £ par an pour les organisations individuelles",
+      "Subvention de 15 000 à 20 000 £ par an pour les actions collectives",
+      "Financement pour une durée maximale de deux ans"
+    ],
+    "eligibilite": [
+      "Organisations de la société civile à but non lucratif éligibles, y compris les organisations créatives",
+      "Réseaux, coalitions, alliances et plateformes d'acteurs de la société civile, y compris les collectifs créatifs",
+      "Les candidats doivent démontrer comment ils intégreront les considérations de genre et d'intersectionnalité dans la conception et la mise en œuvre du projet",
+      "Les projets doivent aborder une ou plusieurs des trois priorités de financement : justice climatique et environnementale, inclusion économique, liberté d'expression",
+      "Les candidatures des organisations de jeunes et des petits États du Commonwealth sont fortement encouragées"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier attentivement les critères d'éligibilité",
+      "2. Lire tous les documents de guidance disponibles sur la page",
+      "3. Préparer une proposition de projet qui aborde une ou plusieurs des priorités de financement",
+      "4. Intégrer les considérations de genre et d'intersectionnalité dans la conception et la mise en œuvre du projet",
+      "5. Soumettre la candidature en ligne via le portail de candidature avant la date limite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://grants.commonwealthfoundation.com/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Commonwealth",
+      "subvention société civile",
+      "financement ONG",
+      "justice climatique",
+      "inclusion économique",
+      "liberté d'expression",
+      "petits États",
+      "genre et intersectionnalité",
+      "jeunesse",
+      "Commonwealth Foundation"
+    ],
+    "lien_candidature": "https://grants.commonwealthfoundation.com/",
+    "source_url": "https://commonwealthfoundation.com/grants/annual/?fbclid=IwY2xjawUqCoxleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeKbnysIkvcYgq78X0BrwX4Q_JvK6Jz-0l_mWjNbYiv1GuPHsalp4T8FMhdAE_aem_IUYBMk8ryF7Gz9oTjgHx_Q",
+    "statut": "ouvert",
+    "resume": "La Fondation du Commonwealth lance son appel à subventions annuel pour soutenir la société civile à travers le Commonwealth. Les projets doivent aborder une ou plusieurs des trois priorités : justice climatique et environnementale, inclusion économique et liberté d'expression. Deux types de subventions sont proposées : pour les organisations individuelles (15 000 à 30 000 £ par an) et pour les actions collectives (15 000 à 20 000 £ par an), pour une durée maximale de deux ans. Les candidatures sont ouvertes jusqu'au 26 octobre 2026 à 13h00 GMT.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:32:47",
+    "slug": "bourse-commonwealth-subvention-2026"
+  },
+  {
+    "titre": "Bourse de subvention ouverte de la Fondation du Commonwealth",
+    "seo_slug": "bourse-commonwealth-subvention-2026",
+    "organisation": "Commonwealth Foundation",
+    "montant": 30000,
+    "devise": "GBP",
+    "type_financement": "subvention",
+    "deadline": "2026-10-26",
+    "deadline_texte": "26 octobre 2026 à 13h00 GMT",
+    "niveau_etudes": [],
+    "domaines": [
+      "Justice climatique et environnementale",
+      "Inclusion économique",
+      "Liberté d'expression"
+    ],
+    "pays_eligibles": [
+      "Commonwealth"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Subvention de 15 000 à 30 000 £ par an pour les subventions aux organisations individuelles",
+      "Subvention de 15 000 à 20 000 £ par an pour les subventions d'action collective",
+      "Financement pour une durée maximale de deux ans"
+    ],
+    "eligibilite": [
+      "Organisations à but non lucratif de la société civile éligibles, y compris les organisations créatives",
+      "Réseaux, coalitions, alliances et plateformes d'acteurs de la société civile, y compris les collectifs créatifs",
+      "Les candidatures doivent aborder une ou plusieurs des trois priorités de financement",
+      "Les candidats doivent démontrer comment ils intégreront les considérations de genre et d'intersectionnalité dans la conception et la mise en œuvre du projet"
+    ],
+    "procedure_etapes": [
+      "Vérifier soigneusement les critères d'éligibilité",
+      "Lire tous les documents d'orientation sur cette page",
+      "Postuler en ligne via le portail de candidature"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Postuler maintenant",
+        "url": "https://grants.commonwealthfoundation.com/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Commonwealth",
+      "subvention société civile",
+      "financement projets",
+      "justice climatique",
+      "inclusion économique",
+      "liberté d'expression",
+      "Commonwealth Foundation",
+      "subvention 2026"
+    ],
+    "lien_candidature": "https://grants.commonwealthfoundation.com/",
+    "source_url": "https://commonwealthfoundation.com/grants/annual/?fbclid=IwY2xjawUqCqBleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLrkSYHO6vilH4yhr9hbuakBJB_a21VX_Ivw7jZzlLdaRa32W6UWNH6N2m9U_aem_GXhUFfvGcvy0Irc83OIjiw",
+    "statut": "ouvert",
+    "resume": "La Fondation du Commonwealth lance son appel à subventions annuel pour soutenir la société civile à travers le Commonwealth, y compris les communautés de base et les acteurs créatifs, afin de promouvoir un changement social, culturel et politique significatif. Les projets doivent aborder une ou plusieurs des trois priorités de financement : justice climatique et environnementale, inclusion économique et liberté d'expression. Les subventions vont de 15 000 à 30 000 £ par an pour une durée maximale de deux ans. La date limite de candidature est le 26 octobre 2026 à 13h00 GMT.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:33:12",
+    "slug": "bourse-commonwealth-subvention-2026"
+  },
+  {
     "titre": "Bourses UNSW pour étudiants internationaux - Trimestre 1 2027",
     "seo_slug": "bourse-unsw-international-2027",
     "organisation": "UNSW Sydney",
@@ -2692,6 +3334,136 @@
     "imageUrl": null,
     "extrait_le": "2026-09-22T03:08:07",
     "slug": "bourse-unsw-international-2027"
+  },
+  {
+    "titre": "Appel à propositions : Construisez votre AgriCanvas, construisez votre avenir - e-MOVE",
+    "seo_slug": "bourse-agripreneur-cashew-2026",
+    "organisation": "GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit) via MOVE-ComCashew",
+    "montant": 2000,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-30",
+    "deadline_texte": "30 octobre 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Chaîne de valeur de l'anacarde",
+      "Agroalimentaire",
+      "Entrepreneuriat agricole",
+      "Agriculture climato-intelligente"
+    ],
+    "pays_eligibles": [
+      "États membres de l'OACPS"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Certificat de réussite du cours 'Creating an Investment-Ready Agribusiness' (ID de certificat)",
+      "AgriCanvas (Business Model Canvas)",
+      "Formulaire de soumission en ligne complété",
+      "Description de la composante climat-intelligente ou résilience",
+      "Modèle de revenus",
+      "Estimation du capital nécessaire"
+    ],
+    "avantages": [
+      "2 000 EUR de financement direct pour booster votre entreprise",
+      "Un ordinateur portable, une tablette ou un logiciel pour vous aider dans vos opérations"
+    ],
+    "eligibilite": [
+      "Âgé de 18 ans ou plus",
+      "Basé dans un État membre de l'OACPS",
+      "Avoir une idée d'agro-entreprise innovante liée à la chaîne de valeur de l'anacarde",
+      "Avoir complété les deux cours obligatoires e-MOVE : 'Introduction to Conservation Agriculture' et 'Creating an Investment-Ready Agribusiness'",
+      "Soumettre via le lien KoboToolbox officiel",
+      "Une seule idée par candidat par fenêtre de soumission"
+    ],
+    "procedure_etapes": [
+      "1. S'inscrire sur atingi (www.atingi.org) ou sur la page e-MOVE",
+      "2. Compléter le cours obligatoire 'Introduction to Conservation Agriculture'",
+      "3. Une fois le step 1 terminé, débloquer et compléter le cours 'Creating an Investment-Ready Agribusiness'",
+      "4. Développer votre idée d'entreprise sur la chaîne de valeur de l'anacarde en utilisant le modèle Business Model Canvas fourni dans le module de soumission du cours 'Creating an Investment-Ready Agribusiness'",
+      "5. Remplir le formulaire de soumission officiel en utilisant l'ID de certificat du cours 'Creating an Investment-Ready Agribusiness' comme preuve de completion",
+      "6. Saisir votre AgriCanvas directement dans le formulaire (pas de téléchargement)",
+      "7. Fournir les informations écrites supplémentaires : composante climat-intelligente, modèle de revenus, capital nécessaire",
+      "8. Soumettre votre idée via le lien KoboToolbox avant la date limite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de soumission (KoboToolbox)",
+        "url": "https://kobo-ee.giz.de/x/nxQ6hJpt"
+      },
+      {
+        "label": "Page d'accueil e-MOVE sur atingi",
+        "url": "https://online.atingi.org/local/partner/page.php?id=27"
+      },
+      {
+        "label": "Cours : Introduction to Conservation Agriculture (CA)",
+        "url": "https://online.atingi.org/course/view.php?id=6039"
+      },
+      {
+        "label": "Cours : Creating an Investment-Ready Agribusiness",
+        "url": "https://online.atingi.org/course/view.php?id=6268"
+      },
+      {
+        "label": "Liste des États membres de l'OACPS",
+        "url": "https://www.oacps.org/fact-sheets-oacps-member-states/"
+      },
+      {
+        "label": "Document Termes et Conditions (à télécharger)",
+        "url": "https://gizonline.sharepoint.com/:w:/r/sites/MOVE/Freigegebene%20Dokumente/4.%20Scaling/E_EU%20Comcashew_E-Learning/03_Viable%20Projects!/Call%20for%20proposals/Call%201/Terms%20and%20Conditions%20(to%20be%20published%20on%20the%20Website)/EN_Viable%20submissions%20%E2%80%93%20Terms%20and%20Conditions.docx?d=wde641fe553f54b93a434f51cd272b6db&csf=1&web=1&e=vmykgQ"
+      },
+      {
+        "label": "Webinaire de lancement officiel (8 juillet 2024)",
+        "url": "https://www.facebook.com/share/v/1eYmS3cmv2SxQ8ST/"
+      },
+      {
+        "label": "Webinaire sur le processus de candidature (9 juillet 2024)",
+        "url": "https://fb.watch/tvqpqobO59/"
+      },
+      {
+        "label": "Webinaire sur le développement des capacités humaines (10 juillet 2024)",
+        "url": "https://fb.watch/tvquZX-_Wt/"
+      },
+      {
+        "label": "Webinaire en espagnol (11 juillet 2024)",
+        "url": "https://fb.watch/tvqGSmOY3X/"
+      },
+      {
+        "label": "Webinaire en portugais (11 juillet 2024)",
+        "url": "https://fb.watch/tvqDgo5QxR/"
+      },
+      {
+        "label": "Webinaire sur les formats de contrat et finances (12 juillet 2024)",
+        "url": "https://fb.watch/tvqLvEFaBl/"
+      },
+      {
+        "label": "Webinaire sur le genre (16 juillet 2024)",
+        "url": "https://fb.watch/tvtzBdCFGh/"
+      },
+      {
+        "label": "Webinaire sur le climat (18 juillet 2024)",
+        "url": "https://fb.watch/tvr5mkDND-/"
+      }
+    ],
+    "mots_cles": [
+      "bourse anacarde",
+      "e-MOVE",
+      "agripreneur",
+      "chaîne de valeur anacarde",
+      "financement agricole",
+      "OACPS",
+      "GIZ",
+      "AgriCanvas",
+      "entrepreneuriat agricole",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://kobo-ee.giz.de/x/nxQ6hJpt",
+    "source_url": "https://www.comcashew.org/funding-e-move?fbclid=IwY2xjawUqCjFleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeNIqJF9S_wLInIGKAExdINt6_Y1W3e7zDYBNen3SRhBzK50QDtAQGpm4jUOE_aem_5w2Avs8MsPBtcVtfCEUVtQ",
+    "statut": "ouvert",
+    "resume": "L'appel à propositions e-MOVE invite les jeunes agripreneurs du secteur de l'anacarde à transformer leurs idées en entreprises climato-intelligentes prêtes à être financées. Les participants doivent suivre deux cours en ligne gratuits sur la plateforme atingi et soumettre un AgriCanvas via un formulaire en ligne. Les gagnants recevront jusqu'à 2 000 EUR de financement direct ainsi qu'un ordinateur portable, une tablette ou un logiciel. La date limite de soumission est fixée au 30 octobre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:31:55",
+    "slug": "bourse-agripreneur-cashew-2026"
   },
   {
     "titre": "Bourses de recherche pour diplômés - Université de Melbourne",
@@ -3273,6 +4045,167 @@
     "imageUrl": null,
     "extrait_le": "2026-09-27T23:43:03",
     "slug": "bourse-voyage-carpenter-lancaster-2026"
+  },
+  {
+    "titre": "Bourse doctorale de Wellington",
+    "seo_slug": "bourse-doctorale-wellington-2026",
+    "organisation": "Université Victoria de Wellington",
+    "montant": 32000,
+    "devise": "NZD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-01",
+    "deadline_texte": "1er novembre 2026 à 16h30 (heure locale)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Architecture",
+      "Commerce et Gouvernement",
+      "Innovation en design",
+      "Éducation",
+      "Ingénierie",
+      "Santé",
+      "Sciences humaines et sociales",
+      "Droit",
+      "Musique",
+      "Technologie",
+      "Sciences"
+    ],
+    "pays_eligibles": [
+      "Nouvelle-Zélande",
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Relevé de notes académique",
+      "Références académiques",
+      "Copie du relevé de notes des autres institutions (si applicable)"
+    ],
+    "avantages": [
+      "Allocation annuelle de 32 000 NZD",
+      "Frais de scolarité nationaux pris en charge",
+      "Durée maximale de trois ans"
+    ],
+    "eligibilite": [
+      "Être diplômé d'une université (en Nouvelle-Zélande ou à l'étranger)",
+      "Avoir l'intention de s'inscrire à temps plein pour un doctorat (PhD) ou avoir déjà commencé un doctorat à l'Université Victoria de Wellington",
+      "Ne pas déjà détenir un diplôme de doctorat",
+      "Avoir un excellent dossier académique et d'excellentes références académiques, ou un potentiel démontré pour une recherche de haute qualité, ou un record de publications dans des revues de haute qualité",
+      "Les membres du personnel académique de l'Université Victoria de Wellington ou de toute autre université ne sont pas éligibles"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions et les exigences de candidature sur le site web",
+      "2. Soumettre une demande d'admission au doctorat à l'Université Victoria de Wellington",
+      "3. Remplir le formulaire de candidature en ligne pour la bourse",
+      "4. Fournir tous les documents justificatifs (relevés de notes, références) avant la date limite",
+      "5. Attendre la notification par email dans les six à huit semaines suivant la date de clôture"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse",
+        "url": "https://www.wgtn.ac.nz/scholarships/current/wellington-doctoral-scholarships"
+      },
+      {
+        "label": "Page d'application pour le doctorat",
+        "url": "https://www.wgtn.ac.nz/fgr/apply"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorale",
+      "Nouvelle-Zélande",
+      "Wellington",
+      "PhD",
+      "bourse complète",
+      "études doctorales",
+      "financement recherche",
+      "université Victoria"
+    ],
+    "lien_candidature": "https://www.wgtn.ac.nz/scholarships/current/wellington-doctoral-scholarships",
+    "source_url": "https://www.wgtn.ac.nz/scholarships/current/wellington-doctoral-scholarships?fbclid=IwY2xjawUqDVRleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeDdnmK5CaRIhQS3wG3hNcjMeDfER9Uqna-crkmrF6zJn0QCY6ccjXuYSjar0_aem_QtVVqZFji_ZF0qjAJAs4FA",
+    "statut": "ouvert",
+    "resume": "La bourse doctorale de Wellington, offerte par l'Université Victoria de Wellington, soutient les étudiants exceptionnels poursuivant un doctorat (PhD) dans diverses disciplines. Elle offre une allocation annuelle de 32 000 NZD et couvre les frais de scolarité nationaux pour une durée maximale de trois ans. Ouverte aux étudiants nationaux et internationaux, elle est attribuée sur la base du mérite académique et du potentiel de recherche. Les candidatures sont acceptées trois fois par an, avec des dates limites les 1er mars, 1er juillet et 1er novembre.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:45:02",
+    "slug": "bourse-doctorale-wellington-2026"
+  },
+  {
+    "titre": "Bourse de Master Sir Paul Callaghan en Physique Expérimentale ou Ingénierie",
+    "seo_slug": "bourse-sir-paul-callaghan-master-physique-2026",
+    "organisation": "Te Herenga Waka—Victoria University of Wellington",
+    "montant": 15000,
+    "devise": "NZD",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-11-01",
+    "deadline_texte": "1 novembre 2026 à 16h30",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Physique expérimentale",
+      "Ingénierie"
+    ],
+    "pays_eligibles": [
+      "International",
+      "Nouvelle-Zélande"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Relevé de notes académique",
+      "Déclaration d'intérêts de recherche",
+      "Référence académique"
+    ],
+    "avantages": [
+      "Contribution aux frais de scolarité",
+      "Stipendiaire (versement unique)"
+    ],
+    "eligibilite": [
+      "Être inscrit ou avoir l'intention de s'inscrire à un Master par thèse à Te Herenga Waka—Victoria University of Wellington",
+      "Mener des recherches en physique expérimentale ou en ingénierie, ou dans un domaine étroitement lié",
+      "Idéalement, être titulaire d'un diplôme de premier cycle avec mention très bien en physique ou en ingénierie électronique"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité et les documents requis",
+      "2. Préparer la déclaration d'intérêts de recherche, la référence académique et le relevé de notes",
+      "3. Soumettre la candidature en ligne avant la date limite",
+      "4. S'assurer que tous les documents justificatifs sont reçus avant la date limite"
+    ],
+    "contacts": [
+      "scholarships-office@vuw.ac.nz",
+      "Petrik.Galvosas@vuw.ac.nz",
+      "0800 04 04 04"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page de la bourse",
+        "url": "https://www.wgtn.ac.nz/scholarships/current/sir-paul-callaghan-magnetic-resonance-masters-scholarship-in-physics-or-engineering"
+      },
+      {
+        "label": "Bureau des bourses",
+        "url": "https://www.wgtn.ac.nz/scholarships/scholarships-office"
+      }
+    ],
+    "mots_cles": [
+      "bourse Sir Paul Callaghan",
+      "master physique expérimentale",
+      "bourse ingénierie",
+      "bourse Nouvelle-Zélande",
+      "bourse master 2026",
+      "bourse recherche",
+      "Victoria University of Wellington",
+      "bourse internationale"
+    ],
+    "lien_candidature": "https://www.wgtn.ac.nz/scholarships/current/sir-paul-callaghan-magnetic-resonance-masters-scholarship-in-physics-or-engineering",
+    "source_url": "https://www.wgtn.ac.nz/scholarships/current/sir-paul-callaghan-magnetic-resonance-masters-scholarship-in-physics-or-engineering?fbclid=IwY2xjawUqDsRleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe7yq_tfb5khgktANgPvOXwaaJEuiZJjcnLJevtl9Cfv3A9Nh6ysHZ0OxqNQc_aem_lnDqrLoqxe54mW0Ah4G46g",
+    "statut": "ouvert",
+    "resume": "La bourse Sir Paul Callaghan en physique expérimentale ou ingénierie est offerte par Te Herenga Waka—Victoria University of Wellington pour soutenir la recherche de master dans ces domaines. D'une valeur de 15 000 $, elle est ouverte aux étudiants internationaux et néo-zélandais. Les candidats doivent être inscrits ou prévoir de s'inscrire à un master par thèse et mener des recherches en physique expérimentale ou en ingénierie. La date limite de candidature est fixée au 1er novembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:51:25",
+    "slug": "bourse-sir-paul-callaghan-master-physique-2026"
   },
   {
     "titre": "Bourses d'études internationales Lester B. Pearson",
@@ -3974,6 +4907,121 @@
     "imageUrl": null,
     "extrait_le": "2026-09-22T03:02:22",
     "slug": "bourse-alu-premier-cycle-2027"
+  },
+  {
+    "titre": "Bourse doctorale YADIAS – Université du Luxembourg",
+    "seo_slug": "bourse-yadias-doctorat-luxembourg-2026",
+    "organisation": "University of Luxembourg (UL) – Institute for Advanced Studies (IAS)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-30",
+    "deadline_texte": "30 novembre 2026 à 14h00 CET (heure d'Europe centrale)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les domaines de recherche"
+    ],
+    "pays_eligibles": [
+      "Toutes nationalités"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (niveau minimum B2)",
+    "documents_requis": [
+      "Preuve documentaire du diplôme de Master",
+      "Proposition de recherche (à soumettre avant la date limite)",
+      "Identification de deux superviseurs éligibles (superviseur principal et co-superviseur)"
+    ],
+    "avantages": [
+      "Projet de recherche doctorale de 48 mois",
+      "Bourse à temps plein",
+      "Programmes de formation personnalisés et de développement de carrière",
+      "Statut d'employé de l'Université du Luxembourg",
+      "Inscription au sein de l'IAS (Institute for Advanced Studies)"
+    ],
+    "eligibilite": [
+      "Peut être de tout âge ou de toute nationalité",
+      "Doit être candidat au doctorat (ne pas avoir obtenu de doctorat avant le 30 novembre 2026)",
+      "Doit détenir, à la date limite de l'appel, un diplôme de Master reconnu qualifiant pour des études doctorales au Luxembourg (preuve documentaire requise)",
+      "Ne doit pas avoir entamé de procédure d'inscription pour une thèse de doctorat à l'Université du Luxembourg à la date limite de l'appel",
+      "Doit respecter la règle de mobilité MSCA : ne pas avoir résidé ou exercé son activité principale (travail/études) au Luxembourg pendant plus de 12 mois au cours des trois années précédant immédiatement la date limite de l'appel (les vacances et courts séjours sont exclus)",
+      "Doit avoir identifié deux superviseurs éligibles de disciplines complémentaires : un superviseur principal (membre du personnel UL autorisé à superviser la recherche - ADR) et un co-superviseur (expert d'un domaine complémentaire) qui peut être un membre du personnel UL titulaire d'un ADR, un chercheur d'un institut luxembourgeois titulaire d'un ADR, un professeur affilié à l'UL, ou un chercheur d'une autre institution académique (externe à l'UL) détenant des droits de supervision de doctorat",
+      "Doit être fluent en anglais (niveau minimum B2)"
+    ],
+    "procedure_etapes": [
+      "1. Consulter les directives complètes du programme disponibles sur le site YADIAS à partir du 1er septembre 2026",
+      "2. Identifier deux superviseurs éligibles (superviseur principal et co-superviseur) de disciplines complémentaires",
+      "3. Préparer la proposition de recherche et les documents requis (preuve du diplôme de Master, etc.)",
+      "4. Soumettre la proposition avant le 30 novembre 2026 à 14h00 CET",
+      "5. Attendre la vérification d'éligibilité (première quinzaine de décembre 2026)",
+      "6. Participer au pitch et débat scientifique avec le Conseil scientifique de l'IAS (du 5 au 9 avril 2027, indicatif)",
+      "7. Recevoir la notification de la décision (fin avril 2027, indicatif)",
+      "8. En cas de retour négatif sur l'éligibilité, possibilité de déposer une réclamation dans les 10 jours suivant la décision à yadias@uni.lu (procédure de recours uniquement pour des questions procédurales)"
+    ],
+    "contacts": [
+      "yadias@uni.lu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel YADIAS",
+        "url": "https://yadias.uni.lu/"
+      },
+      {
+        "label": "Informations sur l'appel",
+        "url": "https://yadias.uni.lu/call-information/"
+      },
+      {
+        "label": "Page de candidature",
+        "url": "https://yadias.uni.lu/apply/"
+      },
+      {
+        "label": "Procédure d'évaluation",
+        "url": "https://yadias.uni.lu/evaluation-procedure/"
+      },
+      {
+        "label": "Téléchargements et liens",
+        "url": "https://yadias.uni.lu/downloads-links/"
+      },
+      {
+        "label": "Institut for Advanced Studies (IAS)",
+        "url": "https://yadias.uni.lu/institute-for-advanced-studies/"
+      },
+      {
+        "label": "Vivre et étudier au Luxembourg",
+        "url": "https://yadias.uni.lu/living-and-studying-in-luxembourg/"
+      },
+      {
+        "label": "À propos de YADIAS",
+        "url": "https://yadias.uni.lu/about-yadias/"
+      },
+      {
+        "label": "Équipe de gestion YADIAS",
+        "url": "https://yadias.uni.lu/team/"
+      },
+      {
+        "label": "Actualités et revue de presse",
+        "url": "https://yadias.uni.lu/news-press/"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorale Luxembourg",
+      "YADIAS bourse",
+      "bourse doctorat 2026",
+      "financement thèse Luxembourg",
+      "bourse IAS",
+      "bourse toutes nationalités",
+      "bourse recherche Luxembourg",
+      "MSCA mobilité",
+      "bourse 48 mois"
+    ],
+    "lien_candidature": "https://yadias.uni.lu/apply/",
+    "source_url": "https://yadias.uni.lu/call-information/?fbclid=IwY2xjawUqClRleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLrkSYHO6vilH4yhr9hbuakBJB_a21VX_Ivw7jZzlLdaRa32W6UWNH6N2m9U_aem_GXhUFfvGcvy0Irc83OIjiw",
+    "statut": "ouvert",
+    "resume": "L'Université du Luxembourg (UL) lance un appel à candidatures pour quinze postes de doctorants YADIAS au sein de l'Institute for Advanced Studies. Cette bourse complète offre un projet de recherche de 48 mois à temps plein, ouvert à tous les domaines, avec un statut d'employé et des programmes de formation personnalisés. Les candidats doivent être titulaires d'un Master, respecter la règle de mobilité MSCA et être fluents en anglais (B2). La date limite de soumission est fixée au 30 novembre 2026 à 14h00 CET.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:32:26",
+    "slug": "bourse-yadias-doctorat-luxembourg-2026"
   },
   {
     "titre": "Programme de bourses environnementales de Harvard 2027 aux États-Unis (entièrement financé)",
@@ -5229,6 +6277,190 @@
     "slug": "bourse-president-phd-imperial-2027"
   },
   {
+    "titre": "Bourses de projet STDF (Fonds pour l'application des normes et le développement du commerce)",
+    "seo_slug": "bourse-stdf-projet-2027",
+    "organisation": "STDF (Standards and Trade Development Facility)",
+    "montant": 1000000,
+    "devise": "USD",
+    "type_financement": "subvention de projet",
+    "deadline": "2027-03-01",
+    "deadline_texte": "1er mars 2027 (date limite de soumission des propositions)",
+    "niveau_etudes": [],
+    "domaines": [
+      "Sécurité alimentaire",
+      "Santé animale",
+      "Santé végétale",
+      "Commerce international",
+      "Normes sanitaires et phytosanitaires (SPS)"
+    ],
+    "pays_eligibles": [
+      "Pays en développement figurant sur la liste des bénéficiaires d'aide publique au développement (APD) du Comité d'aide au développement (CAD) de l'OCDE"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (les formulaires sont en anglais)",
+    "documents_requis": [
+      "Formulaire de demande de subvention de projet STDF (à télécharger et remplir)",
+      "Lettres de soutien de tous les ministères, associations industrielles, entreprises privées concernés",
+      "Budget du projet (fichier Excel)",
+      "Documents de soutien supplémentaires (facultatif)"
+    ],
+    "avantages": [
+      "Financement jusqu'à 50 000 USD pour les subventions de préparation de projet (PPG)",
+      "Financement jusqu'à 1 000 000 USD pour les subventions de projet (PG)",
+      "Les projets résultants peuvent recevoir un financement du STDF ou d'autres sources",
+      "Les bénéficiaires doivent contribuer au projet avec leurs propres ressources (financières ou en nature)"
+    ],
+    "eligibilite": [
+      "Le pays ou territoire bénéficiaire doit figurer sur la liste des bénéficiaires d'APD du CAD de l'OCDE",
+      "Les candidats sont encouragés à consulter d'autres donateurs potentiels lors de l'élaboration et de la mise en œuvre des demandes de PPG",
+      "Les bénéficiaires doivent contribuer au projet avec leurs propres ressources (financières ou en nature)"
+    ],
+    "procedure_etapes": [
+      "Télécharger et remplir le formulaire de demande de subvention de projet STDF",
+      "Vérifier que le pays ou territoire bénéficiaire figure sur la liste des bénéficiaires d'APD du CAD de l'OCDE",
+      "Obtenir des lettres de soutien de tous les ministères, associations industrielles, entreprises privées concernés",
+      "Remplir le formulaire de soumission en ligne",
+      "Télécharger le formulaire de demande complété (Word)",
+      "Télécharger les lettres de soutien",
+      "Télécharger le budget du projet (Excel)",
+      "Télécharger des documents de soutien supplémentaires (facultatif)",
+      "Soumettre la demande avant la date limite du 1er mars 2027"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://standardsfacility.org/project/apply"
+      },
+      {
+        "label": "Explorer les projets",
+        "url": "https://standardsfacility.org/project/explore"
+      },
+      {
+        "label": "Liste des bénéficiaires d'APD du CAD de l'OCDE",
+        "url": "https://www.oecd.org/en/topics/sub-issues/oda-eligibility-and-conditions/dac-list-of-oda-recipients.html"
+      },
+      {
+        "label": "Formulaire de demande PPG (Word)",
+        "url": "https://standardsfacility.org/sites/default/files/2025-01/PPGApplicationForm2025_English.docx"
+      },
+      {
+        "label": "Formulaire de demande PG (Word)",
+        "url": "https://standardsfacility.org/sites/default/files/2025-01/PGApplicationForm2025_English.docx"
+      }
+    ],
+    "mots_cles": [
+      "bourse STDF",
+      "subvention projet STDF",
+      "financement SPS",
+      "bourse sécurité alimentaire",
+      "bourse santé animale",
+      "bourse santé végétale",
+      "bourse commerce international",
+      "bourse pays en développement",
+      "subvention PPG",
+      "subvention PG"
+    ],
+    "lien_candidature": "https://standardsfacility.org/project/apply",
+    "source_url": "https://standardsfacility.org/project/apply?fbclid=IwY2xjawUqCflleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLrkSYHO6vilH4yhr9hbuakBJB_a21VX_Ivw7jZzlLdaRa32W6UWNH6N2m9U_aem_GXhUFfvGcvy0Irc83OIjiw",
+    "statut": "ouvert",
+    "resume": "Le STDF (Fonds pour l'application des normes et le développement du commerce) offre des subventions pour des projets innovants et collaboratifs visant à renforcer les capacités en matière de normes sanitaires et phytosanitaires (SPS) dans les pays en développement. Les subventions de préparation de projet (PPG) peuvent atteindre 50 000 USD, tandis que les subventions de projet (PG) peuvent aller jusqu'à 1 000 000 USD. Les candidats doivent soumettre leur proposition avant le 1er mars 2027. Les projets doivent contribuer à améliorer la sécurité alimentaire, la santé animale et végétale, et faciliter l'accès aux marchés internationaux.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:30:20",
+    "slug": "bourse-stdf-projet-2027"
+  },
+  {
+    "titre": "Fonds pour l'application des normes et le développement du commerce (STDF) - Subventions de projet et de préparation de projet",
+    "seo_slug": "bourse-stdf-subventions-projet-2027",
+    "organisation": "Standards and Trade Development Facility (STDF)",
+    "montant": 1000000,
+    "devise": "USD",
+    "type_financement": "subvention",
+    "deadline": "2027-03-01",
+    "deadline_texte": "1er mars 2027",
+    "niveau_etudes": [],
+    "domaines": [
+      "Sécurité alimentaire",
+      "Santé animale et végétale",
+      "Commerce international",
+      "Normes sanitaires et phytosanitaires (SPS)"
+    ],
+    "pays_eligibles": [
+      "Pays en développement figurant sur la liste des bénéficiaires d'aide publique au développement (APD) du Comité d'aide au développement (CAD) de l'OCDE"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de demande de subvention de projet (PG) rempli (Word)",
+      "Formulaire de demande de subvention de préparation de projet (PPG) rempli (Word)",
+      "Lettres de soutien des ministères, associations industrielles, entreprises privées, etc.",
+      "Budget du projet (Excel)",
+      "Documents de soutien supplémentaires (facultatif)"
+    ],
+    "avantages": [
+      "Financement jusqu'à 50 000 USD pour les subventions de préparation de projet (PPG)",
+      "Financement jusqu'à 1 000 000 USD pour les subventions de projet (PG)",
+      "Les projets résultants peuvent recevoir un financement du STDF ou d'autres sources",
+      "Les bénéficiaires doivent contribuer au projet à partir de leurs propres ressources (financement ou contributions en nature)"
+    ],
+    "eligibilite": [
+      "Les candidats doivent être des pays en développement figurant sur la liste des bénéficiaires d'APD du CAD de l'OCDE",
+      "Les projets doivent être collaboratifs et innovants dans le domaine SPS",
+      "Les projets doivent améliorer la sécurité alimentaire, la santé animale et végétale pour se conformer aux exigences SPS internationales",
+      "Les projets doivent répondre à des défis SPS spécifiques affectant le commerce international",
+      "Les bénéficiaires doivent contribuer au projet avec leurs propres ressources (financières ou en nature)"
+    ],
+    "procedure_etapes": [
+      "Télécharger et remplir le formulaire de demande de subvention de projet (PG) ou de préparation de projet (PPG)",
+      "Vérifier que le pays ou territoire bénéficiaire figure sur la liste des bénéficiaires d'APD du CAD de l'OCDE",
+      "Obtenir des lettres de soutien de tous les ministères, associations industrielles, entreprises privées concernés, etc.",
+      "Remplir le formulaire de soumission en ligne",
+      "Télécharger le formulaire de demande rempli (Word)",
+      "Télécharger les lettres de soutien",
+      "Télécharger le budget du projet (Excel)",
+      "Télécharger des documents de soutien supplémentaires (facultatif)",
+      "Soumettre la demande avant la date limite : 1er mars 2027"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://standardsfacility.org/project/apply"
+      },
+      {
+        "label": "Liste des bénéficiaires d'APD du CAD de l'OCDE",
+        "url": "https://www.oecd.org/en/topics/sub-issues/oda-eligibility-and-conditions/dac-list-of-oda-recipients.html"
+      },
+      {
+        "label": "Formulaire de demande PPG (Word)",
+        "url": "https://standardsfacility.org/sites/default/files/2025-01/PPGApplicationForm2025_English.docx"
+      },
+      {
+        "label": "Formulaire de demande PG (Word)",
+        "url": "https://standardsfacility.org/sites/default/files/2025-01/PGApplicationForm2025_English.docx"
+      }
+    ],
+    "mots_cles": [
+      "bourse STDF",
+      "subvention projet SPS",
+      "financement sécurité alimentaire",
+      "santé animale et végétale",
+      "commerce international",
+      "normes sanitaires et phytosanitaires",
+      "pays en développement",
+      "OCDE CAD",
+      "subvention préparation de projet",
+      "subvention projet"
+    ],
+    "lien_candidature": "https://standardsfacility.org/project/apply",
+    "source_url": "https://standardsfacility.org/project/apply?fbclid=IwY2xjawUqChxleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeViiNse2oSCA6pGf2iNnq88Yt9j3_eAGrbaZlFxsYkwdAg0ybrFvnCNguubE_aem_R62mbFpV11NFwFXQfOS39A",
+    "statut": "ouvert",
+    "resume": "Le Fonds pour l'application des normes et le développement du commerce (STDF) offre des subventions pour des projets collaboratifs et innovants dans le domaine des normes sanitaires et phytosanitaires (SPS). Les subventions de préparation de projet (PPG) peuvent atteindre 50 000 USD, tandis que les subventions de projet (PG) peuvent aller jusqu'à 1 000 000 USD. Ces financements visent à renforcer les capacités des pays en développement à se conformer aux normes internationales et à améliorer leur accès aux marchés d'exportation. La prochaine date limite de soumission des propositions est fixée au 1er mars 2027.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:31:01",
+    "slug": "bourse-stdf-subventions-projet-2027"
+  },
+  {
     "titre": "Bourses de l'Université Sophia pour étudiants avant l'entrée (2027)",
     "seo_slug": "bourses-universite-sophia-2027",
     "organisation": "Université Sophia",
@@ -6148,92 +7380,127 @@
     "slug": "bourse-recherche-tasmanie-2026"
   },
   {
-    "titre": "Bourse Mastercard Foundation Scholars Program - University of Edinburgh",
-    "seo_slug": "bourse-mastercard-foundation-edinburgh-2026",
-    "organisation": "Mastercard Foundation & University of Edinburgh",
+    "titre": "Appels à propositions du FIDA (Fonds international de développement agricole)",
+    "seo_slug": "appels-propositions-fida-2026",
+    "organisation": "FIDA (Fonds international de développement agricole)",
     "montant": null,
     "devise": null,
-    "type_financement": "bourse complète",
+    "type_financement": "subvention",
     "deadline": null,
-    "deadline_texte": "Non spécifiée dans le texte fourni. Consulter la page des délais de candidature.",
-    "niveau_etudes": [
-      "Master",
-      "Postgraduate"
-    ],
+    "deadline_texte": "Dates limites variables selon l'appel (ex: 21 septembre 2026, 4 août 2026, 29 avril 2026, 24 avril 2026, 21 avril 2026, 27 novembre 2025, 21 novembre 2025, 14 novembre 2025, 10 novembre 2025, 29 septembre 2025)",
+    "niveau_etudes": [],
     "domaines": [
-      "Leadership climatique",
-      "Études supérieures"
+      "Agriculture",
+      "Développement rural",
+      "Sécurité alimentaire",
+      "Changement climatique",
+      "Technologies agricoles",
+      "Inclusion financière",
+      "Chaînes de valeur agricoles"
     ],
     "pays_eligibles": [
-      "Afrique subsaharienne"
+      "Pays en développement",
+      "Afrique",
+      "Amérique latine et Caraïbes",
+      "Asie",
+      "Proche-Orient et Afrique du Nord",
+      "Europe et Asie centrale"
     ],
     "age_maximum": null,
-    "langue_requise": "Anglais",
+    "langue_requise": "Anglais (les appels sont publiés en anglais)",
     "documents_requis": [],
     "avantages": [
-      "Prise en charge complète des frais de scolarité",
-      "Frais de subsistance",
-      "Participation au programme de leadership climatique",
-      "Accès à une communauté de boursiers"
+      "Financement de subventions pour des projets de développement rural et agricole",
+      "Possibilité de partenariat avec le FIDA"
     ],
     "eligibilite": [
-      "Jeunes leaders exceptionnels ayant surmonté des obstacles éducatifs",
-      "Engagement à étudier sur le campus ou en ligne",
-      "Être ressortissant d'un pays d'Afrique subsaharienne"
+      "Institutions éligibles (ONG, organisations de recherche, secteur privé, etc.)",
+      "Consortiums d'institutions",
+      "Partenaires de mise en œuvre"
     ],
     "procedure_etapes": [
-      "1. Consulter les conseils de candidature",
-      "2. Choisir le type de bourse (sur le campus ou en ligne)",
-      "3. Vérifier les délais de candidature",
-      "4. Soumettre la candidature via le portail"
+      "Consulter la liste des appels à propositions ouverts sur le site du FIDA",
+      "Lire les détails de l'appel spécifique qui vous intéresse",
+      "Préparer une proposition de projet conforme aux exigences de l'appel",
+      "Soumettre la proposition avant la date limite indiquée pour chaque appel"
     ],
     "contacts": [],
     "liens_utiles": [
       {
-        "label": "Page de candidature",
-        "url": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship"
+        "label": "Page des appels à propositions du FIDA",
+        "url": "https://www.ifad.org/en/w/calls-for-proposal"
       },
       {
-        "label": "Bourses de troisième cycle sur le campus",
-        "url": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/on-campus-postgraduate-scholarships"
+        "label": "Appel à propositions : Subvention du FIDA pour l'initiative « Tirer parti de l'évaluation de la performance du secteur rural du FIDA pour les politiques et les investissements »",
+        "url": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-ifad-grant-to-implement-the-initiative-leveraging-ifad-s-rural-sector-performance-assessment-for-policy-and-investment-"
       },
       {
-        "label": "Programme de leadership climatique",
-        "url": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/climate-leadership-programme"
+        "label": "Appel à propositions : Soutien du FIDA à la transformation des systèmes alimentaires au Sahel central",
+        "url": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-ifad-support-for-food-systems-transformation-in-the-central-sahel"
       },
       {
-        "label": "Bourses de troisième cycle en ligne",
-        "url": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/online-postgraduate-scholarships"
+        "label": "Appel à propositions : Subvention régionale « Sauvegarder les moyens de subsistance ruraux en Amérique latine et dans les Caraïbes »",
+        "url": "https://www.ifad.org/en/w/calls-for-proposal/regional-grant-safeguarding-rural-livelihoods-in-latin-america-and-the-caribbean"
       },
       {
-        "label": "Communauté de boursiers",
-        "url": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/our-mastercard-foundation-scholar"
+        "label": "Appel à propositions : Solutions d'intelligence artificielle pour des résultats d'impact",
+        "url": "https://www.ifad.org/en/w/calls-for-proposal/artificial-intelligence-solutions-for-impact-results"
       },
       {
-        "label": "Calendrier de candidature",
-        "url": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/application-timelines"
+        "label": "Appel à propositions : Partenariats public-privé-producteurs pour des investissements durables dans l'irrigation en Afrique de l'Est et australe (4P4SID)",
+        "url": "https://www.ifad.org/en/w/calls-for-proposal/selecting-an-implementing-partner-for-the-grant-public-private-producer-partnerships-for-sustainable-irrigation-development-investments-in-east-and-southern-africa"
       },
       {
-        "label": "FAQ",
-        "url": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/frequently-asked-questions"
+        "label": "Appel à propositions : Partenaire de mise en œuvre pour la subvention « Preuves pour la mise à l'échelle des solutions AgTech et FinTech via le PoLG du FIDA »",
+        "url": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-selecting-an-implementing-partner-for-the-grant-evidence-for-scale-up-of-agtech-and-fintech-solutions-through-ifad-polg"
+      },
+      {
+        "label": "Appel à propositions : Renforcement de la chaîne de valeur d'exportation des noix de macadamia au Rwanda – ELPS",
+        "url": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-strengthening-the-macadamia-nuts-export-value-chain-in-rwanda-through-organic-certification-elps"
+      },
+      {
+        "label": "Appel à propositions : Renforcement de la chaîne de valeur du sésame au Bangladesh – ELPS",
+        "url": "https://www.ifad.org/en/w/calls-for-proposal/strengthening-sesame-value-chain-in-bangladesh-elps"
+      },
+      {
+        "label": "Appel à propositions : FO4IMPACT (Proche-Orient, Afrique du Nord, Europe et Asie centrale)",
+        "url": "https://www.ifad.org/en/w/calls-for-proposal/fo4impact-near-east-north-africa-europe-and-central-asia"
+      },
+      {
+        "label": "Appel à propositions : FO4IMPACT (Amérique latine et Caraïbes)",
+        "url": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-fo4impact-latin-american-and-the-caribbean-"
+      },
+      {
+        "label": "Appel à propositions : Accroître l'impact des transferts de fonds numériques dans le Maroc rural",
+        "url": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-increase-the-impact-of-digital-remittances-in-rural-morocco"
+      },
+      {
+        "label": "Demande de manifestation d'intérêt : Renforcement de la chaîne de valeur d'exportation des noix de macadamia au Rwanda",
+        "url": "https://www.ifad.org/en/w/calls-for-proposal/request-for-expression-of-interest-strengthening-the-macadamia-nut-export-value-chain-in-rwanda"
+      },
+      {
+        "label": "49e session du Conseil des gouverneurs",
+        "url": "https://www.ifad.org/en/w/events/governing-council-49"
       }
     ],
     "mots_cles": [
-      "bourse Mastercard Foundation",
-      "University of Edinburgh",
-      "bourse études supérieures",
-      "bourse Afrique",
-      "bourse leadership climatique",
-      "bourse complète",
-      "bourse 2026"
+      "appel à propositions FIDA",
+      "subvention FIDA",
+      "financement développement rural",
+      "bourse agriculture",
+      "FIDA 2026",
+      "appels à projets agricoles",
+      "subvention sécurité alimentaire",
+      "financement ONG",
+      "FIDA subventions"
     ],
-    "lien_candidature": "https://www.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship",
+    "lien_candidature": "https://www.ifad.org/en/w/calls-for-proposal",
     "source_url": "manuel",
     "statut": "ouvert",
-    "resume": "Le Mastercard Foundation Scholars Program de l'Université d'Édimbourg offre des bourses complètes à des jeunes leaders exceptionnels d'Afrique subsaharienne qui ont surmonté des obstacles éducatifs. Les boursiers peuvent étudier sur le campus ou en ligne et participent à un programme de leadership climatique. La bourse couvre les frais de scolarité, les frais de subsistance et offre l'accès à une communauté mondiale de boursiers. Les candidatures sont ouvertes pour les études de troisième cycle.",
+    "resume": "Le FIDA (Fonds international de développement agricole) lance régulièrement des appels à propositions pour financer des projets de développement rural et agricole dans les pays en développement. Ces appels s'adressent à des institutions éligibles, telles que des ONG, des organisations de recherche ou des partenaires du secteur privé, qui peuvent soumettre des propositions pour obtenir des subventions allant de 1,2 à 2 millions de dollars. Les domaines couverts incluent l'agriculture, la sécurité alimentaire, le changement climatique, les technologies agricoles et l'inclusion financière. Les dates limites varient selon les appels, allant de novembre 2025 à septembre 2026.",
     "imageUrl": null,
-    "extrait_le": "2026-09-18T00:08:01",
-    "slug": "bourse-mastercard-foundation-edinburgh-2026"
+    "extrait_le": "2026-09-30T15:28:37",
+    "slug": "appels-propositions-fida-2026"
   },
   {
     "titre": "Programme de Bourses Karsh International",
@@ -15732,6 +16999,852 @@
     "slug": "bourse-voyage-bif-biomedicale-2026"
   },
   {
+    "titre": "Bourse Discovery de Wellcome",
+    "seo_slug": "bourse-wellcome-discovery-2026",
+    "organisation": "Wellcome Trust",
+    "montant": 3500000,
+    "devise": "GBP",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Aucune date limite, candidatures acceptées à tout moment",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat",
+      "Chercheur établi"
+    ],
+    "domaines": [
+      "Recherche en santé",
+      "Sciences biomédicales",
+      "Santé publique",
+      "Recherche médicale"
+    ],
+    "pays_eligibles": [
+      "Royaume-Uni",
+      "Irlande",
+      "Pays à revenu faible ou intermédiaire (sauf Inde et Chine continentale)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Proposition de recherche",
+      "Lettre de soutien de l'organisation d'accueil",
+      "Justification du budget"
+    ],
+    "avantages": [
+      "Financement de la recherche jusqu'à 8 ans",
+      "Salaire pour le chercheur principal (si éligible)",
+      "Salaire pour les co-candidats (selon conditions)",
+      "Frais de recherche",
+      "Frais de voyage",
+      "Équipement",
+      "Matériel et consommables",
+      "Accès aux ressources",
+      "Formation et développement"
+    ],
+    "eligibilite": [
+      "Chercheur établi avec une réputation internationale",
+      "Expérience de direction de recherche innovante et créative",
+      "Expérience de gestion et de formation d'autres chercheurs",
+      "Contrat permanent, à durée indéterminée ou à long terme (ou garantie d'un tel contrat)",
+      "Le salaire doit être payé par l'organisation d'accueil pendant la durée de la bourse",
+      "Si moins de 3 ans restants sur le contrat, doit avoir sécurisé un nouveau poste dans une organisation éligible et fournir une lettre de soutien",
+      "Les chercheurs basés dans un pays à revenu faible ou intermédiaire peuvent demander une contribution salariale s'ils ont un contrat permanent et doivent obtenir leur salaire par des subventions externes",
+      "Les candidats ayant pris une pause carrière (congé parental, maladie de longue durée) sont éligibles",
+      "Les retraités sont éligibles s'ils ont un contrat émérite et des ressources garanties, mais ne peuvent pas demander de soutien salarial",
+      "Les co-candidats peuvent être à n'importe quel stade de carrière et basés n'importe où dans le monde (sauf en Chine continentale)",
+      "Les co-candidats doivent apporter une contribution significative et essentielle à la recherche",
+      "Les co-candidats doivent être basés dans une organisation éligible (établissement d'enseignement supérieur, institut de recherche, organisation de santé, organisme de bienfaisance, entreprise sociale ou organisation commerciale)",
+      "Les collaborateurs ne sont pas soumis aux critères d'éligibilité et ne peuvent pas recevoir de salaire"
+    ],
+    "procedure_etapes": [
+      "Vérifier l'éligibilité de l'organisation d'accueil et du candidat",
+      "Préparer la proposition de recherche détaillée",
+      "Justifier le budget demandé",
+      "Soumettre la candidature en ligne via le portail de Wellcome",
+      "Attendre l'évaluation par les groupes consultatifs de présélection",
+      "Si présélectionné, passer à l'étape suivante du processus d'évaluation"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse",
+        "url": "https://wellcome.org/research-funding/schemes/wellcome-discovery-awards"
+      },
+      {
+        "label": "Liste des pays à revenu faible ou intermédiaire",
+        "url": "https://wellcome.org/research-funding/guidance/prepare-to-apply/low-and-middle-income-countries"
+      },
+      {
+        "label": "Liste des pays à revenu faible ou intermédiaire en Afrique, Asie du Sud et Asie du Sud-Est",
+        "url": "https://wellcome.org/research-funding/guidance/prepare-to-apply/low-and-middle-income-countries-africa-south-asia-southeast-asia"
+      },
+      {
+        "label": "Informations sur la loi chinoise sur les ONG étrangères",
+        "url": "https://wellcome.org/research-funding/guidance/prepare-to-apply/Chinese-Overseas-NGO-Law"
+      },
+      {
+        "label": "Guide pour les chercheurs établis",
+        "url": "https://wellcome.org/research-funding/guidance/prepare-to-apply/established-researcher"
+      },
+      {
+        "label": "Politique de diversité et inclusion",
+        "url": "https://wellcome.org/our-priorities/diversity-and-inclusion"
+      },
+      {
+        "label": "Article sur la stratégie de Wellcome",
+        "url": "https://wellcome.org/insights/articles/CEO-on-Wellcomes-strategy"
+      }
+    ],
+    "mots_cles": [
+      "bourse Wellcome Discovery",
+      "financement recherche santé",
+      "bourse chercheur établi",
+      "subvention recherche médicale",
+      "bourse Royaume-Uni",
+      "bourse pays à revenu faible",
+      "Wellcome Trust bourse",
+      "financement recherche 8 ans"
+    ],
+    "lien_candidature": "https://wellcome.org/research-funding/schemes/wellcome-discovery-awards",
+    "source_url": "https://wellcome.org/research-funding/schemes/wellcome-discovery-awards?fbclid=IwY2xjawUqCrhleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLrkSYHO6vilH4yhr9hbuakBJB_a21VX_Ivw7jZzlLdaRa32W6UWNH6N2m9U_aem_GXhUFfvGcvy0Irc83OIjiw",
+    "statut": "ouvert",
+    "resume": "La bourse Discovery de Wellcome soutient des chercheurs établis et des équipes de recherche menant des projets ambitieux et créatifs en santé. Avec un financement moyen de 3,5 millions de livres sterling sur une durée pouvant atteindre 8 ans, cette bourse offre des ressources complètes pour la recherche, y compris les salaires, les frais de recherche et les équipements. Les candidatures sont acceptées en continu, sans date limite, et sont ouvertes aux chercheurs basés au Royaume-Uni, en Irlande et dans les pays à revenu faible ou intermédiaire (hors Inde et Chine continentale). C'est une opportunité exceptionnelle pour les leaders de la recherche souhaitant générer des avancées majeures dans leur domaine.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:34:31",
+    "slug": "bourse-wellcome-discovery-2026"
+  },
+  {
+    "titre": "Bourse de recherche sur le terrain pour la thèse de la Fondation Wenner-Gren",
+    "seo_slug": "bourse-wenner-gren-these-anthropologie-2026",
+    "organisation": "Wenner-Gren Foundation",
+    "montant": 25000,
+    "devise": "USD",
+    "type_financement": "bourse de recherche",
+    "deadline": null,
+    "deadline_texte": "1er mai (pour un début de projet entre le 1er janvier et le 30 juin de l'année suivante) et 1er novembre (pour un début de projet entre le 1er juillet et le 31 décembre de l'année suivante). Le portail de candidature ouvre 2 mois avant la date limite.",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Anthropologie",
+      "Anthropologie socioculturelle",
+      "Anthropologie linguistique",
+      "Anthropologie biologique",
+      "Archéologie",
+      "Primatologie",
+      "Conservation des primates",
+      "Études sur les langues en danger"
+    ],
+    "pays_eligibles": [
+      "Toutes nationalités"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Preuve de l'achèvement des cours et examens du programme de doctorat (fournie par le département)",
+      "Déclaration de resoumission (le cas échéant)",
+      "Documentation spéciale pour les projets situés dans les pays sous sanctions (Cuba, Iran, Corée du Nord, Syrie, Venezuela, Crimée, régions de Donetsk et Louhansk en Ukraine, Russie) - requise avant le déblocage des fonds"
+    ],
+    "avantages": [
+      "Financement jusqu'à 25 000 USD",
+      "Couvre les phases de recherche distinctes (par exemple, deux étés)",
+      "Aucune limite de durée",
+      "Non renouvelable",
+      "Ne couvre pas les frais généraux institutionnels ni les frais d'administration"
+    ],
+    "eligibilite": [
+      "Être inscrit dans un programme de doctorat en anthropologie",
+      "Ou détenir un diplôme antérieur en anthropologie",
+      "Ou être affilié à l'anthropologie par le biais du directeur de recherche indiqué sur la candidature",
+      "L'anthropologie inclut l'anthropologie socioculturelle, linguistique, biologique et l'archéologie ou leurs équivalents dans d'autres pays",
+      "Les étudiants qualifiés de toute nationalité ou affiliation institutionnelle peuvent postuler",
+      "Le directeur de recherche doit avoir un rôle officiellement reconnu dans la formation du candidat",
+      "Pour recevoir une bourse, les candidats doivent avoir satisfait à toutes les exigences du programme de doctorat, autres que la thèse, avant la date de début indiquée sur le formulaire de candidature",
+      "Les candidats retenus doivent fournir une preuve de leur département attestant qu'ils ont terminé tous les cours et examens nécessaires",
+      "La Fondation accepte une seule resoumission d'une candidature non financée lors d'un cycle précédent",
+      "Les candidats souhaitant postuler à nouveau doivent inclure une déclaration de resoumission qui répond aux commentaires des évaluateurs et explique les changements apportés",
+      "Pour les programmes avec deux dates limites par an, les candidats ne peuvent pas postuler au même programme à deux dates limites consécutives",
+      "Les boursiers doivent avoir terminé toutes les exigences de leur bourse existante, y compris la soumission du rapport final, avant de postuler pour une nouvelle bourse",
+      "Les candidats ne peuvent pas avoir plus d'une candidature en cours d'examen en même temps, y compris pour d'autres programmes de la Fondation Wenner-Gren"
+    ],
+    "procedure_etapes": [
+      "Consulter le guide de candidature pour les procédures et les questions",
+      "Préparer tous les documents requis",
+      "Soumettre tous les formulaires et matériels requis en ligne via le portail de candidature",
+      "Si vous n'avez pas un accès Internet adéquat, contacter la Fondation au moins une semaine avant la date limite pour organiser une méthode alternative",
+      "Avant de soumettre, consulter les informations fiscales américaines et les exigences de visa pour les non-Américains",
+      "S'assurer de la conformité avec les lois américaines, y compris les réglementations OFAC",
+      "Pour les projets dans les pays sous sanctions, fournir la documentation spéciale avant le déblocage des fonds",
+      "Ne pas envoyer de matériel supplémentaire non demandé (relevés de notes, lettres de recommandation, manuscrits, publications, photographies, enregistrements)",
+      "Consulter la politique sur l'utilisation de l'IA générative avant de postuler",
+      "Accéder au portail de candidature pour soumettre"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://wennergren.tfaforms.net/4978023"
+      },
+      {
+        "label": "Guide de candidature",
+        "url": "https://wennergren.org/application-guide/dissertation-fieldwork-grant/"
+      },
+      {
+        "label": "Informations fiscales américaines",
+        "url": "https://wennergren.org/united-states-tax-issues-and-the-wenner-gren-foundations-tax-reporting-requirements/"
+      },
+      {
+        "label": "Directives OFAC",
+        "url": "https://wennergren.org/ofac-guidelines/"
+      },
+      {
+        "label": "Département du Trésor américain - OFAC",
+        "url": "https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information"
+      },
+      {
+        "label": "Politique sur l'IA générative",
+        "url": "https://wennergren.org/ai-policy/"
+      },
+      {
+        "label": "Motion of the 32nd RBA (PDF)",
+        "url": "https://www.abant.org.br/files/20210108_5ff8624aac67c.pdf"
+      },
+      {
+        "label": "Plus d'informations",
+        "url": "https://wennergren.org/program/dissertation-fieldwork-grant/"
+      }
+    ],
+    "mots_cles": [
+      "bourse anthropologie",
+      "bourse doctorat",
+      "bourse recherche terrain",
+      "Wenner-Gren Foundation",
+      "financement thèse",
+      "bourse internationale",
+      "bourse États-Unis",
+      "anthropologie sociale",
+      "archéologie",
+      "primatologie"
+    ],
+    "lien_candidature": "https://wennergren.tfaforms.net/4978023",
+    "source_url": "https://wennergren.org/program/dissertation-fieldwork-grant/?fbclid=IwY2xjawUqCvpleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe7yq_tfb5khgktANgPvOXwaaJEuiZJjcnLJevtl9Cfv3A9Nh6ysHZ0OxqNQc_aem_lnDqrLoqxe54mW0Ah4G46g",
+    "statut": "ouvert",
+    "resume": "La Fondation Wenner-Gren offre des bourses de recherche sur le terrain pour la thèse, destinées aux doctorants en anthropologie. Ce programme finance des recherches doctorales ou de thèse qui font progresser la connaissance anthropologique, sans préférence de méthodologie, de lieu ou de sous-domaine. Le montant maximum de la bourse est de 25 000 USD, non renouvelable, et peut couvrir plusieurs phases de recherche. Les candidatures sont acceptées deux fois par an, avec des dates limites au 1er mai et au 1er novembre.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:35:20",
+    "slug": "bourse-wenner-gren-these-anthropologie-2026"
+  },
+  {
+    "titre": "Bourses de reportage sur l'IA",
+    "seo_slug": "bourse-reportage-ia-pulitzer-2026",
+    "organisation": "Pulitzer Center",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse de reportage",
+    "deadline": null,
+    "deadline_texte": "Candidatures acceptées en continu (rolling basis)",
+    "niveau_etudes": [],
+    "domaines": [
+      "Journalisme",
+      "Intelligence artificielle",
+      "Surveillance",
+      "Technologie"
+    ],
+    "pays_eligibles": [
+      "Monde entier",
+      "Afrique",
+      "Amérique latine",
+      "Asie du Sud",
+      "Asie du Sud-Est"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Description du projet (max 250 mots)",
+      "Budget prévisionnel avec ventilation des coûts",
+      "Plan de diffusion convaincant",
+      "Lettres d'engagement des médias de publication (recommandé)",
+      "Matériel supplémentaire (optionnel)"
+    ],
+    "avantages": [
+      "Financement des coûts directs du projet de reportage",
+      "Couverture des dépenses de reportage approfondi"
+    ],
+    "eligibilite": [
+      "Journalistes salariés ou indépendants",
+      "Ouvert aux journalistes du monde entier",
+      "Projets de reportage d'investigation sur l'IA et les technologies de surveillance",
+      "Encouragement des candidatures du Sud global (Afrique, Amérique latine, Asie du Sud et du Sud-Est)",
+      "Projets collaboratifs acceptés"
+    ],
+    "procedure_etapes": [
+      "1. Consulter les directives de candidature",
+      "2. Préparer une description du projet (max 250 mots)",
+      "3. Établir un budget prévisionnel détaillé",
+      "4. Rédiger un plan de diffusion",
+      "5. Obtenir des lettres d'engagement des médias de publication (si applicable)",
+      "6. Soumettre la candidature via le formulaire en ligne"
+    ],
+    "contacts": [
+      "[email protected]"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Visitez le site : https://pulitzercenter.org/grant-application",
+        "url": "https://pulitzercenter.org/grant-application"
+      },
+      {
+        "label": "Comment postuler",
+        "url": "https://pulitzercenter.org/how-apply"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://pulitzercenter.org/grant-application"
+      },
+      {
+        "label": "Exemples de projets soutenus",
+        "url": "https://pulitzercenter.org/ai-reporting-resources#ai"
+      },
+      {
+        "label": "Réseau de responsabilité de l'IA",
+        "url": "https://pulitzercenter.org/journalism/initiatives/ai-accountability-network"
+      }
+    ],
+    "mots_cles": [
+      "bourse journalisme IA",
+      "bourse reportage intelligence artificielle",
+      "bourse Pulitzer Center",
+      "financement reportage surveillance",
+      "bourse journalisme d'investigation",
+      "bourse mondiale journalisme",
+      "subvention reportage IA",
+      "bourse pour journalistes"
+    ],
+    "lien_candidature": "https://pulitzercenter.org/grant-application",
+    "source_url": "https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-reporting-grants?fbclid=IwY2xjawUqCxpleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeViiNse2oSCA6pGf2iNnq88Yt9j3_eAGrbaZlFxsYkwdAg0ybrFvnCNguubE_aem_R62mbFpV11NFwFXQfOS39A",
+    "statut": "ouvert",
+    "resume": "Le Pulitzer Center lance un appel à candidatures pour ses bourses de reportage sur l'intelligence artificielle et les technologies de surveillance. Ces bourses financent des projets d'investigation approfondis qui explorent l'impact de l'IA sur les communautés à travers le monde, en mettant l'accent sur la responsabilité et les données. Ouvert aux journalistes salariés et indépendants du monde entier, le programme encourage particulièrement les candidatures du Sud global et les collaborations. Les candidatures sont acceptées en continu, avec une réponse généralement sous une à deux semaines.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:36:03",
+    "slug": "bourse-reportage-ia-pulitzer-2026"
+  },
+  {
+    "titre": "Bourses de reportage sur la transparence et la gouvernance",
+    "seo_slug": "bourse-pulitzer-transparence-gouvernance-2026",
+    "organisation": "Pulitzer Center",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse de reportage",
+    "deadline": null,
+    "deadline_texte": "Candidatures acceptées en continu (rolling basis)",
+    "niveau_etudes": [],
+    "domaines": [
+      "Journalisme",
+      "Transparence",
+      "Gouvernance",
+      "Corruption"
+    ],
+    "pays_eligibles": [
+      "Monde entier",
+      "Afrique",
+      "Amérique latine",
+      "Asie du Sud",
+      "Asie du Sud-Est"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Description du projet (max 250 mots)",
+      "Budget prévisionnel",
+      "Plan de diffusion",
+      "Lettres d'engagement des médias",
+      "Matériel supplémentaire (optionnel)"
+    ],
+    "avantages": [
+      "Financement de projets de reportage",
+      "Soutien à la diffusion",
+      "Possibilité de bourses d'investigation d'un an"
+    ],
+    "eligibilite": [
+      "Journalistes indépendants et salariés",
+      "Projets de reportage transfrontaliers et collaboratifs",
+      "Approches innovantes et interdisciplinaires",
+      "Candidatures du Sud global particulièrement encouragées"
+    ],
+    "procedure_etapes": [
+      "1. Consulter les directives de candidature",
+      "2. Préparer une description du projet (max 250 mots)",
+      "3. Élaborer un budget prévisionnel",
+      "4. Rédiger un plan de diffusion détaillé",
+      "5. Obtenir des lettres d'engagement des médias",
+      "6. Soumettre la candidature en ligne"
+    ],
+    "contacts": [
+      "[email protected]"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Comment postuler",
+        "url": "https://pulitzercenter.org/how-apply"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://pulitzercenter.org/grant-application"
+      },
+      {
+        "label": "Initiative Transparence et Gouvernance",
+        "url": "https://pulitzercenter.org/transparency-and-governance"
+      },
+      {
+        "label": "Réseau d'investigation sur les forêts tropicales",
+        "url": "https://pulitzercenter.org/journalism/initiatives/rainforest-investigations-network-initiative"
+      },
+      {
+        "label": "Réseau de reportage sur les océans",
+        "url": "https://pulitzercenter.org/journalism/initiatives/ocean-reporting-network"
+      },
+      {
+        "label": "Réseau de responsabilité de l'IA",
+        "url": "https://pulitzercenter.org/ai-accountability-network"
+      }
+    ],
+    "mots_cles": [
+      "bourse journalisme",
+      "subvention reportage",
+      "transparence gouvernance",
+      "corruption",
+      "Pulitzer Center",
+      "bourse internationale",
+      "journalisme d'investigation"
+    ],
+    "lien_candidature": "https://pulitzercenter.org/grant-application",
+    "source_url": "https://pulitzercenter.org/transparency-governance-reporting-grants?fbclid=IwY2xjawUqC01leHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeNIqJF9S_wLInIGKAExdINt6_Y1W3e7zDYBNen3SRhBzK50QDtAQGpm4jUOE_aem_5w2Avs8MsPBtcVtfCEUVtQ",
+    "statut": "ouvert",
+    "resume": "Le Pulitzer Center lance un appel à candidatures pour son initiative de reportage sur la transparence et la gouvernance, ciblant les systèmes, organisations et individus qui déstabilisent les pays, érodent les démocraties et favorisent la corruption. Ouvert aux journalistes indépendants et salariés du monde entier, ce programme soutient des projets d'investigation transfrontaliers, des reportages basés sur les données et des approches interdisciplinaires innovantes. Les candidatures sont acceptées en continu, avec un accent particulier sur les propositions provenant du Sud global, notamment d'Afrique, d'Amérique latine et d'Asie du Sud et du Sud-Est. Les projets doivent inclure un plan de diffusion détaillé et des lettres d'engagement des médias.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:36:42",
+    "slug": "bourse-pulitzer-transparence-gouvernance-2026"
+  },
+  {
+    "titre": "Fonds de journalisme sur les forêts tropicales - Bassin du Congo",
+    "seo_slug": "bourse-journalisme-forets-tropicales-congo-2026",
+    "organisation": "Pulitzer Center",
+    "montant": 2500,
+    "devise": "USD",
+    "type_financement": "bourse partielle",
+    "deadline": null,
+    "deadline_texte": "Candidatures acceptées en continu (rolling). Aucune date limite fixe.",
+    "niveau_etudes": [],
+    "domaines": [
+      "Journalisme",
+      "Environnement",
+      "Forêts tropicales",
+      "Changement climatique"
+    ],
+    "pays_eligibles": [
+      "Bassin du Congo",
+      "Cameroun",
+      "République centrafricaine",
+      "République démocratique du Congo",
+      "République du Congo",
+      "Gabon",
+      "Guinée équatoriale"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (les candidatures pour les projets internationaux doivent être en anglais ; pour les projets locaux/régionaux, la langue n'est pas précisée mais probablement l'anglais ou le français)",
+    "documents_requis": [
+      "Description du projet (250 mots maximum)",
+      "Budget prévisionnel",
+      "Trois échantillons de travaux publiés",
+      "Trois références professionnelles (contacts ou lettres de recommandation)",
+      "CV"
+    ],
+    "avantages": [
+      "Financement des coûts liés au reportage",
+      "Frais de fixeur, traducteur, chauffeur acceptables",
+      "Possibilité de stipendes selon les circonstances",
+      "Formation en environnement hostile si approprié"
+    ],
+    "eligibilite": [
+      "Ouvert à tous les journalistes, écrivains, photographes, producteurs radio ou cinéastes",
+      "Journalistes salariés et indépendants de toute nationalité",
+      "Les projets doivent inclure un plan de diffusion crédible dans des médias locaux et/ou régionaux influents",
+      "Les candidats doivent démontrer l'intérêt d'éditeurs ou de producteurs",
+      "Pour les zones de conflit, les indépendants doivent avoir une mission ferme d'une organisation de presse assumant la responsabilité"
+    ],
+    "procedure_etapes": [
+      "Préparer une description du projet (250 mots max) incluant le plan de diffusion",
+      "Établir un budget prévisionnel détaillé",
+      "Rassembler trois échantillons de travaux publiés",
+      "Fournir trois références professionnelles (contacts ou lettres)",
+      "Joindre un CV",
+      "Soumettre la candidature via le portail en ligne"
+    ],
+    "contacts": [
+      "[email protected]"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature pour le bassin du Congo",
+        "url": "https://pulitzercenter.submittable.com/submit/146660/congo-basin-local-regional-reporting-application"
+      },
+      {
+        "label": "Informations en français",
+        "url": "/appel-propositions-rjf-du-bassin-du-congo"
+      },
+      {
+        "label": "Candidature pour projets internationaux",
+        "url": "/rainforest-journalism-fund-call-proposals-international-projects"
+      }
+    ],
+    "mots_cles": [
+      "bourse journalisme",
+      "forêts tropicales",
+      "bassin du Congo",
+      "Pulitzer Center",
+      "subvention reportage",
+      "journalisme environnemental",
+      "financement journalisme",
+      "bourse Congo",
+      "reportage forêt",
+      "bourse journaliste"
+    ],
+    "lien_candidature": "https://pulitzercenter.submittable.com/submit/146660/congo-basin-local-regional-reporting-application",
+    "source_url": "https://pulitzercenter.org/call-proposals-congo-basin-rainforest-journalism-fund?fbclid=IwY2xjawUqC5tleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe3vhXSn2AHjEfAMZ9ED0NYPtOCGaZIHvyCithY3pErQdEm3JPJuF7w-s7aEg_aem_yrPNO9wA3oaUX8xU6uBJPQ",
+    "statut": "ouvert",
+    "resume": "Le Pulitzer Center lance un appel à propositions pour son Fonds de journalisme sur les forêts tropicales, destiné aux journalistes couvrant les forêts tropicales du bassin du Congo. Les subventions, d'un montant généralement compris entre 2 500 et 7 500 dollars, financent des reportages approfondis sur la déforestation, le climat et les solutions. Les candidatures sont acceptées en continu et ouvertes aux journalistes de toute nationalité, avec un accent sur les projets locaux et régionaux. Les dossiers doivent inclure un plan de diffusion crédible et des échantillons de travaux publiés.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:37:42",
+    "slug": "bourse-journalisme-forets-tropicales-congo-2026"
+  },
+  {
+    "titre": "Bourses de protection Front Line Defenders",
+    "seo_slug": "bourse-protection-front-line-defenders-2026",
+    "organisation": "Front Line Defenders",
+    "montant": 7500,
+    "devise": "EUR",
+    "type_financement": "bourse partielle",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [],
+    "domaines": [
+      "Droits humains",
+      "Protection des défenseurs des droits humains"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Arabe, Russe, Anglais, Français, Espagnol, Farsi, Portugais, Chinois, Turc",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Rapport écrit",
+      "Copies des reçus originaux"
+    ],
+    "avantages": [
+      "Soutien financier pour améliorer la sécurité physique, numérique et de communication",
+      "Prise en charge des frais juridiques pour les défenseurs des droits humains victimes de harcèlement judiciaire",
+      "Prise en charge des frais médicaux pour les défenseurs des droits humains attaqués ou souffrant de problèmes de santé liés à leurs activités",
+      "Assistance familiale pour les défenseurs des droits humains emprisonnés ou leurs familles à risque"
+    ],
+    "eligibilite": [
+      "Défenseurs des droits humains à risque",
+      "Organisations de défense des droits humains",
+      "Les candidatures peuvent être soumises en arabe, russe, anglais, français, espagnol, farsi, portugais, chinois et turc",
+      "Ne finance pas les projets rétrospectifs, les organisations internationales, les organisations déjà financées pour le même objet, les projets généraux sur les droits humains, les défenseurs en exil, les coûts de fonctionnement (salaires, loyer), les gardes de sécurité armés, l'achat de véhicules, les coûts de vie généraux"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature sécurisé en ligne",
+      "2. Fournir des informations de contact sécurisées",
+      "3. Soumettre la candidature",
+      "4. Un membre du personnel de Front Line Defenders vous contactera",
+      "5. En cas de succès, soumettre un court rapport écrit et les reçus originaux à la fin du projet"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature sécurisé",
+        "url": "https://www.frontlinedefenders.org/en/secure/grant.php?l=EN"
+      },
+      {
+        "label": "Autres organisations de financement",
+        "url": "https://www.frontlinedefenders.org/en/resource-publication/other-funding-organisations"
+      },
+      {
+        "label": "Garder vos communications en ligne privées",
+        "url": "https://securityinabox.org/en/assess-plan/private-communication/"
+      },
+      {
+        "label": "Communiquer avec les autres",
+        "url": "https://ssd.eff.org/en/module/communicating-others"
+      }
+    ],
+    "mots_cles": [
+      "bourse protection",
+      "front line defenders",
+      "défenseurs des droits humains",
+      "subvention sécurité",
+      "aide juridique",
+      "assistance médicale",
+      "financement urgence",
+      "droits humains"
+    ],
+    "lien_candidature": "https://www.frontlinedefenders.org/en/secure/grant.php?l=EN",
+    "source_url": "https://www.frontlinedefenders.org/en/programme/protection-grants?fbclid=IwY2xjawUqC9dleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe_ix3zqgxq_LGNcy5ToexKy35qSha4Gg4siOrjRvXVo496UQ5PyUUECMUoLU_aem_ZcR7HL8snAWlRUQ-1ip6SQ",
+    "statut": "ouvert",
+    "resume": "Front Line Defenders propose des bourses de protection pour soutenir financièrement les défenseurs des droits humains à risque. Ces subventions, d'un montant maximal de 7 500 €, couvrent des besoins urgents tels que la sécurité physique et numérique, les frais juridiques, les soins médicaux et l'assistance familiale. Les candidatures sont acceptées en plusieurs langues et peuvent être soumises en ligne via un formulaire sécurisé. Ce programme vise à fournir une aide rapide et pratique pour protéger ceux qui défendent les droits humains.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:39:02",
+    "slug": "bourse-protection-front-line-defenders-2026"
+  },
+  {
+    "titre": "Bourse d'excellence internationale du Vice-Chancelier",
+    "seo_slug": "bourse-vice-chancelier-waikato-2026",
+    "organisation": "University of Waikato",
+    "montant": 15000,
+    "devise": "NZD",
+    "type_financement": "partielle",
+    "deadline": null,
+    "deadline_texte": "Les candidatures sont examinées mensuellement. Les dates limites de réception des candidatures sont : 30 novembre pour les offres du trimestre A, 31 mai pour le trimestre B, 31 août pour le trimestre C, et 31 octobre pour les trimestres H ou X. La date limite ci-dessus ne s'applique pas car les candidatures sont acceptées en continu.",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Arts",
+      "Commerce et gestion",
+      "Informatique",
+      "Mathématiques",
+      "Éducation",
+      "Santé",
+      "Ingénierie",
+      "Droit",
+      "Études maories et autochtones",
+      "Sciences",
+      "Sciences sociales"
+    ],
+    "pays_eligibles": [
+      "Tous les pays (sauf Nouvelle-Zélande et Australie)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de demande d'inscription",
+      "Relevés de notes",
+      "Preuve de proficiency en anglais",
+      "CV",
+      "Lettre de motivation"
+    ],
+    "avantages": [
+      "Jusqu'à 15 000 NZD de frais de scolarité"
+    ],
+    "eligibilite": [
+      "Étudiants internationaux talentueux",
+      "S'inscrivant pour la première fois dans un programme de premier cycle ou de cycles supérieurs à l'Université de Waikato",
+      "Excellents résultats académiques"
+    ],
+    "procedure_etapes": [
+      "1. Lire les règlements",
+      "2. Si vous êtes nouveau, remplir une demande d'inscription",
+      "3. Se connecter à MyWaikato et cliquer sur l'onglet 'Scholarships'",
+      "4. Choisir la bourse et postuler"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Règlements (PDF)",
+        "url": "https://www.waikato.ac.nz/assets/Uploads/VCIES-2026-all-other-countries-v2.pdf"
+      },
+      {
+        "label": "Demande d'inscription",
+        "url": "https://www.waikato.ac.nz/study/apply/"
+      },
+      {
+        "label": "Portail de candidature MyWaikato",
+        "url": "https://my.waikato.ac.nz/sitsvision/wrd/siw_lgn"
+      }
+    ],
+    "mots_cles": [
+      "bourse Nouvelle-Zélande",
+      "bourse Université de Waikato",
+      "bourse excellence internationale",
+      "bourse premier cycle",
+      "bourse master",
+      "financement études Nouvelle-Zélande"
+    ],
+    "lien_candidature": "https://my.waikato.ac.nz/sitsvision/wrd/siw_lgn",
+    "source_url": "https://www.waikato.ac.nz/study/scholarships/find-a-scholarship/vice-chancellors-international-excellence-scholarship/?fbclid=IwY2xjawUqDkRleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe_ix3zqgxq_LGNcy5ToexKy35qSha4Gg4siOrjRvXVo496UQ5PyUUECMUoLU_aem_ZcR7HL8snAWlRUQ-1ip6SQ",
+    "statut": "ouvert",
+    "resume": "La bourse d'excellence internationale du Vice-Chancelier de l'Université de Waikato soutient les étudiants internationaux talentueux qui s'inscrivent pour la première fois dans un programme de premier cycle ou de cycles supérieurs. D'une valeur pouvant atteindre 15 000 NZD, elle est attribuée aux candidats démontrant d'excellents résultats académiques. Les candidatures sont examinées mensuellement, avec des dates limites spécifiques selon le trimestre d'admission. C'est une opportunité en or pour financer vos études en Nouvelle-Zélande.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:49:01",
+    "slug": "bourse-vice-chancelier-waikato-2026"
+  },
+  {
+    "titre": "Bourse internationale de premier cycle de l'Université Victoria de Wellington (VUW)",
+    "seo_slug": "bourse-vuw-premier-cycle-international-2026",
+    "organisation": "Te Herenga Waka—Victoria University of Wellington",
+    "montant": 15000,
+    "devise": "NZD",
+    "type_financement": "bourse partielle",
+    "deadline": null,
+    "deadline_texte": "Même date que la clôture des candidatures au programme",
+    "niveau_etudes": [
+      "Licence (Bachelor)"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "International (hors Australie, Nouvelle-Zélande)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Offre d'admission (conditionnelle ou inconditionnelle) pour un programme de licence"
+    ],
+    "avantages": [
+      "Contribution aux frais de scolarité à hauteur de 15 000 NZD pour une année d'études",
+      "La bourse est appliquée directement aux frais de scolarité, permettant à l'étudiant de payer le montant réduit à l'université",
+      "La bourse peut être cumulée avec d'autres bourses si les conditions de ces dernières le permettent",
+      "Possibilité de reporter la bourse à une autre session d'admission dans la même année civile (sous réserve d'approbation)"
+    ],
+    "eligibilite": [
+      "Être un étudiant international payant les frais de scolarité internationaux complets",
+      "Avoir l'intention de poursuivre un diplôme de licence à l'Université Victoria de Wellington",
+      "Être titulaire d'une offre d'admission (conditionnelle ou inconditionnelle) pour un programme de licence",
+      "Être un nouvel étudiant à l'Université Victoria de Wellington",
+      "Les étudiants ayant complété ou complétant actuellement le programme d'anglais académique (EAP) ou le programme de foundation studies de l'Université sont éligibles",
+      "Ne pas être un étudiant déjà inscrit à l'Université (sauf pour les programmes EAP ou Foundation Studies)",
+      "Ne pas être un étudiant en échange ou en study abroad ou un étudiant en programme de twinning",
+      "Ne pas avoir obtenu de crédits transférés d'une qualification antérieure",
+      "Ne pas être sponsorisé par son gouvernement d'origine ou le gouvernement néo-zélandais",
+      "Ne pas être citoyen australien ou néo-zélandais, résident permanent ou titulaire d'un visa de résident, ou titulaire d'un visa diplomatique donnant droit au statut de résident"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un programme de licence à l'Université Victoria de Wellington",
+      "2. Recevoir une offre d'admission (conditionnelle ou inconditionnelle)",
+      "3. La bourse est automatiquement évaluée lors de la demande d'admission",
+      "4. Les bénéficiaires sont informés de l'attribution dans leur offre d'admission",
+      "5. Aucune candidature séparée n'est requise"
+    ],
+    "contacts": [
+      "international@vuw.ac.nz",
+      "+64 4 472 1000"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse",
+        "url": "https://www.wgtn.ac.nz/scholarships/current/vuw-undergraduate-international-scholarship"
+      },
+      {
+        "label": "Informations sur les candidatures internationales",
+        "url": "https://www.wgtn.ac.nz/international/applying"
+      }
+    ],
+    "mots_cles": [
+      "bourse Nouvelle-Zélande",
+      "bourse premier cycle",
+      "bourse internationale",
+      "Université Victoria Wellington",
+      "bourse licence",
+      "financement études Nouvelle-Zélande",
+      "bourse partielle",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://www.wgtn.ac.nz/scholarships/current/vuw-undergraduate-international-scholarship",
+    "source_url": "https://www.wgtn.ac.nz/scholarships/current/vuw-undergraduate-international-scholarship?fbclid=IwY2xjawUqDllleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe3vhXSn2AHjEfAMZ9ED0NYPtOCGaZIHvyCithY3pErQdEm3JPJuF7w-s7aEg_aem_yrPNO9wA3oaUX8xU6uBJPQ",
+    "statut": "ouvert",
+    "resume": "La bourse internationale de premier cycle de l'Université Victoria de Wellington (VUW) offre un soutien financier de 15 000 NZD aux étudiants internationaux qui entament leur première année de licence. Cette bourse partielle est automatiquement attribuée lors de l'admission, sans candidature séparée. Elle vise à aider les nouveaux étudiants à rejoindre la communauté internationale de l'université et à financer une partie de leurs frais de scolarité. Les candidats doivent être titulaires d'une offre d'admission pour un programme de licence et ne pas être déjà inscrits à l'université.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:50:02",
+    "slug": "bourse-vuw-premier-cycle-international-2026"
+  },
+  {
+    "titre": "Bourse internationale pour étudiants de troisième cycle de l'Université Victoria de Wellington",
+    "seo_slug": "bourse-vuw-postgraduate-international-2026",
+    "organisation": "Victoria University of Wellington (Te Herenga Waka)",
+    "montant": 10000,
+    "devise": "NZD",
+    "type_financement": "bourse partielle",
+    "deadline": null,
+    "deadline_texte": "Même date que la clôture des candidatures pour le programme d'études",
+    "niveau_etudes": [
+      "Master",
+      "Diplôme de troisième cycle"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "International (hors Australie, Nouvelle-Zélande)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (niveau requis pour l'admission)",
+    "documents_requis": [
+      "Offre d'admission conditionnelle ou inconditionnelle",
+      "Candidature au programme d'études"
+    ],
+    "avantages": [
+      "Contribution aux frais de scolarité à hauteur de 10 000 NZD",
+      "Crédit appliqué directement aux frais de scolarité",
+      "Durée d'un an",
+      "Peut être cumulée avec d'autres bourses si leurs règlements le permettent",
+      "Ne figure pas sur le relevé de notes"
+    ],
+    "eligibilite": [
+      "Être un étudiant international payant des frais de scolarité internationaux complets",
+      "Avoir l'intention d'obtenir un Master (120, 180 ou 240 points) ou un Diplôme de troisième cycle (120 points) à l'Université Victoria de Wellington",
+      "Être titulaire d'une offre d'admission conditionnelle ou inconditionnelle pour un programme de Master ou de Diplôme de troisième cycle à l'Université Victoria de Wellington",
+      "Être un nouvel étudiant dans un programme de troisième cycle de l'Université Victoria de Wellington",
+      "Ne pas être déjà inscrit à l'Université Victoria de Wellington (sauf pour le programme EAP ou un baccalauréat)",
+      "Ne pas être un étudiant en échange, en étude à l'étranger ou en programme de jumelage",
+      "Ne pas avoir obtenu de transfert de crédits d'une qualification antérieure",
+      "Ne pas être sponsorisé par son gouvernement d'origine ou le gouvernement néo-zélandais",
+      "Ne pas être citoyen australien ou néo-zélandais, résident permanent ou titulaire d'un visa de résident, ou sur un visa diplomatique donnant droit au statut de résident"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un programme de Master ou de Diplôme de troisième cycle à l'Université Victoria de Wellington",
+      "2. Recevoir une offre d'admission (conditionnelle ou inconditionnelle)",
+      "3. Aucune demande de bourse séparée n'est requise ; l'éligibilité est évaluée lors de la demande d'admission",
+      "4. Si éligible, la bourse sera indiquée dans l'offre d'admission",
+      "5. S'inscrire aux cours de première année pour que la bourse soit formellement attribuée"
+    ],
+    "contacts": [
+      "international@vuw.ac.nz",
+      "+64 4 472 1000"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page officielle de la bourse",
+        "url": "https://www.wgtn.ac.nz/scholarships/current/vuw-postgraduate-international-scholarship"
+      },
+      {
+        "label": "Informations sur l'admission internationale",
+        "url": "https://www.wgtn.ac.nz/international/applying"
+      }
+    ],
+    "mots_cles": [
+      "bourse Nouvelle-Zélande",
+      "bourse master Wellington",
+      "bourse internationale Victoria University",
+      "bourse troisième cycle",
+      "financement études Nouvelle-Zélande",
+      "bourse partielle frais de scolarité",
+      "VUW postgraduate scholarship"
+    ],
+    "lien_candidature": "https://www.wgtn.ac.nz/scholarships/current/vuw-postgraduate-international-scholarship",
+    "source_url": "https://www.wgtn.ac.nz/scholarships/current/vuw-postgraduate-international-scholarship?fbclid=IwY2xjawUqDqFleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeNIqJF9S_wLInIGKAExdINt6_Y1W3e7zDYBNen3SRhBzK50QDtAQGpm4jUOE_aem_5w2Avs8MsPBtcVtfCEUVtQ",
+    "statut": "ouvert",
+    "resume": "La bourse internationale pour étudiants de troisième cycle de l'Université Victoria de Wellington (Te Herenga Waka) offre un soutien financier de 10 000 NZD aux étudiants internationaux souhaitant poursuivre un Master ou un Diplôme de troisième cycle en Nouvelle-Zélande. Cette bourse partielle est créditée directement sur les frais de scolarité et vise à attirer de nouveaux talents académiques. Aucune candidature séparée n'est nécessaire : l'éligibilité est évaluée automatiquement lors de la demande d'admission au programme. Les candidats doivent être titulaires d'une offre d'admission et ne pas être déjà inscrits à l'université, sauf exceptions.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:50:39",
+    "slug": "bourse-vuw-postgraduate-international-2026"
+  },
+  {
     "titre": "Admission au programme de diplôme international de l'Université Nationale Tsing Hua - Printemps 2027",
     "seo_slug": "admission-nthu-printemps-2027",
     "organisation": "National Tsing Hua University (NTHU)",
@@ -23807,6 +25920,100 @@
     "imageUrl": null,
     "extrait_le": "2026-09-11T12:52:58",
     "slug": "master-data-science-analytics-engineering-asu-2026"
+  },
+  {
+    "titre": "Bourse doctorale de l'Université d'Auckland",
+    "seo_slug": "bourse-doctorale-auckland-2026",
+    "organisation": "University of Auckland",
+    "montant": 35468,
+    "devise": "NZD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-08-01",
+    "deadline_texte": "1 août 2026 (date limite de candidature pour la ronde d'août 2026)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Demande d'admission au programme doctoral",
+      "Relevés de notes",
+      "CV",
+      "Lettre de motivation",
+      "Preuve de compétence linguistique en anglais"
+    ],
+    "avantages": [
+      "Stipende non imposable de 35 468 NZD par an (ajusté annuellement selon l'IPC)",
+      "Frais de scolarité pris en charge jusqu'à 42 mois ETP",
+      "Assurance santé étudiante obligatoire (si applicable)"
+    ],
+    "eligibilite": [
+      "Être offert une place dans un programme doctoral de l'Université d'Auckland",
+      "Ne pas s'inscrire au programme avant que la candidature à la bourse ait été examinée",
+      "Pour les candidats Māori : GPA de 7.0 ou plus dans un programme de qualification universitaire néo-zélandais (bourse garantie)",
+      "Pour les candidats du Pacifique : GPA de 7.0 ou plus dans un programme de qualification universitaire néo-zélandais (bourse garantie)"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un programme doctoral à l'Université d'Auckland.",
+      "2. Indiquer dans le formulaire de candidature si vous souhaitez être considéré pour la bourse doctorale (aucune candidature séparée n'est nécessaire).",
+      "3. Si vous avez déjà un financement de bourse et/ou ne souhaitez pas être considéré, le confirmer dans le formulaire.",
+      "4. Attendre la décision d'admission et l'attribution de la bourse.",
+      "5. Si la bourse est accordée, s'inscrire avant la date limite d'inscription indiquée dans la lettre d'attribution."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Conditions de la bourse doctorale de l'Université d'Auckland",
+        "url": "https://www.auckland.ac.nz/assets/study/scholarships-and-funding/find-a-scholarship-or-award/regulations/university-of-auckland-doctoral-scholarship.pdf"
+      },
+      {
+        "label": "Conditions de la bourse doctorale Māori",
+        "url": "https://www.auckland.ac.nz/assets/study/scholarships-and-funding/find-a-scholarship-or-award/regulations/university-of-auckland-maori-doctoral-scholarship.pdf"
+      },
+      {
+        "label": "Conditions de la bourse doctorale du Pacifique",
+        "url": "https://www.auckland.ac.nz/assets/study/scholarships-and-funding/find-a-scholarship-or-award/regulations/university-of-auckland-pacific-doctoral-scholarship.pdf"
+      },
+      {
+        "label": "Statut des bourses et prix",
+        "url": "/en/about-us/about-the-university/policy-hub/university-governance/general/scholarships-and-prizes-statute-2025.html"
+      },
+      {
+        "label": "Informations et formulaires sur les bourses doctorales",
+        "url": "/en/study/scholarships-and-awards/scholarship-types/postgraduate-scholarships/doctoral-scholarships/doctoral-scholarships-information-and-forms.html"
+      },
+      {
+        "label": "Page de candidature à l'Université d'Auckland",
+        "url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/apply-now.html"
+      },
+      {
+        "label": "Profil d'identité (pour partager des informations personnelles)",
+        "url": "https://iam.auckland.ac.nz/identity"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorale",
+      "Université d'Auckland",
+      "Nouvelle-Zélande",
+      "bourse complète",
+      "doctorat",
+      "financement de recherche",
+      "bourse internationale",
+      "études en Nouvelle-Zélande"
+    ],
+    "lien_candidature": "https://www.auckland.ac.nz/en/study/applications-and-admissions/apply-now.html",
+    "source_url": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/postgraduate-scholarships/doctoral-scholarships.html?utm_id=97758_v0_s00_e0_tv1_a1den5f08gvbpa&fbclid=IwY2xjawUqDZJleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLrkSYHO6vilH4yhr9hbuakBJB_a21VX_Ivw7jZzlLdaRa32W6UWNH6N2m9U_aem_GXhUFfvGcvy0Irc83OIjiw",
+    "statut": "fermé",
+    "resume": "L'Université d'Auckland offre des bourses doctorales compétitives pour soutenir les étudiants exceptionnels dans leurs recherches. La bourse comprend un stipende non imposable de 35 468 NZD par an, les frais de scolarité et une assurance santé. Les candidats doivent postuler à un programme doctoral et sont automatiquement considérés pour la bourse. Des bourses garanties sont disponibles pour les candidats Māori et du Pacifique avec un GPA élevé.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:48:01",
+    "slug": "bourse-doctorale-auckland-2026"
   },
   {
     "titre": "Programme Présidentiel de Bourses d'Études dans le Secteur Minier du Mali (PPBEM)",

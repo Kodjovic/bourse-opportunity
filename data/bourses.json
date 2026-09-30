@@ -1,103 +1,5 @@
 [
   {
-    "titre": "Stage au Département de la Santé de l'OMS 2027 au Siège à Genève (Financé)",
-    "seo_slug": "stage-oms-sante-geneve-2027",
-    "organisation": "Organisation Mondiale de la Santé (OMS)",
-    "montant": 1680,
-    "devise": "CHF",
-    "type_financement": "stage financé",
-    "deadline": "2026-09-29",
-    "deadline_texte": "29 septembre 2026",
-    "niveau_etudes": [
-      "Étudiant universitaire",
-      "Diplômé récent"
-    ],
-    "domaines": [
-      "Santé publique",
-      "Sciences de la santé",
-      "Santé mondiale",
-      "Science des données",
-      "Analyse des données de santé",
-      "Épidémiologie",
-      "Politique de santé",
-      "Statistiques",
-      "Systèmes de santé",
-      "Recherche et contrôle du tabac"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais (excellente maîtrise), autre langue officielle de l'ONU (un plus)",
-    "documents_requis": [
-      "Preuve d'inscription à un diplôme",
-      "Coordonnées de références",
-      "Certificat médical d'aptitude au travail de l'OMS"
-    ],
-    "avantages": [
-      "Indemnité de subsistance jusqu'à 1 680 CHF par mois pour les stagiaires vivant en dehors de Genève",
-      "Indemnité de subsistance jusqu'à 739 CHF par mois pour les stagiaires vivant à Genève",
-      "Bon de repas",
-      "Assurance médicale et accident"
-    ],
-    "eligibilite": [
-      "Étudiants inscrits dans un cours universitaire menant à une qualification formelle",
-      "Avoir complété au moins 3 ans d'études universitaires dans des domaines pertinents",
-      "Diplômés récents ayant obtenu leur diplôme dans les 18 derniers mois",
-      "Connaissance de l'analyse de données ou de logiciels statistiques",
-      "Intérêt pour l'information sanitaire et les comparaisons internationales de santé",
-      "Excellente maîtrise de l'anglais",
-      "La connaissance d'une autre langue officielle de l'ONU est un plus"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier l'éligibilité et les documents requis",
-      "2. Préparer les documents nécessaires (preuve d'inscription, coordonnées de références, certificat médical)",
-      "3. Soumettre la candidature en ligne via le portail carrières de l'OMS avant le 29 septembre 2026"
-    ],
-    "contacts": [
-      "opportunitiesradar@gmail.com"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Portail de candidature OMS",
-        "url": "http://careers.who.int/careersection/intern/jobdetail.ftl?job=2603774&tz=GMT%2B05%3A00&tzname=Asia%2FKarachi"
-      },
-      {
-        "label": "Stage Google Software Developer 2027",
-        "url": "https://opportunitiesradar.com/google-software-developer-internship-2027/"
-      },
-      {
-        "label": "Stage WMO LSP 2026 à Genève",
-        "url": "https://opportunitiesradar.com/wmo-lsp-internship-2026/"
-      },
-      {
-        "label": "Stage Salzburg Global 2027 en Autriche",
-        "url": "https://opportunitiesradar.com/salzburg-global-internship-2027/"
-      },
-      {
-        "label": "Stage WMO DPPD 2026 en Suisse",
-        "url": "https://opportunitiesradar.com/wmo-dppd-internship-2026/"
-      }
-    ],
-    "mots_cles": [
-      "stage OMS",
-      "stage santé Genève",
-      "stage OMS 2027",
-      "stage financé Suisse",
-      "stage santé publique",
-      "stage organisation mondiale de la santé",
-      "stage Genève",
-      "stage international santé"
-    ],
-    "lien_candidature": "http://careers.who.int/careersection/intern/jobdetail.ftl?job=2603774&tz=GMT%2B05%3A00&tzname=Asia%2FKarachi",
-    "source_url": "https://opportunitiesradar.com/who-health-department-internship-2027/?fbclid=IwY2xjawUew8FwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeGmM9QTPIn9aXc72td1ClQvNIkskfrNgSZwEsv99f-CX55iJgKfkBGtlbQ3Y_aem_4j5b4V9rwirchRNAkMyybg",
-    "statut": "ouvert",
-    "resume": "L'Organisation Mondiale de la Santé (OMS) offre une opportunité de stage financé au sein de son Département des Déterminants de la Santé, de la Promotion et de la Prévention, basé à Genève, en Suisse. Ce stage à temps plein de 6 mois, du 1er février au 16 juillet 2027, est ouvert aux étudiants et jeunes diplômés intéressés par la science des données, la recherche, le contrôle mondial du tabac et la santé. Les stagiaires sélectionnés recevront une indemnité de subsistance pouvant atteindre 1 680 CHF par mois, une assurance médicale et accident, ainsi que des bons de repas. Les candidatures doivent être soumises en ligne avant le 29 septembre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-22T02:27:49",
-    "slug": "stage-oms-sante-geneve-2027"
-  },
-  {
     "titre": "Programme de bourses Mastercard Foundation Scholars à l'Université de Pretoria",
     "seo_slug": "bourse-mastercard-foundation-pretoria-2027",
     "organisation": "Mastercard Foundation & University of Pretoria",
@@ -27581,6 +27483,104 @@
     "imageUrl": null,
     "extrait_le": "2026-09-22T02:59:42",
     "slug": "bourse-mastercard-innovation-technologie-asu-2027"
+  },
+  {
+    "titre": "Stage au Département de la Santé de l'OMS 2027 au Siège à Genève (Financé)",
+    "seo_slug": "stage-oms-sante-geneve-2027",
+    "organisation": "Organisation Mondiale de la Santé (OMS)",
+    "montant": 1680,
+    "devise": "CHF",
+    "type_financement": "stage financé",
+    "deadline": "2026-09-29",
+    "deadline_texte": "29 septembre 2026",
+    "niveau_etudes": [
+      "Étudiant universitaire",
+      "Diplômé récent"
+    ],
+    "domaines": [
+      "Santé publique",
+      "Sciences de la santé",
+      "Santé mondiale",
+      "Science des données",
+      "Analyse des données de santé",
+      "Épidémiologie",
+      "Politique de santé",
+      "Statistiques",
+      "Systèmes de santé",
+      "Recherche et contrôle du tabac"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (excellente maîtrise), autre langue officielle de l'ONU (un plus)",
+    "documents_requis": [
+      "Preuve d'inscription à un diplôme",
+      "Coordonnées de références",
+      "Certificat médical d'aptitude au travail de l'OMS"
+    ],
+    "avantages": [
+      "Indemnité de subsistance jusqu'à 1 680 CHF par mois pour les stagiaires vivant en dehors de Genève",
+      "Indemnité de subsistance jusqu'à 739 CHF par mois pour les stagiaires vivant à Genève",
+      "Bon de repas",
+      "Assurance médicale et accident"
+    ],
+    "eligibilite": [
+      "Étudiants inscrits dans un cours universitaire menant à une qualification formelle",
+      "Avoir complété au moins 3 ans d'études universitaires dans des domaines pertinents",
+      "Diplômés récents ayant obtenu leur diplôme dans les 18 derniers mois",
+      "Connaissance de l'analyse de données ou de logiciels statistiques",
+      "Intérêt pour l'information sanitaire et les comparaisons internationales de santé",
+      "Excellente maîtrise de l'anglais",
+      "La connaissance d'une autre langue officielle de l'ONU est un plus"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et les documents requis",
+      "2. Préparer les documents nécessaires (preuve d'inscription, coordonnées de références, certificat médical)",
+      "3. Soumettre la candidature en ligne via le portail carrières de l'OMS avant le 29 septembre 2026"
+    ],
+    "contacts": [
+      "opportunitiesradar@gmail.com"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature OMS",
+        "url": "http://careers.who.int/careersection/intern/jobdetail.ftl?job=2603774&tz=GMT%2B05%3A00&tzname=Asia%2FKarachi"
+      },
+      {
+        "label": "Stage Google Software Developer 2027",
+        "url": "https://opportunitiesradar.com/google-software-developer-internship-2027/"
+      },
+      {
+        "label": "Stage WMO LSP 2026 à Genève",
+        "url": "https://opportunitiesradar.com/wmo-lsp-internship-2026/"
+      },
+      {
+        "label": "Stage Salzburg Global 2027 en Autriche",
+        "url": "https://opportunitiesradar.com/salzburg-global-internship-2027/"
+      },
+      {
+        "label": "Stage WMO DPPD 2026 en Suisse",
+        "url": "https://opportunitiesradar.com/wmo-dppd-internship-2026/"
+      }
+    ],
+    "mots_cles": [
+      "stage OMS",
+      "stage santé Genève",
+      "stage OMS 2027",
+      "stage financé Suisse",
+      "stage santé publique",
+      "stage organisation mondiale de la santé",
+      "stage Genève",
+      "stage international santé"
+    ],
+    "lien_candidature": "http://careers.who.int/careersection/intern/jobdetail.ftl?job=2603774&tz=GMT%2B05%3A00&tzname=Asia%2FKarachi",
+    "source_url": "https://opportunitiesradar.com/who-health-department-internship-2027/?fbclid=IwY2xjawUew8FwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeGmM9QTPIn9aXc72td1ClQvNIkskfrNgSZwEsv99f-CX55iJgKfkBGtlbQ3Y_aem_4j5b4V9rwirchRNAkMyybg",
+    "statut": "fermé",
+    "resume": "L'Organisation Mondiale de la Santé (OMS) offre une opportunité de stage financé au sein de son Département des Déterminants de la Santé, de la Promotion et de la Prévention, basé à Genève, en Suisse. Ce stage à temps plein de 6 mois, du 1er février au 16 juillet 2027, est ouvert aux étudiants et jeunes diplômés intéressés par la science des données, la recherche, le contrôle mondial du tabac et la santé. Les stagiaires sélectionnés recevront une indemnité de subsistance pouvant atteindre 1 680 CHF par mois, une assurance médicale et accident, ainsi que des bons de repas. Les candidatures doivent être soumises en ligne avant le 29 septembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-22T02:27:49",
+    "slug": "stage-oms-sante-geneve-2027"
   },
   {
     "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",

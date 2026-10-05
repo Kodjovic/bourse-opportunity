@@ -1,659 +1,5 @@
 [
   {
-    "titre": "Programme de bourses Mastercard Foundation Scholars à l'Université de Pretoria",
-    "seo_slug": "bourse-mastercard-foundation-pretoria-2027",
-    "organisation": "Mastercard Foundation & University of Pretoria",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-09-30",
-    "deadline_texte": "30 septembre 2026 (date limite pour les candidatures des étudiants de premier cycle, honneurs et master). Pour les candidatures à l'Université de Pretoria : premier cycle le 31 août 2026, postgraduate le 30 septembre 2026.",
-    "niveau_etudes": [
-      "Licence",
-      "Honours",
-      "Master"
-    ],
-    "domaines": [],
-    "pays_eligibles": [
-      "Afrique"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature complété (undergraduate ou postgraduate)",
-      "Preuve de candidature à l'Université de Pretoria",
-      "Documents justificatifs requis (non spécifiés)"
-    ],
-    "avantages": [
-      "Bourse complète (frais de scolarité, frais de subsistance, etc.)",
-      "Programme de développement du leadership",
-      "Accompagnement et mentorat"
-    ],
-    "eligibilite": [
-      "Être un jeune africain confronté à des défis socio-économiques importants, y compris les réfugiés, les personnes déplacées internes (PDI) et les personnes handicapées.",
-      "Avoir postulé et été accepté à l'Université de Pretoria.",
-      "Faire preuve de qualités de leadership et d'un engagement envers le service communautaire (projets, activités scolaires, organisations religieuses).",
-      "Démontrer d'excellentes performances académiques et maintenir une moyenne élevée."
-    ],
-    "procedure_etapes": [
-      "1. Postuler d'abord à l'Université de Pretoria via le portail de candidature en ligne.",
-      "2. Télécharger et remplir le formulaire de candidature papier correspondant (undergraduate ou postgraduate).",
-      "3. Soumettre électroniquement la candidature à [email protected] avec tous les documents justificatifs.",
-      "4. Attendre la revue de la candidature et la notification du résultat.",
-      "5. Si éligible, participer à un entretien dans le cadre du processus de sélection."
-    ],
-    "contacts": [
-      "+27 (0)12 420 4297",
-      "[email protected]",
-      "[email protected]"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Portail de candidature à l'Université de Pretoria",
-        "url": "https://upnet.up.ac.za/upapply/signon.html"
-      },
-      {
-        "label": "Formulaire de candidature undergraduate 2027 (PDF)",
-        "url": "https://drupalwebprod-files.up.ac.za/Public/2026-04/Undergraduate%202027%20form.pdf?VersionId=g8EUc_j39M72ckx5q7B2wqzkDC6DrPSz"
-      },
-      {
-        "label": "Formulaire de candidature postgraduate 2027 (PDF)",
-        "url": "https://drupalwebprod-files.up.ac.za/Public/2026-04/Postgraduate%202027%20form.pdf?VersionId=wT9TyJp00LoHjEblzmWvtYNGOJptQU9i"
-      }
-    ],
-    "mots_cles": [
-      "bourse Mastercard Foundation",
-      "bourse Université de Pretoria",
-      "bourse Afrique 2027",
-      "bourse master Afrique du Sud",
-      "bourse premier cycle",
-      "bourse honneurs",
-      "bourse pour réfugiés",
-      "bourse pour personnes handicapées",
-      "programme de bourses",
-      "candidature bourse"
-    ],
-    "lien_candidature": "https://upnet.up.ac.za/upapply/signon.html",
-    "source_url": "https://www.up.ac.za/mastercard-foundation-scholars-program/how-apply?utm_id=97758_v0_s00_e0_tv2_a1den5f08gvbpa&fbclid=IwY2xjawUezhxwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeppW0jqa6sFXJ8E-un67XIfsyBSgThkPkQNDnLmGK7MuopZ32pZy4nr2VW5E_aem_VUQ580Xx1EMuf6cIEalMRQ",
-    "statut": "ouvert",
-    "resume": "Le Programme de bourses Mastercard Foundation Scholars à l'Université de Pretoria offre une opportunité unique aux jeunes africains confrontés à des défis socio-économiques, y compris les réfugiés, les personnes déplacées internes et les personnes handicapées. Cette bourse complète couvre les frais de scolarité et de subsistance pour les études de premier cycle, honneurs et master. Les candidats doivent démontrer un leadership exceptionnel, un engagement communautaire et d'excellentes performances académiques. Les candidatures pour 2027 sont ouvertes jusqu'au 30 septembre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-22T03:00:19",
-    "slug": "bourse-mastercard-foundation-pretoria-2027"
-  },
-  {
-    "titre": "Bourse de formation à la recherche (RTP) pour étudiants internationaux - Université Murdoch",
-    "seo_slug": "bourse-rtp-murdoch-international-2027",
-    "organisation": "Murdoch University",
-    "montant": 37000,
-    "devise": "AUD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-09-30",
-    "deadline_texte": "30 septembre 2026",
-    "niveau_etudes": [
-      "Master",
-      "Doctorat"
-    ],
-    "domaines": [
-      "Recherche"
-    ],
-    "pays_eligibles": [
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne complété",
-      "Rapport d'un arbitre académique"
-    ],
-    "avantages": [
-      "Allocation de subsistance exonérée d'impôt de 37 000 AUD par an",
-      "Durée de 2 ans pour un master",
-      "Durée de 3,5 ans pour un doctorat"
-    ],
-    "eligibilite": [
-      "Être étudiant à temps plein",
-      "Répondre aux exigences d'admission du diplôme HDR requis (diplôme de premier cycle avec mention première classe ou deuxième classe supérieure, master par recherche, ou équivalent)",
-      "Posséder un diplôme de premier cycle avec mention première classe, H2A (ou équivalent) ou un master avec une composante significative de thèse"
-    ],
-    "procedure_etapes": [
-      "1. Compiler les documents requis",
-      "2. Soumettre votre candidature via le formulaire de candidature en ligne"
-    ],
-    "contacts": [
-      "graduateresearchdegrees@murdoch.edu.au"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature en ligne",
-        "url": "https://www.murdoch.edu.au/study/how-to-apply/apply-for-a-research-degree"
-      },
-      {
-        "label": "Rapport d'arbitre académique (PDF)",
-        "url": "https://cdn-blob.murdoch.edu.au/mu-website/mu-docs/librariesprovider5/default-document-library/academic-referee-report---international.pdf?sfvrsn=8d25318c_7"
-      },
-      {
-        "label": "Conditions du RTP 2027",
-        "url": "https://murdochuniversity.sharepoint.com/sites/PPM/Policies/Forms/Area.aspx?q=Research%20Training%20Program&viewid=5508fa5c%2D6abb%2D4991%2Db0ba%2Dc7267980041d&as=json&id=%2Fsites%2FPPM%2FPolicies%2FGraduate%20Research%20Degrees%20Australian%20Government%20Research%20Training%20Program%20Scholarship%20Policy%2Epdf&parent=%2Fsites%2FPPM%2FPolicies&parentview=7"
-      },
-      {
-        "label": "Site Web du gouvernement australien sur le RTP",
-        "url": "https://www.education.gov.au/research-block-grants/research-training-program"
-      },
-      {
-        "label": "Bureau de la recherche supérieure",
-        "url": "https://murdochuniversity.sharepoint.com/sites/GraduateResearchSchool"
-      }
-    ],
-    "mots_cles": [
-      "bourse Murdoch",
-      "bourse RTP",
-      "bourse recherche Australie",
-      "bourse master Australie",
-      "bourse doctorat Australie",
-      "bourse internationale Australie",
-      "financement recherche",
-      "bourse 2027"
-    ],
-    "lien_candidature": "https://www.murdoch.edu.au/study/how-to-apply/apply-for-a-research-degree",
-    "source_url": "https://www.murdoch.edu.au/study/scholarship/research-training-program-stipends-%28international-students%29?fbclid=IwY2xjawUez31wZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeoU6KKbnHaSOil2-2WWZvbLjP0QiK4TpYz_YeHNxcT-SKMJYkU27NEzAWcCo_aem_wF5nl8PIhcLh3V9tc0TKYA",
-    "statut": "ouvert",
-    "resume": "L'Université Murdoch offre la bourse Research Training Program (RTP) pour les étudiants internationaux souhaitant poursuivre un master par recherche ou un doctorat en 2027. Cette bourse complète couvre une allocation de subsistance exonérée d'impôt de 37 000 AUD par an, pour une durée de 2 ans (master) ou 3,5 ans (doctorat). Les candidats doivent être admis à temps plein dans un programme HDR et posséder un diplôme de premier cycle avec mention première classe ou équivalent. Les candidatures sont ouvertes du 1er juillet au 30 septembre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-22T03:05:59",
-    "slug": "bourse-rtp-murdoch-international-2027"
-  },
-  {
-    "titre": "Bourses gouvernementales de la République tchèque pour les pays en développement",
-    "seo_slug": "bourse-gouvernement-tcheque-2027-2028",
-    "organisation": "Ministère de l'Éducation, de la Jeunesse et des Sports de la République tchèque (MŠMT)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-09-30",
-    "deadline_texte": "30 septembre 2026 (date limite de soumission du formulaire électronique de candidature)",
-    "niveau_etudes": [
-      "Master",
-      "Doctorat"
-    ],
-    "domaines": [
-      "Domaines sélectionnés (voir liste des programmes)"
-    ],
-    "pays_eligibles": [
-      "Bosnie-Herzégovine",
-      "Géorgie",
-      "Ukraine",
-      "Bélarus (forces démocratiques)",
-      "Éthiopie",
-      "Gabon",
-      "Mauritanie",
-      "Zambie",
-      "Bangladesh",
-      "Cambodge",
-      "Palestine",
-      "Guatemala",
-      "Honduras"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Tchèque ou anglais (selon le programme)",
-    "documents_requis": [
-      "Formulaire de candidature électronique",
-      "Lettre de motivation",
-      "Tests obligatoires (test de prérequis généraux pour les études en tchèque, test d'anglais pour les études en anglais)"
-    ],
-    "avantages": [
-      "Bourse couvrant la durée standard des études à temps plein",
-      "Cours préparatoire d'un an en langue tchèque (pour les programmes en tchèque, partie de la bourse)",
-      "Frais de scolarité pris en charge",
-      "Frais de subsistance (montant non précisé)"
-    ],
-    "eligibilite": [
-      "Être citoyen d'un des pays éligibles",
-      "Pour le master : avoir complété un programme de bachelor",
-      "Pour le doctorat : avoir complété un programme de master",
-      "Pour les études en anglais : réussir un test d'anglais en ligne",
-      "Ne pas être citoyen tchèque, ni citoyen de l'Union européenne, ni étranger avec permis de séjour permanent en République tchèque"
-    ],
-    "procedure_etapes": [
-      "1. Lire attentivement les directives (Guidelines) pour l'octroi des bourses",
-      "2. S'inscrire sur le portail studyin.gov.cz",
-      "3. Remplir le formulaire de candidature électronique",
-      "4. Rédiger la lettre de motivation",
-      "5. Passer les tests obligatoires (test de prérequis généraux et, pour les études en anglais, test d'anglais)",
-      "6. Soumettre la candidature avant le 30 septembre 2026"
-    ],
-    "contacts": [
-      "registr@dzscz",
-      "omv@msmtcz"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature électronique",
-        "url": "https://studyin.gov.cz/"
-      },
-      {
-        "label": "Directives (Guidelines) en anglais",
-        "url": "/file/66692/"
-      },
-      {
-        "label": "Directives (Dispozice) en tchèque",
-        "url": "/file/66700/"
-      },
-      {
-        "label": "FAQ 2026",
-        "url": "/file/66681/"
-      },
-      {
-        "label": "Liste des programmes de master sélectionnés (en anglais)",
-        "url": "/file/66686/"
-      },
-      {
-        "label": "Liste des programmes de doctorat sélectionnés (en anglais)",
-        "url": "/file/66685/"
-      },
-      {
-        "label": "Liste des domaines d'études sélectionnés (en tchèque)",
-        "url": "/file/66684/"
-      },
-      {
-        "label": "Institut de langue et d'études préparatoires, Université Charles",
-        "url": "https://ujop.cuni.cz/"
-      },
-      {
-        "label": "Ministère de l'Éducation, de la Jeunesse et des Sports",
-        "url": "https://msmt.gov.cz/"
-      },
-      {
-        "label": "Ministère des Affaires étrangères",
-        "url": "https://mzv.gov.cz/"
-      },
-      {
-        "label": "Ministère de la Santé",
-        "url": "https://mzd.gov.cz/"
-      },
-      {
-        "label": "Protection des données personnelles (en tchèque)",
-        "url": "https://msmt.gov.cz/ministerstvo/zakladni-informace-o-zpracovani-osobnich-udaju-ministerstvem?lang=1"
-      },
-      {
-        "label": "Protection des données personnelles (en anglais)",
-        "url": "https://msmt.gov.cz/contacts-and-informations/basic-information-about-personal-data-processing-by-the"
-      },
-      {
-        "label": "Protection des données personnelles à l'Agence nationale tchèque pour l'éducation internationale (en tchèque)",
-        "url": "https://www.dzs.cz/zpracovani-osobnich-udaju"
-      },
-      {
-        "label": "Protection des données personnelles à l'Agence nationale tchèque pour l'éducation internationale (en anglais)",
-        "url": "https://www.dzs.cz/sites/default/files/2020-09/Principles%20of%20personal%20data%20protection_aktualizovan%C3%A9%20%C4%8Dervenec%202020.pdf"
-      }
-    ],
-    "mots_cles": [
-      "bourse République tchèque",
-      "bourse gouvernementale tchèque",
-      "études en République tchèque",
-      "bourse master République tchèque",
-      "bourse doctorat République tchèque",
-      "bourse pays en développement",
-      "bourse 2027 2028",
-      "MŠMT bourse"
-    ],
-    "lien_candidature": "https://studyin.gov.cz/",
-    "source_url": "https://archiv.msmt.gov.cz/eu-and-international-affairs/government-scholarships-developing-countries?lang=2&fbclid=IwY2xjawUe1EJwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeoU6KKbnHaSOil2-2WWZvbLjP0QiK4TpYz_YeHNxcT-SKMJYkU27NEzAWcCo_aem_wF5nl8PIhcLh3V9tc0TKYA",
-    "statut": "ouvert",
-    "resume": "Le gouvernement de la République tchèque offre des bourses complètes aux étudiants ressortissants de pays en développement sélectionnés pour poursuivre des études de master ou de doctorat dans les universités publiques tchèques. Les candidatures pour l'année académique 2027/2028 sont ouvertes du 21 août au 30 septembre 2026. Les bourses couvrent la durée standard des études, avec un cours préparatoire de tchèque pour les programmes en langue tchèque. Les candidats doivent remplir un formulaire électronique et passer des tests obligatoires.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-22T03:28:28",
-    "slug": "bourse-gouvernement-tcheque-2027-2028"
-  },
-  {
-    "titre": "Fondation Rosa Luxemburg : Programme de bourses pour doctorants internationaux",
-    "seo_slug": "bourse-rosa-luxemburg-doctorat-allemagne",
-    "organisation": "Rosa Luxemburg Foundation",
-    "montant": 1520,
-    "devise": "EUR",
-    "type_financement": "bourse mensuelle",
-    "deadline": "2026-10-01",
-    "deadline_texte": "1er octobre de chaque année",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Toutes disciplines sauf médicales"
-    ],
-    "pays_eligibles": [
-      "Tous pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Allemand (B2 minimum)",
-    "documents_requis": [
-      "Diplôme de très bon niveau",
-      "Preuve d'acceptation dans une université allemande",
-      "Preuve de compétence en allemand B2",
-      "Preuve d'engagement social"
-    ],
-    "avantages": [
-      "Allocation mensuelle de 1400 EUR",
-      "Allocation de mobilité de 100 EUR",
-      "Allocation forfaitaire supplémentaire de 20 EUR"
-    ],
-    "eligibilite": [
-      "Doctorants internationaux particulièrement talentueux",
-      "Acceptation dans un établissement d'enseignement supérieur public ou accrédité en Allemagne ou à l'étranger",
-      "Supervision par un professeur d'université en Allemagne",
-      "Engagement social en accord avec les valeurs de la Fondation Rosa Luxemburg",
-      "Ne pas avoir séjourné en Allemagne plus de 15 mois au moment de la candidature (sauf études antérieures ou début du doctorat/séjour de recherche il y a plus de 15 mois)"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les conditions d'éligibilité et les documents requis.",
-      "2. Préparer le dossier de candidature (diplômes, preuve d'acceptation, preuve de langue, preuve d'engagement social).",
-      "3. Soumettre la candidature via le portail DAAD avant le 1er octobre.",
-      "4. Consulter les informations supplémentaires sur le site de la Fondation Rosa Luxemburg."
-    ],
-    "contacts": [
-      "Rosa Luxemburg Foundation, Straße der Pariser Kommune 8A, 10243 Berlin, Germany",
-      "+49 (228) 882-180"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000220"
-      },
-      {
-        "label": "Visitez le site :",
-        "url": "https://www.rosalux.de/stiftung/studienwerk/stipendien/promotionsstipendium"
-      },
-      {
-        "label": "Site officiel de la Fondation Rosa Luxemburg",
-        "url": "https://www.rosalux.de/stiftung/studienwerk/stipendien/promotionsstipendium"
-      },
-      {
-        "label": "Page d'information sur la procédure de candidature",
-        "url": "https://www.rosalux.de/en/foundation/studienwerk/scholarships/doctoral-scholarship"
-      },
-      {
-        "label": "Informations importantes pour les candidats aux bourses DAAD",
-        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
-      },
-      {
-        "label": "Version PDF de l'annonce",
-        "url": "https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database.pdf?detail=10000220"
-      },
-      {
-        "label": "Exigences techniques du portail",
-        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
-      }
-    ],
-    "mots_cles": [
-      "bourse doctorat allemagne",
-      "fondation rosa luxemburg",
-      "bourse internationale doctorat",
-      "bourse DAAD",
-      "doctorat allemagne financement"
-    ],
-    "lien_candidature": "https://www.rosalux.de/stiftung/studienwerk/stipendien/promotionsstipendium",
-    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000220",
-    "statut": "ouvert",
-    "resume": "La Fondation Rosa Luxemburg propose un programme de bourses pour doctorants internationaux souhaitant réaliser leur thèse en Allemagne. D'une durée maximale de 3 ans, la bourse comprend une allocation mensuelle de 1400 EUR, une allocation de mobilité de 100 EUR et un forfait de 20 EUR. Les candidats doivent être acceptés dans une université allemande, justifier d'un très bon diplôme, d'un engagement social et d'un niveau d'allemand B2. La date limite de candidature est le 1er octobre de chaque année.",
-    "adresse": "Rosa Luxemburg Foundation Straße der Pariser Kommune 8A 10243 Berlin Germany",
-    "extrait_le": "2026-06-15T02:25:10",
-    "slug": "bourse-rosa-luxemburg-doctorat-allemagne"
-  },
-  {
-    "titre": "Inscription au 6e Forum mondial des données des Nations Unies (UNWDF) 2026",
-    "seo_slug": "unwdf-2026-inscription-riyadh",
-    "organisation": "United Nations World Data Forum (UNWDF)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "aucun financement (participation à titre individuel)",
-    "deadline": "2026-10-01",
-    "deadline_texte": "1 octobre 2026 (date limite d'inscription en ligne)",
-    "niveau_etudes": [],
-    "domaines": [
-      "Données",
-      "Statistiques",
-      "Développement durable"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Scan du passeport ou de la carte d'identité nationale",
-      "Photo de profil (format PNG, style passeport)",
-      "Documents supplémentaires pour vérifier les informations professionnelles (si nécessaire)",
-      "Documents supplémentaires pour le visa (si nécessaire)"
-    ],
-    "avantages": [
-      "Réductions exclusives sur les billets d'avion pour les participants approuvés (sous réserve de disponibilité et de conditions de réservation)",
-      "Participation en personne à l'événement",
-      "Possibilité de participer à distance si la candidature n'est pas approuvée"
-    ],
-    "eligibilite": [
-      "Disposer d'une adresse e-mail valide pour créer un compte INDICO",
-      "Fournir un scan d'une pièce d'identité (passeport ou carte d'identité nationale)",
-      "Fournir des informations personnelles et professionnelles (organisation, poste, coordonnées)",
-      "Fournir les informations de visa requises pour le voyage (le cas échéant)"
-    ],
-    "procedure_etapes": [
-      "1. Avant de commencer : préparer une adresse e-mail valide, un scan de pièce d'identité, les informations personnelles et professionnelles, et les informations de visa si nécessaire.",
-      "2. Accéder au formulaire d'inscription 'UNWDF 2026 Registration to attend in person' sur la plateforme INDICO des Nations Unies : https://indico.un.org/event/1021645/registrations/",
-      "3. Sélectionner 'Log in to proceed'.",
-      "4. Créer un compte INDICO si vous n'en avez pas : cliquer sur 'create one here', vérifier votre adresse e-mail, puis vous connecter.",
-      "5. Remplir le formulaire d'inscription avec toutes les informations requises : informations personnelles, professionnelles et de contact ; informations sur l'organisation ; informations de voyage, visa et participation ; informations diverses.",
-      "6. Téléverser les documents requis : scan du passeport ou de la carte d'identité, photo de profil (PNG, style passeport), et tout document supplémentaire si nécessaire.",
-      "7. Soumettre le formulaire en cliquant sur 'Submit Registration'.",
-      "8. Recevoir un e-mail de confirmation de soumission.",
-      "9. Attendre l'examen de la candidature par le Secrétariat de l'UNWDF et le pays hôte ; les inscriptions sont examinées et approuvées au fur et à mesure pour assurer une représentation équilibrée.",
-      "10. Si approuvé, recevoir une confirmation avec plus d'informations ; si non approuvé, recevoir des informations sur la participation à distance.",
-      "11. Les candidats seront informés de la décision au plus tard le 9 octobre 2026."
-    ],
-    "contacts": [
-      "dataforum@un.org",
-      "support.accreditation@un.org",
-      "Events.Logistics@stats.gov.sa"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Page d'inscription UNWDF 2026 (INDICO)",
-        "url": "https://indico.un.org/event/1021645/registrations/"
-      },
-      {
-        "label": "Aide INDICO (contact)",
-        "url": "https://conf.unog.ch/indico-help/en/contact"
-      },
-      {
-        "label": "Liste de diffusion UNWDF",
-        "url": "https://mdirector-pages.com/unwdf_mailing_list"
-      }
-    ],
-    "mots_cles": [
-      "UNWDF 2026",
-      "Forum mondial des données",
-      "inscription UNWDF",
-      "Riyadh 2026",
-      "Nations Unies données",
-      "conférence statistiques",
-      "INDICO inscription",
-      "événement données Arabie Saoudite"
-    ],
-    "lien_candidature": "https://indico.un.org/event/1021645/registrations/",
-    "source_url": "https://unstats.un.org/unsd/undataforum/registration/?fbclid=IwY2xjawUk6YVleHRuA2FlbQIxMABwZG9mBWJyaWQRMVVmck40SUVqVWVBZlFwTjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEedTbKlAWggSZIvTQ3eSDTwJ-Jrhzg_JiepEPAlTP032mBGCmFgy_ONB-_cd8_aem_vRfB7KMaxZy3W5Gg3nngjg",
-    "statut": "ouvert",
-    "resume": "Le 6e Forum mondial des données des Nations Unies (UNWDF) se tiendra en personne du 9 au 12 novembre 2026 à Riyad, en Arabie saoudite. Les inscriptions sont ouvertes du 30 juin 2026 au 1er octobre 2026 via la plateforme INDICO des Nations Unies. Les participants doivent créer un compte INDICO, remplir un formulaire détaillé et fournir des documents justificatifs. Les candidatures sont examinées au fur et à mesure, et les décisions seront communiquées au plus tard le 9 octobre 2026. Des réductions exclusives sur les billets d'avion sont disponibles pour les participants approuvés.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-26T18:11:42",
-    "slug": "unwdf-2026-inscription-riyadh"
-  },
-  {
-    "titre": "Bourse de visite de recherche - Microbiology Society",
-    "seo_slug": "bourse-visite-recherche-microbiologie-2026",
-    "organisation": "Microbiology Society",
-    "montant": 3000,
-    "devise": "GBP",
-    "type_financement": "bourse partielle",
-    "deadline": "2026-10-01",
-    "deadline_texte": "1er octobre 2026 (deuxième tour). Premier tour : 1er mai 2026.",
-    "niveau_etudes": [
-      "Doctorat",
-      "Post-doctorat"
-    ],
-    "domaines": [
-      "Microbiologie",
-      "Sciences de l'infection"
-    ],
-    "pays_eligibles": [
-      "Monde entier"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Lettre de soutien du superviseur ou chef de département",
-      "Lettre d'invitation du laboratoire d'accueil",
-      "Coûts détaillés",
-      "Formulaire de candidature en ligne"
-    ],
-    "avantages": [
-      "Frais de voyage",
-      "Hébergement",
-      "Frais de subsistance",
-      "Consommables de projet"
-    ],
-    "eligibilite": [
-      "Membre payant à jour (Full, Full Concessionary ou Postgraduate Student)",
-      "Minimum un an d'adhésion (deux paiements consécutifs)",
-      "Ne pas avoir reçu de bourse de ce programme l'année civile précédente",
-      "Être inscrit en doctorat ou être qualifié PhD et employé en poste postdoctoral dans une université, hôpital ou institut de recherche",
-      "Les membres Full ou Full Concessionary dans les cinq ans suivant leur premier poste de lecturer sont également éligibles",
-      "La visite doit se dérouler dans un autre laboratoire que celui d'origine",
-      "Durée de la visite : 4 semaines à 3 mois"
-    ],
-    "procedure_etapes": [
-      "Vérifier l'éligibilité et lire les règles de la bourse",
-      "Préparer une lettre de soutien du superviseur ou chef de département",
-      "Obtenir une lettre d'invitation du laboratoire d'accueil",
-      "Soumettre la candidature en ligne via Mi Society",
-      "Fournir tous les documents supplémentaires requis",
-      "Envoyer la lettre d'invitation de l'hôte par email à [email protected]"
-    ],
-    "contacts": [
-      "[email protected]"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://tms-portal.uksouth01.umbraco.io/account/research-visit-grant-application/"
-      },
-      {
-        "label": "Règles de la bourse",
-        "url": "https://microbiologysociety.org/grants-prizes/all-grants/rules-for-grants.html"
-      }
-    ],
-    "mots_cles": [
-      "bourse microbiologie",
-      "bourse visite recherche",
-      "microbiology society grant",
-      "bourse doctorat",
-      "bourse postdoctorat",
-      "financement recherche",
-      "bourse internationale",
-      "bourse 2026"
-    ],
-    "lien_candidature": "https://tms-portal.uksouth01.umbraco.io/account/research-visit-grant-application/",
-    "source_url": "https://microbiologysociety.org/grants-prizes/all-grants/research-visit-grant.html?fbclid=IwY2xjawUmh09leHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeoESkrOKlRoZf0YUaT3QJNTUR5YC0BduQ9vkCdxCeW6p3912aleEV1GRoWqo_aem_hJdUrIYEKYiovepK2U6UZA",
-    "statut": "ouvert",
-    "resume": "La Microbiology Society offre des bourses pouvant atteindre 3 000 £ pour financer des visites de recherche de courte durée (un à trois mois) dans un autre laboratoire. Ce programme soutient des projets innovants au sein de collaborations existantes ou de nouvelles initiatives. Les candidats doivent être membres payants depuis au moins un an et être doctorants ou post-doctorants. Les candidatures sont évaluées deux fois par an, avec des dates limites au 1er mai et au 1er octobre.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-27T23:36:15",
-    "slug": "bourse-visite-recherche-microbiologie-2026"
-  },
-  {
-    "titre": "Bourse doctorale de l'Université Massey",
-    "seo_slug": "bourse-doctorale-massey-2026",
-    "organisation": "Massey University",
-    "montant": 90000,
-    "devise": "NZD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-10-01",
-    "deadline_texte": "1 octobre 2026",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Tous domaines"
-    ],
-    "pays_eligibles": [
-      "Tous pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de soutien du superviseur (Supervisor Support Template)",
-      "Plan de recherche (200-1000 mots)",
-      "Relevé de notes",
-      "Preuve d'admission ou d'inscription au doctorat"
-    ],
-    "avantages": [
-      "Bourse de 90 000 $ (probablement dollars néo-zélandais) sur trois ans",
-      "Prise en charge des frais de scolarité"
-    ],
-    "eligibilite": [
-      "Être inscrit dans les 12 premiers mois d'un doctorat ou avoir une offre d'admission au doctorat à l'Université Massey",
-      "Avoir une moyenne pondérée cumulative (GPA) de 7,0 ou plus",
-      "Mener des recherches sur un sujet d'importance stratégique pour l'Université",
-      "Accepter les conditions de la bourse telles que décrites dans le règlement"
-    ],
-    "procedure_etapes": [
-      "Vérifier les critères d'éligibilité et s'assurer d'avoir une offre d'admission ou d'être inscrit dans les 12 premiers mois du doctorat.",
-      "Préparer un plan de recherche (200-1000 mots) incluant les domaines disciplinaires clés, les objectifs, l'importance de l'étude et les cadres théoriques et méthodologiques.",
-      "Demander à votre superviseur principal de remplir le modèle de soutien du superviseur (Supervisor Support Template).",
-      "Se connecter au portail étudiant (Student Portal) et accéder à l'onglet Bourses.",
-      "Télécharger le plan de recherche et le formulaire de soutien du superviseur complété dans le portail étudiant.",
-      "Soumettre la candidature avant la date limite du 1 octobre 2026."
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Portail étudiant (connexion)",
-        "url": "https://smsportal.massey.ac.nz/sitsvision/wrd/siw_lgn"
-      },
-      {
-        "label": "Modèle de soutien du superviseur (PDF)",
-        "url": "/documents/2250/Supervisor_Support_Template_Massey_University_Doctoral_Scholarship.pdf"
-      },
-      {
-        "label": "Règlement de la bourse doctorale (PDF)",
-        "url": "/documents/1464/MU_Doctoral_Scholarship.pdf"
-      },
-      {
-        "label": "Informations sur les doctorats et doctorats professionnels",
-        "url": "/study/about-postgraduate-study/phds-and-professional-doctorates/"
-      },
-      {
-        "label": "Candidature aux études à Massey",
-        "url": "/study/apply-to-study/"
-      }
-    ],
-    "mots_cles": [
-      "bourse doctorale",
-      "Massey University",
-      "Nouvelle-Zélande",
-      "bourse PhD",
-      "financement doctorat",
-      "bourse 2026",
-      "études en Nouvelle-Zélande",
-      "bourse complète"
-    ],
-    "lien_candidature": "https://smsportal.massey.ac.nz/sitsvision/wrd/siw_lgn",
-    "source_url": "https://www.massey.ac.nz/study/scholarships-and-awards/massey-university-doctoral-scholarship/?fbclid=IwY2xjawUqDDpleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLrkSYHO6vilH4yhr9hbuakBJB_a21VX_Ivw7jZzlLdaRa32W6UWNH6N2m9U_aem_GXhUFfvGcvy0Irc83OIjiw",
-    "statut": "ouvert",
-    "resume": "La bourse doctorale de l'Université Massey offre un soutien financier de 90 000 $ sur trois ans, ainsi que la prise en charge des frais de scolarité, aux étudiants exceptionnels poursuivant un doctorat. Elle est ouverte aux candidats inscrits dans les 12 premiers mois d'un programme doctoral ou ayant une offre d'admission, avec une moyenne pondérée cumulative de 7,0 ou plus. Les candidatures sont acceptées du 1er août au 1er octobre 2026. Cette bourse vise à récompenser l'excellence académique et à soutenir des recherches d'importance stratégique pour l'Université.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-30T15:40:08",
-    "slug": "bourse-doctorale-massey-2026"
-  },
-  {
     "titre": "Bourse du Sommet de l'Action des Jeunes 2027",
     "seo_slug": "bourse-yas-2027-berlin",
     "organisation": "Centre for Diplomatic Advancement (CDA)",
@@ -2696,6 +2042,98 @@
     "slug": "bourses-universite-auckland-international-2026"
   },
   {
+    "titre": "Bourses Jean Monnet du Centre Robert Schuman",
+    "seo_slug": "bourse-jean-monnet-postdoctorat-2027",
+    "organisation": "Centre Robert Schuman d'études avancées, Institut universitaire européen (IUE)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-23",
+    "deadline_texte": "23 octobre 2026 à 14h00 (CEST)",
+    "niveau_etudes": [
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Études européennes",
+      "Sciences sociales",
+      "Recherche"
+    ],
+    "pays_eligibles": [
+      "Toutes nationalités"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (recommandé) ou autre langue",
+    "documents_requis": [
+      "CV avec liste de publications (PDF)",
+      "Lettre de motivation (1 à 2 pages, PDF)",
+      "Proposition de recherche (2 à 4 pages, PDF)",
+      "Copie du passeport (JPG)",
+      "Deux lettres de recommandation (soumises en ligne par les référents)"
+    ],
+    "avantages": [
+      "Bourse d'un an",
+      "Participation à la vie académique du Centre",
+      "Collaboration avec des chercheurs et postdoctorants",
+      "Possibilité de participer au programme postdoctoral de l'IUE"
+    ],
+    "eligibilite": [
+      "Avoir obtenu un doctorat plus de 5 ans avant le début de la bourse (pour 2027-2028, doctorat obtenu avant le 1er septembre 2022)",
+      "Projet de recherche s'inscrivant dans les thèmes du Centre",
+      "Toutes nationalités éligibles",
+      "Les candidats polonais titulaires d'un doctorat depuis plus de 5 ans sont éligibles à une bourse spécifique du ministère polonais"
+    ],
+    "procedure_etapes": [
+      "1. Enregistrer votre candidature en ligne le plus tôt possible (fournir vos informations personnelles et celles de vos référents)",
+      "2. Les référents soumettent leurs lettres de recommandation en ligne avant la date limite",
+      "3. Compléter et soumettre la candidature en ligne avec les pièces justificatives avant le 23 octobre 2026 à 14h00 CEST",
+      "4. Les candidatures sont examinées sur la base du projet de recherche et du CV"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page du programme de bourses",
+        "url": "https://www.eui.eu/apply?id=jean-monnet-fellowships"
+      },
+      {
+        "label": "Section Recherche du Centre Robert Schuman",
+        "url": "https://www.eui.eu/en/academic-units/robert-schuman-centre-for-advanced-studies/research-at-the-robert-schuman-centre-for-advanced-studies"
+      },
+      {
+        "label": "Programme Max Weber pour les études postdoctorales",
+        "url": "https://www.eui.eu/en/academic-units/max-weber-programme-for-postdoctoral-studies"
+      },
+      {
+        "label": "Déclaration de confidentialité - Candidatures et admissions - Postgraduate",
+        "url": "https://www.eui.eu/Documents/ServicesAdmin/AcademicService/DoctoralProgramme/PrivacyStatement-ApplicationsandAdmissions-Postgraduate.pdf"
+      },
+      {
+        "label": "Politique de protection des données de l'IUE",
+        "url": "https://www.eui.eu/Documents/AboutEUI/Organization/PresidentDecisionOnPrivacy.pdf"
+      },
+      {
+        "label": "Lignes directrices de l'IUE sur l'utilisation responsable de l'IA dans la recherche",
+        "url": "https://www.eui.eu/Documents/ServicesAdmin/DeanOfStudies/ResearchEthics/2024.06-Ethics-Commitee-EUI-GENAI-DIGITAL.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse Jean Monnet",
+      "post-doctorat",
+      "Centre Robert Schuman",
+      "IUE",
+      "bourse recherche",
+      "études européennes",
+      "bourse 2027-2028",
+      "bourse postdoctorale"
+    ],
+    "lien_candidature": "https://www.eui.eu/apply?id=jean-monnet-fellowships",
+    "source_url": "manuel",
+    "statut": "ouvert",
+    "resume": "Le Centre Robert Schuman d'études avancées offre jusqu'à 20 bourses Jean Monnet d'un an pour des chercheurs postdoctoraux ayant obtenu leur doctorat depuis plus de cinq ans. Les boursiers sont sélectionnés sur la base d'un projet de recherche et de leur CV, et doivent s'engager activement dans la vie académique du Centre. La date limite de candidature est le 23 octobre 2026 à 14h00 CEST. Toutes les nationalités sont éligibles, avec une opportunité spécifique pour les candidats polonais.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-05T01:07:49",
+    "slug": "bourse-jean-monnet-postdoctorat-2027"
+  },
+  {
     "titre": "Bourses de voyage de The Company of Biologists",
     "seo_slug": "bourse-voyage-biologistes-2026",
     "organisation": "The Company of Biologists",
@@ -3464,6 +2902,102 @@
     "imageUrl": null,
     "extrait_le": "2026-09-30T15:31:55",
     "slug": "bourse-agripreneur-cashew-2026"
+  },
+  {
+    "titre": "Bourse d'études supérieures NVIDIA",
+    "seo_slug": "bourse-nvidia-doctorat-2027",
+    "organisation": "NVIDIA",
+    "montant": 60000,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-30",
+    "deadline_texte": "30 octobre 2026 (y compris les lettres de recommandation)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Informatique",
+      "Génie informatique",
+      "Architecture des systèmes",
+      "Génie électrique",
+      "Domaines connexes"
+    ],
+    "pays_eligibles": [
+      "États-Unis",
+      "Canada",
+      "Allemagne",
+      "Suède",
+      "Finlande",
+      "Suisse",
+      "Israël",
+      "Taïwan",
+      "Singapour"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Proposition de recherche (2 pages max, plus bibliographie)",
+      "CV ou resume",
+      "2 à 3 lettres de recommandation (dont une de votre directeur de thèse)",
+      "Confirmation de disponibilité pour un stage d'été en personne"
+    ],
+    "avantages": [
+      "Financement de recherche jusqu'à 60 000 $ par bourse",
+      "Collaboration avec des chercheurs NVIDIA",
+      "Stage d'été en personne obligatoire",
+      "Présentation à la GTC San Jose"
+    ],
+    "eligibilite": [
+      "Avoir complété sa première année d'études doctorales avant de postuler",
+      "Être inscrit en doctorat à temps plein et actif pendant les neuf mois de l'année de bourse",
+      "Ne pas prévoir d'obtenir son diplôme avant la fin de l'année universitaire de la bourse",
+      "Être disponible pour un stage d'été en personne dans un bureau de recherche NVIDIA éligible avant le début de l'année de bourse",
+      "Les employés à temps plein de NVIDIA et les membres de leur famille immédiate ne peuvent pas participer",
+      "L'université doit administrer la bourse (le paiement est versé à l'université, pas directement à l'étudiant)"
+    ],
+    "procedure_etapes": [
+      "1. Créer votre profil sur le portail de soumission",
+      "2. Ajouter vos documents de candidature (proposition de recherche, CV, confirmation de stage)",
+      "3. Inviter vos recommandateurs (demandez-leur d'abord, puis ajoutez leurs coordonnées dans le portail)",
+      "4. Vérifier chaque lettre de recommandation et relancer jusqu'à ce que toutes soient marquées comme 'complétées'",
+      "5. Soumettre la candidature finale une fois que tous les documents et lettres sont complets"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://webportalapp.com/sp/nvidia_grad_fellow_2027"
+      },
+      {
+        "label": "Page officielle de la bourse",
+        "url": "https://research.nvidia.com/graduate-fellowships"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://research.nvidia.com/graduate-fellowships#faq"
+      },
+      {
+        "label": "Rencontrer les boursiers",
+        "url": "https://research.nvidia.com/graduate-fellowships#fellows"
+      }
+    ],
+    "mots_cles": [
+      "bourse NVIDIA",
+      "bourse doctorat",
+      "bourse informatique",
+      "bourse génie électrique",
+      "bourse États-Unis",
+      "bourse 2027",
+      "financement recherche",
+      "bourse internationale"
+    ],
+    "lien_candidature": "https://webportalapp.com/sp/nvidia_grad_fellow_2027",
+    "source_url": "https://research.nvidia.com/graduate-fellowships?fbclid=IwY2xjawUvz-dleHRuA2FlbQIxMABwZG9mAWJyaWQRMVVHQVk4NmNDb2p0V3JtNEVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeshduBSSPXl6f806hkTaL9GOci8KpkC9F6BVwposvnU_H6Qt32yuaUHyRG_A_aem_iaJ8Zf_7d1o6qZ40y2yH_g",
+    "statut": "ouvert",
+    "resume": "La bourse d'études supérieures NVIDIA offre jusqu'à 60 000 $ par bourse pour financer des recherches doctorales qui font progresser le calcul accéléré. Les boursiers collaborent avec des chercheurs NVIDIA et effectuent un stage d'été en personne obligatoire avant l'année de la bourse. Les candidatures pour l'année 2027-2028 sont ouvertes du 30 septembre 2026 au 30 octobre 2026. Cette opportunité prestigieuse permet aux doctorants de travailler sur des projets de pointe et de présenter leurs recherches à la GTC San Jose.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-05T00:37:16",
+    "slug": "bourse-nvidia-doctorat-2027"
   },
   {
     "titre": "Bourses de recherche pour diplômés - Université de Melbourne",
@@ -7378,129 +6912,6 @@
     "resume": "L'Université de Tasmanie propose des bourses de recherche pour les étudiants de master et doctorat. Les candidats doivent trouver un projet et un superviseur, puis soumettre une proposition de recherche. Les bourses incluent une allocation de subsistance et une exonération des frais de scolarité. Les candidatures sont ouvertes toute l'année avec des dates limites spécifiques selon les projets.",
     "extrait_le": "2026-06-15T03:27:30",
     "slug": "bourse-recherche-tasmanie-2026"
-  },
-  {
-    "titre": "Appels à propositions du FIDA (Fonds international de développement agricole)",
-    "seo_slug": "appels-propositions-fida-2026",
-    "organisation": "FIDA (Fonds international de développement agricole)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "subvention",
-    "deadline": null,
-    "deadline_texte": "Dates limites variables selon l'appel (ex: 21 septembre 2026, 4 août 2026, 29 avril 2026, 24 avril 2026, 21 avril 2026, 27 novembre 2025, 21 novembre 2025, 14 novembre 2025, 10 novembre 2025, 29 septembre 2025)",
-    "niveau_etudes": [],
-    "domaines": [
-      "Agriculture",
-      "Développement rural",
-      "Sécurité alimentaire",
-      "Changement climatique",
-      "Technologies agricoles",
-      "Inclusion financière",
-      "Chaînes de valeur agricoles"
-    ],
-    "pays_eligibles": [
-      "Pays en développement",
-      "Afrique",
-      "Amérique latine et Caraïbes",
-      "Asie",
-      "Proche-Orient et Afrique du Nord",
-      "Europe et Asie centrale"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais (les appels sont publiés en anglais)",
-    "documents_requis": [],
-    "avantages": [
-      "Financement de subventions pour des projets de développement rural et agricole",
-      "Possibilité de partenariat avec le FIDA"
-    ],
-    "eligibilite": [
-      "Institutions éligibles (ONG, organisations de recherche, secteur privé, etc.)",
-      "Consortiums d'institutions",
-      "Partenaires de mise en œuvre"
-    ],
-    "procedure_etapes": [
-      "Consulter la liste des appels à propositions ouverts sur le site du FIDA",
-      "Lire les détails de l'appel spécifique qui vous intéresse",
-      "Préparer une proposition de projet conforme aux exigences de l'appel",
-      "Soumettre la proposition avant la date limite indiquée pour chaque appel"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Page des appels à propositions du FIDA",
-        "url": "https://www.ifad.org/en/w/calls-for-proposal"
-      },
-      {
-        "label": "Appel à propositions : Subvention du FIDA pour l'initiative « Tirer parti de l'évaluation de la performance du secteur rural du FIDA pour les politiques et les investissements »",
-        "url": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-ifad-grant-to-implement-the-initiative-leveraging-ifad-s-rural-sector-performance-assessment-for-policy-and-investment-"
-      },
-      {
-        "label": "Appel à propositions : Soutien du FIDA à la transformation des systèmes alimentaires au Sahel central",
-        "url": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-ifad-support-for-food-systems-transformation-in-the-central-sahel"
-      },
-      {
-        "label": "Appel à propositions : Subvention régionale « Sauvegarder les moyens de subsistance ruraux en Amérique latine et dans les Caraïbes »",
-        "url": "https://www.ifad.org/en/w/calls-for-proposal/regional-grant-safeguarding-rural-livelihoods-in-latin-america-and-the-caribbean"
-      },
-      {
-        "label": "Appel à propositions : Solutions d'intelligence artificielle pour des résultats d'impact",
-        "url": "https://www.ifad.org/en/w/calls-for-proposal/artificial-intelligence-solutions-for-impact-results"
-      },
-      {
-        "label": "Appel à propositions : Partenariats public-privé-producteurs pour des investissements durables dans l'irrigation en Afrique de l'Est et australe (4P4SID)",
-        "url": "https://www.ifad.org/en/w/calls-for-proposal/selecting-an-implementing-partner-for-the-grant-public-private-producer-partnerships-for-sustainable-irrigation-development-investments-in-east-and-southern-africa"
-      },
-      {
-        "label": "Appel à propositions : Partenaire de mise en œuvre pour la subvention « Preuves pour la mise à l'échelle des solutions AgTech et FinTech via le PoLG du FIDA »",
-        "url": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-selecting-an-implementing-partner-for-the-grant-evidence-for-scale-up-of-agtech-and-fintech-solutions-through-ifad-polg"
-      },
-      {
-        "label": "Appel à propositions : Renforcement de la chaîne de valeur d'exportation des noix de macadamia au Rwanda – ELPS",
-        "url": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-strengthening-the-macadamia-nuts-export-value-chain-in-rwanda-through-organic-certification-elps"
-      },
-      {
-        "label": "Appel à propositions : Renforcement de la chaîne de valeur du sésame au Bangladesh – ELPS",
-        "url": "https://www.ifad.org/en/w/calls-for-proposal/strengthening-sesame-value-chain-in-bangladesh-elps"
-      },
-      {
-        "label": "Appel à propositions : FO4IMPACT (Proche-Orient, Afrique du Nord, Europe et Asie centrale)",
-        "url": "https://www.ifad.org/en/w/calls-for-proposal/fo4impact-near-east-north-africa-europe-and-central-asia"
-      },
-      {
-        "label": "Appel à propositions : FO4IMPACT (Amérique latine et Caraïbes)",
-        "url": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-fo4impact-latin-american-and-the-caribbean-"
-      },
-      {
-        "label": "Appel à propositions : Accroître l'impact des transferts de fonds numériques dans le Maroc rural",
-        "url": "https://www.ifad.org/en/w/calls-for-proposal/call-for-proposals-increase-the-impact-of-digital-remittances-in-rural-morocco"
-      },
-      {
-        "label": "Demande de manifestation d'intérêt : Renforcement de la chaîne de valeur d'exportation des noix de macadamia au Rwanda",
-        "url": "https://www.ifad.org/en/w/calls-for-proposal/request-for-expression-of-interest-strengthening-the-macadamia-nut-export-value-chain-in-rwanda"
-      },
-      {
-        "label": "49e session du Conseil des gouverneurs",
-        "url": "https://www.ifad.org/en/w/events/governing-council-49"
-      }
-    ],
-    "mots_cles": [
-      "appel à propositions FIDA",
-      "subvention FIDA",
-      "financement développement rural",
-      "bourse agriculture",
-      "FIDA 2026",
-      "appels à projets agricoles",
-      "subvention sécurité alimentaire",
-      "financement ONG",
-      "FIDA subventions"
-    ],
-    "lien_candidature": "https://www.ifad.org/en/w/calls-for-proposal",
-    "source_url": "manuel",
-    "statut": "ouvert",
-    "resume": "Le FIDA (Fonds international de développement agricole) lance régulièrement des appels à propositions pour financer des projets de développement rural et agricole dans les pays en développement. Ces appels s'adressent à des institutions éligibles, telles que des ONG, des organisations de recherche ou des partenaires du secteur privé, qui peuvent soumettre des propositions pour obtenir des subventions allant de 1,2 à 2 millions de dollars. Les domaines couverts incluent l'agriculture, la sécurité alimentaire, le changement climatique, les technologies agricoles et l'inclusion financière. Les dates limites varient selon les appels, allant de novembre 2025 à septembre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-30T15:28:37",
-    "slug": "appels-propositions-fida-2026"
   },
   {
     "titre": "Programme de Bourses Karsh International",
@@ -17845,84 +17256,97 @@
     "slug": "bourse-vuw-postgraduate-international-2026"
   },
   {
-    "titre": "Admission au programme de diplôme international de l'Université Nationale Tsing Hua - Printemps 2027",
-    "seo_slug": "admission-nthu-printemps-2027",
-    "organisation": "National Tsing Hua University (NTHU)",
+    "titre": "Bourses de troisième cycle sur le campus - Mastercard Foundation Scholars Program",
+    "seo_slug": "bourse-mastercard-foundation-edinburgh-2026",
+    "organisation": "Mastercard Foundation Scholars Program at the University of Edinburgh",
     "montant": null,
     "devise": null,
-    "type_financement": "non spécifié",
-    "deadline": "2026-09-30",
-    "deadline_texte": "30 septembre 2026 à 15h00 (heure de Taïwan)",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
     "niveau_etudes": [
-      "Licence",
-      "Master",
-      "Doctorat"
+      "Master"
     ],
     "domaines": [
-      "Tous les domaines"
+      "Sécurité alimentaire",
+      "Systèmes énergétiques durables",
+      "Entrepreneuriat et innovation",
+      "Données, inégalités et société",
+      "Recherche opérationnelle",
+      "Durabilité environnementale",
+      "Finance et investissement climatiques",
+      "Environnement et développement"
     ],
-    "pays_eligibles": [
-      "International"
-    ],
+    "pays_eligibles": [],
     "age_maximum": null,
-    "langue_requise": "Anglais (probablement, mais non spécifié)",
-    "documents_requis": [
-      "Documents requis selon les directives de candidature"
-    ],
+    "langue_requise": "Anglais",
+    "documents_requis": [],
     "avantages": [
-      "Possibilité de bourse (résultats annoncés fin décembre 2026)"
+      "Frais de scolarité approuvés",
+      "Hébergement",
+      "Voyage",
+      "Indemnité de subsistance",
+      "Matériel d'étude",
+      "Programme de leadership climatique",
+      "Participation à la Climate Enterprise School (programme intensif d'une semaine en entrepreneuriat durable et innovation)",
+      "Soutien supplémentaire pour les étudiants handicapés (selon évaluation des besoins)",
+      "Soutien à la transition"
     ],
     "eligibilite": [
-      "Étudiants internationaux talentueux"
+      "Jeunes exceptionnels avec une grande expérience académique et de leadership",
+      "Ayant surmonté des obstacles à leur éducation",
+      "Engagés à poursuivre des études de troisième cycle enseignées (PGT) sur le campus",
+      "Les programmes de troisième cycle sur le campus sont sujets à changement"
     ],
-    "procedure_etapes": [
-      "1. Lire attentivement les directives de candidature",
-      "2. Préparer tous les documents requis",
-      "3. Télécharger et soumettre les documents via le système de candidature en ligne avant la date limite",
-      "4. Attendre les résultats d'admission (1er décembre 2026)",
-      "5. Attendre les résultats de bourse (fin décembre 2026)",
-      "6. Confirmer l'inscription avant le 20 décembre 2026"
-    ],
-    "contacts": [
-      "itc@my.nthu.edu.tw",
-      "oga@my.nthu.edu.tw",
-      "gac@my.nthu.edu.tw",
-      "dos@my.nthu.edu.tw"
-    ],
+    "procedure_etapes": [],
+    "contacts": [],
     "liens_utiles": [
       {
-        "label": "Système de candidature en ligne pour étudiants internationaux de NTHU",
-        "url": "https://nthuoga-admission.vm.nthu.edu.tw/student/index/portal"
+        "label": "MSc Food Security",
+        "url": "https://study.ed.ac.uk/programmes/postgraduate-taught/668-food-security"
       },
       {
-        "label": "Directives de candidature pour le programme de printemps 2027",
-        "url": "https://oga.site.nthu.edu.tw/var/file/524/1524/img/4520/140282968.pdf"
+        "label": "MSc Sustainable Energy Systems",
+        "url": "https://postgraduate.degrees.ed.ac.uk/index.php?r=site/view&id=22"
       },
       {
-        "label": "Page d'accueil de l'Office of Global Affairs",
-        "url": "https://oga.site.nthu.edu.tw/index.php?Lang=en"
+        "label": "MSc Entrepreneurship and Innovation",
+        "url": "https://www.business-school.ed.ac.uk/msc/entrepreneurship-innovation"
       },
       {
-        "label": "Contact",
-        "url": "https://oga.site.nthu.edu.tw/p/412-1524-17816.php?Lang=en"
+        "label": "MSc Data, Inequality and Society",
+        "url": "https://efi.ed.ac.uk/programmes/data-inequality-and-society/"
+      },
+      {
+        "label": "MSc Operational Research",
+        "url": "https://www.maths.ed.ac.uk/school-of-mathematics/studying-here/msc/or"
+      },
+      {
+        "label": "MSc Environmental Sustainability",
+        "url": "https://study.ed.ac.uk/programmes/postgraduate-taught/32-environmental-sustainability"
+      },
+      {
+        "label": "MSc Climate Change Finance and Investment",
+        "url": "https://www.business-school.ed.ac.uk/msc/climate-change"
       }
     ],
     "mots_cles": [
-      "bourse Taïwan",
-      "admission NTHU",
-      "programme international",
-      "printemps 2027",
-      "études à Taïwan",
-      "bourse universitaire",
-      "candidature en ligne"
+      "bourse Mastercard Foundation",
+      "bourse University of Edinburgh",
+      "bourse master Royaume-Uni",
+      "bourse études climat",
+      "bourse troisième cycle",
+      "bourse complète",
+      "bourse 2026",
+      "bourse pour jeunes leaders"
     ],
-    "lien_candidature": "https://nthuoga-admission.vm.nthu.edu.tw/student/index/portal",
-    "source_url": "https://oga.site.nthu.edu.tw/p/406-1524-311375,r8945.php?Lang=en",
-    "statut": "à venir",
-    "resume": "L'Université Nationale Tsing Hua (NTHU) à Taïwan ouvre les candidatures pour ses programmes de diplôme international au printemps 2027. Les étudiants internationaux talentueux sont invités à postuler du 3 août au 30 septembre 2026 (heure de Taïwan). Les candidats doivent soumettre leur dossier via le système de candidature en ligne et peuvent être éligibles à des bourses dont les résultats seront annoncés fin décembre 2026. Ne manquez pas cette opportunité de rejoindre une communauté académique dynamique.",
+    "lien_candidature": null,
+    "source_url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/on-campus-postgraduate-scholarships?fbclid=IwY2xjawUuhYZleHRuA2FlbQIxMABwZG9mAWJyaWQRMVd1REdyWW9ScFdTdzNDWFhzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeA2daDYnllYwFsQ28zGbni4ESl_kK59vnvoV6rqOBnXKACBbwfqKOSQPGr1k_aem_lA2WHnPhWP2ryhgUADVKTg",
+    "statut": "ouvert",
+    "resume": "Le programme de bourses Mastercard Foundation à l'Université d'Édimbourg offre une opportunité exceptionnelle aux jeunes leaders africains de poursuivre un master d'un an à temps plein sur le campus. Les boursiers bénéficient d'une prise en charge complète incluant les frais de scolarité, l'hébergement, le voyage, une indemnité de subsistance et le matériel d'étude, ainsi que d'un programme de leadership climatique et d'une école d'entreprise climatique. Ce programme vise à soutenir des individus engagés qui ont surmonté des obstacles à leur éducation et qui sont déterminés à avoir un impact positif dans leurs communautés. Les candidats doivent postuler à l'un des programmes de master spécifiques axés sur la durabilité et le climat.",
     "imageUrl": null,
-    "extrait_le": "2026-09-17T01:50:54",
-    "slug": "admission-nthu-printemps-2027"
+    "extrait_le": "2026-10-04T01:07:21",
+    "slug": "bourse-mastercard-foundation-edinburgh-2026"
   },
   {
     "titre": "Bourse internationale de premier cycle du vice-chancelier de l'UTS",
@@ -29788,6 +29212,740 @@
     "imageUrl": null,
     "extrait_le": "2026-09-22T02:27:49",
     "slug": "stage-oms-sante-geneve-2027"
+  },
+  {
+    "titre": "Admission au programme de diplôme international de l'Université Nationale Tsing Hua - Printemps 2027",
+    "seo_slug": "admission-nthu-printemps-2027",
+    "organisation": "National Tsing Hua University (NTHU)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2026-09-30",
+    "deadline_texte": "30 septembre 2026 à 15h00 (heure de Taïwan)",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement, mais non spécifié)",
+    "documents_requis": [
+      "Documents requis selon les directives de candidature"
+    ],
+    "avantages": [
+      "Possibilité de bourse (résultats annoncés fin décembre 2026)"
+    ],
+    "eligibilite": [
+      "Étudiants internationaux talentueux"
+    ],
+    "procedure_etapes": [
+      "1. Lire attentivement les directives de candidature",
+      "2. Préparer tous les documents requis",
+      "3. Télécharger et soumettre les documents via le système de candidature en ligne avant la date limite",
+      "4. Attendre les résultats d'admission (1er décembre 2026)",
+      "5. Attendre les résultats de bourse (fin décembre 2026)",
+      "6. Confirmer l'inscription avant le 20 décembre 2026"
+    ],
+    "contacts": [
+      "itc@my.nthu.edu.tw",
+      "oga@my.nthu.edu.tw",
+      "gac@my.nthu.edu.tw",
+      "dos@my.nthu.edu.tw"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Système de candidature en ligne pour étudiants internationaux de NTHU",
+        "url": "https://nthuoga-admission.vm.nthu.edu.tw/student/index/portal"
+      },
+      {
+        "label": "Directives de candidature pour le programme de printemps 2027",
+        "url": "https://oga.site.nthu.edu.tw/var/file/524/1524/img/4520/140282968.pdf"
+      },
+      {
+        "label": "Page d'accueil de l'Office of Global Affairs",
+        "url": "https://oga.site.nthu.edu.tw/index.php?Lang=en"
+      },
+      {
+        "label": "Contact",
+        "url": "https://oga.site.nthu.edu.tw/p/412-1524-17816.php?Lang=en"
+      }
+    ],
+    "mots_cles": [
+      "bourse Taïwan",
+      "admission NTHU",
+      "programme international",
+      "printemps 2027",
+      "études à Taïwan",
+      "bourse universitaire",
+      "candidature en ligne"
+    ],
+    "lien_candidature": "https://nthuoga-admission.vm.nthu.edu.tw/student/index/portal",
+    "source_url": "https://oga.site.nthu.edu.tw/p/406-1524-311375,r8945.php?Lang=en",
+    "statut": "fermé",
+    "resume": "L'Université Nationale Tsing Hua (NTHU) à Taïwan ouvre les candidatures pour ses programmes de diplôme international au printemps 2027. Les étudiants internationaux talentueux sont invités à postuler du 3 août au 30 septembre 2026 (heure de Taïwan). Les candidats doivent soumettre leur dossier via le système de candidature en ligne et peuvent être éligibles à des bourses dont les résultats seront annoncés fin décembre 2026. Ne manquez pas cette opportunité de rejoindre une communauté académique dynamique.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-17T01:50:54",
+    "slug": "admission-nthu-printemps-2027"
+  },
+  {
+    "titre": "Programme de bourses Mastercard Foundation Scholars à l'Université de Pretoria",
+    "seo_slug": "bourse-mastercard-foundation-pretoria-2027",
+    "organisation": "Mastercard Foundation & University of Pretoria",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-09-30",
+    "deadline_texte": "30 septembre 2026 (date limite pour les candidatures des étudiants de premier cycle, honneurs et master). Pour les candidatures à l'Université de Pretoria : premier cycle le 31 août 2026, postgraduate le 30 septembre 2026.",
+    "niveau_etudes": [
+      "Licence",
+      "Honours",
+      "Master"
+    ],
+    "domaines": [],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature complété (undergraduate ou postgraduate)",
+      "Preuve de candidature à l'Université de Pretoria",
+      "Documents justificatifs requis (non spécifiés)"
+    ],
+    "avantages": [
+      "Bourse complète (frais de scolarité, frais de subsistance, etc.)",
+      "Programme de développement du leadership",
+      "Accompagnement et mentorat"
+    ],
+    "eligibilite": [
+      "Être un jeune africain confronté à des défis socio-économiques importants, y compris les réfugiés, les personnes déplacées internes (PDI) et les personnes handicapées.",
+      "Avoir postulé et été accepté à l'Université de Pretoria.",
+      "Faire preuve de qualités de leadership et d'un engagement envers le service communautaire (projets, activités scolaires, organisations religieuses).",
+      "Démontrer d'excellentes performances académiques et maintenir une moyenne élevée."
+    ],
+    "procedure_etapes": [
+      "1. Postuler d'abord à l'Université de Pretoria via le portail de candidature en ligne.",
+      "2. Télécharger et remplir le formulaire de candidature papier correspondant (undergraduate ou postgraduate).",
+      "3. Soumettre électroniquement la candidature à [email protected] avec tous les documents justificatifs.",
+      "4. Attendre la revue de la candidature et la notification du résultat.",
+      "5. Si éligible, participer à un entretien dans le cadre du processus de sélection."
+    ],
+    "contacts": [
+      "+27 (0)12 420 4297",
+      "[email protected]",
+      "[email protected]"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature à l'Université de Pretoria",
+        "url": "https://upnet.up.ac.za/upapply/signon.html"
+      },
+      {
+        "label": "Formulaire de candidature undergraduate 2027 (PDF)",
+        "url": "https://drupalwebprod-files.up.ac.za/Public/2026-04/Undergraduate%202027%20form.pdf?VersionId=g8EUc_j39M72ckx5q7B2wqzkDC6DrPSz"
+      },
+      {
+        "label": "Formulaire de candidature postgraduate 2027 (PDF)",
+        "url": "https://drupalwebprod-files.up.ac.za/Public/2026-04/Postgraduate%202027%20form.pdf?VersionId=wT9TyJp00LoHjEblzmWvtYNGOJptQU9i"
+      }
+    ],
+    "mots_cles": [
+      "bourse Mastercard Foundation",
+      "bourse Université de Pretoria",
+      "bourse Afrique 2027",
+      "bourse master Afrique du Sud",
+      "bourse premier cycle",
+      "bourse honneurs",
+      "bourse pour réfugiés",
+      "bourse pour personnes handicapées",
+      "programme de bourses",
+      "candidature bourse"
+    ],
+    "lien_candidature": "https://upnet.up.ac.za/upapply/signon.html",
+    "source_url": "https://www.up.ac.za/mastercard-foundation-scholars-program/how-apply?utm_id=97758_v0_s00_e0_tv2_a1den5f08gvbpa&fbclid=IwY2xjawUezhxwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeppW0jqa6sFXJ8E-un67XIfsyBSgThkPkQNDnLmGK7MuopZ32pZy4nr2VW5E_aem_VUQ580Xx1EMuf6cIEalMRQ",
+    "statut": "fermé",
+    "resume": "Le Programme de bourses Mastercard Foundation Scholars à l'Université de Pretoria offre une opportunité unique aux jeunes africains confrontés à des défis socio-économiques, y compris les réfugiés, les personnes déplacées internes et les personnes handicapées. Cette bourse complète couvre les frais de scolarité et de subsistance pour les études de premier cycle, honneurs et master. Les candidats doivent démontrer un leadership exceptionnel, un engagement communautaire et d'excellentes performances académiques. Les candidatures pour 2027 sont ouvertes jusqu'au 30 septembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-22T03:00:19",
+    "slug": "bourse-mastercard-foundation-pretoria-2027"
+  },
+  {
+    "titre": "Bourse de formation à la recherche (RTP) pour étudiants internationaux - Université Murdoch",
+    "seo_slug": "bourse-rtp-murdoch-international-2027",
+    "organisation": "Murdoch University",
+    "montant": 37000,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-09-30",
+    "deadline_texte": "30 septembre 2026",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Recherche"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne complété",
+      "Rapport d'un arbitre académique"
+    ],
+    "avantages": [
+      "Allocation de subsistance exonérée d'impôt de 37 000 AUD par an",
+      "Durée de 2 ans pour un master",
+      "Durée de 3,5 ans pour un doctorat"
+    ],
+    "eligibilite": [
+      "Être étudiant à temps plein",
+      "Répondre aux exigences d'admission du diplôme HDR requis (diplôme de premier cycle avec mention première classe ou deuxième classe supérieure, master par recherche, ou équivalent)",
+      "Posséder un diplôme de premier cycle avec mention première classe, H2A (ou équivalent) ou un master avec une composante significative de thèse"
+    ],
+    "procedure_etapes": [
+      "1. Compiler les documents requis",
+      "2. Soumettre votre candidature via le formulaire de candidature en ligne"
+    ],
+    "contacts": [
+      "graduateresearchdegrees@murdoch.edu.au"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://www.murdoch.edu.au/study/how-to-apply/apply-for-a-research-degree"
+      },
+      {
+        "label": "Rapport d'arbitre académique (PDF)",
+        "url": "https://cdn-blob.murdoch.edu.au/mu-website/mu-docs/librariesprovider5/default-document-library/academic-referee-report---international.pdf?sfvrsn=8d25318c_7"
+      },
+      {
+        "label": "Conditions du RTP 2027",
+        "url": "https://murdochuniversity.sharepoint.com/sites/PPM/Policies/Forms/Area.aspx?q=Research%20Training%20Program&viewid=5508fa5c%2D6abb%2D4991%2Db0ba%2Dc7267980041d&as=json&id=%2Fsites%2FPPM%2FPolicies%2FGraduate%20Research%20Degrees%20Australian%20Government%20Research%20Training%20Program%20Scholarship%20Policy%2Epdf&parent=%2Fsites%2FPPM%2FPolicies&parentview=7"
+      },
+      {
+        "label": "Site Web du gouvernement australien sur le RTP",
+        "url": "https://www.education.gov.au/research-block-grants/research-training-program"
+      },
+      {
+        "label": "Bureau de la recherche supérieure",
+        "url": "https://murdochuniversity.sharepoint.com/sites/GraduateResearchSchool"
+      }
+    ],
+    "mots_cles": [
+      "bourse Murdoch",
+      "bourse RTP",
+      "bourse recherche Australie",
+      "bourse master Australie",
+      "bourse doctorat Australie",
+      "bourse internationale Australie",
+      "financement recherche",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://www.murdoch.edu.au/study/how-to-apply/apply-for-a-research-degree",
+    "source_url": "https://www.murdoch.edu.au/study/scholarship/research-training-program-stipends-%28international-students%29?fbclid=IwY2xjawUez31wZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeoU6KKbnHaSOil2-2WWZvbLjP0QiK4TpYz_YeHNxcT-SKMJYkU27NEzAWcCo_aem_wF5nl8PIhcLh3V9tc0TKYA",
+    "statut": "fermé",
+    "resume": "L'Université Murdoch offre la bourse Research Training Program (RTP) pour les étudiants internationaux souhaitant poursuivre un master par recherche ou un doctorat en 2027. Cette bourse complète couvre une allocation de subsistance exonérée d'impôt de 37 000 AUD par an, pour une durée de 2 ans (master) ou 3,5 ans (doctorat). Les candidats doivent être admis à temps plein dans un programme HDR et posséder un diplôme de premier cycle avec mention première classe ou équivalent. Les candidatures sont ouvertes du 1er juillet au 30 septembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-22T03:05:59",
+    "slug": "bourse-rtp-murdoch-international-2027"
+  },
+  {
+    "titre": "Bourses gouvernementales de la République tchèque pour les pays en développement",
+    "seo_slug": "bourse-gouvernement-tcheque-2027-2028",
+    "organisation": "Ministère de l'Éducation, de la Jeunesse et des Sports de la République tchèque (MŠMT)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-09-30",
+    "deadline_texte": "30 septembre 2026 (date limite de soumission du formulaire électronique de candidature)",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Domaines sélectionnés (voir liste des programmes)"
+    ],
+    "pays_eligibles": [
+      "Bosnie-Herzégovine",
+      "Géorgie",
+      "Ukraine",
+      "Bélarus (forces démocratiques)",
+      "Éthiopie",
+      "Gabon",
+      "Mauritanie",
+      "Zambie",
+      "Bangladesh",
+      "Cambodge",
+      "Palestine",
+      "Guatemala",
+      "Honduras"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Tchèque ou anglais (selon le programme)",
+    "documents_requis": [
+      "Formulaire de candidature électronique",
+      "Lettre de motivation",
+      "Tests obligatoires (test de prérequis généraux pour les études en tchèque, test d'anglais pour les études en anglais)"
+    ],
+    "avantages": [
+      "Bourse couvrant la durée standard des études à temps plein",
+      "Cours préparatoire d'un an en langue tchèque (pour les programmes en tchèque, partie de la bourse)",
+      "Frais de scolarité pris en charge",
+      "Frais de subsistance (montant non précisé)"
+    ],
+    "eligibilite": [
+      "Être citoyen d'un des pays éligibles",
+      "Pour le master : avoir complété un programme de bachelor",
+      "Pour le doctorat : avoir complété un programme de master",
+      "Pour les études en anglais : réussir un test d'anglais en ligne",
+      "Ne pas être citoyen tchèque, ni citoyen de l'Union européenne, ni étranger avec permis de séjour permanent en République tchèque"
+    ],
+    "procedure_etapes": [
+      "1. Lire attentivement les directives (Guidelines) pour l'octroi des bourses",
+      "2. S'inscrire sur le portail studyin.gov.cz",
+      "3. Remplir le formulaire de candidature électronique",
+      "4. Rédiger la lettre de motivation",
+      "5. Passer les tests obligatoires (test de prérequis généraux et, pour les études en anglais, test d'anglais)",
+      "6. Soumettre la candidature avant le 30 septembre 2026"
+    ],
+    "contacts": [
+      "registr@dzscz",
+      "omv@msmtcz"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature électronique",
+        "url": "https://studyin.gov.cz/"
+      },
+      {
+        "label": "Directives (Guidelines) en anglais",
+        "url": "/file/66692/"
+      },
+      {
+        "label": "Directives (Dispozice) en tchèque",
+        "url": "/file/66700/"
+      },
+      {
+        "label": "FAQ 2026",
+        "url": "/file/66681/"
+      },
+      {
+        "label": "Liste des programmes de master sélectionnés (en anglais)",
+        "url": "/file/66686/"
+      },
+      {
+        "label": "Liste des programmes de doctorat sélectionnés (en anglais)",
+        "url": "/file/66685/"
+      },
+      {
+        "label": "Liste des domaines d'études sélectionnés (en tchèque)",
+        "url": "/file/66684/"
+      },
+      {
+        "label": "Institut de langue et d'études préparatoires, Université Charles",
+        "url": "https://ujop.cuni.cz/"
+      },
+      {
+        "label": "Ministère de l'Éducation, de la Jeunesse et des Sports",
+        "url": "https://msmt.gov.cz/"
+      },
+      {
+        "label": "Ministère des Affaires étrangères",
+        "url": "https://mzv.gov.cz/"
+      },
+      {
+        "label": "Ministère de la Santé",
+        "url": "https://mzd.gov.cz/"
+      },
+      {
+        "label": "Protection des données personnelles (en tchèque)",
+        "url": "https://msmt.gov.cz/ministerstvo/zakladni-informace-o-zpracovani-osobnich-udaju-ministerstvem?lang=1"
+      },
+      {
+        "label": "Protection des données personnelles (en anglais)",
+        "url": "https://msmt.gov.cz/contacts-and-informations/basic-information-about-personal-data-processing-by-the"
+      },
+      {
+        "label": "Protection des données personnelles à l'Agence nationale tchèque pour l'éducation internationale (en tchèque)",
+        "url": "https://www.dzs.cz/zpracovani-osobnich-udaju"
+      },
+      {
+        "label": "Protection des données personnelles à l'Agence nationale tchèque pour l'éducation internationale (en anglais)",
+        "url": "https://www.dzs.cz/sites/default/files/2020-09/Principles%20of%20personal%20data%20protection_aktualizovan%C3%A9%20%C4%8Dervenec%202020.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse République tchèque",
+      "bourse gouvernementale tchèque",
+      "études en République tchèque",
+      "bourse master République tchèque",
+      "bourse doctorat République tchèque",
+      "bourse pays en développement",
+      "bourse 2027 2028",
+      "MŠMT bourse"
+    ],
+    "lien_candidature": "https://studyin.gov.cz/",
+    "source_url": "https://archiv.msmt.gov.cz/eu-and-international-affairs/government-scholarships-developing-countries?lang=2&fbclid=IwY2xjawUe1EJwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeoU6KKbnHaSOil2-2WWZvbLjP0QiK4TpYz_YeHNxcT-SKMJYkU27NEzAWcCo_aem_wF5nl8PIhcLh3V9tc0TKYA",
+    "statut": "fermé",
+    "resume": "Le gouvernement de la République tchèque offre des bourses complètes aux étudiants ressortissants de pays en développement sélectionnés pour poursuivre des études de master ou de doctorat dans les universités publiques tchèques. Les candidatures pour l'année académique 2027/2028 sont ouvertes du 21 août au 30 septembre 2026. Les bourses couvrent la durée standard des études, avec un cours préparatoire de tchèque pour les programmes en langue tchèque. Les candidats doivent remplir un formulaire électronique et passer des tests obligatoires.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-22T03:28:28",
+    "slug": "bourse-gouvernement-tcheque-2027-2028"
+  },
+  {
+    "titre": "Fondation Rosa Luxemburg : Programme de bourses pour doctorants internationaux",
+    "seo_slug": "bourse-rosa-luxemburg-doctorat-allemagne",
+    "organisation": "Rosa Luxemburg Foundation",
+    "montant": 1520,
+    "devise": "EUR",
+    "type_financement": "bourse mensuelle",
+    "deadline": "2026-10-01",
+    "deadline_texte": "1er octobre de chaque année",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Toutes disciplines sauf médicales"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Allemand (B2 minimum)",
+    "documents_requis": [
+      "Diplôme de très bon niveau",
+      "Preuve d'acceptation dans une université allemande",
+      "Preuve de compétence en allemand B2",
+      "Preuve d'engagement social"
+    ],
+    "avantages": [
+      "Allocation mensuelle de 1400 EUR",
+      "Allocation de mobilité de 100 EUR",
+      "Allocation forfaitaire supplémentaire de 20 EUR"
+    ],
+    "eligibilite": [
+      "Doctorants internationaux particulièrement talentueux",
+      "Acceptation dans un établissement d'enseignement supérieur public ou accrédité en Allemagne ou à l'étranger",
+      "Supervision par un professeur d'université en Allemagne",
+      "Engagement social en accord avec les valeurs de la Fondation Rosa Luxemburg",
+      "Ne pas avoir séjourné en Allemagne plus de 15 mois au moment de la candidature (sauf études antérieures ou début du doctorat/séjour de recherche il y a plus de 15 mois)"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'éligibilité et les documents requis.",
+      "2. Préparer le dossier de candidature (diplômes, preuve d'acceptation, preuve de langue, preuve d'engagement social).",
+      "3. Soumettre la candidature via le portail DAAD avant le 1er octobre.",
+      "4. Consulter les informations supplémentaires sur le site de la Fondation Rosa Luxemburg."
+    ],
+    "contacts": [
+      "Rosa Luxemburg Foundation, Straße der Pariser Kommune 8A, 10243 Berlin, Germany",
+      "+49 (228) 882-180"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000220"
+      },
+      {
+        "label": "Visitez le site :",
+        "url": "https://www.rosalux.de/stiftung/studienwerk/stipendien/promotionsstipendium"
+      },
+      {
+        "label": "Site officiel de la Fondation Rosa Luxemburg",
+        "url": "https://www.rosalux.de/stiftung/studienwerk/stipendien/promotionsstipendium"
+      },
+      {
+        "label": "Page d'information sur la procédure de candidature",
+        "url": "https://www.rosalux.de/en/foundation/studienwerk/scholarships/doctoral-scholarship"
+      },
+      {
+        "label": "Informations importantes pour les candidats aux bourses DAAD",
+        "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/important-information-for-scholarship-applicants/"
+      },
+      {
+        "label": "Version PDF de l'annonce",
+        "url": "https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database.pdf?detail=10000220"
+      },
+      {
+        "label": "Exigences techniques du portail",
+        "url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat allemagne",
+      "fondation rosa luxemburg",
+      "bourse internationale doctorat",
+      "bourse DAAD",
+      "doctorat allemagne financement"
+    ],
+    "lien_candidature": "https://www.rosalux.de/stiftung/studienwerk/stipendien/promotionsstipendium",
+    "source_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000220",
+    "statut": "fermé",
+    "resume": "La Fondation Rosa Luxemburg propose un programme de bourses pour doctorants internationaux souhaitant réaliser leur thèse en Allemagne. D'une durée maximale de 3 ans, la bourse comprend une allocation mensuelle de 1400 EUR, une allocation de mobilité de 100 EUR et un forfait de 20 EUR. Les candidats doivent être acceptés dans une université allemande, justifier d'un très bon diplôme, d'un engagement social et d'un niveau d'allemand B2. La date limite de candidature est le 1er octobre de chaque année.",
+    "adresse": "Rosa Luxemburg Foundation Straße der Pariser Kommune 8A 10243 Berlin Germany",
+    "extrait_le": "2026-06-15T02:25:10",
+    "slug": "bourse-rosa-luxemburg-doctorat-allemagne"
+  },
+  {
+    "titre": "Inscription au 6e Forum mondial des données des Nations Unies (UNWDF) 2026",
+    "seo_slug": "unwdf-2026-inscription-riyadh",
+    "organisation": "United Nations World Data Forum (UNWDF)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "aucun financement (participation à titre individuel)",
+    "deadline": "2026-10-01",
+    "deadline_texte": "1 octobre 2026 (date limite d'inscription en ligne)",
+    "niveau_etudes": [],
+    "domaines": [
+      "Données",
+      "Statistiques",
+      "Développement durable"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Scan du passeport ou de la carte d'identité nationale",
+      "Photo de profil (format PNG, style passeport)",
+      "Documents supplémentaires pour vérifier les informations professionnelles (si nécessaire)",
+      "Documents supplémentaires pour le visa (si nécessaire)"
+    ],
+    "avantages": [
+      "Réductions exclusives sur les billets d'avion pour les participants approuvés (sous réserve de disponibilité et de conditions de réservation)",
+      "Participation en personne à l'événement",
+      "Possibilité de participer à distance si la candidature n'est pas approuvée"
+    ],
+    "eligibilite": [
+      "Disposer d'une adresse e-mail valide pour créer un compte INDICO",
+      "Fournir un scan d'une pièce d'identité (passeport ou carte d'identité nationale)",
+      "Fournir des informations personnelles et professionnelles (organisation, poste, coordonnées)",
+      "Fournir les informations de visa requises pour le voyage (le cas échéant)"
+    ],
+    "procedure_etapes": [
+      "1. Avant de commencer : préparer une adresse e-mail valide, un scan de pièce d'identité, les informations personnelles et professionnelles, et les informations de visa si nécessaire.",
+      "2. Accéder au formulaire d'inscription 'UNWDF 2026 Registration to attend in person' sur la plateforme INDICO des Nations Unies : https://indico.un.org/event/1021645/registrations/",
+      "3. Sélectionner 'Log in to proceed'.",
+      "4. Créer un compte INDICO si vous n'en avez pas : cliquer sur 'create one here', vérifier votre adresse e-mail, puis vous connecter.",
+      "5. Remplir le formulaire d'inscription avec toutes les informations requises : informations personnelles, professionnelles et de contact ; informations sur l'organisation ; informations de voyage, visa et participation ; informations diverses.",
+      "6. Téléverser les documents requis : scan du passeport ou de la carte d'identité, photo de profil (PNG, style passeport), et tout document supplémentaire si nécessaire.",
+      "7. Soumettre le formulaire en cliquant sur 'Submit Registration'.",
+      "8. Recevoir un e-mail de confirmation de soumission.",
+      "9. Attendre l'examen de la candidature par le Secrétariat de l'UNWDF et le pays hôte ; les inscriptions sont examinées et approuvées au fur et à mesure pour assurer une représentation équilibrée.",
+      "10. Si approuvé, recevoir une confirmation avec plus d'informations ; si non approuvé, recevoir des informations sur la participation à distance.",
+      "11. Les candidats seront informés de la décision au plus tard le 9 octobre 2026."
+    ],
+    "contacts": [
+      "dataforum@un.org",
+      "support.accreditation@un.org",
+      "Events.Logistics@stats.gov.sa"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page d'inscription UNWDF 2026 (INDICO)",
+        "url": "https://indico.un.org/event/1021645/registrations/"
+      },
+      {
+        "label": "Aide INDICO (contact)",
+        "url": "https://conf.unog.ch/indico-help/en/contact"
+      },
+      {
+        "label": "Liste de diffusion UNWDF",
+        "url": "https://mdirector-pages.com/unwdf_mailing_list"
+      }
+    ],
+    "mots_cles": [
+      "UNWDF 2026",
+      "Forum mondial des données",
+      "inscription UNWDF",
+      "Riyadh 2026",
+      "Nations Unies données",
+      "conférence statistiques",
+      "INDICO inscription",
+      "événement données Arabie Saoudite"
+    ],
+    "lien_candidature": "https://indico.un.org/event/1021645/registrations/",
+    "source_url": "https://unstats.un.org/unsd/undataforum/registration/?fbclid=IwY2xjawUk6YVleHRuA2FlbQIxMABwZG9mBWJyaWQRMVVmck40SUVqVWVBZlFwTjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEedTbKlAWggSZIvTQ3eSDTwJ-Jrhzg_JiepEPAlTP032mBGCmFgy_ONB-_cd8_aem_vRfB7KMaxZy3W5Gg3nngjg",
+    "statut": "fermé",
+    "resume": "Le 6e Forum mondial des données des Nations Unies (UNWDF) se tiendra en personne du 9 au 12 novembre 2026 à Riyad, en Arabie saoudite. Les inscriptions sont ouvertes du 30 juin 2026 au 1er octobre 2026 via la plateforme INDICO des Nations Unies. Les participants doivent créer un compte INDICO, remplir un formulaire détaillé et fournir des documents justificatifs. Les candidatures sont examinées au fur et à mesure, et les décisions seront communiquées au plus tard le 9 octobre 2026. Des réductions exclusives sur les billets d'avion sont disponibles pour les participants approuvés.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-26T18:11:42",
+    "slug": "unwdf-2026-inscription-riyadh"
+  },
+  {
+    "titre": "Bourse de visite de recherche - Microbiology Society",
+    "seo_slug": "bourse-visite-recherche-microbiologie-2026",
+    "organisation": "Microbiology Society",
+    "montant": 3000,
+    "devise": "GBP",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-10-01",
+    "deadline_texte": "1er octobre 2026 (deuxième tour). Premier tour : 1er mai 2026.",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Microbiologie",
+      "Sciences de l'infection"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Lettre de soutien du superviseur ou chef de département",
+      "Lettre d'invitation du laboratoire d'accueil",
+      "Coûts détaillés",
+      "Formulaire de candidature en ligne"
+    ],
+    "avantages": [
+      "Frais de voyage",
+      "Hébergement",
+      "Frais de subsistance",
+      "Consommables de projet"
+    ],
+    "eligibilite": [
+      "Membre payant à jour (Full, Full Concessionary ou Postgraduate Student)",
+      "Minimum un an d'adhésion (deux paiements consécutifs)",
+      "Ne pas avoir reçu de bourse de ce programme l'année civile précédente",
+      "Être inscrit en doctorat ou être qualifié PhD et employé en poste postdoctoral dans une université, hôpital ou institut de recherche",
+      "Les membres Full ou Full Concessionary dans les cinq ans suivant leur premier poste de lecturer sont également éligibles",
+      "La visite doit se dérouler dans un autre laboratoire que celui d'origine",
+      "Durée de la visite : 4 semaines à 3 mois"
+    ],
+    "procedure_etapes": [
+      "Vérifier l'éligibilité et lire les règles de la bourse",
+      "Préparer une lettre de soutien du superviseur ou chef de département",
+      "Obtenir une lettre d'invitation du laboratoire d'accueil",
+      "Soumettre la candidature en ligne via Mi Society",
+      "Fournir tous les documents supplémentaires requis",
+      "Envoyer la lettre d'invitation de l'hôte par email à [email protected]"
+    ],
+    "contacts": [
+      "[email protected]"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://tms-portal.uksouth01.umbraco.io/account/research-visit-grant-application/"
+      },
+      {
+        "label": "Règles de la bourse",
+        "url": "https://microbiologysociety.org/grants-prizes/all-grants/rules-for-grants.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse microbiologie",
+      "bourse visite recherche",
+      "microbiology society grant",
+      "bourse doctorat",
+      "bourse postdoctorat",
+      "financement recherche",
+      "bourse internationale",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://tms-portal.uksouth01.umbraco.io/account/research-visit-grant-application/",
+    "source_url": "https://microbiologysociety.org/grants-prizes/all-grants/research-visit-grant.html?fbclid=IwY2xjawUmh09leHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeoESkrOKlRoZf0YUaT3QJNTUR5YC0BduQ9vkCdxCeW6p3912aleEV1GRoWqo_aem_hJdUrIYEKYiovepK2U6UZA",
+    "statut": "fermé",
+    "resume": "La Microbiology Society offre des bourses pouvant atteindre 3 000 £ pour financer des visites de recherche de courte durée (un à trois mois) dans un autre laboratoire. Ce programme soutient des projets innovants au sein de collaborations existantes ou de nouvelles initiatives. Les candidats doivent être membres payants depuis au moins un an et être doctorants ou post-doctorants. Les candidatures sont évaluées deux fois par an, avec des dates limites au 1er mai et au 1er octobre.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:36:15",
+    "slug": "bourse-visite-recherche-microbiologie-2026"
+  },
+  {
+    "titre": "Bourse doctorale de l'Université Massey",
+    "seo_slug": "bourse-doctorale-massey-2026",
+    "organisation": "Massey University",
+    "montant": 90000,
+    "devise": "NZD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-01",
+    "deadline_texte": "1 octobre 2026",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de soutien du superviseur (Supervisor Support Template)",
+      "Plan de recherche (200-1000 mots)",
+      "Relevé de notes",
+      "Preuve d'admission ou d'inscription au doctorat"
+    ],
+    "avantages": [
+      "Bourse de 90 000 $ (probablement dollars néo-zélandais) sur trois ans",
+      "Prise en charge des frais de scolarité"
+    ],
+    "eligibilite": [
+      "Être inscrit dans les 12 premiers mois d'un doctorat ou avoir une offre d'admission au doctorat à l'Université Massey",
+      "Avoir une moyenne pondérée cumulative (GPA) de 7,0 ou plus",
+      "Mener des recherches sur un sujet d'importance stratégique pour l'Université",
+      "Accepter les conditions de la bourse telles que décrites dans le règlement"
+    ],
+    "procedure_etapes": [
+      "Vérifier les critères d'éligibilité et s'assurer d'avoir une offre d'admission ou d'être inscrit dans les 12 premiers mois du doctorat.",
+      "Préparer un plan de recherche (200-1000 mots) incluant les domaines disciplinaires clés, les objectifs, l'importance de l'étude et les cadres théoriques et méthodologiques.",
+      "Demander à votre superviseur principal de remplir le modèle de soutien du superviseur (Supervisor Support Template).",
+      "Se connecter au portail étudiant (Student Portal) et accéder à l'onglet Bourses.",
+      "Télécharger le plan de recherche et le formulaire de soutien du superviseur complété dans le portail étudiant.",
+      "Soumettre la candidature avant la date limite du 1 octobre 2026."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail étudiant (connexion)",
+        "url": "https://smsportal.massey.ac.nz/sitsvision/wrd/siw_lgn"
+      },
+      {
+        "label": "Modèle de soutien du superviseur (PDF)",
+        "url": "/documents/2250/Supervisor_Support_Template_Massey_University_Doctoral_Scholarship.pdf"
+      },
+      {
+        "label": "Règlement de la bourse doctorale (PDF)",
+        "url": "/documents/1464/MU_Doctoral_Scholarship.pdf"
+      },
+      {
+        "label": "Informations sur les doctorats et doctorats professionnels",
+        "url": "/study/about-postgraduate-study/phds-and-professional-doctorates/"
+      },
+      {
+        "label": "Candidature aux études à Massey",
+        "url": "/study/apply-to-study/"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorale",
+      "Massey University",
+      "Nouvelle-Zélande",
+      "bourse PhD",
+      "financement doctorat",
+      "bourse 2026",
+      "études en Nouvelle-Zélande",
+      "bourse complète"
+    ],
+    "lien_candidature": "https://smsportal.massey.ac.nz/sitsvision/wrd/siw_lgn",
+    "source_url": "https://www.massey.ac.nz/study/scholarships-and-awards/massey-university-doctoral-scholarship/?fbclid=IwY2xjawUqDDpleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLrkSYHO6vilH4yhr9hbuakBJB_a21VX_Ivw7jZzlLdaRa32W6UWNH6N2m9U_aem_GXhUFfvGcvy0Irc83OIjiw",
+    "statut": "fermé",
+    "resume": "La bourse doctorale de l'Université Massey offre un soutien financier de 90 000 $ sur trois ans, ainsi que la prise en charge des frais de scolarité, aux étudiants exceptionnels poursuivant un doctorat. Elle est ouverte aux candidats inscrits dans les 12 premiers mois d'un programme doctoral ou ayant une offre d'admission, avec une moyenne pondérée cumulative de 7,0 ou plus. Les candidatures sont acceptées du 1er août au 1er octobre 2026. Cette bourse vise à récompenser l'excellence académique et à soutenir des recherches d'importance stratégique pour l'Université.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:40:08",
+    "slug": "bourse-doctorale-massey-2026"
   },
   {
     "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",

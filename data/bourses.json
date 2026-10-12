@@ -709,6 +709,84 @@
     "slug": "bourse-excellence-creative-massey-2027"
   },
   {
+    "titre": "Bourses de recherche de la School of Social Science de l'Institute for Advanced Study",
+    "seo_slug": "bourse-ias-social-science-2027",
+    "organisation": "Institute for Advanced Study (IAS) - School of Social Science",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-15",
+    "deadline_texte": "15 octobre 2026",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences sociales",
+      "Disciplines connexes"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Proposition de recherche (4 pages maximum)",
+      "Curriculum vitae",
+      "Échantillon d'écriture (50 pages maximum)"
+    ],
+    "avantages": [
+      "Bureau",
+      "Accès aux bibliothèques",
+      "Services de restauration subventionnés",
+      "Logement"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un doctorat ou de titres universitaires équivalents dans une science sociale ou un domaine connexe au moment de la candidature (15 octobre 2026)",
+      "La bourse est résidentielle et couvre l'année académique complète (septembre-mai)"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier toutes les conditions d'éligibilité et les exigences de candidature",
+      "2. Préparer les documents requis : proposition de recherche, CV, échantillon d'écriture",
+      "3. Soumettre tous les documents via le portail de candidature en ligne",
+      "4. Ne pas envoyer de références (elles ne sont pas requises et ne seront pas acceptées)"
+    ],
+    "contacts": [
+      "[email protected]"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature en ligne",
+        "url": "https://ias.onlineapplicationportal.com/"
+      },
+      {
+        "label": "Appel à candidatures 2027-28 (PDF)",
+        "url": "https://www.ias.edu/sites/default/files/SSS-Call-Applications-2027-28.pdf"
+      },
+      {
+        "label": "FAQ sur les bourses",
+        "url": "https://www.ias.edu/sss/sss-fellowships-frequently-asked-questions"
+      }
+    ],
+    "mots_cles": [
+      "bourse IAS",
+      "School of Social Science",
+      "bourse recherche sciences sociales",
+      "fellowship Institute for Advanced Study",
+      "bourse doctorat sciences sociales",
+      "bourse résidentielle",
+      "bourse 2027-2028",
+      "bourse internationale"
+    ],
+    "lien_candidature": "https://ias.onlineapplicationportal.com/",
+    "source_url": "https://www.ias.edu/sss/sss-fellowships?fbclid=IwY2xjawU6QRFleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEey5R74wE2RMsP5LbsSDgob5dmwBrbN6U8hTWDsYPLU-nCFkBD9iCMW3sJHpM_aem_OtzEpOB_-omOAcwbR1smdw",
+    "statut": "ouvert",
+    "resume": "L'Institute for Advanced Study (IAS) offre chaque année environ 20 bourses résidentielles à des chercheurs en sciences sociales et disciplines connexes. Les boursiers bénéficient d'un environnement académique exceptionnel avec accès à des bureaux, des bibliothèques, des services de restauration subventionnés et un logement sur le campus. La bourse couvre l'année académique complète (septembre-mai) et s'adresse aux titulaires d'un doctorat ou équivalent. Le thème de l'année 2027-28 est « Comprendre l'IA », mais la moitié des boursiers travaillent sur d'autres projets. La date limite de candidature est le 15 octobre 2026.",
+    "imageUrl": "/docs/Membership-in-the-School-of-Social-Science.webp",
+    "extrait_le": "2026-10-13T00:44:48",
+    "slug": "bourse-ias-social-science-2027"
+  },
+  {
     "titre": "Appel à propositions : Soutien du FIDA à la transformation des systèmes alimentaires au Sahel central",
     "seo_slug": "fida-sahel-central-transformation-systemes-alimentaires-2026",
     "organisation": "Fonds international de développement agricole (FIDA)",
@@ -799,6 +877,97 @@
     "imageUrl": null,
     "extrait_le": "2026-09-30T15:26:34",
     "slug": "fida-sahel-central-transformation-systemes-alimentaires-2026"
+  },
+  {
+    "titre": "Bourse de recherche Stanford Science Fellows",
+    "seo_slug": "bourse-stanford-science-fellows-2027",
+    "organisation": "Stanford University",
+    "montant": 98000,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-16",
+    "deadline_texte": "16 octobre 2026 à 23h59 EDT",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences naturelles",
+      "Astronomie et astrophysique",
+      "Sciences biologiques",
+      "Chimie expérimentale",
+      "Sciences de la Terre et des océans",
+      "Mathématiques et statistiques",
+      "Physique expérimentale",
+      "Théorie et simulation"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Curriculum Vitae (incluant les publications, nom légal complet, coordonnées et date (prévue) du doctorat)",
+      "Lettre de motivation",
+      "Trois lettres de recommandation (quatre maximum), dont une du directeur de thèse de préférence",
+      "Déclaration sur les objectifs de carrière, l'expérience pertinente et la contribution aux objectifs du programme (2 pages max)",
+      "Déclaration de recherche (2 pages max, figures incluses, une page supplémentaire pour les références uniquement)"
+    ],
+    "avantages": [
+      "Stipend annuel de 98 000 $",
+      "Jusqu'à 10 000 $ par an de fonds supplémentaires pour la recherche et le développement professionnel",
+      "Jusqu'à 2 500 $ pour les frais de déménagement",
+      "Aide à la garde d'enfants",
+      "Assistance pour les frais de visa",
+      "Avantages sociaux (voir lien)"
+    ],
+    "eligibilite": [
+      "Chercheurs en début de carrière exceptionnels",
+      "Recherche fondamentale expérimentale et/ou théorique dans toute discipline des sciences naturelles",
+      "Les propositions qui traitent principalement de questions de sciences sociales ne sont pas éligibles",
+      "Avoir obtenu son doctorat dans les trois dernières années au début de la bourse",
+      "Ne pas avoir plus de deux ans d'expérience postdoctorale dans une autre institution",
+      "Ne pas être affilié à Stanford (rémunéré ou non) pendant le processus de sélection (jusqu'à fin février)",
+      "Les étudiants actuels de Stanford et les postdocs sont inéligibles",
+      "Les futurs postdocs qui commenceront leur nomination à Stanford avant le 1er mars 2027 sont inéligibles",
+      "Les chercheurs internationaux sont éligibles",
+      "Les chercheurs internationaux avec un visa H-1B (emploi) sont inéligibles",
+      "En général, un chercheur international doit être éligible pour un visa J-1, bien qu'une extension F-1 puisse être appropriée dans certains cas"
+    ],
+    "procedure_etapes": [
+      "1. Préparer tous les documents requis (CV, lettre de motivation, déclarations, lettres de recommandation)",
+      "2. Soumettre la candidature via Academic Jobs Online",
+      "3. S'assurer que les lettres de recommandation sont téléchargées avant la date limite",
+      "4. Les candidats présélectionnés seront invités à un entretien Zoom avec un panel de professeurs (la plupart des entretiens ont lieu début décembre)",
+      "5. Un professeur doit accepter de parrainer le candidat pour que la bourse soit attribuée"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature Academic Jobs Online",
+        "url": "https://academicjobsonline.org/ajo/jobs/32509"
+      },
+      {
+        "label": "Avantages sociaux pour postdocs",
+        "url": "https://postdocbenefits.stanford.edu/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Stanford",
+      "bourse postdoctorale",
+      "Stanford Science Fellows",
+      "bourse sciences naturelles",
+      "bourse États-Unis",
+      "financement recherche postdoc",
+      "bourse 2027",
+      "bourse internationale"
+    ],
+    "lien_candidature": "https://academicjobsonline.org/ajo/jobs/32509",
+    "source_url": "https://stanfordsciencefellows.stanford.edu/apply?utm_id=97758_v0_s00_e0_tv1_a1den5f08gvbpa&fbclid=IwY2xjawU6PqRleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe9LAYJHgg5ajXZ8VbViHaadx-Qh3A8gqI7Eqql6HYYluh3IkIFLmGciC7_nQ_aem_21vbIkmSINUF_H_tAafpjQ",
+    "statut": "ouvert",
+    "resume": "La bourse Stanford Science Fellows offre un financement prestigieux aux jeunes scientifiques exceptionnels souhaitant mener des recherches fondamentales en sciences naturelles. Les boursiers bénéficient d'un stipend annuel de 98 000 $, de fonds supplémentaires pour la recherche et le développement professionnel, ainsi que d'une aide au déménagement. Le programme d'une durée de trois ans permet aux chercheurs de collaborer avec des facultés de premier plan et de transcender les frontières disciplinaires. Les candidatures sont ouvertes à toutes les nationalités, avec une date limite de soumission le 16 octobre 2026.",
+    "imageUrl": "/docs/Stanford.webp",
+    "extrait_le": "2026-10-13T00:35:34",
+    "slug": "bourse-stanford-science-fellows-2027"
   },
   {
     "titre": "Bourses de recherche de l'UQ Graduate School (UQGRSS) – incluant le Research Training Program (RTP)",
@@ -2500,6 +2669,106 @@
     "slug": "bourse-nvidia-doctorat-2027"
   },
   {
+    "titre": "Bourses de recherche et de troisième cycle de la London School of Hygiene & Tropical Medicine (LSHTM)",
+    "seo_slug": "bourses-lshtm-recherche-2026-2027",
+    "organisation": "London School of Hygiene & Tropical Medicine (LSHTM)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-30",
+    "deadline_texte": "30 octobre 2026 (date limite pour les bourses ESRC UBEL DTP 2027-28). D'autres bourses ont des dates limites différentes : 20 octobre 2026 pour les bourses Commonwealth PhD, 1er octobre 2026 pour la bourse NIHR et la bourse LSHTM-Royal Society (ces deux dernières sont déjà fermées).",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Santé publique",
+      "Médecine",
+      "Recherche en santé"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [
+      "Les critères d'éligibilité varient selon la bourse ; voir l'annonce pour plus de détails.",
+      "Les candidats doivent satisfaire aux critères essentiels spécifiques à chaque bourse.",
+      "Les bourses sont ouvertes aux candidats internationaux pour certaines opportunités (ex. UKRI).",
+      "Les candidatures de personnes issues de la diversité (Black, Asian, Ethnic Minority, première génération) sont particulièrement encouragées."
+    ],
+    "procedure_etapes": [
+      "1. Consulter le tableau des bourses pour identifier les opportunités ouvertes.",
+      "2. Lire l'annonce détaillée de chaque bourse pour connaître les critères d'éligibilité et les modalités.",
+      "3. Consulter la page FAQ sur les candidatures en ligne aux bourses.",
+      "4. Contacter l'équipe des bourses pour toute question.",
+      "5. Soumettre la candidature avant la date limite indiquée dans l'annonce."
+    ],
+    "contacts": [
+      "https://www.lshtm.ac.uk/cdn-cgi/l/email-protection#97e4f4fff8fbf6e5e4fffee7e4d7fbe4ffe3fab9f6f4b9e2fc"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Visitez le site : Page des bourses de recherche et de troisième cycle",
+        "url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/research-degree-funding"
+      },
+      {
+        "label": "FAQ sur les candidatures en ligne aux bourses",
+        "url": "https://www.lshtm.ac.uk/study/frequently-asked-questions/scholarship-faqs/scholarship-online-application-faqs"
+      },
+      {
+        "label": "Contact de l'équipe des bourses",
+        "url": "https://www.lshtm.ac.uk/cdn-cgi/l/email-protection#97e4f4fff8fbf6e5e4fffee7e4d7fbe4ffe3fab9f6f4b9e2fc"
+      },
+      {
+        "label": "Bourses UKRI",
+        "url": "https://www.ukri.org/apply-for-funding/ukri-funded-studentships/"
+      },
+      {
+        "label": "Déclaration de LSHTM sur le recrutement international UKRI",
+        "url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/ukri-international-recruitment-lshtm"
+      },
+      {
+        "label": "Bourses ESRC UBEL DTP 2027-28",
+        "url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/2027-ucl-bloomsbury-east-london-dtp-esrc-research-studentships"
+      },
+      {
+        "label": "Bourses Commonwealth PhD 2027-28",
+        "url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/"
+      },
+      {
+        "label": "Bourse NIHR Vaccine Effectiveness 2026-27",
+        "url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/2026-27-nihr-funded-phd-studentship-waning-vaccine-effectiveness"
+      },
+      {
+        "label": "Bourse LSHTM-Royal Society PhD 2026-27",
+        "url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/2026-27-lshtm-royal-society-phd-scholarship"
+      },
+      {
+        "label": "Inscription à la newsletter Vector",
+        "url": "https://www.lshtm.ac.uk/study/vector-newsletter"
+      }
+    ],
+    "mots_cles": [
+      "bourse LSHTM",
+      "bourse doctorat santé publique",
+      "bourse recherche médicale",
+      "bourse internationale 2026",
+      "bourse Commonwealth PhD",
+      "bourse ESRC",
+      "financement thèse",
+      "bourse Royaume-Uni"
+    ],
+    "lien_candidature": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/research-degree-funding",
+    "source_url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/research-degree-funding?fbclid=IwY2xjawU6RFlleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEePNRxcNf_iSQe9gdMmO7Ieba9lJUugFDGi5pSc7ruvvwP7vwWk4Ix-Uuy55g_aem_uQ6xSdd_S7pqOh1xfgDBxQ",
+    "statut": "ouvert",
+    "resume": "La London School of Hygiene & Tropical Medicine (LSHTM) propose plusieurs bourses de recherche et de troisième cycle pour l'année académique 2026-2027 et au-delà. Ces financements couvrent divers domaines de la santé publique et de la médecine, avec des opportunités pour les étudiants internationaux. Les candidats sont invités à consulter régulièrement le tableau des bourses, car de nouvelles opportunités sont ajoutées au fur et à mesure. Les dates limites varient selon les programmes, allant d'octobre à novembre 2026.",
+    "imageUrl": "/docs/Financement-et-bourses-d-tudes-pour-les-dipl-mes-de-recherche.webp",
+    "extrait_le": "2026-10-13T00:57:18",
+    "slug": "bourses-lshtm-recherche-2026-2027"
+  },
+  {
     "titre": "Bourses de recherche pour diplômés - Université de Melbourne",
     "seo_slug": "bourse-recherche-melbourne-2026",
     "organisation": "University of Melbourne",
@@ -3242,6 +3511,264 @@
     "slug": "bourse-sir-paul-callaghan-master-physique-2026"
   },
   {
+    "titre": "Bourse conjointe CHS-Institut de Recherche Historique en Études Helléniques",
+    "seo_slug": "bourse-chs-ihr-etudes-helleniques-2027",
+    "organisation": "Center for Hellenic Studies (CHS) et Institute of Historical Research (IHR) de la National Hellenic Research Foundation",
+    "montant": 25000,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-02",
+    "deadline_texte": "2 novembre 2026",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Histoire ancienne",
+      "Épigraphie",
+      "Numismatique",
+      "Archéologie classique",
+      "Études de couleur",
+      "Iconographie",
+      "Archéologie funéraire",
+      "SIG"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Poste d'un an à partir du 1er juillet 2027",
+      "Accès aux ressources électroniques de la bibliothèque de Harvard",
+      "Logement à Washington, DC (CHS)",
+      "Assurance santé subventionnée à Washington, DC",
+      "Bourse maximale de 25 000 $ (ajustée selon les circonstances individuelles)",
+      "Soutien supplémentaire jusqu'à 1 500 $ pour les frais de voyage professionnel et de recherche",
+      "Aide aux frais de voyage aller-retour à Washington, DC",
+      "Logement près de l'IHR à Athènes",
+      "Assurance santé à Athènes",
+      "Bourse mensuelle d'environ 1 500 € (après impôts) à Athènes",
+      "Accès aux installations de bureau et aux ressources de la bibliothèque de l'IHR",
+      "Opportunité de visiter les bureaux du CHS à Nauplie pour présenter ses travaux et réseauter"
+    ],
+    "eligibilite": [
+      "Doctorat en études classiques ou dans un domaine connexe (ou équivalent)",
+      "Avoir soutenu sa thèse avant le 1er juillet 2026",
+      "Le projet doit bénéficier de l'utilisation des bibliothèques du CHS et de l'IHR ainsi que de l'accès au matériel à Athènes et ses environs (archives, artefacts, sites archéologiques)",
+      "Les renouvellements ou reports ne sont pas accordés",
+      "Les candidats ne peuvent pas postuler à d'autres programmes de bourses liés au CHS (ex. : Fellowships in Hellenic Studies Program à Washington, DC) durant le même cycle de candidature"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier son éligibilité (doctorat soutenu avant le 1er juillet 2026)",
+      "2. Préparer son projet de recherche en lien avec les domaines soutenus",
+      "3. Se rendre sur la page web de la bourse pour plus d'informations et pour postuler",
+      "4. Soumettre sa candidature avant la date limite du 2 novembre 2026"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page web de la bourse (CHS US)",
+        "url": "https://chs.harvard.edu/chs-institute-of-historical-research-joint-fellowship-in-hellenic-studies/"
+      },
+      {
+        "label": "Institute of Historical Research (IHR)",
+        "url": "https://www.eie.gr/en/institutes/ihr/"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "études helléniques",
+      "CHS",
+      "IHR",
+      "histoire ancienne",
+      "archéologie classique",
+      "bourse Grèce",
+      "bourse États-Unis",
+      "recherche postdoctorale",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://chs.harvard.edu/chs-institute-of-historical-research-joint-fellowship-in-hellenic-studies/",
+    "source_url": "https://greece.chs.harvard.edu/research-fellowships/ihr?fbclid=IwY2xjawU6PD9leHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEePNRxcNf_iSQe9gdMmO7Ieba9lJUugFDGi5pSc7ruvvwP7vwWk4Ix-Uuy55g_aem_uQ6xSdd_S7pqOh1xfgDBxQ",
+    "statut": "ouvert",
+    "resume": "Le Center for Hellenic Studies (CHS) et l'Institute of Historical Research (IHR) de la National Hellenic Research Foundation proposent une bourse postdoctorale conjointe en études helléniques pour l'année académique 2027-2028. Le chercheur sélectionné passera 16 semaines au CHS à Washington, DC, et environ 4 mois à l'IHR à Athènes, avec un soutien financier complet incluant logement, assurance santé et bourse. Cette opportunité s'adresse aux chercheurs en histoire ancienne, épigraphie, numismatique et archéologie classique, dont le projet bénéficierait des bibliothèques et des ressources des deux institutions. La date limite de candidature est fixée au 2 novembre 2026.",
+    "imageUrl": "/docs/Bourse-conjointe-CHS-Institut-de-recherche-historique-en-tudes-hell-niques.webp",
+    "extrait_le": "2026-10-13T00:25:00",
+    "slug": "bourse-chs-ihr-etudes-helleniques-2027"
+  },
+  {
+    "titre": "Bourses postdoctorales KIPAC à l'Université Stanford",
+    "seo_slug": "bourse-postdoctorale-kipac-stanford-2027",
+    "organisation": "Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) - Stanford University & SLAC",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-02",
+    "deadline_texte": "2 novembre 2026 à 23h59 (heure de l'Est)",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Astrophysique",
+      "Cosmologie",
+      "Physique des particules",
+      "Intelligence artificielle / Machine Learning",
+      "Instrumentation"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Déclaration de recherche",
+      "Lettre de motivation",
+      "Lettres de recommandation"
+    ],
+    "avantages": [
+      "Poste postdoctoral rémunéré",
+      "Liberté de recherche",
+      "Mentorat par des professeurs de KIPAC",
+      "Collaboration avec des groupes de recherche existants",
+      "Possibilité de participer à des activités de sensibilisation et d'engagement public"
+    ],
+    "eligibilite": [
+      "Être un scientifique récemment titulaire d'un doctorat (Ph.D.) en astrophysique, cosmologie ou domaine connexe",
+      "Pour la bourse Stanford Science Fellows : pas plus de deux ans d'expérience postdoctorale",
+      "Pour la bourse Bunyan : spécifier un membre du corps professoral de physique de Stanford comme mentor principal",
+      "Pour la bourse Rubin Observing Specialist : combiner le travail d'observateur au sommet et à la base de Rubin avec la recherche scientifique LSST"
+    ],
+    "procedure_etapes": [
+      "1. Visiter le site de candidature en ligne (Academic Jobs Online) pour le programme de bourses KIPAC.",
+      "2. Créer un compte et remplir le formulaire de candidature.",
+      "3. Téléverser les documents requis (CV, déclaration de recherche, etc.).",
+      "4. Soumettre la candidature avant la date limite du 2 novembre 2026 à 23h59 ET.",
+      "5. Pour les bourses externes, contacter un membre senior de KIPAC pour discuter de la candidature."
+    ],
+    "contacts": [
+      "rdb3@stanford.edu",
+      "sashaph@stanford.edu",
+      "richard.anantua@utsa.edu",
+      "mecapl1@ilstu.edu",
+      "kefang@physics.wisc.edu",
+      "egzweibel@wisc.edu",
+      "globus@astro.unam.mx",
+      "sgralla@email.arizona.edu",
+      "amb2046@columbia.edu",
+      "yl3470@columbia.edu",
+      "lsironi@astro.columbia.edu",
+      "levinson@tauex.tau.ac.il",
+      "tsvi.piran@mail.huji.ac.il",
+      "thompson@cita.utoronto.ca",
+      "ripperda@cita.utoronto.ca",
+      "quataert@princeton.edu",
+      "anatoly@astro.princeton.edu",
+      "yajiey@wustl.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Candidature en ligne (AJO)",
+        "url": "https://academicjobsonline.org/ajo/Stanford/KIPAC/FELLOWS"
+      },
+      {
+        "label": "Intérêts de recherche des membres seniors de KIPAC",
+        "url": "/research/research-interests-kipac-senior-members"
+      },
+      {
+        "label": "Demander un Tea Talk à KIPAC",
+        "url": "/getting-here/request-talk"
+      },
+      {
+        "label": "Centre for Decoding the Universe @ Stanford",
+        "url": "http://datascience.stanford.edu/universe"
+      },
+      {
+        "label": "Stanford Data Science",
+        "url": "https://kipac.stanford.edu/join-or-visit-us/datascience.stanford.edu"
+      },
+      {
+        "label": "HAI",
+        "url": "https://kipac.stanford.edu/join-or-visit-us/hai.stanford.edu"
+      },
+      {
+        "label": "AI/ML at SLAC",
+        "url": "https://ml.slac.stanford.edu/"
+      },
+      {
+        "label": "Groupe Galaxy Formation & Cosmology",
+        "url": "https://www.risawechsler.com/gfc-group.html"
+      },
+      {
+        "label": "Simons Collaboration on Extreme Electrodynamics of Compact Sources (SCEECS)",
+        "url": "https://www.simonsceecs.com/"
+      },
+      {
+        "label": "Candidature SCEECS sur AJO",
+        "url": "https://academicjobsonline.org/ajo/jobs/32740"
+      },
+      {
+        "label": "Via Project",
+        "url": "https://kipac.stanford.edu/via"
+      },
+      {
+        "label": "Stanford Science Fellows - Candidature",
+        "url": "https://stanfordsciencefellows.stanford.edu/apply"
+      },
+      {
+        "label": "Van Bibber Fellowship - Candidature sur AJO",
+        "url": "https://academicjobsonline.org/ajo/jobs/32797"
+      },
+      {
+        "label": "NASA Hubble/Einstein/Sagan Fellowships",
+        "url": "http://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program"
+      },
+      {
+        "label": "NSF Astronomy and Astrophysics Postdoctoral Fellowships",
+        "url": "http://nsf.gov/funding/pgm_summ.jsp?pims_id=5291"
+      },
+      {
+        "label": "Brinson Fellowships",
+        "url": "https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program/announcement-of-opportunity"
+      },
+      {
+        "label": "LSST-DA Catalyst Fellowships",
+        "url": "https://www.lsstcorporation.org/catalyst-fellowship/node/1"
+      },
+      {
+        "label": "Jansky Fellowships",
+        "url": "https://science.nrao.edu/opportunities/postdoctoral-programs/jansky"
+      },
+      {
+        "label": "Canada Postdoctoral Research Award program",
+        "url": "https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program"
+      },
+      {
+        "label": "Page des opportunités KIPAC",
+        "url": "/opportunities"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "KIPAC",
+      "Stanford",
+      "astrophysique",
+      "cosmologie",
+      "fellowship",
+      "postdoc",
+      "SLAC",
+      "Rubin",
+      "Kavli"
+    ],
+    "lien_candidature": "https://academicjobsonline.org/ajo/Stanford/KIPAC/FELLOWS",
+    "source_url": "https://kipac.stanford.edu/opportunities/postdoctoral-opportunities-kipac?utm_id=97758_v0_s00_e0_tv1_a1den5f08gvbpa&fbclid=IwY2xjawU6PZJleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeypTRihvyBAswfvyV8jTP6C1-YeEBt1AYYP1p2VKZ4Z_1KIpqnRssQfs0YDc_aem_s88HRrYNrT_34YkHzGt0uw",
+    "statut": "ouvert",
+    "resume": "Le Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) de l'Université Stanford et du SLAC National Accelerator Laboratory offre des opportunités postdoctorales exceptionnelles pour les scientifiques récemment titulaires d'un doctorat en astrophysique et cosmologie. Ces bourses, dont les prestigieuses bourses Kavli, Porat, Bunyan et Rubin, permettent de développer des programmes de recherche innovants avec une grande liberté et un mentorat de haut niveau. Les candidats peuvent postuler jusqu'au 2 novembre 2026 pour le programme principal, avec des opportunités supplémentaires dans des collaborations internationales. Rejoignez un environnement de recherche dynamique et diversifié au cœur de la Silicon Valley.",
+    "imageUrl": "/docs/Opportunit-s-postdoctorales-au-KIPAC.webp",
+    "extrait_le": "2026-10-13T00:29:41",
+    "slug": "bourse-postdoctorale-kipac-stanford-2027"
+  },
+  {
     "titre": "Bourses d'études internationales Lester B. Pearson",
     "seo_slug": "bourse-pearson-international-2027",
     "organisation": "University of Toronto",
@@ -3318,6 +3845,209 @@
     "imageUrl": "/docs/Bourses-d_-tudes-internationales-Lester-B.-Pearson.webp",
     "extrait_le": "2026-07-27T02:29:10",
     "slug": "bourse-pearson-international-2027"
+  },
+  {
+    "titre": "Bourses postdoctorales en sciences de la Terre, de l'environnement et du climat - Lamont-Doherty Earth Observatory",
+    "seo_slug": "bourse-postdoctorale-lamont-terre-climat-2027",
+    "organisation": "Lamont-Doherty Earth Observatory, Columbia University",
+    "montant": 72116,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-06",
+    "deadline_texte": "6 novembre 2026 (date limite de soumission des candidatures). Les lettres de recommandation doivent être soumises avant le 13 novembre 2026.",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Dynamique de la Terre solide",
+      "Systèmes océaniques, atmosphériques et climatiques",
+      "Dynamique de la cryosphère",
+      "Paléoclimat",
+      "Biogéoscience",
+      "Solutions à la contamination de l'air, de l'eau ou du sol",
+      "Écologie forestière"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV incluant une liste de publications",
+      "Proposition de recherche (max 3 pages, hors références, police 12 points, avec titre et nom sur la première page)",
+      "Liste de trois arbitres avec leurs adresses email",
+      "Déclaration sur l'utilisation de l'intelligence artificielle générative"
+    ],
+    "avantages": [
+      "Salaire annuel de 72 116 USD",
+      "Allocation de recherche unique de 12 000 USD",
+      "Frais de déménagement de 1 500 USD",
+      "Soutien institutionnel pour 24 mois",
+      "Possibilité de demander un logement universitaire (places limitées, liste d'attente possible)",
+      "Possibilité de postuler à des financements externes et à des prix/positions internes supplémentaires"
+    ],
+    "eligibilite": [
+      "Avoir récemment obtenu un doctorat (Ph.D.) ou prévoir de terminer les exigences du diplôme avant septembre 2027",
+      "Excellence scientifique et proposition de recherche clairement exprimée sur des problèmes à la pointe des sciences de la Terre",
+      "Les candidats avec une expérience en apprentissage automatique et en IA sont encouragés à postuler",
+      "Limite de 5 ans d'expérience postdoctorale totale autorisée par l'Université Columbia"
+    ],
+    "procedure_etapes": [
+      "1. Lire attentivement toutes les instructions sur le site de candidature.",
+      "2. Contacter dès que possible les mentors potentiels au Lamont pour discuter des possibilités de collaboration.",
+      "3. Préparer les documents requis : CV, proposition de recherche, liste de trois arbitres avec emails, déclaration sur l'utilisation de l'IA générative.",
+      "4. Soumettre la candidature en ligne via le système de candidature de l'Université Columbia avant le 6 novembre 2026.",
+      "5. S'assurer que les arbitres reçoivent la demande automatique et soumettent leurs lettres de recommandation avant le 13 novembre 2026.",
+      "6. Sélectionner l'un des sept domaines de recherche principaux lors de la soumission.",
+      "7. Attendre les résultats de la sélection."
+    ],
+    "contacts": [
+      "pdfellowship@ldeo.columbia.edu",
+      "845-365-8546"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel des bourses postdoctorales",
+        "url": "https://lamont.columbia.edu/about/postdoctoral-fellowships"
+      },
+      {
+        "label": "Détails de la bourse en écologie forestière à Black Rock Forest",
+        "url": "https://www.blackrockforest.org/black-rock-forest-postdoctoral-fellowship-program"
+      },
+      {
+        "label": "Divisions de recherche du Lamont",
+        "url": "https://lamont.columbia.edu/research-divisions"
+      },
+      {
+        "label": "Liste des mentors potentiels",
+        "url": "https://lamont.columbia.edu/postdoctoral-fellowships-prospective-mentors"
+      },
+      {
+        "label": "Opportunités postdoctorales associées à la Columbia Climate School",
+        "url": "https://www.climate.columbia.edu/postdoctoral-research-program"
+      },
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://academic.careers.columbia.edu/#!/190847"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "sciences de la Terre",
+      "changement climatique",
+      "Lamont-Doherty",
+      "Columbia University",
+      "recherche postdoctorale",
+      "bourse climat",
+      "bourse environnement",
+      "financement postdoc",
+      "bourse États-Unis"
+    ],
+    "lien_candidature": "https://academic.careers.columbia.edu/#!/190847",
+    "source_url": "https://lamont.columbia.edu/about/postdoctoral-fellowships?fbclid=IwY2xjawU6P4FleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEey5R74wE2RMsP5LbsSDgob5dmwBrbN6U8hTWDsYPLU-nCFkBD9iCMW3sJHpM_aem_OtzEpOB_-omOAcwbR1smdw",
+    "statut": "ouvert",
+    "resume": "Le Lamont-Doherty Earth Observatory de l'Université Columbia propose des bourses postdoctorales prestigieuses en sciences de la Terre, de l'environnement et du climat. Les candidats doivent avoir récemment obtenu leur doctorat ou prévoir de le terminer avant septembre 2027. Les bourses offrent un salaire annuel de 72 116 USD, une allocation de recherche de 12 000 USD et une aide au déménagement de 1 500 USD, pour une durée de 24 mois. La date limite de candidature est le 6 novembre 2026, et les lettres de recommandation doivent être soumises avant le 13 novembre 2026.",
+    "imageUrl": "/docs/Bourses-postdoctorales-en-sciences-de-la-Terre-de-l-environnement-et-du-climat.webp",
+    "extrait_le": "2026-10-13T00:36:58",
+    "slug": "bourse-postdoctorale-lamont-terre-climat-2027"
+  },
+  {
+    "titre": "Bourse postdoctorale internationale Azrieli",
+    "seo_slug": "bourse-azrieli-postdoctorat-israel-2027",
+    "organisation": "Azrieli Foundation",
+    "montant": 14000,
+    "devise": "ILS",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-11",
+    "deadline_texte": "11 novembre 2026",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Toutes disciplines",
+      "Sciences exactes",
+      "Sciences de la vie",
+      "Sciences humaines",
+      "Sciences sociales"
+    ],
+    "pays_eligibles": [
+      "Tous les pays sauf Israël"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Diplôme de doctorat",
+      "Documentation officielle de l'université indiquant la date de soutenance",
+      "Formulaire de candidature en ligne",
+      "CV",
+      "Lettre de motivation",
+      "Proposition de recherche",
+      "Lettres de recommandation"
+    ],
+    "avantages": [
+      "Allocation mensuelle de 14 000 ILS",
+      "20 000 ILS annuels pour frais de recherche et voyages liés à la recherche",
+      "Développement professionnel",
+      "Opportunités de réseautage",
+      "Formation au leadership",
+      "Échanges interdisciplinaires et interculturels"
+    ],
+    "eligibilite": [
+      "Avoir obtenu un doctorat (date sur le diplôme) au plus tôt le 1er novembre 2023, dans tous les pays sauf Israël",
+      "Les candidats actuellement inscrits en doctorat peuvent postuler s'ils soutiennent leur thèse au plus tard le 1er juin 2027",
+      "Ne pas avoir obtenu de diplôme universitaire (licence, master, doctorat) dans un établissement israélien",
+      "Ne pas avoir commencé un postdoctorat en Israël avant le 1er septembre 2026",
+      "Avoir obtenu un sponsor académique et effectuer la recherche postdoctorale dans l'une des institutions israéliennes suivantes : Bar-Ilan University, Ben-Gurion University of the Negev, Reichman University, Technion – Israel Institute of Technology, Tel Aviv University, The Hebrew University of Jerusalem, University of Haifa, Weizmann Institute of Science"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et les conditions",
+      "2. Télécharger et lire les directives de sélection (PDF)",
+      "3. Lire attentivement les instructions de candidature (PDF)",
+      "4. Préparer les documents requis",
+      "5. Soumettre la candidature en ligne via le portail",
+      "6. Présélection par des équipes académiques",
+      "7. Examen académique par des comités multidisciplinaires",
+      "8. Entretien avec un panel",
+      "9. Notification d'attribution avant le 31 mars 2027"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Directives de sélection (PDF)",
+        "url": "https://azrielifoundation.org/wp-content/uploads/2026/08/Guidelines-2027-28.pdf"
+      },
+      {
+        "label": "Instructions de candidature (PDF)",
+        "url": "https://azrielifoundation.org/wp-content/uploads/2026/07/Application-Instructions-2027-2028.docx.pdf"
+      },
+      {
+        "label": "Portail de candidature",
+        "url": "https://azrieli.smapply.io/prog/international_postdoctoral_fellowship_2027-2028/"
+      },
+      {
+        "label": "Page du programme",
+        "url": "https://azrielifoundation.org/fellows/internationalpostdoctoral/"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "bourse Israël",
+      "Azrieli Foundation",
+      "bourse internationale",
+      "postdoctorat Israël",
+      "financement recherche",
+      "bourse 2027",
+      "bourse sciences",
+      "bourse sciences humaines",
+      "bourse sciences sociales"
+    ],
+    "lien_candidature": "https://azrieli.smapply.io/prog/international_postdoctoral_fellowship_2027-2028/",
+    "source_url": "https://azrielifoundation.org/fellows/internationalpostdoctoral/?fbclid=IwY2xjawU6QjRleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEey5R74wE2RMsP5LbsSDgob5dmwBrbN6U8hTWDsYPLU-nCFkBD9iCMW3sJHpM_aem_OtzEpOB_-omOAcwbR1smdw",
+    "statut": "ouvert",
+    "resume": "La Fondation Azrieli offre des bourses postdoctorales internationales prestigieuses pour l'année académique 2027-2028. Les boursiers reçoivent une allocation mensuelle de 14 000 ILS et 20 000 ILS annuels pour frais de recherche, ainsi qu'un accompagnement professionnel personnalisé. Le programme est ouvert aux chercheurs de toutes disciplines ayant obtenu leur doctorat après le 1er novembre 2023 et souhaitant poursuivre leurs recherches dans l'une des huit institutions israéliennes partenaires. Les candidatures sont ouvertes du 9 août au 11 novembre 2026.",
+    "imageUrl": "/docs/International-Postdoctoral-Fellowship-1500x630.webp",
+    "extrait_le": "2026-10-13T00:49:00",
+    "slug": "bourse-azrieli-postdoctorat-israel-2027"
   },
   {
     "titre": "Bourse ALCHE - African Leadership College of Higher Education",
@@ -3485,6 +4215,154 @@
     "imageUrl": null,
     "extrait_le": "2026-09-27T23:13:50",
     "slug": "bourse-iagc-doctorat-geochimie-2027"
+  },
+  {
+    "titre": "Bourse postdoctorale junior FWO",
+    "seo_slug": "bourse-postdoctorale-junior-fwo-2027",
+    "organisation": "FWO (Fonds voor Wetenschappelijk Onderzoek - Vlaanderen)",
+    "montant": 5616.81,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-16",
+    "deadline_texte": "16 novembre 2026 à 17h00 (heure locale)",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Recherche scientifique",
+      "Sciences biomédicales",
+      "STEM",
+      "Oncologie"
+    ],
+    "pays_eligibles": [
+      "Belgique (Flandre)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement, car le site est en anglais, mais pas explicitement mentionné)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Lettre de recommandation du superviseur (obligatoire)",
+      "CV",
+      "Diplôme de doctorat ou équivalent",
+      "Preuve de la date de soutenance (si le doctorat est obtenu après la date limite)"
+    ],
+    "avantages": [
+      "Salaire mensuel brut de 5 616,81 € (indice 2,1647 au 1er mars 2026)",
+      "Frais de fonctionnement (bench fee) de 4 000 € à 10 000 € par an",
+      "Durée de 3 ans",
+      "Possibilité de financement supplémentaire via le Fonds Suzanne Duchesne (50 000 € pour l'appel 2027, frais de bench spéciaux en oncologie)",
+      "Bourse de recherche supplémentaire L'Oréal-UNESCO de 20 000 € (non disponible pour l'appel en cours, prochaine édition en 2028)"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un doctorat (PhD) par thèse ou d'un diplôme reconnu équivalent selon les directives de l'Union européenne ou un accord bilatéral",
+      "Avoir obtenu le doctorat depuis moins de 3 ans avant le 1er octobre de l'année de début de la bourse, ou le soutenir au plus tard le 15 septembre de cette année (dans ce cas, informer le FWO de la date de soutenance avant le 1er juillet)",
+      "Ne pas avoir déjà bénéficié de cette bourse, même partiellement",
+      "Pouvoir postuler maximum deux fois pour la même bourse",
+      "Accepter la clause d'intégrité scientifique",
+      "Avoir un superviseur dans une institution d'accueil flamande",
+      "Pour une deuxième candidature au même type de bourse postdoctorale, la première candidature doit avoir été classée parmi les 50% supérieurs lors de la présélection du printemps 2026"
+    ],
+    "procedure_etapes": [
+      "Trouver un superviseur dans une institution d'accueil flamande (article 3 du règlement sur les chercheurs postdoctoraux)",
+      "Préparer le dossier de candidature avec le superviseur",
+      "Soumettre la candidature via le portail en ligne (https://fwoweb.fwo.be/) avant le 16 novembre 2026 à 17h00",
+      "Le superviseur doit soumettre une lettre de recommandation (partie obligatoire de la candidature)",
+      "Présélection en ligne par le panel d'experts (18-25 mars 2027)",
+      "Notification d'invitation à l'entretien (26 mars 2027)",
+      "Entretiens physiques (14 avril - 5 mai 2027)",
+      "Annonce des résultats (13 mai 2027)",
+      "Début de la bourse (1er octobre ou 1er novembre 2027)"
+    ],
+    "contacts": [
+      "FWOhelpdesk@fwo.be"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature en ligne",
+        "url": "https://fwoweb.fwo.be/"
+      },
+      {
+        "label": "Règlement du programme (junior et senior postdoc)",
+        "url": "https://www.fwo.be/en/support-programmes/regulations/junior-and-senior-postdoc/"
+      },
+      {
+        "label": "Règlement général",
+        "url": "https://www.fwo.be/en/support-programmes/regulations/general-regulations/"
+      },
+      {
+        "label": "Règlement sur les frais de bench",
+        "url": "https://www.fwo.be/en/support-programmes/regulations/regulations-for-the-bench-fee-of-fwo-fellows/"
+      },
+      {
+        "label": "Règlement sur l'évaluation par les pairs",
+        "url": "https://www.fwo.be/en/support-programmes/regulations/internal-and-external-peer-review/"
+      },
+      {
+        "label": "Formulaire de recommandation du superviseur (PDF)",
+        "url": "https://www.fwo.be/media/azthivhi/advies-formulier-postdoc.pdf"
+      },
+      {
+        "label": "Dates des entretiens (PDF)",
+        "url": "https://www.fwo.be/media/dv5nuyag/postdoc-fellowship-call-interview-dates.pdf"
+      },
+      {
+        "label": "Présentation d'information (PDF)",
+        "url": "https://www.fwo.be/media/1025137/postdoc-call-infosessie.pdf"
+      },
+      {
+        "label": "Vidéo explicative du formulaire de candidature",
+        "url": "https://youtu.be/BuVa4_0WYAY"
+      },
+      {
+        "label": "Exemple de formulaire de candidature (PDF)",
+        "url": "https://www.fwo.be/media/1025145/application-form-for-a-junior-postdoctoral-fellow.pdf"
+      },
+      {
+        "label": "Page des résultats",
+        "url": "https://www.fwo.be/en/results-outreach/"
+      },
+      {
+        "label": "Contact pour les chercheurs",
+        "url": "https://www.fwo.be/en/contact/for-the-researcher/"
+      },
+      {
+        "label": "Fonds Suzanne Duchesne - frais de bench spéciaux",
+        "url": "https://www.fwo.be/en/support-programmes/postdoctoral-fellowships/special-bench-fee-from-the-fund-suzanne-duchesne/"
+      },
+      {
+        "label": "Bourse L'Oréal-UNESCO pour les femmes en science",
+        "url": "https://www.fwo.be/en/support-programmes/postdoctoral-fellowships/special-bench-fee-loreal-unesco-for-women-in-science/"
+      },
+      {
+        "label": "Bourses FWO - Plantentuin Meise",
+        "url": "https://www.fwo.be/en/support-programmes/phd-fellowships/meise-botanic-garden-fwo-fellowships/"
+      },
+      {
+        "label": "Bourses FWO - VITO",
+        "url": "https://www.fwo.be/en/support-programmes/phd-fellowships/vito-fwo-fellowships/"
+      },
+      {
+        "label": "Bourses FWO - Flanders Hydraulics",
+        "url": "https://www.fwo.be/en/support-programmes/phd-fellowships/wl-fwo-fellowships/"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "FWO",
+      "bourse Belgique",
+      "recherche postdoctorale",
+      "financement recherche",
+      "bourse junior postdoc",
+      "bourse Flandre",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://fwoweb.fwo.be/",
+    "source_url": "https://fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/?fbclid=IwY2xjawU6QFlleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe4mwnvajzIHrc6qFxoopjVn6UReRkeGD_0y0pLFZxxpxTdpCgXtyhc8NpYfs_aem_pLy-uA0vajBiT_NL83XOnw",
+    "statut": "ouvert",
+    "resume": "La bourse postdoctorale junior du FWO soutient les chercheurs ayant récemment obtenu leur doctorat et souhaitant développer une carrière de recherche indépendante. Elle offre un salaire mensuel brut de 5 616,81 € et des frais de fonctionnement annuels de 4 000 à 10 000 € pour une durée de trois ans. Les candidats doivent trouver un superviseur dans une institution flamande et soumettre leur dossier avant le 16 novembre 2026. Cette bourse est une opportunité exceptionnelle pour les jeunes chercheurs en sciences biomédicales, STEM et autres disciplines.",
+    "imageUrl": "/docs/bourse-postdoctorale-junior.webp",
+    "extrait_le": "2026-10-13T00:41:06",
+    "slug": "bourse-postdoctorale-junior-fwo-2027"
   },
   {
     "titre": "Bourse Mastercard Foundation Scholars Program - Université de Cambridge",
@@ -4897,6 +5775,110 @@
     "imageUrl": null,
     "extrait_le": "2026-09-27T23:51:50",
     "slug": "bourse-vcuarts-qatar-undergraduate-2027"
+  },
+  {
+    "titre": "Bourses de doctorat internationales de l'Université de Reading",
+    "seo_slug": "bourse-doctorat-reading-international-2027",
+    "organisation": "University of Reading",
+    "montant": 21805,
+    "devise": "GBP",
+    "type_financement": "bourse complète",
+    "deadline": "2027-01-15",
+    "deadline_texte": "Vendredi 15 janvier 2027",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences",
+      "Sciences de la vie",
+      "Sciences sociales",
+      "Arts",
+      "Sciences humaines",
+      "Henley Business School"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature pour la bourse",
+      "Proposition de recherche (max 700 mots)",
+      "Candidature d'admission au programme de doctorat"
+    ],
+    "avantages": [
+      "Frais de scolarité au tarif international",
+      "Indemnité de formation et de développement de 1 000 £ par an",
+      "Bourse de subsistance (stipend) d'environ 21 805 £ par an pour les études sur le campus de Reading",
+      "Durée maximale de quatre ans pour les études à temps plein et de six ans pour les études à temps partiel"
+    ],
+    "eligibilite": [
+      "Avoir postulé à un programme de doctorat à l'Université de Reading",
+      "Étudier sur le campus de Reading ou à distance/hors campus",
+      "Les candidats hors campus ne sont éligibles que pour les frais de scolarité et l'indemnité de formation, pas pour la bourse de subsistance"
+    ],
+    "procedure_etapes": [
+      "1. Contacter l'administrateur de recherche postgraduée de votre école ou département pour vérifier que votre projet de recherche peut être supervisé.",
+      "2. Soumettre une demande d'admission à un programme de doctorat via le portail d'admission en ligne. Dans la section 'bourses demandées', indiquer 'International Research Studentship Competition'.",
+      "3. Remplir le formulaire de candidature pour la bourse 'International PhD Studentship Competition'.",
+      "4. Si vous êtes nommé par votre école, préparer une proposition de recherche (max 700 mots) et la soumettre.",
+      "5. Les candidats nommés sont présentés au panel de sélection final qui décide des attributions."
+    ],
+    "contacts": [
+      "doctoralstudentshipsofficer@reading.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature pour la bourse",
+        "url": "https://forms.cloud.microsoft/e/GtuLx8aeZd"
+      },
+      {
+        "label": "Comment postuler",
+        "url": "https://www.reading.ac.uk/doctoral-researcher-college/doctoral-opportunities/how-to-apply"
+      },
+      {
+        "label": "Administrateurs de recherche postgraduée",
+        "url": "https://www.reading.ac.uk/doctoral-researcher-college/meet-the-team"
+      },
+      {
+        "label": "Directeurs d'études postgraduées",
+        "url": "https://www.reading.ac.uk/doctoral-researcher-college/meet-the-team/school-directors-pgr"
+      },
+      {
+        "label": "Email de contact",
+        "url": "mailto:doctoralstudentshipsofficer@reading.ac.uk"
+      },
+      {
+        "label": "Nous envoyer un email",
+        "url": "https://www.reading.ac.uk/doctoral-researcher-college/email-us-redirect"
+      },
+      {
+        "label": "Visiter l'université",
+        "url": "http://www.reading.ac.uk/ready-to-study/visiting-and-open-days.aspx"
+      },
+      {
+        "label": "Obtenir une brochure",
+        "url": "https://www.reading.ac.uk/forms/crm/prospectus.aspx"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat international",
+      "University of Reading",
+      "bourse de recherche",
+      "financement doctorat",
+      "bourse études Royaume-Uni",
+      "bourse 2027",
+      "bourse complète",
+      "doctorat sciences",
+      "bourse Henley Business School"
+    ],
+    "lien_candidature": "https://forms.cloud.microsoft/e/GtuLx8aeZd",
+    "source_url": "https://www.reading.ac.uk/doctoral-researcher-college/funding/phd-studentships/international-phd-studentships?fbclid=IwY2xjawU6RT9leHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEePNRxcNf_iSQe9gdMmO7Ieba9lJUugFDGi5pSc7ruvvwP7vwWk4Ix-Uuy55g_aem_uQ6xSdd_S7pqOh1xfgDBxQ",
+    "statut": "ouvert",
+    "resume": "L'Université de Reading offre des bourses de doctorat internationales pour les étudiants souhaitant commencer en octobre 2027. Ces bourses couvrent les frais de scolarité au tarif international, une indemnité de formation de 1 000 £ par an, et une bourse de subsistance d'environ 21 805 £ par an pour les études sur le campus. Les candidatures sont ouvertes aux étudiants de toutes nationalités, avec une date limite fixée au 15 janvier 2027. Les bourses sont attribuées pour une durée maximale de quatre ans à temps plein ou six ans à temps partiel.",
+    "imageUrl": "/docs/Bourses-de-doctorat-internationales.webp",
+    "extrait_le": "2026-10-13T01:01:48",
+    "slug": "bourse-doctorat-reading-international-2027"
   },
   {
     "titre": "Master MITRA - Programme de Master en Études Migratoires Internationales",
@@ -17031,6 +18013,122 @@
     "imageUrl": null,
     "extrait_le": "2026-10-12T18:21:41",
     "slug": "bourse-waccbip-daad-master-ghana-2027"
+  },
+  {
+    "titre": "Bourse Mandela Washington pour les jeunes leaders africains 2027",
+    "seo_slug": "bourse-mandela-washington-2027",
+    "organisation": "Mandela Washington Fellowship for Young African Leaders",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
+    "niveau_etudes": [],
+    "domaines": [],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [
+      "Jeune leader africain"
+    ],
+    "procedure_etapes": [
+      "1. Activer JavaScript dans le navigateur",
+      "2. Cliquer sur 'Click here to start a new application' pour créer un compte",
+      "3. Remplir le formulaire de candidature en ligne",
+      "4. Soumettre la candidature via le système"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Démarrer une nouvelle candidature",
+        "url": "https://apply.mandelawashingtonfellowship.org/Account/Enroll"
+      },
+      {
+        "label": "Réinitialiser le mot de passe",
+        "url": "https://apply.mandelawashingtonfellowship.org/Account/Forgot"
+      }
+    ],
+    "mots_cles": [
+      "bourse Mandela Washington",
+      "bourse jeunes leaders africains",
+      "bourse 2027",
+      "bourse Afrique",
+      "bourse leadership",
+      "bourse études",
+      "bourse internationale",
+      "Mandela Washington Fellowship"
+    ],
+    "lien_candidature": "https://apply.mandelawashingtonfellowship.org/Account/Enroll",
+    "source_url": "https://apply.mandelawashingtonfellowship.org/Account/Login",
+    "statut": "ouvert",
+    "resume": "La bourse Mandela Washington pour les jeunes leaders africains 2027 est un programme prestigieux qui offre une opportunité unique de développement professionnel et académique aux jeunes leaders du continent africain. Cette bourse complète permet aux lauréats de participer à un programme intensif aux États-Unis, renforçant leurs compétences en leadership et élargissant leur réseau international. Les candidatures se font exclusivement en ligne via le portail officiel, et il est essentiel d'activer JavaScript pour soumettre sa candidature. Ne manquez pas cette chance de faire partie de la prochaine génération de leaders africains.",
+    "imageUrl": "/docs/Candidature-au-programme-Mandela-Washington-Fellowship-2027.webp",
+    "extrait_le": "2026-10-13T00:16:58",
+    "slug": "bourse-mandela-washington-2027"
+  },
+  {
+    "titre": "Bourse de recherche postdoctorale Hubble 2027 de la NASA",
+    "seo_slug": "bourse-hubble-nasa-2027",
+    "organisation": "NASA (National Aeronautics and Space Administration)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse de recherche",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Astrophysique",
+      "Sciences spatiales"
+    ],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [],
+    "procedure_etapes": [],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page officielle du programme Hubble",
+        "url": "https://science.nasa.gov/mission/hubble/"
+      },
+      {
+        "label": "Programme d'astrophysique de la NASA",
+        "url": "https://science.nasa.gov/astrophysics/"
+      },
+      {
+        "label": "Opportunités de carrière à la NASA",
+        "url": "https://www.nasa.gov/careers/"
+      },
+      {
+        "label": "Programmes de stages à la NASA",
+        "url": "https://www.nasa.gov/learning-resources/nasa-internship-programs/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Hubble",
+      "NASA postdoctorat",
+      "bourse astrophysique",
+      "recherche spatiale",
+      "bourse NASA 2027",
+      "financement postdoctoral",
+      "programme Hubble",
+      "bourse sciences spatiales"
+    ],
+    "lien_candidature": "https://science.nasa.gov/mission/hubble/",
+    "source_url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/applications-for-the-2027-nasa-hubble-fellowship-program/?fbclid=IwY2xjawU6Q1BleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe4mwnvajzIHrc6qFxoopjVn6UReRkeGD_0y0pLFZxxpxTdpCgXtyhc8NpYfs_aem_pLy-uA0vajBiT_NL83XOnw",
+    "statut": "ouvert",
+    "resume": "La NASA ouvre les candidatures pour le programme de bourse postdoctorale Hubble 2027, destiné aux chercheurs en astrophysique et sciences spatiales. Cette bourse prestigieuse offre un financement pour des recherches avancées dans le domaine de l'astrophysique, en lien avec le télescope spatial Hubble. Les candidats doivent postuler via le site officiel de la NASA. Les détails spécifiques sur le montant, la date limite et les documents requis ne sont pas fournis dans le texte source.",
+    "imageUrl": "/docs/Date-limite-de-candidature-pour-le-programme-de-bourses-NASA-Hubble-2027-28-octobre-2026.webp",
+    "extrait_le": "2026-10-13T00:53:15",
+    "slug": "bourse-hubble-nasa-2027"
   },
   {
     "titre": "Bourse internationale de premier cycle du vice-chancelier de l'UTS",

@@ -1,661 +1,161 @@
 [
   {
-    "titre": "Bourse du Sommet de l'Action des Jeunes 2027",
-    "seo_slug": "bourse-yas-2027-berlin",
-    "organisation": "Centre for Diplomatic Advancement (CDA)",
+    "titre": "Bourse Mandela Washington (YALI) 2027",
+    "seo_slug": "bourse-mandela-washington-2027",
+    "organisation": "U.S. Department of State & IREX",
     "montant": null,
     "devise": null,
-    "type_financement": "bourse complète, partielle et accès au forum",
-    "deadline": "2026-10-05",
-    "deadline_texte": "5 octobre 2026",
-    "niveau_etudes": [
-      "Tous niveaux"
-    ],
-    "domaines": [
-      "Diplomatie",
-      "Leadership",
-      "Politique",
-      "Développement durable"
-    ],
-    "pays_eligibles": [
-      "Toutes nationalités"
-    ],
-    "age_maximum": 45,
-    "langue_requise": "Anglais (connaissance pratique)",
-    "documents_requis": [
-      "Formulaire de candidature en ligne",
-      "Histoire personnelle (motivation, expérience de leadership, changement souhaité)"
-    ],
-    "avantages": [
-      "Billet d'avion aller-retour (bourse complète)",
-      "Hébergement partagé 4 étoiles (bourse complète et partielle)",
-      "Soutien pour le visa et lettre d'invitation officielle",
-      "Remboursement des frais de visa (bourse complète)",
-      "Coordination avec l'ambassade pour le traitement du visa",
-      "Liste de contrôle et conseils pour les documents de visa",
-      "Visites institutionnelles",
-      "Accès à toutes les sessions et ateliers du sommet",
-      "Événements de réseautage",
-      "Repas du sommet",
-      "Certification officielle du Centre for Diplomatic Advancement",
-      "Kit du délégué et marchandise officielle",
-      "Opportunités de prise de parole",
-      "Réseautage avec des délégués de plus de 125 pays"
-    ],
-    "eligibilite": [
-      "Âge : 16-45 ans",
-      "Toutes nationalités",
-      "Tous niveaux d'éducation",
-      "Connaissance pratique de l'anglais",
-      "Aucune expérience minimale requise"
-    ],
-    "procedure_etapes": [
-      "1. Remplir le formulaire de candidature en ligne avant le 5 octobre 2026",
-      "2. Raconter votre histoire : motivation, expérience de leadership et changement souhaité",
-      "3. Sélection et notification : les candidats présélectionnés sont informés par email après la date limite",
-      "4. Confirmer votre place et recevoir vos documents officiels (y compris la lettre d'invitation pour le visa)",
-      "5. Préparez vos bagages pour Berlin : dates du sommet : 11-14 janvier 2027"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Soumettre votre candidature",
-        "url": "https://thecda.co/product/yas-2027-scholarships/"
-      },
-      {
-        "label": "Inscription - Lettre d'invitation",
-        "url": "https://thecda.co/product/invitation-only-yas-2027/"
-      },
-      {
-        "label": "Inscription - Pass d'accès au sommet",
-        "url": "https://thecda.co/product/summit-access-pass-yas-2027/"
-      },
-      {
-        "label": "Inscription - Auto-financé",
-        "url": "https://thecda.co/product/self-funded-yas-2027/"
-      }
-    ],
-    "mots_cles": [
-      "bourse sommet action jeunes",
-      "YAS 2027",
-      "bourse Berlin",
-      "conférence internationale jeunesse",
-      "bourse complète",
-      "leadership",
-      "diplomatie",
-      "développement durable"
-    ],
-    "lien_candidature": "https://thecda.co/product/yas-2027-scholarships/",
-    "source_url": "https://thecda.co/youth-action-summit-2027-berlin/",
-    "statut": "ouvert",
-    "resume": "Le Youth Action Summit 2027 est un sommet international entièrement financé qui se tiendra à Berlin, en Allemagne, du 11 au 14 janvier 2027. Il rassemblera plus de 250 jeunes leaders, étudiants et professionnels de plus de 125 pays pour quatre jours de diplomatie, de formation au leadership, de dialogue politique et d'échange interculturel. Les candidatures sont ouvertes jusqu'au 5 octobre 2026. Ne manquez pas cette opportunité unique de participer à un événement de premier plan en Europe et de bénéficier d'une bourse complète ou partielle.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-11T13:01:35",
-    "slug": "bourse-yas-2027-berlin"
-  },
-  {
-    "titre": "Bourses pour les praticiens créatifs et artistiques - Afrique australe",
-    "seo_slug": "bourse-praticiens-creatifs-afrique-australe-2026",
-    "organisation": "Goethe-Institut",
-    "montant": 6000,
-    "devise": "EUR",
     "type_financement": "bourse complète",
-    "deadline": "2026-10-05",
-    "deadline_texte": "Lundi 5 octobre 2026",
+    "deadline": "2026-10-13",
+    "deadline_texte": "13 octobre 2026",
     "niveau_etudes": [],
     "domaines": [
-      "Arts",
-      "Création",
-      "Patrimoine"
+      "Commerce",
+      "Technologies émergentes",
+      "Gouvernance",
+      "Sécurité"
     ],
     "pays_eligibles": [
+      "Angola",
+      "Bénin",
       "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Cameroun",
+      "Cap-Vert",
+      "République centrafricaine",
+      "Tchad",
+      "Comores",
+      "République du Congo",
+      "République démocratique du Congo (RDC)",
+      "Côte d'Ivoire",
+      "Djibouti",
+      "Guinée équatoriale",
+      "Érythrée",
       "Eswatini",
+      "Éthiopie",
+      "Gabon",
+      "Gambie",
+      "Ghana",
+      "Guinée",
+      "Guinée-Bissau",
+      "Kenya",
       "Lesotho",
+      "Liberia",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mauritanie",
+      "Maurice",
+      "Mozambique",
       "Namibie",
+      "Niger",
+      "Nigeria",
+      "Rwanda",
+      "Sao Tomé-et-Principe",
+      "Sénégal",
+      "Seychelles",
+      "Sierra Leone",
+      "Somalie",
       "Afrique du Sud",
+      "Soudan du Sud",
+      "Soudan",
+      "Tanzanie",
+      "Togo",
+      "Ouganda",
+      "Zambie",
       "Zimbabwe"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [],
-    "avantages": [
-      "Bourse de 6 000 €",
-      "Participation à un processus de développement narratif de six mois",
-      "Participation à la création de trois œuvres créatives co-produites"
-    ],
-    "eligibilite": [
-      "Avoir 18 ans ou plus",
-      "Avoir au moins 3 ans de pratique artistique ou créative professionnelle",
-      "Résider au Botswana, en Eswatini, au Lesotho, en Namibie, en Afrique du Sud ou au Zimbabwe"
-    ],
-    "procedure_etapes": [
-      "1. Lire l'appel à propositions (PDF)",
-      "2. Postuler via le portail de candidature Goethe"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Portail de candidature Goethe",
-        "url": "https://portal.gap.goethe.de/en-US/"
-      },
-      {
-        "label": "Appel à propositions (PDF)",
-        "url": "/resources/files/pdf359/thee-final.pdf"
-      }
-    ],
-    "mots_cles": [
-      "bourse arts",
-      "bourse Afrique australe",
-      "bourse praticiens créatifs",
-      "bourse Goethe",
-      "bourse 2026",
-      "bourse artistes",
-      "bourse patrimoine"
-    ],
-    "lien_candidature": "https://portal.gap.goethe.de/en-US/",
-    "source_url": "https://www.goethe.de/prj/aep/en/cal/sna.html?fbclid=IwY2xjawUmi9xleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeoESkrOKlRoZf0YUaT3QJNTUR5YC0BduQ9vkCdxCeW6p3912aleEV1GRoWqo_aem_hJdUrIYEKYiovepK2U6UZA",
-    "statut": "ouvert",
-    "resume": "Le Goethe-Institut lance un appel à candidatures pour sélectionner 99 praticiens créatifs et artistiques qui seront répartis dans 11 clusters narratifs. Chaque cluster est dirigé par une organisation patrimoniale et les participants recevront une bourse de 6 000 €. Ils prendront part à un processus de développement narratif de six mois aboutissant à trois œuvres créatives co-produites. Les candidats doivent être âgés d'au moins 18 ans, avoir trois ans d'expérience professionnelle et résider dans l'un des six pays d'Afrique australe éligibles.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-27T23:56:07",
-    "slug": "bourse-praticiens-creatifs-afrique-australe-2026"
-  },
-  {
-    "titre": "Bourse Knight-Hennessy pour études supérieures à Stanford",
-    "seo_slug": "bourse-knight-hennessy-stanford-2027",
-    "organisation": "Knight-Hennessy Scholars",
-    "montant": null,
-    "devise": "USD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-10-06",
-    "deadline_texte": "6 octobre 2026 à 13h (heure du Pacifique)",
-    "niveau_etudes": [
-      "Master",
-      "Doctorat"
-    ],
-    "domaines": [
-      "Tous les domaines"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "CV",
-      "Relevé de notes",
-      "Réponses aux questions courtes et dissertations",
-      "Lettres de recommandation"
-    ],
-    "avantages": [
-      "Frais de scolarité pour jusqu'à trois ans",
-      "Bourse pour frais de subsistance et académiques",
-      "Bourse de voyage pour un voyage annuel aller-retour à Stanford"
-    ],
-    "eligibilite": [
-      "Être nouvellement inscrit dans un programme d'études supérieures à temps plein à Stanford",
-      "Ou être un étudiant en doctorat actuel à Stanford en première année d'inscription",
-      "Aucune restriction de citoyenneté, âge, université d'origine, domaine d'études ou aspiration professionnelle"
-    ],
-    "procedure_etapes": [
-      "1. Soumettre la candidature Knight-Hennessy Scholars (CV, relevé de notes, réponses aux questions, lettres de recommandation).",
-      "2. Soumettre la candidature au programme d'études supérieures de Stanford (les délais et exigences varient selon le programme).",
-      "3. La date limite pour la cohorte 2027 est le 6 octobre 2026 à 13h (heure du Pacifique)."
-    ],
-    "contacts": [
-      "khscholars@stanford.edu",
-      "+1.650.721.0771"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34691/?keyword=internship&mode=location&fbclid=IwY2xjawScbKdleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpiH2AHjo0-QfoeGqf1bJZC5o_Mcfb97Dl_AAl8esS4ls4c0b2SLa5k-Db0S_aem_LiS4An4sE0vmRdcITi1WOw"
-      },
-      {
-        "label": "Page d'admission",
-        "url": "https://knight-hennessy.stanford.edu/admission"
-      },
-      {
-        "label": "Rapport annuel 2024-25",
-        "url": "https://annualreport.knight-hennessy.stanford.edu/2025/"
-      }
-    ],
-    "mots_cles": [
-      "bourse knight-hennessy",
-      "bourse stanford",
-      "bourse études supérieures",
-      "bourse multidisciplinaire",
-      "bourse leadership",
-      "bourse internationale",
-      "bourse doctorat",
-      "bourse master"
-    ],
-    "lien_candidature": "https://knight-hennessy.stanford.edu/admission",
-    "source_url": "https://knight-hennessy.stanford.edu/about-knight-hennessy-scholars/overview-knight-hennessy-scholars",
-    "statut": "ouvert",
-    "resume": "La bourse Knight-Hennessy Scholars offre un financement complet pour jusqu'à trois ans d'études supérieures à l'Université Stanford, incluant les frais de scolarité, une bourse de subsistance et une bourse de voyage annuelle. Ouverte à tous les domaines et nationalités, elle vise à former des leaders visionnaires et collaboratifs. Les candidatures pour la cohorte 2027 sont ouvertes jusqu'au 6 octobre 2026.",
-    "adresse": "Denning House 580 Lomita Drive Stanford, CA  94305-8207  USA",
-    "extrait_le": "2026-06-15T05:34:14",
-    "slug": "bourse-knight-hennessy-stanford-2027"
-  },
-  {
-    "titre": "Bourse du Programme International de Formation à la Recherche (IRTP)",
-    "seo_slug": "bourse-irtp-recherche-australie-2026",
-    "organisation": "University of Technology Sydney (UTS)",
-    "montant": 40500,
-    "devise": "AUD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-10-07",
-    "deadline_texte": "7 octobre 2026 (date limite de candidature pour la session de recherche 2027 - juillet)",
-    "niveau_etudes": [
-      "Master par recherche",
-      "Doctorat (PhD)"
-    ],
-    "domaines": [
-      "Tous les domaines de recherche"
-    ],
-    "pays_eligibles": [
-      "Tous les pays (étudiants internationaux)"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais (niveau requis pour l'admission à l'UTS)",
-    "documents_requis": [
-      "Formulaire de candidature en ligne complété",
-      "Documents justificatifs requis pour l'admission (relevés de notes, diplômes, etc.)",
-      "Preuve de maîtrise de l'anglais (IELTS/TOEFL ou équivalent)",
-      "Proposition de recherche (pour les programmes de recherche)"
-    ],
-    "avantages": [
-      "Frais de scolarité pris en charge (jusqu'à 3,5 ans pour le doctorat et 2 ans pour le master par recherche)",
-      "Allocation de subsistance (jusqu'à 3,5 ans pour le doctorat et 2 ans pour le master par recherche, à partir du 1er janvier 2026, 40 500 $ par an, exonérée d'impôt)",
-      "Couverture santé pour étudiants étrangers (OSHC) - célibataire ou famille pendant la durée du programme"
-    ],
-    "eligibilite": [
-      "Être inscrit à un programme de recherche de cycle supérieur (HDR) en tant qu'étudiant étranger tel que défini dans la loi Higher Education Support Act 2003 (Cth) à l'Université au cours de l'année de la bourse IRTP (les bourses IRTP ne sont pas disponibles pour les candidats dont l'inscription à un programme de recherche de troisième cycle n'a pas été acceptée par l'Université) dans un cours HDR accrédité",
-      "Ne pas recevoir une récompense, allocation ou salaire équivalent offrant un avantage supérieur à 75 % du taux de la bourse IRTP pour entreprendre le HDR. Les revenus provenant de sources sans lien avec le programme d'études ne sont pas soumis à la règle des 75 %",
-      "Ne pas recevoir de récompense ou de bourse équivalente du Commonwealth destinée à compenser les frais de HDR"
-    ],
-    "procedure_etapes": [
-      "Vérifier que vous répondez aux critères d'éligibilité",
-      "Remplir le formulaire de candidature en ligne pour l'admission à un programme de recherche à l'UTS",
-      "Dans la section 'SCHOLARSHIP/SPONSORSHIP INFORMATION' du formulaire, cocher la case 'YES' pour être considéré pour l'IRTP et les bourses associées",
-      "Soumettre la candidature complète avec tous les documents justificatifs avant la date limite",
-      "Attendre la décision du comité de sélection"
-    ],
-    "contacts": [
-      "grs@uts.edu.au"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel de la bourse IRTP",
-        "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp"
-      },
-      {
-        "label": "Conditions d'attribution de l'IRTP (PDF)",
-        "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp/contentassets/grs-coa-2025-international-research-training-program-scholarship-irtp_0.pdf"
-      },
-      {
-        "label": "Comment postuler",
-        "url": "https://www.uts.edu.au/research-and-teaching/graduate-research/future-research-students/how-apply"
-      },
-      {
-        "label": "Bourses de recherche",
-        "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/how-to-fund-your-phd-or-masters-by-research"
-      },
-      {
-        "label": "UTS Research Degrees",
-        "url": "https://www.uts.edu.au/research-and-teaching/research-degrees"
-      },
-      {
-        "label": "UTS Future Research Students",
-        "url": "https://www.uts.edu.au/research-and-teaching/graduate-research/future-research-students/why-graduate-research-uts"
-      },
-      {
-        "label": "UTS Current Research Students",
-        "url": "https://www.uts.edu.au/research-and-teaching/graduate-research/current-research-students/graduate-research-journey"
-      }
-    ],
-    "mots_cles": [
-      "bourse australie",
-      "bourse doctorat",
-      "bourse master recherche",
-      "bourse internationale",
-      "IRTP",
-      "UTS",
-      "bourse 2026",
-      "financement recherche",
-      "bourse complète",
-      "étudier en australie"
-    ],
-    "lien_candidature": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp",
-    "source_url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp?utm_id=97758_v0_s00_e0_tv2_a1den5f08gvbpa&fbclid=IwY2xjawUez6BwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEevI8zjUvrpHoLjxvnNJi3XLVaXQiyAJkcF3tDvB0akvUjWhAxziMzXPww3rE_aem_y-qvRpxqnxbu2pSK1CSBKw",
-    "statut": "ouvert",
-    "resume": "La bourse du Programme International de Formation à la Recherche (IRTP) est financée par le gouvernement australien et vise à soutenir les étudiants internationaux exceptionnels poursuivant un doctorat ou un master par recherche à l'Université de Technologie de Sydney (UTS). Elle couvre les frais de scolarité, une allocation de subsistance annuelle de 40 500 $ (exonérée d'impôt) et une assurance santé pour étudiants étrangers. Les candidatures pour la session de recherche 2027 (juillet) sont ouvertes jusqu'au 7 octobre 2026. Ne manquez pas cette opportunité de financer vos études supérieures en Australie.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-22T03:06:29",
-    "slug": "bourse-irtp-recherche-australie-2026"
-  },
-  {
-    "titre": "Bourses doctorales Quentin Bryce en droit",
-    "seo_slug": "bourse-quentin-bryce-doctorat-droit-2026",
-    "organisation": "University of Technology Sydney (UTS)",
-    "montant": 40000,
-    "devise": "AUD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-10-07",
-    "deadline_texte": "7 octobre 2026 (pour les candidats internationaux, session de recherche 2027, session 2). Les candidats nationaux doivent postuler avant le 23 septembre 2026.",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Droit"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [],
-    "avantages": [
-      "Allocation de subsistance de 40 000 $ par an pendant 4 ans (temps plein)"
-    ],
-    "eligibilite": [
-      "Avoir été accepté pour entreprendre un doctorat en philosophie (PhD) à la Faculté de droit",
-      "Avoir complété un master par recherche ou un baccalauréat avec mention très bien, ou être considéré par l'Université comme ayant un niveau équivalent",
-      "Être inscrit à temps plein au début de la bourse, ou à temps partiel dans les circonstances prévues",
-      "Ne pas avoir déjà obtenu un diplôme de niveau égal ou supérieur à celui du programme proposé"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les conditions d'éligibilité",
-      "2. Postuler avant la date limite correspondant à votre profil (national ou international)",
-      "3. Soumettre la candidature via le portail de l'UTS"
-    ],
-    "contacts": [
-      "https://www.uts.edu.au/research/graduate/contact-us"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Page de contact pour les études supérieures",
-        "url": "https://www.uts.edu.au/research/graduate/contact-us"
-      },
-      {
-        "label": "Page de la bourse",
-        "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/quentin-bryce-law-doctoral-scholarships"
-      }
-    ],
-    "mots_cles": [
-      "bourse doctorat droit",
-      "bourse Quentin Bryce",
-      "bourse UTS",
-      "bourse Australie",
-      "bourse droit 2026",
-      "bourse doctorale",
-      "financement thèse droit",
-      "bourse internationale Australie"
-    ],
-    "lien_candidature": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/quentin-bryce-law-doctoral-scholarships",
-    "source_url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/quentin-bryce-law-doctoral-scholarships?utm_id=97758_v0_s00_e0_tv2_a1den5f08gvbpa&fbclid=IwY2xjawUez9BwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEevI8zjUvrpHoLjxvnNJi3XLVaXQiyAJkcF3tDvB0akvUjWhAxziMzXPww3rE_aem_y-qvRpxqnxbu2pSK1CSBKw",
-    "statut": "ouvert",
-    "resume": "La Faculté de droit de l'Université de Technologie de Sydney (UTS) offre les bourses doctorales Quentin Bryce pour les étudiants entreprenant un doctorat en philosophie (PhD) en droit. Ces bourses visent à promouvoir et récompenser la recherche de qualité au sein de la faculté. Les candidats doivent avoir été acceptés dans le programme de doctorat et posséder un master par recherche ou un baccalauréat avec mention très bien. La bourse offre une allocation de subsistance de 40 000 $ par an pendant quatre ans à temps plein. Les candidatures sont ouvertes aux étudiants nationaux et internationaux, avec des dates limites distinctes.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-22T03:07:33",
-    "slug": "bourse-quentin-bryce-doctorat-droit-2026"
-  },
-  {
-    "titre": "GFF x CIVIC VOICES : Appel à propositions",
-    "seo_slug": "bourse-gff-civic-voices-afrique-2026",
-    "organisation": "PATH, AFIDEP, OAY (Consortium VOICES)",
-    "montant": 3350000,
-    "devise": "USD",
-    "type_financement": "subvention",
-    "deadline": "2026-10-07",
-    "deadline_texte": "7 octobre 2026 à 23h59 heure d'Afrique de l'Est",
-    "niveau_etudes": [],
-    "domaines": [
-      "Santé et nutrition des femmes, enfants et adolescents",
-      "Mobilisation des ressources intérieures",
-      "Plaidoyer",
-      "Leadership des jeunes"
-    ],
-    "pays_eligibles": [
-      "Afrique (jusqu'à 22 pays)"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Proposition technique (modèle fourni)",
-      "Formulaire de candidature",
-      "Documents organisationnels"
-    ],
-    "avantages": [
-      "Subvention jusqu'à 18 mois",
-      "Formation en plaidoyer",
-      "Assistance technique en analyse budgétaire",
-      "Mentorat"
-    ],
-    "eligibilite": [
-      "Être une organisation locale de la société civile ou une organisation dirigée par des jeunes et/ou une organisation communautaire",
-      "Chaque partenariat doit inclure au moins 2 et au plus 3 organisations, dont au moins une dirigée par des jeunes"
-    ],
-    "procedure_etapes": [
-      "1. Consulter la page de ressources pour les détails de soumission et les documents de l'événement de lancement",
-      "2. Télécharger et remplir le modèle de proposition technique",
-      "3. Soumettre la proposition avant la date limite"
-    ],
-    "contacts": [
-      "voices@path.org"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Page de ressources",
-        "url": "https://www.path.org/our-impact/resources/gff-x-civic-voices-funding-opportunity-resources/"
-      },
-      {
-        "label": "Appel à propositions (PDF)",
-        "url": "https://www.path.org/documents/7374/VOICES_Call_for_Proposals.pdf"
-      },
-      {
-        "label": "Modèle de soumission de proposition technique",
-        "url": "https://www.path.org/documents/7377/VOICES_Submission_Template_Fillable.docx"
-      },
-      {
-        "label": "FAQ",
-        "url": "https://www.path.org/documents/7406/VOICES_FAQ_EN_Updated_25Sept.pdf"
-      },
-      {
-        "label": "Site de signalement sécurisé",
-        "url": "https://secure.ethicspoint.com/domain/media/en/gui/49666/index.html"
-      },
-      {
-        "label": "Site de PATH",
-        "url": "https://www.path.org/"
-      },
-      {
-        "label": "Site de AFIDEP",
-        "url": "https://afidep.org/"
-      },
-      {
-        "label": "Site de OAY",
-        "url": "https://www.oayouth.org/"
-      }
-    ],
-    "mots_cles": [
-      "bourse Afrique",
-      "subvention société civile",
-      "santé femmes enfants",
-      "leadership jeunes",
-      "mobilisation ressources",
-      "GFF CIVIC VOICES",
-      "appel à propositions"
-    ],
-    "lien_candidature": "https://www.path.org/our-impact/resources/gff-x-civic-voices-funding-opportunity-resources/",
-    "source_url": "https://www.path.org/who-we-are/programs/advocacy-and-policy/gff-x-civic-voices-call-for-proposals/?fbclid=IwY2xjawUmjCxleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeodj6m5TnVp14Jx4Tdec37DLG2QuTGWZdApTHiBL8ccdA1VAWDaMfMxo0aMA_aem_uewtMVhjgZvWPcIBp_xyHg",
-    "statut": "ouvert",
-    "resume": "Le consortium VOICES, mené par PATH en partenariat avec AFIDEP et OAY, lance un appel à propositions pour soutenir les organisations de la société civile et dirigées par des jeunes en Afrique. Jusqu'à 3,35 millions de dollars seront attribués à des partenariats dans jusqu'à 22 pays africains. Les subventions, d'une durée maximale de 18 mois, incluent une formation en plaidoyer, une assistance technique en analyse budgétaire et un mentorat. Les candidatures sont ouvertes jusqu'au 7 octobre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-27T23:57:56",
-    "slug": "bourse-gff-civic-voices-afrique-2026"
-  },
-  {
-    "titre": "Bourse de voyage commémorative Dr. Gerald A. Soffen pour l'avancement de l'éducation en sciences spatiales",
-    "seo_slug": "bourse-soffen-voyage-sciences-spatiales-2026",
-    "organisation": "Dr. Gerald A. Soffen Memorial Fund for the Advancement of Space Science Education",
-    "montant": 1000,
-    "devise": "USD",
-    "type_financement": "bourse de voyage",
-    "deadline": "2026-10-09",
-    "deadline_texte": "9 octobre 2026 à 17h00 ET (heure de l'Est) pour les conférences débutant le 8 novembre 2026 ou après",
-    "niveau_etudes": [
-      "Licence",
-      "Master",
-      "Doctorat"
-    ],
-    "domaines": [
-      "Aérospatiale",
-      "Astrobiologie",
-      "Astronomie",
-      "Sciences de la Terre et de l'espace",
-      "Ingénierie"
-    ],
-    "pays_eligibles": [
-      "États-Unis (inscription dans un établissement accrédité aux États-Unis)"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne",
-      "Résumé de la conférence (abstract)",
-      "Preuve d'inscription à temps plein",
-      "Budget de voyage",
-      "Lettre de recommandation (peut-être)"
-    ],
-    "avantages": [
-      "Jusqu'à 2000 $ au total, aucune bourse individuelle ne dépassant 1000 $",
-      "Participation à des conférences virtuelles ou en personne",
-      "Frais de voyage et d'inscription couverts (selon les besoins)"
-    ],
-    "eligibilite": [
-      "Étudiants de toutes nationalités",
-      "Inscription à temps plein dans un établissement d'enseignement supérieur accrédité aux États-Unis (licence ou cycle supérieur)",
-      "Poursuite d'études dans un domaine lié à l'aérospatiale ou à l'ingénierie",
-      "Présentation de recherche lors d'une conférence",
-      "Conférence débutant le 8 novembre 2026 ou après"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les instructions sur le site officiel",
-      "2. Créer un compte utilisateur",
-      "3. Remplir le formulaire de candidature en ligne",
-      "4. Téléverser les documents requis (résumé, preuve d'inscription, etc.)",
-      "5. Soumettre la candidature avant la date limite",
-      "6. Attendre la notification d'attribution environ un mois après la date limite"
-    ],
-    "contacts": [
-      "help@SoffenFund.org",
-      "help@lsoffenfund.org"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "http://soffenfund.org"
-      },
-      {
-        "label": "Instructions",
-        "url": "http://soffenfund.org/instructions.jsp"
-      },
-      {
-        "label": "Nouvel utilisateur",
-        "url": "http://soffenfund.org/newUser.jsp"
-      },
-      {
-        "label": "Boursiers",
-        "url": "http://soffenfund.org/awardees.jsp"
-      },
-      {
-        "label": "Mot de passe oublié",
-        "url": "http://soffenfund.org/login.jsp"
-      }
-    ],
-    "mots_cles": [
-      "bourse soffen",
-      "bourse voyage",
-      "sciences spatiales",
-      "aérospatiale",
-      "étudiants États-Unis",
-      "conférence",
-      "bourse 2026"
-    ],
-    "lien_candidature": "http://soffenfund.org",
-    "source_url": "https://soffenfund.org/?fbclid=IwY2xjawUmiSZleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeOW_EiSNn-xtQhucSLg0NQfGxbn2sCqrbGnuFO6kLt1vzNB6GKLD1_M2X6C0_aem_kycM2akPfYl-mIN9g6W6xg",
-    "statut": "ouvert",
-    "resume": "La bourse de voyage commémorative Dr. Gerald A. Soffen soutient les étudiants poursuivant des études en sciences et ingénierie aérospatiales en leur offrant des subventions pour présenter leurs recherches lors de conférences. Les candidats doivent être inscrits à temps plein dans un établissement accrédité aux États-Unis, quelle que soit leur nationalité. Les bourses, d'un montant maximal de 1000 $ par personne (jusqu'à 2000 $ au total), couvrent la participation à des conférences virtuelles ou en personne. La date limite de candidature est fixée au 9 octobre 2026 pour les conférences débutant le 8 novembre 2026 ou après.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-27T23:50:24",
-    "slug": "bourse-soffen-voyage-sciences-spatiales-2026"
-  },
-  {
-    "titre": "Programme de formation MTN en TIC et compétences commerciales - Phase 8",
-    "seo_slug": "bourse-mtn-ict-business-skills-2026",
-    "organisation": "MTN Foundation",
-    "montant": 1000000,
-    "devise": "NGN",
-    "type_financement": "bourse partielle",
-    "deadline": "2026-10-11",
-    "deadline_texte": "11 octobre 2026",
-    "niveau_etudes": [],
-    "domaines": [
-      "TIC",
-      "Compétences commerciales",
-      "Entrepreneuriat"
-    ],
-    "pays_eligibles": [
-      "Nigeria"
     ],
     "age_maximum": 35,
     "langue_requise": "Anglais",
-    "documents_requis": [],
+    "documents_requis": [
+      "Copie du passeport international (si disponible) ou autre pièce d'identité avec photo délivrée par le gouvernement",
+      "Documentation vérifiant l'âge, la citoyenneté et la résidence (à fournir à l'étape de l'entretien si sélectionné comme demi-finaliste)"
+    ],
     "avantages": [
-      "Formation de cinq semaines en TIC et compétences commerciales",
-      "Soutien de données pour une expérience d'apprentissage fluide",
-      "Jusqu'à 1 000 000 ₦ en subventions d'équipement pour les 100 meilleurs participants",
-      "Fonds total de 100 000 000 ₦"
+      "Participation à un institut exécutif de six semaines dans un collège ou une université américaine",
+      "Échanges avec des experts américains en commerce et commerce international, technologies émergentes, gouvernance et sécurité",
+      "Rencontres avec des leaders américains des secteurs public et privé pour renforcer le réseau professionnel",
+      "Exploration de l'innovation, de l'industrie, de l'histoire et de la culture américaines",
+      "Intégration à un réseau actif de près de 7 800 anciens participants"
     ],
     "eligibilite": [
-      "Femme nigériane",
-      "Âge entre 18 et 35 ans",
-      "Propriétaire et gestionnaire d'une micro-entreprise opérationnelle depuis au maximum 2 ans",
-      "Entreprise située dans l'un des États suivants : Rivers, Abia, Ogun, Kwara, Kano ou Gombe"
+      "Être âgé de 25 à 35 ans à la date limite de candidature (les candidats exceptionnels de 21 à 24 ans peuvent être considérés)",
+      "Ne pas être citoyen ou résident permanent des États-Unis",
+      "Être éligible à l'obtention d'un visa J-1 des États-Unis",
+      "Ne pas être employé ou membre de la famille immédiate (conjoint, parents, enfants ou frères et sœurs) d'un employé du gouvernement américain (y compris une ambassade ou un consulat des États-Unis ou une autre entité gouvernementale américaine)",
+      "Maîtriser la lecture, l'écriture et l'expression orale en anglais (les candidats sourds doivent se référer à la section « English Language » des instructions de candidature)",
+      "Être citoyen de l'un des pays éligibles (liste fournie)",
+      "Être résident de l'un des pays ci-dessus et y résider de façon permanente au 1er février 2027 et au début de la bourse en juin 2027",
+      "Ne pas être ancien participant ou alumni de la bourse Mandela Washington",
+      "Les employés et consultants actuels d'IREX et leurs familles immédiates ne sont pas éligibles"
     ],
     "procedure_etapes": [
-      "Vérifier les critères d'éligibilité",
-      "Cliquer sur le lien de candidature",
-      "Remplir le formulaire de candidature en ligne",
-      "Soumettre la candidature avant la date limite"
+      "1. Vérifier les critères d'éligibilité et s'assurer de répondre à toutes les conditions",
+      "2. Préparer les documents nécessaires (passeport ou pièce d'identité, justificatifs d'âge, de citoyenneté et de résidence)",
+      "3. Soumettre la candidature en ligne avant la date limite du 13 octobre 2026",
+      "4. Les candidatures éligibles seront examinées et notées selon les critères de sélection",
+      "5. Les demi-finalistes seront interviewés en personne par les ambassades et consulats américains dans leur pays d'origine (novembre 2026 – janvier 2027)",
+      "6. Fournir une copie du passeport international ou autre pièce d'identité avec photo lors de l'entretien",
+      "7. Les candidats seront informés de leur statut en février/mars 2027",
+      "8. Les finalistes sélectionnés devront participer à une orientation pré-départ en personne obligatoire (mars – mai 2027)",
+      "9. Traitement des visas et orientations pré-départ pour les finalistes (mars – mai 2027)",
+      "10. Début de la bourse aux États-Unis en juin 2027"
     ],
     "contacts": [],
     "liens_utiles": [
       {
-        "label": "Formulaire de candidature",
-        "url": "https://mtnictandbusinessskills.mtn.ng/mtn-foundation"
+        "label": "Portail de candidature",
+        "url": "https://apply.mandelawashingtonfellowship.org"
+      },
+      {
+        "label": "Instructions de candidature 2027",
+        "url": "https://www.mandelawashingtonfellowship.org/2027-application-instructions/"
+      },
+      {
+        "label": "FAQ sur la candidature",
+        "url": "https://www.mandelawashingtonfellowship.org/apply-faqs/"
+      },
+      {
+        "label": "Préparer une candidature solide",
+        "url": "https://www.mandelawashingtonfellowship.org/preparing-strong-application/"
+      },
+      {
+        "label": "Informations pour les candidats en situation de handicap",
+        "url": "https://www.mandelawashingtonfellowship.org/information-for-fellows-with-disabilities/"
+      },
+      {
+        "label": "Informations sur la suspension de délivrance de visas (travel.state.gov)",
+        "url": "https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html"
+      },
+      {
+        "label": "Bureau des affaires éducatives et culturelles",
+        "url": "https://eca.state.gov/"
+      },
+      {
+        "label": "Réseau YALI",
+        "url": "https://yali.state.gov/network/"
       }
     ],
     "mots_cles": [
-      "bourse MTN",
-      "formation TIC",
-      "compétences commerciales",
-      "micro-entreprise",
-      "femmes nigérianes",
-      "subvention équipement",
-      "phase 8",
-      "2026"
+      "bourse Mandela Washington",
+      "YALI 2027",
+      "bourse États-Unis",
+      "leadership africain",
+      "bourse échange",
+      "programme exécutif",
+      "bourse gouvernance",
+      "bourse technologies émergentes",
+      "bourse commerce",
+      "bourse sécurité"
     ],
-    "lien_candidature": "https://mtnictandbusinessskills.mtn.ng/mtn-foundation",
-    "source_url": "https://www.mtn.ng/mtnf-ict/?fbclid=IwY2xjawUmjKlleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeOW_EiSNn-xtQhucSLg0NQfGxbn2sCqrbGnuFO6kLt1vzNB6GKLD1_M2X6C0_aem_kycM2akPfYl-mIN9g6W6xg",
+    "lien_candidature": "https://apply.mandelawashingtonfellowship.org",
+    "source_url": "https://www.mandelawashingtonfellowship.org/apply/?fbclid=IwY2xjawU54wJleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4PBAz4flvaaqQBKc5RbvPIqZB0OBDW8jaC4GkOMz0MvmcqvXnAFh5F9-KZvw_aem_ePhZOu9xCtP_zYOs5NVnxQ",
     "statut": "ouvert",
-    "resume": "Le programme de formation MTN en TIC et compétences commerciales (Phase 8) est une initiative de la MTN Foundation visant à autonomiser les jeunes femmes nigérianes propriétaires de micro-entreprises âgées de 18 à 35 ans. Cette formation de cinq semaines utilise une approche d'apprentissage mixte combinant des modules en ligne, des sessions dirigées par des instructeurs, des masterclasses et un projet de synthèse. Les 100 meilleurs participants recevront jusqu'à 1 000 000 ₦ en subventions d'équipement, provenant d'un fonds total de 100 000 000 ₦. Les candidatures sont ouvertes jusqu'au 11 octobre 2026 pour les femmes résidant dans les États de Rivers, Abia, Ogun, Kwara, Kano ou Gombe.",
+    "resume": "La bourse Mandela Washington (YALI) 2027 offre à environ 550 jeunes leaders africains une opportunité unique de participer à un programme exécutif de six semaines aux États-Unis. Les boursiers développeront leurs compétences en commerce, technologies émergentes, gouvernance et sécurité, tout en établissant des partenariats avec des experts et leaders américains. Ce programme prestigieux, financé par le Département d'État américain et mis en œuvre par IREX, vise à renforcer les capacités des jeunes leaders pour qu'ils contribuent au développement de leurs communautés en Afrique subsaharienne. Les candidatures sont ouvertes du 22 septembre au 13 octobre 2026.",
     "imageUrl": null,
-    "extrait_le": "2026-09-27T23:58:56",
-    "slug": "bourse-mtn-ict-business-skills-2026"
+    "extrait_le": "2026-10-12T18:02:16",
+    "slug": "bourse-mandela-washington-2027"
   },
   {
     "titre": "Bourses d'études - Études postuniversitaires dans les domaines des beaux-arts, du design, de la communication visuelle et du cinéma",
@@ -4103,6 +3603,125 @@
     "resume": "Le Mastercard Foundation Scholars Program en partenariat avec l'Université de Cambridge offre une bourse complète aux étudiants africains talentueux poursuivant un master. Ce programme prestigieux couvre les frais de scolarité, de subsistance et de voyage, et vise à former la prochaine génération de leaders engagés pour le développement durable en Afrique. Les candidats doivent postuler à un cours de troisième cycle et démontrer un fort potentiel de leadership. La date limite de candidature varie selon le cours, généralement début décembre ou janvier, avec une date clé pour la dispense de frais fixée au 18 novembre 2026.",
     "imageUrl": null,
     "extrait_le": "2026-09-22T03:01:35",
+    "slug": "bourse-mastercard-cambridge-2026"
+  },
+  {
+    "titre": "Bourse Mastercard Foundation Scholars Program - Université de Cambridge",
+    "seo_slug": "bourse-mastercard-cambridge-2026",
+    "organisation": "Mastercard Foundation & University of Cambridge",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-18",
+    "deadline_texte": "18 novembre 2026 (date limite pour la demande de dispense de frais de dossier). La date limite de financement pour le programme de bourses est généralement début décembre ou janvier, plus tôt que la date limite standard du cours.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "Angola",
+      "Bénin",
+      "Burkina Faso",
+      "Burundi",
+      "République Centrafricaine",
+      "Tchad",
+      "Comores",
+      "Congo (Rép. Dém.)",
+      "Djibouti",
+      "Érythrée",
+      "Éthiopie",
+      "Gambie",
+      "Guinée",
+      "Guinée-Bissau",
+      "Lesotho",
+      "Liberia",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mauritanie",
+      "Mozambique",
+      "Niger",
+      "Rwanda",
+      "Sénégal",
+      "Sierra Leone",
+      "Somalie",
+      "Soudan du Sud",
+      "Soudan",
+      "Tanzanie (Rép.-Unie)",
+      "Togo",
+      "Ouganda",
+      "Zambie"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (IELTS 7.0 ou 7.5 selon le cours)",
+    "documents_requis": [
+      "Relevés de notes",
+      "Passeport",
+      "Déclaration de bourse (scholarship statement)",
+      "Résultats IELTS (peuvent être soumis après l'offre conditionnelle)"
+    ],
+    "avantages": [
+      "Prise en charge complète des frais de scolarité",
+      "Frais de subsistance",
+      "Frais de voyage",
+      "Autres avantages (détails non spécifiés)"
+    ],
+    "eligibilite": [
+      "Être ressortissant d'un pays éligible (liste ci-dessus)",
+      "Répondre aux exigences académiques du cours choisi",
+      "Avoir un potentiel de leadership",
+      "S'engager à contribuer à un avenir durable en Afrique"
+    ],
+    "procedure_etapes": [
+      "1. Utiliser le répertoire des cours de troisième cycle pour trouver le cours souhaité et vérifier les conditions d'admission, la date limite de financement et les documents requis.",
+      "2. Naviguer vers l'onglet 'Requirements' et vérifier si votre diplôme répond aux exigences académiques via le vérificateur de qualifications internationales.",
+      "3. Ouvrir le profil du cours choisi dans le répertoire des cours de troisième cycle et cliquer sur 'Apply Now'. Créer un compte pour sauvegarder et reprendre la candidature plus tard.",
+      "4. Demander une dispense de frais de dossier (si nécessaire). Les candidats du Mastercard Foundation Scholars Program sont éligibles si les conditions académiques sont remplies. Pour les pays listés, la dispense est automatique. Sinon, soumettre le formulaire de demande de dispense en y joignant les relevés de notes et le passeport, avant le 18 novembre 2026.",
+      "5. Lors de la candidature, cocher l'option de financement pour voir les options éligibles. Si les conditions d'admission sont remplies, sélectionner le Mastercard Foundation Scholars Program.",
+      "6. Rédiger la déclaration de bourse en mettant l'accent sur : l'historique de carrière/éducation, le potentiel de leadership, comment la bourse aidera à atteindre les objectifs, et comment contribuer à un avenir durable en Afrique.",
+      "7. Soumettre la candidature avant la date limite de financement du cours (généralement début décembre ou janvier, plus tôt que la date limite standard).",
+      "8. Choisir un collège (lieu de vie, repas et enseignements en petits groupes).",
+      "9. Les départements sélectionnent les candidats au fur et à mesure, avec des offres entre décembre et février. Certains départements organisent des entretiens.",
+      "10. L'équipe du programme examine les candidats ayant reçu une offre et sélectionne les boursiers en fonction de la candidature au cours et de la déclaration de bourse. Les lettres d'offre sont envoyées fin mars ou début avril.",
+      "11. Si retenu, soumettre les documents manquants avant le 31 juillet (généralement les résultats IELTS)."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Répertoire des cours de troisième cycle",
+        "url": "https://www.postgraduate.study.cam.ac.uk/courses"
+      },
+      {
+        "label": "Vérificateur de qualifications internationales",
+        "url": "https://www.postgraduate.study.cam.ac.uk/apply/before/international-qualifications"
+      },
+      {
+        "label": "Formulaire de demande de dispense de frais de dossier",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfAF_DsvIL-aTVXJivpCweyhrolPDNuz6lHbYKKskPP_ENHlg/viewform"
+      },
+      {
+        "label": "Informations sur les collèges de l'Université",
+        "url": "https://www.postgraduate.study.cam.ac.uk/colleges"
+      }
+    ],
+    "mots_cles": [
+      "bourse Mastercard Foundation",
+      "bourse Cambridge",
+      "bourse master Afrique",
+      "bourse complète Royaume-Uni",
+      "Mastercard Foundation Scholars Program",
+      "bourse études Cambridge",
+      "bourse 2026",
+      "bourse pour étudiants africains"
+    ],
+    "lien_candidature": "https://www.postgraduate.study.cam.ac.uk/courses",
+    "source_url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/how-apply?fbclid=IwY2xjawU56LtleHRuA2FlbQIxMABwZG9mAWJyaWQRMURGU21teGs2UnVjQzROSVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEefi_zTU4JQY-yEfY3lv8LIs8C_NRKE3D5JQDWskUSdWgIb0Q9zHr3cgE76yU_aem_SdqN4-Pgx_AK9ic-CVwwQg",
+    "statut": "ouvert",
+    "resume": "Le Mastercard Foundation Scholars Program en partenariat avec l'Université de Cambridge offre une bourse complète aux étudiants africains talentueux poursuivant un master. Ce programme vise à développer les compétences en leadership et à soutenir des projets contribuant à un avenir durable en Afrique. Les candidats doivent postuler à un cours de troisième cycle à Cambridge et soumettre une déclaration de bourse. La date limite de financement est généralement début décembre ou janvier, et la dispense de frais de dossier est possible jusqu'au 18 novembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-12T18:25:17",
     "slug": "bourse-mastercard-cambridge-2026"
   },
   {
@@ -17349,6 +16968,71 @@
     "slug": "bourse-mastercard-foundation-edinburgh-2026"
   },
   {
+    "titre": "Bourse de Master WACCBIP-DAAD 2027 en Biologie Cellulaire Moléculaire des Maladies Infectieuses",
+    "seo_slug": "bourse-waccbip-daad-master-ghana-2027",
+    "organisation": "West African Centre for Cell Biology of Infectious Pathogens (WACCBIP) & DAAD",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Biologie cellulaire moléculaire",
+      "Maladies infectieuses",
+      "Biologie",
+      "Santé"
+    ],
+    "pays_eligibles": [
+      "Afrique",
+      "Ghana"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [],
+    "procedure_etapes": [],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page de l'appel à candidatures",
+        "url": "https://www.waccbip.org/news-events/news/waccbip-daad-call-for-master-scholarship-applications-2027"
+      },
+      {
+        "label": "Site officiel de WACCBIP",
+        "url": "https://www.waccbip.org/"
+      },
+      {
+        "label": "Site officiel de DAAD",
+        "url": "https://www.daad.de/en/"
+      },
+      {
+        "label": "Université du Ghana",
+        "url": "https://www.ug.edu.gh"
+      }
+    ],
+    "mots_cles": [
+      "bourse WACCBIP DAAD",
+      "bourse master Ghana",
+      "bourse maladies infectieuses",
+      "bourse biologie cellulaire",
+      "bourse Afrique 2027",
+      "bourse master 2027",
+      "bourse DAAD",
+      "bourse University of Ghana"
+    ],
+    "lien_candidature": "https://www.waccbip.org/news-events/news/waccbip-daad-call-for-master-scholarship-applications-2027",
+    "source_url": "https://www.waccbip.org/?fbclid=IwY2xjawU559BleHRuA2FlbQIxMABwZG9mAWJyaWQRMURGU21teGs2UnVjQzROSVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe_CPyeNcrOrDaOYGWsGrUzwY44565UNP-sPEnV3Abkw27Uy3bVNuHX_-alek_aem_7Tx3apRruxAXiL9QEgVXKA",
+    "statut": "ouvert",
+    "resume": "Le West African Centre for Cell Biology of Infectious Pathogens (WACCBIP) de l'Université du Ghana, en collaboration avec le DAAD, lance un appel à candidatures pour des bourses de master (MPhil) en biologie cellulaire moléculaire des maladies infectieuses pour l'année 2027. Cette opportunité s'inscrit dans le programme de bourses In-Country/In-Region du DAAD et vise à former la prochaine génération de scientifiques biomédicaux africains. Les candidats sélectionnés bénéficieront d'une formation de haut niveau et d'un environnement de recherche de classe mondiale au sein de WACCBIP. Les détails complets sur les critères d'éligibilité, les avantages et la procédure de candidature sont disponibles sur la page dédiée de l'appel.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-12T18:21:41",
+    "slug": "bourse-waccbip-daad-master-ghana-2027"
+  },
+  {
     "titre": "Bourse internationale de premier cycle du vice-chancelier de l'UTS",
     "seo_slug": "bourse-uts-vice-chancelier-premier-cycle-2027",
     "organisation": "University of Technology Sydney (UTS)",
@@ -29946,6 +29630,664 @@
     "imageUrl": null,
     "extrait_le": "2026-09-30T15:40:08",
     "slug": "bourse-doctorale-massey-2026"
+  },
+  {
+    "titre": "Bourse du Sommet de l'Action des Jeunes 2027",
+    "seo_slug": "bourse-yas-2027-berlin",
+    "organisation": "Centre for Diplomatic Advancement (CDA)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète, partielle et accès au forum",
+    "deadline": "2026-10-05",
+    "deadline_texte": "5 octobre 2026",
+    "niveau_etudes": [
+      "Tous niveaux"
+    ],
+    "domaines": [
+      "Diplomatie",
+      "Leadership",
+      "Politique",
+      "Développement durable"
+    ],
+    "pays_eligibles": [
+      "Toutes nationalités"
+    ],
+    "age_maximum": 45,
+    "langue_requise": "Anglais (connaissance pratique)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Histoire personnelle (motivation, expérience de leadership, changement souhaité)"
+    ],
+    "avantages": [
+      "Billet d'avion aller-retour (bourse complète)",
+      "Hébergement partagé 4 étoiles (bourse complète et partielle)",
+      "Soutien pour le visa et lettre d'invitation officielle",
+      "Remboursement des frais de visa (bourse complète)",
+      "Coordination avec l'ambassade pour le traitement du visa",
+      "Liste de contrôle et conseils pour les documents de visa",
+      "Visites institutionnelles",
+      "Accès à toutes les sessions et ateliers du sommet",
+      "Événements de réseautage",
+      "Repas du sommet",
+      "Certification officielle du Centre for Diplomatic Advancement",
+      "Kit du délégué et marchandise officielle",
+      "Opportunités de prise de parole",
+      "Réseautage avec des délégués de plus de 125 pays"
+    ],
+    "eligibilite": [
+      "Âge : 16-45 ans",
+      "Toutes nationalités",
+      "Tous niveaux d'éducation",
+      "Connaissance pratique de l'anglais",
+      "Aucune expérience minimale requise"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne avant le 5 octobre 2026",
+      "2. Raconter votre histoire : motivation, expérience de leadership et changement souhaité",
+      "3. Sélection et notification : les candidats présélectionnés sont informés par email après la date limite",
+      "4. Confirmer votre place et recevoir vos documents officiels (y compris la lettre d'invitation pour le visa)",
+      "5. Préparez vos bagages pour Berlin : dates du sommet : 11-14 janvier 2027"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Soumettre votre candidature",
+        "url": "https://thecda.co/product/yas-2027-scholarships/"
+      },
+      {
+        "label": "Inscription - Lettre d'invitation",
+        "url": "https://thecda.co/product/invitation-only-yas-2027/"
+      },
+      {
+        "label": "Inscription - Pass d'accès au sommet",
+        "url": "https://thecda.co/product/summit-access-pass-yas-2027/"
+      },
+      {
+        "label": "Inscription - Auto-financé",
+        "url": "https://thecda.co/product/self-funded-yas-2027/"
+      }
+    ],
+    "mots_cles": [
+      "bourse sommet action jeunes",
+      "YAS 2027",
+      "bourse Berlin",
+      "conférence internationale jeunesse",
+      "bourse complète",
+      "leadership",
+      "diplomatie",
+      "développement durable"
+    ],
+    "lien_candidature": "https://thecda.co/product/yas-2027-scholarships/",
+    "source_url": "https://thecda.co/youth-action-summit-2027-berlin/",
+    "statut": "fermé",
+    "resume": "Le Youth Action Summit 2027 est un sommet international entièrement financé qui se tiendra à Berlin, en Allemagne, du 11 au 14 janvier 2027. Il rassemblera plus de 250 jeunes leaders, étudiants et professionnels de plus de 125 pays pour quatre jours de diplomatie, de formation au leadership, de dialogue politique et d'échange interculturel. Les candidatures sont ouvertes jusqu'au 5 octobre 2026. Ne manquez pas cette opportunité unique de participer à un événement de premier plan en Europe et de bénéficier d'une bourse complète ou partielle.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-11T13:01:35",
+    "slug": "bourse-yas-2027-berlin"
+  },
+  {
+    "titre": "Bourses pour les praticiens créatifs et artistiques - Afrique australe",
+    "seo_slug": "bourse-praticiens-creatifs-afrique-australe-2026",
+    "organisation": "Goethe-Institut",
+    "montant": 6000,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-05",
+    "deadline_texte": "Lundi 5 octobre 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Arts",
+      "Création",
+      "Patrimoine"
+    ],
+    "pays_eligibles": [
+      "Botswana",
+      "Eswatini",
+      "Lesotho",
+      "Namibie",
+      "Afrique du Sud",
+      "Zimbabwe"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse de 6 000 €",
+      "Participation à un processus de développement narratif de six mois",
+      "Participation à la création de trois œuvres créatives co-produites"
+    ],
+    "eligibilite": [
+      "Avoir 18 ans ou plus",
+      "Avoir au moins 3 ans de pratique artistique ou créative professionnelle",
+      "Résider au Botswana, en Eswatini, au Lesotho, en Namibie, en Afrique du Sud ou au Zimbabwe"
+    ],
+    "procedure_etapes": [
+      "1. Lire l'appel à propositions (PDF)",
+      "2. Postuler via le portail de candidature Goethe"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature Goethe",
+        "url": "https://portal.gap.goethe.de/en-US/"
+      },
+      {
+        "label": "Appel à propositions (PDF)",
+        "url": "/resources/files/pdf359/thee-final.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse arts",
+      "bourse Afrique australe",
+      "bourse praticiens créatifs",
+      "bourse Goethe",
+      "bourse 2026",
+      "bourse artistes",
+      "bourse patrimoine"
+    ],
+    "lien_candidature": "https://portal.gap.goethe.de/en-US/",
+    "source_url": "https://www.goethe.de/prj/aep/en/cal/sna.html?fbclid=IwY2xjawUmi9xleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeoESkrOKlRoZf0YUaT3QJNTUR5YC0BduQ9vkCdxCeW6p3912aleEV1GRoWqo_aem_hJdUrIYEKYiovepK2U6UZA",
+    "statut": "fermé",
+    "resume": "Le Goethe-Institut lance un appel à candidatures pour sélectionner 99 praticiens créatifs et artistiques qui seront répartis dans 11 clusters narratifs. Chaque cluster est dirigé par une organisation patrimoniale et les participants recevront une bourse de 6 000 €. Ils prendront part à un processus de développement narratif de six mois aboutissant à trois œuvres créatives co-produites. Les candidats doivent être âgés d'au moins 18 ans, avoir trois ans d'expérience professionnelle et résider dans l'un des six pays d'Afrique australe éligibles.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:56:07",
+    "slug": "bourse-praticiens-creatifs-afrique-australe-2026"
+  },
+  {
+    "titre": "Bourse Knight-Hennessy pour études supérieures à Stanford",
+    "seo_slug": "bourse-knight-hennessy-stanford-2027",
+    "organisation": "Knight-Hennessy Scholars",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-06",
+    "deadline_texte": "6 octobre 2026 à 13h (heure du Pacifique)",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Relevé de notes",
+      "Réponses aux questions courtes et dissertations",
+      "Lettres de recommandation"
+    ],
+    "avantages": [
+      "Frais de scolarité pour jusqu'à trois ans",
+      "Bourse pour frais de subsistance et académiques",
+      "Bourse de voyage pour un voyage annuel aller-retour à Stanford"
+    ],
+    "eligibilite": [
+      "Être nouvellement inscrit dans un programme d'études supérieures à temps plein à Stanford",
+      "Ou être un étudiant en doctorat actuel à Stanford en première année d'inscription",
+      "Aucune restriction de citoyenneté, âge, université d'origine, domaine d'études ou aspiration professionnelle"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre la candidature Knight-Hennessy Scholars (CV, relevé de notes, réponses aux questions, lettres de recommandation).",
+      "2. Soumettre la candidature au programme d'études supérieures de Stanford (les délais et exigences varient selon le programme).",
+      "3. La date limite pour la cohorte 2027 est le 6 octobre 2026 à 13h (heure du Pacifique)."
+    ],
+    "contacts": [
+      "khscholars@stanford.edu",
+      "+1.650.721.0771"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34691/?keyword=internship&mode=location&fbclid=IwY2xjawScbKdleHRuA2FlbQIxMABicmlkETEyR1NJeXVmekFzMVo1ajBuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpiH2AHjo0-QfoeGqf1bJZC5o_Mcfb97Dl_AAl8esS4ls4c0b2SLa5k-Db0S_aem_LiS4An4sE0vmRdcITi1WOw"
+      },
+      {
+        "label": "Page d'admission",
+        "url": "https://knight-hennessy.stanford.edu/admission"
+      },
+      {
+        "label": "Rapport annuel 2024-25",
+        "url": "https://annualreport.knight-hennessy.stanford.edu/2025/"
+      }
+    ],
+    "mots_cles": [
+      "bourse knight-hennessy",
+      "bourse stanford",
+      "bourse études supérieures",
+      "bourse multidisciplinaire",
+      "bourse leadership",
+      "bourse internationale",
+      "bourse doctorat",
+      "bourse master"
+    ],
+    "lien_candidature": "https://knight-hennessy.stanford.edu/admission",
+    "source_url": "https://knight-hennessy.stanford.edu/about-knight-hennessy-scholars/overview-knight-hennessy-scholars",
+    "statut": "fermé",
+    "resume": "La bourse Knight-Hennessy Scholars offre un financement complet pour jusqu'à trois ans d'études supérieures à l'Université Stanford, incluant les frais de scolarité, une bourse de subsistance et une bourse de voyage annuelle. Ouverte à tous les domaines et nationalités, elle vise à former des leaders visionnaires et collaboratifs. Les candidatures pour la cohorte 2027 sont ouvertes jusqu'au 6 octobre 2026.",
+    "adresse": "Denning House 580 Lomita Drive Stanford, CA  94305-8207  USA",
+    "extrait_le": "2026-06-15T05:34:14",
+    "slug": "bourse-knight-hennessy-stanford-2027"
+  },
+  {
+    "titre": "Bourse du Programme International de Formation à la Recherche (IRTP)",
+    "seo_slug": "bourse-irtp-recherche-australie-2026",
+    "organisation": "University of Technology Sydney (UTS)",
+    "montant": 40500,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-07",
+    "deadline_texte": "7 octobre 2026 (date limite de candidature pour la session de recherche 2027 - juillet)",
+    "niveau_etudes": [
+      "Master par recherche",
+      "Doctorat (PhD)"
+    ],
+    "domaines": [
+      "Tous les domaines de recherche"
+    ],
+    "pays_eligibles": [
+      "Tous les pays (étudiants internationaux)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (niveau requis pour l'admission à l'UTS)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne complété",
+      "Documents justificatifs requis pour l'admission (relevés de notes, diplômes, etc.)",
+      "Preuve de maîtrise de l'anglais (IELTS/TOEFL ou équivalent)",
+      "Proposition de recherche (pour les programmes de recherche)"
+    ],
+    "avantages": [
+      "Frais de scolarité pris en charge (jusqu'à 3,5 ans pour le doctorat et 2 ans pour le master par recherche)",
+      "Allocation de subsistance (jusqu'à 3,5 ans pour le doctorat et 2 ans pour le master par recherche, à partir du 1er janvier 2026, 40 500 $ par an, exonérée d'impôt)",
+      "Couverture santé pour étudiants étrangers (OSHC) - célibataire ou famille pendant la durée du programme"
+    ],
+    "eligibilite": [
+      "Être inscrit à un programme de recherche de cycle supérieur (HDR) en tant qu'étudiant étranger tel que défini dans la loi Higher Education Support Act 2003 (Cth) à l'Université au cours de l'année de la bourse IRTP (les bourses IRTP ne sont pas disponibles pour les candidats dont l'inscription à un programme de recherche de troisième cycle n'a pas été acceptée par l'Université) dans un cours HDR accrédité",
+      "Ne pas recevoir une récompense, allocation ou salaire équivalent offrant un avantage supérieur à 75 % du taux de la bourse IRTP pour entreprendre le HDR. Les revenus provenant de sources sans lien avec le programme d'études ne sont pas soumis à la règle des 75 %",
+      "Ne pas recevoir de récompense ou de bourse équivalente du Commonwealth destinée à compenser les frais de HDR"
+    ],
+    "procedure_etapes": [
+      "Vérifier que vous répondez aux critères d'éligibilité",
+      "Remplir le formulaire de candidature en ligne pour l'admission à un programme de recherche à l'UTS",
+      "Dans la section 'SCHOLARSHIP/SPONSORSHIP INFORMATION' du formulaire, cocher la case 'YES' pour être considéré pour l'IRTP et les bourses associées",
+      "Soumettre la candidature complète avec tous les documents justificatifs avant la date limite",
+      "Attendre la décision du comité de sélection"
+    ],
+    "contacts": [
+      "grs@uts.edu.au"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse IRTP",
+        "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp"
+      },
+      {
+        "label": "Conditions d'attribution de l'IRTP (PDF)",
+        "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp/contentassets/grs-coa-2025-international-research-training-program-scholarship-irtp_0.pdf"
+      },
+      {
+        "label": "Comment postuler",
+        "url": "https://www.uts.edu.au/research-and-teaching/graduate-research/future-research-students/how-apply"
+      },
+      {
+        "label": "Bourses de recherche",
+        "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/how-to-fund-your-phd-or-masters-by-research"
+      },
+      {
+        "label": "UTS Research Degrees",
+        "url": "https://www.uts.edu.au/research-and-teaching/research-degrees"
+      },
+      {
+        "label": "UTS Future Research Students",
+        "url": "https://www.uts.edu.au/research-and-teaching/graduate-research/future-research-students/why-graduate-research-uts"
+      },
+      {
+        "label": "UTS Current Research Students",
+        "url": "https://www.uts.edu.au/research-and-teaching/graduate-research/current-research-students/graduate-research-journey"
+      }
+    ],
+    "mots_cles": [
+      "bourse australie",
+      "bourse doctorat",
+      "bourse master recherche",
+      "bourse internationale",
+      "IRTP",
+      "UTS",
+      "bourse 2026",
+      "financement recherche",
+      "bourse complète",
+      "étudier en australie"
+    ],
+    "lien_candidature": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp",
+    "source_url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/international-research-training-program-scholarship-irtp?utm_id=97758_v0_s00_e0_tv2_a1den5f08gvbpa&fbclid=IwY2xjawUez6BwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEevI8zjUvrpHoLjxvnNJi3XLVaXQiyAJkcF3tDvB0akvUjWhAxziMzXPww3rE_aem_y-qvRpxqnxbu2pSK1CSBKw",
+    "statut": "fermé",
+    "resume": "La bourse du Programme International de Formation à la Recherche (IRTP) est financée par le gouvernement australien et vise à soutenir les étudiants internationaux exceptionnels poursuivant un doctorat ou un master par recherche à l'Université de Technologie de Sydney (UTS). Elle couvre les frais de scolarité, une allocation de subsistance annuelle de 40 500 $ (exonérée d'impôt) et une assurance santé pour étudiants étrangers. Les candidatures pour la session de recherche 2027 (juillet) sont ouvertes jusqu'au 7 octobre 2026. Ne manquez pas cette opportunité de financer vos études supérieures en Australie.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-22T03:06:29",
+    "slug": "bourse-irtp-recherche-australie-2026"
+  },
+  {
+    "titre": "Bourses doctorales Quentin Bryce en droit",
+    "seo_slug": "bourse-quentin-bryce-doctorat-droit-2026",
+    "organisation": "University of Technology Sydney (UTS)",
+    "montant": 40000,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-07",
+    "deadline_texte": "7 octobre 2026 (pour les candidats internationaux, session de recherche 2027, session 2). Les candidats nationaux doivent postuler avant le 23 septembre 2026.",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Droit"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Allocation de subsistance de 40 000 $ par an pendant 4 ans (temps plein)"
+    ],
+    "eligibilite": [
+      "Avoir été accepté pour entreprendre un doctorat en philosophie (PhD) à la Faculté de droit",
+      "Avoir complété un master par recherche ou un baccalauréat avec mention très bien, ou être considéré par l'Université comme ayant un niveau équivalent",
+      "Être inscrit à temps plein au début de la bourse, ou à temps partiel dans les circonstances prévues",
+      "Ne pas avoir déjà obtenu un diplôme de niveau égal ou supérieur à celui du programme proposé"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'éligibilité",
+      "2. Postuler avant la date limite correspondant à votre profil (national ou international)",
+      "3. Soumettre la candidature via le portail de l'UTS"
+    ],
+    "contacts": [
+      "https://www.uts.edu.au/research/graduate/contact-us"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page de contact pour les études supérieures",
+        "url": "https://www.uts.edu.au/research/graduate/contact-us"
+      },
+      {
+        "label": "Page de la bourse",
+        "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/quentin-bryce-law-doctoral-scholarships"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat droit",
+      "bourse Quentin Bryce",
+      "bourse UTS",
+      "bourse Australie",
+      "bourse droit 2026",
+      "bourse doctorale",
+      "financement thèse droit",
+      "bourse internationale Australie"
+    ],
+    "lien_candidature": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/quentin-bryce-law-doctoral-scholarships",
+    "source_url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/quentin-bryce-law-doctoral-scholarships?utm_id=97758_v0_s00_e0_tv2_a1den5f08gvbpa&fbclid=IwY2xjawUez9BwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEevI8zjUvrpHoLjxvnNJi3XLVaXQiyAJkcF3tDvB0akvUjWhAxziMzXPww3rE_aem_y-qvRpxqnxbu2pSK1CSBKw",
+    "statut": "fermé",
+    "resume": "La Faculté de droit de l'Université de Technologie de Sydney (UTS) offre les bourses doctorales Quentin Bryce pour les étudiants entreprenant un doctorat en philosophie (PhD) en droit. Ces bourses visent à promouvoir et récompenser la recherche de qualité au sein de la faculté. Les candidats doivent avoir été acceptés dans le programme de doctorat et posséder un master par recherche ou un baccalauréat avec mention très bien. La bourse offre une allocation de subsistance de 40 000 $ par an pendant quatre ans à temps plein. Les candidatures sont ouvertes aux étudiants nationaux et internationaux, avec des dates limites distinctes.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-22T03:07:33",
+    "slug": "bourse-quentin-bryce-doctorat-droit-2026"
+  },
+  {
+    "titre": "GFF x CIVIC VOICES : Appel à propositions",
+    "seo_slug": "bourse-gff-civic-voices-afrique-2026",
+    "organisation": "PATH, AFIDEP, OAY (Consortium VOICES)",
+    "montant": 3350000,
+    "devise": "USD",
+    "type_financement": "subvention",
+    "deadline": "2026-10-07",
+    "deadline_texte": "7 octobre 2026 à 23h59 heure d'Afrique de l'Est",
+    "niveau_etudes": [],
+    "domaines": [
+      "Santé et nutrition des femmes, enfants et adolescents",
+      "Mobilisation des ressources intérieures",
+      "Plaidoyer",
+      "Leadership des jeunes"
+    ],
+    "pays_eligibles": [
+      "Afrique (jusqu'à 22 pays)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Proposition technique (modèle fourni)",
+      "Formulaire de candidature",
+      "Documents organisationnels"
+    ],
+    "avantages": [
+      "Subvention jusqu'à 18 mois",
+      "Formation en plaidoyer",
+      "Assistance technique en analyse budgétaire",
+      "Mentorat"
+    ],
+    "eligibilite": [
+      "Être une organisation locale de la société civile ou une organisation dirigée par des jeunes et/ou une organisation communautaire",
+      "Chaque partenariat doit inclure au moins 2 et au plus 3 organisations, dont au moins une dirigée par des jeunes"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page de ressources pour les détails de soumission et les documents de l'événement de lancement",
+      "2. Télécharger et remplir le modèle de proposition technique",
+      "3. Soumettre la proposition avant la date limite"
+    ],
+    "contacts": [
+      "voices@path.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page de ressources",
+        "url": "https://www.path.org/our-impact/resources/gff-x-civic-voices-funding-opportunity-resources/"
+      },
+      {
+        "label": "Appel à propositions (PDF)",
+        "url": "https://www.path.org/documents/7374/VOICES_Call_for_Proposals.pdf"
+      },
+      {
+        "label": "Modèle de soumission de proposition technique",
+        "url": "https://www.path.org/documents/7377/VOICES_Submission_Template_Fillable.docx"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.path.org/documents/7406/VOICES_FAQ_EN_Updated_25Sept.pdf"
+      },
+      {
+        "label": "Site de signalement sécurisé",
+        "url": "https://secure.ethicspoint.com/domain/media/en/gui/49666/index.html"
+      },
+      {
+        "label": "Site de PATH",
+        "url": "https://www.path.org/"
+      },
+      {
+        "label": "Site de AFIDEP",
+        "url": "https://afidep.org/"
+      },
+      {
+        "label": "Site de OAY",
+        "url": "https://www.oayouth.org/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Afrique",
+      "subvention société civile",
+      "santé femmes enfants",
+      "leadership jeunes",
+      "mobilisation ressources",
+      "GFF CIVIC VOICES",
+      "appel à propositions"
+    ],
+    "lien_candidature": "https://www.path.org/our-impact/resources/gff-x-civic-voices-funding-opportunity-resources/",
+    "source_url": "https://www.path.org/who-we-are/programs/advocacy-and-policy/gff-x-civic-voices-call-for-proposals/?fbclid=IwY2xjawUmjCxleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeodj6m5TnVp14Jx4Tdec37DLG2QuTGWZdApTHiBL8ccdA1VAWDaMfMxo0aMA_aem_uewtMVhjgZvWPcIBp_xyHg",
+    "statut": "fermé",
+    "resume": "Le consortium VOICES, mené par PATH en partenariat avec AFIDEP et OAY, lance un appel à propositions pour soutenir les organisations de la société civile et dirigées par des jeunes en Afrique. Jusqu'à 3,35 millions de dollars seront attribués à des partenariats dans jusqu'à 22 pays africains. Les subventions, d'une durée maximale de 18 mois, incluent une formation en plaidoyer, une assistance technique en analyse budgétaire et un mentorat. Les candidatures sont ouvertes jusqu'au 7 octobre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:57:56",
+    "slug": "bourse-gff-civic-voices-afrique-2026"
+  },
+  {
+    "titre": "Bourse de voyage commémorative Dr. Gerald A. Soffen pour l'avancement de l'éducation en sciences spatiales",
+    "seo_slug": "bourse-soffen-voyage-sciences-spatiales-2026",
+    "organisation": "Dr. Gerald A. Soffen Memorial Fund for the Advancement of Space Science Education",
+    "montant": 1000,
+    "devise": "USD",
+    "type_financement": "bourse de voyage",
+    "deadline": "2026-10-09",
+    "deadline_texte": "9 octobre 2026 à 17h00 ET (heure de l'Est) pour les conférences débutant le 8 novembre 2026 ou après",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Aérospatiale",
+      "Astrobiologie",
+      "Astronomie",
+      "Sciences de la Terre et de l'espace",
+      "Ingénierie"
+    ],
+    "pays_eligibles": [
+      "États-Unis (inscription dans un établissement accrédité aux États-Unis)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Résumé de la conférence (abstract)",
+      "Preuve d'inscription à temps plein",
+      "Budget de voyage",
+      "Lettre de recommandation (peut-être)"
+    ],
+    "avantages": [
+      "Jusqu'à 2000 $ au total, aucune bourse individuelle ne dépassant 1000 $",
+      "Participation à des conférences virtuelles ou en personne",
+      "Frais de voyage et d'inscription couverts (selon les besoins)"
+    ],
+    "eligibilite": [
+      "Étudiants de toutes nationalités",
+      "Inscription à temps plein dans un établissement d'enseignement supérieur accrédité aux États-Unis (licence ou cycle supérieur)",
+      "Poursuite d'études dans un domaine lié à l'aérospatiale ou à l'ingénierie",
+      "Présentation de recherche lors d'une conférence",
+      "Conférence débutant le 8 novembre 2026 ou après"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les instructions sur le site officiel",
+      "2. Créer un compte utilisateur",
+      "3. Remplir le formulaire de candidature en ligne",
+      "4. Téléverser les documents requis (résumé, preuve d'inscription, etc.)",
+      "5. Soumettre la candidature avant la date limite",
+      "6. Attendre la notification d'attribution environ un mois après la date limite"
+    ],
+    "contacts": [
+      "help@SoffenFund.org",
+      "help@lsoffenfund.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "http://soffenfund.org"
+      },
+      {
+        "label": "Instructions",
+        "url": "http://soffenfund.org/instructions.jsp"
+      },
+      {
+        "label": "Nouvel utilisateur",
+        "url": "http://soffenfund.org/newUser.jsp"
+      },
+      {
+        "label": "Boursiers",
+        "url": "http://soffenfund.org/awardees.jsp"
+      },
+      {
+        "label": "Mot de passe oublié",
+        "url": "http://soffenfund.org/login.jsp"
+      }
+    ],
+    "mots_cles": [
+      "bourse soffen",
+      "bourse voyage",
+      "sciences spatiales",
+      "aérospatiale",
+      "étudiants États-Unis",
+      "conférence",
+      "bourse 2026"
+    ],
+    "lien_candidature": "http://soffenfund.org",
+    "source_url": "https://soffenfund.org/?fbclid=IwY2xjawUmiSZleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeOW_EiSNn-xtQhucSLg0NQfGxbn2sCqrbGnuFO6kLt1vzNB6GKLD1_M2X6C0_aem_kycM2akPfYl-mIN9g6W6xg",
+    "statut": "fermé",
+    "resume": "La bourse de voyage commémorative Dr. Gerald A. Soffen soutient les étudiants poursuivant des études en sciences et ingénierie aérospatiales en leur offrant des subventions pour présenter leurs recherches lors de conférences. Les candidats doivent être inscrits à temps plein dans un établissement accrédité aux États-Unis, quelle que soit leur nationalité. Les bourses, d'un montant maximal de 1000 $ par personne (jusqu'à 2000 $ au total), couvrent la participation à des conférences virtuelles ou en personne. La date limite de candidature est fixée au 9 octobre 2026 pour les conférences débutant le 8 novembre 2026 ou après.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:50:24",
+    "slug": "bourse-soffen-voyage-sciences-spatiales-2026"
+  },
+  {
+    "titre": "Programme de formation MTN en TIC et compétences commerciales - Phase 8",
+    "seo_slug": "bourse-mtn-ict-business-skills-2026",
+    "organisation": "MTN Foundation",
+    "montant": 1000000,
+    "devise": "NGN",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-10-11",
+    "deadline_texte": "11 octobre 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "TIC",
+      "Compétences commerciales",
+      "Entrepreneuriat"
+    ],
+    "pays_eligibles": [
+      "Nigeria"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Formation de cinq semaines en TIC et compétences commerciales",
+      "Soutien de données pour une expérience d'apprentissage fluide",
+      "Jusqu'à 1 000 000 ₦ en subventions d'équipement pour les 100 meilleurs participants",
+      "Fonds total de 100 000 000 ₦"
+    ],
+    "eligibilite": [
+      "Femme nigériane",
+      "Âge entre 18 et 35 ans",
+      "Propriétaire et gestionnaire d'une micro-entreprise opérationnelle depuis au maximum 2 ans",
+      "Entreprise située dans l'un des États suivants : Rivers, Abia, Ogun, Kwara, Kano ou Gombe"
+    ],
+    "procedure_etapes": [
+      "Vérifier les critères d'éligibilité",
+      "Cliquer sur le lien de candidature",
+      "Remplir le formulaire de candidature en ligne",
+      "Soumettre la candidature avant la date limite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://mtnictandbusinessskills.mtn.ng/mtn-foundation"
+      }
+    ],
+    "mots_cles": [
+      "bourse MTN",
+      "formation TIC",
+      "compétences commerciales",
+      "micro-entreprise",
+      "femmes nigérianes",
+      "subvention équipement",
+      "phase 8",
+      "2026"
+    ],
+    "lien_candidature": "https://mtnictandbusinessskills.mtn.ng/mtn-foundation",
+    "source_url": "https://www.mtn.ng/mtnf-ict/?fbclid=IwY2xjawUmjKlleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeOW_EiSNn-xtQhucSLg0NQfGxbn2sCqrbGnuFO6kLt1vzNB6GKLD1_M2X6C0_aem_kycM2akPfYl-mIN9g6W6xg",
+    "statut": "fermé",
+    "resume": "Le programme de formation MTN en TIC et compétences commerciales (Phase 8) est une initiative de la MTN Foundation visant à autonomiser les jeunes femmes nigérianes propriétaires de micro-entreprises âgées de 18 à 35 ans. Cette formation de cinq semaines utilise une approche d'apprentissage mixte combinant des modules en ligne, des sessions dirigées par des instructeurs, des masterclasses et un projet de synthèse. Les 100 meilleurs participants recevront jusqu'à 1 000 000 ₦ en subventions d'équipement, provenant d'un fonds total de 100 000 000 ₦. Les candidatures sont ouvertes jusqu'au 11 octobre 2026 pour les femmes résidant dans les États de Rivers, Abia, Ogun, Kwara, Kano ou Gombe.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:58:56",
+    "slug": "bourse-mtn-ict-business-skills-2026"
   },
   {
     "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",

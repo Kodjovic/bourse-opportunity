@@ -1,163 +1,5 @@
 [
   {
-    "titre": "Bourse Mandela Washington (YALI) 2027",
-    "seo_slug": "bourse-mandela-washington-2027",
-    "organisation": "U.S. Department of State & IREX",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-10-13",
-    "deadline_texte": "13 octobre 2026",
-    "niveau_etudes": [],
-    "domaines": [
-      "Commerce",
-      "Technologies émergentes",
-      "Gouvernance",
-      "Sécurité"
-    ],
-    "pays_eligibles": [
-      "Angola",
-      "Bénin",
-      "Botswana",
-      "Burkina Faso",
-      "Burundi",
-      "Cameroun",
-      "Cap-Vert",
-      "République centrafricaine",
-      "Tchad",
-      "Comores",
-      "République du Congo",
-      "République démocratique du Congo (RDC)",
-      "Côte d'Ivoire",
-      "Djibouti",
-      "Guinée équatoriale",
-      "Érythrée",
-      "Eswatini",
-      "Éthiopie",
-      "Gabon",
-      "Gambie",
-      "Ghana",
-      "Guinée",
-      "Guinée-Bissau",
-      "Kenya",
-      "Lesotho",
-      "Liberia",
-      "Madagascar",
-      "Malawi",
-      "Mali",
-      "Mauritanie",
-      "Maurice",
-      "Mozambique",
-      "Namibie",
-      "Niger",
-      "Nigeria",
-      "Rwanda",
-      "Sao Tomé-et-Principe",
-      "Sénégal",
-      "Seychelles",
-      "Sierra Leone",
-      "Somalie",
-      "Afrique du Sud",
-      "Soudan du Sud",
-      "Soudan",
-      "Tanzanie",
-      "Togo",
-      "Ouganda",
-      "Zambie",
-      "Zimbabwe"
-    ],
-    "age_maximum": 35,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Copie du passeport international (si disponible) ou autre pièce d'identité avec photo délivrée par le gouvernement",
-      "Documentation vérifiant l'âge, la citoyenneté et la résidence (à fournir à l'étape de l'entretien si sélectionné comme demi-finaliste)"
-    ],
-    "avantages": [
-      "Participation à un institut exécutif de six semaines dans un collège ou une université américaine",
-      "Échanges avec des experts américains en commerce et commerce international, technologies émergentes, gouvernance et sécurité",
-      "Rencontres avec des leaders américains des secteurs public et privé pour renforcer le réseau professionnel",
-      "Exploration de l'innovation, de l'industrie, de l'histoire et de la culture américaines",
-      "Intégration à un réseau actif de près de 7 800 anciens participants"
-    ],
-    "eligibilite": [
-      "Être âgé de 25 à 35 ans à la date limite de candidature (les candidats exceptionnels de 21 à 24 ans peuvent être considérés)",
-      "Ne pas être citoyen ou résident permanent des États-Unis",
-      "Être éligible à l'obtention d'un visa J-1 des États-Unis",
-      "Ne pas être employé ou membre de la famille immédiate (conjoint, parents, enfants ou frères et sœurs) d'un employé du gouvernement américain (y compris une ambassade ou un consulat des États-Unis ou une autre entité gouvernementale américaine)",
-      "Maîtriser la lecture, l'écriture et l'expression orale en anglais (les candidats sourds doivent se référer à la section « English Language » des instructions de candidature)",
-      "Être citoyen de l'un des pays éligibles (liste fournie)",
-      "Être résident de l'un des pays ci-dessus et y résider de façon permanente au 1er février 2027 et au début de la bourse en juin 2027",
-      "Ne pas être ancien participant ou alumni de la bourse Mandela Washington",
-      "Les employés et consultants actuels d'IREX et leurs familles immédiates ne sont pas éligibles"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les critères d'éligibilité et s'assurer de répondre à toutes les conditions",
-      "2. Préparer les documents nécessaires (passeport ou pièce d'identité, justificatifs d'âge, de citoyenneté et de résidence)",
-      "3. Soumettre la candidature en ligne avant la date limite du 13 octobre 2026",
-      "4. Les candidatures éligibles seront examinées et notées selon les critères de sélection",
-      "5. Les demi-finalistes seront interviewés en personne par les ambassades et consulats américains dans leur pays d'origine (novembre 2026 – janvier 2027)",
-      "6. Fournir une copie du passeport international ou autre pièce d'identité avec photo lors de l'entretien",
-      "7. Les candidats seront informés de leur statut en février/mars 2027",
-      "8. Les finalistes sélectionnés devront participer à une orientation pré-départ en personne obligatoire (mars – mai 2027)",
-      "9. Traitement des visas et orientations pré-départ pour les finalistes (mars – mai 2027)",
-      "10. Début de la bourse aux États-Unis en juin 2027"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Portail de candidature",
-        "url": "https://apply.mandelawashingtonfellowship.org"
-      },
-      {
-        "label": "Instructions de candidature 2027",
-        "url": "https://www.mandelawashingtonfellowship.org/2027-application-instructions/"
-      },
-      {
-        "label": "FAQ sur la candidature",
-        "url": "https://www.mandelawashingtonfellowship.org/apply-faqs/"
-      },
-      {
-        "label": "Préparer une candidature solide",
-        "url": "https://www.mandelawashingtonfellowship.org/preparing-strong-application/"
-      },
-      {
-        "label": "Informations pour les candidats en situation de handicap",
-        "url": "https://www.mandelawashingtonfellowship.org/information-for-fellows-with-disabilities/"
-      },
-      {
-        "label": "Informations sur la suspension de délivrance de visas (travel.state.gov)",
-        "url": "https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html"
-      },
-      {
-        "label": "Bureau des affaires éducatives et culturelles",
-        "url": "https://eca.state.gov/"
-      },
-      {
-        "label": "Réseau YALI",
-        "url": "https://yali.state.gov/network/"
-      }
-    ],
-    "mots_cles": [
-      "bourse Mandela Washington",
-      "YALI 2027",
-      "bourse États-Unis",
-      "leadership africain",
-      "bourse échange",
-      "programme exécutif",
-      "bourse gouvernance",
-      "bourse technologies émergentes",
-      "bourse commerce",
-      "bourse sécurité"
-    ],
-    "lien_candidature": "https://apply.mandelawashingtonfellowship.org",
-    "source_url": "https://www.mandelawashingtonfellowship.org/apply/?fbclid=IwY2xjawU54wJleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4PBAz4flvaaqQBKc5RbvPIqZB0OBDW8jaC4GkOMz0MvmcqvXnAFh5F9-KZvw_aem_ePhZOu9xCtP_zYOs5NVnxQ",
-    "statut": "ouvert",
-    "resume": "La bourse Mandela Washington (YALI) 2027 offre à environ 550 jeunes leaders africains une opportunité unique de participer à un programme exécutif de six semaines aux États-Unis. Les boursiers développeront leurs compétences en commerce, technologies émergentes, gouvernance et sécurité, tout en établissant des partenariats avec des experts et leaders américains. Ce programme prestigieux, financé par le Département d'État américain et mis en œuvre par IREX, vise à renforcer les capacités des jeunes leaders pour qu'ils contribuent au développement de leurs communautés en Afrique subsaharienne. Les candidatures sont ouvertes du 22 septembre au 13 octobre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-10-12T18:02:16",
-    "slug": "bourse-mandela-washington-2027"
-  },
-  {
     "titre": "Bourses d'études - Études postuniversitaires dans les domaines des beaux-arts, du design, de la communication visuelle et du cinéma",
     "seo_slug": "bourse-daad-beaux-arts-master-allemagne-2026",
     "organisation": "DAAD",
@@ -785,6 +627,103 @@
     "imageUrl": "/docs/Membership-in-the-School-of-Social-Science.webp",
     "extrait_le": "2026-10-13T00:44:48",
     "slug": "bourse-ias-social-science-2027"
+  },
+  {
+    "titre": "Bourse DAAD pour le programme ISATEC (Master en biologie marine)",
+    "seo_slug": "bourse-daad-isatec-master-allemagne-2027",
+    "organisation": "DAAD (Service allemand d'échanges universitaires) et Université de Brême",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-15",
+    "deadline_texte": "15 octobre 2026",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Biologie marine",
+      "Sciences environnementales",
+      "Gestion des ressources"
+    ],
+    "pays_eligibles": [
+      "Pays en développement"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (niveau C1)",
+    "documents_requis": [
+      "Formulaire DAAD",
+      "Lettre de motivation (en anglais)",
+      "CV (en anglais)",
+      "Preuve de compétence en anglais (niveau C1)",
+      "Diplôme de Bachelor of Science en sciences biologiques/environnementales",
+      "Relevés de notes",
+      "Certificats traduits en allemand ou anglais",
+      "Copies certifiées conformes des certificats originaux"
+    ],
+    "avantages": [
+      "Bourse mensuelle",
+      "Frais de voyage",
+      "Assurance maladie",
+      "Frais de scolarité"
+    ],
+    "eligibilite": [
+      "Être citoyen d'un pays en développement",
+      "Avoir au moins deux ans d'expérience professionnelle",
+      "Être titulaire d'un Bachelor of Science en sciences biologiques/environnementales",
+      "Avoir une note globale d'au moins 2,5 selon le système de notation allemand",
+      "Avoir une motivation liée au développement",
+      "Travailler pour une autorité publique ou une entreprise étatique/privée dans un pays en développement",
+      "Être engagé dans la planification et l'exécution de directives et de projets axés sur les politiques de développement",
+      "Avoir la capacité de prendre des responsabilités sociales et d'être un agent de changement"
+    ],
+    "procedure_etapes": [
+      "Vérifier les conditions d'éligibilité et les documents requis sur le site du DAAD",
+      "Préparer tous les documents nécessaires (CV, lettre de motivation, preuves de diplômes, certificat de langue, etc.)",
+      "Créer un compte sur le portail de candidature en ligne de l'Université de Brême",
+      "Choisir le sujet 'Marine Biology DAAD' lors de la candidature",
+      "Télécharger tous les documents requis, y compris le formulaire DAAD, dans la section 'documents supplémentaires'",
+      "Soumettre la candidature en ligne avant la date limite du 15 octobre 2026",
+      "Si la candidature est retenue, soumettre les documents papier supplémentaires demandés (confirmation d'inscription, etc.)"
+    ],
+    "contacts": [
+      "masterprotect me ?!__uni-bremen protect me ?!.de"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse DAAD",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=&subjectGrps=&daad=&intention=&q=epos&page=1&detail=50076777"
+      },
+      {
+        "label": "Programme EPOS (Development-Related Postgraduate Courses)",
+        "url": "https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/epos/"
+      },
+      {
+        "label": "Portail de candidature en ligne de l'Université de Brême",
+        "url": "https://www.uni-bremen.de/en/master/"
+      },
+      {
+        "label": "Liste des tests acceptés pour le niveau C1 en anglais",
+        "url": "https://www.uni-bremen.de/en/language-centre-of-the-universities-in-the-land-of-bremen/courses-more/tests-certificates/language-certificates/b2-c1-certificate-english/recognition-english-b2-c1"
+      }
+    ],
+    "mots_cles": [
+      "bourse DAAD",
+      "master biologie marine",
+      "ISATEC",
+      "bourse Allemagne",
+      "pays en développement",
+      "EPOS",
+      "bourse master",
+      "études en Allemagne",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://www.uni-bremen.de/en/master/",
+    "source_url": "https://www.uni-bremen.de/en/isatec/application-and-admission/daad-scholarship/?fbclid=IwY2xjawU7wI9leHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeoQLgOMUEf0CwBUEZlnmojWj9af786kI8yZq18zo0Hkv16d3Q0birzgksvCI_aem_2_I7hd-VL4YrLIyChJGofg",
+    "statut": "ouvert",
+    "resume": "Le DAAD (Service allemand d'échanges universitaires) offre des bourses complètes pour le programme ISATEC (Master en biologie marine) à l'Université de Brême, destinées aux citoyens de pays en développement. Cette bourse s'adresse aux professionnels ayant au moins deux ans d'expérience et titulaires d'un Bachelor of Science en sciences biologiques ou environnementales. Les candidats doivent démontrer une motivation liée au développement et un engagement à assumer des responsabilités sociales. La date limite de candidature est fixée au 15 octobre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T03:57:04",
+    "slug": "bourse-daad-isatec-master-allemagne-2027"
   },
   {
     "titre": "Appel à propositions : Soutien du FIDA à la transformation des systèmes alimentaires au Sahel central",
@@ -1711,6 +1650,306 @@
     "slug": "bourses-universite-auckland-international-2026"
   },
   {
+    "titre": "Bourses de frais de scolarité internationales de premier cycle Toroa - Semestre 1, février 2027",
+    "seo_slug": "bourse-toroa-undergraduate-massey-2027",
+    "organisation": "Massey University",
+    "montant": 10000,
+    "devise": "NZD",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-10-20",
+    "deadline_texte": "20 octobre 2026",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Sciences animales",
+      "Commerce",
+      "Construction",
+      "Sciences de l'information",
+      "Sciences"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Réponses aux questions spécifiques"
+    ],
+    "avantages": [
+      "10 000 NZD de frais de scolarité",
+      "Durée d'un an",
+      "Jusqu'à 40 bourses disponibles"
+    ],
+    "eligibilite": [
+      "Être un étudiant international",
+      "Être nouveau à Massey",
+      "Étudier à temps plein sur le campus en Nouvelle-Zélande",
+      "Premiers 120 crédits au semestre 1, février 2027",
+      "Avoir une offre d'admission pour l'un des diplômes suivants : Bachelor of Animal Science, Bachelor of Business, Bachelor of Construction, Bachelor of Information Science, Bachelor of Science"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Se connecter au portail étudiant",
+      "3. Accéder à l'onglet Bourses",
+      "4. Remplir le formulaire de candidature",
+      "5. Répondre aux questions : Pourquoi avez-vous choisi Massey ? Quelle contribution (académique ou autre) aspirez-vous à apporter à la communauté Massey ?",
+      "6. Soumettre la candidature avant la date limite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail étudiant",
+        "url": "https://smsportal.massey.ac.nz/sitsvision/wrd/siw_lgn"
+      },
+      {
+        "label": "Règlement de la bourse (PDF)",
+        "url": "/documents/1821/Toroa_International_UG_Fee_Scholarships.pdf"
+      },
+      {
+        "label": "Postuler pour étudier à Massey",
+        "url": "/study/apply-to-study/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Toroa",
+      "bourse Massey University",
+      "bourse premier cycle",
+      "bourse internationale",
+      "bourse Nouvelle-Zélande",
+      "bourse frais de scolarité",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://smsportal.massey.ac.nz/sitsvision/wrd/siw_lgn",
+    "source_url": "https://www.massey.ac.nz/study/scholarships-and-awards/toroa-international-undergraduate-fee-scholarships/?fbclid=IwY2xjawU7uXBleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe5-mosKMIGjvZacW_JKo6KFmq8P8IDw_PH7FfllHMlhp85Vk1KXSw11sDoJ0_aem__w8PpG_o-umzbE8tjSVbNg",
+    "statut": "ouvert",
+    "resume": "La bourse Toroa International Undergraduate Fee Scholarships de l'Université Massey offre jusqu'à 40 bourses de 10 000 NZD pour les frais de scolarité aux étudiants internationaux qui s'inscrivent pour la première fois dans un programme de premier cycle en février 2027. Cette bourse vise à soutenir les étudiants qui contribueront à une communauté dynamique sur le campus. Les candidatures sont ouvertes du 15 septembre 2026 au 20 octobre 2026. Les candidats doivent être admis dans l'un des programmes spécifiques et étudier à temps plein sur le campus en Nouvelle-Zélande.",
+    "imageUrl": "/docs/Bourses-d-tudes-internationales-de-premier-cycle-de-Toroa---Semestre-1-f-vrier-2027.webp",
+    "extrait_le": "2026-10-14T03:31:16",
+    "slug": "bourse-toroa-undergraduate-massey-2027"
+  },
+  {
+    "titre": "Bourses de Master du Commonwealth 2027/28",
+    "seo_slug": "bourse-commonwealth-master-royaume-uni-2027",
+    "organisation": "UK Foreign, Commonwealth & Development Office (FCDO) / Commonwealth Scholarships Commission",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-20",
+    "deadline_texte": "20 octobre 2026 à 16h00 BST (heure britannique)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Science et technologie pour le développement",
+      "Amélioration de la santé des populations, systèmes de santé et capacités",
+      "Promotion de l'innovation et de l'entrepreneuriat",
+      "Renforcement de la paix, de la sécurité et de la gouvernance",
+      "Renforcement de la résilience et de la réponse aux crises",
+      "Accès, inclusion et opportunités"
+    ],
+    "pays_eligibles": [
+      "Bangladesh",
+      "Belize",
+      "Botswana",
+      "Dominique",
+      "Eswatini",
+      "Fidji",
+      "Gabon",
+      "Gambie",
+      "Ghana",
+      "Grenade",
+      "Guyana",
+      "Inde",
+      "Jamaïque",
+      "Kenya",
+      "Kiribati",
+      "Lesotho",
+      "Malawi",
+      "Malaisie",
+      "Maldives",
+      "Maurice",
+      "Montserrat",
+      "Mozambique",
+      "Namibie",
+      "Nauru",
+      "Nigeria",
+      "Pakistan",
+      "Papouasie-Nouvelle-Guinée",
+      "Rwanda",
+      "Sainte-Hélène",
+      "Sainte-Lucie",
+      "Saint-Vincent-et-les-Grenadines",
+      "Samoa",
+      "Sierra Leone",
+      "Îles Salomon",
+      "Afrique du Sud",
+      "Sri Lanka",
+      "Tanzanie",
+      "Togo",
+      "Tonga",
+      "Tuvalu",
+      "Ouganda",
+      "Vanuatu",
+      "Zambie"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Frais de scolarité",
+      "Frais d'entretien",
+      "Voyage économique de retour",
+      "Autres allocations"
+    ],
+    "eligibilite": [
+      "Être ressortissant d'un pays éligible du Commonwealth",
+      "Ne pas avoir les moyens financiers de financer ses études au Royaume-Uni",
+      "Poursuivre des études dans l'un des six thèmes de développement",
+      "Postuler via l'agence de bourses du Commonwealth dans son pays d'origine",
+      "Postuler également auprès d'un organisme de nomination (nominator) qui peut avoir ses propres critères et dates limites"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité de votre pays et les critères sur le site de la Commonwealth Scholarships Commission",
+      "2. Postuler en ligne via le système de candidature CSC Central",
+      "3. Postuler également auprès d'un organisme de nomination (nominator) dans votre pays",
+      "4. Respecter la date limite du 20 octobre 2026, 16h00 BST"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la Commonwealth Scholarships Commission",
+        "url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/"
+      },
+      {
+        "label": "Système de candidature en ligne CSC Central",
+        "url": "https://portal.csccentralonline.org.uk/application"
+      }
+    ],
+    "mots_cles": [
+      "bourse Commonwealth",
+      "bourse master Royaume-Uni",
+      "bourse études 2027",
+      "bourse internationale",
+      "Commonwealth Scholarships",
+      "bourse développement durable",
+      "bourse FCDO",
+      "bourse master 2027"
+    ],
+    "lien_candidature": "https://portal.csccentralonline.org.uk/application",
+    "source_url": "https://www.leeds.ac.uk/scholarship/11/commonwealth-masters-scholarships-2027?utm_id=97758_v0_s00_e0_tv1_a1den5f08gvbpa&fbclid=IwY2xjawU7vkpleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe_c7cr9vpjN20zMkg7hSMqjefe5mS4469qlRgnX10vSZAqmyfXU7-H6cl1kw_aem_eo68kZ2N1RAhnv1sBo6ahw",
+    "statut": "ouvert",
+    "resume": "La bourse de Master du Commonwealth 2027/28 est une bourse complète d'un an pour des études à temps plein au Royaume-Uni, financée par le Foreign, Commonwealth & Development Office (FCDO). Elle couvre les frais de scolarité, les frais d'entretien, le voyage économique de retour et d'autres allocations. Elle s'adresse aux candidats talentueux et motivés de pays éligibles du Commonwealth qui ne pourraient pas financer leurs études au Royaume-Uni. Les candidatures doivent être soumises via le système en ligne CSC Central avant le 20 octobre 2026 à 16h00 BST.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T03:48:08",
+    "slug": "bourse-commonwealth-master-royaume-uni-2027"
+  },
+  {
+    "titre": "Bourses de doctorat du Commonwealth pour les pays les moins avancés et les États vulnérables",
+    "seo_slug": "bourse-commonwealth-doctorat-royaume-uni-2027",
+    "organisation": "Commonwealth Scholarship Commission in the UK (CSC)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-20",
+    "deadline_texte": "20 octobre 2026 à 16h00 BST (heure britannique)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Recherche développementale",
+      "Tous domaines liés aux six thèmes de développement du CSC"
+    ],
+    "pays_eligibles": [
+      "Pays du Commonwealth classés comme pays les moins avancés et États vulnérables par le CAD de l'OCDE"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne du CSC",
+      "Preuve de diplôme (licence avec mention au moins 2:1 ou 2:2 avec master)",
+      "Proposition de recherche",
+      "Documents justificatifs selon le format requis"
+    ],
+    "avantages": [
+      "Frais de scolarité approuvés (couverts intégralement par accord entre le CSC et l'université britannique)",
+      "Indemnité de subsistance (allocation de vie) à un taux fixé par le CSC",
+      "Billet d'avion approuvé depuis le pays d'origine vers le Royaume-Uni et retour à la fin de la bourse",
+      "Bourse de voyage d'études pour les déplacements liés aux études au Royaume-Uni ou à l'étranger",
+      "Prise en charge des frais de travail sur le terrain à l'étranger (un billet d'avion aller-retour en classe économique) si approuvé",
+      "Visite à mi-parcours payée (billet d'avion) vers le pays d'origine, sauf si des allocations pour conjoint et/ou enfants ont été réclamées ou si un billet de retour a déjà été reçu pour le travail sur le terrain",
+      "Allocations familiales (à des taux fixés)",
+      "Évaluation complète des besoins et éligibilité à un soutien financier supplémentaire pour les personnes en situation de handicap"
+    ],
+    "eligibilite": [
+      "Être citoyen d'un pays éligible du Commonwealth ou avoir obtenu le statut de réfugié par un pays éligible du Commonwealth, ou être une personne protégée britannique",
+      "Résider de façon permanente dans un pays éligible du Commonwealth",
+      "Être disponible pour commencer les études au Royaume-Uni au début de l'année universitaire britannique en septembre 2027",
+      "D'ici septembre 2027, être titulaire d'un premier diplôme au moins de niveau upper second-class honours (2:1), ou d'un diplôme de lower second-class avec une qualification postuniversitaire pertinente (généralement un master)",
+      "Ne pas être inscrit en doctorat ou en MPhil menant à un doctorat dans une université britannique ou dans son pays d'origine avant septembre/octobre 2026",
+      "Ne pas avoir les moyens financiers d'étudier au Royaume-Uni sans cette bourse",
+      "Avoir fourni tous les documents justificatifs dans le format requis",
+      "Les personnes en situation de handicap qui peuvent démontrer leur potentiel à contribuer au développement international mais qui ne détiennent pas de diplôme de 2:1 peuvent être considérées pour une nomination contextualisée via le Commonwealth Disabled People's Forum (CDPF)",
+      "S'engager à retourner dans son pays d'origine à la fin de la bourse pour contribuer au développement de celui-ci",
+      "Ne pas être autorisé à changer pour un visa d'études supérieures ou autre pour rester au Royaume-Uni"
+    ],
+    "procedure_etapes": [
+      "Vérifier son éligibilité et les critères spécifiques",
+      "Préparer tous les documents justificatifs requis",
+      "Postuler via le système de candidature en ligne du CSC",
+      "Postuler à un 'nominator' (tel que décrit par le CSC)",
+      "Obtenir une place dans le programme de doctorat choisi au King's College London (voir la page 'How to apply: Research Courses')",
+      "Soumettre la candidature avant la date limite du 20 octobre 2026 à 16h00 BST"
+    ],
+    "contacts": [
+      "doctoral-college@kcl.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel des bourses de doctorat du Commonwealth",
+        "url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/"
+      },
+      {
+        "label": "Thèmes de développement du CSC",
+        "url": "https://cscuk.fcdo.gov.uk/csc-development-themes/"
+      },
+      {
+        "label": "Déclaration de soutien aux personnes handicapées du CSC",
+        "url": "https://cscuk.fcdo.gov.uk/csc-disability-support-statement/"
+      },
+      {
+        "label": "Comment postuler aux programmes de recherche à King's College London",
+        "url": "https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply"
+      },
+      {
+        "label": "Critères de sélection des bourses du Commonwealth",
+        "url": "https://cscuk.fcdo.gov.uk/selection-criteria-for-assessment-of-applications/"
+      },
+      {
+        "label": "Site du Foreign, Commonwealth & Development Office (FCDO)",
+        "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+      }
+    ],
+    "mots_cles": [
+      "bourse Commonwealth doctorat",
+      "bourse Royaume-Uni 2027",
+      "bourse pays en développement",
+      "bourse doctorat King's College London",
+      "bourse Commonwealth PhD",
+      "financement études doctorales UK",
+      "bourse pour pays les moins avancés",
+      "bourse Commonwealth 2027/28"
+    ],
+    "lien_candidature": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/",
+    "source_url": "https://www.kcl.ac.uk/study/funding/funding-opportunities/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states?fbclid=IwY2xjawU7w9lleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeoQLgOMUEf0CwBUEZlnmojWj9af786kI8yZq18zo0Hkv16d3Q0birzgksvCI_aem_2_I7hd-VL4YrLIyChJGofg",
+    "statut": "ouvert",
+    "resume": "Les bourses de doctorat du Commonwealth pour les pays les moins avancés et les États vulnérables offrent une opportunité exceptionnelle aux étudiants talentueux de poursuivre des recherches doctorales à temps plein au Royaume-Uni, avec une prise en charge complète des frais de scolarité, une indemnité de subsistance, les frais de voyage et des allocations familiales. Financées par le Foreign, Commonwealth & Development Office (FCDO) et gérées par la Commonwealth Scholarship Commission (CSC), ces bourses visent à soutenir des recherches ayant un impact sur le développement et à former les futurs leaders et innovateurs de demain. Les candidatures pour l'année académique 2027/28 sont ouvertes du 8 septembre au 20 octobre 2026. Les candidats doivent être citoyens d'un pays éligible du Commonwealth, résider de façon permanente dans ce pays, et ne pas avoir les moyens de financer leurs études au Royaume-Uni sans cette bourse.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T04:11:24",
+    "slug": "bourse-commonwealth-doctorat-royaume-uni-2027"
+  },
+  {
     "titre": "Bourses Jean Monnet du Centre Robert Schuman",
     "seo_slug": "bourse-jean-monnet-postdoctorat-2027",
     "organisation": "Centre Robert Schuman d'études avancées, Institut universitaire européen (IUE)",
@@ -1911,6 +2150,107 @@
     "imageUrl": null,
     "extrait_le": "2026-09-27T23:35:44",
     "slug": "bourse-voyage-biologistes-2026"
+  },
+  {
+    "titre": "Bourse de doctorat en méthodes mathématiques axées sur les données pour les véhicules sous-marins autonomes",
+    "seo_slug": "bourse-doctorat-maths-sous-marin-aalborg-2026",
+    "organisation": "Aalborg University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse de doctorat",
+    "deadline": "2026-10-23",
+    "deadline_texte": "23 octobre 2026",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Mathématiques",
+      "Statistiques",
+      "Robotique sous-marine",
+      "Apprentissage automatique"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Lettre de motivation",
+      "CV",
+      "Diplômes (licence et master, avec notes)",
+      "Autres documents pertinents"
+    ],
+    "avantages": [
+      "Financement de la recherche doctorale",
+      "Salaire selon la convention collective AC",
+      "Possibilité d'enseignement",
+      "Séjour de recherche à l'étranger"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un master",
+      "Solide formation en modélisation de séries temporelles, processus stochastiques, apprentissage statistique et quantification de l'incertitude",
+      "Excellente communication écrite et orale en anglais",
+      "Volonté de participer à des ateliers et conférences",
+      "Volonté d'effectuer un séjour à l'étranger pendant le doctorat"
+    ],
+    "procedure_etapes": [
+      "1. Préparer les documents requis : lettre de motivation, CV, diplômes, autres documents pertinents",
+      "2. Soumettre la candidature via le système de recrutement de l'Université d'Aalborg",
+      "3. Attendre la présélection",
+      "4. Les candidats présélectionnés seront évalués par des experts",
+      "5. Les candidats seront informés de leur statut"
+    ],
+    "contacts": [
+      "cornean@math.aau.dk",
+      "+4599408879"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://aau.varbi.com/en/what:login/jobID:977414/type:job/where:4/apply:1"
+      },
+      {
+        "label": "Blue Mathematics",
+        "url": "https://www.aaublue.aau.dk/"
+      },
+      {
+        "label": "Orient's Fond",
+        "url": "https://orientsfond.dk/"
+      },
+      {
+        "label": "Département de mathématiques",
+        "url": "https://www.math.aau.dk/"
+      },
+      {
+        "label": "Processus de recrutement",
+        "url": "https://www.vacancies.aau.dk/scientific-positions/recruitment-process#044f05b4-1d42-4c51-bd90-5adcffd5bbe5"
+      },
+      {
+        "label": "Doctoral School of Engineering and Science",
+        "url": "https://www.phd.aau.dk/eng"
+      },
+      {
+        "label": "Aperçu des salaires pour le recrutement - postes scientifiques (VIP)",
+        "url": "https://www.en.hr.aau.dk/information-and-guidance/salary/salary-overview-for-recruitment"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat mathématiques",
+      "PhD Aalborg University",
+      "bourse sous-marin autonome",
+      "financement doctorat Danemark",
+      "bourse mathématiques appliquées",
+      "PhD statistiques",
+      "bourse robotique sous-marine",
+      "doctorat Aalborg"
+    ],
+    "lien_candidature": "https://aau.varbi.com/en/what:login/jobID:977414/type:job/where:4/apply:1",
+    "source_url": "https://www.stillinger.aau.dk/phd-stillinger/vis-stilling/vacancyId/977414",
+    "statut": "ouvert",
+    "resume": "L'Université d'Aalborg propose une bourse de doctorat entièrement financée dans le cadre du programme Blue Mathematics, soutenu par Orient's Fond. Le projet se concentre sur le développement de méthodes probabilistes et axées sur les données pour les véhicules sous-marins autonomes, avec des applications en robotique sous-marine et technologie maritime. Le candidat idéal possède un master en mathématiques, statistiques ou domaine connexe, avec de solides compétences en modélisation de séries temporelles et apprentissage statistique. La bourse débutera le 1er janvier 2027 ou peu après, pour une durée de trois ans.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T01:29:14",
+    "slug": "bourse-doctorat-maths-sous-marin-aalborg-2026"
   },
   {
     "titre": "Bourses SofinaBoël pour doctorants",
@@ -4217,6 +4557,86 @@
     "slug": "bourse-iagc-doctorat-geochimie-2027"
   },
   {
+    "titre": "Programme international des boursiers de l'Université de la Colombie-Britannique (UBC) 2027",
+    "seo_slug": "bourse-ubc-international-scholars-2027",
+    "organisation": "The University of British Columbia (UBC)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-15",
+    "deadline_texte": "15 novembre 2026 à 23h59 (heure du Pacifique, PST)",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Formulaire de nomination",
+      "Formulaire de recommandation d'un enseignant"
+    ],
+    "avantages": [
+      "Soutien financier significatif pour couvrir les frais de scolarité et les frais de subsistance"
+    ],
+    "eligibilite": [
+      "Être un étudiant international",
+      "Avoir démontré des qualités de leadership",
+      "Avoir apporté des contributions exceptionnelles à sa communauté",
+      "Avoir de solides performances académiques",
+      "Avoir besoin d'un soutien financier significatif pour étudier à UBC"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et les étapes de candidature sur le site du programme.",
+      "2. Initier la demande de bourse.",
+      "3. Demander une nomination à son établissement.",
+      "4. Demander une recommandation à un enseignant.",
+      "5. Rassembler les informations requises.",
+      "6. S'assurer que le fuseau horaire de l'application est réglé sur l'heure du Pacifique (PCT).",
+      "7. Inviter le nominateur et l'enseignant référent à remplir leurs formulaires via les tâches (Nomination form, Request a Recommendation).",
+      "8. Remplir le formulaire de candidature (Application form) dans les tâches.",
+      "9. Soumettre la candidature complète avant la date limite."
+    ],
+    "contacts": [
+      "international.awards@ubc.ca"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://undergraduatescholarships.ubc.ca/prog/294977/apply/?next=/prog/2027_international_scholars_program_application/"
+      },
+      {
+        "label": "Assistance technique (Survey Monkey Apply)",
+        "url": "https://undergraduatescholarships.ubc.ca/helpdesk/"
+      }
+    ],
+    "mots_cles": [
+      "bourse UBC",
+      "bourse internationale",
+      "bourse licence Canada",
+      "bourse études Canada",
+      "programme international boursiers UBC",
+      "bourse 2027",
+      "bourse étudiants internationaux",
+      "bourse leadership",
+      "bourse Colombie-Britannique"
+    ],
+    "lien_candidature": "https://undergraduatescholarships.ubc.ca/prog/294977/apply/?next=/prog/2027_international_scholars_program_application/",
+    "source_url": "https://undergraduatescholarships.ubc.ca/prog/2027_international_scholars_program_application/?fbclid=IwY2xjawU7uHNleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe7CdG1J7mKHsAL3f-THa6a94hzrZ35q1gtwMW-zRVLJ1NkyaQj-gzSI6eD3M_aem_VsVPcCeRlrZfjFlf-NmWAw",
+    "statut": "ouvert",
+    "resume": "Le Programme international des boursiers de l'UBC offre un soutien financier significatif aux étudiants internationaux exceptionnels qui font preuve de leadership, s'engagent dans leur communauté et obtiennent d'excellents résultats académiques. Les candidats doivent être nommés par leur établissement et fournir une recommandation d'un enseignant. La date limite de candidature est le 15 novembre 2026 à 23h59 (heure du Pacifique). Pour plus d'informations, consultez le site officiel du programme.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T03:23:36",
+    "slug": "bourse-ubc-international-scholars-2027"
+  },
+  {
     "titre": "Bourse postdoctorale junior FWO",
     "seo_slug": "bourse-postdoctorale-junior-fwo-2027",
     "organisation": "FWO (Fonds voor Wetenschappelijk Onderzoek - Vlaanderen)",
@@ -5309,6 +5729,189 @@
     "slug": "bourse-horowitz-2026-2027"
   },
   {
+    "titre": "Bourse Mundus MAPP 2027-2029",
+    "seo_slug": "bourse-mundus-mapp-2027",
+    "organisation": "Mundus MAPP Consortium",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-12-01",
+    "deadline_texte": "1er décembre 2026 à 23h59 (heure d'Europe centrale)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Politiques publiques",
+      "Administration publique",
+      "Développement international"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Relevés de notes",
+      "Diplômes",
+      "Preuve de maîtrise de l'anglais",
+      "Lettres de recommandation"
+    ],
+    "avantages": [
+      "Aide financière (bourse EMJM)",
+      "Prise en charge des frais de scolarité",
+      "Indemnité mensuelle",
+      "Frais de voyage",
+      "Assurance"
+    ],
+    "eligibilite": [
+      "Candidats souhaitant être considérés pour une aide financière",
+      "Candidats non-UE/EEE pour la date limite du 15 avril 2027",
+      "Candidats UE/EEE pour la date limite du 1er juillet 2027"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'admission sur le site officiel",
+      "2. Préparer les documents requis (CV, lettre de motivation, relevés de notes, etc.)",
+      "3. Soumettre la candidature via le portail de candidature avant la date limite",
+      "4. Pour les candidats souhaitant une aide financière : respecter la date limite du 1er décembre 2026",
+      "5. Pour les candidats non-UE/EEE sans aide financière : respecter la date limite du 15 avril 2027",
+      "6. Pour les candidats UE/EEE sans aide financière : respecter la date limite du 1er juillet 2027",
+      "7. Consulter les résultats dans le portail de candidature",
+      "8. En cas de rejet, soumettre un appel via le formulaire prévu avant la date limite d'appel"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Aide financière",
+        "url": "https://www.mundusmapp.org/financial-aid/"
+      },
+      {
+        "label": "Procédure d'appel (DOCX)",
+        "url": "https://www.mundusmapp.org/wp-content/uploads/2026/04/ADMISSIONDECISIONAPPEALPROCEDURE.docx"
+      },
+      {
+        "label": "Conditions d'admission",
+        "url": "https://www.mundusmapp.org/admissions-requirements/"
+      },
+      {
+        "label": "Liste des pays sensibles aux visas (PDF)",
+        "url": "https://www.ceu.edu/sites/default/files/attachment/basic_page/13735/listofvisasensitivecountries.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse Mundus MAPP",
+      "master politiques publiques",
+      "bourse études Europe",
+      "bourse master 2027",
+      "financement études",
+      "bourse internationale",
+      "Mundus MAPP",
+      "bourse Erasmus Mundus"
+    ],
+    "lien_candidature": "https://www.mundusmapp.org/admissions-calendar/",
+    "source_url": "https://www.mundusmapp.org/admissions-calendar/?fbclid=IwY2xjawU7wFJleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe7CdG1J7mKHsAL3f-THa6a94hzrZ35q1gtwMW-zRVLJ1NkyaQj-gzSI6eD3M_aem_VsVPcCeRlrZfjFlf-NmWAw",
+    "statut": "ouvert",
+    "resume": "Le programme Mundus MAPP ouvre ses candidatures pour la cohorte 2027-2029. Les candidats souhaitant bénéficier d'une aide financière doivent postuler avant le 1er décembre 2026. Les candidatures pour les non-UE/EEE sans aide financière sont attendues avant le 15 avril 2027, et celles des UE/EEE avant le 1er juillet 2027. Cette bourse complète couvre les frais de scolarité, une indemnité mensuelle, les frais de voyage et l'assurance pour les étudiants sélectionnés.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T03:56:01",
+    "slug": "bourse-mundus-mapp-2027"
+  },
+  {
+    "titre": "Bourse de doctorat de Hong Kong (Hong Kong PhD Fellowship Scheme)",
+    "seo_slug": "bourse-doctorat-hong-kong-2027",
+    "organisation": "Research Grants Council (RGC)",
+    "montant": 344400,
+    "devise": "HKD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-12-01",
+    "deadline_texte": "1er décembre 2026 à 12h00 (heure de Hong Kong)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences",
+      "Médecine",
+      "Ingénierie",
+      "Technologie",
+      "Sciences humaines",
+      "Sciences sociales",
+      "Études commerciales"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Allocation annuelle de 344 400 HKD (environ 44 150 USD)",
+      "Allocation annuelle de 14 400 HKD (environ 1 840 USD) pour conférences et voyages liés à la recherche",
+      "Soutien supplémentaire possible par l'université d'accueil au-delà de trois ans"
+    ],
+    "eligibilite": [
+      "Être un nouveau candidat à un programme de doctorat à temps plein dans une université de Hong Kong",
+      "Faire preuve d'excellence académique",
+      "Démontrer des capacités et un potentiel exceptionnels en recherche",
+      "Posséder d'excellentes compétences en communication et en relations interpersonnelles",
+      "Avoir un fort potentiel de leadership"
+    ],
+    "procedure_etapes": [
+      "Choisir jusqu'à deux programmes de doctorat dans une ou deux universités de Hong Kong",
+      "Soumettre une demande d'admission directement à l'université ou aux universités concernées pour le(s) programme(s) sélectionné(s)",
+      "Se conformer pleinement aux exigences d'admission des universités et programmes choisis",
+      "Postuler en ligne via le portail du HKPFS (http://www.rgc.edu.hk/hkphd) entre le 1er septembre 2026 et le 1er décembre 2026 (12h00, heure de Hong Kong)",
+      "Participer aux entretiens organisés par les universités dans le cadre du processus de sélection"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du HKPFS",
+        "url": "https://cerg1.ugc.edu.hk/hkpfs/index.html"
+      },
+      {
+        "label": "Circulaire d'appel à candidatures",
+        "url": "call_letter.html"
+      },
+      {
+        "label": "Comment postuler",
+        "url": "how_to_apply.html"
+      },
+      {
+        "label": "Recherches financées",
+        "url": "funded_research.html"
+      },
+      {
+        "label": "Contact",
+        "url": "contact.html"
+      },
+      {
+        "label": "Informations sur les universités",
+        "url": "https://cerg1.ugc.edu.hk/hkpfs/institutions.html"
+      },
+      {
+        "label": "Portail de candidature",
+        "url": "http://www.rgc.edu.hk/hkphd"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat Hong Kong",
+      "HKPFS",
+      "bourse recherche Hong Kong",
+      "financement doctorat",
+      "bourse internationale",
+      "Research Grants Council",
+      "bourse 2027"
+    ],
+    "lien_candidature": "http://www.rgc.edu.hk/hkphd",
+    "source_url": "https://www.ugc.edu.hk/eng/rgc/funding_opport/hkpfs/?fbclid=IwY2xjawU7wUhleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEer6qvciM2M0ORkK9LQ4txyADIIfYzihT2ftMmfk-pOA0NOU03Hn2bcjb8IQI_aem_qqvhp8UvuEMcLDkO-KSyew",
+    "statut": "ouvert",
+    "resume": "La Bourse de doctorat de Hong Kong (HKPFS), créée en 2009 par le Research Grants Council, vise à attirer les meilleurs esprits mondiaux pour poursuivre un doctorat dans les universités de Hong Kong. Pour l'année académique 2027/28, 400 bourses seront attribuées, offrant une allocation annuelle de 344 400 HKD (environ 44 150 USD) et une allocation de 14 400 HKD (environ 1 840 USD) pour les conférences et voyages liés à la recherche, pour une durée allant jusqu'à trois ans. Les candidats de tous pays sont éligibles et doivent démontrer une excellence académique, un potentiel de recherche exceptionnel, d'excellentes compétences en communication et un leadership avéré. Les candidatures sont ouvertes du 1er septembre 2026 au 1er décembre 2026 (12h00, heure de Hong Kong).",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T04:00:25",
+    "slug": "bourse-doctorat-hong-kong-2027"
+  },
+  {
     "titre": "Bourses de l'Université de Maastricht pour étudiants internationaux",
     "seo_slug": "bourses-universite-maastricht-internationaux-2027",
     "organisation": "Maastricht University (UM)",
@@ -5427,6 +6030,234 @@
     "imageUrl": null,
     "extrait_le": "2026-08-03T15:33:52",
     "slug": "bourses-universite-maastricht-internationaux-2027"
+  },
+  {
+    "titre": "Bourses de doctorat NERC financées par le programme CREATES DLA de l'Université de Cambridge",
+    "seo_slug": "bourse-nerc-doctorat-cambridge-2027",
+    "organisation": "University of Cambridge (NERC CREATES DLA)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-12-08",
+    "deadline_texte": "8 décembre 2026 ou 6 janvier 2027 (selon le cours de premier choix)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Changement climatique et processus environnementaux",
+      "Biologie et conservation",
+      "Terre solide et risques géologiques",
+      "Sciences de l'environnement"
+    ],
+    "pays_eligibles": [
+      "Royaume-Uni",
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Relevés de notes",
+      "Deux références académiques",
+      "Preuve de maîtrise de l'anglais",
+      "Résumé de 250 mots des intérêts de recherche",
+      "Liste des directeurs de recherche potentiels",
+      "Liste des sujets de recherche"
+    ],
+    "avantages": [
+      "Financement complet pour 3,5 ans",
+      "Frais de scolarité",
+      "Allocation de subsistance",
+      "Frais de recherche",
+      "Formation avancée"
+    ],
+    "eligibilite": [
+      "Diplôme de premier cycle avec mention 2.1 ou équivalent (CGPA 3.5/4.0)",
+      "Deux références exceptionnelles",
+      "Maîtrise de l'anglais",
+      "Sujet de recherche dans le domaine du NERC"
+    ],
+    "procedure_etapes": [
+      "1. Parcourir la liste des sujets et directeurs de recherche pour trouver ceux qui vous intéressent.",
+      "2. Contacter les directeurs de recherche potentiels avant de postuler.",
+      "3. Vérifier votre éligibilité à l'admission (diplôme, références, anglais).",
+      "4. Postuler via le portail de candidature de l'Université de Cambridge.",
+      "5. Sélectionner le trimestre Michaelmas 2027 (01-oct-2027).",
+      "6. Dans la section financement, cocher 'Oui - Je souhaite postuler pour un financement'.",
+      "7. Remplir la section UKRI en répondant 'oui' et lister les sujets et directeurs du CREATES DLA.",
+      "8. Fournir un résumé de 250 mots de vos intérêts de recherche dans le domaine du NERC.",
+      "9. Indiquer les sujets et directeurs par ordre de priorité.",
+      "10. Soumettre tous les documents justificatifs, y compris les références, avant la date limite."
+    ],
+    "contacts": [
+      "dtp-admin@esc.cam.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://www.postgraduate.study.cam.ac.uk/application-process/applicant-portal-and-self-service-account"
+      },
+      {
+        "label": "Informations sur le financement",
+        "url": "https://nercdtp.esc.cam.ac.uk/prospective-students/funding-information-0"
+      },
+      {
+        "label": "Liste des directeurs de recherche",
+        "url": "https://nercdtp.esc.cam.ac.uk/creates-dla-welcoming-students-subject-funding-decision-expected-late-september/dla-supervisors"
+      },
+      {
+        "label": "Thème Changement climatique et processus environnementaux",
+        "url": "https://nercdtp.esc.cam.ac.uk/StaffDirectory/climate-and-environmental-science"
+      },
+      {
+        "label": "Thème Biologie et conservation",
+        "url": "https://nercdtp.esc.cam.ac.uk/StaffDirectory/biology-and-conservation"
+      },
+      {
+        "label": "Thème Terre solide et risques géologiques",
+        "url": "https://nercdtp.esc.cam.ac.uk/StaffDirectory/solid-earth-and-natural-hazards"
+      },
+      {
+        "label": "Domaine de recherche du NERC",
+        "url": "https://www.ukri.org/councils/nerc/guidance-for-applicants/how-to-submit-your-application/research-area-selection-in-je-s/"
+      },
+      {
+        "label": "Exigences linguistiques",
+        "url": "https://www.graduate.study.cam.ac.uk/international-students/competence-english/will-i-have-language-requirement"
+      },
+      {
+        "label": "Admissions postgraduées",
+        "url": "http://www.graduate.study.cam.ac.uk/"
+      },
+      {
+        "label": "Département de chimie - dates limites",
+        "url": "https://www.ch.cam.ac.uk/pgapp/postgraduate-admissions-home"
+      },
+      {
+        "label": "Département de géographie - dates limites",
+        "url": "https://www.geog.cam.ac.uk/graduate/phd/"
+      },
+      {
+        "label": "Gates Cambridge - calendrier",
+        "url": "https://www.gatescambridge.org/apply/timeline"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat Cambridge",
+      "NERC CREATES DLA",
+      "financement PhD environnement",
+      "bourse sciences environnementales",
+      "doctorat Royaume-Uni",
+      "bourse NERC",
+      "Cambridge PhD funding",
+      "bourse études doctorales"
+    ],
+    "lien_candidature": "https://www.postgraduate.study.cam.ac.uk/application-process/applicant-portal-and-self-service-account",
+    "source_url": "https://nercdtp.esc.cam.ac.uk/prospective-students/how-apply-updated-2026-entry?fbclid=IwY2xjawU7wz5leHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe7CdG1J7mKHsAL3f-THa6a94hzrZ35q1gtwMW-zRVLJ1NkyaQj-gzSI6eD3M_aem_VsVPcCeRlrZfjFlf-NmWAw",
+    "statut": "ouvert",
+    "resume": "L'Université de Cambridge offre quinze bourses de doctorat de 3,5 ans financées par le NERC dans le cadre du programme CREATES Doctoral Landscape Award (DLA). Ces bourses couvrent les frais de scolarité, une allocation de subsistance et les frais de recherche pour les étudiants débutant en octobre 2027. Les candidats doivent postuler via le portail de candidature de l'Université et respecter la date limite du cours choisi, soit le 8 décembre 2026 ou le 6 janvier 2027. Le programme encourage la diversité et l'inclusion, et les sujets de recherche doivent s'inscrire dans le domaine du NERC.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T04:10:19",
+    "slug": "bourse-nerc-doctorat-cambridge-2027"
+  },
+  {
+    "titre": "Bourses d'entrée pour étudiants de premier cycle (USES) - Université Simon Fraser",
+    "seo_slug": "bourse-uses-sfu-premier-cycle-2027",
+    "organisation": "Simon Fraser University (SFU)",
+    "montant": 140000,
+    "devise": "CAD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-12-15",
+    "deadline_texte": "15 décembre 2026 à 23h59 (PCT) pour la demande de bourse. Les documents justificatifs (références et éléments d'admission) doivent être soumis au plus tard le 31 janvier 2027 à 23h59 (PCT).",
+    "niveau_etudes": [
+      "Premier cycle (undergraduate)"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "Canada",
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Relevé de notes du secondaire",
+      "Deux références (académique et implication communautaire)",
+      "Essai (500 mots)",
+      "Liste des activités parascolaires et réalisations (jusqu'à 5)",
+      "Liste des prix reçus",
+      "Informations financières (optionnel)"
+    ],
+    "avantages": [
+      "Bourse d'entrée pour étudiants internationaux : 140 000 $ (8 versements de 17 500 $)",
+      "Possibilité d'allocation de subsistance supplémentaire de 8 000 $ par trimestre pour les étudiants exceptionnellement talentueux avec des besoins financiers démontrés (cas limités)",
+      "Pour les Canadiens et résidents permanents : bourses de 20 000 $ à 60 000 $ (8 versements)",
+      "Reconnaissance et prestige"
+    ],
+    "eligibilite": [
+      "Postuler à SFU pour le trimestre d'automne",
+      "Être diplômé du secondaire l'année d'admission à SFU, ou avoir obtenu son diplôme l'année précédente sans être inscrit à des cours postsecondaires",
+      "Avoir une moyenne minimale de 90 % ou 31 points IB (hors points bonus) dans les cours requis pour l'admission au programme principal",
+      "Démontrer une excellence dans les activités académiques et extrascolaires",
+      "Fournir deux références complètes avant le 31 janvier 2027",
+      "Compléter tous les éléments requis sur la liste de tâches du Centre étudiant pour que le statut de la demande d'admission à SFU soit 'Complet' avant le 31 janvier 2027"
+    ],
+    "procedure_etapes": [
+      "1. Postuler d'abord à SFU pour le trimestre d'automne et obtenir un numéro d'étudiant SFU.",
+      "2. Accéder au portail de candidature aux bourses USES à partir du 1er octobre 2026.",
+      "3. Remplir la section 'Implication communautaire et réalisations' en listant jusqu'à 5 activités parascolaires et réalisations, ainsi que les prix reçus.",
+      "4. Rédiger un essai de 500 mots décrivant comment les expériences personnelles ont façonné votre vision de la vie et comment cela se connecte à votre avenir à SFU.",
+      "5. Fournir les coordonnées de deux référents (un académique et un pour l'implication communautaire) qui seront contactés directement par SFU.",
+      "6. Remplir la section optionnelle d'informations supplémentaires sur la situation financière.",
+      "7. Soumettre la demande de bourse avant le 15 décembre 2026 à 23h59 (PCT).",
+      "8. S'assurer que les documents justificatifs (références et éléments d'admission) soient soumis avant le 31 janvier 2027 à 23h59 (PCT)."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature aux bourses",
+        "url": "https://esas.its.sfu.ca/faa/mes"
+      },
+      {
+        "label": "Liste de tâches du Centre étudiant",
+        "url": "https://sims.erp.sfu.ca/psp/csprd/?cmd=login"
+      },
+      {
+        "label": "Conditions d'admission à SFU",
+        "url": "http://www.sfu.ca/students/admission/admission-requirements.html"
+      },
+      {
+        "label": "Calendrier des bourses USES",
+        "url": "/students/financial-aid/entrance/highschool/uses/uses-timeline.html"
+      },
+      {
+        "label": "Page des dates limites",
+        "url": "/students/financial-aid/deadlines.html"
+      },
+      {
+        "label": "Contact Aide financière et bourses",
+        "url": "/students/financial-aid/contact.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse SFU",
+      "bourse premier cycle Canada",
+      "bourse internationale",
+      "bourse d'entrée",
+      "USES",
+      "bourse études Canada",
+      "financement études supérieures",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://esas.its.sfu.ca/faa/mes",
+    "source_url": "https://www.sfu.ca/students/financial-aid/entrance/highschool/uses.html?fbclid=IwY2xjawU7uOJleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeZ_B22ZwM4gzQRaIedjEbr8ojEA36Rmhmhs1q8aKcwPELsSe4tcPVCci366c_aem_8hE-opba5dM37yVoVJLWRA",
+    "statut": "ouvert",
+    "resume": "L'Université Simon Fraser (SFU) offre les Bourses d'entrée pour étudiants de premier cycle (USES) aux étudiants nationaux et internationaux exceptionnels. Ces bourses prestigieuses, d'une valeur allant jusqu'à 140 000 $ pour les étudiants internationaux, récompensent l'excellence académique et l'engagement communautaire. Les candidats doivent postuler à SFU pour l'automne 2027 et soumettre leur dossier de bourse avant le 15 décembre 2026. Une occasion unique de financer ses études au Canada tout en rejoignant une communauté universitaire dynamique.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T03:25:18",
+    "slug": "bourse-uses-sfu-premier-cycle-2027"
   },
   {
     "titre": "Bourse d'excellence pour étudiants internationaux de l'Université Charles Sturt",
@@ -5655,6 +6486,118 @@
     "imageUrl": null,
     "extrait_le": "2026-09-22T03:23:23",
     "slug": "bourse-oxford-pershing-square-mba-2027"
+  },
+  {
+    "titre": "Bourses internationales du Vice-Chancelier de l'Université de Newcastle",
+    "seo_slug": "bourse-vice-chancelier-newcastle-undergraduate-2027",
+    "organisation": "Newcastle University",
+    "montant": 7000,
+    "devise": "GBP",
+    "type_financement": "bourse partielle",
+    "deadline": "2027-01-13",
+    "deadline_texte": "13 janvier 2027 (date limite de candidature UCAS pour considération égale). Les bourses sont attribuées tout au long de l'année universitaire avant le début du cursus. Les candidats ayant reçu une offre avant le 31 mars 2027 doivent accepter Newcastle University comme choix ferme ou assurance avant le 3 mai 2027.",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Tous les domaines éligibles (voir liste des cours non éligibles)"
+    ],
+    "pays_eligibles": [
+      "Algérie",
+      "Bahreïn",
+      "Bangladesh",
+      "Brésil",
+      "Canada",
+      "Colombie",
+      "Égypte",
+      "Ghana",
+      "Hong Kong",
+      "Inde",
+      "Indonésie",
+      "Japon",
+      "Jordanie",
+      "Kenya",
+      "Malaisie",
+      "Mexique",
+      "Maroc",
+      "Myanmar",
+      "Népal",
+      "Nigéria",
+      "Norvège",
+      "Pakistan",
+      "Pérou",
+      "Singapour",
+      "Afrique du Sud",
+      "Corée du Sud",
+      "Sri Lanka",
+      "Suisse",
+      "Taïwan",
+      "Thaïlande",
+      "Turquie",
+      "Émirats arabes unis",
+      "Ukraine",
+      "États-Unis",
+      "Vietnam",
+      "Zimbabwe",
+      "Tous les États membres de l'UE"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (niveau requis pour le programme)",
+    "documents_requis": [
+      "Candidature via UCAS",
+      "Documents académiques (dans le cadre de la candidature au cours)"
+    ],
+    "avantages": [
+      "Réduction des frais de scolarité de 7 000 £ par année universitaire",
+      "Attribution automatique dans le cadre de la candidature académique"
+    ],
+    "eligibilite": [
+      "Être domicilié dans l'un des pays/régions éligibles",
+      "Avoir reçu une offre pour un cursus de licence éligible au campus de Newcastle city centre pour l'année universitaire 2027/28",
+      "Être considéré comme étudiant international pour les frais de scolarité",
+      "Soumettre une candidature via UCAS avant la date limite de considération égale du 13 janvier 2027",
+      "Les candidats recevant une offre avant le 31 mars 2027 doivent accepter Newcastle University comme choix ferme ou assurance avant le 3 mai 2027",
+      "Les candidats domiciliés en Turquie ne sont éligibles que s'ils autofinancent leurs études"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité (pays de domicile, cursus éligible, statut international)",
+      "2. Soumettre une candidature via UCAS avant le 13 janvier 2027",
+      "3. Recevoir une offre d'admission avant le 31 mars 2027 (si applicable)",
+      "4. Accepter Newcastle University comme choix ferme ou assurance avant le 3 mai 2027",
+      "5. Les candidats éligibles sont automatiquement considérés pour la bourse dans le cadre de leur candidature académique"
+    ],
+    "contacts": [
+      "scholarship.applications@newcastle.ac.uk",
+      "+44 191 208 8107",
+      "+44 191 208 5537"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Règlement de la bourse (PDF)",
+        "url": "https://www.ncl.ac.uk/mediav8/postgraduate/files/funding/central/vcis-ug-regulations-v2-2027-28.pdf"
+      },
+      {
+        "label": "Page d'information sur l'expérience académique 2026-27",
+        "url": "https://www.ncl.ac.uk/study/experience/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Newcastle University",
+      "bourse internationale licence",
+      "bourse Vice-Chancelier",
+      "bourse études Royaume-Uni",
+      "bourse partielle frais de scolarité",
+      "bourse undergraduate 2027",
+      "bourse pour étudiants internationaux",
+      "financement études licence"
+    ],
+    "lien_candidature": "https://www.ncl.ac.uk/undergraduate/fees-funding/scholarships-bursaries/vc-international/",
+    "source_url": "https://www.ncl.ac.uk/undergraduate/fees-funding/scholarships-bursaries/vc-international/?utm_id=97758_v0_s00_e0_tv1_a1den5f08gvbpa&fbclid=IwY2xjawU7uyxleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeZ_B22ZwM4gzQRaIedjEbr8ojEA36Rmhmhs1q8aKcwPELsSe4tcPVCci366c_aem_8hE-opba5dM37yVoVJLWRA",
+    "statut": "ouvert",
+    "resume": "L'Université de Newcastle propose des bourses internationales partielles du Vice-Chancelier pour aider les étudiants internationaux à financer un cursus de licence. Chaque bourse couvre 7 000 £ par année universitaire, réduisant ainsi les frais de scolarité. Les candidats éligibles sont automatiquement considérés lors de leur candidature académique via UCAS. La date limite de candidature UCAS est fixée au 13 janvier 2027, et les bourses sont attribuées tout au long de l'année universitaire.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T03:40:38",
+    "slug": "bourse-vice-chancelier-newcastle-undergraduate-2027"
   },
   {
     "titre": "Bourses de l'Institut de Doha pour les Études Supérieures",
@@ -5997,6 +6940,103 @@
     "slug": "bourse-mitra-master-migration-2027"
   },
   {
+    "titre": "Master International Erasmus Mundus en Littérature pour Enfants, Médias et Entrepreneuriat Culturel (CLMCE)",
+    "seo_slug": "bourse-erasmus-mundus-clmce-master-2027",
+    "organisation": "University of Glasgow",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2027-01-22",
+    "deadline_texte": "22 janvier 2027 à 13h00 (heure du Royaume-Uni)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Littérature pour enfants",
+      "Médias",
+      "Entrepreneuriat culturel"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature CLMCE - Bourse 2027-2029 (si candidature pour une bourse Erasmus Mundus)",
+      "Formulaire de candidature CLMCE - Autofinancement 2027-2029 (si candidature en tant qu'étudiant autofinancé)",
+      "Copie(s) du/des diplôme(s) officiel(s) (si déjà obtenu) - en langue originale",
+      "Copie(s) du/des relevé(s) de notes officiel(s) - en langue originale",
+      "Traductions officielles en anglais du/des diplôme(s) et relevé(s) de notes",
+      "Deux lettres de recommandation sur papier à en-tête",
+      "CV actuel",
+      "Certificat de test d'anglais (si la langue maternelle n'est pas l'anglais)",
+      "Copie de la page photo du passeport"
+    ],
+    "avantages": [
+      "Bourse Erasmus Mundus (couvre les frais de scolarité, les frais de voyage, l'allocation mensuelle, etc.)"
+    ],
+    "eligibilite": [
+      "Candidats de toutes nationalités",
+      "Diplôme de premier cycle (licence) ou en cours de dernière année",
+      "Maîtrise de l'anglais (test requis si la langue maternelle n'est pas l'anglais)",
+      "Deux lettres de recommandation (une académique et une autre académique ou professionnelle)",
+      "Les références professionnelles doivent dater de moins de 24 mois et provenir d'un employeur des 12 derniers mois"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'admission sur le site de l'Université de Glasgow",
+      "2. Remplir le formulaire de candidature en ligne (bourse ou autofinancement)",
+      "3. Télécharger tous les documents requis (diplômes, relevés, lettres de recommandation, CV, certificat d'anglais, passeport)",
+      "4. Soumettre la candidature avant la date limite (22 janvier 2027 pour la bourse)",
+      "5. Les candidats à la bourse seront informés du résultat en avril 2027"
+    ],
+    "contacts": [
+      "erasmusreferences@glasgow.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://uogapply.mycampus.gla.ac.uk/psc/campus/EMPLOYEE/SA/c/CY2_AD_MENU.CY2_AD_NUR_FL.GBL&cmd=start?CAMPUS_URL=https%3a%2f%2fuogapply.mycampus.gla.ac.uk%3a443%2fpsp%2fcampus%2fEMPLOYEE%2fSA%2fs%2fWEBLIB_SCC_NUR.SCC_SS_GATEKEEPER.FieldFormula.IScript_SCC_GateKeeper%3fSCC_APPL_CONTXT_ID%3dSCC_NURCTXT_20171218163641%26CAREER%3DPGT%26PLANS%3DX323-5323&"
+      },
+      {
+        "label": "Formulaire de candidature CLMCE - Bourse 2027-2029",
+        "url": "https://www.gla.ac.uk/media/Media_1296192_smxx.docx"
+      },
+      {
+        "label": "Formulaire de candidature CLMCE - Autofinancement 2027-2029",
+        "url": "https://www.gla.ac.uk/media/Media_1293619_smxx.docx"
+      },
+      {
+        "label": "Page de contact pour les questions",
+        "url": "https://www.gla.ac.uk/study/enquire/"
+      },
+      {
+        "label": "Guide de dépannage pour la candidature en ligne",
+        "url": "https://www.gla.ac.uk/postgraduate/how-to-apply-for-a-postgraduate-taught-degree/application-system-guide/application-system-help/"
+      },
+      {
+        "label": "Conditions d'admission (Entry Requirements)",
+        "url": "https://www.gla.ac.uk/postgraduate/taught/childrensliteraturemediaandculturalentrepreneurship/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master littérature enfants",
+      "bourse études Royaume-Uni",
+      "bourse master 2027",
+      "CLMCE",
+      "bourse University of Glasgow",
+      "bourse médias",
+      "bourse entrepreneuriat culturel"
+    ],
+    "lien_candidature": "https://uogapply.mycampus.gla.ac.uk/psc/campus/EMPLOYEE/SA/c/CY2_AD_MENU.CY2_AD_NUR_FL.GBL&cmd=start?CAMPUS_URL=https%3a%2f%2fuogapply.mycampus.gla.ac.uk%3a443%2fpsp%2fcampus%2fEMPLOYEE%2fSA%2fs%2fWEBLIB_SCC_NUR.SCC_SS_GATEKEEPER.FieldFormula.IScript_SCC_GateKeeper%3fSCC_APPL_CONTXT_ID%3dSCC_NURCTXT_20171218163641%26CAREER%3DPGT%26PLANS%3DX323-5323&",
+    "source_url": "https://www.gla.ac.uk/postgraduate/erasmusmundus/clmce/howtoapply/?fbclid=IwY2xjawU7wG9leHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe5-mosKMIGjvZacW_JKo6KFmq8P8IDw_PH7FfllHMlhp85Vk1KXSw11sDoJ0_aem__w8PpG_o-umzbE8tjSVbNg",
+    "statut": "ouvert",
+    "resume": "Le Master International Erasmus Mundus en Littérature pour Enfants, Médias et Entrepreneuriat Culturel (CLMCE) est un programme prestigieux offert par l'Université de Glasgow en collaboration avec d'autres universités européennes. Les candidatures pour la rentrée de septembre 2027 sont ouvertes, avec une date limite pour les bourses Erasmus Mundus fixée au 22 janvier 2027. Ce programme offre une opportunité unique d'étudier dans plusieurs pays et de bénéficier d'une bourse complète couvrant les frais de scolarité, les voyages et les dépenses de subsistance. Les candidats doivent soumettre un dossier complet incluant diplômes, relevés de notes, lettres de recommandation et preuve de maîtrise de l'anglais.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T03:56:39",
+    "slug": "bourse-erasmus-mundus-clmce-master-2027"
+  },
+  {
     "titre": "Bourses pour étudiants internationaux à l'Université Charles Darwin",
     "seo_slug": "bourses-cdu-international-2027",
     "organisation": "Charles Darwin University",
@@ -6293,6 +7333,253 @@
     "imageUrl": null,
     "extrait_le": "2026-09-27T23:53:49",
     "slug": "admissions-hbku-master-qatar-2027"
+  },
+  {
+    "titre": "Bourse UM NL Global Studies",
+    "seo_slug": "bourse-um-nl-global-studies-2027",
+    "organisation": "Maastricht University",
+    "montant": 20150,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2027-02-01",
+    "deadline_texte": "1 février 2027 à 23h59 CET",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Études globales",
+      "Sciences sociales",
+      "Relations internationales"
+    ],
+    "pays_eligibles": [
+      "Pays éligibles à l'aide publique au développement (APD) de l'OCDE, à l'exclusion du Suriname"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Curriculum Vitae",
+      "Lettre de motivation (utiliser le modèle fourni)",
+      "Preuve d'excellence académique (relevé de notes)",
+      "Déclaration personnelle des besoins financiers",
+      "Lettre de recommandation (selon les directives fournies)",
+      "Coordonnées d'un référent (relation, téléphone professionnel, email professionnel)"
+    ],
+    "avantages": [
+      "Frais de subsistance : 20 150 € par année académique (1 550 € par mois)",
+      "Assurance santé et responsabilité civile",
+      "Frais de demande de visa",
+      "Frais de scolarité",
+      "Frais de formation pré-académique",
+      "Programme d'ambassadeur étudiant international (ISAP) pour le premier bloc",
+      "Logement attribué jusqu'au 16 juillet 2028"
+    ],
+    "eligibilite": [
+      "Être ressortissant d'un pays éligible à l'APD de l'OCDE, à l'exclusion du Suriname",
+      "Ne pas avoir la double nationalité d'un pays de l'UE/EEE, de la Suisse ou du Suriname",
+      "Avoir postulé au programme de licence Global Studies à l'UM pour l'année académique 2027-2028 et avoir soumis un dossier complet avant le 10 décembre 2026",
+      "Répondre aux exigences d'admission spécifiques du programme",
+      "Ne pas être titulaire d'un diplôme d'études supérieures (licence ou équivalent)",
+      "Ne pas avoir plus de 35 ans au 1er septembre 2027",
+      "Accepter de devenir un ambassadeur actif de Global Studies et de l'UM pendant et après les études",
+      "Ne soumettre qu'une seule candidature"
+    ],
+    "procedure_etapes": [
+      "1. Postuler au programme de licence Global Studies via Studielink avant le 10 décembre 2026",
+      "2. Recevoir un numéro d'étudiant UM",
+      "3. Remplir le formulaire de candidature à la bourse en ligne (connexion avec le compte UM)",
+      "4. Télécharger les documents requis (CV, lettre de motivation, preuve d'excellence académique, déclaration de besoins financiers, lettre de recommandation, coordonnées du référent)",
+      "5. Soumettre la candidature avant le 1 février 2027 à 23h59 CET"
+    ],
+    "contacts": [
+      "scholarships@maastrichtuniversity.nl"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse",
+        "url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/um-nl-global-studies"
+      },
+      {
+        "label": "Liste des pays éligibles à l'APD (PDF)",
+        "url": "https://www.maastrichtuniversity.nl/file/dac-list-oda-recipients-reporting-2025-flowsgspdf"
+      },
+      {
+        "label": "Informations sur le visa MVV",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/mvv-long-stay"
+      },
+      {
+        "label": "Pays Schengen",
+        "url": "https://www.netherlandsworldwide.nl/eu-eea-efta-schengen-countries"
+      },
+      {
+        "label": "Bureau des visas",
+        "url": "https://www.maastrichtuniversity.nl/support/your-studies-begin/international-students-coming-maastricht/visa-legal-residence/applying-0"
+      },
+      {
+        "label": "Page d'admission du programme Global Studies",
+        "url": "https://www.maastrichtuniversity.nl/education/bachelor/programmes/global-studies/admission-and-enrolment"
+      },
+      {
+        "label": "Studielink",
+        "url": "http://www.studielink.nl/"
+      },
+      {
+        "label": "Frais de dossier",
+        "url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/aanmelden-bij-universiteit-maastricht/handling-fee"
+      },
+      {
+        "label": "Formulaire de candidature à la bourse",
+        "url": "https://corsa-forms.mumc.maastrichtuniversity.nl/user/login?destination=/form/ssc-scholarships"
+      },
+      {
+        "label": "Modèle de lettre de motivation",
+        "url": "https://www.maastrichtuniversity.nl/file/templatemotivationlettergsscholarship-26-27pdf"
+      },
+      {
+        "label": "Directives pour la lettre de recommandation",
+        "url": "https://www.maastrichtuniversity.nl/file/reference-letter-guidelinesgs-2027-2028pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse Maastricht University",
+      "bourse Global Studies",
+      "bourse licence Pays-Bas",
+      "bourse complète études",
+      "bourse pour étudiants internationaux",
+      "bourse 2027-2028",
+      "financement études Pays-Bas",
+      "bourse UM NL"
+    ],
+    "lien_candidature": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/um-nl-global-studies",
+    "source_url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/um-nl-global-studies?fbclid=IwY2xjawU7uUpleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe5-mosKMIGjvZacW_JKo6KFmq8P8IDw_PH7FfllHMlhp85Vk1KXSw11sDoJ0_aem__w8PpG_o-umzbE8tjSVbNg",
+    "statut": "ouvert",
+    "resume": "La bourse UM NL Global Studies de l'Université de Maastricht offre une couverture complète pour les étudiants internationaux exceptionnels souhaitant poursuivre la licence en Global Studies. Elle comprend les frais de scolarité, une allocation mensuelle de 1 550 €, l'assurance, le visa et le logement pour la première année. Les candidats doivent être ressortissants d'un pays éligible à l'APD, avoir moins de 35 ans et démontrer un besoin financier ainsi qu'un fort potentiel de développement personnel. La date limite de candidature est fixée au 1er février 2027.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T03:30:02",
+    "slug": "bourse-um-nl-global-studies-2027"
+  },
+  {
+    "titre": "Bourse NL-High Potential de l'Université de Maastricht",
+    "seo_slug": "bourse-nl-high-potential-maastricht-2027",
+    "organisation": "Maastricht University (UM)",
+    "montant": 20150,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2027-02-01",
+    "deadline_texte": "1er février 2027 à 23h59 CET",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Tous les domaines (programmes participants)"
+    ],
+    "pays_eligibles": [
+      "Pays hors UE/EEE, Suisse ou Suriname"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais (les programmes sont en anglais)",
+    "documents_requis": [
+      "Curriculum vitae (max 2 pages A4)",
+      "Lettre de motivation (utiliser le modèle fourni)",
+      "Preuve d'excellence académique (relevé de notes avec GPA ≥ 7.5/10 et explication du système de notation)",
+      "Déclaration personnelle des besoins financiers",
+      "Lettre de recommandation (selon les directives fournies)",
+      "Coordonnées d'un référent (relation, téléphone professionnel, email institutionnel)"
+    ],
+    "avantages": [
+      "Frais de subsistance : 20 150 € (13 mois) ou 38 750 € (25 mois)",
+      "Assurance santé et responsabilité civile : 700 €",
+      "Frais de demande de visa : pris en charge",
+      "Frais de scolarité : pris en charge",
+      "Frais de formation pré-académique : pris en charge",
+      "Programme International Student Ambassador (ISAP) : pris en charge pour le premier bloc",
+      "Logement garanti jusqu'au 16 juillet 2028 (obligatoire, refus = annulation de la bourse)"
+    ],
+    "eligibilite": [
+      "Nationalité hors UE/EEE, Suisse ou Suriname",
+      "Ne pas avoir de double nationalité avec un pays UE/EEE ou la Suisse",
+      "Avoir postulé à un programme de master participant à l'UM pour l'année académique 2027-2028 avant le 10 décembre 2026",
+      "Répondre aux exigences d'admission spécifiques du programme de master",
+      "Ne jamais avoir suivi un programme diplômant aux Pays-Bas (les échanges sont acceptés)",
+      "Préférence pour les candidats n'ayant pas encore obtenu de master",
+      "Avoir 35 ans ou moins au 1er septembre 2027",
+      "Avoir obtenu d'excellents résultats (GPA ≥ 7.5/10 ou équivalent)",
+      "S'engager à être ambassadeur UM NL High Potential et à partager son expérience lors d'au moins une session d'information",
+      "Une seule candidature possible pour une seule bourse"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un programme de master participant via Studielink.nl avant le 10 décembre 2026",
+      "2. Recevoir son numéro d'étudiant UM",
+      "3. Remplir le formulaire de candidature en ligne (connexion avec le compte UM)",
+      "4. Télécharger les documents requis (CV, lettre de motivation, preuve d'excellence académique, déclaration de besoins financiers, lettre de recommandation)",
+      "5. Fournir les coordonnées d'un référent",
+      "6. Soumettre la candidature avant le 1er février 2027 à 23h59 CET"
+    ],
+    "contacts": [
+      "hhp.scholarship@maastrichtuniversity.nl"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://corsa-forms.mumc.maastrichtuniversity.nl/user/login?destination=/form/ssc-scholarships"
+      },
+      {
+        "label": "Programmes participants 2027-2028 (PDF)",
+        "url": "/file/um-hhpstudieprogrammas-2027-2028pdf-1"
+      },
+      {
+        "label": "Programmes participants 2028-2029 (PDF)",
+        "url": "/file/um-hhpstudieprogrammas-2028-2029-0pdf"
+      },
+      {
+        "label": "Modèle de lettre de motivation",
+        "url": "https://www.maastrichtuniversity.nl/file/templatemotivationletterumscholarshipsdocx"
+      },
+      {
+        "label": "Directives pour lettre de recommandation (PDF)",
+        "url": "/file/reference-letter-guidelines-2027-2028pdf"
+      },
+      {
+        "label": "Informations sur le visa MVV",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/mvv-long-stay"
+      },
+      {
+        "label": "Pays Schengen",
+        "url": "https://www.netherlandsworldwide.nl/eu-eea-efta-schengen-countries"
+      },
+      {
+        "label": "Bureau des visas de l'UM",
+        "url": "https://www.maastrichtuniversity.nl/support/your-studies-begin/international-students-coming-maastricht/visa-legal-residence/applying-0"
+      },
+      {
+        "label": "Programmes de master de l'UM",
+        "url": "https://www.maastrichtuniversity.nl/education/master/programmes"
+      },
+      {
+        "label": "Studielink",
+        "url": "https://www.studielink.nl/"
+      },
+      {
+        "label": "Programme International Student Ambassador (ISAP)",
+        "url": "https://www.maastrichtuniversity.nl/node/49724"
+      }
+    ],
+    "mots_cles": [
+      "bourse Maastricht University",
+      "bourse NL-High Potential",
+      "bourse master Pays-Bas",
+      "bourse pour étudiants hors UE",
+      "bourse complète Maastricht",
+      "financement études Pays-Bas",
+      "bourse 2027-2028",
+      "bourse excellence académique"
+    ],
+    "lien_candidature": "https://corsa-forms.mumc.maastrichtuniversity.nl/user/login?destination=/form/ssc-scholarships",
+    "source_url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/maastricht-university-nl-high?fbclid=IwY2xjawU7vqdleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe_c7cr9vpjN20zMkg7hSMqjefe5mS4469qlRgnX10vSZAqmyfXU7-H6cl1kw_aem_eo68kZ2N1RAhnv1sBo6ahw",
+    "statut": "ouvert",
+    "resume": "L'Université de Maastricht (UM) offre 18 bourses complètes NL-High Potential pour l'année académique 2027-2028, destinées aux étudiants talentueux hors UE/EEE. La bourse couvre les frais de scolarité, une allocation mensuelle de 1 550 €, l'assurance, le visa et d'autres avantages. Les candidats doivent d'abord être admis à un master participant de l'UM avant le 10 décembre 2026, puis soumettre leur candidature à la bourse avant le 1er février 2027. Ce programme très compétitif (2% de taux d'admission) vise à soutenir des étudiants exceptionnels qui deviendront des ambassadeurs de l'UM.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T03:54:48",
+    "slug": "bourse-nl-high-potential-maastricht-2027"
   },
   {
     "titre": "Bourses de doctorat du Président de l'Imperial College London",
@@ -6596,6 +7883,296 @@
     "slug": "bourse-stdf-subventions-projet-2027"
   },
   {
+    "titre": "Bourses de doctorat du Président de l'Imperial College London",
+    "seo_slug": "bourse-president-phd-imperial-college-londres-2027",
+    "organisation": "Imperial College London",
+    "montant": 27036,
+    "devise": "GBP",
+    "type_financement": "bourse complète",
+    "deadline": "2027-03-01",
+    "deadline_texte": "1er mars 2027 à 23h59 (heure du Royaume-Uni) pour la troisième et dernière période de candidature. Les autres dates limites sont le 2 novembre 2026 et le 11 janvier 2027.",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les domaines de recherche"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Candidature en ligne pour l'admission",
+      "Déclaration personnelle (2 pages : page 1 = déclaration personnelle, page 2 = proposition de recherche)",
+      "Proposition de recherche détaillée (si requise par le département)",
+      "Deux références académiques",
+      "Relevés de notes",
+      "Preuves de diplômes (si déjà obtenus)"
+    ],
+    "avantages": [
+      "Prise en charge complète des frais de scolarité",
+      "Bourse de 27 036 £ par an (taux 2027-28) pour les frais de subsistance",
+      "Fonds de 2 000 £ par an pour les dépenses courantes pendant les 3 premières années",
+      "Programme d'opportunités et d'événements sur mesure offert par l'Early Career Researcher Institute (ECRI)",
+      "Accès à l'ensemble des services de soutien pour les étudiants de troisième cycle, y compris un soutien adapté aux étudiants handicapés et internationaux",
+      "Accès aux cours de l'Early Career Researcher Institute"
+    ],
+    "eligibilite": [
+      "Candidats titulaires (ou en passe d'obtenir) d'une licence ou d'un master intégré avec mention première classe ou équivalent",
+      "OU candidats titulaires (ou en passe d'obtenir) d'un master autonome avec mention distinction",
+      "Aucune restriction de nationalité",
+      "Ouvert aux candidats du monde entier, y compris de l'Imperial College London et du Royaume-Uni",
+      "Ouvert aux études à temps plein et à temps partiel",
+      "Ouvert uniquement aux nouvelles candidatures en doctorat (les étudiants actuellement inscrits en doctorat à l'Imperial ne sont pas éligibles)",
+      "Les candidats internationaux doivent vérifier que leurs notes répondent aux exigences du programme auprès de l'équipe d'admission compétente",
+      "Les candidats ayant un parcours académique ou professionnel non traditionnel sont encouragés à postuler",
+      "Les candidats ne répondant pas aux critères publiés peuvent être sélectionnés par leur département comme cas particulier en présence de circonstances atténuantes"
+    ],
+    "procedure_etapes": [
+      "Contacter un superviseur dans un département académique de l'Imperial College London qui accepte de superviser votre projet de recherche (les superviseurs sont limités à un seul boursier à la fois ; consultez la page des superviseurs indisponibles).",
+      "Soumettre une candidature d'admission via le système d'admission en ligne de l'Imperial.",
+      "Dans la section 'Documents justificatifs', fournir une déclaration personnelle de 2 pages (page 1 : déclaration personnelle ; page 2 : proposition de recherche).",
+      "Fournir une proposition de recherche détaillée si le département l'exige.",
+      "Fournir les noms de deux arbitres académiques (par exemple, tuteur personnel ou directeur de thèse ; ne pas inclure le superviseur de doctorat proposé).",
+      "Dans le formulaire de candidature en ligne, onglet 'Questions supplémentaires', section 'Financement', sélectionner l'option 'President's PhD Scholarship'.",
+      "Respecter les exigences supplémentaires du département choisi.",
+      "Soumettre la candidature avant la date limite choisie (2 novembre 2026, 11 janvier 2027 ou 1er mars 2027)."
+    ],
+    "contacts": [
+      "student.funding@imperial.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel des bourses de doctorat du Président",
+        "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/"
+      },
+      {
+        "label": "Conditions générales des bourses",
+        "url": "https://www.imperial.ac.uk/students/terms-and-conditions/scholarships-and-bursaries/"
+      },
+      {
+        "label": "Page des superviseurs indisponibles",
+        "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/supervisors/"
+      },
+      {
+        "label": "Processus de candidature pour le doctorat",
+        "url": "https://www.imperial.ac.uk/study/apply/postgraduate-doctoral/application-process/"
+      },
+      {
+        "label": "Contacter les équipes d'admission",
+        "url": "https://www.imperial.ac.uk/study/apply/contact/"
+      },
+      {
+        "label": "Histoires d'étudiants boursiers",
+        "url": "https://www.imperial.ac.uk/admin-services/early-career-researcher-institute/learning-and-development/phd-scholars/"
+      },
+      {
+        "label": "Programme de l'ECRI",
+        "url": "https://www.imperial.ac.uk/admin-services/early-career-researcher-institute/learning-and-development/phd-scholars/"
+      },
+      {
+        "label": "Soutien aux étudiants de troisième cycle",
+        "url": "https://www.imperial.ac.uk/study/student-life/support/"
+      },
+      {
+        "label": "Cours de l'Early Career Researcher Institute",
+        "url": "https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/"
+      },
+      {
+        "label": "Guide pour les arbitres (PDF)",
+        "url": "https://www.mrc-cbu.cam.ac.uk/documents/equality/HHMI_WriteReference.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat Imperial College London",
+      "bourse President's PhD",
+      "bourse complète doctorat Royaume-Uni",
+      "financement doctorat Imperial",
+      "bourse internationale doctorat",
+      "bourse 2027 Imperial College",
+      "bourse de recherche doctorat",
+      "bourse pour étudiants internationaux",
+      "bourse Imperial College London"
+    ],
+    "lien_candidature": "https://www.imperial.ac.uk/study/apply/postgraduate-doctoral/application-process/",
+    "source_url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/?utm_id=97758_v0_s00_e0_tv1_a1den5f08gvbpa&fbclid=IwY2xjawU7wkRleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeZ_B22ZwM4gzQRaIedjEbr8ojEA36Rmhmhs1q8aKcwPELsSe4tcPVCci366c_aem_8hE-opba5dM37yVoVJLWRA",
+    "statut": "ouvert",
+    "resume": "Les bourses de doctorat du Président de l'Imperial College London offrent un financement complet pour les frais de scolarité et une allocation généreuse de 27 036 £ par an pour les frais de subsistance, ainsi qu'un fonds de 2 000 £ par an pour les dépenses courantes. Ce programme prestigieux de 3,5 ans s'adresse aux étudiants exceptionnels titulaires d'une licence ou d'un master avec mention, sans restriction de nationalité. Les candidats doivent contacter un superviseur et soumettre leur candidature via le système d'admission en ligne avant l'une des trois dates limites. Cinquante bourses sont disponibles pour l'année académique 2027-28.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T04:05:36",
+    "slug": "bourse-president-phd-imperial-college-londres-2027"
+  },
+  {
+    "titre": "Bourse Master's Future Leader de l'Université de Durham",
+    "seo_slug": "bourse-durham-future-leader-master-2027",
+    "organisation": "Durham University Business School",
+    "montant": 12500,
+    "devise": "GBP",
+    "type_financement": "bourse partielle (réduction des frais de scolarité)",
+    "deadline": "2027-03-31",
+    "deadline_texte": "31 mars 2027 à 23h59 GMT (Round 2). Round 1 : 31 janvier 2027 à 23h59 GMT.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Finance",
+      "Management"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature à la bourse Master's Future Leader",
+      "Offre d'admission pour MSc Management ou MSc Finance",
+      "Relevés de notes",
+      "CV",
+      "Lettre de motivation",
+      "Preuve d'autofinancement"
+    ],
+    "avantages": [
+      "Jusqu'à 12 500 £ de réduction sur les frais de scolarité (étudiants Overseas/EU)",
+      "Jusqu'à 7 500 £ de réduction sur les frais de scolarité (étudiants Home/Island)",
+      "Jusqu'à 20 bourses disponibles pour chaque programme"
+    ],
+    "eligibilite": [
+      "Être entièrement autofinancé (les frais ne doivent pas être payés par un employeur, un organisme privé ou gouvernemental, ni bénéficier d'une autre réduction de frais de scolarité de Durham University, telle que Inspiring Excellence ou Team Durham).",
+      "Démontrer un dossier académique exceptionnel d'une institution reconnue et réputée.",
+      "Démontrer un fort potentiel de leadership, des aspirations professionnelles claires et l'ambition d'avoir un impact significatif dans son domaine.",
+      "Démontrer la capacité à contribuer et à enrichir tous les aspects du programme de Master, ainsi que le profil académique et culturel diversifié de la promotion.",
+      "Démontrer le potentiel pour devenir un ambassadeur exemplaire des anciens élèves, contribuant positivement à l'école, aux organisations professionnelles et à la communauté au sens large.",
+      "Être titulaire d'une offre pour le MSc Management ou le MSc Finance à la date limite de candidature concernée."
+    ],
+    "procedure_etapes": [
+      "1. Soumettre une candidature à un cours via le portail de candidature de Durham University.",
+      "2. Remplir le formulaire de candidature à la bourse Master's Future Leader et détenir une offre pour le MSc Management ou le MSc Finance avant la date limite de la ronde concernée.",
+      "3. Respecter les dates limites : Round 1 : 31 janvier 2027 à 23h59 GMT ; Round 2 : 31 mars 2027 à 23h59 GMT.",
+      "4. Les candidatures doivent être soumises dans la ronde concernée et ne seront pas reportées à la ronde suivante.",
+      "5. Les bourses seront attribuées de manière compétitive dans chaque ronde, sous réserve du nombre de bourses disponibles pour chaque programme.",
+      "6. Seuls les candidats retenus seront notifiés par email dans les 15 jours ouvrables suivant la date de candidature concernée.",
+      "7. Les candidats retenus devront payer un dépôt d'admission de 2 000 £ dans les quatre semaines suivant l'acceptation de la bourse (pour les étudiants Overseas et EU)."
+    ],
+    "contacts": [
+      "business.scholarships@durham.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature de Durham University",
+        "url": "https://studyatdurham.microsoftcrmportals.com/en-US/"
+      },
+      {
+        "label": "Formulaire de candidature à la bourse Master's Future Leader",
+        "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=i9hQcmhLKUW-RNWaLYpvlLj1iWQACOJMoA7EciJSOtRUODk1NVhQV0Q3Q1AzMTc3SzE1WFNCM0tOOC4u&route=shorturl"
+      },
+      {
+        "label": "Nous contacter pour des questions sur les études à Durham",
+        "url": "https://www.durham.ac.uk/study/ask-us/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Durham",
+      "Master's Future Leader",
+      "bourse master finance",
+      "bourse master management",
+      "bourse Royaume-Uni",
+      "bourse études 2027",
+      "réduction frais de scolarité",
+      "bourse autofinancement",
+      "Durham University Business School"
+    ],
+    "lien_candidature": "https://studyatdurham.microsoftcrmportals.com/en-US/",
+    "source_url": "https://dur.ac.uk/business/programmes/masters/scholarships/masters-future-leader-scholarship-2027/?fbclid=IwY2xjawU7wMNleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEer6qvciM2M0ORkK9LQ4txyADIIfYzihT2ftMmfk-pOA0NOU03Hn2bcjb8IQI_aem_qqvhp8UvuEMcLDkO-KSyew",
+    "statut": "ouvert",
+    "resume": "La bourse Master's Future Leader de l'Université de Durham récompense les étudiants exceptionnels qui postulent aux programmes MSc Finance et MSc Management. Elle offre jusqu'à 12 500 £ de réduction sur les frais de scolarité pour les étudiants Overseas/EU et jusqu'à 7 500 £ pour les étudiants Home/Island. Les candidats doivent démontrer un excellent parcours académique, un fort potentiel de leadership et l'ambition d'avoir un impact significatif. Les candidatures sont évaluées par rounds, avec des dates limites en janvier et mars 2027.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T03:58:05",
+    "slug": "bourse-durham-future-leader-master-2027"
+  },
+  {
+    "titre": "Bourse Master's Future Leader de l'Université de Durham",
+    "seo_slug": "bourse-durham-masters-future-leader-2027",
+    "organisation": "Durham University Business School",
+    "montant": 12500,
+    "devise": "GBP",
+    "type_financement": "réduction des frais de scolarité",
+    "deadline": "2027-03-31",
+    "deadline_texte": "31 mars 2027 à 23h59 GMT (Round 2). Round 1 : 31 janvier 2027 à 23h59 GMT.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Finance",
+      "Management"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature à la bourse",
+      "Offre d'admission pour MSc Management ou MSc Finance"
+    ],
+    "avantages": [
+      "Jusqu'à 12 500 £ de réduction sur les frais de scolarité (étudiants Overseas/EU)",
+      "Jusqu'à 7 500 £ de réduction sur les frais de scolarité (étudiants Home/Island)",
+      "Jusqu'à 20 bourses disponibles pour chaque programme"
+    ],
+    "eligibilite": [
+      "Être entièrement autofinancé (les frais ne doivent pas être payés par un employeur, un organisme privé ou gouvernemental, ni bénéficier d'une autre réduction de frais de scolarité de Durham University, à l'exception des prêts étudiants du gouvernement britannique ou des prêts FAFSA américains)",
+      "Démontrer un dossier académique exceptionnel d'une institution reconnue et réputée",
+      "Démontrer un fort potentiel de leadership, des aspirations professionnelles claires et l'ambition d'avoir un impact significatif dans son domaine",
+      "Démontrer la capacité à contribuer et à enrichir tous les aspects du programme de master, ainsi que le profil académique et culturel diversifié de la classe",
+      "Démontrer le potentiel pour devenir un ambassadeur exemplaire des anciens élèves, contribuant positivement à l'école, aux organisations professionnelles et à la communauté au sens large",
+      "Être titulaire d'une offre pour le MSc Management ou le MSc Finance à la date limite de candidature concernée"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre une candidature à un cours via le portail de candidature de Durham University",
+      "2. Remplir le formulaire de candidature pour la bourse Master's Future Leader et détenir une offre pour MSc Management ou MSc Finance avant la date limite de la période concernée",
+      "3. Les candidatures doivent être soumises dans la période concernée et ne seront pas reportées à la période suivante",
+      "4. Les bourses seront attribuées de manière compétitive dans chaque période, sous réserve du nombre de bourses disponibles pour chaque programme",
+      "5. Seuls les candidats retenus seront informés par email dans les 15 jours ouvrables suivant la date de candidature concernée",
+      "6. Les candidats retenus devront payer un dépôt d'admission de 2 000 £ dans les quatre semaines suivant l'acceptation de la bourse (pour les étudiants Overseas et EU uniquement)"
+    ],
+    "contacts": [
+      "business.scholarships@durham.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature de Durham University",
+        "url": "https://studyatdurham.microsoftcrmportals.com/en-US/"
+      },
+      {
+        "label": "Formulaire de candidature pour la bourse Master's Future Leader",
+        "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=i9hQcmhLKUW-RNWaLYpvlLj1iWQACOJMoA7EciJSOtRUODk1NVhQV0Q3Q1AzMTc3SzE1WFNCM0tOOC4u&route=shorturl"
+      },
+      {
+        "label": "Nous contacter pour des questions sur les études à Durham",
+        "url": "https://www.durham.ac.uk/study/ask-us/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Durham",
+      "Master's Future Leader",
+      "bourse master finance",
+      "bourse master management",
+      "bourse Royaume-Uni",
+      "bourse 2027",
+      "réduction frais de scolarité",
+      "bourse études supérieures",
+      "bourse internationale"
+    ],
+    "lien_candidature": "https://studyatdurham.microsoftcrmportals.com/en-US/",
+    "source_url": "https://dur.ac.uk/business/programmes/masters/scholarships/masters-future-leader-scholarship-2027/?fbclid=IwY2xjawU7wQdleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEer6qvciM2M0ORkK9LQ4txyADIIfYzihT2ftMmfk-pOA0NOU03Hn2bcjb8IQI_aem_qqvhp8UvuEMcLDkO-KSyew",
+    "statut": "ouvert",
+    "resume": "La bourse Master's Future Leader de l'Université de Durham récompense les étudiants exceptionnels qui postulent aux programmes MSc Finance et MSc Management. Elle offre jusqu'à 12 500 £ de réduction sur les frais de scolarité pour les étudiants Overseas/EU et jusqu'à 7 500 £ pour les étudiants Home/Island. Les candidats doivent démontrer un excellent parcours académique, un fort potentiel de leadership et l'ambition d'avoir un impact significatif. Les candidatures sont évaluées par rounds, avec des dates limites en janvier et mars 2027.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T03:59:14",
+    "slug": "bourse-durham-masters-future-leader-2027"
+  },
+  {
     "titre": "Bourses de l'Université Sophia pour étudiants avant l'entrée (2027)",
     "seo_slug": "bourses-universite-sophia-2027",
     "organisation": "Université Sophia",
@@ -6692,6 +8269,358 @@
     "imageUrl": null,
     "extrait_le": "2026-09-07T19:14:29",
     "slug": "bourses-universite-sophia-2027"
+  },
+  {
+    "titre": "Bourse d'excellence inspirante pour étudiants de premier cycle - Université de Durham",
+    "seo_slug": "bourse-durham-inspiring-excellence-undergraduate-2027",
+    "organisation": "Durham University",
+    "montant": 10000,
+    "devise": "GBP",
+    "type_financement": "bourse partielle",
+    "deadline": "2027-05-01",
+    "deadline_texte": "1er mai 2027 à 23h59 GMT (date limite finale pour la troisième ronde de candidature)",
+    "niveau_etudes": [
+      "Licence (Undergraduate)"
+    ],
+    "domaines": [
+      "Tous les domaines sauf Théologie, Ministère et Mission (BA) et Théologie et Religion (BA)"
+    ],
+    "pays_eligibles": [
+      "Tous les pays (étudiants internationaux classés Overseas pour les frais de scolarité)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (les cours sont dispensés en anglais)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne pour la bourse",
+      "ID UCAS valide",
+      "Candidature via UCAS pour un programme de premier cycle éligible"
+    ],
+    "avantages": [
+      "Réduction sur les frais de scolarité : jusqu'à 15 000 £ sur trois ans (5 000 £ par an) pour la bourse Inspiring Excellence 5k",
+      "Réduction sur les frais de scolarité : jusqu'à 30 000 £ sur trois ans (10 000 £ par an) pour la bourse Inspiring Excellence 10k",
+      "La bourse est appliquée directement en déduction des frais de scolarité",
+      "Aucune alternative en espèces n'est proposée"
+    ],
+    "eligibilite": [
+      "Être auto-financé et ne pas recevoir d'autres bourses, financements ou parrainages de l'Université de Durham ou de toute organisation externe",
+      "Être classé comme étudiant Overseas pour les frais de scolarité",
+      "Détenir un ID UCAS valide",
+      "Avoir postulé à un programme de premier cycle à temps plein en présentiel à l'Université de Durham",
+      "Les programmes BA (Hons) en Théologie, Ministère et Mission et BA (Hons) en Théologie et Religion sont exclus",
+      "Sélectionner l'Université de Durham comme Firm Choice avant la date limite de réponse UCAS",
+      "Répondre ou dépasser les conditions d'admission du programme demandé",
+      "Commencer les études de premier cycle à l'Université de Durham en septembre 2027",
+      "Ne pas sélectionner l'Université de Durham comme Insurance Choice",
+      "Ne pas être admis via Clearing",
+      "Ne pas progresser vers l'Université de Durham via le Durham University International Study Centre",
+      "Soumettre le formulaire de candidature pour la bourse"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un programme de premier cycle éligible à l'Université de Durham via UCAS avant la date limite de considération égale le 13 janvier 2027 à 18h00 (heure du Royaume-Uni).",
+      "2. Remplir et soumettre le formulaire de candidature en ligne pour la bourse d'excellence inspirante avant la date limite de la ronde choisie : 1ère ronde : 7 décembre 2026 (23h59 GMT), 2ème ronde : 15 mars 2027 (23h59 GMT), ronde finale : 1er mai 2027 (23h59 GMT).",
+      "3. Fournir un ID UCAS valide sur le formulaire de candidature à la bourse.",
+      "4. Si vous ne recevez pas d'offre académique avant la date limite de la 1ère ronde ou si vous n'êtes pas sélectionné, vous serez automatiquement considéré pour la 2ème ronde sans avoir à soumettre à nouveau le formulaire.",
+      "5. Les candidats sélectionnés seront informés par email le 18 décembre 2026, le 29 mars 2027 ou le 15 mai 2027 et recevront une offre conditionnelle de bourse.",
+      "6. Pour confirmer la bourse, le récipiendaire doit répondre à l'offre et compléter le formulaire de réponse à la bourse avant la date limite indiquée dans l'email d'offre.",
+      "7. Le récipiendaire doit confirmer Durham comme Firm choice avant la date limite de réponse UCAS.",
+      "8. Le récipiendaire doit remplir toutes les conditions académiques de son offre UCAS, obtenir une place inconditionnelle et s'inscrire à Durham pour septembre 2027."
+    ],
+    "contacts": [
+      "inspiring.excellence@durham.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature à la bourse",
+        "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=i9hQcmhLKUW-RNWaLYpvlF0WV-CJxblAsFZLqIzpDTZUMkxZSlAxNldEQVVHQUNaRkhBMFdBVlA0MS4u"
+      },
+      {
+        "label": "Conditions générales (PDF)",
+        "url": "/media/durham-university/study/scholarships/inspiring-excellence-scholarships/Durham-Inspiring-Excellence-Undergraduate-Scholarship-Terms--Conditions-26.08.2026.pdf"
+      },
+      {
+        "label": "Portail UCAS",
+        "url": "https://www.ucas.com/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Durham",
+      "bourse premier cycle",
+      "bourse internationale",
+      "bourse Royaume-Uni",
+      "bourse partielle",
+      "bourse 2027",
+      "Inspiring Excellence",
+      "bourse undergraduate",
+      "financement études",
+      "bourse université Durham"
+    ],
+    "lien_candidature": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=i9hQcmhLKUW-RNWaLYpvlF0WV-CJxblAsFZLqIzpDTZUMkxZSlAxNldEQVVHQUNaRkhBMFdBVlA0MS4u",
+    "source_url": "https://dur.ac.uk/study/scholarships/international/durham-inspiring-excellence-scholarships/undergraduate/?fbclid=IwY2xjawU7upxleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEelgOJUkQ5f3qPx9DqEUT1X5mhfsUrQdrvguo5RPOxOKWntq0jAmNEiHfLE5I_aem_N2tj1ruyWul43Tj3PSiL4w",
+    "statut": "ouvert",
+    "resume": "La bourse d'excellence inspirante pour étudiants de premier cycle de l'Université de Durham est une opportunité prestigieuse pour les étudiants internationaux ambitieux. Elle offre une réduction substantielle des frais de scolarité, pouvant atteindre 30 000 £ sur trois ans, pour soutenir des études de licence à temps plein. Les candidats doivent démontrer un excellent potentiel académique et un engagement à avoir un impact positif. Cette bourse compétitive est ouverte aux étudiants auto-financés classés Overseas, avec des dates limites de candidature réparties sur plusieurs tours.",
+    "imageUrl": "/docs/La-bourse-d-excellence-pour-tudiants-de-premier-cycle-Inspiring-Excellence.webp",
+    "extrait_le": "2026-10-14T03:33:17",
+    "slug": "bourse-durham-inspiring-excellence-undergraduate-2027"
+  },
+  {
+    "titre": "Bourse d'excellence inspirante pour les études supérieures de l'Université de Durham",
+    "seo_slug": "bourse-durham-excellence-postgraduate-2027",
+    "organisation": "Durham University",
+    "montant": 10000,
+    "devise": "GBP",
+    "type_financement": "bourse partielle",
+    "deadline": "2027-05-01",
+    "deadline_texte": "1er mai 2027 à 23h59 GMT (date limite finale). Les dates limites des tours précédents sont le 7 décembre 2026 et le 15 mars 2027.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "MSc",
+      "MA",
+      "LLM",
+      "MDS"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature à la bourse",
+      "Candidature à un programme d'études supérieures via le portail des candidats"
+    ],
+    "avantages": [
+      "Réduction des frais de scolarité pouvant aller jusqu'à 10 000 £",
+      "Deux types de bourses : 5 000 £ et 10 000 £ de réduction",
+      "La bourse est appliquée comme une réduction directe des frais de scolarité du programme d'études supérieures",
+      "Aucune alternative en espèces n'est proposée",
+      "Les frais de scolarité seront ajustés au moment de l'inscription à l'Université de Durham"
+    ],
+    "eligibilite": [
+      "Être auto-financé et ne pas recevoir d'autres bourses, financements ou parrainages de l'Université de Durham ou d'une organisation externe",
+      "Les anciens élèves de Durham peuvent postuler, mais la bourse ne peut pas être combinée avec la réduction pour anciens élèves de l'Université de Durham ; les candidats retenus devront choisir l'une de ces aides",
+      "Être classé comme étudiant international (Overseas) pour les frais de scolarité",
+      "Détenir un identifiant étudiant Durham valide",
+      "Avoir postulé à un programme MSc, MA, LLM ou MDS à temps plein d'un an (en personne) (les MBA, MSW et MA en Théologie et Ministère sont exclus)",
+      "Répondre ou dépasser les conditions d'admission du programme",
+      "Commencer les études supérieures à Durham en septembre 2027",
+      "Ne pas progresser vers Durham via le Centre d'études internationales de Durham",
+      "Soumettre le formulaire de candidature à la bourse"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un programme d'études supérieures éligible via le portail des candidats de Durham pour obtenir un identifiant de candidat valide.",
+      "2. Remplir et soumettre le formulaire de candidature en ligne pour la bourse d'excellence inspirante avant la date limite du tour choisi.",
+      "3. Les candidats sélectionnés seront informés par email et recevront une offre conditionnelle de bourse.",
+      "4. Répondre à l'offre de bourse et remplir le formulaire de réponse dans le délai imparti.",
+      "5. Payer le dépôt des frais de scolarité dans le délai imparti.",
+      "6. Remplir toutes les conditions académiques, obtenir une place inconditionnelle et s'inscrire à Durham pour septembre 2027."
+    ],
+    "contacts": [
+      "inspiring.excellence@durham.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail des candidats aux études supérieures",
+        "url": "https://www.durham.ac.uk/study/postgraduate/taught-degrees/application-guidance/postgraduate-taught-applications/#d.en.516770"
+      },
+      {
+        "label": "Formulaire de candidature à la bourse",
+        "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=i9hQcmhLKUW-RNWaLYpvlF0WV-CJxblAsFZLqIzpDTZUNVRDV1JRSEhTRTVMSEdDWTUxRDBUSEc4MC4u"
+      },
+      {
+        "label": "Termes et conditions de la bourse (PDF)",
+        "url": "/media/durham-university/study/scholarships/inspiring-excellence-scholarships/Durham-Inspiring-Excellence-Postgraduate-Scholarship-Terms--Conditions-26.08.2026.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse Durham",
+      "bourse études supérieures",
+      "bourse internationale",
+      "bourse Royaume-Uni",
+      "bourse 2027",
+      "bourse excellence",
+      "bourse partielle",
+      "bourse master"
+    ],
+    "lien_candidature": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=i9hQcmhLKUW-RNWaLYpvlF0WV-CJxblAsFZLqIzpDTZUNVRDV1JRSEhTRTVMSEdDWTUxRDBUSEc4MC4u",
+    "source_url": "https://dur.ac.uk/study/scholarships/international/durham-inspiring-excellence-scholarships/postgraduate/?fbclid=IwY2xjawU7wNtleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeei7UArI9x8WvjFudQHG2yTm4sEY8QT4gQ7hr9MhIesopMi6zA-ijIolwCJw_aem_Cme11G_Dj0lgNtAJnJRfQA",
+    "statut": "ouvert",
+    "resume": "La bourse d'excellence inspirante pour les études supérieures de l'Université de Durham est une opportunité prestigieuse pour les étudiants internationaux souhaitant poursuivre un master au Royaume-Uni. Elle offre une réduction des frais de scolarité pouvant atteindre 10 000 £ pour les programmes éligibles débutant en septembre 2027. Les candidats doivent être auto-financés et ne pas bénéficier d'autres financements. La sélection est basée sur le mérite académique et le potentiel d'impact positif.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T03:58:33",
+    "slug": "bourse-durham-excellence-postgraduate-2027"
+  },
+  {
+    "titre": "Bourses d'excellence en analyse d'affaires (Business Analytics Achievement Scholarships) - Université de Durham",
+    "seo_slug": "bourse-business-analytics-durham-2027",
+    "organisation": "Durham University Business School",
+    "montant": 12500,
+    "devise": "GBP",
+    "type_financement": "réduction sur les frais de scolarité",
+    "deadline": "2027-05-03",
+    "deadline_texte": "3 mai 2027 à 23h59 GMT (date limite finale pour le deuxième tour; premier tour le 1er février 2027)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Analyse d'affaires",
+      "Business Analytics"
+    ],
+    "pays_eligibles": [
+      "Tous les pays",
+      "Royaume-Uni",
+      "UE",
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Candidature au programme MSc Business Analytics",
+      "Formulaire de candidature à la bourse",
+      "Preuve d'autofinancement",
+      "Relevés de notes",
+      "CV",
+      "Lettre de motivation"
+    ],
+    "avantages": [
+      "Jusqu'à 12 500 £ de réduction sur les frais de scolarité pour les étudiants internationaux/UE",
+      "Jusqu'à 5 000 £ de réduction sur les frais de scolarité pour les étudiants nationaux/îles",
+      "Jusqu'à 10 bourses disponibles"
+    ],
+    "eligibilite": [
+      "Avoir un excellent dossier académique d'une institution reconnue et réputée",
+      "Démontrer sa motivation pour étudier l'analyse d'affaires et ses objectifs de carrière",
+      "Démontrer son potentiel à contribuer et enrichir tous les aspects du programme de master, ainsi que le profil académique et culturel diversifié de la classe",
+      "Démontrer son potentiel à devenir un ambassadeur des anciens élèves exemplaire, contribuant positivement à l'école, aux organisations professionnelles et à la communauté au sens large",
+      "Être entièrement autofinancé (les frais ne doivent pas être payés par un employeur, un fournisseur privé ou un organisme gouvernemental, ni recevoir une autre réduction sur les frais de scolarité de l'Université de Durham)",
+      "Ne pas avoir d'autre financement externe (sauf les prêts étudiants gouvernementaux britanniques pour les études supérieures ou les prêts FAFSA américains)"
+    ],
+    "procedure_etapes": [
+      "1. Postuler au programme MSc Business Analytics via le portail de candidature de l'Université de Durham",
+      "2. Remplir le formulaire de candidature à la bourse Business Analytics Achievement",
+      "3. Détenir une offre conditionnelle ou inconditionnelle pour le programme MSc Business Analytics avant la date limite de candidature",
+      "4. Soumettre la candidature à la bourse dans le tour approprié (Tour 1 : avant le 1er février 2027 ; Tour 2 : avant le 3 mai 2027)",
+      "5. Attendre la notification par email dans les 15 jours ouvrables suivant la date limite du tour concerné",
+      "6. Si sélectionné, payer le dépôt d'admission de 2 000 £ dans les quatre semaines suivant l'acceptation de la bourse (pour les étudiants internationaux/UE)"
+    ],
+    "contacts": [
+      "business.scholarships@durham.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature de l'Université de Durham",
+        "url": "https://studyatdurham.microsoftcrmportals.com/en-US/"
+      },
+      {
+        "label": "Formulaire de candidature à la bourse Business Analytics Achievement",
+        "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=i9hQcmhLKUW-RNWaLYpvlLj1iWQACOJMoA7EciJSOtRUM0tDVU5LTllLMkcyUVdWMUpHUkU2RVpYTy4u"
+      },
+      {
+        "label": "Nous contacter pour des questions sur les études à Durham",
+        "url": "https://www.durham.ac.uk/study/ask-us/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Durham",
+      "bourse Business Analytics",
+      "bourse master Royaume-Uni",
+      "bourse analyse d'affaires",
+      "bourse études 2027",
+      "bourse excellence académique",
+      "bourse autofinancement",
+      "bourse internationale",
+      "Durham University Business School",
+      "bourse MSc Business Analytics"
+    ],
+    "lien_candidature": "https://studyatdurham.microsoftcrmportals.com/en-US/",
+    "source_url": "https://dur.ac.uk/business/programmes/masters/scholarships/business-analytics-achievement-awards-2027/?fbclid=IwY2xjawU7wR5leHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeZ_B22ZwM4gzQRaIedjEbr8ojEA36Rmhmhs1q8aKcwPELsSe4tcPVCci366c_aem_8hE-opba5dM37yVoVJLWRA",
+    "statut": "ouvert",
+    "resume": "L'Université de Durham offre jusqu'à 10 bourses d'excellence pour le programme MSc Business Analytics, avec des réductions sur les frais de scolarité allant jusqu'à 12 500 £ pour les étudiants internationaux et 5 000 £ pour les étudiants nationaux. Ces bourses reconnaissent l'excellence académique, la motivation et le potentiel des candidats à contribuer au programme et à la communauté. Les candidats doivent être entièrement autofinancés et postuler dans l'un des deux tours, avec une date limite finale le 3 mai 2027. Ne manquez pas cette opportunité de financer vos études de master au Royaume-Uni.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T04:00:00",
+    "slug": "bourse-business-analytics-durham-2027"
+  },
+  {
+    "titre": "Bourse internationale de premier cycle du Vice-Chancelier",
+    "seo_slug": "bourse-vice-chancelier-cardiff-2027",
+    "organisation": "Cardiff University",
+    "montant": 5000,
+    "devise": "GBP",
+    "type_financement": "bourse partielle",
+    "deadline": "2027-06-30",
+    "deadline_texte": "30 juin 2027 (date limite de soumission de la candidature à l'université)",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Tous les domaines sauf Dentisterie, Médecine et Soins de santé"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Candidature via UCAS",
+      "Preuve de compétence linguistique en anglais"
+    ],
+    "avantages": [
+      "Réduction sur les frais de scolarité de 3 500 £ ou 5 000 £"
+    ],
+    "eligibilite": [
+      "Être un étudiant international payant des frais de scolarité outre-mer",
+      "Avoir accepté son offre d'admission et avoir choisi Cardiff University comme premier choix via UCAS",
+      "Satisfaire à toutes les conditions de l'offre, y compris les conditions de langue anglaise, avant le 31 août 2027",
+      "Répondre aux critères d'admission originaux du programme",
+      "Ne pas être inscrit dans les programmes de Dentisterie, Médecine et Soins de santé",
+      "Ne pas être inscrit à des programmes menant à un certificat ou diplôme"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre une candidature à l'université via UCAS avant le 30 juin 2027.",
+      "2. Accepter l'offre d'admission avant la date limite UCAS et faire de Cardiff University son premier choix.",
+      "3. Satisfaire à toutes les conditions de l'offre, y compris les conditions de langue anglaise, avant le 31 août 2027.",
+      "4. Répondre aux critères d'admission originaux du programme.",
+      "5. Aucune candidature séparée pour la bourse n'est nécessaire ; les étudiants éligibles sont automatiquement considérés."
+    ],
+    "contacts": [
+      "InternationalScholarships@cardiff.ac.uk",
+      "international@cardiff.ac.uk",
+      "+44 (0)29 2087 4432"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Conditions générales complètes",
+        "url": "https://www.cardiff.ac.uk/documents/3072502-vice-chancellors-undergraduate-international-scholarship-terms-and-conditions-september-2027-entry"
+      },
+      {
+        "label": "Conditions générales pour l'entrée en septembre 2026",
+        "url": "https://www.cardiff.ac.uk/documents/2980363-vice-chancellors-undergraduate-international-scholarship-terms-and-conditions-september-2026-entry"
+      },
+      {
+        "label": "Poser une question",
+        "url": "https://www.cardiff.ac.uk/study/ask-a-question"
+      },
+      {
+        "label": "Prospectus international 2027",
+        "url": "https://www.cardiff.ac.uk/study/international/international-prospectus"
+      }
+    ],
+    "mots_cles": [
+      "bourse Cardiff University",
+      "bourse premier cycle international",
+      "bourse Vice-Chancelier",
+      "bourse Royaume-Uni",
+      "bourse licence 2027",
+      "financement études internationales",
+      "bourse partielle Cardiff"
+    ],
+    "lien_candidature": "https://www.cardiff.ac.uk/study/international/funding-and-fees/international-scholarships/vice-chancellors-international-scholarship-ug",
+    "source_url": "https://www.cardiff.ac.uk/study/international/funding-and-fees/international-scholarships/vice-chancellors-international-scholarship-ug?fbclid=IwY2xjawU7vFFleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe5-mosKMIGjvZacW_JKo6KFmq8P8IDw_PH7FfllHMlhp85Vk1KXSw11sDoJ0_aem__w8PpG_o-umzbE8tjSVbNg",
+    "statut": "ouvert",
+    "resume": "La bourse internationale de premier cycle du Vice-Chancelier de l'Université de Cardiff offre une réduction sur les frais de scolarité allant de 3 500 £ à 5 000 £ aux étudiants internationaux s'inscrivant dans la plupart des programmes de licence. Les candidats éligibles sont automatiquement considérés sans candidature séparée. Pour être éligible, vous devez soumettre votre candidature avant le 30 juin 2027, accepter votre offre et remplir toutes les conditions avant le 31 août 2027. Cette bourse est une excellente opportunité pour financer vos études au Royaume-Uni.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T03:41:02",
+    "slug": "bourse-vice-chancelier-cardiff-2027"
   },
   {
     "titre": "Bourse La Trobe High Achiever",
@@ -18131,6 +20060,280 @@
     "slug": "bourse-hubble-nasa-2027"
   },
   {
+    "titre": "Bourse Gates Cambridge (Candidats internationaux)",
+    "seo_slug": "bourse-gates-cambridge-2027",
+    "organisation": "Gates Cambridge Trust",
+    "montant": 68000,
+    "devise": "GBP",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Même date limite que celle du financement pour le cours choisi (généralement entre décembre et janvier pour l'année académique 2027/28)",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les sujets disponibles à l'Université de Cambridge"
+    ],
+    "pays_eligibles": [
+      "Toutes les nationalités sauf le Royaume-Uni (255 nationalités éligibles)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (niveau requis par l'Université de Cambridge)",
+    "documents_requis": [
+      "Candidature via le portail de l'Université de Cambridge",
+      "Réponses aux questions supplémentaires dans le portail de candidature",
+      "Documents académiques (relevés de notes, diplômes)",
+      "Lettre de motivation",
+      "Lettres de recommandation",
+      "Preuve de maîtrise de l'anglais (si applicable)"
+    ],
+    "avantages": [
+      "Frais de scolarité complets (University Composition Fee)",
+      "Indemnité de subsistance",
+      "Frais de visa étudiant",
+      "Supplément de santé pour l'immigration (NHS Immigration Health Surcharge)",
+      "Frais de voyage aller-retour vers le Royaume-Uni",
+      "Financement pour le développement académique (participation à des conférences)",
+      "Allocation pour enfants à charge (le cas échéant)",
+      "Possibilité de prolongation discrétionnaire en cas de circonstances atténuantes"
+    ],
+    "eligibilite": [
+      "Être citoyen d'un pays autre que le Royaume-Uni",
+      "Postuler pour un programme de troisième cycle (Master ou Doctorat) à l'Université de Cambridge",
+      "Faire preuve d'excellence académique",
+      "Avoir des raisons solides pour le choix du cours",
+      "Démontrer un engagement à améliorer la vie des autres",
+      "Avoir un potentiel de leadership",
+      "Les citoyens américains résidant aux États-Unis doivent postuler via la voie américaine (US Round)"
+    ],
+    "procedure_etapes": [
+      "Vérifier l'éligibilité et les critères sur le site officiel",
+      "Choisir un programme de troisième cycle à l'Université de Cambridge",
+      "Postuler au programme via le portail de candidature de l'Université de Cambridge",
+      "Répondre aux questions supplémentaires dans le portail de candidature",
+      "Soumettre la candidature avant la date limite de financement du cours",
+      "Attendre les résultats en mars-avril",
+      "Si sélectionné, signer trimestriellement avec le Trust pour recevoir les paiements de subsistance",
+      "Fournir un rapport de progrès annuel"
+    ],
+    "contacts": [
+      "info@gatescambridge.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de Gates Cambridge",
+        "url": "https://www.gatescambridge.org/"
+      },
+      {
+        "label": "Détails de la bourse",
+        "url": "https://www.gatescambridge.org/programme/the-scholarship/"
+      },
+      {
+        "label": "Critères d'évaluation",
+        "url": "https://www.gatescambridge.org/apply/criteria/"
+      },
+      {
+        "label": "Liste complète des nationalités éligibles",
+        "url": "https://www.gatescambridge.org/apply/eligibility/"
+      },
+      {
+        "label": "Portail de candidature de l'Université de Cambridge",
+        "url": "https://www.postgraduate.study.cam.ac.uk/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Gates Cambridge",
+      "bourse Cambridge 2027",
+      "bourse doctorat Cambridge",
+      "bourse master Cambridge",
+      "bourse complète Royaume-Uni",
+      "financement études Cambridge",
+      "bourse internationale Cambridge",
+      "Gates Cambridge Scholarship"
+    ],
+    "lien_candidature": "https://www.gatescambridge.org/",
+    "source_url": "https://www.student-funding.cam.ac.uk/fund/gates-cambridge-scholarship-2026?fbclid=IwY2xjawU7wqtleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe5-mosKMIGjvZacW_JKo6KFmq8P8IDw_PH7FfllHMlhp85Vk1KXSw11sDoJ0_aem__w8PpG_o-umzbE8tjSVbNg",
+    "statut": "ouvert",
+    "resume": "La bourse Gates Cambridge offre chaque année environ 75 bourses complètes à des étudiants exceptionnels de pays hors Royaume-Uni pour poursuivre un master ou un doctorat à l'Université de Cambridge. Les bourses couvrent l'intégralité des frais de scolarité, une indemnité de subsistance, les frais de visa, de santé et de voyage, avec un financement pouvant atteindre 68 000 £ par an. Les candidats sont sélectionnés sur la base de l'excellence académique, de la motivation pour le cours, de l'engagement à améliorer la vie des autres et du potentiel de leadership. La date limite de candidature est la même que celle du financement du cours choisi, généralement en décembre ou janvier.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T04:06:09",
+    "slug": "bourse-gates-cambridge-2027"
+  },
+  {
+    "titre": "Bourse internationale du Cambridge Trust",
+    "seo_slug": "bourse-cambridge-trust-internationale-2027",
+    "organisation": "Cambridge Trust",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Même date limite que celle du financement pour le cours (généralement entre décembre et janvier, selon le cours)",
+    "niveau_etudes": [
+      "Doctorat (PhD)"
+    ],
+    "domaines": [
+      "Tous les domaines sauf les cours à tarif premium"
+    ],
+    "pays_eligibles": [
+      "Tous les pays sauf le Royaume-Uni et l'Irlande"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Frais de scolarité (internationaux)",
+      "Frais d'entretien",
+      "Frais de visa étudiant",
+      "Surcharge sanitaire pour l'immigration étudiante",
+      "Autres avantages (voir détails)",
+      "Jusqu'à 6 mois supplémentaires de financement pour la rédaction de la thèse"
+    ],
+    "eligibilite": [
+      "Être un candidat potentiel (prospective applicant)",
+      "Être classé parmi les meilleurs par le département d'accueil",
+      "Nationalité : tous les pays sauf le Royaume-Uni et l'Irlande",
+      "Statut de frais : Overseas",
+      "Cours éligibles : 114 cours (voir liste complète)",
+      "Mode d'études : temps plein ou temps partiel",
+      "Aucune condition de ressources financières pour la sélection"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et la liste des cours",
+      "2. Postuler au cours de doctorat via le portail de candidature de l'Université de Cambridge",
+      "3. La candidature à la bourse est automatique (pas de questions supplémentaires dans le portail)",
+      "4. Attendre les résultats (période d'attribution de mi-février à fin juillet)"
+    ],
+    "contacts": [
+      "Cambridge.Trust@admin.cam.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Visitez le site : Site officiel de la bourse",
+        "url": "https://www.cambridgetrust.org/our-scholarships/highlighted-scholarships/cambridge-international-scholarships-vice-chancellors-awards"
+      },
+      {
+        "label": "Liste complète des pays éligibles",
+        "url": "https://www.cambridgetrust.org/our-scholarships/highlighted-scholarships/cambridge-international-scholarships-vice-chancellors-awards"
+      },
+      {
+        "label": "Liste des 114 cours éligibles",
+        "url": "https://www.cambridgetrust.org/our-scholarships/highlighted-scholarships/cambridge-international-scholarships-vice-chancellors-awards"
+      },
+      {
+        "label": "Page de contact",
+        "url": "mailto:Cambridge.Trust@admin.cam.ac.uk"
+      }
+    ],
+    "mots_cles": [
+      "bourse Cambridge Trust",
+      "bourse doctorat Royaume-Uni",
+      "bourse internationale Cambridge",
+      "financement PhD Cambridge",
+      "bourse 2027",
+      "bourse complète",
+      "études doctorales",
+      "Cambridge Trust International Scholarship"
+    ],
+    "lien_candidature": "https://www.cambridgetrust.org/our-scholarships/highlighted-scholarships/cambridge-international-scholarships-vice-chancellors-awards",
+    "source_url": "https://www.student-funding.cam.ac.uk/fund/cambridge-international-scholarship-2026?fbclid=IwY2xjawU7wuVleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEew9Jk6r1RKt8vF0kLh2xTQJd0RI0Nj5KxswrWCRd85kKGXTM-INovTC9U_2w_aem_smiviv9f02ElI2Cym7W-Yg",
+    "statut": "ouvert",
+    "resume": "La bourse internationale du Cambridge Trust est destinée aux futurs doctorants internationaux (hors Royaume-Uni et Irlande) qui souhaitent poursuivre leurs recherches à l'Université de Cambridge. Elle couvre l'intégralité des frais de scolarité, les frais de subsistance, les frais de visa et la surcharge sanitaire, avec une possibilité de prolongation de six mois pour la rédaction de la thèse. L'attribution est basée sur l'excellence académique et le potentiel de recherche, sans considération de ressources financières. La date limite de candidature correspond à celle du financement du cours choisi, généralement entre décembre et janvier.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T04:07:13",
+    "slug": "bourse-cambridge-trust-internationale-2027"
+  },
+  {
+    "titre": "Bourse internationale Smuts Memorial Fund - Cambridge Trust",
+    "seo_slug": "bourse-smuts-cambridge-phd-2027",
+    "organisation": "Cambridge Trust",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Même date limite que celle du financement pour le cours (généralement début janvier 2027 pour les candidatures 2027/28)",
+    "niveau_etudes": [
+      "Doctorat (PhD)"
+    ],
+    "domaines": [
+      "Arts et sciences humaines",
+      "Sciences sociales"
+    ],
+    "pays_eligibles": [
+      "Tous les pays sauf le Royaume-Uni et l'Irlande"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Frais de scolarité internationaux",
+      "Frais de subsistance (maintenance)",
+      "Frais de visa étudiant",
+      "Surcharge sanitaire pour l'immigration étudiante",
+      "Autres avantages (voir détails)",
+      "Possibilité de prolongation jusqu'à 6 mois supplémentaires pour la rédaction de la thèse"
+    ],
+    "eligibilite": [
+      "Candidat international (hors Royaume-Uni et Irlande)",
+      "Recherche liée à un ou plusieurs pays du Commonwealth (hors Royaume-Uni)",
+      "Domaine : Arts et sciences humaines ou sciences sociales",
+      "Cours à taux premium exclus",
+      "Temps plein",
+      "Statut de frais : Overseas",
+      "Département/école et cours spécifiques (voir listes complètes)"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité (nationalité, domaine, département, cours)",
+      "2. Préparer les documents requis (CV, lettre de motivation, etc.)",
+      "3. Soumettre la candidature via le portail des candidats de l'Université de Cambridge",
+      "4. Répondre aux questions supplémentaires dans le portail",
+      "5. Respecter la date limite de financement du cours",
+      "6. Attendre les résultats (entre mi-février et fin juillet)"
+    ],
+    "contacts": [
+      "Cambridge.Trust@admin.cam.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Visitez le site : https://www.cambridgetrust.org/scholarships/",
+        "url": "https://www.cambridgetrust.org/scholarships/"
+      },
+      {
+        "label": "Page de financement de l'Université de Cambridge",
+        "url": "https://www.postgraduate.study.cam.ac.uk/funding"
+      },
+      {
+        "label": "Liste complète des pays éligibles",
+        "url": "https://www.cambridgetrust.org/scholarships/"
+      },
+      {
+        "label": "Liste des départements/écoles éligibles",
+        "url": "https://www.cambridgetrust.org/scholarships/"
+      },
+      {
+        "label": "Liste des cours éligibles",
+        "url": "https://www.cambridgetrust.org/scholarships/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Cambridge Trust",
+      "bourse PhD Royaume-Uni",
+      "bourse Smuts Memorial Fund",
+      "bourse internationale Cambridge",
+      "financement doctorat Cambridge",
+      "bourse sciences humaines",
+      "bourse Commonwealth",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://www.cambridgetrust.org/scholarships/",
+    "source_url": "https://www.student-funding.cam.ac.uk/fund/smuts-cambridge-scholarship-2026?fbclid=IwY2xjawU7wwpleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeZ_B22ZwM4gzQRaIedjEbr8ojEA36Rmhmhs1q8aKcwPELsSe4tcPVCci366c_aem_8hE-opba5dM37yVoVJLWRA",
+    "statut": "ouvert",
+    "resume": "La bourse internationale Smuts Memorial Fund - Cambridge Trust est destinée aux candidats internationaux au doctorat dont la recherche porte sur un pays du Commonwealth (hors Royaume-Uni) dans les domaines des arts et sciences humaines ou des sciences sociales. Elle couvre les frais de scolarité internationaux, les frais de subsistance, les frais de visa et la surcharge sanitaire, avec une possibilité de prolongation de six mois pour la rédaction de la thèse. Deux bourses sont attribuées environ par an, sur la base des besoins financiers et du mérite académique. La date limite de candidature est la même que celle du financement du cours, généralement début janvier 2027 pour l'année académique 2027/28.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T04:07:46",
+    "slug": "bourse-smuts-cambridge-phd-2027"
+  },
+  {
     "titre": "Bourse internationale de premier cycle du vice-chancelier de l'UTS",
     "seo_slug": "bourse-uts-vice-chancelier-premier-cycle-2027",
     "organisation": "University of Technology Sydney (UTS)",
@@ -26653,6 +28856,104 @@
     "slug": "bourse-vice-chancelier-sydney-2027"
   },
   {
+    "titre": "Bourse internationale du Vice-Chancelier de l'Université de Sydney",
+    "seo_slug": "bourse-vice-chancelier-sydney-2027",
+    "organisation": "University of Sydney",
+    "montant": 60000,
+    "devise": "AUD",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-08-17",
+    "deadline_texte": "17 août 2026 (Semestre 1 2027, Round 1) ; 5 octobre 2026 (Round 2) ; 16 novembre 2026 (Round 3) ; 15 février 2027 (Semestre 2 2027, Round 1) ; 22 mars 2027 (Round 2) ; 3 mai 2027 (Round 3)",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Tous les domaines (cours avec diplôme CRICOS)"
+    ],
+    "pays_eligibles": [
+      "Tous les pays (étudiants internationaux)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (niveau requis pour l'admission)",
+    "documents_requis": [
+      "Aucun document spécifique pour la bourse (candidature automatique après admission)"
+    ],
+    "avantages": [
+      "Bourse de 60 000 $ (payable en deux versements semestriels sur un an)",
+      "Bourse de 40 000 $ (payable en deux versements semestriels sur un an)",
+      "Bourse de 20 000 $ (payable pour un semestre)",
+      "Bourse de 10 000 $ (payable pour un semestre)",
+      "Bourse de 5 000 $ (payable pour un semestre)"
+    ],
+    "eligibilite": [
+      "Être un étudiant international selon la loi Higher Education Support Act 2003",
+      "Avoir postulé à un programme de licence ou de master (cours) enregistré CRICOS et délivré sur le campus de l'Université de Sydney",
+      "Ne pas avoir encore commencé le programme",
+      "Recevoir une offre d'admission inconditionnelle avant la date limite du round concerné",
+      "Ne pas être bénéficiaire d'une bourse du gouvernement australien",
+      "Les étudiants commençant un deuxième diplôme sont éligibles s'ils n'ont pas déjà reçu cette bourse"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un programme de licence ou de master (cours) à l'Université de Sydney",
+      "2. Obtenir une offre d'admission inconditionnelle avant la date limite du round",
+      "3. Aucune candidature séparée n'est requise : tous les étudiants éligibles sont automatiquement considérés",
+      "4. Accepter l'offre d'admission inconditionnelle dans les délais associés à la bourse",
+      "5. Rester inscrit après la date de recensement (census date)"
+    ],
+    "contacts": [
+      "1800 793 864",
+      "+61 2 8627 1444"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse",
+        "url": "https://www.sydney.edu.au/scholarships/e/vice-chancellor-international-scholarships-scheme.html"
+      },
+      {
+        "label": "Plus de bourses pour étudiants internationaux",
+        "url": "https://www.sydney.edu.au/scholarships/international.html"
+      },
+      {
+        "label": "Faire une demande (étudiants internationaux)",
+        "url": "https://sydneyuni.service-now.com/sas?id=sc_cat_item_public&sys_id=185a07f6dbde2810379991a3e296199c&sysparm_student_type=International&sysparm_category=Scholarships%20and%20prizes%20and%20awards"
+      },
+      {
+        "label": "Faire une demande (étudiants nationaux)",
+        "url": "https://sydneyuni.service-now.com/sas?id=sc_cat_item_public&sys_id=185a07f6dbde2810379991a3e296199c&sysparm_student_type=Domestic&sysparm_category=Scholarships%20and%20prizes%20and%20awards"
+      },
+      {
+        "label": "Faire une demande (étudiants actuels)",
+        "url": "https://sydney.edu.au/students/forms/make-an-enquiry.html"
+      },
+      {
+        "label": "Nous contacter",
+        "url": "https://www.sydney.edu.au/contact-us.html"
+      },
+      {
+        "label": "S'abonner aux informations",
+        "url": "https://www.sydney.edu.au/content/experience-fragments/corporate/study/lead_gen_mql/lead-gen-form-data/master1.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse Université de Sydney",
+      "bourse internationale Australie",
+      "bourse Vice-Chancelier",
+      "bourse licence Australie",
+      "bourse master Australie",
+      "financement études Sydney",
+      "bourse 2027",
+      "bourse étudiants internationaux"
+    ],
+    "lien_candidature": "https://www.sydney.edu.au/scholarships/e/vice-chancellor-international-scholarships-scheme.html",
+    "source_url": "https://www.sydney.edu.au/scholarships/e/vice-chancellor-international-scholarships-scheme.html?fbclid=IwY2xjawU7vQtleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeei7UArI9x8WvjFudQHG2yTm4sEY8QT4gQ7hr9MhIesopMi6zA-ijIolwCJw_aem_Cme11G_Dj0lgNtAJnJRfQA",
+    "statut": "fermé",
+    "resume": "L'Université de Sydney offre la bourse internationale du Vice-Chancelier aux étudiants internationaux exceptionnels souhaitant poursuivre des études de licence ou de master. Jusqu'à 60 000 $ australiens sont attribués automatiquement aux candidats ayant reçu une offre d'admission inconditionnelle, sans candidature supplémentaire. Cinq montants sont disponibles selon le classement des candidats. Les dates limites varient selon le semestre et le round d'admission.",
+    "imageUrl": "/docs/Programme-de-bourses-internationales-du-vice-chancelier.webp",
+    "extrait_le": "2026-10-14T03:43:57",
+    "slug": "bourse-vice-chancelier-sydney-2027"
+  },
+  {
     "titre": "Appel à candidatures pour l'admission aux programmes de doctorat, 42e cycle, année académique 2026/2027",
     "seo_slug": "bourse-doctorat-unitus-italie-2026",
     "organisation": "Università degli Studi della Tuscia (UNITUS)",
@@ -31386,6 +33687,279 @@
     "imageUrl": null,
     "extrait_le": "2026-09-27T23:58:56",
     "slug": "bourse-mtn-ict-business-skills-2026"
+  },
+  {
+    "titre": "Programme International de Doctorat EMBL",
+    "seo_slug": "bourse-embl-doctorat-2027",
+    "organisation": "EMBL (European Molecular Biology Laboratory)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-12",
+    "deadline_texte": "12 octobre 2026 à 23h59 CET",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences de la vie",
+      "Biologie moléculaire",
+      "Bioinformatique",
+      "Biologie structurale",
+      "Génomique"
+    ],
+    "pays_eligibles": [
+      "Toutes nationalités"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Deux lettres de recommandation académiques minimum"
+    ],
+    "avantages": [
+      "Formation doctorale de haut niveau",
+      "Accès à des infrastructures de recherche de pointe",
+      "Environnement scientifique international",
+      "Possibilité de travailler dans plusieurs sites EMBL (Heidelberg, Barcelone, Hambourg, Grenoble, Rome, EMBL-EBI)"
+    ],
+    "eligibilite": [
+      "Diplôme universitaire donnant accès à un doctorat dans le pays d'obtention",
+      "Diplôme obtenu ou à obtenir avant le début du programme (octobre 2027)",
+      "Deux lettres de recommandation académiques minimum",
+      "Aucune limite d'âge stricte (moyenne d'âge des étudiants de 1ère année : 25 ans)",
+      "Aucun score GRE, IELTS ou TOEFL requis, mais maîtrise de l'anglais écrite et orale indispensable",
+      "Ouvert à toutes les nationalités, priorité aux ressortissants des États membres en cas d'égalité de qualification"
+    ],
+    "procedure_etapes": [
+      "1. Créer un compte sur le portail de candidature en ligne",
+      "2. Remplir le formulaire de candidature en ligne (ne pas uploader de CV ou de lettres de recommandation)",
+      "3. Fournir les coordonnées de deux référents académiques minimum",
+      "4. Soumettre le formulaire de candidature avant la date limite (12 octobre 2026, 23h59 CET)",
+      "5. S'assurer que les référents soumettent leurs lettres de recommandation en ligne avant le 14 octobre 2026, 23h59 CET",
+      "6. Participer aux entretiens de présélection en ligne (entre le 27 octobre et le 13 novembre 2026)",
+      "7. Participer à l'évaluation du panel virtuel (VPA) le 1er décembre 2026",
+      "8. Participer aux entretiens en personne (25-29 janvier 2027 ou 1-4 février 2027 selon le site)",
+      "9. Soumettre ses préférences de groupe de recherche après les entretiens",
+      "10. Recevoir les résultats d'admission"
+    ],
+    "contacts": [
+      "graduate-office@embl.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature en ligne",
+        "url": "https://e-recruitment.embl.de/applicant-phd/login"
+      },
+      {
+        "label": "Site officiel du programme",
+        "url": "https://www.embl.org/about/info/embl-international-phd-programme"
+      },
+      {
+        "label": "Politique DORA",
+        "url": "https://www.embl.org/info/dora/"
+      },
+      {
+        "label": "Notice de confidentialité (PDF)",
+        "url": "https://www.embl.org/about/info/embl-international-phd-programme/wp-content/uploads/2025/09/PN-for-Application-to-the-EMBL-International-PhD-Programme.pdf"
+      },
+      {
+        "label": "Conditions d'utilisation du Shared Applicant Pool (PDF)",
+        "url": "https://www.embl.org/about/info/embl-international-phd-programme/wp-content/uploads/2025/12/Terms-and-Conditions-of-Use-EIPP-Shared-Applicant-Pool-.pdf"
+      },
+      {
+        "label": "Demande d'accès au Shared Applicant Pool",
+        "url": "https://e-recruitment.embl.de/shared-applicant-pool/create-account"
+      },
+      {
+        "label": "Sujets de recherche à l'EMBL",
+        "url": "https://www.embl.org/training/research-topics/"
+      },
+      {
+        "label": "États membres de l'EMBL",
+        "url": "https://www.embl.org/about/member-states/"
+      },
+      {
+        "label": "Mission de l'EMBL",
+        "url": "https://www.embl.org/about/missions/"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat",
+      "EMBL PhD",
+      "programme doctoral international",
+      "bourse sciences de la vie",
+      "bourse Allemagne",
+      "bourse Europe",
+      "doctorat biologie moléculaire",
+      "financement thèse",
+      "bourse recherche",
+      "EMBL Heidelberg"
+    ],
+    "lien_candidature": "https://e-recruitment.embl.de/applicant-phd/login",
+    "source_url": "https://www.embl.org/about/info/embl-international-phd-programme/application/?fbclid=IwY2xjawU7wXZleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeoQLgOMUEf0CwBUEZlnmojWj9af786kI8yZq18zo0Hkv16d3Q0birzgksvCI_aem_2_I7hd-VL4YrLIyChJGofg",
+    "statut": "fermé",
+    "resume": "Le Programme International de Doctorat de l'EMBL (EIPP) offre une opportunité unique de formation à la recherche en sciences de la vie dans un environnement international et pluridisciplinaire. Ouvert aux étudiants hautement qualifiés de toutes nationalités, il permet de réaliser une thèse dans l'un des six sites de l'EMBL en Europe. Les candidatures pour la session d'hiver 2027 sont closes, mais la prochaine session (été 2027) ouvrira fin janvier 2027. Les candidats doivent soumettre leur dossier en ligne avant le 12 octobre 2026 et fournir deux lettres de recommandation académiques.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T04:03:31",
+    "slug": "bourse-embl-doctorat-2027"
+  },
+  {
+    "titre": "Bourse Mandela Washington (YALI) 2027",
+    "seo_slug": "bourse-mandela-washington-2027",
+    "organisation": "U.S. Department of State & IREX",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-13",
+    "deadline_texte": "13 octobre 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Commerce",
+      "Technologies émergentes",
+      "Gouvernance",
+      "Sécurité"
+    ],
+    "pays_eligibles": [
+      "Angola",
+      "Bénin",
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Cameroun",
+      "Cap-Vert",
+      "République centrafricaine",
+      "Tchad",
+      "Comores",
+      "République du Congo",
+      "République démocratique du Congo (RDC)",
+      "Côte d'Ivoire",
+      "Djibouti",
+      "Guinée équatoriale",
+      "Érythrée",
+      "Eswatini",
+      "Éthiopie",
+      "Gabon",
+      "Gambie",
+      "Ghana",
+      "Guinée",
+      "Guinée-Bissau",
+      "Kenya",
+      "Lesotho",
+      "Liberia",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mauritanie",
+      "Maurice",
+      "Mozambique",
+      "Namibie",
+      "Niger",
+      "Nigeria",
+      "Rwanda",
+      "Sao Tomé-et-Principe",
+      "Sénégal",
+      "Seychelles",
+      "Sierra Leone",
+      "Somalie",
+      "Afrique du Sud",
+      "Soudan du Sud",
+      "Soudan",
+      "Tanzanie",
+      "Togo",
+      "Ouganda",
+      "Zambie",
+      "Zimbabwe"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Copie du passeport international (si disponible) ou autre pièce d'identité avec photo délivrée par le gouvernement",
+      "Documentation vérifiant l'âge, la citoyenneté et la résidence (à fournir à l'étape de l'entretien si sélectionné comme demi-finaliste)"
+    ],
+    "avantages": [
+      "Participation à un institut exécutif de six semaines dans un collège ou une université américaine",
+      "Échanges avec des experts américains en commerce et commerce international, technologies émergentes, gouvernance et sécurité",
+      "Rencontres avec des leaders américains des secteurs public et privé pour renforcer le réseau professionnel",
+      "Exploration de l'innovation, de l'industrie, de l'histoire et de la culture américaines",
+      "Intégration à un réseau actif de près de 7 800 anciens participants"
+    ],
+    "eligibilite": [
+      "Être âgé de 25 à 35 ans à la date limite de candidature (les candidats exceptionnels de 21 à 24 ans peuvent être considérés)",
+      "Ne pas être citoyen ou résident permanent des États-Unis",
+      "Être éligible à l'obtention d'un visa J-1 des États-Unis",
+      "Ne pas être employé ou membre de la famille immédiate (conjoint, parents, enfants ou frères et sœurs) d'un employé du gouvernement américain (y compris une ambassade ou un consulat des États-Unis ou une autre entité gouvernementale américaine)",
+      "Maîtriser la lecture, l'écriture et l'expression orale en anglais (les candidats sourds doivent se référer à la section « English Language » des instructions de candidature)",
+      "Être citoyen de l'un des pays éligibles (liste fournie)",
+      "Être résident de l'un des pays ci-dessus et y résider de façon permanente au 1er février 2027 et au début de la bourse en juin 2027",
+      "Ne pas être ancien participant ou alumni de la bourse Mandela Washington",
+      "Les employés et consultants actuels d'IREX et leurs familles immédiates ne sont pas éligibles"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité et s'assurer de répondre à toutes les conditions",
+      "2. Préparer les documents nécessaires (passeport ou pièce d'identité, justificatifs d'âge, de citoyenneté et de résidence)",
+      "3. Soumettre la candidature en ligne avant la date limite du 13 octobre 2026",
+      "4. Les candidatures éligibles seront examinées et notées selon les critères de sélection",
+      "5. Les demi-finalistes seront interviewés en personne par les ambassades et consulats américains dans leur pays d'origine (novembre 2026 – janvier 2027)",
+      "6. Fournir une copie du passeport international ou autre pièce d'identité avec photo lors de l'entretien",
+      "7. Les candidats seront informés de leur statut en février/mars 2027",
+      "8. Les finalistes sélectionnés devront participer à une orientation pré-départ en personne obligatoire (mars – mai 2027)",
+      "9. Traitement des visas et orientations pré-départ pour les finalistes (mars – mai 2027)",
+      "10. Début de la bourse aux États-Unis en juin 2027"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://apply.mandelawashingtonfellowship.org"
+      },
+      {
+        "label": "Instructions de candidature 2027",
+        "url": "https://www.mandelawashingtonfellowship.org/2027-application-instructions/"
+      },
+      {
+        "label": "FAQ sur la candidature",
+        "url": "https://www.mandelawashingtonfellowship.org/apply-faqs/"
+      },
+      {
+        "label": "Préparer une candidature solide",
+        "url": "https://www.mandelawashingtonfellowship.org/preparing-strong-application/"
+      },
+      {
+        "label": "Informations pour les candidats en situation de handicap",
+        "url": "https://www.mandelawashingtonfellowship.org/information-for-fellows-with-disabilities/"
+      },
+      {
+        "label": "Informations sur la suspension de délivrance de visas (travel.state.gov)",
+        "url": "https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html"
+      },
+      {
+        "label": "Bureau des affaires éducatives et culturelles",
+        "url": "https://eca.state.gov/"
+      },
+      {
+        "label": "Réseau YALI",
+        "url": "https://yali.state.gov/network/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Mandela Washington",
+      "YALI 2027",
+      "bourse États-Unis",
+      "leadership africain",
+      "bourse échange",
+      "programme exécutif",
+      "bourse gouvernance",
+      "bourse technologies émergentes",
+      "bourse commerce",
+      "bourse sécurité"
+    ],
+    "lien_candidature": "https://apply.mandelawashingtonfellowship.org",
+    "source_url": "https://www.mandelawashingtonfellowship.org/apply/?fbclid=IwY2xjawU54wJleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4PBAz4flvaaqQBKc5RbvPIqZB0OBDW8jaC4GkOMz0MvmcqvXnAFh5F9-KZvw_aem_ePhZOu9xCtP_zYOs5NVnxQ",
+    "statut": "fermé",
+    "resume": "La bourse Mandela Washington (YALI) 2027 offre à environ 550 jeunes leaders africains une opportunité unique de participer à un programme exécutif de six semaines aux États-Unis. Les boursiers développeront leurs compétences en commerce, technologies émergentes, gouvernance et sécurité, tout en établissant des partenariats avec des experts et leaders américains. Ce programme prestigieux, financé par le Département d'État américain et mis en œuvre par IREX, vise à renforcer les capacités des jeunes leaders pour qu'ils contribuent au développement de leurs communautés en Afrique subsaharienne. Les candidatures sont ouvertes du 22 septembre au 13 octobre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-12T18:02:16",
+    "slug": "bourse-mandela-washington-2027"
   },
   {
     "titre": "Cours d'été universitaires en Allemagne pour étudiants étrangers et diplômés • DAAD",

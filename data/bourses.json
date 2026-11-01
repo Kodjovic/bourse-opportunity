@@ -1,834 +1,5 @@
 [
   {
-    "titre": "Bourses UNSW pour étudiants internationaux - Trimestre 1 2027",
-    "seo_slug": "bourse-unsw-international-2027",
-    "organisation": "UNSW Sydney",
-    "montant": 20000,
-    "devise": "AUD",
-    "type_financement": "bourse partielle ou complète",
-    "deadline": "2026-10-30",
-    "deadline_texte": "30 octobre 2026 à 23h59 AEST",
-    "niveau_etudes": [
-      "Licence",
-      "Master"
-    ],
-    "domaines": [
-      "Tous domaines",
-      "Droit",
-      "Commerce",
-      "Ingénierie"
-    ],
-    "pays_eligibles": [
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Preuves de mérite académique",
-      "Preuves de leadership",
-      "Preuves d'activités extrascolaires",
-      "Justification des raisons d'étudier à UNSW"
-    ],
-    "avantages": [
-      "Frais de scolarité complets ou partiels",
-      "Indemnité de 20 000 $ par an",
-      "10 000 $ par an",
-      "15 000 $ par an",
-      "5 000 $ par an"
-    ],
-    "eligibilite": [
-      "Être un étudiant international",
-      "Avoir reçu une offre d'admission dans un programme éligible pour le trimestre 1 2027 avant le 30 octobre 2026",
-      "Commencer des études à temps plein dans un programme de premier cycle ou de cycles supérieurs (cours) à UNSW",
-      "Ne pas avoir entrepris d'études tertiaires antérieures (pour certaines bourses)",
-      "Être citoyen de Hong Kong (pour la bourse Hong Kong Foundation)",
-      "Être originaire d'Asie (pour la bourse Dr Vincent Lo Asia Undergraduate)"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les critères d'éligibilité et les bourses disponibles",
-      "2. Créer un compte sur le portail de candidature en ligne des bourses",
-      "3. Remplir le formulaire de candidature en ligne",
-      "4. Fournir les documents justificatifs requis (mérite académique, leadership, activités extrascolaires, etc.)",
-      "5. Soumettre la candidature avant la date limite du 30 octobre 2026"
-    ],
-    "contacts": [
-      "philanthropy@unsw.edu.au"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Portail de candidature en ligne",
-        "url": "https://scholarships.online.unsw.edu.au/scholarship/sc_search.login"
-      },
-      {
-        "label": "Guide des documents justificatifs (PDF)",
-        "url": "https://www.scholarships.unsw.edu.au/sites/default/files/uploads/Supporting%20Documentation%20Guide%20-%20UNSW%20Scholarships.pdf"
-      },
-      {
-        "label": "FAQ PUCA1029 (PDF)",
-        "url": "https://www.scholarships.unsw.edu.au/sites/default/files/2025-09/PUCA1029%20FAQs%20.pdf"
-      },
-      {
-        "label": "Bourse Australia's Global University Award",
-        "url": "https://www.scholarships.unsw.edu.au/australias-global-university-award-puca1026"
-      },
-      {
-        "label": "International Student Award",
-        "url": "https://www.scholarships.unsw.edu.au/international-student-award"
-      },
-      {
-        "label": "Graduate Research School",
-        "url": "https://research.unsw.edu.au/graduate-research"
-      },
-      {
-        "label": "Contact",
-        "url": "/contact-us"
-      },
-      {
-        "label": "FAQs",
-        "url": "/faqs"
-      }
-    ],
-    "mots_cles": [
-      "bourse UNSW",
-      "bourse international",
-      "bourse Australie",
-      "bourse licence",
-      "bourse master",
-      "bourse 2027",
-      "financement études",
-      "bourse université"
-    ],
-    "lien_candidature": "https://scholarships.online.unsw.edu.au/scholarship/sc_search.login",
-    "source_url": "https://www.scholarships.unsw.edu.au/scholarships/id/1988?utm_id=97758_v0_s00_e0_tv2_a1den5f08gvbpa&fbclid=IwY2xjawUeytJwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeppW0jqa6sFXJ8E-un67XIfsyBSgThkPkQNDnLmGK7MuopZ32pZy4nr2VW5E_aem_VUQ580Xx1EMuf6cIEalMRQ",
-    "statut": "ouvert",
-    "resume": "L'UNSW Sydney offre une gamme de bourses pour les étudiants internationaux commençant leurs études à temps plein au trimestre 1 2027. Ces bourses couvrent les frais de scolarité partiels ou complets, avec des valeurs allant de 5 000 $ à 20 000 $ par an. Les candidatures sont ouvertes du 6 juillet 2026 au 30 octobre 2026. Les étudiants doivent postuler via le portail en ligne et fournir des preuves de leur mérite académique, de leur leadership et de leurs activités extrascolaires.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-22T02:46:18",
-    "slug": "bourse-unsw-international-2027"
-  },
-  {
-    "titre": "Bourses UNSW pour étudiants internationaux - Trimestre 1 2027",
-    "seo_slug": "bourse-unsw-international-2027",
-    "organisation": "UNSW Sydney",
-    "montant": null,
-    "devise": "AUD",
-    "type_financement": "bourse partielle ou complète",
-    "deadline": "2026-10-30",
-    "deadline_texte": "30 octobre 2026 à 23h59 AEST",
-    "niveau_etudes": [
-      "Licence",
-      "Master"
-    ],
-    "domaines": [
-      "Tous domaines",
-      "Droit",
-      "Commerce",
-      "Ingénierie"
-    ],
-    "pays_eligibles": [
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Preuve de mérite académique",
-      "Preuve de compétences en leadership",
-      "Preuve d'activités extrascolaires",
-      "Raisons pour étudier à UNSW",
-      "Lettre d'offre d'admission (inconditionnelle ou conditionnelle)",
-      "Relevés de notes",
-      "Certificat de langue anglaise (si applicable)"
-    ],
-    "avantages": [
-      "Frais de scolarité complets ou partiels",
-      "Allocation de 5 000 à 20 000 $ par an",
-      "Contribution de 20 % aux frais de scolarité (International Student Award)"
-    ],
-    "eligibilite": [
-      "Être un étudiant international",
-      "Avoir reçu une offre d'admission dans un programme éligible pour le trimestre 1 2027 avant le 30 octobre 2026",
-      "Commencer des études à temps plein dans un programme de premier cycle ou de cycles supérieurs (cours) à UNSW",
-      "Ne pas avoir entrepris d'études supérieures antérieures (pour certaines bourses)",
-      "Être citoyen de Hong Kong (pour la bourse UNSW Hong Kong Foundation)",
-      "Être originaire d'Asie (pour la bourse Dr Vincent Lo Asia Undergraduate)",
-      "Avoir obtenu un diplôme de premier cycle d'une institution partenaire (pour certaines bourses)"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les critères d'éligibilité et les bourses disponibles",
-      "2. Créer un compte sur le portail de candidature en ligne des bourses",
-      "3. Remplir le formulaire de candidature en ligne",
-      "4. Fournir les documents justificatifs requis",
-      "5. Soumettre la candidature avant la date limite",
-      "6. Attendre les résultats de sélection"
-    ],
-    "contacts": [
-      "philanthropy@unsw.edu.au"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Portail de candidature en ligne",
-        "url": "https://scholarships.online.unsw.edu.au/scholarship/sc_search.login"
-      },
-      {
-        "label": "Guide des documents justificatifs",
-        "url": "https://www.scholarships.unsw.edu.au/sites/default/files/uploads/Supporting%20Documentation%20Guide%20-%20UNSW%20Scholarships.pdf"
-      },
-      {
-        "label": "FAQ PUCA1029",
-        "url": "https://www.scholarships.unsw.edu.au/sites/default/files/2025-09/PUCA1029%20FAQs%20.pdf"
-      },
-      {
-        "label": "Graduate Research School",
-        "url": "https://research.unsw.edu.au/graduate-research"
-      },
-      {
-        "label": "International Student Award",
-        "url": "https://www.scholarships.unsw.edu.au/international-student-award"
-      },
-      {
-        "label": "Australia's Global University Award",
-        "url": "https://www.scholarships.unsw.edu.au/australias-global-university-award-puca1026"
-      }
-    ],
-    "mots_cles": [
-      "bourse UNSW",
-      "bourse international",
-      "bourse Australie",
-      "bourse licence",
-      "bourse master",
-      "bourse 2027",
-      "financement études",
-      "bourse université"
-    ],
-    "lien_candidature": "https://scholarships.online.unsw.edu.au/scholarship/sc_search.login",
-    "source_url": "https://www.scholarships.unsw.edu.au/scholarships/id/1988?utm_id=97758_v0_s00_e0_tv2_a1den5f08gvbpa&fbclid=IwY2xjawUez_xwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEevI8zjUvrpHoLjxvnNJi3XLVaXQiyAJkcF3tDvB0akvUjWhAxziMzXPww3rE_aem_y-qvRpxqnxbu2pSK1CSBKw",
-    "statut": "ouvert",
-    "resume": "L'UNSW Sydney offre une gamme de bourses pour les étudiants internationaux qui commencent leurs études au trimestre 1 2027. Ces bourses couvrent partiellement ou totalement les frais de scolarité et sont attribuées sur la base du mérite académique, du leadership et des activités extrascolaires. Les candidatures sont ouvertes du 6 juillet 2026 au 30 octobre 2026. Ne manquez pas cette opportunité de financer vos études en Australie.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-22T03:08:07",
-    "slug": "bourse-unsw-international-2027"
-  },
-  {
-    "titre": "Appel à propositions : Construisez votre AgriCanvas, construisez votre avenir - e-MOVE",
-    "seo_slug": "bourse-agripreneur-cashew-2026",
-    "organisation": "GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit) via MOVE-ComCashew",
-    "montant": 2000,
-    "devise": "EUR",
-    "type_financement": "bourse complète",
-    "deadline": "2026-10-30",
-    "deadline_texte": "30 octobre 2026",
-    "niveau_etudes": [],
-    "domaines": [
-      "Chaîne de valeur de l'anacarde",
-      "Agroalimentaire",
-      "Entrepreneuriat agricole",
-      "Agriculture climato-intelligente"
-    ],
-    "pays_eligibles": [
-      "États membres de l'OACPS"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Certificat de réussite du cours 'Creating an Investment-Ready Agribusiness' (ID de certificat)",
-      "AgriCanvas (Business Model Canvas)",
-      "Formulaire de soumission en ligne complété",
-      "Description de la composante climat-intelligente ou résilience",
-      "Modèle de revenus",
-      "Estimation du capital nécessaire"
-    ],
-    "avantages": [
-      "2 000 EUR de financement direct pour booster votre entreprise",
-      "Un ordinateur portable, une tablette ou un logiciel pour vous aider dans vos opérations"
-    ],
-    "eligibilite": [
-      "Âgé de 18 ans ou plus",
-      "Basé dans un État membre de l'OACPS",
-      "Avoir une idée d'agro-entreprise innovante liée à la chaîne de valeur de l'anacarde",
-      "Avoir complété les deux cours obligatoires e-MOVE : 'Introduction to Conservation Agriculture' et 'Creating an Investment-Ready Agribusiness'",
-      "Soumettre via le lien KoboToolbox officiel",
-      "Une seule idée par candidat par fenêtre de soumission"
-    ],
-    "procedure_etapes": [
-      "1. S'inscrire sur atingi (www.atingi.org) ou sur la page e-MOVE",
-      "2. Compléter le cours obligatoire 'Introduction to Conservation Agriculture'",
-      "3. Une fois le step 1 terminé, débloquer et compléter le cours 'Creating an Investment-Ready Agribusiness'",
-      "4. Développer votre idée d'entreprise sur la chaîne de valeur de l'anacarde en utilisant le modèle Business Model Canvas fourni dans le module de soumission du cours 'Creating an Investment-Ready Agribusiness'",
-      "5. Remplir le formulaire de soumission officiel en utilisant l'ID de certificat du cours 'Creating an Investment-Ready Agribusiness' comme preuve de completion",
-      "6. Saisir votre AgriCanvas directement dans le formulaire (pas de téléchargement)",
-      "7. Fournir les informations écrites supplémentaires : composante climat-intelligente, modèle de revenus, capital nécessaire",
-      "8. Soumettre votre idée via le lien KoboToolbox avant la date limite"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de soumission (KoboToolbox)",
-        "url": "https://kobo-ee.giz.de/x/nxQ6hJpt"
-      },
-      {
-        "label": "Page d'accueil e-MOVE sur atingi",
-        "url": "https://online.atingi.org/local/partner/page.php?id=27"
-      },
-      {
-        "label": "Cours : Introduction to Conservation Agriculture (CA)",
-        "url": "https://online.atingi.org/course/view.php?id=6039"
-      },
-      {
-        "label": "Cours : Creating an Investment-Ready Agribusiness",
-        "url": "https://online.atingi.org/course/view.php?id=6268"
-      },
-      {
-        "label": "Liste des États membres de l'OACPS",
-        "url": "https://www.oacps.org/fact-sheets-oacps-member-states/"
-      },
-      {
-        "label": "Document Termes et Conditions (à télécharger)",
-        "url": "https://gizonline.sharepoint.com/:w:/r/sites/MOVE/Freigegebene%20Dokumente/4.%20Scaling/E_EU%20Comcashew_E-Learning/03_Viable%20Projects!/Call%20for%20proposals/Call%201/Terms%20and%20Conditions%20(to%20be%20published%20on%20the%20Website)/EN_Viable%20submissions%20%E2%80%93%20Terms%20and%20Conditions.docx?d=wde641fe553f54b93a434f51cd272b6db&csf=1&web=1&e=vmykgQ"
-      },
-      {
-        "label": "Webinaire de lancement officiel (8 juillet 2024)",
-        "url": "https://www.facebook.com/share/v/1eYmS3cmv2SxQ8ST/"
-      },
-      {
-        "label": "Webinaire sur le processus de candidature (9 juillet 2024)",
-        "url": "https://fb.watch/tvqpqobO59/"
-      },
-      {
-        "label": "Webinaire sur le développement des capacités humaines (10 juillet 2024)",
-        "url": "https://fb.watch/tvquZX-_Wt/"
-      },
-      {
-        "label": "Webinaire en espagnol (11 juillet 2024)",
-        "url": "https://fb.watch/tvqGSmOY3X/"
-      },
-      {
-        "label": "Webinaire en portugais (11 juillet 2024)",
-        "url": "https://fb.watch/tvqDgo5QxR/"
-      },
-      {
-        "label": "Webinaire sur les formats de contrat et finances (12 juillet 2024)",
-        "url": "https://fb.watch/tvqLvEFaBl/"
-      },
-      {
-        "label": "Webinaire sur le genre (16 juillet 2024)",
-        "url": "https://fb.watch/tvtzBdCFGh/"
-      },
-      {
-        "label": "Webinaire sur le climat (18 juillet 2024)",
-        "url": "https://fb.watch/tvr5mkDND-/"
-      }
-    ],
-    "mots_cles": [
-      "bourse anacarde",
-      "e-MOVE",
-      "agripreneur",
-      "chaîne de valeur anacarde",
-      "financement agricole",
-      "OACPS",
-      "GIZ",
-      "AgriCanvas",
-      "entrepreneuriat agricole",
-      "bourse 2026"
-    ],
-    "lien_candidature": "https://kobo-ee.giz.de/x/nxQ6hJpt",
-    "source_url": "https://www.comcashew.org/funding-e-move?fbclid=IwY2xjawUqCjFleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeNIqJF9S_wLInIGKAExdINt6_Y1W3e7zDYBNen3SRhBzK50QDtAQGpm4jUOE_aem_5w2Avs8MsPBtcVtfCEUVtQ",
-    "statut": "ouvert",
-    "resume": "L'appel à propositions e-MOVE invite les jeunes agripreneurs du secteur de l'anacarde à transformer leurs idées en entreprises climato-intelligentes prêtes à être financées. Les participants doivent suivre deux cours en ligne gratuits sur la plateforme atingi et soumettre un AgriCanvas via un formulaire en ligne. Les gagnants recevront jusqu'à 2 000 EUR de financement direct ainsi qu'un ordinateur portable, une tablette ou un logiciel. La date limite de soumission est fixée au 30 octobre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-30T15:31:55",
-    "slug": "bourse-agripreneur-cashew-2026"
-  },
-  {
-    "titre": "Bourse d'études supérieures NVIDIA",
-    "seo_slug": "bourse-nvidia-doctorat-2027",
-    "organisation": "NVIDIA",
-    "montant": 60000,
-    "devise": "USD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-10-30",
-    "deadline_texte": "30 octobre 2026 (y compris les lettres de recommandation)",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Informatique",
-      "Génie informatique",
-      "Architecture des systèmes",
-      "Génie électrique",
-      "Domaines connexes"
-    ],
-    "pays_eligibles": [
-      "États-Unis",
-      "Canada",
-      "Allemagne",
-      "Suède",
-      "Finlande",
-      "Suisse",
-      "Israël",
-      "Taïwan",
-      "Singapour"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Proposition de recherche (2 pages max, plus bibliographie)",
-      "CV ou resume",
-      "2 à 3 lettres de recommandation (dont une de votre directeur de thèse)",
-      "Confirmation de disponibilité pour un stage d'été en personne"
-    ],
-    "avantages": [
-      "Financement de recherche jusqu'à 60 000 $ par bourse",
-      "Collaboration avec des chercheurs NVIDIA",
-      "Stage d'été en personne obligatoire",
-      "Présentation à la GTC San Jose"
-    ],
-    "eligibilite": [
-      "Avoir complété sa première année d'études doctorales avant de postuler",
-      "Être inscrit en doctorat à temps plein et actif pendant les neuf mois de l'année de bourse",
-      "Ne pas prévoir d'obtenir son diplôme avant la fin de l'année universitaire de la bourse",
-      "Être disponible pour un stage d'été en personne dans un bureau de recherche NVIDIA éligible avant le début de l'année de bourse",
-      "Les employés à temps plein de NVIDIA et les membres de leur famille immédiate ne peuvent pas participer",
-      "L'université doit administrer la bourse (le paiement est versé à l'université, pas directement à l'étudiant)"
-    ],
-    "procedure_etapes": [
-      "1. Créer votre profil sur le portail de soumission",
-      "2. Ajouter vos documents de candidature (proposition de recherche, CV, confirmation de stage)",
-      "3. Inviter vos recommandateurs (demandez-leur d'abord, puis ajoutez leurs coordonnées dans le portail)",
-      "4. Vérifier chaque lettre de recommandation et relancer jusqu'à ce que toutes soient marquées comme 'complétées'",
-      "5. Soumettre la candidature finale une fois que tous les documents et lettres sont complets"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Portail de candidature",
-        "url": "https://webportalapp.com/sp/nvidia_grad_fellow_2027"
-      },
-      {
-        "label": "Page officielle de la bourse",
-        "url": "https://research.nvidia.com/graduate-fellowships"
-      },
-      {
-        "label": "FAQ",
-        "url": "https://research.nvidia.com/graduate-fellowships#faq"
-      },
-      {
-        "label": "Rencontrer les boursiers",
-        "url": "https://research.nvidia.com/graduate-fellowships#fellows"
-      }
-    ],
-    "mots_cles": [
-      "bourse NVIDIA",
-      "bourse doctorat",
-      "bourse informatique",
-      "bourse génie électrique",
-      "bourse États-Unis",
-      "bourse 2027",
-      "financement recherche",
-      "bourse internationale"
-    ],
-    "lien_candidature": "https://webportalapp.com/sp/nvidia_grad_fellow_2027",
-    "source_url": "https://research.nvidia.com/graduate-fellowships?fbclid=IwY2xjawUvz-dleHRuA2FlbQIxMABwZG9mAWJyaWQRMVVHQVk4NmNDb2p0V3JtNEVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeshduBSSPXl6f806hkTaL9GOci8KpkC9F6BVwposvnU_H6Qt32yuaUHyRG_A_aem_iaJ8Zf_7d1o6qZ40y2yH_g",
-    "statut": "ouvert",
-    "resume": "La bourse d'études supérieures NVIDIA offre jusqu'à 60 000 $ par bourse pour financer des recherches doctorales qui font progresser le calcul accéléré. Les boursiers collaborent avec des chercheurs NVIDIA et effectuent un stage d'été en personne obligatoire avant l'année de la bourse. Les candidatures pour l'année 2027-2028 sont ouvertes du 30 septembre 2026 au 30 octobre 2026. Cette opportunité prestigieuse permet aux doctorants de travailler sur des projets de pointe et de présenter leurs recherches à la GTC San Jose.",
-    "imageUrl": null,
-    "extrait_le": "2026-10-05T00:37:16",
-    "slug": "bourse-nvidia-doctorat-2027"
-  },
-  {
-    "titre": "Bourses de recherche et de troisième cycle de la London School of Hygiene & Tropical Medicine (LSHTM)",
-    "seo_slug": "bourses-lshtm-recherche-2026-2027",
-    "organisation": "London School of Hygiene & Tropical Medicine (LSHTM)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-10-30",
-    "deadline_texte": "30 octobre 2026 (date limite pour les bourses ESRC UBEL DTP 2027-28). D'autres bourses ont des dates limites différentes : 20 octobre 2026 pour les bourses Commonwealth PhD, 1er octobre 2026 pour la bourse NIHR et la bourse LSHTM-Royal Society (ces deux dernières sont déjà fermées).",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Santé publique",
-      "Médecine",
-      "Recherche en santé"
-    ],
-    "pays_eligibles": [
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [],
-    "avantages": [],
-    "eligibilite": [
-      "Les critères d'éligibilité varient selon la bourse ; voir l'annonce pour plus de détails.",
-      "Les candidats doivent satisfaire aux critères essentiels spécifiques à chaque bourse.",
-      "Les bourses sont ouvertes aux candidats internationaux pour certaines opportunités (ex. UKRI).",
-      "Les candidatures de personnes issues de la diversité (Black, Asian, Ethnic Minority, première génération) sont particulièrement encouragées."
-    ],
-    "procedure_etapes": [
-      "1. Consulter le tableau des bourses pour identifier les opportunités ouvertes.",
-      "2. Lire l'annonce détaillée de chaque bourse pour connaître les critères d'éligibilité et les modalités.",
-      "3. Consulter la page FAQ sur les candidatures en ligne aux bourses.",
-      "4. Contacter l'équipe des bourses pour toute question.",
-      "5. Soumettre la candidature avant la date limite indiquée dans l'annonce."
-    ],
-    "contacts": [
-      "https://www.lshtm.ac.uk/cdn-cgi/l/email-protection#97e4f4fff8fbf6e5e4fffee7e4d7fbe4ffe3fab9f6f4b9e2fc"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Visitez le site : Page des bourses de recherche et de troisième cycle",
-        "url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/research-degree-funding"
-      },
-      {
-        "label": "FAQ sur les candidatures en ligne aux bourses",
-        "url": "https://www.lshtm.ac.uk/study/frequently-asked-questions/scholarship-faqs/scholarship-online-application-faqs"
-      },
-      {
-        "label": "Contact de l'équipe des bourses",
-        "url": "https://www.lshtm.ac.uk/cdn-cgi/l/email-protection#97e4f4fff8fbf6e5e4fffee7e4d7fbe4ffe3fab9f6f4b9e2fc"
-      },
-      {
-        "label": "Bourses UKRI",
-        "url": "https://www.ukri.org/apply-for-funding/ukri-funded-studentships/"
-      },
-      {
-        "label": "Déclaration de LSHTM sur le recrutement international UKRI",
-        "url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/ukri-international-recruitment-lshtm"
-      },
-      {
-        "label": "Bourses ESRC UBEL DTP 2027-28",
-        "url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/2027-ucl-bloomsbury-east-london-dtp-esrc-research-studentships"
-      },
-      {
-        "label": "Bourses Commonwealth PhD 2027-28",
-        "url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/"
-      },
-      {
-        "label": "Bourse NIHR Vaccine Effectiveness 2026-27",
-        "url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/2026-27-nihr-funded-phd-studentship-waning-vaccine-effectiveness"
-      },
-      {
-        "label": "Bourse LSHTM-Royal Society PhD 2026-27",
-        "url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/2026-27-lshtm-royal-society-phd-scholarship"
-      },
-      {
-        "label": "Inscription à la newsletter Vector",
-        "url": "https://www.lshtm.ac.uk/study/vector-newsletter"
-      }
-    ],
-    "mots_cles": [
-      "bourse LSHTM",
-      "bourse doctorat santé publique",
-      "bourse recherche médicale",
-      "bourse internationale 2026",
-      "bourse Commonwealth PhD",
-      "bourse ESRC",
-      "financement thèse",
-      "bourse Royaume-Uni"
-    ],
-    "lien_candidature": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/research-degree-funding",
-    "source_url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/research-degree-funding?fbclid=IwY2xjawU6RFlleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEePNRxcNf_iSQe9gdMmO7Ieba9lJUugFDGi5pSc7ruvvwP7vwWk4Ix-Uuy55g_aem_uQ6xSdd_S7pqOh1xfgDBxQ",
-    "statut": "ouvert",
-    "resume": "La London School of Hygiene & Tropical Medicine (LSHTM) propose plusieurs bourses de recherche et de troisième cycle pour l'année académique 2026-2027 et au-delà. Ces financements couvrent divers domaines de la santé publique et de la médecine, avec des opportunités pour les étudiants internationaux. Les candidats sont invités à consulter régulièrement le tableau des bourses, car de nouvelles opportunités sont ajoutées au fur et à mesure. Les dates limites varient selon les programmes, allant d'octobre à novembre 2026.",
-    "imageUrl": "/docs/Financement-et-bourses-d-tudes-pour-les-dipl-mes-de-recherche.webp",
-    "extrait_le": "2026-10-13T00:57:18",
-    "slug": "bourses-lshtm-recherche-2026-2027"
-  },
-  {
-    "titre": "Bourse de la Fondation Saïd pour les études supérieures 2027/28",
-    "seo_slug": "bourse-said-foundation-2027",
-    "organisation": "Saïd Foundation",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-10-30",
-    "deadline_texte": "30 octobre 2026 à 17h00 (heure du Royaume-Uni)",
-    "niveau_etudes": [
-      "Master",
-      "Doctorat"
-    ],
-    "domaines": [],
-    "pays_eligibles": [],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "CV",
-      "Lettre de motivation",
-      "Références",
-      "Documents requis (voir lien)"
-    ],
-    "avantages": [
-      "Bourse complète (frais de scolarité, allocation, etc.)"
-    ],
-    "eligibilite": [
-      "Critères d'éligibilité détaillés sur le site",
-      "Exigence de langue anglaise",
-      "Références requises"
-    ],
-    "procedure_etapes": [
-      "1. Lire attentivement les informations sur le site",
-      "2. Vérifier les critères d'éligibilité",
-      "3. Préparer les documents requis",
-      "4. Remplir le formulaire de candidature en ligne",
-      "5. Soumettre la candidature avant la date limite"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://saidfoundation.fullfabric.com/templates/6a709af76ab728c07a7eb211/start"
-      },
-      {
-        "label": "À propos des bourses",
-        "url": "https://saidfoundation.org/scholarships/"
-      },
-      {
-        "label": "Critères d'éligibilité",
-        "url": "https://saidfoundation.org/the-eligibility-criteria/"
-      },
-      {
-        "label": "Exigences linguistiques en anglais",
-        "url": "https://saidfoundation.org/english-language-requirements/"
-      },
-      {
-        "label": "Références",
-        "url": "https://saidfoundation.org/about-references/"
-      },
-      {
-        "label": "Documents requis",
-        "url": "https://saidfoundation.org/required-documents/"
-      },
-      {
-        "label": "FAQ",
-        "url": "https://saidfoundation.org/scholarship-faqs/"
-      }
-    ],
-    "mots_cles": [
-      "bourse Said Foundation",
-      "bourse études supérieures",
-      "bourse 2027",
-      "bourse master",
-      "bourse doctorat",
-      "financement études",
-      "bourse internationale"
-    ],
-    "lien_candidature": "https://saidfoundation.fullfabric.com/templates/6a709af76ab728c07a7eb211/start",
-    "source_url": "https://saidfoundation.org/apply/?fbclid=IwY2xjawVMdGhleHRuA2FlbQIxMABwZG9mAWJyaWQRMXBXdnRlVEx2MHh5VkdNQkFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe1YIEe8_e0V5-A1I-UoafrRR4_g1U7qMAJvktf0BFvRdYCVYgkmAIv-cMoyQ_aem_yPpkhYqFzWyvb6WJwB4v5A",
-    "statut": "ouvert",
-    "resume": "La Fondation Saïd offre des bourses complètes pour les études supérieures (master et doctorat) au Royaume-Uni. Les candidatures pour l'année académique 2027/28 sont ouvertes jusqu'au 30 octobre 2026 à 17h00 (heure du Royaume-Uni). Les candidats doivent satisfaire aux critères d'éligibilité, aux exigences linguistiques en anglais et fournir les documents requis. Pour plus d'informations, consultez le site officiel.",
-    "imageUrl": null,
-    "extrait_le": "2026-10-26T19:00:46",
-    "slug": "bourse-said-foundation-2027"
-  },
-  {
-    "titre": "Bourses de recherche pour diplômés - Université de Melbourne",
-    "seo_slug": "bourse-recherche-melbourne-2026",
-    "organisation": "University of Melbourne",
-    "montant": 39500,
-    "devise": "AUD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-10-31",
-    "deadline_texte": "31 octobre 2026",
-    "niveau_etudes": [
-      "Master",
-      "Doctorat"
-    ],
-    "domaines": [
-      "Sciences agricoles et vétérinaires",
-      "Architecture, bâtiment, urbanisme et design",
-      "Arts, sciences humaines et sociales",
-      "Commerce et économie",
-      "Éducation",
-      "Ingénierie",
-      "Environnement",
-      "Santé",
-      "Technologies de l'information et informatique",
-      "Droit",
-      "Musique, arts visuels et du spectacle",
-      "Sciences"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Candidature au cours de recherche",
-      "Formulaire en ligne (pour étudiants différés ou actuels)"
-    ],
-    "avantages": [
-      "Exonération totale des frais de scolarité",
-      "Allocation de subsistance de 39 500 AUD par an",
-      "Prime de réinstallation de 2 000 AUD (déplacement depuis un autre État/territoire) ou 3 000 AUD (depuis l'étranger)",
-      "Couverture santé OSHC pour étudiants internationaux"
-    ],
-    "eligibilite": [
-      "Avoir postulé et satisfaire aux conditions d'admission à un diplôme de recherche supérieure à l'Université de Melbourne",
-      "Être actuellement inscrit dans un diplôme de recherche supérieure à l'Université de Melbourne",
-      "Être un étudiant national ou international"
-    ],
-    "procedure_etapes": [
-      "1. Postuler à un cours de recherche supérieure (Master par recherche ou Doctorat) à l'Université de Melbourne avant la date limite de candidature du cours.",
-      "2. Si vous êtes un nouvel étudiant, vous serez automatiquement considéré pour la bourse après avoir soumis votre candidature au cours.",
-      "3. Si vous avez accepté une offre de cours et différé votre commencement, soumettez le formulaire en ligne avant le 31 octobre pour être considéré l'année suivante.",
-      "4. Si vous êtes actuellement inscrit, soumettez le formulaire en ligne avant le 31 octobre pour être considéré l'année suivante.",
-      "5. Attendez la notification de l'ajout de la candidature à votre dossier (sous 10 jours ouvrés).",
-      "6. Les offres de bourses avec allocation et exonération sont faites séparément, généralement en même temps que les offres de cours."
-    ],
-    "contacts": [
-      "+61 3 9035 5511"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships"
-      },
-      {
-        "label": "Gérer ma bourse",
-        "url": "https://gradresearch.unimelb.edu.au/scholarships"
-      },
-      {
-        "label": "Conditions générales des bourses de recherche pour diplômés",
-        "url": "https://gradresearch.unimelb.edu.au/scholarships/graduate-research-scholarship-terms-and-conditions"
-      },
-      {
-        "label": "Guide des bourses",
-        "url": "https://scholarships.unimelb.edu.au/guide"
-      },
-      {
-        "label": "Comment postuler à un cours de recherche supérieure",
-        "url": "https://study.unimelb.edu.au/how-to-apply/graduate-research"
-      },
-      {
-        "label": "Formulaire de candidature en ligne (pour étudiants différés ou actuels)",
-        "url": "https://unimelb_admissions_scholarships.formstack.com/forms/graduate_research_scholarships_application"
-      }
-    ],
-    "mots_cles": [
-      "bourse recherche Melbourne",
-      "bourse doctorat Australie",
-      "bourse master recherche",
-      "University of Melbourne scholarship",
-      "bourse internationale Australie",
-      "Graduate Research Scholarship",
-      "bourse RTP",
-      "bourse MRS"
-    ],
-    "lien_candidature": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
-    "source_url": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
-    "statut": "ouvert",
-    "resume": "Les bourses de recherche pour diplômés de l'Université de Melbourne offrent une exonération totale des frais de scolarité et une allocation de subsistance pouvant atteindre 135 000 AUD sur la durée du programme. Destinées aux étudiants nationaux et internationaux de haut niveau inscrits en Master par recherche ou Doctorat, elles incluent également une prime de réinstallation et une couverture santé. La candidature est automatique pour les nouveaux étudiants, tandis que les étudiants actuels ou différés doivent soumettre un formulaire en ligne avant le 31 octobre.",
-    "adresse": "The University of Melbourne Grattan Street, Parkville Victoria 3010 Australia",
-    "extrait_le": "2026-06-15T02:58:04",
-    "slug": "bourse-recherche-melbourne-2026"
-  },
-  {
-    "titre": "Programme de bourses Mastercard Foundation à l'Université du Cap",
-    "seo_slug": "bourse-mastercard-foundation-afrique-2027",
-    "organisation": "Mastercard Foundation & University of Cape Town",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-10-31",
-    "deadline_texte": "30 septembre 2026 pour les candidatures au premier cycle (undergraduate) et 31 octobre 2026 pour les candidatures aux cycles supérieurs (postgraduate)",
-    "niveau_etudes": [
-      "Licence",
-      "Diplôme postgraduate",
-      "Honours",
-      "Master"
-    ],
-    "domaines": [
-      "Commerce",
-      "Ingénierie et environnement bâti",
-      "Sciences de la santé",
-      "Sciences humaines",
-      "Droit",
-      "Sciences"
-    ],
-    "pays_eligibles": [
-      "Afrique",
-      "Afrique du Sud"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [],
-    "avantages": [
-      "Bourse complète",
-      "Soutien complet",
-      "Développement du leadership",
-      "Mentorat",
-      "Développement de carrière",
-      "Engagement communautaire"
-    ],
-    "eligibilite": [
-      "Être citoyen d'un pays africain, y compris l'Afrique du Sud",
-      "Postuler pour un premier diplôme de bachelor ou un programme postgraduate éligible à l'UCT (diplôme postgraduate offert par la Faculté des sciences de la santé, honours offert par l'une des six facultés, ou master avec cours offert par l'une des six facultés)",
-      "Démontrer un talent académique et un engagement envers l'excellence",
-      "Faire face à des barrières sociales et économiques importantes pour accéder à l'enseignement supérieur",
-      "Démontrer un potentiel de leadership transformateur et éthique",
-      "Être engagé à servir sa communauté et à contribuer au changement positif"
-    ],
-    "procedure_etapes": [
-      "1. Consulter le site web de l'UCT pour obtenir des informations sur les options d'études : https://uct.ac.za/applicants-and-students",
-      "2. Soumettre votre demande à l'Université du Cap à : applyonline.uct.ac.za",
-      "3. Soumettre votre demande au Programme de bourses Mastercard Foundation à : www.uct.ac.za/mastercardfdn"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Site officiel du programme",
-        "url": "https://www.uct.ac.za/mastercardfdn"
-      },
-      {
-        "label": "Formulaire de candidature au programme",
-        "url": "https://uct.ac.za/mastercardfdn/application-form"
-      },
-      {
-        "label": "Portail de candidature à l'UCT",
-        "url": "https://publicaccess.uct.ac.za/psc/public/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?LP=UCT_ONLINE_APP_PUBLIC&"
-      },
-      {
-        "label": "Informations sur les options d'études à l'UCT",
-        "url": "https://uct.ac.za/applicants-and-students"
-      },
-      {
-        "label": "African Climate & Development Initiative",
-        "url": "https://acdi.uct.ac.za/education/acdi-masters-climate-change-and-development"
-      },
-      {
-        "label": "Healthy Futures South Africa (HFSA)",
-        "url": "https://health.uct.ac.za/hfsa"
-      },
-      {
-        "label": "FAQ",
-        "url": "https://uct.ac.za/mastercardfdn/frequently-asked-questions"
-      },
-      {
-        "label": "Contact",
-        "url": "https://uct.ac.za/mastercardfdn/contact-us"
-      }
-    ],
-    "mots_cles": [
-      "bourse Mastercard Foundation",
-      "bourse Afrique",
-      "bourse UCT",
-      "bourse master Afrique",
-      "bourse licence Afrique",
-      "bourse études supérieures",
-      "bourse 2027",
-      "bourse complète",
-      "bourse leadership",
-      "bourse développement communautaire"
-    ],
-    "lien_candidature": "https://uct.ac.za/mastercardfdn/application-form",
-    "source_url": "https://www.uct.ac.za/mastercardfdn/apply-mastercard-foundation-scholars-program?fbclid=IwY2xjawUezlxwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeG2o7ij6JTsSa6X13cpx7dB1yEI6y0teB9yf7WD4h-EAtiETe_FBR5_jaOxw_aem_8VsiEp2FjiOZNfQvSBxUpA",
-    "statut": "ouvert",
-    "resume": "Le Programme de bourses Mastercard Foundation à l'Université du Cap (UCT) offre des bourses complètes et un soutien global à de jeunes leaders africains talentueux confrontés à des obstacles sociaux et économiques. Ce programme permet de poursuivre un premier diplôme de bachelor ou un programme postgraduate éligible à l'UCT, tout en développant son potentiel de leadership éthique et en rejoignant un réseau de changement. Les candidatures pour l'admission en 2027 sont ouvertes, avec des dates limites fixées au 30 septembre 2026 pour le premier cycle et au 31 octobre 2026 pour les cycles supérieurs. C'est une opportunité unique de bénéficier d'une éducation de classe mondiale et de contribuer positivement à sa communauté.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-22T03:01:01",
-    "slug": "bourse-mastercard-foundation-afrique-2027"
-  },
-  {
     "titre": "Fonds Weiss pour la recherche en économie du développement",
     "seo_slug": "bourse-weiss-economie-developpement-2026",
     "organisation": "Weiss Fund for Research in Development Economics (University of Chicago)",
@@ -35412,6 +34583,835 @@
     "imageUrl": "/docs/Cours-d-t-universitaires-propos-s-en-Allemagne-aux-tudiants-et-dipl-m-s-trangers-DAAD.webp",
     "extrait_le": "2026-07-09T02:39:13",
     "slug": "cours-ete-allemagne-daad-2026"
+  },
+  {
+    "titre": "Bourses UNSW pour étudiants internationaux - Trimestre 1 2027",
+    "seo_slug": "bourse-unsw-international-2027",
+    "organisation": "UNSW Sydney",
+    "montant": 20000,
+    "devise": "AUD",
+    "type_financement": "bourse partielle ou complète",
+    "deadline": "2026-10-30",
+    "deadline_texte": "30 octobre 2026 à 23h59 AEST",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Tous domaines",
+      "Droit",
+      "Commerce",
+      "Ingénierie"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Preuves de mérite académique",
+      "Preuves de leadership",
+      "Preuves d'activités extrascolaires",
+      "Justification des raisons d'étudier à UNSW"
+    ],
+    "avantages": [
+      "Frais de scolarité complets ou partiels",
+      "Indemnité de 20 000 $ par an",
+      "10 000 $ par an",
+      "15 000 $ par an",
+      "5 000 $ par an"
+    ],
+    "eligibilite": [
+      "Être un étudiant international",
+      "Avoir reçu une offre d'admission dans un programme éligible pour le trimestre 1 2027 avant le 30 octobre 2026",
+      "Commencer des études à temps plein dans un programme de premier cycle ou de cycles supérieurs (cours) à UNSW",
+      "Ne pas avoir entrepris d'études tertiaires antérieures (pour certaines bourses)",
+      "Être citoyen de Hong Kong (pour la bourse Hong Kong Foundation)",
+      "Être originaire d'Asie (pour la bourse Dr Vincent Lo Asia Undergraduate)"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité et les bourses disponibles",
+      "2. Créer un compte sur le portail de candidature en ligne des bourses",
+      "3. Remplir le formulaire de candidature en ligne",
+      "4. Fournir les documents justificatifs requis (mérite académique, leadership, activités extrascolaires, etc.)",
+      "5. Soumettre la candidature avant la date limite du 30 octobre 2026"
+    ],
+    "contacts": [
+      "philanthropy@unsw.edu.au"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature en ligne",
+        "url": "https://scholarships.online.unsw.edu.au/scholarship/sc_search.login"
+      },
+      {
+        "label": "Guide des documents justificatifs (PDF)",
+        "url": "https://www.scholarships.unsw.edu.au/sites/default/files/uploads/Supporting%20Documentation%20Guide%20-%20UNSW%20Scholarships.pdf"
+      },
+      {
+        "label": "FAQ PUCA1029 (PDF)",
+        "url": "https://www.scholarships.unsw.edu.au/sites/default/files/2025-09/PUCA1029%20FAQs%20.pdf"
+      },
+      {
+        "label": "Bourse Australia's Global University Award",
+        "url": "https://www.scholarships.unsw.edu.au/australias-global-university-award-puca1026"
+      },
+      {
+        "label": "International Student Award",
+        "url": "https://www.scholarships.unsw.edu.au/international-student-award"
+      },
+      {
+        "label": "Graduate Research School",
+        "url": "https://research.unsw.edu.au/graduate-research"
+      },
+      {
+        "label": "Contact",
+        "url": "/contact-us"
+      },
+      {
+        "label": "FAQs",
+        "url": "/faqs"
+      }
+    ],
+    "mots_cles": [
+      "bourse UNSW",
+      "bourse international",
+      "bourse Australie",
+      "bourse licence",
+      "bourse master",
+      "bourse 2027",
+      "financement études",
+      "bourse université"
+    ],
+    "lien_candidature": "https://scholarships.online.unsw.edu.au/scholarship/sc_search.login",
+    "source_url": "https://www.scholarships.unsw.edu.au/scholarships/id/1988?utm_id=97758_v0_s00_e0_tv2_a1den5f08gvbpa&fbclid=IwY2xjawUeytJwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeppW0jqa6sFXJ8E-un67XIfsyBSgThkPkQNDnLmGK7MuopZ32pZy4nr2VW5E_aem_VUQ580Xx1EMuf6cIEalMRQ",
+    "statut": "fermé",
+    "resume": "L'UNSW Sydney offre une gamme de bourses pour les étudiants internationaux commençant leurs études à temps plein au trimestre 1 2027. Ces bourses couvrent les frais de scolarité partiels ou complets, avec des valeurs allant de 5 000 $ à 20 000 $ par an. Les candidatures sont ouvertes du 6 juillet 2026 au 30 octobre 2026. Les étudiants doivent postuler via le portail en ligne et fournir des preuves de leur mérite académique, de leur leadership et de leurs activités extrascolaires.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-22T02:46:18",
+    "slug": "bourse-unsw-international-2027"
+  },
+  {
+    "titre": "Bourses UNSW pour étudiants internationaux - Trimestre 1 2027",
+    "seo_slug": "bourse-unsw-international-2027",
+    "organisation": "UNSW Sydney",
+    "montant": null,
+    "devise": "AUD",
+    "type_financement": "bourse partielle ou complète",
+    "deadline": "2026-10-30",
+    "deadline_texte": "30 octobre 2026 à 23h59 AEST",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Tous domaines",
+      "Droit",
+      "Commerce",
+      "Ingénierie"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Preuve de mérite académique",
+      "Preuve de compétences en leadership",
+      "Preuve d'activités extrascolaires",
+      "Raisons pour étudier à UNSW",
+      "Lettre d'offre d'admission (inconditionnelle ou conditionnelle)",
+      "Relevés de notes",
+      "Certificat de langue anglaise (si applicable)"
+    ],
+    "avantages": [
+      "Frais de scolarité complets ou partiels",
+      "Allocation de 5 000 à 20 000 $ par an",
+      "Contribution de 20 % aux frais de scolarité (International Student Award)"
+    ],
+    "eligibilite": [
+      "Être un étudiant international",
+      "Avoir reçu une offre d'admission dans un programme éligible pour le trimestre 1 2027 avant le 30 octobre 2026",
+      "Commencer des études à temps plein dans un programme de premier cycle ou de cycles supérieurs (cours) à UNSW",
+      "Ne pas avoir entrepris d'études supérieures antérieures (pour certaines bourses)",
+      "Être citoyen de Hong Kong (pour la bourse UNSW Hong Kong Foundation)",
+      "Être originaire d'Asie (pour la bourse Dr Vincent Lo Asia Undergraduate)",
+      "Avoir obtenu un diplôme de premier cycle d'une institution partenaire (pour certaines bourses)"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité et les bourses disponibles",
+      "2. Créer un compte sur le portail de candidature en ligne des bourses",
+      "3. Remplir le formulaire de candidature en ligne",
+      "4. Fournir les documents justificatifs requis",
+      "5. Soumettre la candidature avant la date limite",
+      "6. Attendre les résultats de sélection"
+    ],
+    "contacts": [
+      "philanthropy@unsw.edu.au"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature en ligne",
+        "url": "https://scholarships.online.unsw.edu.au/scholarship/sc_search.login"
+      },
+      {
+        "label": "Guide des documents justificatifs",
+        "url": "https://www.scholarships.unsw.edu.au/sites/default/files/uploads/Supporting%20Documentation%20Guide%20-%20UNSW%20Scholarships.pdf"
+      },
+      {
+        "label": "FAQ PUCA1029",
+        "url": "https://www.scholarships.unsw.edu.au/sites/default/files/2025-09/PUCA1029%20FAQs%20.pdf"
+      },
+      {
+        "label": "Graduate Research School",
+        "url": "https://research.unsw.edu.au/graduate-research"
+      },
+      {
+        "label": "International Student Award",
+        "url": "https://www.scholarships.unsw.edu.au/international-student-award"
+      },
+      {
+        "label": "Australia's Global University Award",
+        "url": "https://www.scholarships.unsw.edu.au/australias-global-university-award-puca1026"
+      }
+    ],
+    "mots_cles": [
+      "bourse UNSW",
+      "bourse international",
+      "bourse Australie",
+      "bourse licence",
+      "bourse master",
+      "bourse 2027",
+      "financement études",
+      "bourse université"
+    ],
+    "lien_candidature": "https://scholarships.online.unsw.edu.au/scholarship/sc_search.login",
+    "source_url": "https://www.scholarships.unsw.edu.au/scholarships/id/1988?utm_id=97758_v0_s00_e0_tv2_a1den5f08gvbpa&fbclid=IwY2xjawUez_xwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEevI8zjUvrpHoLjxvnNJi3XLVaXQiyAJkcF3tDvB0akvUjWhAxziMzXPww3rE_aem_y-qvRpxqnxbu2pSK1CSBKw",
+    "statut": "fermé",
+    "resume": "L'UNSW Sydney offre une gamme de bourses pour les étudiants internationaux qui commencent leurs études au trimestre 1 2027. Ces bourses couvrent partiellement ou totalement les frais de scolarité et sont attribuées sur la base du mérite académique, du leadership et des activités extrascolaires. Les candidatures sont ouvertes du 6 juillet 2026 au 30 octobre 2026. Ne manquez pas cette opportunité de financer vos études en Australie.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-22T03:08:07",
+    "slug": "bourse-unsw-international-2027"
+  },
+  {
+    "titre": "Appel à propositions : Construisez votre AgriCanvas, construisez votre avenir - e-MOVE",
+    "seo_slug": "bourse-agripreneur-cashew-2026",
+    "organisation": "GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit) via MOVE-ComCashew",
+    "montant": 2000,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-30",
+    "deadline_texte": "30 octobre 2026",
+    "niveau_etudes": [],
+    "domaines": [
+      "Chaîne de valeur de l'anacarde",
+      "Agroalimentaire",
+      "Entrepreneuriat agricole",
+      "Agriculture climato-intelligente"
+    ],
+    "pays_eligibles": [
+      "États membres de l'OACPS"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Certificat de réussite du cours 'Creating an Investment-Ready Agribusiness' (ID de certificat)",
+      "AgriCanvas (Business Model Canvas)",
+      "Formulaire de soumission en ligne complété",
+      "Description de la composante climat-intelligente ou résilience",
+      "Modèle de revenus",
+      "Estimation du capital nécessaire"
+    ],
+    "avantages": [
+      "2 000 EUR de financement direct pour booster votre entreprise",
+      "Un ordinateur portable, une tablette ou un logiciel pour vous aider dans vos opérations"
+    ],
+    "eligibilite": [
+      "Âgé de 18 ans ou plus",
+      "Basé dans un État membre de l'OACPS",
+      "Avoir une idée d'agro-entreprise innovante liée à la chaîne de valeur de l'anacarde",
+      "Avoir complété les deux cours obligatoires e-MOVE : 'Introduction to Conservation Agriculture' et 'Creating an Investment-Ready Agribusiness'",
+      "Soumettre via le lien KoboToolbox officiel",
+      "Une seule idée par candidat par fenêtre de soumission"
+    ],
+    "procedure_etapes": [
+      "1. S'inscrire sur atingi (www.atingi.org) ou sur la page e-MOVE",
+      "2. Compléter le cours obligatoire 'Introduction to Conservation Agriculture'",
+      "3. Une fois le step 1 terminé, débloquer et compléter le cours 'Creating an Investment-Ready Agribusiness'",
+      "4. Développer votre idée d'entreprise sur la chaîne de valeur de l'anacarde en utilisant le modèle Business Model Canvas fourni dans le module de soumission du cours 'Creating an Investment-Ready Agribusiness'",
+      "5. Remplir le formulaire de soumission officiel en utilisant l'ID de certificat du cours 'Creating an Investment-Ready Agribusiness' comme preuve de completion",
+      "6. Saisir votre AgriCanvas directement dans le formulaire (pas de téléchargement)",
+      "7. Fournir les informations écrites supplémentaires : composante climat-intelligente, modèle de revenus, capital nécessaire",
+      "8. Soumettre votre idée via le lien KoboToolbox avant la date limite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de soumission (KoboToolbox)",
+        "url": "https://kobo-ee.giz.de/x/nxQ6hJpt"
+      },
+      {
+        "label": "Page d'accueil e-MOVE sur atingi",
+        "url": "https://online.atingi.org/local/partner/page.php?id=27"
+      },
+      {
+        "label": "Cours : Introduction to Conservation Agriculture (CA)",
+        "url": "https://online.atingi.org/course/view.php?id=6039"
+      },
+      {
+        "label": "Cours : Creating an Investment-Ready Agribusiness",
+        "url": "https://online.atingi.org/course/view.php?id=6268"
+      },
+      {
+        "label": "Liste des États membres de l'OACPS",
+        "url": "https://www.oacps.org/fact-sheets-oacps-member-states/"
+      },
+      {
+        "label": "Document Termes et Conditions (à télécharger)",
+        "url": "https://gizonline.sharepoint.com/:w:/r/sites/MOVE/Freigegebene%20Dokumente/4.%20Scaling/E_EU%20Comcashew_E-Learning/03_Viable%20Projects!/Call%20for%20proposals/Call%201/Terms%20and%20Conditions%20(to%20be%20published%20on%20the%20Website)/EN_Viable%20submissions%20%E2%80%93%20Terms%20and%20Conditions.docx?d=wde641fe553f54b93a434f51cd272b6db&csf=1&web=1&e=vmykgQ"
+      },
+      {
+        "label": "Webinaire de lancement officiel (8 juillet 2024)",
+        "url": "https://www.facebook.com/share/v/1eYmS3cmv2SxQ8ST/"
+      },
+      {
+        "label": "Webinaire sur le processus de candidature (9 juillet 2024)",
+        "url": "https://fb.watch/tvqpqobO59/"
+      },
+      {
+        "label": "Webinaire sur le développement des capacités humaines (10 juillet 2024)",
+        "url": "https://fb.watch/tvquZX-_Wt/"
+      },
+      {
+        "label": "Webinaire en espagnol (11 juillet 2024)",
+        "url": "https://fb.watch/tvqGSmOY3X/"
+      },
+      {
+        "label": "Webinaire en portugais (11 juillet 2024)",
+        "url": "https://fb.watch/tvqDgo5QxR/"
+      },
+      {
+        "label": "Webinaire sur les formats de contrat et finances (12 juillet 2024)",
+        "url": "https://fb.watch/tvqLvEFaBl/"
+      },
+      {
+        "label": "Webinaire sur le genre (16 juillet 2024)",
+        "url": "https://fb.watch/tvtzBdCFGh/"
+      },
+      {
+        "label": "Webinaire sur le climat (18 juillet 2024)",
+        "url": "https://fb.watch/tvr5mkDND-/"
+      }
+    ],
+    "mots_cles": [
+      "bourse anacarde",
+      "e-MOVE",
+      "agripreneur",
+      "chaîne de valeur anacarde",
+      "financement agricole",
+      "OACPS",
+      "GIZ",
+      "AgriCanvas",
+      "entrepreneuriat agricole",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://kobo-ee.giz.de/x/nxQ6hJpt",
+    "source_url": "https://www.comcashew.org/funding-e-move?fbclid=IwY2xjawUqCjFleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeNIqJF9S_wLInIGKAExdINt6_Y1W3e7zDYBNen3SRhBzK50QDtAQGpm4jUOE_aem_5w2Avs8MsPBtcVtfCEUVtQ",
+    "statut": "fermé",
+    "resume": "L'appel à propositions e-MOVE invite les jeunes agripreneurs du secteur de l'anacarde à transformer leurs idées en entreprises climato-intelligentes prêtes à être financées. Les participants doivent suivre deux cours en ligne gratuits sur la plateforme atingi et soumettre un AgriCanvas via un formulaire en ligne. Les gagnants recevront jusqu'à 2 000 EUR de financement direct ainsi qu'un ordinateur portable, une tablette ou un logiciel. La date limite de soumission est fixée au 30 octobre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:31:55",
+    "slug": "bourse-agripreneur-cashew-2026"
+  },
+  {
+    "titre": "Bourse d'études supérieures NVIDIA",
+    "seo_slug": "bourse-nvidia-doctorat-2027",
+    "organisation": "NVIDIA",
+    "montant": 60000,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-30",
+    "deadline_texte": "30 octobre 2026 (y compris les lettres de recommandation)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Informatique",
+      "Génie informatique",
+      "Architecture des systèmes",
+      "Génie électrique",
+      "Domaines connexes"
+    ],
+    "pays_eligibles": [
+      "États-Unis",
+      "Canada",
+      "Allemagne",
+      "Suède",
+      "Finlande",
+      "Suisse",
+      "Israël",
+      "Taïwan",
+      "Singapour"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Proposition de recherche (2 pages max, plus bibliographie)",
+      "CV ou resume",
+      "2 à 3 lettres de recommandation (dont une de votre directeur de thèse)",
+      "Confirmation de disponibilité pour un stage d'été en personne"
+    ],
+    "avantages": [
+      "Financement de recherche jusqu'à 60 000 $ par bourse",
+      "Collaboration avec des chercheurs NVIDIA",
+      "Stage d'été en personne obligatoire",
+      "Présentation à la GTC San Jose"
+    ],
+    "eligibilite": [
+      "Avoir complété sa première année d'études doctorales avant de postuler",
+      "Être inscrit en doctorat à temps plein et actif pendant les neuf mois de l'année de bourse",
+      "Ne pas prévoir d'obtenir son diplôme avant la fin de l'année universitaire de la bourse",
+      "Être disponible pour un stage d'été en personne dans un bureau de recherche NVIDIA éligible avant le début de l'année de bourse",
+      "Les employés à temps plein de NVIDIA et les membres de leur famille immédiate ne peuvent pas participer",
+      "L'université doit administrer la bourse (le paiement est versé à l'université, pas directement à l'étudiant)"
+    ],
+    "procedure_etapes": [
+      "1. Créer votre profil sur le portail de soumission",
+      "2. Ajouter vos documents de candidature (proposition de recherche, CV, confirmation de stage)",
+      "3. Inviter vos recommandateurs (demandez-leur d'abord, puis ajoutez leurs coordonnées dans le portail)",
+      "4. Vérifier chaque lettre de recommandation et relancer jusqu'à ce que toutes soient marquées comme 'complétées'",
+      "5. Soumettre la candidature finale une fois que tous les documents et lettres sont complets"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://webportalapp.com/sp/nvidia_grad_fellow_2027"
+      },
+      {
+        "label": "Page officielle de la bourse",
+        "url": "https://research.nvidia.com/graduate-fellowships"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://research.nvidia.com/graduate-fellowships#faq"
+      },
+      {
+        "label": "Rencontrer les boursiers",
+        "url": "https://research.nvidia.com/graduate-fellowships#fellows"
+      }
+    ],
+    "mots_cles": [
+      "bourse NVIDIA",
+      "bourse doctorat",
+      "bourse informatique",
+      "bourse génie électrique",
+      "bourse États-Unis",
+      "bourse 2027",
+      "financement recherche",
+      "bourse internationale"
+    ],
+    "lien_candidature": "https://webportalapp.com/sp/nvidia_grad_fellow_2027",
+    "source_url": "https://research.nvidia.com/graduate-fellowships?fbclid=IwY2xjawUvz-dleHRuA2FlbQIxMABwZG9mAWJyaWQRMVVHQVk4NmNDb2p0V3JtNEVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeshduBSSPXl6f806hkTaL9GOci8KpkC9F6BVwposvnU_H6Qt32yuaUHyRG_A_aem_iaJ8Zf_7d1o6qZ40y2yH_g",
+    "statut": "fermé",
+    "resume": "La bourse d'études supérieures NVIDIA offre jusqu'à 60 000 $ par bourse pour financer des recherches doctorales qui font progresser le calcul accéléré. Les boursiers collaborent avec des chercheurs NVIDIA et effectuent un stage d'été en personne obligatoire avant l'année de la bourse. Les candidatures pour l'année 2027-2028 sont ouvertes du 30 septembre 2026 au 30 octobre 2026. Cette opportunité prestigieuse permet aux doctorants de travailler sur des projets de pointe et de présenter leurs recherches à la GTC San Jose.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-05T00:37:16",
+    "slug": "bourse-nvidia-doctorat-2027"
+  },
+  {
+    "titre": "Bourses de recherche et de troisième cycle de la London School of Hygiene & Tropical Medicine (LSHTM)",
+    "seo_slug": "bourses-lshtm-recherche-2026-2027",
+    "organisation": "London School of Hygiene & Tropical Medicine (LSHTM)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-30",
+    "deadline_texte": "30 octobre 2026 (date limite pour les bourses ESRC UBEL DTP 2027-28). D'autres bourses ont des dates limites différentes : 20 octobre 2026 pour les bourses Commonwealth PhD, 1er octobre 2026 pour la bourse NIHR et la bourse LSHTM-Royal Society (ces deux dernières sont déjà fermées).",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Santé publique",
+      "Médecine",
+      "Recherche en santé"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [
+      "Les critères d'éligibilité varient selon la bourse ; voir l'annonce pour plus de détails.",
+      "Les candidats doivent satisfaire aux critères essentiels spécifiques à chaque bourse.",
+      "Les bourses sont ouvertes aux candidats internationaux pour certaines opportunités (ex. UKRI).",
+      "Les candidatures de personnes issues de la diversité (Black, Asian, Ethnic Minority, première génération) sont particulièrement encouragées."
+    ],
+    "procedure_etapes": [
+      "1. Consulter le tableau des bourses pour identifier les opportunités ouvertes.",
+      "2. Lire l'annonce détaillée de chaque bourse pour connaître les critères d'éligibilité et les modalités.",
+      "3. Consulter la page FAQ sur les candidatures en ligne aux bourses.",
+      "4. Contacter l'équipe des bourses pour toute question.",
+      "5. Soumettre la candidature avant la date limite indiquée dans l'annonce."
+    ],
+    "contacts": [
+      "https://www.lshtm.ac.uk/cdn-cgi/l/email-protection#97e4f4fff8fbf6e5e4fffee7e4d7fbe4ffe3fab9f6f4b9e2fc"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Visitez le site : Page des bourses de recherche et de troisième cycle",
+        "url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/research-degree-funding"
+      },
+      {
+        "label": "FAQ sur les candidatures en ligne aux bourses",
+        "url": "https://www.lshtm.ac.uk/study/frequently-asked-questions/scholarship-faqs/scholarship-online-application-faqs"
+      },
+      {
+        "label": "Contact de l'équipe des bourses",
+        "url": "https://www.lshtm.ac.uk/cdn-cgi/l/email-protection#97e4f4fff8fbf6e5e4fffee7e4d7fbe4ffe3fab9f6f4b9e2fc"
+      },
+      {
+        "label": "Bourses UKRI",
+        "url": "https://www.ukri.org/apply-for-funding/ukri-funded-studentships/"
+      },
+      {
+        "label": "Déclaration de LSHTM sur le recrutement international UKRI",
+        "url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/ukri-international-recruitment-lshtm"
+      },
+      {
+        "label": "Bourses ESRC UBEL DTP 2027-28",
+        "url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/2027-ucl-bloomsbury-east-london-dtp-esrc-research-studentships"
+      },
+      {
+        "label": "Bourses Commonwealth PhD 2027-28",
+        "url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/"
+      },
+      {
+        "label": "Bourse NIHR Vaccine Effectiveness 2026-27",
+        "url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/2026-27-nihr-funded-phd-studentship-waning-vaccine-effectiveness"
+      },
+      {
+        "label": "Bourse LSHTM-Royal Society PhD 2026-27",
+        "url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/2026-27-lshtm-royal-society-phd-scholarship"
+      },
+      {
+        "label": "Inscription à la newsletter Vector",
+        "url": "https://www.lshtm.ac.uk/study/vector-newsletter"
+      }
+    ],
+    "mots_cles": [
+      "bourse LSHTM",
+      "bourse doctorat santé publique",
+      "bourse recherche médicale",
+      "bourse internationale 2026",
+      "bourse Commonwealth PhD",
+      "bourse ESRC",
+      "financement thèse",
+      "bourse Royaume-Uni"
+    ],
+    "lien_candidature": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/research-degree-funding",
+    "source_url": "https://www.lshtm.ac.uk/study/fees-and-funding/funding-scholarships/research-degree-funding?fbclid=IwY2xjawU6RFlleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEePNRxcNf_iSQe9gdMmO7Ieba9lJUugFDGi5pSc7ruvvwP7vwWk4Ix-Uuy55g_aem_uQ6xSdd_S7pqOh1xfgDBxQ",
+    "statut": "fermé",
+    "resume": "La London School of Hygiene & Tropical Medicine (LSHTM) propose plusieurs bourses de recherche et de troisième cycle pour l'année académique 2026-2027 et au-delà. Ces financements couvrent divers domaines de la santé publique et de la médecine, avec des opportunités pour les étudiants internationaux. Les candidats sont invités à consulter régulièrement le tableau des bourses, car de nouvelles opportunités sont ajoutées au fur et à mesure. Les dates limites varient selon les programmes, allant d'octobre à novembre 2026.",
+    "imageUrl": "/docs/Financement-et-bourses-d-tudes-pour-les-dipl-mes-de-recherche.webp",
+    "extrait_le": "2026-10-13T00:57:18",
+    "slug": "bourses-lshtm-recherche-2026-2027"
+  },
+  {
+    "titre": "Bourse de la Fondation Saïd pour les études supérieures 2027/28",
+    "seo_slug": "bourse-said-foundation-2027",
+    "organisation": "Saïd Foundation",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-30",
+    "deadline_texte": "30 octobre 2026 à 17h00 (heure du Royaume-Uni)",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Références",
+      "Documents requis (voir lien)"
+    ],
+    "avantages": [
+      "Bourse complète (frais de scolarité, allocation, etc.)"
+    ],
+    "eligibilite": [
+      "Critères d'éligibilité détaillés sur le site",
+      "Exigence de langue anglaise",
+      "Références requises"
+    ],
+    "procedure_etapes": [
+      "1. Lire attentivement les informations sur le site",
+      "2. Vérifier les critères d'éligibilité",
+      "3. Préparer les documents requis",
+      "4. Remplir le formulaire de candidature en ligne",
+      "5. Soumettre la candidature avant la date limite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://saidfoundation.fullfabric.com/templates/6a709af76ab728c07a7eb211/start"
+      },
+      {
+        "label": "À propos des bourses",
+        "url": "https://saidfoundation.org/scholarships/"
+      },
+      {
+        "label": "Critères d'éligibilité",
+        "url": "https://saidfoundation.org/the-eligibility-criteria/"
+      },
+      {
+        "label": "Exigences linguistiques en anglais",
+        "url": "https://saidfoundation.org/english-language-requirements/"
+      },
+      {
+        "label": "Références",
+        "url": "https://saidfoundation.org/about-references/"
+      },
+      {
+        "label": "Documents requis",
+        "url": "https://saidfoundation.org/required-documents/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://saidfoundation.org/scholarship-faqs/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Said Foundation",
+      "bourse études supérieures",
+      "bourse 2027",
+      "bourse master",
+      "bourse doctorat",
+      "financement études",
+      "bourse internationale"
+    ],
+    "lien_candidature": "https://saidfoundation.fullfabric.com/templates/6a709af76ab728c07a7eb211/start",
+    "source_url": "https://saidfoundation.org/apply/?fbclid=IwY2xjawVMdGhleHRuA2FlbQIxMABwZG9mAWJyaWQRMXBXdnRlVEx2MHh5VkdNQkFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe1YIEe8_e0V5-A1I-UoafrRR4_g1U7qMAJvktf0BFvRdYCVYgkmAIv-cMoyQ_aem_yPpkhYqFzWyvb6WJwB4v5A",
+    "statut": "fermé",
+    "resume": "La Fondation Saïd offre des bourses complètes pour les études supérieures (master et doctorat) au Royaume-Uni. Les candidatures pour l'année académique 2027/28 sont ouvertes jusqu'au 30 octobre 2026 à 17h00 (heure du Royaume-Uni). Les candidats doivent satisfaire aux critères d'éligibilité, aux exigences linguistiques en anglais et fournir les documents requis. Pour plus d'informations, consultez le site officiel.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-26T19:00:46",
+    "slug": "bourse-said-foundation-2027"
+  },
+  {
+    "titre": "Bourses de recherche pour diplômés - Université de Melbourne",
+    "seo_slug": "bourse-recherche-melbourne-2026",
+    "organisation": "University of Melbourne",
+    "montant": 39500,
+    "devise": "AUD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-31",
+    "deadline_texte": "31 octobre 2026",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences agricoles et vétérinaires",
+      "Architecture, bâtiment, urbanisme et design",
+      "Arts, sciences humaines et sociales",
+      "Commerce et économie",
+      "Éducation",
+      "Ingénierie",
+      "Environnement",
+      "Santé",
+      "Technologies de l'information et informatique",
+      "Droit",
+      "Musique, arts visuels et du spectacle",
+      "Sciences"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Candidature au cours de recherche",
+      "Formulaire en ligne (pour étudiants différés ou actuels)"
+    ],
+    "avantages": [
+      "Exonération totale des frais de scolarité",
+      "Allocation de subsistance de 39 500 AUD par an",
+      "Prime de réinstallation de 2 000 AUD (déplacement depuis un autre État/territoire) ou 3 000 AUD (depuis l'étranger)",
+      "Couverture santé OSHC pour étudiants internationaux"
+    ],
+    "eligibilite": [
+      "Avoir postulé et satisfaire aux conditions d'admission à un diplôme de recherche supérieure à l'Université de Melbourne",
+      "Être actuellement inscrit dans un diplôme de recherche supérieure à l'Université de Melbourne",
+      "Être un étudiant national ou international"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un cours de recherche supérieure (Master par recherche ou Doctorat) à l'Université de Melbourne avant la date limite de candidature du cours.",
+      "2. Si vous êtes un nouvel étudiant, vous serez automatiquement considéré pour la bourse après avoir soumis votre candidature au cours.",
+      "3. Si vous avez accepté une offre de cours et différé votre commencement, soumettez le formulaire en ligne avant le 31 octobre pour être considéré l'année suivante.",
+      "4. Si vous êtes actuellement inscrit, soumettez le formulaire en ligne avant le 31 octobre pour être considéré l'année suivante.",
+      "5. Attendez la notification de l'ajout de la candidature à votre dossier (sous 10 jours ouvrés).",
+      "6. Les offres de bourses avec allocation et exonération sont faites séparément, généralement en même temps que les offres de cours."
+    ],
+    "contacts": [
+      "+61 3 9035 5511"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships"
+      },
+      {
+        "label": "Gérer ma bourse",
+        "url": "https://gradresearch.unimelb.edu.au/scholarships"
+      },
+      {
+        "label": "Conditions générales des bourses de recherche pour diplômés",
+        "url": "https://gradresearch.unimelb.edu.au/scholarships/graduate-research-scholarship-terms-and-conditions"
+      },
+      {
+        "label": "Guide des bourses",
+        "url": "https://scholarships.unimelb.edu.au/guide"
+      },
+      {
+        "label": "Comment postuler à un cours de recherche supérieure",
+        "url": "https://study.unimelb.edu.au/how-to-apply/graduate-research"
+      },
+      {
+        "label": "Formulaire de candidature en ligne (pour étudiants différés ou actuels)",
+        "url": "https://unimelb_admissions_scholarships.formstack.com/forms/graduate_research_scholarships_application"
+      }
+    ],
+    "mots_cles": [
+      "bourse recherche Melbourne",
+      "bourse doctorat Australie",
+      "bourse master recherche",
+      "University of Melbourne scholarship",
+      "bourse internationale Australie",
+      "Graduate Research Scholarship",
+      "bourse RTP",
+      "bourse MRS"
+    ],
+    "lien_candidature": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
+    "source_url": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
+    "statut": "fermé",
+    "resume": "Les bourses de recherche pour diplômés de l'Université de Melbourne offrent une exonération totale des frais de scolarité et une allocation de subsistance pouvant atteindre 135 000 AUD sur la durée du programme. Destinées aux étudiants nationaux et internationaux de haut niveau inscrits en Master par recherche ou Doctorat, elles incluent également une prime de réinstallation et une couverture santé. La candidature est automatique pour les nouveaux étudiants, tandis que les étudiants actuels ou différés doivent soumettre un formulaire en ligne avant le 31 octobre.",
+    "adresse": "The University of Melbourne Grattan Street, Parkville Victoria 3010 Australia",
+    "extrait_le": "2026-06-15T02:58:04",
+    "slug": "bourse-recherche-melbourne-2026"
+  },
+  {
+    "titre": "Programme de bourses Mastercard Foundation à l'Université du Cap",
+    "seo_slug": "bourse-mastercard-foundation-afrique-2027",
+    "organisation": "Mastercard Foundation & University of Cape Town",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-10-31",
+    "deadline_texte": "30 septembre 2026 pour les candidatures au premier cycle (undergraduate) et 31 octobre 2026 pour les candidatures aux cycles supérieurs (postgraduate)",
+    "niveau_etudes": [
+      "Licence",
+      "Diplôme postgraduate",
+      "Honours",
+      "Master"
+    ],
+    "domaines": [
+      "Commerce",
+      "Ingénierie et environnement bâti",
+      "Sciences de la santé",
+      "Sciences humaines",
+      "Droit",
+      "Sciences"
+    ],
+    "pays_eligibles": [
+      "Afrique",
+      "Afrique du Sud"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse complète",
+      "Soutien complet",
+      "Développement du leadership",
+      "Mentorat",
+      "Développement de carrière",
+      "Engagement communautaire"
+    ],
+    "eligibilite": [
+      "Être citoyen d'un pays africain, y compris l'Afrique du Sud",
+      "Postuler pour un premier diplôme de bachelor ou un programme postgraduate éligible à l'UCT (diplôme postgraduate offert par la Faculté des sciences de la santé, honours offert par l'une des six facultés, ou master avec cours offert par l'une des six facultés)",
+      "Démontrer un talent académique et un engagement envers l'excellence",
+      "Faire face à des barrières sociales et économiques importantes pour accéder à l'enseignement supérieur",
+      "Démontrer un potentiel de leadership transformateur et éthique",
+      "Être engagé à servir sa communauté et à contribuer au changement positif"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le site web de l'UCT pour obtenir des informations sur les options d'études : https://uct.ac.za/applicants-and-students",
+      "2. Soumettre votre demande à l'Université du Cap à : applyonline.uct.ac.za",
+      "3. Soumettre votre demande au Programme de bourses Mastercard Foundation à : www.uct.ac.za/mastercardfdn"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://www.uct.ac.za/mastercardfdn"
+      },
+      {
+        "label": "Formulaire de candidature au programme",
+        "url": "https://uct.ac.za/mastercardfdn/application-form"
+      },
+      {
+        "label": "Portail de candidature à l'UCT",
+        "url": "https://publicaccess.uct.ac.za/psc/public/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?LP=UCT_ONLINE_APP_PUBLIC&"
+      },
+      {
+        "label": "Informations sur les options d'études à l'UCT",
+        "url": "https://uct.ac.za/applicants-and-students"
+      },
+      {
+        "label": "African Climate & Development Initiative",
+        "url": "https://acdi.uct.ac.za/education/acdi-masters-climate-change-and-development"
+      },
+      {
+        "label": "Healthy Futures South Africa (HFSA)",
+        "url": "https://health.uct.ac.za/hfsa"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://uct.ac.za/mastercardfdn/frequently-asked-questions"
+      },
+      {
+        "label": "Contact",
+        "url": "https://uct.ac.za/mastercardfdn/contact-us"
+      }
+    ],
+    "mots_cles": [
+      "bourse Mastercard Foundation",
+      "bourse Afrique",
+      "bourse UCT",
+      "bourse master Afrique",
+      "bourse licence Afrique",
+      "bourse études supérieures",
+      "bourse 2027",
+      "bourse complète",
+      "bourse leadership",
+      "bourse développement communautaire"
+    ],
+    "lien_candidature": "https://uct.ac.za/mastercardfdn/application-form",
+    "source_url": "https://www.uct.ac.za/mastercardfdn/apply-mastercard-foundation-scholars-program?fbclid=IwY2xjawUezlxwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeG2o7ij6JTsSa6X13cpx7dB1yEI6y0teB9yf7WD4h-EAtiETe_FBR5_jaOxw_aem_8VsiEp2FjiOZNfQvSBxUpA",
+    "statut": "fermé",
+    "resume": "Le Programme de bourses Mastercard Foundation à l'Université du Cap (UCT) offre des bourses complètes et un soutien global à de jeunes leaders africains talentueux confrontés à des obstacles sociaux et économiques. Ce programme permet de poursuivre un premier diplôme de bachelor ou un programme postgraduate éligible à l'UCT, tout en développant son potentiel de leadership éthique et en rejoignant un réseau de changement. Les candidatures pour l'admission en 2027 sont ouvertes, avec des dates limites fixées au 30 septembre 2026 pour le premier cycle et au 31 octobre 2026 pour les cycles supérieurs. C'est une opportunité unique de bénéficier d'une éducation de classe mondiale et de contribuer positivement à sa communauté.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-22T03:01:01",
+    "slug": "bourse-mastercard-foundation-afrique-2027"
   },
   {
     "titre": "Bourse Rhodes 2027 pour les candidats internationaux (hors pays spécifiques)",

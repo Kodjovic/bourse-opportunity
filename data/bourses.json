@@ -1,797 +1,5 @@
 [
   {
-    "titre": "Fonds Weiss pour la recherche en économie du développement",
-    "seo_slug": "bourse-weiss-economie-developpement-2026",
-    "organisation": "Weiss Fund for Research in Development Economics (University of Chicago)",
-    "montant": null,
-    "devise": "USD",
-    "type_financement": "subvention de recherche",
-    "deadline": "2026-11-01",
-    "deadline_texte": "1er novembre 2026 (cycle glissant de novembre). Autres dates limites pour les cycles glissants : 1er février 2027 et 1er mai 2027. Les candidatures pour le cycle d'automne 2026 sont désormais closes. Les candidatures pour le cycle de printemps ouvriront en février.",
-    "niveau_etudes": [
-      "Doctorat",
-      "Post-doctorat",
-      "Enseignant-chercheur"
-    ],
-    "domaines": [
-      "Économie du développement",
-      "Économie",
-      "Sciences sociales"
-    ],
-    "pays_eligibles": [
-      "Pays en développement",
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [],
-    "avantages": [
-      "Financement de projets de recherche en économie du développement",
-      "Subventions de recherche (montants variables selon le type de projet)",
-      "Subventions de voyage et de pilotage",
-      "Subventions de mise en œuvre et de politique"
-    ],
-    "eligibilite": [
-      "Étudiants et enseignants-chercheurs (ladder faculty) travaillant en économie du développement",
-      "Projets traitant d'un large éventail de problématiques affectant les pays moins développés",
-      "Les candidatures incomplètes ne seront pas examinées et aucune prolongation ne sera accordée"
-    ],
-    "procedure_etapes": [
-      "1. Consulter la page d'éligibilité pour vérifier les critères",
-      "2. Choisir le type de subvention approprié (recherche, voyage et pilotage, mise en œuvre et politique)",
-      "3. Déterminer le cycle de candidature (cycle glissant pour les demandes ≤ 25 000 $, cycles de printemps et d'automne pour les demandes > 25 000 $)",
-      "4. Soumettre la candidature via le portail en ligne WizeHive",
-      "5. Consulter la page FAQ pour toute question supplémentaire"
-    ],
-    "contacts": [
-      "weissfund@uchicago.edu"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Visitez le site : https://weissfund.wizehive.app/program/weiss-rolling-call-november-2026/applicant/application/info",
-        "url": "https://weissfund.wizehive.app/program/weiss-rolling-call-november-2026/applicant/application/info"
-      },
-      {
-        "label": "Page d'éligibilité",
-        "url": "https://weissfund.uchicago.edu/eligibility/"
-      },
-      {
-        "label": "Subventions de recherche",
-        "url": "https://weissfund.uchicago.edu/apply/research/"
-      },
-      {
-        "label": "Subventions de voyage et de pilotage",
-        "url": "https://weissfund.uchicago.edu/apply/travel-and-piloting/"
-      },
-      {
-        "label": "Subventions de mise en œuvre et de politique",
-        "url": "https://weissfund.uchicago.edu/implementation-and-policy/"
-      },
-      {
-        "label": "Portail de candidature (cycle glissant de novembre 2026)",
-        "url": "https://weissfund.wizehive.app/program/weiss-rolling-call-november-2026/applicant/application/info"
-      },
-      {
-        "label": "FAQ",
-        "url": "https://weissfund.uchicago.edu/funding-faq/"
-      }
-    ],
-    "mots_cles": [
-      "bourse économie du développement",
-      "subvention recherche développement",
-      "Weiss Fund",
-      "financement recherche pays en développement",
-      "bourse doctorat économie",
-      "subvention voyage recherche",
-      "bourse post-doctorat économie",
-      "financement projet développement"
-    ],
-    "lien_candidature": "https://weissfund.wizehive.app/program/weiss-rolling-call-november-2026/applicant/application/info",
-    "source_url": "https://weissfund.uchicago.edu/applying-for-funding/?utm_id=97758_v0_s00_e0_tv1_a1den1nhp6a39u&fbclid=IwY2xjawUmiDxleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeDKirpGQ0bNhgoVsLwac-NbaQQZ_6vCRzaIGYJdcivSAO7WseXYP88NWTxkY_aem_Z_0akOwglKcd7JnJLYdoVA",
-    "statut": "ouvert",
-    "resume": "Le Fonds Weiss pour la recherche en économie du développement soutient les projets de recherche d'étudiants et d'enseignants-chercheurs travaillant dans le domaine de l'économie du développement, au sens large. Le programme finance des projets abordant un large éventail de problématiques affectant les pays moins développés. Les candidatures sont acceptées via des cycles glissants pour les demandes de 25 000 $ ou moins, et via des cycles de printemps et d'automne pour les demandes supérieures à 25 000 $. La prochaine date limite pour le cycle glissant de novembre est fixée au 1er novembre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-27T23:40:58",
-    "slug": "bourse-weiss-economie-developpement-2026"
-  },
-  {
-    "titre": "Bourse de voyage de recherche FEEGI 2026",
-    "seo_slug": "bourse-voyage-recherche-feegi-2026",
-    "organisation": "FEEGI (Forum on European Expansion and Global Interaction)",
-    "montant": 1000,
-    "devise": "USD",
-    "type_financement": "bourse partielle",
-    "deadline": "2026-11-01",
-    "deadline_texte": "1er novembre 2026",
-    "niveau_etudes": [
-      "Doctorat",
-      "Master",
-      "Post-doctorat"
-    ],
-    "domaines": [
-      "Histoire",
-      "Études coloniales",
-      "Études globales",
-      "Sciences humaines"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "CV (2 pages maximum)",
-      "Description du projet (500-750 mots)",
-      "Budget détaillé"
-    ],
-    "avantages": [
-      "Bourse de 1000 $ pour frais de voyage",
-      "Deux bourses disponibles"
-    ],
-    "eligibilite": [
-      "Être membre en règle de FEEGI",
-      "Ouvert aux étudiants diplômés, chercheurs indépendants et professeurs non titulaires"
-    ],
-    "procedure_etapes": [
-      "1. Renouveler ou devenir membre de FEEGI",
-      "2. Préparer un CV (2 pages max)",
-      "3. Rédiger une description de projet (500-750 mots)",
-      "4. Établir un budget détaillé",
-      "5. Compiler tous les documents en un seul fichier",
-      "6. Envoyer le dossier par email aux membres du comité",
-      "7. Utiliser l'objet : 'FEEGI Research Travel Award'"
-    ],
-    "contacts": [
-      "oliviabarnard@ufl.edu",
-      "fichter@hku.hk",
-      "jokct@hku.hk",
-      "Daniel.Livesay@ClaremontMcKenna.edu"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel de FEEGI",
-        "url": "https://feegi.org/"
-      },
-      {
-        "label": "Page des bourses",
-        "url": "https://feegi.org/awards.html"
-      },
-      {
-        "label": "Adhésion à FEEGI",
-        "url": "https://feegi.org/membership.html"
-      }
-    ],
-    "mots_cles": [
-      "bourse FEEGI",
-      "bourse voyage recherche",
-      "bourse histoire 2026",
-      "bourse études coloniales",
-      "financement recherche",
-      "bourse pour doctorants",
-      "bourse pour chercheurs indépendants",
-      "bourse pour professeurs non titulaires"
-    ],
-    "lien_candidature": "https://feegi.org/awards.html",
-    "source_url": "https://feegi.org/awards.html?fbclid=IwY2xjawUmiKRleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe14MyH2OBZM6uf1Pbt4Y5ZvbR0Fif5Y78hD1WCzEJnKmIbBkWIPuJhZf1vxE_aem_ZmFrZWR1bW15MTZieXRlcw",
-    "statut": "ouvert",
-    "resume": "La bourse de voyage de recherche FEEGI 2026 offre deux subventions de 1000 $ chacune pour soutenir les déplacements vers des sites d'archives ou de terrain. Ouverte aux membres de FEEGI, elle cible particulièrement les étudiants diplômés, les chercheurs indépendants et les professeurs non titulaires. Les candidats doivent soumettre un CV, une description de projet et un budget avant le 1er novembre 2026. Les lauréats seront annoncés à la mi-décembre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-27T23:41:45",
-    "slug": "bourse-voyage-recherche-feegi-2026"
-  },
-  {
-    "titre": "Bourse commémorative Mikko Luke Immonen en archéologie africaine",
-    "seo_slug": "bourse-mikko-luke-immonen-archeologie-afrique-2026",
-    "organisation": "Archaeological Institute of America (AIA)",
-    "montant": 10000,
-    "devise": "USD",
-    "type_financement": "bourse de recherche",
-    "deadline": "2026-11-01",
-    "deadline_texte": "1er novembre 2026 (tous les documents doivent être reçus à l'AIA à cette date)",
-    "niveau_etudes": [
-      "Doctorat",
-      "Post-doctorat"
-    ],
-    "domaines": [
-      "Archéologie",
-      "Études africaines"
-    ],
-    "pays_eligibles": [
-      "Afrique",
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature",
-      "Lettre de soutien du détenteur du permis (si applicable)",
-      "Références",
-      "Relevés de notes (si applicable)"
-    ],
-    "avantages": [
-      "Financement jusqu'à 10 000 USD",
-      "Frais de garde d'enfants ou de soins aux personnes âgées (si justifiés)"
-    ],
-    "eligibilite": [
-      "Mener ou planifier une recherche active sur le continent africain",
-      "Les candidats hors Afrique doivent être membres actuels de l'AIA au niveau Graduate ou Professional",
-      "Les candidats résidant en Afrique peuvent postuler sans adhésion active à l'AIA mais devront devenir membres s'ils sont sélectionnés (frais peuvent être inclus dans le budget)",
-      "Les récipiendaires titulaires d'un doctorat doivent devenir membres professionnels de l'AIA",
-      "Les récipiendaires étudiants de troisième cycle doivent devenir membres étudiants de l'AIA",
-      "Être affilié à un établissement d'enseignement supérieur dans un programme accrédité de troisième cycle ou postdoctoral en archéologie ou discipline connexe",
-      "Si le projet nécessite un permis, démontrer la capacité de l'obtenir ou inclure une lettre de soutien du détenteur principal du permis",
-      "Les lauréats doivent avoir le permis en main ou avoir pris des dispositions alternatives avec le bureau de l'AIA avant le décaissement des fonds",
-      "Les lauréats doivent soumettre un rapport formel à l'AIA à la fin de la période de bourse",
-      "Après la bourse, les récipiendaires doivent soumettre un résumé de poster ou d'article au comité de programme de l'AIA dans les deux ans",
-      "Pour les projets générant des données numériques, la publication du jeu de données est encouragée, idéalement en accès ouvert"
-    ],
-    "procedure_etapes": [
-      "Vérifier les exigences et les directives de candidature",
-      "Remplir le formulaire de candidature en ligne",
-      "S'assurer que tous les documents (y compris références et relevés de notes) sont reçus par l'AIA avant la date limite",
-      "Soumettre la candidature"
-    ],
-    "contacts": [
-      "fellowships@archaeological.org"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://www.archaeological.org/programs/professionals/grants-awards/applications/application-the-mikko-luke-immonen-memorial-fellowship-in-african-archaeology/"
-      },
-      {
-        "label": "Exigences et directives de candidature",
-        "url": "https://www.archaeological.org/programs/professionals/grants-awards/fellowship-guide/"
-      },
-      {
-        "label": "Devenir membre de l'AIA",
-        "url": "https://www.archaeological.org/join/"
-      },
-      {
-        "label": "Contact",
-        "url": "https://www.archaeological.org/contact/"
-      }
-    ],
-    "mots_cles": [
-      "bourse archéologie Afrique",
-      "bourse recherche archéologique",
-      "bourse postdoctorale archéologie",
-      "bourse doctorale archéologie",
-      "financement recherche Afrique",
-      "AIA fellowship",
-      "bourse Mikko Luke Immonen",
-      "bourse 2026 archéologie"
-    ],
-    "lien_candidature": "https://www.archaeological.org/programs/professionals/grants-awards/applications/application-the-mikko-luke-immonen-memorial-fellowship-in-african-archaeology/",
-    "source_url": "https://www.archaeological.org/grant/the-mikko-luke-immonen-memorial-fellowship-in-african-archaeology/?fbclid=IwY2xjawUmiMtleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeDKirpGQ0bNhgoVsLwac-NbaQQZ_6vCRzaIGYJdcivSAO7WseXYP88NWTxkY_aem_Z_0akOwglKcd7JnJLYdoVA",
-    "statut": "ouvert",
-    "resume": "La bourse commémorative Mikko Luke Immonen en archéologie africaine, offerte par l'Archaeological Institute of America (AIA), soutient la recherche archéologique et les projets de terrain sur le continent africain menés par des étudiants de troisième cycle ou des post-doctorants. Le financement peut atteindre 10 000 USD et couvre également des dépenses liées à la garde d'enfants ou aux soins aux personnes âgées. Les candidats doivent mener ou planifier une recherche active en Afrique et être affiliés à un établissement d'enseignement supérieur. La date limite de candidature est le 1er novembre 2026, et les résultats seront annoncés avant le 1er mars.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-27T23:42:35",
-    "slug": "bourse-mikko-luke-immonen-archeologie-afrique-2026"
-  },
-  {
-    "titre": "Bourses de voyage Thomas H. Carpenter et Lynne C. Lancaster",
-    "seo_slug": "bourse-voyage-carpenter-lancaster-2026",
-    "organisation": "Archaeological Institute of America (AIA)",
-    "montant": 25000,
-    "devise": "USD",
-    "type_financement": "bourse de voyage",
-    "deadline": "2026-11-01",
-    "deadline_texte": "1er novembre 2026 (tous les documents de candidature, y compris les références et les relevés de notes, doivent être reçus par l'AIA à cette date)",
-    "niveau_etudes": [
-      "Doctorat",
-      "Post-doctorat"
-    ],
-    "domaines": [
-      "Archéologie",
-      "Études classiques",
-      "Histoire de l'art",
-      "Patrimoine culturel"
-    ],
-    "pays_eligibles": [
-      "États-Unis",
-      "Canada"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature",
-      "Références",
-      "Relevés de notes",
-      "Preuve de statut légal (si non-citoyen des États-Unis ou du Canada)",
-      "Rapport à la fin de la bourse",
-      "Résumé pour la conférence annuelle de l'AIA (dans les deux ans suivant la bourse)"
-    ],
-    "avantages": [
-      "Financement pouvant atteindre 25 000 USD",
-      "Frais de transport",
-      "Hébergement",
-      "Visas",
-      "Frais d'entrée",
-      "Assurance liée au voyage",
-      "Frais raisonnables pour la garde de personnes dépendantes et de membres âgés de la famille"
-    ],
-    "eligibilite": [
-      "Être étudiant diplômé inscrit dans une université américaine ou canadienne ou chercheur basé en Amérique du Nord ayant obtenu un doctorat dans les cinq ans précédant la candidature",
-      "Être résident légal des États-Unis ou du Canada au moment de l'attribution de la bourse",
-      "Fournir une preuve de statut légal si non-citoyen des États-Unis ou du Canada",
-      "Être membre actuel de l'AIA au niveau Graduate ou Professional",
-      "Le projet doit se situer géographiquement dans les limites de l'Empire romain et chronologiquement entre environ 1000 av. J.-C. et 1000 apr. J.-C.",
-      "Les projets nécessitant des séjours prolongés à l'étranger (minimum six semaines) et démontrant un fort potentiel pour faire avancer la recherche doctorale ou les publications sont préférés",
-      "Les fonds ne peuvent pas être utilisés pour les frais généraux institutionnels, les coûts de recouvrement administratif, les coûts indirects ou pour soutenir des projets de fouilles"
-    ],
-    "procedure_etapes": [
-      "Vérifier les conditions d'éligibilité et les exigences de la bourse",
-      "Devenir membre de l'AIA au niveau Graduate ou Professional (si ce n'est pas déjà fait)",
-      "Préparer tous les documents de candidature, y compris les références et les relevés de notes",
-      "Soumettre le formulaire de candidature en ligne avant la date limite du 1er novembre 2026",
-      "S'assurer que tous les documents sont reçus par l'AIA avant la date limite",
-      "Après l'attribution, utiliser les fonds pour le voyage de recherche entre le 1er mai de l'année d'attribution et le 30 septembre de l'année suivante",
-      "À la fin de la bourse, soumettre un rapport sur l'utilisation de la bourse au président du comité des bourses de l'AIA",
-      "Dans les deux ans suivant la bourse, soumettre un résumé au comité du programme pour être considéré pour une participation à la réunion annuelle de l'AIA"
-    ],
-    "contacts": [
-      "fellowships@archaeological.org"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://www.archaeological.org/programs/professionals/grants-awards/applications/application-aia-traveling-fellowships/"
-      },
-      {
-        "label": "Guide des bourses et directives de candidature",
-        "url": "https://www.archaeological.org/programs/professionals/grants-awards/fellowship-guide/"
-      },
-      {
-        "label": "Devenir membre de l'AIA",
-        "url": "https://www.archaeological.org/join/"
-      },
-      {
-        "label": "Page des bourses et prix de l'AIA",
-        "url": "https://www.archaeological.org/programs/professionals/grants-awards/"
-      }
-    ],
-    "mots_cles": [
-      "bourse archéologie",
-      "bourse voyage archéologie",
-      "bourse AIA",
-      "bourse doctorat archéologie",
-      "bourse post-doctorat archéologie",
-      "bourse études classiques",
-      "bourse patrimoine culturel",
-      "bourse États-Unis",
-      "bourse Canada",
-      "bourse 2026"
-    ],
-    "lien_candidature": "https://www.archaeological.org/programs/professionals/grants-awards/applications/application-aia-traveling-fellowships/",
-    "source_url": "https://www.archaeological.org/grant/thomas-h-carpenter-and-lynne-c-lancaster-traveling-fellowship/?fbclid=IwY2xjawUmiOZleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEedSSh3mO9sdO9wv-tqMqTd9UDgiApNFhUqycrYhQ-wjKsxIo8PZLJjOmeV5M_aem_3hADZ9phFwuqGnGc0ZSxXQ",
-    "statut": "ouvert",
-    "resume": "Les bourses de voyage Thomas H. Carpenter et Lynne C. Lancaster, offertes par l'Archaeological Institute of America (AIA), soutiennent les voyages d'étude à l'étranger pour les étudiants diplômés et les jeunes docteurs engagés dans la recherche archéologique et la publication. Le financement, pouvant atteindre 25 000 USD, couvre les dépenses liées au voyage (transport, hébergement, visas, etc.) pour des projets situés dans les limites de l'Empire romain et datant entre 1000 av. J.-C. et 1000 apr. J.-C. Les candidats doivent être membres de l'AIA et résider légalement aux États-Unis ou au Canada. La date limite de candidature est le 1er novembre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-27T23:43:03",
-    "slug": "bourse-voyage-carpenter-lancaster-2026"
-  },
-  {
-    "titre": "Bourse doctorale de Wellington",
-    "seo_slug": "bourse-doctorale-wellington-2026",
-    "organisation": "Université Victoria de Wellington",
-    "montant": 32000,
-    "devise": "NZD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-11-01",
-    "deadline_texte": "1er novembre 2026 à 16h30 (heure locale)",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Architecture",
-      "Commerce et Gouvernement",
-      "Innovation en design",
-      "Éducation",
-      "Ingénierie",
-      "Santé",
-      "Sciences humaines et sociales",
-      "Droit",
-      "Musique",
-      "Technologie",
-      "Sciences"
-    ],
-    "pays_eligibles": [
-      "Nouvelle-Zélande",
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne",
-      "Relevé de notes académique",
-      "Références académiques",
-      "Copie du relevé de notes des autres institutions (si applicable)"
-    ],
-    "avantages": [
-      "Allocation annuelle de 32 000 NZD",
-      "Frais de scolarité nationaux pris en charge",
-      "Durée maximale de trois ans"
-    ],
-    "eligibilite": [
-      "Être diplômé d'une université (en Nouvelle-Zélande ou à l'étranger)",
-      "Avoir l'intention de s'inscrire à temps plein pour un doctorat (PhD) ou avoir déjà commencé un doctorat à l'Université Victoria de Wellington",
-      "Ne pas déjà détenir un diplôme de doctorat",
-      "Avoir un excellent dossier académique et d'excellentes références académiques, ou un potentiel démontré pour une recherche de haute qualité, ou un record de publications dans des revues de haute qualité",
-      "Les membres du personnel académique de l'Université Victoria de Wellington ou de toute autre université ne sont pas éligibles"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les conditions et les exigences de candidature sur le site web",
-      "2. Soumettre une demande d'admission au doctorat à l'Université Victoria de Wellington",
-      "3. Remplir le formulaire de candidature en ligne pour la bourse",
-      "4. Fournir tous les documents justificatifs (relevés de notes, références) avant la date limite",
-      "5. Attendre la notification par email dans les six à huit semaines suivant la date de clôture"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Site officiel de la bourse",
-        "url": "https://www.wgtn.ac.nz/scholarships/current/wellington-doctoral-scholarships"
-      },
-      {
-        "label": "Page d'application pour le doctorat",
-        "url": "https://www.wgtn.ac.nz/fgr/apply"
-      }
-    ],
-    "mots_cles": [
-      "bourse doctorale",
-      "Nouvelle-Zélande",
-      "Wellington",
-      "PhD",
-      "bourse complète",
-      "études doctorales",
-      "financement recherche",
-      "université Victoria"
-    ],
-    "lien_candidature": "https://www.wgtn.ac.nz/scholarships/current/wellington-doctoral-scholarships",
-    "source_url": "https://www.wgtn.ac.nz/scholarships/current/wellington-doctoral-scholarships?fbclid=IwY2xjawUqDVRleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeDdnmK5CaRIhQS3wG3hNcjMeDfER9Uqna-crkmrF6zJn0QCY6ccjXuYSjar0_aem_QtVVqZFji_ZF0qjAJAs4FA",
-    "statut": "ouvert",
-    "resume": "La bourse doctorale de Wellington, offerte par l'Université Victoria de Wellington, soutient les étudiants exceptionnels poursuivant un doctorat (PhD) dans diverses disciplines. Elle offre une allocation annuelle de 32 000 NZD et couvre les frais de scolarité nationaux pour une durée maximale de trois ans. Ouverte aux étudiants nationaux et internationaux, elle est attribuée sur la base du mérite académique et du potentiel de recherche. Les candidatures sont acceptées trois fois par an, avec des dates limites les 1er mars, 1er juillet et 1er novembre.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-30T15:45:02",
-    "slug": "bourse-doctorale-wellington-2026"
-  },
-  {
-    "titre": "Bourse de Master Sir Paul Callaghan en Physique Expérimentale ou Ingénierie",
-    "seo_slug": "bourse-sir-paul-callaghan-master-physique-2026",
-    "organisation": "Te Herenga Waka—Victoria University of Wellington",
-    "montant": 15000,
-    "devise": "NZD",
-    "type_financement": "bourse partielle",
-    "deadline": "2026-11-01",
-    "deadline_texte": "1 novembre 2026 à 16h30",
-    "niveau_etudes": [
-      "Master"
-    ],
-    "domaines": [
-      "Physique expérimentale",
-      "Ingénierie"
-    ],
-    "pays_eligibles": [
-      "International",
-      "Nouvelle-Zélande"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne",
-      "Relevé de notes académique",
-      "Déclaration d'intérêts de recherche",
-      "Référence académique"
-    ],
-    "avantages": [
-      "Contribution aux frais de scolarité",
-      "Stipendiaire (versement unique)"
-    ],
-    "eligibilite": [
-      "Être inscrit ou avoir l'intention de s'inscrire à un Master par thèse à Te Herenga Waka—Victoria University of Wellington",
-      "Mener des recherches en physique expérimentale ou en ingénierie, ou dans un domaine étroitement lié",
-      "Idéalement, être titulaire d'un diplôme de premier cycle avec mention très bien en physique ou en ingénierie électronique"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier les critères d'éligibilité et les documents requis",
-      "2. Préparer la déclaration d'intérêts de recherche, la référence académique et le relevé de notes",
-      "3. Soumettre la candidature en ligne avant la date limite",
-      "4. S'assurer que tous les documents justificatifs sont reçus avant la date limite"
-    ],
-    "contacts": [
-      "scholarships-office@vuw.ac.nz",
-      "Petrik.Galvosas@vuw.ac.nz",
-      "0800 04 04 04"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Page de la bourse",
-        "url": "https://www.wgtn.ac.nz/scholarships/current/sir-paul-callaghan-magnetic-resonance-masters-scholarship-in-physics-or-engineering"
-      },
-      {
-        "label": "Bureau des bourses",
-        "url": "https://www.wgtn.ac.nz/scholarships/scholarships-office"
-      }
-    ],
-    "mots_cles": [
-      "bourse Sir Paul Callaghan",
-      "master physique expérimentale",
-      "bourse ingénierie",
-      "bourse Nouvelle-Zélande",
-      "bourse master 2026",
-      "bourse recherche",
-      "Victoria University of Wellington",
-      "bourse internationale"
-    ],
-    "lien_candidature": "https://www.wgtn.ac.nz/scholarships/current/sir-paul-callaghan-magnetic-resonance-masters-scholarship-in-physics-or-engineering",
-    "source_url": "https://www.wgtn.ac.nz/scholarships/current/sir-paul-callaghan-magnetic-resonance-masters-scholarship-in-physics-or-engineering?fbclid=IwY2xjawUqDsRleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe7yq_tfb5khgktANgPvOXwaaJEuiZJjcnLJevtl9Cfv3A9Nh6ysHZ0OxqNQc_aem_lnDqrLoqxe54mW0Ah4G46g",
-    "statut": "ouvert",
-    "resume": "La bourse Sir Paul Callaghan en physique expérimentale ou ingénierie est offerte par Te Herenga Waka—Victoria University of Wellington pour soutenir la recherche de master dans ces domaines. D'une valeur de 15 000 $, elle est ouverte aux étudiants internationaux et néo-zélandais. Les candidats doivent être inscrits ou prévoir de s'inscrire à un master par thèse et mener des recherches en physique expérimentale ou en ingénierie. La date limite de candidature est fixée au 1er novembre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-30T15:51:25",
-    "slug": "bourse-sir-paul-callaghan-master-physique-2026"
-  },
-  {
-    "titre": "Bourse conjointe CHS-Institut de Recherche Historique en Études Helléniques",
-    "seo_slug": "bourse-chs-ihr-etudes-helleniques-2027",
-    "organisation": "Center for Hellenic Studies (CHS) et Institute of Historical Research (IHR) de la National Hellenic Research Foundation",
-    "montant": 25000,
-    "devise": "USD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-11-02",
-    "deadline_texte": "2 novembre 2026",
-    "niveau_etudes": [
-      "Postdoctorat"
-    ],
-    "domaines": [
-      "Histoire ancienne",
-      "Épigraphie",
-      "Numismatique",
-      "Archéologie classique",
-      "Études de couleur",
-      "Iconographie",
-      "Archéologie funéraire",
-      "SIG"
-    ],
-    "pays_eligibles": [
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [],
-    "avantages": [
-      "Poste d'un an à partir du 1er juillet 2027",
-      "Accès aux ressources électroniques de la bibliothèque de Harvard",
-      "Logement à Washington, DC (CHS)",
-      "Assurance santé subventionnée à Washington, DC",
-      "Bourse maximale de 25 000 $ (ajustée selon les circonstances individuelles)",
-      "Soutien supplémentaire jusqu'à 1 500 $ pour les frais de voyage professionnel et de recherche",
-      "Aide aux frais de voyage aller-retour à Washington, DC",
-      "Logement près de l'IHR à Athènes",
-      "Assurance santé à Athènes",
-      "Bourse mensuelle d'environ 1 500 € (après impôts) à Athènes",
-      "Accès aux installations de bureau et aux ressources de la bibliothèque de l'IHR",
-      "Opportunité de visiter les bureaux du CHS à Nauplie pour présenter ses travaux et réseauter"
-    ],
-    "eligibilite": [
-      "Doctorat en études classiques ou dans un domaine connexe (ou équivalent)",
-      "Avoir soutenu sa thèse avant le 1er juillet 2026",
-      "Le projet doit bénéficier de l'utilisation des bibliothèques du CHS et de l'IHR ainsi que de l'accès au matériel à Athènes et ses environs (archives, artefacts, sites archéologiques)",
-      "Les renouvellements ou reports ne sont pas accordés",
-      "Les candidats ne peuvent pas postuler à d'autres programmes de bourses liés au CHS (ex. : Fellowships in Hellenic Studies Program à Washington, DC) durant le même cycle de candidature"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier son éligibilité (doctorat soutenu avant le 1er juillet 2026)",
-      "2. Préparer son projet de recherche en lien avec les domaines soutenus",
-      "3. Se rendre sur la page web de la bourse pour plus d'informations et pour postuler",
-      "4. Soumettre sa candidature avant la date limite du 2 novembre 2026"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Page web de la bourse (CHS US)",
-        "url": "https://chs.harvard.edu/chs-institute-of-historical-research-joint-fellowship-in-hellenic-studies/"
-      },
-      {
-        "label": "Institute of Historical Research (IHR)",
-        "url": "https://www.eie.gr/en/institutes/ihr/"
-      }
-    ],
-    "mots_cles": [
-      "bourse postdoctorale",
-      "études helléniques",
-      "CHS",
-      "IHR",
-      "histoire ancienne",
-      "archéologie classique",
-      "bourse Grèce",
-      "bourse États-Unis",
-      "recherche postdoctorale",
-      "bourse 2027"
-    ],
-    "lien_candidature": "https://chs.harvard.edu/chs-institute-of-historical-research-joint-fellowship-in-hellenic-studies/",
-    "source_url": "https://greece.chs.harvard.edu/research-fellowships/ihr?fbclid=IwY2xjawU6PD9leHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEePNRxcNf_iSQe9gdMmO7Ieba9lJUugFDGi5pSc7ruvvwP7vwWk4Ix-Uuy55g_aem_uQ6xSdd_S7pqOh1xfgDBxQ",
-    "statut": "ouvert",
-    "resume": "Le Center for Hellenic Studies (CHS) et l'Institute of Historical Research (IHR) de la National Hellenic Research Foundation proposent une bourse postdoctorale conjointe en études helléniques pour l'année académique 2027-2028. Le chercheur sélectionné passera 16 semaines au CHS à Washington, DC, et environ 4 mois à l'IHR à Athènes, avec un soutien financier complet incluant logement, assurance santé et bourse. Cette opportunité s'adresse aux chercheurs en histoire ancienne, épigraphie, numismatique et archéologie classique, dont le projet bénéficierait des bibliothèques et des ressources des deux institutions. La date limite de candidature est fixée au 2 novembre 2026.",
-    "imageUrl": "/docs/Bourse-conjointe-CHS-Institut-de-recherche-historique-en-tudes-hell-niques.webp",
-    "extrait_le": "2026-10-13T00:25:00",
-    "slug": "bourse-chs-ihr-etudes-helleniques-2027"
-  },
-  {
-    "titre": "Bourses postdoctorales KIPAC à l'Université Stanford",
-    "seo_slug": "bourse-postdoctorale-kipac-stanford-2027",
-    "organisation": "Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) - Stanford University & SLAC",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-11-02",
-    "deadline_texte": "2 novembre 2026 à 23h59 (heure de l'Est)",
-    "niveau_etudes": [
-      "Postdoctorat"
-    ],
-    "domaines": [
-      "Astrophysique",
-      "Cosmologie",
-      "Physique des particules",
-      "Intelligence artificielle / Machine Learning",
-      "Instrumentation"
-    ],
-    "pays_eligibles": [
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "CV",
-      "Déclaration de recherche",
-      "Lettre de motivation",
-      "Lettres de recommandation"
-    ],
-    "avantages": [
-      "Poste postdoctoral rémunéré",
-      "Liberté de recherche",
-      "Mentorat par des professeurs de KIPAC",
-      "Collaboration avec des groupes de recherche existants",
-      "Possibilité de participer à des activités de sensibilisation et d'engagement public"
-    ],
-    "eligibilite": [
-      "Être un scientifique récemment titulaire d'un doctorat (Ph.D.) en astrophysique, cosmologie ou domaine connexe",
-      "Pour la bourse Stanford Science Fellows : pas plus de deux ans d'expérience postdoctorale",
-      "Pour la bourse Bunyan : spécifier un membre du corps professoral de physique de Stanford comme mentor principal",
-      "Pour la bourse Rubin Observing Specialist : combiner le travail d'observateur au sommet et à la base de Rubin avec la recherche scientifique LSST"
-    ],
-    "procedure_etapes": [
-      "1. Visiter le site de candidature en ligne (Academic Jobs Online) pour le programme de bourses KIPAC.",
-      "2. Créer un compte et remplir le formulaire de candidature.",
-      "3. Téléverser les documents requis (CV, déclaration de recherche, etc.).",
-      "4. Soumettre la candidature avant la date limite du 2 novembre 2026 à 23h59 ET.",
-      "5. Pour les bourses externes, contacter un membre senior de KIPAC pour discuter de la candidature."
-    ],
-    "contacts": [
-      "rdb3@stanford.edu",
-      "sashaph@stanford.edu",
-      "richard.anantua@utsa.edu",
-      "mecapl1@ilstu.edu",
-      "kefang@physics.wisc.edu",
-      "egzweibel@wisc.edu",
-      "globus@astro.unam.mx",
-      "sgralla@email.arizona.edu",
-      "amb2046@columbia.edu",
-      "yl3470@columbia.edu",
-      "lsironi@astro.columbia.edu",
-      "levinson@tauex.tau.ac.il",
-      "tsvi.piran@mail.huji.ac.il",
-      "thompson@cita.utoronto.ca",
-      "ripperda@cita.utoronto.ca",
-      "quataert@princeton.edu",
-      "anatoly@astro.princeton.edu",
-      "yajiey@wustl.edu"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Candidature en ligne (AJO)",
-        "url": "https://academicjobsonline.org/ajo/Stanford/KIPAC/FELLOWS"
-      },
-      {
-        "label": "Intérêts de recherche des membres seniors de KIPAC",
-        "url": "/research/research-interests-kipac-senior-members"
-      },
-      {
-        "label": "Demander un Tea Talk à KIPAC",
-        "url": "/getting-here/request-talk"
-      },
-      {
-        "label": "Centre for Decoding the Universe @ Stanford",
-        "url": "http://datascience.stanford.edu/universe"
-      },
-      {
-        "label": "Stanford Data Science",
-        "url": "https://kipac.stanford.edu/join-or-visit-us/datascience.stanford.edu"
-      },
-      {
-        "label": "HAI",
-        "url": "https://kipac.stanford.edu/join-or-visit-us/hai.stanford.edu"
-      },
-      {
-        "label": "AI/ML at SLAC",
-        "url": "https://ml.slac.stanford.edu/"
-      },
-      {
-        "label": "Groupe Galaxy Formation & Cosmology",
-        "url": "https://www.risawechsler.com/gfc-group.html"
-      },
-      {
-        "label": "Simons Collaboration on Extreme Electrodynamics of Compact Sources (SCEECS)",
-        "url": "https://www.simonsceecs.com/"
-      },
-      {
-        "label": "Candidature SCEECS sur AJO",
-        "url": "https://academicjobsonline.org/ajo/jobs/32740"
-      },
-      {
-        "label": "Via Project",
-        "url": "https://kipac.stanford.edu/via"
-      },
-      {
-        "label": "Stanford Science Fellows - Candidature",
-        "url": "https://stanfordsciencefellows.stanford.edu/apply"
-      },
-      {
-        "label": "Van Bibber Fellowship - Candidature sur AJO",
-        "url": "https://academicjobsonline.org/ajo/jobs/32797"
-      },
-      {
-        "label": "NASA Hubble/Einstein/Sagan Fellowships",
-        "url": "http://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program"
-      },
-      {
-        "label": "NSF Astronomy and Astrophysics Postdoctoral Fellowships",
-        "url": "http://nsf.gov/funding/pgm_summ.jsp?pims_id=5291"
-      },
-      {
-        "label": "Brinson Fellowships",
-        "url": "https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program/announcement-of-opportunity"
-      },
-      {
-        "label": "LSST-DA Catalyst Fellowships",
-        "url": "https://www.lsstcorporation.org/catalyst-fellowship/node/1"
-      },
-      {
-        "label": "Jansky Fellowships",
-        "url": "https://science.nrao.edu/opportunities/postdoctoral-programs/jansky"
-      },
-      {
-        "label": "Canada Postdoctoral Research Award program",
-        "url": "https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program"
-      },
-      {
-        "label": "Page des opportunités KIPAC",
-        "url": "/opportunities"
-      }
-    ],
-    "mots_cles": [
-      "bourse postdoctorale",
-      "KIPAC",
-      "Stanford",
-      "astrophysique",
-      "cosmologie",
-      "fellowship",
-      "postdoc",
-      "SLAC",
-      "Rubin",
-      "Kavli"
-    ],
-    "lien_candidature": "https://academicjobsonline.org/ajo/Stanford/KIPAC/FELLOWS",
-    "source_url": "https://kipac.stanford.edu/opportunities/postdoctoral-opportunities-kipac?utm_id=97758_v0_s00_e0_tv1_a1den5f08gvbpa&fbclid=IwY2xjawU6PZJleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeypTRihvyBAswfvyV8jTP6C1-YeEBt1AYYP1p2VKZ4Z_1KIpqnRssQfs0YDc_aem_s88HRrYNrT_34YkHzGt0uw",
-    "statut": "ouvert",
-    "resume": "Le Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) de l'Université Stanford et du SLAC National Accelerator Laboratory offre des opportunités postdoctorales exceptionnelles pour les scientifiques récemment titulaires d'un doctorat en astrophysique et cosmologie. Ces bourses, dont les prestigieuses bourses Kavli, Porat, Bunyan et Rubin, permettent de développer des programmes de recherche innovants avec une grande liberté et un mentorat de haut niveau. Les candidats peuvent postuler jusqu'au 2 novembre 2026 pour le programme principal, avec des opportunités supplémentaires dans des collaborations internationales. Rejoignez un environnement de recherche dynamique et diversifié au cœur de la Silicon Valley.",
-    "imageUrl": "/docs/Opportunit-s-postdoctorales-au-KIPAC.webp",
-    "extrait_le": "2026-10-13T00:29:41",
-    "slug": "bourse-postdoctorale-kipac-stanford-2027"
-  },
-  {
     "titre": "Bourses d'études internationales Lester B. Pearson",
     "seo_slug": "bourse-pearson-international-2027",
     "organisation": "University of Toronto",
@@ -17852,88 +17060,6 @@
     "imageUrl": null,
     "extrait_le": "2026-10-27T04:15:24",
     "slug": "doctorat-photonique-optoelectronique-southampton-2026"
-  },
-  {
-    "titre": "Bourse internationale de premier cycle du vice-chancelier de l'UTS",
-    "seo_slug": "bourse-uts-vice-chancelier-premier-cycle-2027",
-    "organisation": "University of Technology Sydney (UTS)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète (frais de scolarité)",
-    "deadline": "2026-11-02",
-    "deadline_texte": "2 novembre 2026 à 23h55 AEST",
-    "niveau_etudes": [
-      "Licence (premier cycle)"
-    ],
-    "domaines": [
-      "Tous les domaines (programmes de premier cycle)"
-    ],
-    "pays_eligibles": [
-      "Tous les pays (sauf Australie, Nouvelle-Zélande)"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne UTS",
-      "Relevés de notes du secondaire (Year 12 ou équivalent)",
-      "Preuve de maîtrise de l'anglais (si applicable)",
-      "Réponses aux questions de candidature"
-    ],
-    "avantages": [
-      "Prise en charge des frais de scolarité UTS",
-      "Durée standard du programme"
-    ],
-    "eligibilite": [
-      "Être un étudiant international (ne pas être citoyen australien, néo-zélandais ou résident permanent de l'Australie)",
-      "Répondre aux critères d'admission de l'UTS pour le programme de premier cycle choisi avant la date limite de candidature",
-      "Commencer des études à temps plein et sur le campus (Sydney)",
-      "Avoir terminé des études secondaires australiennes (Year 12) ou équivalentes à l'étranger dans les trois ans précédant le début des études à l'UTS et être admis sur la base de cette qualification",
-      "Avoir une moyenne générale de 85% (ou équivalent) dans une qualification de fin d'études secondaires reconnue par l'UTS",
-      "Tous les candidats doivent postuler via le formulaire de candidature en ligne UTS",
-      "Ne pas être inscrit à un diplôme en ligne ou à distance de l'UTS",
-      "Ne pas être bénéficiaire d'autres bourses ou subventions internationales de l'UTS, sauf approbation exceptionnelle"
-    ],
-    "procedure_etapes": [
-      "Vérifier l'éligibilité et les critères d'admission au programme de premier cycle souhaité",
-      "Remplir le formulaire de candidature en ligne UTS pour les bourses",
-      "Soumettre la candidature avant la date limite (2 novembre 2026, 23h55 AEST)",
-      "Attendre la décision basée sur le mérite académique et les réponses aux questions"
-    ],
-    "contacts": [
-      "reps@uts.edu.au",
-      "+61 2 9514 1531"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Page officielle de la bourse",
-        "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship"
-      },
-      {
-        "label": "Formulaire de candidature en ligne UTS",
-        "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship"
-      },
-      {
-        "label": "Avis de confidentialité du site web",
-        "url": "https://www.uts.edu.au/about/leadership-governance/web-statements/privacy"
-      }
-    ],
-    "mots_cles": [
-      "bourse UTS",
-      "bourse premier cycle Australie",
-      "bourse vice-chancelier UTS",
-      "bourse études Sydney",
-      "bourse internationale UTS",
-      "bourse licence Australie",
-      "financement études Australie",
-      "bourse UTS 2027"
-    ],
-    "lien_candidature": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship",
-    "source_url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship?utm_id=97758_v0_s00_e0_tv2_a1den5f08gvbpa&fbclid=IwY2xjawUezH5wZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeGmM9QTPIn9aXc72td1ClQvNIkskfrNgSZwEsv99f-CX55iJgKfkBGtlbQ3Y_aem_4j5b4V9rwirchRNAkMyybg",
-    "statut": "à venir",
-    "resume": "La bourse internationale de premier cycle du vice-chancelier de l'UTS est destinée aux étudiants internationaux brillants qui souhaitent poursuivre des études de licence à l'Université de Technologie de Sydney. Elle couvre l'intégralité des frais de scolarité pour la durée standard du programme. Les candidats doivent avoir obtenu d'excellents résultats académiques (moyenne de 85% ou équivalent) et démontrer un engagement envers l'excellence, l'innovation, l'entrepreneuriat et la justice sociale. La candidature se fait en ligne et la date limite est fixée au 2 novembre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-22T02:59:12",
-    "slug": "bourse-uts-vice-chancelier-premier-cycle-2027"
   },
   {
     "titre": "Master Européen en Linguistique Clinique (EMCL)",
@@ -35412,6 +34538,880 @@
     "imageUrl": null,
     "extrait_le": "2026-09-22T03:01:01",
     "slug": "bourse-mastercard-foundation-afrique-2027"
+  },
+  {
+    "titre": "Fonds Weiss pour la recherche en économie du développement",
+    "seo_slug": "bourse-weiss-economie-developpement-2026",
+    "organisation": "Weiss Fund for Research in Development Economics (University of Chicago)",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "subvention de recherche",
+    "deadline": "2026-11-01",
+    "deadline_texte": "1er novembre 2026 (cycle glissant de novembre). Autres dates limites pour les cycles glissants : 1er février 2027 et 1er mai 2027. Les candidatures pour le cycle d'automne 2026 sont désormais closes. Les candidatures pour le cycle de printemps ouvriront en février.",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat",
+      "Enseignant-chercheur"
+    ],
+    "domaines": [
+      "Économie du développement",
+      "Économie",
+      "Sciences sociales"
+    ],
+    "pays_eligibles": [
+      "Pays en développement",
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Financement de projets de recherche en économie du développement",
+      "Subventions de recherche (montants variables selon le type de projet)",
+      "Subventions de voyage et de pilotage",
+      "Subventions de mise en œuvre et de politique"
+    ],
+    "eligibilite": [
+      "Étudiants et enseignants-chercheurs (ladder faculty) travaillant en économie du développement",
+      "Projets traitant d'un large éventail de problématiques affectant les pays moins développés",
+      "Les candidatures incomplètes ne seront pas examinées et aucune prolongation ne sera accordée"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page d'éligibilité pour vérifier les critères",
+      "2. Choisir le type de subvention approprié (recherche, voyage et pilotage, mise en œuvre et politique)",
+      "3. Déterminer le cycle de candidature (cycle glissant pour les demandes ≤ 25 000 $, cycles de printemps et d'automne pour les demandes > 25 000 $)",
+      "4. Soumettre la candidature via le portail en ligne WizeHive",
+      "5. Consulter la page FAQ pour toute question supplémentaire"
+    ],
+    "contacts": [
+      "weissfund@uchicago.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Visitez le site : https://weissfund.wizehive.app/program/weiss-rolling-call-november-2026/applicant/application/info",
+        "url": "https://weissfund.wizehive.app/program/weiss-rolling-call-november-2026/applicant/application/info"
+      },
+      {
+        "label": "Page d'éligibilité",
+        "url": "https://weissfund.uchicago.edu/eligibility/"
+      },
+      {
+        "label": "Subventions de recherche",
+        "url": "https://weissfund.uchicago.edu/apply/research/"
+      },
+      {
+        "label": "Subventions de voyage et de pilotage",
+        "url": "https://weissfund.uchicago.edu/apply/travel-and-piloting/"
+      },
+      {
+        "label": "Subventions de mise en œuvre et de politique",
+        "url": "https://weissfund.uchicago.edu/implementation-and-policy/"
+      },
+      {
+        "label": "Portail de candidature (cycle glissant de novembre 2026)",
+        "url": "https://weissfund.wizehive.app/program/weiss-rolling-call-november-2026/applicant/application/info"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://weissfund.uchicago.edu/funding-faq/"
+      }
+    ],
+    "mots_cles": [
+      "bourse économie du développement",
+      "subvention recherche développement",
+      "Weiss Fund",
+      "financement recherche pays en développement",
+      "bourse doctorat économie",
+      "subvention voyage recherche",
+      "bourse post-doctorat économie",
+      "financement projet développement"
+    ],
+    "lien_candidature": "https://weissfund.wizehive.app/program/weiss-rolling-call-november-2026/applicant/application/info",
+    "source_url": "https://weissfund.uchicago.edu/applying-for-funding/?utm_id=97758_v0_s00_e0_tv1_a1den1nhp6a39u&fbclid=IwY2xjawUmiDxleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeDKirpGQ0bNhgoVsLwac-NbaQQZ_6vCRzaIGYJdcivSAO7WseXYP88NWTxkY_aem_Z_0akOwglKcd7JnJLYdoVA",
+    "statut": "fermé",
+    "resume": "Le Fonds Weiss pour la recherche en économie du développement soutient les projets de recherche d'étudiants et d'enseignants-chercheurs travaillant dans le domaine de l'économie du développement, au sens large. Le programme finance des projets abordant un large éventail de problématiques affectant les pays moins développés. Les candidatures sont acceptées via des cycles glissants pour les demandes de 25 000 $ ou moins, et via des cycles de printemps et d'automne pour les demandes supérieures à 25 000 $. La prochaine date limite pour le cycle glissant de novembre est fixée au 1er novembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:40:58",
+    "slug": "bourse-weiss-economie-developpement-2026"
+  },
+  {
+    "titre": "Bourse de voyage de recherche FEEGI 2026",
+    "seo_slug": "bourse-voyage-recherche-feegi-2026",
+    "organisation": "FEEGI (Forum on European Expansion and Global Interaction)",
+    "montant": 1000,
+    "devise": "USD",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-11-01",
+    "deadline_texte": "1er novembre 2026",
+    "niveau_etudes": [
+      "Doctorat",
+      "Master",
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Histoire",
+      "Études coloniales",
+      "Études globales",
+      "Sciences humaines"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV (2 pages maximum)",
+      "Description du projet (500-750 mots)",
+      "Budget détaillé"
+    ],
+    "avantages": [
+      "Bourse de 1000 $ pour frais de voyage",
+      "Deux bourses disponibles"
+    ],
+    "eligibilite": [
+      "Être membre en règle de FEEGI",
+      "Ouvert aux étudiants diplômés, chercheurs indépendants et professeurs non titulaires"
+    ],
+    "procedure_etapes": [
+      "1. Renouveler ou devenir membre de FEEGI",
+      "2. Préparer un CV (2 pages max)",
+      "3. Rédiger une description de projet (500-750 mots)",
+      "4. Établir un budget détaillé",
+      "5. Compiler tous les documents en un seul fichier",
+      "6. Envoyer le dossier par email aux membres du comité",
+      "7. Utiliser l'objet : 'FEEGI Research Travel Award'"
+    ],
+    "contacts": [
+      "oliviabarnard@ufl.edu",
+      "fichter@hku.hk",
+      "jokct@hku.hk",
+      "Daniel.Livesay@ClaremontMcKenna.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de FEEGI",
+        "url": "https://feegi.org/"
+      },
+      {
+        "label": "Page des bourses",
+        "url": "https://feegi.org/awards.html"
+      },
+      {
+        "label": "Adhésion à FEEGI",
+        "url": "https://feegi.org/membership.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse FEEGI",
+      "bourse voyage recherche",
+      "bourse histoire 2026",
+      "bourse études coloniales",
+      "financement recherche",
+      "bourse pour doctorants",
+      "bourse pour chercheurs indépendants",
+      "bourse pour professeurs non titulaires"
+    ],
+    "lien_candidature": "https://feegi.org/awards.html",
+    "source_url": "https://feegi.org/awards.html?fbclid=IwY2xjawUmiKRleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe14MyH2OBZM6uf1Pbt4Y5ZvbR0Fif5Y78hD1WCzEJnKmIbBkWIPuJhZf1vxE_aem_ZmFrZWR1bW15MTZieXRlcw",
+    "statut": "fermé",
+    "resume": "La bourse de voyage de recherche FEEGI 2026 offre deux subventions de 1000 $ chacune pour soutenir les déplacements vers des sites d'archives ou de terrain. Ouverte aux membres de FEEGI, elle cible particulièrement les étudiants diplômés, les chercheurs indépendants et les professeurs non titulaires. Les candidats doivent soumettre un CV, une description de projet et un budget avant le 1er novembre 2026. Les lauréats seront annoncés à la mi-décembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:41:45",
+    "slug": "bourse-voyage-recherche-feegi-2026"
+  },
+  {
+    "titre": "Bourse commémorative Mikko Luke Immonen en archéologie africaine",
+    "seo_slug": "bourse-mikko-luke-immonen-archeologie-afrique-2026",
+    "organisation": "Archaeological Institute of America (AIA)",
+    "montant": 10000,
+    "devise": "USD",
+    "type_financement": "bourse de recherche",
+    "deadline": "2026-11-01",
+    "deadline_texte": "1er novembre 2026 (tous les documents doivent être reçus à l'AIA à cette date)",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Archéologie",
+      "Études africaines"
+    ],
+    "pays_eligibles": [
+      "Afrique",
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Lettre de soutien du détenteur du permis (si applicable)",
+      "Références",
+      "Relevés de notes (si applicable)"
+    ],
+    "avantages": [
+      "Financement jusqu'à 10 000 USD",
+      "Frais de garde d'enfants ou de soins aux personnes âgées (si justifiés)"
+    ],
+    "eligibilite": [
+      "Mener ou planifier une recherche active sur le continent africain",
+      "Les candidats hors Afrique doivent être membres actuels de l'AIA au niveau Graduate ou Professional",
+      "Les candidats résidant en Afrique peuvent postuler sans adhésion active à l'AIA mais devront devenir membres s'ils sont sélectionnés (frais peuvent être inclus dans le budget)",
+      "Les récipiendaires titulaires d'un doctorat doivent devenir membres professionnels de l'AIA",
+      "Les récipiendaires étudiants de troisième cycle doivent devenir membres étudiants de l'AIA",
+      "Être affilié à un établissement d'enseignement supérieur dans un programme accrédité de troisième cycle ou postdoctoral en archéologie ou discipline connexe",
+      "Si le projet nécessite un permis, démontrer la capacité de l'obtenir ou inclure une lettre de soutien du détenteur principal du permis",
+      "Les lauréats doivent avoir le permis en main ou avoir pris des dispositions alternatives avec le bureau de l'AIA avant le décaissement des fonds",
+      "Les lauréats doivent soumettre un rapport formel à l'AIA à la fin de la période de bourse",
+      "Après la bourse, les récipiendaires doivent soumettre un résumé de poster ou d'article au comité de programme de l'AIA dans les deux ans",
+      "Pour les projets générant des données numériques, la publication du jeu de données est encouragée, idéalement en accès ouvert"
+    ],
+    "procedure_etapes": [
+      "Vérifier les exigences et les directives de candidature",
+      "Remplir le formulaire de candidature en ligne",
+      "S'assurer que tous les documents (y compris références et relevés de notes) sont reçus par l'AIA avant la date limite",
+      "Soumettre la candidature"
+    ],
+    "contacts": [
+      "fellowships@archaeological.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://www.archaeological.org/programs/professionals/grants-awards/applications/application-the-mikko-luke-immonen-memorial-fellowship-in-african-archaeology/"
+      },
+      {
+        "label": "Exigences et directives de candidature",
+        "url": "https://www.archaeological.org/programs/professionals/grants-awards/fellowship-guide/"
+      },
+      {
+        "label": "Devenir membre de l'AIA",
+        "url": "https://www.archaeological.org/join/"
+      },
+      {
+        "label": "Contact",
+        "url": "https://www.archaeological.org/contact/"
+      }
+    ],
+    "mots_cles": [
+      "bourse archéologie Afrique",
+      "bourse recherche archéologique",
+      "bourse postdoctorale archéologie",
+      "bourse doctorale archéologie",
+      "financement recherche Afrique",
+      "AIA fellowship",
+      "bourse Mikko Luke Immonen",
+      "bourse 2026 archéologie"
+    ],
+    "lien_candidature": "https://www.archaeological.org/programs/professionals/grants-awards/applications/application-the-mikko-luke-immonen-memorial-fellowship-in-african-archaeology/",
+    "source_url": "https://www.archaeological.org/grant/the-mikko-luke-immonen-memorial-fellowship-in-african-archaeology/?fbclid=IwY2xjawUmiMtleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeDKirpGQ0bNhgoVsLwac-NbaQQZ_6vCRzaIGYJdcivSAO7WseXYP88NWTxkY_aem_Z_0akOwglKcd7JnJLYdoVA",
+    "statut": "fermé",
+    "resume": "La bourse commémorative Mikko Luke Immonen en archéologie africaine, offerte par l'Archaeological Institute of America (AIA), soutient la recherche archéologique et les projets de terrain sur le continent africain menés par des étudiants de troisième cycle ou des post-doctorants. Le financement peut atteindre 10 000 USD et couvre également des dépenses liées à la garde d'enfants ou aux soins aux personnes âgées. Les candidats doivent mener ou planifier une recherche active en Afrique et être affiliés à un établissement d'enseignement supérieur. La date limite de candidature est le 1er novembre 2026, et les résultats seront annoncés avant le 1er mars.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:42:35",
+    "slug": "bourse-mikko-luke-immonen-archeologie-afrique-2026"
+  },
+  {
+    "titre": "Bourses de voyage Thomas H. Carpenter et Lynne C. Lancaster",
+    "seo_slug": "bourse-voyage-carpenter-lancaster-2026",
+    "organisation": "Archaeological Institute of America (AIA)",
+    "montant": 25000,
+    "devise": "USD",
+    "type_financement": "bourse de voyage",
+    "deadline": "2026-11-01",
+    "deadline_texte": "1er novembre 2026 (tous les documents de candidature, y compris les références et les relevés de notes, doivent être reçus par l'AIA à cette date)",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Archéologie",
+      "Études classiques",
+      "Histoire de l'art",
+      "Patrimoine culturel"
+    ],
+    "pays_eligibles": [
+      "États-Unis",
+      "Canada"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Références",
+      "Relevés de notes",
+      "Preuve de statut légal (si non-citoyen des États-Unis ou du Canada)",
+      "Rapport à la fin de la bourse",
+      "Résumé pour la conférence annuelle de l'AIA (dans les deux ans suivant la bourse)"
+    ],
+    "avantages": [
+      "Financement pouvant atteindre 25 000 USD",
+      "Frais de transport",
+      "Hébergement",
+      "Visas",
+      "Frais d'entrée",
+      "Assurance liée au voyage",
+      "Frais raisonnables pour la garde de personnes dépendantes et de membres âgés de la famille"
+    ],
+    "eligibilite": [
+      "Être étudiant diplômé inscrit dans une université américaine ou canadienne ou chercheur basé en Amérique du Nord ayant obtenu un doctorat dans les cinq ans précédant la candidature",
+      "Être résident légal des États-Unis ou du Canada au moment de l'attribution de la bourse",
+      "Fournir une preuve de statut légal si non-citoyen des États-Unis ou du Canada",
+      "Être membre actuel de l'AIA au niveau Graduate ou Professional",
+      "Le projet doit se situer géographiquement dans les limites de l'Empire romain et chronologiquement entre environ 1000 av. J.-C. et 1000 apr. J.-C.",
+      "Les projets nécessitant des séjours prolongés à l'étranger (minimum six semaines) et démontrant un fort potentiel pour faire avancer la recherche doctorale ou les publications sont préférés",
+      "Les fonds ne peuvent pas être utilisés pour les frais généraux institutionnels, les coûts de recouvrement administratif, les coûts indirects ou pour soutenir des projets de fouilles"
+    ],
+    "procedure_etapes": [
+      "Vérifier les conditions d'éligibilité et les exigences de la bourse",
+      "Devenir membre de l'AIA au niveau Graduate ou Professional (si ce n'est pas déjà fait)",
+      "Préparer tous les documents de candidature, y compris les références et les relevés de notes",
+      "Soumettre le formulaire de candidature en ligne avant la date limite du 1er novembre 2026",
+      "S'assurer que tous les documents sont reçus par l'AIA avant la date limite",
+      "Après l'attribution, utiliser les fonds pour le voyage de recherche entre le 1er mai de l'année d'attribution et le 30 septembre de l'année suivante",
+      "À la fin de la bourse, soumettre un rapport sur l'utilisation de la bourse au président du comité des bourses de l'AIA",
+      "Dans les deux ans suivant la bourse, soumettre un résumé au comité du programme pour être considéré pour une participation à la réunion annuelle de l'AIA"
+    ],
+    "contacts": [
+      "fellowships@archaeological.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://www.archaeological.org/programs/professionals/grants-awards/applications/application-aia-traveling-fellowships/"
+      },
+      {
+        "label": "Guide des bourses et directives de candidature",
+        "url": "https://www.archaeological.org/programs/professionals/grants-awards/fellowship-guide/"
+      },
+      {
+        "label": "Devenir membre de l'AIA",
+        "url": "https://www.archaeological.org/join/"
+      },
+      {
+        "label": "Page des bourses et prix de l'AIA",
+        "url": "https://www.archaeological.org/programs/professionals/grants-awards/"
+      }
+    ],
+    "mots_cles": [
+      "bourse archéologie",
+      "bourse voyage archéologie",
+      "bourse AIA",
+      "bourse doctorat archéologie",
+      "bourse post-doctorat archéologie",
+      "bourse études classiques",
+      "bourse patrimoine culturel",
+      "bourse États-Unis",
+      "bourse Canada",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://www.archaeological.org/programs/professionals/grants-awards/applications/application-aia-traveling-fellowships/",
+    "source_url": "https://www.archaeological.org/grant/thomas-h-carpenter-and-lynne-c-lancaster-traveling-fellowship/?fbclid=IwY2xjawUmiOZleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEedSSh3mO9sdO9wv-tqMqTd9UDgiApNFhUqycrYhQ-wjKsxIo8PZLJjOmeV5M_aem_3hADZ9phFwuqGnGc0ZSxXQ",
+    "statut": "fermé",
+    "resume": "Les bourses de voyage Thomas H. Carpenter et Lynne C. Lancaster, offertes par l'Archaeological Institute of America (AIA), soutiennent les voyages d'étude à l'étranger pour les étudiants diplômés et les jeunes docteurs engagés dans la recherche archéologique et la publication. Le financement, pouvant atteindre 25 000 USD, couvre les dépenses liées au voyage (transport, hébergement, visas, etc.) pour des projets situés dans les limites de l'Empire romain et datant entre 1000 av. J.-C. et 1000 apr. J.-C. Les candidats doivent être membres de l'AIA et résider légalement aux États-Unis ou au Canada. La date limite de candidature est le 1er novembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:43:03",
+    "slug": "bourse-voyage-carpenter-lancaster-2026"
+  },
+  {
+    "titre": "Bourse doctorale de Wellington",
+    "seo_slug": "bourse-doctorale-wellington-2026",
+    "organisation": "Université Victoria de Wellington",
+    "montant": 32000,
+    "devise": "NZD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-01",
+    "deadline_texte": "1er novembre 2026 à 16h30 (heure locale)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Architecture",
+      "Commerce et Gouvernement",
+      "Innovation en design",
+      "Éducation",
+      "Ingénierie",
+      "Santé",
+      "Sciences humaines et sociales",
+      "Droit",
+      "Musique",
+      "Technologie",
+      "Sciences"
+    ],
+    "pays_eligibles": [
+      "Nouvelle-Zélande",
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Relevé de notes académique",
+      "Références académiques",
+      "Copie du relevé de notes des autres institutions (si applicable)"
+    ],
+    "avantages": [
+      "Allocation annuelle de 32 000 NZD",
+      "Frais de scolarité nationaux pris en charge",
+      "Durée maximale de trois ans"
+    ],
+    "eligibilite": [
+      "Être diplômé d'une université (en Nouvelle-Zélande ou à l'étranger)",
+      "Avoir l'intention de s'inscrire à temps plein pour un doctorat (PhD) ou avoir déjà commencé un doctorat à l'Université Victoria de Wellington",
+      "Ne pas déjà détenir un diplôme de doctorat",
+      "Avoir un excellent dossier académique et d'excellentes références académiques, ou un potentiel démontré pour une recherche de haute qualité, ou un record de publications dans des revues de haute qualité",
+      "Les membres du personnel académique de l'Université Victoria de Wellington ou de toute autre université ne sont pas éligibles"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions et les exigences de candidature sur le site web",
+      "2. Soumettre une demande d'admission au doctorat à l'Université Victoria de Wellington",
+      "3. Remplir le formulaire de candidature en ligne pour la bourse",
+      "4. Fournir tous les documents justificatifs (relevés de notes, références) avant la date limite",
+      "5. Attendre la notification par email dans les six à huit semaines suivant la date de clôture"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse",
+        "url": "https://www.wgtn.ac.nz/scholarships/current/wellington-doctoral-scholarships"
+      },
+      {
+        "label": "Page d'application pour le doctorat",
+        "url": "https://www.wgtn.ac.nz/fgr/apply"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorale",
+      "Nouvelle-Zélande",
+      "Wellington",
+      "PhD",
+      "bourse complète",
+      "études doctorales",
+      "financement recherche",
+      "université Victoria"
+    ],
+    "lien_candidature": "https://www.wgtn.ac.nz/scholarships/current/wellington-doctoral-scholarships",
+    "source_url": "https://www.wgtn.ac.nz/scholarships/current/wellington-doctoral-scholarships?fbclid=IwY2xjawUqDVRleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeDdnmK5CaRIhQS3wG3hNcjMeDfER9Uqna-crkmrF6zJn0QCY6ccjXuYSjar0_aem_QtVVqZFji_ZF0qjAJAs4FA",
+    "statut": "fermé",
+    "resume": "La bourse doctorale de Wellington, offerte par l'Université Victoria de Wellington, soutient les étudiants exceptionnels poursuivant un doctorat (PhD) dans diverses disciplines. Elle offre une allocation annuelle de 32 000 NZD et couvre les frais de scolarité nationaux pour une durée maximale de trois ans. Ouverte aux étudiants nationaux et internationaux, elle est attribuée sur la base du mérite académique et du potentiel de recherche. Les candidatures sont acceptées trois fois par an, avec des dates limites les 1er mars, 1er juillet et 1er novembre.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:45:02",
+    "slug": "bourse-doctorale-wellington-2026"
+  },
+  {
+    "titre": "Bourse de Master Sir Paul Callaghan en Physique Expérimentale ou Ingénierie",
+    "seo_slug": "bourse-sir-paul-callaghan-master-physique-2026",
+    "organisation": "Te Herenga Waka—Victoria University of Wellington",
+    "montant": 15000,
+    "devise": "NZD",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-11-01",
+    "deadline_texte": "1 novembre 2026 à 16h30",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Physique expérimentale",
+      "Ingénierie"
+    ],
+    "pays_eligibles": [
+      "International",
+      "Nouvelle-Zélande"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Relevé de notes académique",
+      "Déclaration d'intérêts de recherche",
+      "Référence académique"
+    ],
+    "avantages": [
+      "Contribution aux frais de scolarité",
+      "Stipendiaire (versement unique)"
+    ],
+    "eligibilite": [
+      "Être inscrit ou avoir l'intention de s'inscrire à un Master par thèse à Te Herenga Waka—Victoria University of Wellington",
+      "Mener des recherches en physique expérimentale ou en ingénierie, ou dans un domaine étroitement lié",
+      "Idéalement, être titulaire d'un diplôme de premier cycle avec mention très bien en physique ou en ingénierie électronique"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité et les documents requis",
+      "2. Préparer la déclaration d'intérêts de recherche, la référence académique et le relevé de notes",
+      "3. Soumettre la candidature en ligne avant la date limite",
+      "4. S'assurer que tous les documents justificatifs sont reçus avant la date limite"
+    ],
+    "contacts": [
+      "scholarships-office@vuw.ac.nz",
+      "Petrik.Galvosas@vuw.ac.nz",
+      "0800 04 04 04"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page de la bourse",
+        "url": "https://www.wgtn.ac.nz/scholarships/current/sir-paul-callaghan-magnetic-resonance-masters-scholarship-in-physics-or-engineering"
+      },
+      {
+        "label": "Bureau des bourses",
+        "url": "https://www.wgtn.ac.nz/scholarships/scholarships-office"
+      }
+    ],
+    "mots_cles": [
+      "bourse Sir Paul Callaghan",
+      "master physique expérimentale",
+      "bourse ingénierie",
+      "bourse Nouvelle-Zélande",
+      "bourse master 2026",
+      "bourse recherche",
+      "Victoria University of Wellington",
+      "bourse internationale"
+    ],
+    "lien_candidature": "https://www.wgtn.ac.nz/scholarships/current/sir-paul-callaghan-magnetic-resonance-masters-scholarship-in-physics-or-engineering",
+    "source_url": "https://www.wgtn.ac.nz/scholarships/current/sir-paul-callaghan-magnetic-resonance-masters-scholarship-in-physics-or-engineering?fbclid=IwY2xjawUqDsRleHRuA2FlbQIxMABwZG9mAWJyaWQRMTIyR1htcnluTWlTN3BpVXVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe7yq_tfb5khgktANgPvOXwaaJEuiZJjcnLJevtl9Cfv3A9Nh6ysHZ0OxqNQc_aem_lnDqrLoqxe54mW0Ah4G46g",
+    "statut": "fermé",
+    "resume": "La bourse Sir Paul Callaghan en physique expérimentale ou ingénierie est offerte par Te Herenga Waka—Victoria University of Wellington pour soutenir la recherche de master dans ces domaines. D'une valeur de 15 000 $, elle est ouverte aux étudiants internationaux et néo-zélandais. Les candidats doivent être inscrits ou prévoir de s'inscrire à un master par thèse et mener des recherches en physique expérimentale ou en ingénierie. La date limite de candidature est fixée au 1er novembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-30T15:51:25",
+    "slug": "bourse-sir-paul-callaghan-master-physique-2026"
+  },
+  {
+    "titre": "Bourse internationale de premier cycle du vice-chancelier de l'UTS",
+    "seo_slug": "bourse-uts-vice-chancelier-premier-cycle-2027",
+    "organisation": "University of Technology Sydney (UTS)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète (frais de scolarité)",
+    "deadline": "2026-11-02",
+    "deadline_texte": "2 novembre 2026 à 23h55 AEST",
+    "niveau_etudes": [
+      "Licence (premier cycle)"
+    ],
+    "domaines": [
+      "Tous les domaines (programmes de premier cycle)"
+    ],
+    "pays_eligibles": [
+      "Tous les pays (sauf Australie, Nouvelle-Zélande)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne UTS",
+      "Relevés de notes du secondaire (Year 12 ou équivalent)",
+      "Preuve de maîtrise de l'anglais (si applicable)",
+      "Réponses aux questions de candidature"
+    ],
+    "avantages": [
+      "Prise en charge des frais de scolarité UTS",
+      "Durée standard du programme"
+    ],
+    "eligibilite": [
+      "Être un étudiant international (ne pas être citoyen australien, néo-zélandais ou résident permanent de l'Australie)",
+      "Répondre aux critères d'admission de l'UTS pour le programme de premier cycle choisi avant la date limite de candidature",
+      "Commencer des études à temps plein et sur le campus (Sydney)",
+      "Avoir terminé des études secondaires australiennes (Year 12) ou équivalentes à l'étranger dans les trois ans précédant le début des études à l'UTS et être admis sur la base de cette qualification",
+      "Avoir une moyenne générale de 85% (ou équivalent) dans une qualification de fin d'études secondaires reconnue par l'UTS",
+      "Tous les candidats doivent postuler via le formulaire de candidature en ligne UTS",
+      "Ne pas être inscrit à un diplôme en ligne ou à distance de l'UTS",
+      "Ne pas être bénéficiaire d'autres bourses ou subventions internationales de l'UTS, sauf approbation exceptionnelle"
+    ],
+    "procedure_etapes": [
+      "Vérifier l'éligibilité et les critères d'admission au programme de premier cycle souhaité",
+      "Remplir le formulaire de candidature en ligne UTS pour les bourses",
+      "Soumettre la candidature avant la date limite (2 novembre 2026, 23h55 AEST)",
+      "Attendre la décision basée sur le mérite académique et les réponses aux questions"
+    ],
+    "contacts": [
+      "reps@uts.edu.au",
+      "+61 2 9514 1531"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page officielle de la bourse",
+        "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship"
+      },
+      {
+        "label": "Formulaire de candidature en ligne UTS",
+        "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship"
+      },
+      {
+        "label": "Avis de confidentialité du site web",
+        "url": "https://www.uts.edu.au/about/leadership-governance/web-statements/privacy"
+      }
+    ],
+    "mots_cles": [
+      "bourse UTS",
+      "bourse premier cycle Australie",
+      "bourse vice-chancelier UTS",
+      "bourse études Sydney",
+      "bourse internationale UTS",
+      "bourse licence Australie",
+      "financement études Australie",
+      "bourse UTS 2027"
+    ],
+    "lien_candidature": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship",
+    "source_url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-vice-chancellors-international-undergraduate-scholarship?utm_id=97758_v0_s00_e0_tv2_a1den5f08gvbpa&fbclid=IwY2xjawUezH5wZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeGmM9QTPIn9aXc72td1ClQvNIkskfrNgSZwEsv99f-CX55iJgKfkBGtlbQ3Y_aem_4j5b4V9rwirchRNAkMyybg",
+    "statut": "fermé",
+    "resume": "La bourse internationale de premier cycle du vice-chancelier de l'UTS est destinée aux étudiants internationaux brillants qui souhaitent poursuivre des études de licence à l'Université de Technologie de Sydney. Elle couvre l'intégralité des frais de scolarité pour la durée standard du programme. Les candidats doivent avoir obtenu d'excellents résultats académiques (moyenne de 85% ou équivalent) et démontrer un engagement envers l'excellence, l'innovation, l'entrepreneuriat et la justice sociale. La candidature se fait en ligne et la date limite est fixée au 2 novembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-22T02:59:12",
+    "slug": "bourse-uts-vice-chancelier-premier-cycle-2027"
+  },
+  {
+    "titre": "Bourse conjointe CHS-Institut de Recherche Historique en Études Helléniques",
+    "seo_slug": "bourse-chs-ihr-etudes-helleniques-2027",
+    "organisation": "Center for Hellenic Studies (CHS) et Institute of Historical Research (IHR) de la National Hellenic Research Foundation",
+    "montant": 25000,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-02",
+    "deadline_texte": "2 novembre 2026",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Histoire ancienne",
+      "Épigraphie",
+      "Numismatique",
+      "Archéologie classique",
+      "Études de couleur",
+      "Iconographie",
+      "Archéologie funéraire",
+      "SIG"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Poste d'un an à partir du 1er juillet 2027",
+      "Accès aux ressources électroniques de la bibliothèque de Harvard",
+      "Logement à Washington, DC (CHS)",
+      "Assurance santé subventionnée à Washington, DC",
+      "Bourse maximale de 25 000 $ (ajustée selon les circonstances individuelles)",
+      "Soutien supplémentaire jusqu'à 1 500 $ pour les frais de voyage professionnel et de recherche",
+      "Aide aux frais de voyage aller-retour à Washington, DC",
+      "Logement près de l'IHR à Athènes",
+      "Assurance santé à Athènes",
+      "Bourse mensuelle d'environ 1 500 € (après impôts) à Athènes",
+      "Accès aux installations de bureau et aux ressources de la bibliothèque de l'IHR",
+      "Opportunité de visiter les bureaux du CHS à Nauplie pour présenter ses travaux et réseauter"
+    ],
+    "eligibilite": [
+      "Doctorat en études classiques ou dans un domaine connexe (ou équivalent)",
+      "Avoir soutenu sa thèse avant le 1er juillet 2026",
+      "Le projet doit bénéficier de l'utilisation des bibliothèques du CHS et de l'IHR ainsi que de l'accès au matériel à Athènes et ses environs (archives, artefacts, sites archéologiques)",
+      "Les renouvellements ou reports ne sont pas accordés",
+      "Les candidats ne peuvent pas postuler à d'autres programmes de bourses liés au CHS (ex. : Fellowships in Hellenic Studies Program à Washington, DC) durant le même cycle de candidature"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier son éligibilité (doctorat soutenu avant le 1er juillet 2026)",
+      "2. Préparer son projet de recherche en lien avec les domaines soutenus",
+      "3. Se rendre sur la page web de la bourse pour plus d'informations et pour postuler",
+      "4. Soumettre sa candidature avant la date limite du 2 novembre 2026"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page web de la bourse (CHS US)",
+        "url": "https://chs.harvard.edu/chs-institute-of-historical-research-joint-fellowship-in-hellenic-studies/"
+      },
+      {
+        "label": "Institute of Historical Research (IHR)",
+        "url": "https://www.eie.gr/en/institutes/ihr/"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "études helléniques",
+      "CHS",
+      "IHR",
+      "histoire ancienne",
+      "archéologie classique",
+      "bourse Grèce",
+      "bourse États-Unis",
+      "recherche postdoctorale",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://chs.harvard.edu/chs-institute-of-historical-research-joint-fellowship-in-hellenic-studies/",
+    "source_url": "https://greece.chs.harvard.edu/research-fellowships/ihr?fbclid=IwY2xjawU6PD9leHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEePNRxcNf_iSQe9gdMmO7Ieba9lJUugFDGi5pSc7ruvvwP7vwWk4Ix-Uuy55g_aem_uQ6xSdd_S7pqOh1xfgDBxQ",
+    "statut": "fermé",
+    "resume": "Le Center for Hellenic Studies (CHS) et l'Institute of Historical Research (IHR) de la National Hellenic Research Foundation proposent une bourse postdoctorale conjointe en études helléniques pour l'année académique 2027-2028. Le chercheur sélectionné passera 16 semaines au CHS à Washington, DC, et environ 4 mois à l'IHR à Athènes, avec un soutien financier complet incluant logement, assurance santé et bourse. Cette opportunité s'adresse aux chercheurs en histoire ancienne, épigraphie, numismatique et archéologie classique, dont le projet bénéficierait des bibliothèques et des ressources des deux institutions. La date limite de candidature est fixée au 2 novembre 2026.",
+    "imageUrl": "/docs/Bourse-conjointe-CHS-Institut-de-recherche-historique-en-tudes-hell-niques.webp",
+    "extrait_le": "2026-10-13T00:25:00",
+    "slug": "bourse-chs-ihr-etudes-helleniques-2027"
+  },
+  {
+    "titre": "Bourses postdoctorales KIPAC à l'Université Stanford",
+    "seo_slug": "bourse-postdoctorale-kipac-stanford-2027",
+    "organisation": "Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) - Stanford University & SLAC",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-02",
+    "deadline_texte": "2 novembre 2026 à 23h59 (heure de l'Est)",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Astrophysique",
+      "Cosmologie",
+      "Physique des particules",
+      "Intelligence artificielle / Machine Learning",
+      "Instrumentation"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Déclaration de recherche",
+      "Lettre de motivation",
+      "Lettres de recommandation"
+    ],
+    "avantages": [
+      "Poste postdoctoral rémunéré",
+      "Liberté de recherche",
+      "Mentorat par des professeurs de KIPAC",
+      "Collaboration avec des groupes de recherche existants",
+      "Possibilité de participer à des activités de sensibilisation et d'engagement public"
+    ],
+    "eligibilite": [
+      "Être un scientifique récemment titulaire d'un doctorat (Ph.D.) en astrophysique, cosmologie ou domaine connexe",
+      "Pour la bourse Stanford Science Fellows : pas plus de deux ans d'expérience postdoctorale",
+      "Pour la bourse Bunyan : spécifier un membre du corps professoral de physique de Stanford comme mentor principal",
+      "Pour la bourse Rubin Observing Specialist : combiner le travail d'observateur au sommet et à la base de Rubin avec la recherche scientifique LSST"
+    ],
+    "procedure_etapes": [
+      "1. Visiter le site de candidature en ligne (Academic Jobs Online) pour le programme de bourses KIPAC.",
+      "2. Créer un compte et remplir le formulaire de candidature.",
+      "3. Téléverser les documents requis (CV, déclaration de recherche, etc.).",
+      "4. Soumettre la candidature avant la date limite du 2 novembre 2026 à 23h59 ET.",
+      "5. Pour les bourses externes, contacter un membre senior de KIPAC pour discuter de la candidature."
+    ],
+    "contacts": [
+      "rdb3@stanford.edu",
+      "sashaph@stanford.edu",
+      "richard.anantua@utsa.edu",
+      "mecapl1@ilstu.edu",
+      "kefang@physics.wisc.edu",
+      "egzweibel@wisc.edu",
+      "globus@astro.unam.mx",
+      "sgralla@email.arizona.edu",
+      "amb2046@columbia.edu",
+      "yl3470@columbia.edu",
+      "lsironi@astro.columbia.edu",
+      "levinson@tauex.tau.ac.il",
+      "tsvi.piran@mail.huji.ac.il",
+      "thompson@cita.utoronto.ca",
+      "ripperda@cita.utoronto.ca",
+      "quataert@princeton.edu",
+      "anatoly@astro.princeton.edu",
+      "yajiey@wustl.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Candidature en ligne (AJO)",
+        "url": "https://academicjobsonline.org/ajo/Stanford/KIPAC/FELLOWS"
+      },
+      {
+        "label": "Intérêts de recherche des membres seniors de KIPAC",
+        "url": "/research/research-interests-kipac-senior-members"
+      },
+      {
+        "label": "Demander un Tea Talk à KIPAC",
+        "url": "/getting-here/request-talk"
+      },
+      {
+        "label": "Centre for Decoding the Universe @ Stanford",
+        "url": "http://datascience.stanford.edu/universe"
+      },
+      {
+        "label": "Stanford Data Science",
+        "url": "https://kipac.stanford.edu/join-or-visit-us/datascience.stanford.edu"
+      },
+      {
+        "label": "HAI",
+        "url": "https://kipac.stanford.edu/join-or-visit-us/hai.stanford.edu"
+      },
+      {
+        "label": "AI/ML at SLAC",
+        "url": "https://ml.slac.stanford.edu/"
+      },
+      {
+        "label": "Groupe Galaxy Formation & Cosmology",
+        "url": "https://www.risawechsler.com/gfc-group.html"
+      },
+      {
+        "label": "Simons Collaboration on Extreme Electrodynamics of Compact Sources (SCEECS)",
+        "url": "https://www.simonsceecs.com/"
+      },
+      {
+        "label": "Candidature SCEECS sur AJO",
+        "url": "https://academicjobsonline.org/ajo/jobs/32740"
+      },
+      {
+        "label": "Via Project",
+        "url": "https://kipac.stanford.edu/via"
+      },
+      {
+        "label": "Stanford Science Fellows - Candidature",
+        "url": "https://stanfordsciencefellows.stanford.edu/apply"
+      },
+      {
+        "label": "Van Bibber Fellowship - Candidature sur AJO",
+        "url": "https://academicjobsonline.org/ajo/jobs/32797"
+      },
+      {
+        "label": "NASA Hubble/Einstein/Sagan Fellowships",
+        "url": "http://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program"
+      },
+      {
+        "label": "NSF Astronomy and Astrophysics Postdoctoral Fellowships",
+        "url": "http://nsf.gov/funding/pgm_summ.jsp?pims_id=5291"
+      },
+      {
+        "label": "Brinson Fellowships",
+        "url": "https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program/announcement-of-opportunity"
+      },
+      {
+        "label": "LSST-DA Catalyst Fellowships",
+        "url": "https://www.lsstcorporation.org/catalyst-fellowship/node/1"
+      },
+      {
+        "label": "Jansky Fellowships",
+        "url": "https://science.nrao.edu/opportunities/postdoctoral-programs/jansky"
+      },
+      {
+        "label": "Canada Postdoctoral Research Award program",
+        "url": "https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program"
+      },
+      {
+        "label": "Page des opportunités KIPAC",
+        "url": "/opportunities"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "KIPAC",
+      "Stanford",
+      "astrophysique",
+      "cosmologie",
+      "fellowship",
+      "postdoc",
+      "SLAC",
+      "Rubin",
+      "Kavli"
+    ],
+    "lien_candidature": "https://academicjobsonline.org/ajo/Stanford/KIPAC/FELLOWS",
+    "source_url": "https://kipac.stanford.edu/opportunities/postdoctoral-opportunities-kipac?utm_id=97758_v0_s00_e0_tv1_a1den5f08gvbpa&fbclid=IwY2xjawU6PZJleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeypTRihvyBAswfvyV8jTP6C1-YeEBt1AYYP1p2VKZ4Z_1KIpqnRssQfs0YDc_aem_s88HRrYNrT_34YkHzGt0uw",
+    "statut": "fermé",
+    "resume": "Le Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) de l'Université Stanford et du SLAC National Accelerator Laboratory offre des opportunités postdoctorales exceptionnelles pour les scientifiques récemment titulaires d'un doctorat en astrophysique et cosmologie. Ces bourses, dont les prestigieuses bourses Kavli, Porat, Bunyan et Rubin, permettent de développer des programmes de recherche innovants avec une grande liberté et un mentorat de haut niveau. Les candidats peuvent postuler jusqu'au 2 novembre 2026 pour le programme principal, avec des opportunités supplémentaires dans des collaborations internationales. Rejoignez un environnement de recherche dynamique et diversifié au cœur de la Silicon Valley.",
+    "imageUrl": "/docs/Opportunit-s-postdoctorales-au-KIPAC.webp",
+    "extrait_le": "2026-10-13T00:29:41",
+    "slug": "bourse-postdoctorale-kipac-stanford-2027"
   },
   {
     "titre": "Bourse Rhodes 2027 pour les candidats internationaux (hors pays spécifiques)",

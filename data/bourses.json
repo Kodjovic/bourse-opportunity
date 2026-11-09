@@ -1,188 +1,5 @@
 [
   {
-    "titre": "Bourses d'études internationales Lester B. Pearson",
-    "seo_slug": "bourse-pearson-international-2027",
-    "organisation": "University of Toronto",
-    "montant": null,
-    "devise": "CAD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-11-06",
-    "deadline_texte": "6 novembre 2026",
-    "niveau_etudes": [
-      "Licence"
-    ],
-    "domaines": [
-      "Tous domaines"
-    ],
-    "pays_eligibles": [
-      "Tous pays sauf Canada"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature",
-      "Dossier de candidature à l'admission",
-      "Lettre de nomination de l'école"
-    ],
-    "avantages": [
-      "Frais de scolarité",
-      "Livres",
-      "Frais accessoires",
-      "Résidence complète pendant 4 ans"
-    ],
-    "eligibilite": [
-      "Être un étudiant international (non canadien nécessitant un permis d'études)",
-      "Être en dernière année d'études secondaires en 2026/2027 ou diplômé au plus tôt en juin 2026",
-      "Commencer ses études à l'Université de Toronto en septembre 2027",
-      "Ne pas être déjà inscrit dans un programme postsecondaire",
-      "Ne pas commencer ses études postsecondaires en janvier 2027"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier votre éligibilité (étudiant international, dernière année secondaire, début des études en septembre 2027).",
-      "2. Demander à votre école secondaire de vous nommer (la nomination doit être soumise par l'école entre le 6 juillet et le 9 octobre 2026).",
-      "3. Soumettre une demande d'admission à au moins un programme de premier cycle à l'Université de Toronto avant le 16 octobre 2026.",
-      "4. Après avoir été nommé et avoir soumis votre demande d'admission, vous recevrez un lien privé pour remplir le formulaire de candidature à la bourse Pearson avant le 6 novembre 2026."
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de participation pour les écoles",
-        "url": "https://apply.adm.utoronto.ca/register/pearson-participate"
-      },
-      {
-        "label": "Formulaire de demande de renseignements",
-        "url": "https://apply.adm.utoronto.ca/register/pearson-inquiry"
-      },
-      {
-        "label": "Bureau du programme Pearson",
-        "url": "https://internationalexperience.utoronto.ca/global-experiences/global-scholarships/lester-b-pearson-scholarship"
-      },
-      {
-        "label": "Site sur l'intégrité académique",
-        "url": "https://www.academicintegrity.utoronto.ca/"
-      }
-    ],
-    "mots_cles": [
-      "bourse Pearson",
-      "bourse internationale Canada",
-      "bourse Université de Toronto",
-      "bourse premier cycle",
-      "bourse complète 4 ans"
-    ],
-    "lien_candidature": "https://future.utoronto.ca/pearson-scholarships?fbclid=IwY2xjawTTn81leHRuA2FlbQIxMABicmlkETE5WXZWdjJLRVB6WEdjWXU4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpZxdDHTNlpvwEawM-hbf41TEL8w9TGIqnC2ZC_E5Cmm0J7bfDnhkiQ2gC15_aem_VDUTK-s9KHYGXJs2B_8GiA#about",
-    "source_url": "https://future.utoronto.ca/pearson-scholarships?fbclid=IwY2xjawTTn81leHRuA2FlbQIxMABicmlkETE5WXZWdjJLRVB6WEdjWXU4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpZxdDHTNlpvwEawM-hbf41TEL8w9TGIqnC2ZC_E5Cmm0J7bfDnhkiQ2gC15_aem_VDUTK-s9KHYGXJs2B_8GiA#about",
-    "statut": "ouvert",
-    "resume": "La bourse Lester B. Pearson est la bourse la plus prestigieuse de l'Université de Toronto pour les étudiants internationaux. Elle offre une prise en charge complète des frais de scolarité, des livres, des frais accessoires et de la résidence pendant quatre ans. Environ 37 boursiers sont sélectionnés chaque année parmi les candidats nommés par leur école secondaire.",
-    "imageUrl": "/docs/Bourses-d_-tudes-internationales-Lester-B.-Pearson.webp",
-    "extrait_le": "2026-07-27T02:29:10",
-    "slug": "bourse-pearson-international-2027"
-  },
-  {
-    "titre": "Bourses postdoctorales en sciences de la Terre, de l'environnement et du climat - Lamont-Doherty Earth Observatory",
-    "seo_slug": "bourse-postdoctorale-lamont-terre-climat-2027",
-    "organisation": "Lamont-Doherty Earth Observatory, Columbia University",
-    "montant": 72116,
-    "devise": "USD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-11-06",
-    "deadline_texte": "6 novembre 2026 (date limite de soumission des candidatures). Les lettres de recommandation doivent être soumises avant le 13 novembre 2026.",
-    "niveau_etudes": [
-      "Postdoctorat"
-    ],
-    "domaines": [
-      "Dynamique de la Terre solide",
-      "Systèmes océaniques, atmosphériques et climatiques",
-      "Dynamique de la cryosphère",
-      "Paléoclimat",
-      "Biogéoscience",
-      "Solutions à la contamination de l'air, de l'eau ou du sol",
-      "Écologie forestière"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "CV incluant une liste de publications",
-      "Proposition de recherche (max 3 pages, hors références, police 12 points, avec titre et nom sur la première page)",
-      "Liste de trois arbitres avec leurs adresses email",
-      "Déclaration sur l'utilisation de l'intelligence artificielle générative"
-    ],
-    "avantages": [
-      "Salaire annuel de 72 116 USD",
-      "Allocation de recherche unique de 12 000 USD",
-      "Frais de déménagement de 1 500 USD",
-      "Soutien institutionnel pour 24 mois",
-      "Possibilité de demander un logement universitaire (places limitées, liste d'attente possible)",
-      "Possibilité de postuler à des financements externes et à des prix/positions internes supplémentaires"
-    ],
-    "eligibilite": [
-      "Avoir récemment obtenu un doctorat (Ph.D.) ou prévoir de terminer les exigences du diplôme avant septembre 2027",
-      "Excellence scientifique et proposition de recherche clairement exprimée sur des problèmes à la pointe des sciences de la Terre",
-      "Les candidats avec une expérience en apprentissage automatique et en IA sont encouragés à postuler",
-      "Limite de 5 ans d'expérience postdoctorale totale autorisée par l'Université Columbia"
-    ],
-    "procedure_etapes": [
-      "1. Lire attentivement toutes les instructions sur le site de candidature.",
-      "2. Contacter dès que possible les mentors potentiels au Lamont pour discuter des possibilités de collaboration.",
-      "3. Préparer les documents requis : CV, proposition de recherche, liste de trois arbitres avec emails, déclaration sur l'utilisation de l'IA générative.",
-      "4. Soumettre la candidature en ligne via le système de candidature de l'Université Columbia avant le 6 novembre 2026.",
-      "5. S'assurer que les arbitres reçoivent la demande automatique et soumettent leurs lettres de recommandation avant le 13 novembre 2026.",
-      "6. Sélectionner l'un des sept domaines de recherche principaux lors de la soumission.",
-      "7. Attendre les résultats de la sélection."
-    ],
-    "contacts": [
-      "pdfellowship@ldeo.columbia.edu",
-      "845-365-8546"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel des bourses postdoctorales",
-        "url": "https://lamont.columbia.edu/about/postdoctoral-fellowships"
-      },
-      {
-        "label": "Détails de la bourse en écologie forestière à Black Rock Forest",
-        "url": "https://www.blackrockforest.org/black-rock-forest-postdoctoral-fellowship-program"
-      },
-      {
-        "label": "Divisions de recherche du Lamont",
-        "url": "https://lamont.columbia.edu/research-divisions"
-      },
-      {
-        "label": "Liste des mentors potentiels",
-        "url": "https://lamont.columbia.edu/postdoctoral-fellowships-prospective-mentors"
-      },
-      {
-        "label": "Opportunités postdoctorales associées à la Columbia Climate School",
-        "url": "https://www.climate.columbia.edu/postdoctoral-research-program"
-      },
-      {
-        "label": "Formulaire de candidature en ligne",
-        "url": "https://academic.careers.columbia.edu/#!/190847"
-      }
-    ],
-    "mots_cles": [
-      "bourse postdoctorale",
-      "sciences de la Terre",
-      "changement climatique",
-      "Lamont-Doherty",
-      "Columbia University",
-      "recherche postdoctorale",
-      "bourse climat",
-      "bourse environnement",
-      "financement postdoc",
-      "bourse États-Unis"
-    ],
-    "lien_candidature": "https://academic.careers.columbia.edu/#!/190847",
-    "source_url": "https://lamont.columbia.edu/about/postdoctoral-fellowships?fbclid=IwY2xjawU6P4FleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEey5R74wE2RMsP5LbsSDgob5dmwBrbN6U8hTWDsYPLU-nCFkBD9iCMW3sJHpM_aem_OtzEpOB_-omOAcwbR1smdw",
-    "statut": "ouvert",
-    "resume": "Le Lamont-Doherty Earth Observatory de l'Université Columbia propose des bourses postdoctorales prestigieuses en sciences de la Terre, de l'environnement et du climat. Les candidats doivent avoir récemment obtenu leur doctorat ou prévoir de le terminer avant septembre 2027. Les bourses offrent un salaire annuel de 72 116 USD, une allocation de recherche de 12 000 USD et une aide au déménagement de 1 500 USD, pour une durée de 24 mois. La date limite de candidature est le 6 novembre 2026, et les lettres de recommandation doivent être soumises avant le 13 novembre 2026.",
-    "imageUrl": "/docs/Bourses-postdoctorales-en-sciences-de-la-Terre-de-l-environnement-et-du-climat.webp",
-    "extrait_le": "2026-10-13T00:36:58",
-    "slug": "bourse-postdoctorale-lamont-terre-climat-2027"
-  },
-  {
     "titre": "Bourse postdoctorale internationale Azrieli",
     "seo_slug": "bourse-azrieli-postdoctorat-israel-2027",
     "organisation": "Azrieli Foundation",
@@ -622,6 +439,121 @@
     "imageUrl": null,
     "extrait_le": "2026-10-26T15:02:02",
     "slug": "bourse-comsats-ms-phd-pakistan-2027"
+  },
+  {
+    "titre": "Programme de doctorat de l'OIST",
+    "seo_slug": "bourse-doctorat-oist-japon-2027",
+    "organisation": "Okinawa Institute of Science and Technology Graduate University (OIST)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2026-11-15",
+    "deadline_texte": "15 novembre 2026 à 23h59 (JST UTC+9)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences",
+      "Ingénierie",
+      "Sciences de la vie",
+      "Sciences physiques",
+      "Sciences de l'environnement",
+      "Informatique",
+      "Mathématiques",
+      "Neurosciences",
+      "Chimie",
+      "Physique",
+      "Biologie"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Relevés de notes et diplômes (licence, master, etc.) en PDF",
+      "Relevé de notes non officiel accepté",
+      "Explication en anglais pour les relevés non rédigés en anglais",
+      "Certificat de scolarité si non diplômé (avec date de fin d'études prévue)",
+      "Déclaration d'intention (Statement of Purpose) de 800 mots maximum (3000 caractères)",
+      "Curriculum Vitae (CV)",
+      "2 à 5 lettres de recommandation en anglais de professeurs",
+      "Score TOEFL iBT ou IELTS de moins de 2 ans (si la langue d'enseignement n'est pas l'anglais)",
+      "Passeport (numéro et copie de la page photo) ou autre pièce d'identité officielle",
+      "Photo d'identité récente (moins de 3 mois)",
+      "Documents optionnels : scores GRE, titres et résumés de publications, présentations orales, autres preuves de réussite"
+    ],
+    "avantages": [
+      "Formation de haut niveau avec un faible ratio étudiants/enseignants",
+      "Participation à un atelier d'admission en ligne",
+      "Processus d'admission sans examen écrit",
+      "Environnement inclusif et diversifié",
+      "Possibilité de bourse (non spécifiée dans le texte)"
+    ],
+    "eligibilite": [
+      "Être titulaire d'une licence, d'un master ou d'un diplôme équivalent avant la date d'admission",
+      "Les candidats peuvent postuler avant l'obtention du diplôme mais doivent le terminer avant l'admission",
+      "Participation obligatoire à l'atelier d'admission (en ligne)",
+      "Les candidatures de femmes et de groupes sous-représentés sont fortement encouragées",
+      "Aucune discrimination fondée sur le genre, l'âge, l'orientation sexuelle, le handicap, la race, l'origine ethnique, la religion, etc."
+    ],
+    "procedure_etapes": [
+      "1. Vérifier la liste des professeurs et unités de recherche pour trouver un domaine correspondant à vos intérêts",
+      "2. Vérifier la disponibilité des professeurs pour encadrer des doctorants",
+      "3. Lire la FAQ pour éviter les erreurs critiques",
+      "4. Créer un compte sur le site de candidature",
+      "5. Préparer tous les documents requis en anglais et les sauvegarder au format PDF",
+      "6. Téléverser les documents sur le site de candidature",
+      "7. Payer les frais de candidature de 5 000 JPY (non remboursables)",
+      "8. Soumettre la candidature avant la date limite",
+      "9. Participer à l'atelier d'admission (en ligne) si présélectionné"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site de candidature",
+        "url": "https://graduateschool.oist.jp/apply/"
+      },
+      {
+        "label": "Politiques de l'école doctorale",
+        "url": "https://www.oist.jp/education/policies-regulations/three-policies"
+      },
+      {
+        "label": "Liste des professeurs et unités de recherche",
+        "url": "https://www.oist.jp/research/faculty-members"
+      },
+      {
+        "label": "Disponibilité des professeurs pour l'encadrement",
+        "url": "https://www.oist.jp/admissions/phd-program/phd-supervision-availability"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.oist.jp/admissions/faq"
+      },
+      {
+        "label": "Page de contact",
+        "url": "https://www.oist.jp/admissions/contact-admissions"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat Japon",
+      "OIST PhD program",
+      "bourse OIST",
+      "doctorat Japon",
+      "bourse recherche Japon",
+      "OIST graduate school",
+      "bourse sciences Japon",
+      "PhD OIST",
+      "bourse internationale Japon",
+      "études doctorales Japon"
+    ],
+    "lien_candidature": "https://graduateschool.oist.jp/apply/",
+    "source_url": "https://www.oist.jp/admissions/phd-program/apply-phd?fbclid=IwY2xjawVe1GlleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfSdNXh9kuqfnO8YUNawWUbrvaprpIMUMr12U2YLXYK-C8VaQKDykq-H-5gw4_aem_jsYV58rIM_j9ryIGdB4H1A",
+    "statut": "ouvert",
+    "resume": "L'OIST Graduate School au Japon propose un programme de doctorat de haut niveau, avec environ 60 étudiants admis chaque année pour garantir un encadrement personnalisé. Les candidats doivent être titulaires d'une licence ou d'un master avant l'admission et soumettre un dossier complet en anglais, incluant relevés de notes, déclaration d'intention, CV, lettres de recommandation et preuve de maîtrise de l'anglais. La sélection se fait sur dossier et via un atelier d'admission en ligne, sans examen écrit. Les frais de candidature sont de 5 000 JPY, et la date limite pour la session 2027 est fixée au 15 novembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:31:41",
+    "slug": "bourse-doctorat-oist-japon-2027"
   },
   {
     "titre": "Bourse postdoctorale junior FWO",
@@ -1097,6 +1029,98 @@
     "slug": "bourse-monica-cole-henrietta-hutton-2026"
   },
   {
+    "titre": "Bourses et récompenses pour étudiants internationaux à l'Université de la Colombie-Britannique (UBC)",
+    "seo_slug": "bourse-ubc-international-2027",
+    "organisation": "University of British Columbia (UBC)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse partielle",
+    "deadline": "2026-11-25",
+    "deadline_texte": "25 novembre 2026 à 12h00 (heure du Pacifique) - date limite étendue pour les candidatures internationales et les demandes de bourses",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Demande de bourse"
+    ],
+    "avantages": [
+      "Prise en charge partielle des frais de scolarité",
+      "Récompenses financières"
+    ],
+    "eligibilite": [
+      "Être un étudiant international",
+      "Souhaiter être considéré pour la bourse internationale UBC",
+      "Postuler pour la session d'hiver 2027-2028 ou la session d'été 2027"
+    ],
+    "procedure_etapes": [
+      "1. Créer un compte sur le portail de candidature UBC",
+      "2. Remplir la demande d'admission en ligne pour la session souhaitée",
+      "3. Soumettre une demande de bourse dans le cadre de la candidature",
+      "4. Respecter la date limite du 25 novembre 2026 à 12h00 (heure du Pacifique)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature UBC",
+        "url": "https://myapplication.ubc.ca/apply"
+      },
+      {
+        "label": "Bourses pour étudiants internationaux",
+        "url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/"
+      },
+      {
+        "label": "Bourses d'entrée internationales",
+        "url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-entrance-scholarships/"
+      },
+      {
+        "label": "Programme International Scholars",
+        "url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/"
+      },
+      {
+        "label": "Dates et échéances",
+        "url": "https://you.ubc.ca/applying-ubc/dates-deadlines/"
+      },
+      {
+        "label": "Comment postuler",
+        "url": "https://you.ubc.ca/applying-ubc/how-to-apply/"
+      },
+      {
+        "label": "Exigences d'admission",
+        "url": "https://you.ubc.ca/applying-ubc/requirements/"
+      },
+      {
+        "label": "Contact",
+        "url": "https://you.ubc.ca/contact-us/"
+      }
+    ],
+    "mots_cles": [
+      "bourse UBC",
+      "bourse Canada",
+      "bourse internationale",
+      "étudier au Canada",
+      "bourse licence Canada",
+      "UBC International Scholars",
+      "bourse université Colombie-Britannique",
+      "candidature UBC 2027"
+    ],
+    "lien_candidature": "https://myapplication.ubc.ca/apply",
+    "source_url": "https://you.ubc.ca/applying-ubc/dates-deadlines/?fbclid=IwY2xjawVeyopleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf0pefHi-s5SruIMaHBWjAUWrJXyW-Yspb17MZLa0G72uObybLtmiZWW4BHLE_aem_Lthn08iuYB2xkcskM3tTRA",
+    "statut": "ouvert",
+    "resume": "L'Université de la Colombie-Britannique (UBC), l'une des meilleures universités canadiennes, offre des bourses et récompenses aux étudiants internationaux souhaitant poursuivre un programme de licence. Les candidats doivent postuler à l'admission et soumettre une demande de bourse avant le 25 novembre 2026 à 12h00 (heure du Pacifique). Ces bourses permettent de financer partiellement les frais de scolarité et sont accessibles à tous les domaines d'études. Une opportunité exceptionnelle pour les étudiants internationaux visant une formation de premier cycle au Canada.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T16:49:38",
+    "slug": "bourse-ubc-international-2027"
+  },
+  {
     "titre": "Bourse d'excellence et programme d'opportunités (ESOP) de l'ETH Zurich",
     "seo_slug": "bourse-excellence-eth-zurich-master-2027",
     "organisation": "ETH Zurich",
@@ -1460,6 +1484,204 @@
     "imageUrl": null,
     "extrait_le": "2026-09-30T15:32:26",
     "slug": "bourse-yadias-doctorat-luxembourg-2026"
+  },
+  {
+    "titre": "Bourse d'excellence et d'opportunité (ESOP) - ETH Zurich",
+    "seo_slug": "bourse-esop-eth-zurich-2027",
+    "organisation": "ETH Zurich",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse partielle",
+    "deadline": "2026-11-30",
+    "deadline_texte": "30 novembre 2026 à 11h59 (heure d'Europe centrale, CET)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement, non spécifié)",
+    "documents_requis": [
+      "Candidature complète avec tous les documents requis (non détaillés)"
+    ],
+    "avantages": [
+      "Bourse d'excellence et d'opportunité (ESOP) - détails non spécifiés dans le texte"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un diplôme de Bachelor d'une université étrangère (hors Suisse)",
+      "Ou être titulaire d'un Master/PhD d'une université suisse mais avec un Bachelor obtenu à l'étranger",
+      "Les candidats avec un Bachelor suisse peuvent postuler uniquement lors de la deuxième période (avril 2027) mais ne sont pas éligibles à la bourse ESOP (sauf indication contraire)"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier son éligibilité (Bachelor international ou Master/PhD suisse avec Bachelor étranger)",
+      "2. Préparer une candidature complète avec tous les documents requis",
+      "3. Soumettre la candidature en ligne entre le 1er et le 30 novembre 2026 (11h59 CET)",
+      "4. Pour les candidats avec Bachelor suisse : postuler entre le 1er et le 30 avril 2027 (11h59 CEST) - mais non éligibles à la bourse ESOP"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page d'accueil ETH Zurich",
+        "url": "https://ethz.ch/en/"
+      },
+      {
+        "label": "Recherche",
+        "url": "https://ethz.ch/en/utils/search.html"
+      },
+      {
+        "label": "Contact",
+        "url": "https://ethz.ch/en/utils/contact.html"
+      },
+      {
+        "label": "Plan du site",
+        "url": "https://ethz.ch/en/footer/sitemap.html"
+      },
+      {
+        "label": "Programme de bourse ESOP",
+        "url": "https://ethz.ch/en/studies/financial.html"
+      },
+      {
+        "label": "Contact Admissions Office",
+        "url": "https://ethz.ch/en/studies/master.html#contact-admissions-office"
+      }
+    ],
+    "mots_cles": [
+      "bourse ETH Zurich",
+      "bourse ESOP",
+      "bourse excellence opportunity",
+      "master ETH Zurich",
+      "bourse Suisse",
+      "candidature master ETH",
+      "bourse internationale",
+      "financement études master"
+    ],
+    "lien_candidature": "https://ethz.ch/en/studies/financial.html",
+    "source_url": "https://ethz.ch/en/studies/master/application/dates.html?fbclid=IwY2xjawVezn1leHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfVJAMi6SphR7Wj2_PclMrScys81TDW9fiTf1Xp2IIg8Aad83FfSnWbh9J6Bw_aem_O0xuKKYNsCMiR6_8pWlSKw",
+    "statut": "ouvert",
+    "resume": "L'ETH Zurich propose une bourse d'excellence et d'opportunité (ESOP) pour les étudiants internationaux titulaires d'un Bachelor étranger souhaitant poursuivre un Master. La candidature doit être soumise entre le 1er et le 30 novembre 2026 (11h59 CET) via le portail de candidature de l'ETH Zurich. Les candidats avec un Bachelor suisse peuvent postuler en avril 2027 mais ne sont pas éligibles à cette bourse. Les détails financiers et les documents requis ne sont pas précisés dans ce texte; il est recommandé de consulter la page dédiée à la bourse ESOP.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:05:48",
+    "slug": "bourse-esop-eth-zurich-2027"
+  },
+  {
+    "titre": "Bourse de l'Académie Yenching de l'Université de Pékin",
+    "seo_slug": "bourse-yenching-academy-pekin-2027",
+    "organisation": "Yenching Academy of Peking University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-30",
+    "deadline_texte": "30 novembre 2026 à 9h00 (heure de Pékin)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Études interdisciplinaires sur la Chine"
+    ],
+    "pays_eligibles": [
+      "International (hors Chine continentale)",
+      "Chine (Hong Kong, Macao, Taiwan)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (ou test d'anglais pour les non-natifs)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Déclaration personnelle (750 mots maximum)",
+      "Déclaration d'intérêt de recherche (1500 mots maximum, hors citations)",
+      "Curriculum Vitae",
+      "Relevés de notes officiels",
+      "Diplôme(s) ou certificat(s) d'inscription",
+      "Deux lettres de recommandation académiques (en chinois ou en anglais)",
+      "Preuve de maîtrise de l'anglais (IELTS, TOEFL, Cambridge, CET-6, TEM-4) selon les cas"
+    ],
+    "avantages": [
+      "Frais de scolarité",
+      "Hébergement",
+      "Allocation mensuelle",
+      "Un billet d'avion aller-retour",
+      "Frais d'études sur le terrain"
+    ],
+    "eligibilite": [
+      "Diplôme de licence minimum dans n'importe quel domaine, ou inscription en cours avec obtention du diplôme en août de l'année d'inscription prévue",
+      "Excellents résultats académiques",
+      "Fort intérêt pour l'étude interdisciplinaire de la Chine",
+      "Réalisations extrascolaires, engagement communautaire, responsabilité sociale et potentiel de leadership",
+      "Maîtrise de l'anglais",
+      "Pour les candidats internationaux : être non-chinois avec un passeport valide (les anciens citoyens chinois doivent fournir des documents prouvant la renonciation à la nationalité chinoise avant le 30 avril 2021)"
+    ],
+    "procedure_etapes": [
+      "Créer un compte sur le portail de candidature de l'Académie Yenching",
+      "Remplir le formulaire de candidature en ligne",
+      "Soumettre la déclaration personnelle (750 mots max)",
+      "Soumettre la déclaration d'intérêt de recherche (1500 mots max)",
+      "Téléverser le CV",
+      "Téléverser les relevés de notes officiels",
+      "Téléverser les diplômes ou certificats d'inscription",
+      "Faire soumettre deux lettres de recommandation par des professeurs titulaires ou associés",
+      "Fournir les scores d'anglais (IELTS, TOEFL, Cambridge, CET-6, TEM-4) selon les exigences",
+      "Pour les candidats des universités partenaires : passer par la pré-sélection interne de l'université d'origine avant de soumettre la candidature",
+      "Pour les candidats de Hong Kong, Macao et Taiwan : compléter également une demande supplémentaire sur le site des admissions de troisième cycle de l'Université de Pékin",
+      "Soumettre la candidature avant la date limite"
+    ],
+    "contacts": [
+      "yca@pku.edu.cn",
+      "yca-admissions@pku.edu.cn",
+      "gycapr@pku.edu.cn",
+      "ycacareer@pku.edu.cn",
+      "ycaalumni@pku.edu.cn",
+      "010-6275 3625",
+      "86-10-6274 4510",
+      "86-10-6276 6358",
+      "010-6276 8317",
+      "010-6275 6761"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://apply.yca.pku.edu.cn/"
+      },
+      {
+        "label": "Universités partenaires",
+        "url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Partner_and_Cooperating_Universities.htm"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+      },
+      {
+        "label": "Site des admissions de troisième cycle de l'Université de Pékin",
+        "url": "https://admission.pku.edu.cn/index.htm"
+      },
+      {
+        "label": "Informations pour les candidats de Hong Kong, Macao et Taiwan",
+        "url": "https://admission.pku.edu.cn/zsxx/gatzs/gatzsjz/index.htm"
+      },
+      {
+        "label": "Site des étudiants internationaux de l'Université de Pékin",
+        "url": "https://isd.pku.edu.cn/en/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Yenching",
+      "bourse Chine",
+      "bourse master Chine",
+      "bourse Université de Pékin",
+      "bourse études chinoises",
+      "bourse interdisciplinaire",
+      "bourse 2027",
+      "bourse complète Chine"
+    ],
+    "lien_candidature": "https://apply.yca.pku.edu.cn/",
+    "source_url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm?fbclid=IwY2xjawVezq1leHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfm7TpfZbTb0fxihNcpvE37eXyqCGFqTuJCXD3IKhc-ZV5yLtZfqqRyEoEw4M_aem_1UiX5MoGvv1_M-xwi9hlsA",
+    "statut": "ouvert",
+    "resume": "L'Académie Yenching de l'Université de Pékin offre une bourse complète aux étudiants internationaux et chinois pour un master interdisciplinaire sur la Chine. Les candidats bénéficient de la prise en charge des frais de scolarité, de l'hébergement, d'une allocation mensuelle, d'un billet d'avion aller-retour et des frais d'études sur le terrain. La sélection est basée sur l'excellence académique, l'engagement communautaire et le potentiel de leadership. Les candidatures pour la cohorte 2027 sont ouvertes jusqu'au 30 novembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:16:13",
+    "slug": "bourse-yenching-academy-pekin-2027"
   },
   {
     "titre": "Programme de bourses environnementales de Harvard 2027 aux États-Unis (entièrement financé)",
@@ -2009,6 +2231,211 @@
     "slug": "bourse-recherche-cityu-hongkong-2027"
   },
   {
+    "titre": "Bourses d'excellence Justus & Louise van Effen et bourse en génie électrique de TU Delft",
+    "seo_slug": "bourse-tu-delft-justus-louise-van-effen-2027",
+    "organisation": "TU Delft (Université de technologie de Delft)",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète (Justus & Louise van Effen) et bourse partielle (Electrical Engineering)",
+    "deadline": "2026-12-01",
+    "deadline_texte": "1er décembre 2026 à 23h59 CET",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Tous les programmes MSc réguliers de TU Delft (sauf programmes conjoints internationaux)",
+      "Génie électrique (track Microélectronique)"
+    ],
+    "pays_eligibles": [
+      "International (tous les pays)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (certificat de langue anglaise requis, sauf exemption)",
+    "documents_requis": [
+      "Formulaire de candidature à la bourse (Scholarship Application Form)",
+      "Une lettre de recommandation (si deux références, les fusionner en un seul PDF)",
+      "Certificat de langue anglaise (sauf exemption)",
+      "Candidature MSc complète (dossier d'admission)"
+    ],
+    "avantages": [
+      "Frais de scolarité complets pour la première année du programme MSc (selon le taux statutaire ou institutionnel, en fonction de la nationalité enregistrée)",
+      "Contribution aux frais de subsistance",
+      "Pour la deuxième année, les allocations sont versées sous réserve de progrès suffisants (au moins 48 ECTS sur 60 à la fin de la première année)",
+      "Bourse partielle pour jusqu'à deux étudiants en génie électrique (track Microélectronique) couvrant partiellement les frais de scolarité",
+      "Extension de la bourse au génie électrique pour la deuxième année sous réserve d'une moyenne de 8,0 (80%) pendant la première année",
+      "Possibilité d'offre de doctorat en microélectronique si le projet de thèse MSc reçoit une note de 9 (90%) ou plus"
+    ],
+    "eligibilite": [
+      "Être un excellent candidat international (conditionnellement) admis à un programme MSc régulier de 2 ans à TU Delft (à l'exclusion des programmes conjoints internationaux)",
+      "Avoir obtenu d'excellents résultats académiques dans le(s) programme(s) d'études précédent(s), en lien avec le programme MSc visé (indication : parmi les 10% meilleurs diplômés)",
+      "Avoir soumis une candidature MSc complète avant la date limite de la bourse",
+      "Pour la bourse en génie électrique : être admis (conditionnellement) au programme MSc régulier de 2 ans en génie électrique (track Microélectronique)",
+      "Pour la bourse en génie électrique : avoir une moyenne cumulative (GPA) de 80% ou plus du maximum de l'échelle dans le diplôme de bachelor d'une université internationalement reconnue hors des Pays-Bas",
+      "Les boursiers ne sont pas autorisés à recevoir d'autres formes de financement partiel ou complet en plus de la bourse Justus & Louise van Effen",
+      "Il est déconseillé de travailler à temps partiel pendant les études"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les exigences d'admission au programme MSc",
+      "2. Compléter la candidature MSc en ligne",
+      "3. Télécharger le formulaire de candidature à la bourse (Scholarship Application Form)",
+      "4. Télécharger une lettre de recommandation (fusionner deux références en un seul PDF)",
+      "5. Télécharger le certificat de langue anglaise (sauf exemption)",
+      "6. Soumettre la candidature complète avant le 1er décembre 2026 à 23h59 CET"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature à la bourse (PDF)",
+        "url": "https://filelist.tudelft.nl/TUDelft/Onderwijs/Praktische_zaken/Scholarships/Scholarship%20Application%20Form%202027-2029.pdf"
+      },
+      {
+        "label": "Procédure de candidature MSc",
+        "url": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/application-procedure"
+      },
+      {
+        "label": "Exigences d'admission (y compris exemption de langue)",
+        "url": "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-international-diploma/admission-requirements"
+      },
+      {
+        "label": "FAQ sur les bourses",
+        "url": "https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships/faq"
+      },
+      {
+        "label": "Frais de scolarité et finances",
+        "url": "https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/tuition-fee-finances"
+      },
+      {
+        "label": "Bourses d'autres fournisseurs",
+        "url": "https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships/scholarships-from-other-providers"
+      }
+    ],
+    "mots_cles": [
+      "bourse TU Delft",
+      "bourse Pays-Bas",
+      "bourse master",
+      "bourse excellence",
+      "Justus Louise van Effen",
+      "bourse génie électrique",
+      "bourse internationale",
+      "étudier aux Pays-Bas"
+    ],
+    "lien_candidature": "https://filelist.tudelft.nl/TUDelft/Onderwijs/Praktische_zaken/Scholarships/Scholarship%20Application%20Form%202027-2029.pdf",
+    "source_url": "https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships?fbclid=IwY2xjawVe0TNleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfokU-AREs5TLmeINQ78drg1kypStAB1RcuettMm-FlDEsZ4hLfGeEDt67Y-4_aem_jjstOQ0hOzrVIzHqBGeOoQ",
+    "statut": "ouvert",
+    "resume": "L'Université de technologie de Delft (TU Delft) offre 16 bourses complètes d'excellence Justus & Louise van Effen pour ses programmes de master réguliers, ainsi que 2 bourses partielles pour le programme de génie électrique (track Microélectronique). Ces bourses visent à attirer les étudiants internationaux les plus talentueux et motivés, en couvrant les frais de scolarité et en contribuant aux frais de subsistance. Les candidats doivent postuler avant le 1er décembre 2026 et soumettre un dossier complet incluant le formulaire de bourse, une lettre de recommandation et un certificat de langue anglaise. Les bourses sont extrêmement compétitives et attribuées aux meilleurs candidats.",
+    "imageUrl": "/docs/universit-de-technologie-de-Delft-avec-une-bourse.png",
+    "extrait_le": "2026-11-09T17:19:42",
+    "slug": "bourse-tu-delft-justus-louise-van-effen-2027"
+  },
+  {
+    "titre": "Bourse de recherche doctorale de Hong Kong (Hong Kong PhD Fellowship Scheme)",
+    "seo_slug": "bourse-doctorat-hong-kong-2027",
+    "organisation": "Research Grants Council (RGC), University Grants Committee",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-12-01",
+    "deadline_texte": "1er décembre 2026 à 12h00 (midi) heure de Hong Kong pour la candidature initiale en ligne. Les universités peuvent avoir des dates limites supplémentaires pour la candidature complète, généralement aussi le 1er décembre 2026 à 23h59 heure de Hong Kong.",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les domaines de recherche"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (les programmes sont dispensés en anglais; des tests de compétence peuvent être exigés par les universités)",
+    "documents_requis": [
+      "Candidature initiale en ligne via le système électronique HKPFSES",
+      "Numéro de référence HKPFS",
+      "Candidature complète auprès des universités (documents spécifiques selon l'université: relevés de notes, diplômes, lettres de recommandation, proposition de recherche, etc.)"
+    ],
+    "avantages": [
+      "Bourse mensuelle compétitive (montant non spécifié dans le texte)",
+      "Frais de scolarité et de recherche pris en charge (non spécifié dans le texte)",
+      "Allocation de voyage et de déménagement (non spécifié dans le texte)",
+      "Soutien à la recherche et aux conférences (non spécifié dans le texte)"
+    ],
+    "eligibilite": [
+      "Candidats internationaux éligibles à un programme de doctorat",
+      "Satisfaire aux conditions d'admission des universités et programmes choisis",
+      "Soumettre une candidature initiale pour obtenir un numéro de référence HKPFS avant de postuler aux universités",
+      "Choisir jusqu'à deux programmes/départements dans une ou deux universités"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre une candidature initiale en ligne via le système électronique HKPFSES (https://cerg1.ugc.edu.hk/hkpfs/InitApplication.jsp) pour obtenir un numéro de référence HKPFS.",
+      "2. Consulter les notes d'orientation (Guidance Note) pour remplir la candidature initiale.",
+      "3. Après réception du numéro de référence, soumettre une candidature complète pour le programme de doctorat choisi directement à l'université (ou aux universités) sélectionnée(s), en mentionnant le numéro de référence HKPFS.",
+      "4. Respecter les dates limites de candidature initiale (1er décembre 2026, 12h00 HKT) et les dates limites spécifiques de chaque université pour la candidature complète (généralement 1er décembre 2026, 23h59 HKT)."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Système électronique HKPFS - Candidature initiale",
+        "url": "https://cerg1.ugc.edu.hk/hkpfs/InitApplication.jsp"
+      },
+      {
+        "label": "Notes d'orientation pour la candidature initiale (PDF)",
+        "url": "https://cerg1.ugc.edu.hk/hkpfs/GuidanceNote.pdf"
+      },
+      {
+        "label": "Universités participantes",
+        "url": "https://cerg1.ugc.edu.hk/hkpfs/institutions.html"
+      },
+      {
+        "label": "City University of Hong Kong - HKPFS",
+        "url": "http://www.cityu.edu.hk/sgs/hkphd"
+      },
+      {
+        "label": "Hong Kong Baptist University - HKPFS",
+        "url": "https://gs.hkbu.edu.hk/admission/hong-kong-phd-fellowship-scheme"
+      },
+      {
+        "label": "Lingnan University - HKPFS",
+        "url": "https://www.ln.edu.hk/rpg/hong-kong-phd-fellowship-scheme-hkpfs"
+      },
+      {
+        "label": "The Chinese University of Hong Kong - HKPFS",
+        "url": "https://www.gs.cuhk.edu.hk/hkpfs"
+      },
+      {
+        "label": "The Education University of Hong Kong - HKPFS",
+        "url": "https://gs.eduhk.hk/scholarships/hong-kong-phd-fellowship-scheme"
+      },
+      {
+        "label": "The Hong Kong Polytechnic University - HKPFS",
+        "url": "https://www.polyu.edu.hk/gs/hkpfs/"
+      },
+      {
+        "label": "The Hong Kong University of Science and Technology - HKPFS",
+        "url": "https://fytgs.hkust.edu.hk/hkpfs"
+      },
+      {
+        "label": "The University of Hong Kong - HKPFS",
+        "url": "https://gradsch.hku.hk/hkpfs"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat Hong Kong",
+      "HKPFS",
+      "bourse recherche Hong Kong",
+      "financement thèse Hong Kong",
+      "bourse internationale doctorat",
+      "Research Grants Council",
+      "bourse 2027",
+      "études supérieures Hong Kong"
+    ],
+    "lien_candidature": "https://cerg1.ugc.edu.hk/hkpfs/InitApplication.jsp",
+    "source_url": "https://cerg1.ugc.edu.hk/hkpfs/apply.html?fbclid=IwY2xjawVe1DRleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf7ZpjU7z6FKe-9NxABu0plD0GBYbpmO0K1zsMLQUGESRLwMKzkDL3HJ1DP_Y_aem_gElc_PK0PzfJKqwaj4f3Xw",
+    "statut": "ouvert",
+    "resume": "Le Hong Kong PhD Fellowship Scheme (HKPFS) est une bourse prestigieuse offerte par le Research Grants Council de Hong Kong pour attirer les meilleurs étudiants internationaux en doctorat. Elle couvre les frais de scolarité, une allocation mensuelle compétitive et des frais de voyage. Les candidats doivent d'abord soumettre une candidature initiale en ligne pour obtenir un numéro de référence, puis postuler directement aux universités participantes. La date limite de candidature initiale est fixée au 1er décembre 2026 à 12h00 (heure de Hong Kong).",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:30:08",
+    "slug": "bourse-doctorat-hong-kong-2027"
+  },
+  {
     "titre": "Bourses de l'Université de Maastricht pour étudiants internationaux",
     "seo_slug": "bourses-universite-maastricht-internationaux-2027",
     "organisation": "Maastricht University (UM)",
@@ -2258,6 +2685,121 @@
     "slug": "bourse-nerc-doctorat-cambridge-2027"
   },
   {
+    "titre": "Financement des études postuniversitaires à l'Université de Cambridge",
+    "seo_slug": "bourse-postgraduate-cambridge-2027",
+    "organisation": "University of Cambridge",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète ou partielle",
+    "deadline": "2026-12-08",
+    "deadline_texte": "8 décembre 2026 (date limite principale pour l'admission 2027/28) et 6 janvier 2027 (deuxième date limite). Pour les citoyens américains candidats à la bourse Gates Cambridge, la date limite est le 14 octobre 2026. Les candidatures doivent être soumises avant 23h59 GMT.",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (niveau requis selon le programme)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Relevés de notes",
+      "Lettres de recommandation",
+      "CV",
+      "Lettre de motivation",
+      "Preuve de proficiency en anglais",
+      "Autres documents spécifiques au programme"
+    ],
+    "avantages": [
+      "Prise en charge totale ou partielle des frais de scolarité",
+      "Prise en charge des frais de vie",
+      "Possibilité de bourse complète couvrant frais de scolarité et frais de vie",
+      "Autres avantages selon la bourse spécifique"
+    ],
+    "eligibilite": [
+      "Être admis à un programme de troisième cycle à l'Université de Cambridge",
+      "Répondre aux critères spécifiques de chaque bourse",
+      "Souvent réservé aux nouveaux étudiants",
+      "Certaines bourses peuvent exiger la sélection d'un collège spécifique",
+      "Les citoyens américains peuvent postuler à la bourse Gates Cambridge avec une date limite spécifique"
+    ],
+    "procedure_etapes": [
+      "1. Rechercher les opportunités de financement au moins un an avant le début du cours.",
+      "2. Vérifier la date limite de financement spécifique à votre cours sur la page du cours.",
+      "3. Remplir la demande d'admission au cours via le portail de candidature (Applicant Portal).",
+      "4. Cocher la case 'Oui - Je souhaite postuler pour un financement' dans la section financement du portail.",
+      "5. Pour certaines bourses, fournir des informations supplémentaires ou répondre à des questions additionnelles.",
+      "6. Soumettre la candidature complète (y compris les références) avant la date limite de financement à 23h59 GMT.",
+      "7. Pour les bourses nécessitant une candidature séparée, remplir le formulaire spécifique et respecter les dates limites indiquées.",
+      "8. Contacter directement les organismes de financement externes pour leurs propres procédures.",
+      "9. Suivre l'état de la candidature et attendre les décisions de financement (généralement entre février et juin)."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Recherche de financement (Funding Search)",
+        "url": "https://www.student-funding.cam.ac.uk/"
+      },
+      {
+        "label": "Page du cours pour vérifier la date limite",
+        "url": "https://www.postgraduate.study.cam.ac.uk/node/2627"
+      },
+      {
+        "label": "Statistiques de financement 2025/26",
+        "url": "/download/postgraduate-funding-statistics"
+      },
+      {
+        "label": "Sites des départements",
+        "url": "https://www.postgraduate.study.cam.ac.uk/node/81"
+      },
+      {
+        "label": "Sites des collèges",
+        "url": "https://www.postgraduate.study.cam.ac.uk/node/208"
+      },
+      {
+        "label": "Programmes de formation doctorale",
+        "url": "https://www.postgraduate.study.cam.ac.uk/node/38342"
+      },
+      {
+        "label": "Bourses et projets de recherche financés",
+        "url": "https://www.jobs.cam.ac.uk/job/?category=6"
+      },
+      {
+        "label": "Centre de ressources pour l'accessibilité et le handicap",
+        "url": "https://www.disability.admin.cam.ac.uk/funding"
+      },
+      {
+        "label": "Financement externe et prêts",
+        "url": "https://www.postgraduate.study.cam.ac.uk/node/41652"
+      },
+      {
+        "label": "FAQ sur le financement",
+        "url": "https://camadmissions.zendesk.com/hc/en-gb/categories/7225552078994-Funding"
+      }
+    ],
+    "mots_cles": [
+      "bourse Cambridge",
+      "financement postgraduate",
+      "bourse master Cambridge",
+      "bourse doctorat Cambridge",
+      "bourse Gates Cambridge",
+      "financement études supérieures",
+      "bourse internationale Cambridge",
+      "comment financer ses études à Cambridge"
+    ],
+    "lien_candidature": "https://www.postgraduate.study.cam.ac.uk/funding",
+    "source_url": "https://www.postgraduate.study.cam.ac.uk/funding?fbclid=IwY2xjawVe0-1leHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfP4quGK26Ec4DWZW5i_ZVkSMDSlmwo566nNwrq366GXmTaxmZpcGZ0DkkaWY_aem_L4FHkDVLkIh1AYgUzcfrng",
+    "statut": "ouvert",
+    "resume": "L'Université de Cambridge offre de nombreuses opportunités de financement pour les études postuniversitaires, couvrant jusqu'à la totalité des frais de scolarité et de vie. Environ 64% des doctorants et 14% des étudiants en master bénéficient d'un financement complet. Les candidats doivent postuler via le portail de candidature en cochant la case de financement et respecter les dates limites spécifiques à leur cours, généralement en décembre ou janvier. Les bourses les plus prestigieuses, comme la bourse Gates Cambridge, ont des dates limites anticipées. Il est conseillé de commencer ses recherches au moins un an à l'avance.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:28:47",
+    "slug": "bourse-postgraduate-cambridge-2027"
+  },
+  {
     "titre": "Bourses d'entrée pour étudiants de premier cycle (USES) - Université Simon Fraser",
     "seo_slug": "bourse-uses-sfu-premier-cycle-2027",
     "organisation": "Simon Fraser University (SFU)",
@@ -2438,6 +2980,179 @@
     "slug": "bourse-scor-scientifiques-visiteurs-2027"
   },
   {
+    "titre": "Bourses de l'Université Mohammed bin Zayed d'Intelligence Artificielle (MBZUAI)",
+    "seo_slug": "bourse-mbzuai-intelligence-artificielle-2027",
+    "organisation": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
+    "montant": null,
+    "devise": "AED",
+    "type_financement": "bourse complète",
+    "deadline": "2026-12-15",
+    "deadline_texte": "15 décembre 2026 pour la plupart des programmes de master et de doctorat (date limite principale pour les candidats). Autres dates : 1er novembre 2026 (BSc Early Action), 22 janvier 2027 (MSc et PhD en biologie computationnelle), 1er février 2027 (BSc Regular Decision), 28 février 2027 (Programme mondial de stages de recherche MGRIP), et l'Aspire PhD Fellowship est ouvert toute l'année.",
+    "niveau_etudes": [
+      "Licence",
+      "Master",
+      "Doctorat",
+      "Stages de recherche"
+    ],
+    "domaines": [
+      "Intelligence artificielle",
+      "Informatique",
+      "Biologie computationnelle",
+      "Ingénierie",
+      "Business"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Licence (BSc) : bourses couvrant jusqu'à 100 % des frais de scolarité et du coût de la vie",
+      "Master (MSc) : financement complet pour l'automne 2027, sauf pour le Master en intelligence artificielle appliquée",
+      "Doctorat (PhD) : bourse complète incluant les frais de scolarité, l'hébergement, les soins de santé, le visa étudiant et une allocation mensuelle"
+    ],
+    "eligibilite": [
+      "Licence : être en fin d'études secondaires",
+      "Master : être titulaire d'un diplôme en STEM (sciences, technologie, ingénierie, mathématiques)",
+      "Doctorat : vouloir mener des recherches",
+      "Stages de recherche : être intéressé par une première expérience en recherche"
+    ],
+    "procedure_etapes": [
+      "Choisir son niveau d'études (licence, master, doctorat ou stage de recherche) pour voir les programmes disponibles",
+      "Sélectionner le programme souhaité",
+      "Préparer son dossier de candidature",
+      "Soumettre sa candidature via le portail en ligne unique : https://apply.mbzuai.ac.ae/ApplicantPortal/s/login/",
+      "Respecter la date limite correspondant au programme choisi"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature en ligne",
+        "url": "https://apply.mbzuai.ac.ae/ApplicantPortal/s/login/"
+      }
+    ],
+    "mots_cles": [
+      "bourse MBZUAI",
+      "bourse intelligence artificielle",
+      "bourse Abu Dhabi",
+      "bourse master IA",
+      "bourse doctorat IA",
+      "bourse licence IA",
+      "financement complet études IA",
+      "bourse EAU 2027"
+    ],
+    "lien_candidature": "https://apply.mbzuai.ac.ae/ApplicantPortal/s/login/",
+    "source_url": "https://mbzuai.ac.ae/study-artificial-intelligence?fbclid=IwY2xjawVe1SxleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfeBvAwnNBC3xl-7oUi8IrFVJ3ZIzJRh8farRNIiF4rsxtF2sjNB0XVyXcSOQ_aem_xtod9yATrTnRriNOjt7TTg",
+    "statut": "ouvert",
+    "resume": "L'Université Mohammed bin Zayed d'Intelligence Artificielle (MBZUAI), située à Abu Dhabi, est la première université au monde entièrement dédiée à l'IA. Elle propose des programmes de licence, master, doctorat et des stages de recherche, avec un financement généreux : bourses jusqu'à 100 % pour la licence, financement complet pour la plupart des masters, et bourse complète avec allocation mensuelle pour le doctorat. Les candidatures se font via un portail en ligne unique, avec des dates limites s'échelonnant de novembre 2026 à février 2027 selon les programmes. Rejoignez une institution classée 10e mondiale en IA et bénéficiez d'un environnement de recherche exceptionnel.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:34:22",
+    "slug": "bourse-mbzuai-intelligence-artificielle-2027"
+  },
+  {
+    "titre": "Bourse EMMIR - Master Européen en Migrations et Relations Interculturelles",
+    "seo_slug": "bourse-emmir-master-migrations-2027",
+    "organisation": "EMMIR (European Master in Migration and Intercultural Relations)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-12-20",
+    "deadline_texte": "20 décembre 2026 pour les bourses et les places d'études sans frais. Pour les places payantes, les candidatures sont ouvertes jusqu'à attribution des places ou au plus tard le 15 juillet 2027.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Migrations",
+      "Relations interculturelles"
+    ],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse complète",
+      "Places d'études sans frais"
+    ],
+    "eligibilite": [
+      "Répondre aux conditions d'admission du programme"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page des procédures de candidature",
+      "2. Vérifier les conditions d'admission",
+      "3. Préparer les documents requis",
+      "4. Soumettre la candidature en ligne via le gestionnaire de candidatures EMundus",
+      "5. Attendre la décision du comité de sélection"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page de contact",
+        "url": "https://www.emmir.org/contact"
+      },
+      {
+        "label": "Procédures de candidature",
+        "url": "https://www.emmir.org/application-procedures"
+      },
+      {
+        "label": "Conditions d'admission",
+        "url": "https://www.emmir.org/requirements"
+      },
+      {
+        "label": "Coûts et financement",
+        "url": "https://www.emmir.org/cost-and-funding"
+      },
+      {
+        "label": "Prochaines étapes",
+        "url": "https://www.emmir.org/next-steps"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.emmir.org/faq"
+      },
+      {
+        "label": "Programme",
+        "url": "https://www.emmir.org/programme"
+      },
+      {
+        "label": "Vie étudiante EMMIR",
+        "url": "https://www.emmir.org/emmir-life"
+      },
+      {
+        "label": "Actualités des anciens",
+        "url": "https://www.emmir.org/news/categories/alumni-news"
+      },
+      {
+        "label": "Migration 101",
+        "url": "https://www.emmir.org/migration-101"
+      },
+      {
+        "label": "Partenaires",
+        "url": "https://www.emmir.org/partners"
+      },
+      {
+        "label": "Règlement (CE) N° 45/2001 sur la protection des données",
+        "url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2001:008:0001:0022:EN:PDF"
+      }
+    ],
+    "mots_cles": [
+      "bourse EMMIR",
+      "master migrations",
+      "relations interculturelles",
+      "bourse Erasmus Mundus",
+      "études en Europe",
+      "bourse master 2027",
+      "financement études migrations"
+    ],
+    "lien_candidature": "https://www.emmir.org/application-procedures",
+    "source_url": "https://www.emmir.org/applications?fbclid=IwY2xjawVe07lleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfP4quGK26Ec4DWZW5i_ZVkSMDSlmwo566nNwrq366GXmTaxmZpcGZ0DkkaWY_aem_L4FHkDVLkIh1AYgUzcfrng",
+    "statut": "ouvert",
+    "resume": "Le Master Européen en Migrations et Relations Interculturelles (EMMIR) ouvre ses candidatures pour l'édition 2027-2029. Les candidats peuvent postuler jusqu'au 20 décembre 2026 pour bénéficier d'une bourse complète ou d'une place d'études sans frais. Les places payantes restent disponibles jusqu'au 15 juillet 2027. Ce programme d'excellence, coordonné par l'Université de Oldenbourg et soutenu par le programme Erasmus Mundus, forme les futurs experts des questions migratoires et interculturelles.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:28:06",
+    "slug": "bourse-emmir-master-migrations-2027"
+  },
+  {
     "titre": "Bourse d'excellence pour étudiants internationaux de l'Université Charles Sturt",
     "seo_slug": "bourse-excellence-charles-sturt-international-2026",
     "organisation": "Charles Sturt University",
@@ -2547,6 +3262,60 @@
     "imageUrl": null,
     "extrait_le": "2026-09-22T02:57:53",
     "slug": "bourse-excellence-charles-sturt-international-2026"
+  },
+  {
+    "titre": "Calendrier d'admission de l'Université KAUST 2026-2027",
+    "seo_slug": "kaust-admission-2026-2027",
+    "organisation": "King Abdullah University of Science and Technology (KAUST)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2027-01-03",
+    "deadline_texte": "3 janvier 2027 (date limite pour la deuxième ronde d'admission à l'automne 2027)",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [
+      "Pour le printemps 2027 : ouverture uniquement aux candidats au doctorat",
+      "Pour l'automne 2027 : ouverture aux candidats au master, master/doctorat et doctorat"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les dates limites de la ronde d'admission correspondante",
+      "2. Soumettre tous les documents requis avant la date limite",
+      "3. Répondre rapidement aux invitations à un entretien",
+      "4. Attendre la décision d'admission à la date indiquée"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Visite virtuelle du campus",
+        "url": "https://admissions.kaust.edu.sa/about-kaust/virtual-tour"
+      }
+    ],
+    "mots_cles": [
+      "KAUST",
+      "admission",
+      "calendrier",
+      "2026-2027",
+      "doctorat",
+      "master",
+      "date limite",
+      "Arabie Saoudite"
+    ],
+    "lien_candidature": "https://admissions.kaust.edu.sa/how-to-apply/admission-timelines",
+    "source_url": "https://admissions.kaust.edu.sa/how-to-apply/admission-timelines?fbclid=IwY2xjawVe1ApleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf6Oq7LotkMvzyUNwXmQcc9wzjIAjPBQm3zc3OLaHD1806AjY6gv4C_YhZxeE_aem_e88ri9SGZ_8I7B-oqpRjGA",
+    "statut": "ouvert",
+    "resume": "L'Université KAUST (King Abdullah University of Science and Technology) a publié son calendrier d'admission pour l'année académique 2026-2027. Les candidatures pour le printemps 2027 sont ouvertes uniquement aux doctorants, avec une date limite le 27 septembre 2026. Pour l'automne 2027, les candidatures pour le master, master/doctorat et doctorat ouvrent le 28 septembre 2026 et se clôturent le 3 janvier 2027. Les décisions seront annoncées aux dates indiquées. Il est recommandé de soumettre tous les documents requis et de répondre rapidement aux invitations à un entretien.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:29:33",
+    "slug": "kaust-admission-2026-2027"
   },
   {
     "titre": "Bourses d'études supérieures Oxford-Pershing Square",
@@ -2666,6 +3435,115 @@
     "slug": "bourse-oxford-pershing-square-mba-2027"
   },
   {
+    "titre": "Programme de doctorat de l'ISTA (Institut des Sciences et Technologies d'Autriche)",
+    "seo_slug": "bourse-doctorat-ista-autriche-2027",
+    "organisation": "Institute of Science and Technology Austria (ISTA)",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2027-01-08",
+    "deadline_texte": "8 janvier 2027 à 15h00 CET (heure d'Europe centrale)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Biologie",
+      "Chimie",
+      "Neurosciences",
+      "Mathématiques",
+      "Informatique",
+      "Physique",
+      "Science des données et calcul scientifique",
+      "Astronomie",
+      "Sciences de la Terre",
+      "Domaines connexes"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Statement of Purpose (SoP)",
+      "Lettres de recommandation (via arbitres)"
+    ],
+    "avantages": [
+      "Formation doctorale de haut niveau",
+      "Environnement de recherche interdisciplinaire",
+      "Financement compétitif (détails sur la page Funding & Awards)",
+      "Accès à des infrastructures de recherche de classe mondiale"
+    ],
+    "eligibilite": [
+      "Diplôme de Bachelor ou Master dans les domaines éligibles",
+      "Candidats hautement qualifiés",
+      "Capacité à apporter des compétences et expériences au cadre scientifique"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page de présentation du programme de doctorat",
+      "2. Lire les informations sur la structure curriculaire",
+      "3. Se familiariser avec les groupes de recherche de l'ISTA",
+      "4. Télécharger le manuel de candidature",
+      "5. Créer un compte en ligne sur le portail de candidature",
+      "6. Remplir le formulaire de candidature sur un ordinateur de bureau",
+      "7. Soumettre le CV et le Statement of Purpose",
+      "8. Fournir les coordonnées des arbitres pour les lettres de recommandation",
+      "9. Soumettre la candidature avant la date limite"
+    ],
+    "contacts": [
+      "phd.admissions@ist.ac.at"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://apply.ista.ac.at/phd_open_call_2027"
+      },
+      {
+        "label": "Page de candidature et admissions",
+        "url": "https://phd.pages.ista.ac.at/phd-application-admission/"
+      },
+      {
+        "label": "Manuel de candidature",
+        "url": "https://phd.pages.ista.ac.at/instructions-applicants"
+      },
+      {
+        "label": "Présentation du programme de doctorat",
+        "url": "https://phd.pages.ista.ac.at/phd-program-overview/"
+      },
+      {
+        "label": "Structure du programme de doctorat",
+        "url": "https://phd.pages.ista.ac.at/structure-phd/"
+      },
+      {
+        "label": "Groupes de recherche",
+        "url": "https://phd.pages.ista.ac.at/all-research-groups/"
+      },
+      {
+        "label": "Page d'information sur l'utilisation de l'IA",
+        "url": "https://phd.pages.ist.ac.at/faq/use-of-ai-in-your-application/"
+      },
+      {
+        "label": "Contact",
+        "url": "https://phd.pages.ist.ac.at/contact-us/"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat Autriche",
+      "ISTA PhD program",
+      "bourse ISTA 2027",
+      "doctorat sciences Autriche",
+      "financement doctoral ISTA",
+      "bourse recherche Autriche"
+    ],
+    "lien_candidature": "https://apply.ista.ac.at/phd_open_call_2027",
+    "source_url": "https://phd.pages.ista.ac.at/phd-application-admission/?fbclid=IwY2xjawVe1KVleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfwwOD6Mq-O74sX0lmzrDN6Q4f-hSTBdI8XVeHt4WPBPxFkK2OXA2m96m1kK8_aem_o70pd5kPEEAo0xO76tJjYg",
+    "statut": "ouvert",
+    "resume": "L'Institut des Sciences et Technologies d'Autriche (ISTA) ouvre les candidatures pour son programme de doctorat 2027, offrant une formation de recherche interdisciplinaire de premier plan. Les étudiants titulaires d'un Bachelor ou Master dans des domaines scientifiques variés sont invités à postuler avant le 8 janvier 2027. Le programme propose un environnement de recherche exceptionnel et un financement compétitif. Les candidatures se font exclusivement en ligne via le portail dédié.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:32:17",
+    "slug": "bourse-doctorat-ista-autriche-2027"
+  },
+  {
     "titre": "Bourses internationales du Vice-Chancelier de l'Université de Newcastle",
     "seo_slug": "bourse-vice-chancelier-newcastle-undergraduate-2027",
     "organisation": "Newcastle University",
@@ -2776,6 +3654,125 @@
     "imageUrl": null,
     "extrait_le": "2026-10-14T03:40:38",
     "slug": "bourse-vice-chancelier-newcastle-undergraduate-2027"
+  },
+  {
+    "titre": "Bourse d'excellence Émile Boutmy",
+    "seo_slug": "bourse-emile-boutmy-sciences-po-2027",
+    "organisation": "Sciences Po",
+    "montant": 18500,
+    "devise": "EUR",
+    "type_financement": "bourse partielle (exonération de frais de scolarité)",
+    "deadline": "2027-01-13",
+    "deadline_texte": "13 janvier 2027 pour le programme de licence (candidats des lycées étrangers) ; 1er avril 2027 pour la licence (candidats des lycées français) ; 18 octobre (1er comité) ou 29 novembre (2e comité) pour le master.",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Tous les domaines enseignés à Sciences Po"
+    ],
+    "pays_eligibles": [
+      "Tous les pays hors Union européenne (sauf Suisse, Norvège, Québec pour le master, etc.)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français et/ou anglais (test de langue requis selon le programme)",
+    "documents_requis": [
+      "Formulaire de candidature Sciences Po complété (section 'Financial information')",
+      "Test de langue (si applicable)",
+      "Relevés de notes",
+      "CV",
+      "Lettre de motivation",
+      "Autres documents exigés par la procédure d'admission"
+    ],
+    "avantages": [
+      "Licence : exonération totale ou partielle de 9 500 € des frais de scolarité",
+      "Master : exonération de 18 500 € par an pendant les deux ans du programme",
+      "Maintien de l'exonération lors de l'année à l'étranger (licence)",
+      "Renouvellement automatique en master si poursuite d'études à Sciences Po"
+    ],
+    "eligibilite": [
+      "Être candidat pour la première fois à Sciences Po",
+      "Être ressortissant d'un État non membre de l'Union européenne",
+      "Le foyer fiscal ne doit pas être établi dans l'Union européenne",
+      "Avoir été admis en licence ou en master à Sciences Po",
+      "Ne pas être suisse ou norvégien (car éligibles aux bourses CROUS)",
+      "Ne pas avoir de double nationalité dont une européenne",
+      "Ne pas être candidat du Québec pour le master (mais éligible pour la licence)",
+      "Ne pas être candidat au master conjoint en journalisme et affaires internationales ni au master en journalisme",
+      "Ne pas être candidat à un double diplôme de master, sauf exceptions (Journalisme Sciences Po/Columbia, double diplôme avec l'Université Fudan ou de Pékin pour les candidats chinois)",
+      "Ne pas être inscrit en doctorat",
+      "Ne pas être candidat aux programmes de master d'un an",
+      "Ne pas être candidat à un double diplôme de licence (sauf accord spécifique)",
+      "Ne pas être étudiant en échange",
+      "Ne pas postuler via la procédure française d'admission aux études de master"
+    ],
+    "procedure_etapes": [
+      "1. Déposer une candidature à un programme de licence ou de master de Sciences Po via la plateforme d'admission.",
+      "2. Indiquer dans la section 'Financial information' de la candidature que vous sollicitez la bourse Émile Boutmy.",
+      "3. Pour les candidats des lycées français, contacter le bureau des admissions via le formulaire en ligne après validation sur Parcoursup.",
+      "4. Joindre le test de langue requis (si applicable) avant la date limite.",
+      "5. Attendre la décision d'admission ; seuls les étudiants admis verront leur demande de bourse examinée.",
+      "6. Les résultats de la bourse sont publiés après chaque commission."
+    ],
+    "contacts": [
+      "Student Services Centre (formulaire de contact : https://forms.sciencespo.fr/en/contact-centre-services-etudiants)"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse Émile Boutmy",
+        "url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/"
+      },
+      {
+        "label": "Formulaire de contact du Centre de services aux étudiants",
+        "url": "https://forms.sciencespo.fr/en/contact-centre-services-etudiants"
+      },
+      {
+        "label": "Formulaire pour les candidats des lycées français (via Parcoursup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdStyJ2f4G4mCM8ZcmiT4SF9yiUCLHVzYm0xu4a-s3cved58w/viewform"
+      },
+      {
+        "label": "Formulaire pour les candidats via Parcoursup",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSetljvsLVlq-7x6J9GtqhCcW5nMH8B_d1SZy5rWTjr5NrfEvw/viewform"
+      },
+      {
+        "label": "Admissions en licence internationale",
+        "url": "https://www.sciencespo.fr/admissions/en/content/undergraduate-international-admissions.html"
+      },
+      {
+        "label": "Admissions en master international",
+        "url": "https://www.sciencespo.fr/admissions/en/graduate-international-admissions"
+      },
+      {
+        "label": "Informations sur les bourses et aides financières",
+        "url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid"
+      },
+      {
+        "label": "Informations sur l'indépendance financière",
+        "url": "https://www.sciencespo.fr/students/en/fees-funding/tuition-fees/specific-situations/exceptional-arrangements"
+      },
+      {
+        "label": "Site des admissions",
+        "url": "https://www.sciencespo.fr/admissions/en"
+      }
+    ],
+    "mots_cles": [
+      "bourse Émile Boutmy",
+      "bourse Sciences Po",
+      "bourse excellence France",
+      "bourse licence Sciences Po",
+      "bourse master Sciences Po",
+      "bourse pour étudiants internationaux",
+      "exonération frais de scolarité",
+      "bourse non européenne",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
+    "source_url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/?fbclid=IwY2xjawVezK9leHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfkYu0naVEyHMiklQV2f9VbzEuhWcmhP1O-P2-qeYsqQRE5FHUFzocwRZ1j6g_aem_4z9UfD6OknHARx6Ib5_cQA",
+    "statut": "ouvert",
+    "resume": "La bourse d'excellence Émile Boutmy, créée par Sciences Po, permet aux meilleurs étudiants internationaux hors Union européenne de financer leurs études en licence ou en master. Elle offre une exonération totale ou partielle des frais de scolarité (jusqu'à 9 500 € en licence et 18 500 € par an en master). L'attribution est basée sur le mérite et le profil du candidat, et la demande doit être formulée lors de la candidature à Sciences Po. Les candidats doivent être primo-arrivants et ne pas avoir de foyer fiscal dans l'UE.",
+    "imageUrl": "/docs/La-bourse-mile-Boutmy.png",
+    "extrait_le": "2026-11-09T16:59:54",
+    "slug": "bourse-emile-boutmy-sciences-po-2027"
   },
   {
     "titre": "Bourses de l'Institut de Doha pour les Études Supérieures",
@@ -3953,6 +4950,377 @@
     "slug": "bourse-nl-high-potential-maastricht-2027"
   },
   {
+    "titre": "Bourse UM NL Global Studies",
+    "seo_slug": "bourse-um-nl-global-studies-2027",
+    "organisation": "Maastricht University (UM)",
+    "montant": 20150,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2027-02-01",
+    "deadline_texte": "1er février 2027 à 23h59 CET",
+    "niveau_etudes": [
+      "Licence (Bachelor)"
+    ],
+    "domaines": [
+      "Études globales",
+      "Relations internationales",
+      "Sciences politiques",
+      "Économie",
+      "Droit",
+      "Santé",
+      "Ingénierie",
+      "Arts et sciences sociales"
+    ],
+    "pays_eligibles": [
+      "Pays éligibles à l'aide publique au développement (APD) de l'OCDE, à l'exclusion du Suriname"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais (niveau requis pour le programme)",
+    "documents_requis": [
+      "Curriculum Vitae (2 pages max, avec expériences et engagement extrascolaire)",
+      "Lettre de motivation (selon le modèle fourni)",
+      "Preuve d'excellence académique (relevé de notes récent, au moins 75% de la note maximale)",
+      "Déclaration personnelle des besoins financiers",
+      "Lettre de recommandation (selon les directives fournies, datée d'après le 1er février 2025)",
+      "Coordonnées d'un référent (relation, téléphone professionnel, email institutionnel)"
+    ],
+    "avantages": [
+      "Frais de subsistance de 20 150 € par année académique (1 550 € par mois)",
+      "Assurance santé et responsabilité civile (prise en charge)",
+      "Frais de demande de visa (pris en charge)",
+      "Frais de scolarité (pris en charge)",
+      "Frais de formation pré-académique (pris en charge)",
+      "Programme d'ambassadeur étudiant international (ISAP) pour le premier bloc (pris en charge)",
+      "Logement garanti jusqu'au 16 juillet 2028 (attribué d'office)"
+    ],
+    "eligibilite": [
+      "Être ressortissant d'un pays éligible à l'APD de l'OCDE (sauf Suriname) et remplir les conditions pour obtenir un visa d'entrée et un permis de séjour aux Pays-Bas",
+      "Ne pas avoir la double nationalité d'un pays de l'UE/EEE, de la Suisse ou du Suriname",
+      "Avoir postulé au programme de licence en Études globales à l'UM pour l'année académique 2027-2028 et soumis un dossier complet avant le 10 décembre 2026",
+      "Répondre aux exigences d'admission spécifiques du programme",
+      "Ne pas être titulaire d'un diplôme d'enseignement supérieur (licence ou équivalent)",
+      "Ne pas avoir plus de 35 ans au 1er septembre 2027",
+      "S'engager à être un ambassadeur actif des Études globales et de l'UM pendant et après les études (participation à au moins une session d'information)",
+      "Ne soumettre qu'une seule candidature (documents non modifiables après soumission)"
+    ],
+    "procedure_etapes": [
+      "1. Postuler au programme de licence en Études globales à l'UM via Studielink avant le 10 décembre 2026 et obtenir un numéro d'étudiant UM.",
+      "2. Remplir le formulaire de candidature à la bourse en ligne (nécessite un compte UM) et téléverser les documents requis (CV, lettre de motivation, preuve d'excellence académique, déclaration de besoins financiers, lettre de recommandation, coordonnées du référent) avant le 1er février 2027.",
+      "3. S'assurer que tous les documents sont conformes et que le dossier est complet avant la soumission (une seule soumission possible).",
+      "4. La sélection est effectuée par le UM International Services Desk et le bureau des admissions de Global Studies après la date limite."
+    ],
+    "contacts": [
+      "scholarships@maastrichtuniversity.nl"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse",
+        "url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/um-nl-global-studies"
+      },
+      {
+        "label": "Liste des pays éligibles à l'APD (PDF)",
+        "url": "/file/dac-list-oda-recipients-reporting-2025-flowsgspdf"
+      },
+      {
+        "label": "Informations sur le visa MVV",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/mvv-long-stay"
+      },
+      {
+        "label": "Pays Schengen",
+        "url": "https://www.netherlandsworldwide.nl/eu-eea-efta-schengen-countries"
+      },
+      {
+        "label": "Bureau des visas de l'UM",
+        "url": "https://www.maastrichtuniversity.nl/support/your-studies-begin/international-students-coming-maastricht/visa-legal-residence/applying-0"
+      },
+      {
+        "label": "Page d'admission du programme Global Studies",
+        "url": "https://www.maastrichtuniversity.nl/education/bachelor/programmes/global-studies/admission-and-enrolment"
+      },
+      {
+        "label": "Studielink (inscription)",
+        "url": "http://www.studielink.nl/"
+      },
+      {
+        "label": "Frais de dossier (handling fee)",
+        "url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/aanmelden-bij-universiteit-maastricht/handling-fee"
+      },
+      {
+        "label": "Formulaire de candidature à la bourse",
+        "url": "https://corsa-forms.mumc.maastrichtuniversity.nl/user/login?destination=/form/ssc-scholarships"
+      },
+      {
+        "label": "Modèle de lettre de motivation",
+        "url": "/file/templatemotivationlettergsscholarship-26-27pdf"
+      },
+      {
+        "label": "Directives pour la lettre de recommandation",
+        "url": "/file/reference-letter-guidelinesgs-2027-2028pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse Maastricht University",
+      "bourse Global Studies",
+      "bourse licence Pays-Bas",
+      "bourse études globales",
+      "bourse complète Pays-Bas",
+      "bourse pour étudiants internationaux",
+      "bourse 2027-2028",
+      "bourse UM NL Global Studies"
+    ],
+    "lien_candidature": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/um-nl-global-studies",
+    "source_url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/um-nl-global-studies?fbclid=IwY2xjawVezVNleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf5LdvYYTqs-3QOBSmPIR5-BrFfE6cerMITlcoFhJqX0ZdP9aKo1myhi8cps8_aem_B-J19PNdEtFNqjjKwwAH1A",
+    "statut": "ouvert",
+    "resume": "La bourse UM NL Global Studies de l'Université de Maastricht offre une prise en charge complète (frais de scolarité, frais de subsistance de 20 150 € par an, assurance, visa et logement) pour un étudiant international exceptionnel admis en licence d'Études globales. Destinée aux candidats issus de pays éligibles à l'aide publique au développement, elle vise à soutenir des étudiants à fort potentiel de développement personnel et engagés dans leur communauté. La sélection est basée sur l'excellence académique, la motivation et les besoins financiers démontrés. Les candidatures sont ouvertes du 1er octobre 2026 au 1er février 2027, avec une première étape d'admission au programme avant le 10 décembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:01:09",
+    "slug": "bourse-um-nl-global-studies-2027"
+  },
+  {
+    "titre": "Bourse d'excellence NL-High Potential de l'Université de Maastricht",
+    "seo_slug": "bourse-nl-high-potential-maastricht-2027",
+    "organisation": "Maastricht University (UM)",
+    "montant": 20150,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2027-02-01",
+    "deadline_texte": "1er février 2027 à 23h59 CET",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Tous les domaines des programmes de master participants"
+    ],
+    "pays_eligibles": [
+      "Pays hors UE/EEE",
+      "Suisse",
+      "Suriname"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais (les programmes sont enseignés en anglais)",
+    "documents_requis": [
+      "Curriculum vitae (2 pages A4 max)",
+      "Lettre de motivation (utiliser le modèle fourni)",
+      "Preuve d'excellence académique (relevé de notes avec GPA ≥ 7,5/10 et explication du système de notation)",
+      "Déclaration personnelle des besoins financiers",
+      "Lettre de recommandation (selon les directives fournies, datée après février 2026)",
+      "Coordonnées d'un référent (téléphone professionnel et email institutionnel)"
+    ],
+    "avantages": [
+      "Frais de subsistance : 20 150 € pour 13 mois (1 550 €/mois) ou 38 750 € pour 25 mois",
+      "Assurance santé et responsabilité civile : 700 €",
+      "Frais de demande de visa",
+      "Frais de scolarité",
+      "Frais de formation pré-académique",
+      "Programme d'ambassadeur étudiant international (ISAP) pour le premier bloc",
+      "Logement obligatoire attribué jusqu'au 16 juillet 2028 (inclus dans les frais de subsistance)"
+    ],
+    "eligibilite": [
+      "Nationalité d'un pays hors UE/EEE, Suisse ou Suriname",
+      "Ne pas avoir de double nationalité d'un pays UE/EEE ou Suisse",
+      "Avoir postulé à un programme de master participant à l'UM pour l'année académique 2027-2028 avant le 10 décembre 2026",
+      "Répondre aux exigences d'admission spécifiques du programme de master",
+      "Ne jamais avoir suivi un programme diplômant d'enseignement supérieur aux Pays-Bas (les échanges sont autorisés)",
+      "Préférence pour les candidats n'ayant pas encore obtenu de master",
+      "Ne pas avoir plus de 35 ans au 1er septembre 2027",
+      "Avoir obtenu d'excellents résultats (GPA ≥ 7,5/10 ou équivalent)",
+      "S'engager à être ambassadeur actif de l'UM pendant et après les études (au moins une session d'information)",
+      "Ne soumettre qu'une seule candidature pour une seule bourse"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un programme de master participant via Studielink avant le 10 décembre 2026 et obtenir un numéro d'étudiant UM.",
+      "2. Remplir le formulaire de candidature en ligne avec son compte UM.",
+      "3. Téléverser les documents requis (CV, lettre de motivation, preuve d'excellence académique, déclaration de besoins financiers, lettre de recommandation, coordonnées du référent).",
+      "4. Soumettre la candidature avant le 1er février 2027 à 23h59 CET."
+    ],
+    "contacts": [
+      "hhp.scholarship@maastrichtuniversity.nl"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://corsa-forms.mumc.maastrichtuniversity.nl/user/login?destination=/form/ssc-scholarships"
+      },
+      {
+        "label": "Programmes participants 2027-2028 (PDF)",
+        "url": "/file/um-hhpstudieprogrammas-2027-2028pdf-1"
+      },
+      {
+        "label": "Programmes participants 2028-2029 (PDF)",
+        "url": "/file/um-hhpstudieprogrammas-2028-2029-0pdf"
+      },
+      {
+        "label": "Modèle de lettre de motivation",
+        "url": "https://www.maastrichtuniversity.nl/file/templatemotivationletterumscholarshipsdocx"
+      },
+      {
+        "label": "Directives pour la lettre de recommandation (PDF)",
+        "url": "/file/reference-letter-guidelines-2027-2028pdf"
+      },
+      {
+        "label": "Site d'information sur les visas",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/mvv-long-stay"
+      },
+      {
+        "label": "Liste des pays Schengen",
+        "url": "https://www.netherlandsworldwide.nl/eu-eea-efta-schengen-countries"
+      },
+      {
+        "label": "Bureau des visas de l'UM",
+        "url": "https://www.maastrichtuniversity.nl/support/your-studies-begin/international-students-coming-maastricht/visa-legal-residence/applying-0"
+      },
+      {
+        "label": "Programmes de master de l'UM",
+        "url": "https://www.maastrichtuniversity.nl/education/master/programmes"
+      },
+      {
+        "label": "Studielink",
+        "url": "https://www.studielink.nl/"
+      },
+      {
+        "label": "Programme d'ambassadeur étudiant international (ISAP)",
+        "url": "https://www.maastrichtuniversity.nl/node/49724"
+      }
+    ],
+    "mots_cles": [
+      "bourse Maastricht University",
+      "bourse NL-High Potential",
+      "bourse master Pays-Bas",
+      "bourse pour étudiants hors UE",
+      "bourse d'excellence Maastricht",
+      "financement études Pays-Bas",
+      "bourse 2027-2028",
+      "bourse complète master"
+    ],
+    "lien_candidature": "https://corsa-forms.mumc.maastrichtuniversity.nl/user/login?destination=/form/ssc-scholarships",
+    "source_url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/maastricht-university-nl-high?fbclid=IwY2xjawVe0olleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf-v4UzhNUtP-hT-4f0YDJzljNW4FniEYRUAnXsNgEKqqG4YJPCc6SNwqlZZk_aem_AYz8nxSgWg7DiGZzbQMgEA",
+    "statut": "ouvert",
+    "resume": "L'Université de Maastricht offre 18 bourses complètes par an aux étudiants talentueux hors UE/EEE souhaitant poursuivre un master aux Pays-Bas. La bourse NL-High Potential couvre les frais de scolarité, l'assurance, le visa et offre une allocation mensuelle de 1 550 € pour les frais de subsistance. Les candidats doivent avoir un excellent dossier académique (GPA ≥ 7,5/10) et s'engager à être ambassadeurs de l'UM. Date limite de candidature : 1er février 2027.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:23:35",
+    "slug": "bourse-nl-high-potential-maastricht-2027"
+  },
+  {
+    "titre": "Bourse d'excellence UM NL Brightlands Talent",
+    "seo_slug": "bourse-um-nl-brightlands-talent-2027",
+    "organisation": "Université de Maastricht (Maastricht University)",
+    "montant": 20150,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2027-02-01",
+    "deadline_texte": "1er février 2027 à 23h59 CET",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Chimie et matériaux",
+      "Santé",
+      "Agroalimentaire",
+      "Science des données",
+      "Services numériques intelligents"
+    ],
+    "pays_eligibles": [
+      "Tous les pays hors EEE, Suisse et Suriname"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais (niveau requis par le programme de master)",
+    "documents_requis": [
+      "Curriculum Vitae (2 pages max, mettant en avant l'engagement extrascolaire et la citoyenneté active, ainsi que les prix et récompenses)",
+      "Lettre de motivation (utiliser le modèle fourni)",
+      "Preuve d'excellence académique : relevé de notes universitaire officiel avec GPA ≥ 7,5/10 et document expliquant le système de notation",
+      "Déclaration personnelle des besoins financiers",
+      "Lettre de recommandation (selon les directives fournies, datée de février 2026 ou après, rédigée par un professeur, chargé de cours ou employeur, et non par un membre de la famille)",
+      "Coordonnées d'un référent (relation avec le candidat, etc.)"
+    ],
+    "avantages": [
+      "Frais de subsistance : 20 150 € pour 13 mois (1 550 €/mois) ou 38 750 € pour 25 mois",
+      "Assurance santé et responsabilité civile (prise en charge)",
+      "Frais de demande de visa (pris en charge)",
+      "Frais de scolarité (pris en charge)",
+      "Frais de formation pré-académique (pris en charge)",
+      "Programme international des ambassadeurs étudiants (ISAP) pour le premier bloc (pris en charge)",
+      "Logement garanti jusqu'au 16 juillet 2028 (obligatoire, non adapté aux familles, partenaires, enfants et animaux)",
+      "Participation obligatoire au programme de thèse-stage (TIP) : rédaction du mémoire pour une entreprise du campus Brightlands"
+    ],
+    "eligibilite": [
+      "Nationalité hors EEE, Suisse ou Suriname",
+      "Ne pas avoir de double nationalité d'un pays de l'EEE, Suisse ou Suriname",
+      "Avoir postulé à un programme de master participant de l'UM pour l'année académique 2027-2028 et soumis un dossier complet avant le 10 décembre 2026",
+      "Répondre aux exigences d'admission spécifiques du programme de master",
+      "Ne jamais avoir suivi un programme diplômant d'enseignement supérieur aux Pays-Bas (les échanges sont autorisés)",
+      "Préférence pour les candidats n'ayant pas encore obtenu de master",
+      "Avoir 35 ans ou moins au 1er septembre 2027",
+      "Avoir obtenu d'excellents résultats académiques (GPA ≥ 7,5/10 ou équivalent)",
+      "S'engager à être ambassadeur actif de Brightlands et de l'UM pendant et après les études (participer à au moins une session d'information)",
+      "Soumettre une seule candidature pour une seule bourse",
+      "Si vous avez déjà un permis de séjour dans un autre pays Schengen, il doit être valide jusqu'au 2 septembre 2027 au moins"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier la liste des programmes de master participants pour 2027-2028",
+      "2. Postuler à un programme de master participant via Studielink avant le 10 décembre 2026 et obtenir un numéro d'étudiant",
+      "3. Se connecter au formulaire de candidature avec son compte UM",
+      "4. Télécharger les documents requis (CV, lettre de motivation, preuve d'excellence académique, déclaration de besoins financiers, lettre de recommandation, coordonnées du référent) au format .doc, .docx ou PDF",
+      "5. Soumettre la candidature avant le 1er février 2027 à 23h59 CET (une seule soumission possible)"
+    ],
+    "contacts": [
+      "scholarships@maastrichtuniversity.nl"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://corsa-forms.mumc.maastrichtuniversity.nl/user/login?destination=/form/ssc-scholarships"
+      },
+      {
+        "label": "Programmes participants 2027-2028 (PDF)",
+        "url": "/file/overzicht-programmas-umnlbts-2027-2028pdf"
+      },
+      {
+        "label": "Modèle de lettre de motivation",
+        "url": "/file/templatemotivationletterumnlscholarshipspdf"
+      },
+      {
+        "label": "Directives pour la lettre de recommandation",
+        "url": "/file/reference-letter-guidelines2027-2028pdf"
+      },
+      {
+        "label": "Site des programmes de master de l'UM",
+        "url": "https://www.maastrichtuniversity.nl/education/master/programmes"
+      },
+      {
+        "label": "Studielink (portail de candidature)",
+        "url": "http://www.studielink.nl/"
+      },
+      {
+        "label": "Informations sur le visa MVV",
+        "url": "https://www.netherlandsworldwide.nl/visa-the-netherlands/mvv-long-stay"
+      },
+      {
+        "label": "Pays Schengen",
+        "url": "https://www.netherlandsworldwide.nl/eu-eea-efta-schengen-countries"
+      },
+      {
+        "label": "Bureau des visas de l'UM",
+        "url": "https://www.maastrichtuniversity.nl/support/your-studies-begin/international-students-coming-maastricht/visa-legal-residence/applying-0"
+      }
+    ],
+    "mots_cles": [
+      "bourse UM NL Brightlands Talent",
+      "bourse Maastricht University",
+      "bourse master Pays-Bas",
+      "bourse complète 2027",
+      "bourse pour étudiants non-UE",
+      "financement master Brightlands",
+      "bourse excellence académique"
+    ],
+    "lien_candidature": "https://corsa-forms.mumc.maastrichtuniversity.nl/user/login?destination=/form/ssc-scholarships",
+    "source_url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/um-nl-brightlands-talent?fbclid=IwY2xjawVe0r1leHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfAkVFeoUIuCGBl_bXL6Ye6KUiRcVjU8hbJcZfKo0tqQni1Zj_FuhWQKYCQVQ_aem_GQouH41YN9Af_b3rB5_sQw",
+    "statut": "ouvert",
+    "resume": "La bourse d'excellence UM NL Brightlands Talent offre deux bourses complètes par année académique aux étudiants non-EEE, non-Suisse et non-Suriname admis dans un master lié aux campus Brightlands de l'Université de Maastricht. Elle couvre les frais de subsistance (20 150 € pour 13 mois ou 38 750 € pour 25 mois), les frais de scolarité, l'assurance, le visa et la formation pré-académique. Les candidats doivent avoir d'excellents résultats académiques (GPA ≥ 7,5/10), être âgés de 35 ans maximum et s'engager à devenir ambassadeurs. Date limite de candidature : 1er février 2027.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:24:19",
+    "slug": "bourse-um-nl-brightlands-talent-2027"
+  },
+  {
     "titre": "Bourses de doctorat du Président de l'Imperial College London",
     "seo_slug": "bourse-president-phd-imperial-2027",
     "organisation": "Imperial College London",
@@ -4992,6 +6360,181 @@
     "imageUrl": null,
     "extrait_le": "2026-10-14T03:41:02",
     "slug": "bourse-vice-chancelier-cardiff-2027"
+  },
+  {
+    "titre": "Bourse d'excellence pour étudiants de premier cycle 2027",
+    "seo_slug": "bourse-excellence-undergraduate-reading-2027",
+    "organisation": "University of Reading",
+    "montant": 5000,
+    "devise": "GBP",
+    "type_financement": "réduction des frais de scolarité",
+    "deadline": "2027-08-20",
+    "deadline_texte": "20 août 2027 (date limite pour la soumission des candidatures, round 4)",
+    "niveau_etudes": [
+      "Licence (undergraduate)",
+      "Master intégré"
+    ],
+    "domaines": [
+      "Tous les domaines éligibles au programme de premier cycle de l'Université de Reading"
+    ],
+    "pays_eligibles": [
+      "International (tous les pays sauf le Royaume-Uni)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (niveau requis pour l'admission)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Offre d'admission à un programme éligible",
+      "Preuves de réalisations académiques (dossier académique)"
+    ],
+    "avantages": [
+      "Réduction de 5 000 £ par an sur les frais de scolarité",
+      "Applicable pour chaque année d'études du programme éligible"
+    ],
+    "eligibilite": [
+      "Être titulaire d'une offre d'admission à un programme de premier cycle éligible (y compris master intégré) pour l'année académique 2027/28",
+      "Être classé comme étudiant international pour le calcul des frais de scolarité",
+      "Ne pas être bénéficiaire de la bourse Global Sustainability Leaders Scholarship (GSLS)",
+      "Les candidatures sont évaluées principalement sur le mérite académique et l'adéquation avec la bourse"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et obtenir une offre d'admission à un programme de premier cycle éligible.",
+      "2. Remplir le formulaire de candidature disponible sur le portail me@reading.",
+      "3. Soumettre la candidature avant la date limite du round choisi (voir les dates clés).",
+      "4. Les candidatures sont examinées par rounds ; les résultats sont annoncés aux dates indiquées."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature me@reading",
+        "url": "https://portal.reading.ac.uk/applicant/Login.aspx"
+      },
+      {
+        "label": "Guide de candidature à la bourse",
+        "url": "https://www.reading.ac.uk/ready-to-study/study/Fees-and-funding/scholarships-application-guidance"
+      },
+      {
+        "label": "Bourse Global Sustainability Leaders (GSLS)",
+        "url": "https://www.reading.ac.uk/ready-to-study/study/Fees-and-funding/global-sustainability-leaders-scholarship"
+      },
+      {
+        "label": "Conditions générales (PDF)",
+        "url": "https://www.reading.ac.uk/about/-/media/discover/files/pdfs/scholarships/ug-excellence-terms-and-conditions-2026-final.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse excellence undergraduate",
+      "bourse University of Reading",
+      "bourse premier cycle international",
+      "bourse réduction frais de scolarité",
+      "bourse Royaume-Uni 2027",
+      "bourse licence internationale",
+      "bourse master intégré",
+      "bourse mérite académique"
+    ],
+    "lien_candidature": "https://portal.reading.ac.uk/applicant/Login.aspx",
+    "source_url": "https://www.reading.ac.uk/ready-to-study/study/Fees-and-funding/scholarships/undergraduate-excellence-scholarship-2027?fbclid=IwY2xjawVezZdleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfzWjuCLV-eh6Nt4msksmzVGNnkmATOk4bm5VdphqOdJ9FeHy09h2y2ijzFu4_aem_-sFZhw-rzk6_nU31aAUHIw",
+    "statut": "ouvert",
+    "resume": "La bourse d'excellence pour étudiants de premier cycle 2027 de l'Université de Reading offre une réduction annuelle de 5 000 £ sur les frais de scolarité aux étudiants internationaux talentueux. Elle est destinée aux candidats qui commencent un programme de premier cycle éligible (y compris master intégré) en 2027/28 et qui font preuve d'un excellent parcours académique. Les candidatures sont évaluées par rounds, avec des dates limites allant jusqu'au 20 août 2027. Cette bourse prestigieuse permet de financer une partie des études au Royaume-Uni et de rejoindre une université reconnue mondialement.",
+    "imageUrl": "/docs/bourses-d-ex-llence.png",
+    "extrait_le": "2026-11-09T17:03:34",
+    "slug": "bourse-excellence-undergraduate-reading-2027"
+  },
+  {
+    "titre": "Bourse Global Sustainability Leaders (GSLS) - University of Reading",
+    "seo_slug": "bourse-global-sustainability-leaders-undergraduate-2027",
+    "organisation": "University of Reading",
+    "montant": 6000,
+    "devise": "GBP",
+    "type_financement": "bourse partielle",
+    "deadline": "2027-08-27",
+    "deadline_texte": "27 août 2027 à 23h59 (heure locale du Royaume-Uni) pour la dernière vague de candidatures. Les vagues précédentes ont pour dates limites : 18 janvier 2027, 22 mars 2027 et 25 juin 2027 (toutes à 23h59).",
+    "niveau_etudes": [
+      "Licence (undergraduate)"
+    ],
+    "domaines": [
+      "Toutes disciplines"
+    ],
+    "pays_eligibles": [
+      "Royaume-Uni",
+      "International (tous pays)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Candidature UCAS (ou équivalent) avec notes prédites",
+      "Formulaire en ligne de candidature à la bourse (après invitation)",
+      "Preuves académiques (relevés de notes, diplômes)",
+      "Certificat de langue anglaise (si applicable)"
+    ],
+    "avantages": [
+      "Bourse de 6 000 £ par an pour les frais de subsistance",
+      "Opportunités d'apprentissage et de développement personnel",
+      "400 bourses disponibles pour l'entrée 2027"
+    ],
+    "eligibilite": [
+      "Avoir postulé et détenu une offre pour un cursus undergraduate à l'Université de Reading (année de foundation ou année 1) pour 2027/28",
+      "Être inscrit à temps plein dans un cursus undergraduate délivré par l'Université de Reading au Royaume-Uni",
+      "Les notes prédites (ou résultats obtenus) doivent montrer que le candidat est en voie d'atteindre les critères d'éligibilité de la bourse",
+      "Pour les candidats éligibles à une offre contextuelle : obtenir des notes AAB (ou équivalent) ou plus",
+      "Pour les étudiants en foundation internationale : obtenir au moins 75% (ou 70% pour les étudiants Widening Participation)",
+      "Faire de Reading son choix ferme (Firm choice) via UCAS pour recevoir la bourse",
+      "Ne pas être inscrit en année 2 ou 3 directement (pas d'entrée avancée)",
+      "Ne pas cumuler avec certaines autres bourses de l'Université (Sanctuary Scholarships, Excellence Scholarship, PwC Bursary)",
+      "Les candidats internationaux doivent satisfaire aux exigences de visa et disposer de fonds suffisants pour couvrir les frais de scolarité et de subsistance"
+    ],
+    "procedure_etapes": [
+      "1. Postuler à un cursus undergraduate à l'Université de Reading via UCAS (ou autre voie) et recevoir une offre pour 2027/28.",
+      "2. S'assurer que la candidature contient des notes prédites (ou demander au référant d'envoyer les notes prédites à ugadmissions@reading.ac.uk).",
+      "3. Attendre l'invitation par email de l'Université de Reading pour postuler à la bourse (si les critères d'éligibilité sont remplis).",
+      "4. Remplir le court formulaire en ligne de candidature à la bourse avant la date limite de la vague correspondante.",
+      "5. Attendre la décision (généralement dans les cinq semaines suivant la date limite de la vague).",
+      "6. Si la bourse est offerte, faire de Reading son choix ferme via UCAS et satisfaire aux conditions académiques.",
+      "7. S'inscrire à l'Université de Reading pour recevoir le financement."
+    ],
+    "contacts": [
+      "ugadmissions@reading.ac.uk",
+      "scholarships@reading.ac.uk"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Conditions générales (PDF)",
+        "url": "https://static.reading.ac.uk/content/PDFs/files/GSLS/GSLS-T-C-2027-entry.pdf"
+      },
+      {
+        "label": "Page 'What offer will I get' (offre contextuelle)",
+        "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get"
+      },
+      {
+        "label": "Bourses Sanctuary",
+        "url": "https://www.reading.ac.uk/ready-to-study/study/Fees-and-funding/sanctuary-scholarships"
+      },
+      {
+        "label": "Bourses de premier cycle (Excellence Scholarship)",
+        "url": "https://www.reading.ac.uk/ready-to-study/study/fees-and-funding/scholarships/undergraduate-scholarships"
+      },
+      {
+        "label": "Bourse PwC pour le programme Flying Start",
+        "url": "https://www.henley.ac.uk/study/undergraduate/scholarships/pwcs-flying-start-financial-bursary"
+      }
+    ],
+    "mots_cles": [
+      "bourse University of Reading",
+      "bourse développement durable",
+      "bourse undergraduate Royaume-Uni",
+      "bourse 2027",
+      "Global Sustainability Leaders Scholarship",
+      "bourse études environnement",
+      "financement licence UK",
+      "bourse internationale Reading"
+    ],
+    "lien_candidature": "https://static.reading.ac.uk/content/PDFs/files/GSLS/GSLS-T-C-2027-entry.pdf",
+    "source_url": "https://www.reading.ac.uk/ready-to-study/study/Fees-and-funding/global-sustainability-leaders-scholarship/frequently-asked-questions?fbclid=IwY2xjawVezihleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfkYu0naVEyHMiklQV2f9VbzEuhWcmhP1O-P2-qeYsqQRE5FHUFzocwRZ1j6g_aem_4z9UfD6OknHARx6Ib5_cQA",
+    "statut": "ouvert",
+    "resume": "La bourse Global Sustainability Leaders (GSLS) de l'Université de Reading soutient les étudiants undergraduate passionnés par la durabilité et l'environnement. Elle offre 6 000 £ par an pour les frais de subsistance, ainsi que des opportunités de développement personnel, et 400 bourses sont disponibles pour l'entrée 2027. Les candidats doivent d'abord postuler à un cursus undergraduate à Reading et détenir une offre, puis être invités à remplir un formulaire en ligne. Les dates limites sont réparties en quatre vagues, la dernière étant le 27 août 2027.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:04:50",
+    "slug": "bourse-global-sustainability-leaders-undergraduate-2027"
   },
   {
     "titre": "Bourse La Trobe High Achiever",
@@ -17062,6 +18605,253 @@
     "slug": "doctorat-photonique-optoelectronique-southampton-2026"
   },
   {
+    "titre": "Programme de bourses Mastercard Foundation à l'Université de Leadership Africain (ALU)",
+    "seo_slug": "bourse-mastercard-foundation-alu-2026",
+    "organisation": "Mastercard Foundation & African Leadership University (ALU)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Leadership",
+      "Entrepreneuriat",
+      "Études africaines",
+      "Gestion",
+      "Technologie"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Prise en charge complète des frais de scolarité",
+      "Bourse complète (full scholarship)"
+    ],
+    "eligibilite": [
+      "Jeunes leaders prometteurs de toute l'Afrique",
+      "Faire face à des difficultés financières ou des barrières économiques",
+      "Priorité aux jeunes femmes",
+      "Priorité aux réfugiés",
+      "Priorité aux jeunes en situation de handicap"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le site officiel de l'ALU pour plus d'informations",
+      "2. Vérifier les conditions d'éligibilité et les documents requis",
+      "3. Soumettre la candidature selon les instructions du site"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme à l'ALU",
+        "url": "https://www.alueducation.com/mastercard-foundation-scholars-program-at-alu/"
+      },
+      {
+        "label": "Page principale du programme Mastercard Foundation Scholars",
+        "url": "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/"
+      },
+      {
+        "label": "Page pays : Rwanda",
+        "url": "https://mastercardfdn.org/en/where-we-work/rwanda/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Mastercard Foundation",
+      "bourse ALU",
+      "bourse Afrique",
+      "bourse complète",
+      "leadership",
+      "entrepreneuriat",
+      "jeunes femmes",
+      "réfugiés",
+      "handicap"
+    ],
+    "lien_candidature": "https://www.alueducation.com/mastercard-foundation-scholars-program-at-alu/",
+    "source_url": "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/where-to-apply/african-leadership-university-alu/?fbclid=IwY2xjawVey-pleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf22tjqYJIJ-3x5INFnFFe5hx0m3erBTyarrfpTKkbMK1O8CO0dGpgrzyoNeo_aem_8VY5UJd1b9HjgRthCuwz4A",
+    "statut": "ouvert",
+    "resume": "Le programme de bourses Mastercard Foundation à l'Université de Leadership Africain (ALU) offre une bourse complète aux jeunes leaders prometteurs de toute l'Afrique, en particulier aux jeunes femmes, aux réfugiés et aux personnes en situation de handicap. Il vise à lever les barrières financières pour permettre l'accès à une éducation de qualité en leadership et entrepreneuriat. Les candidats doivent faire preuve d'un potentiel de leadership et être confrontés à des difficultés économiques. Les études se déroulent à Kigali, au Rwanda, et les candidatures se font via le site officiel de l'ALU.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T16:55:25",
+    "slug": "bourse-mastercard-foundation-alu-2026"
+  },
+  {
+    "titre": "Bourse Mastercard Foundation Scholars Program à l'Université de Cambridge",
+    "seo_slug": "bourse-mastercard-cambridge-2027",
+    "organisation": "Mastercard Foundation Scholars Program - University of Cambridge",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte (les candidatures sont ouvertes pour l'année académique 2027/2028)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Tous les domaines sauf MBA, MCL, MFIN, MACC"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Non spécifiée (probablement anglais pour les cours)",
+    "documents_requis": [
+      "Déclaration de bourse (scholarship statement) couvrant l'historique professionnel/éducatif, le potentiel de leadership, comment la bourse aidera à atteindre les objectifs, et contribution à un avenir durable en Afrique"
+    ],
+    "avantages": [
+      "Frais de scolarité complets",
+      "Allocation de subsistance mensuelle"
+    ],
+    "eligibilite": [
+      "Être citoyen d'un pays africain",
+      "Résider dans un pays africain, sauf absence temporaire pour études ou travail (exception pour les personnes déplacées internes ou réfugiés)",
+      "Répondre aux exigences académiques du cours demandé"
+    ],
+    "procedure_etapes": [
+      "1. Explorer les cours de master disponibles via le répertoire des cours de troisième cycle",
+      "2. Postuler au cours choisi via le système de candidature de l'Université",
+      "3. Soumettre une déclaration de bourse dans le cadre de la candidature au cours",
+      "4. Consulter la page 'Comment postuler' pour plus d'informations",
+      "5. Participer aux webinaires d'information (optionnel)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Répertoire des cours de troisième cycle",
+        "url": "https://www.postgraduate.study.cam.ac.uk/courses"
+      },
+      {
+        "label": "Comment postuler",
+        "url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/how-apply"
+      },
+      {
+        "label": "Inscription au webinaire",
+        "url": "https://cam-ac-uk.zoom.us/webinar/register/WN_1g1UsHdQRheQaFGWFwc-qg"
+      }
+    ],
+    "mots_cles": [
+      "bourse Mastercard Foundation",
+      "Université de Cambridge",
+      "bourse Afrique",
+      "master Cambridge",
+      "bourse 2027",
+      "études supérieures Afrique"
+    ],
+    "lien_candidature": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/how-apply",
+    "source_url": "https://www.mastercardfoundation.fund.cam.ac.uk/news/2027-applications-now-open?fbclid=IwY2xjawVe0idleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfokU-AREs5TLmeINQ78drg1kypStAB1RcuettMm-FlDEsZ4hLfGeEDt67Y-4_aem_jjstOQ0hOzrVIzHqBGeOoQ",
+    "statut": "ouvert",
+    "resume": "Le Mastercard Foundation Scholars Program à l'Université de Cambridge offre aux jeunes Africains talentueux la possibilité de poursuivre un master et de développer leur potentiel de leadership. La bourse couvre l'intégralité des frais de scolarité et une allocation mensuelle de subsistance. Les candidatures pour l'année académique 2027/2028 sont ouvertes. Les candidats doivent être citoyens d'un pays africain, y résider (sauf exception) et satisfaire aux exigences académiques du cours choisi.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:21:59",
+    "slug": "bourse-mastercard-cambridge-2027"
+  },
+  {
+    "titre": "Bourse Erasmus Mundus Joint Master Euroculture",
+    "seo_slug": "bourse-erasmus-mundus-euroculture-2027",
+    "organisation": "Consortium Euroculture (Erasmus Mundus)",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Date limite non spécifiée dans le texte fourni (probablement en janvier 2027 pour la rentrée 2027-2029, mais à vérifier sur le site officiel)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Relations internationales",
+      "Études européennes",
+      "Histoire",
+      "Études culturelles",
+      "Littérature",
+      "Sociologie",
+      "Science politique",
+      "Anthropologie",
+      "Philosophie",
+      "Arts libéraux (profil sciences humaines)",
+      "Communication et médias",
+      "Droit international ou européen",
+      "Théologie"
+    ],
+    "pays_eligibles": [
+      "Tous les pays (programme Erasmus Mundus ouvert aux candidats internationaux)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (niveau avancé, test requis sauf exemption)",
+    "documents_requis": [
+      "Diplôme de Bachelor (ou preuve de son obtention avant le 15 janvier pour les candidats à la bourse)",
+      "Relevés de notes",
+      "Preuve de compétence en anglais (IELTS, TOEFL, Cambridge CAE/CPE, PTE Academic, LanguageCert Academic) ou exemption (MOI, transcript, diplôme)",
+      "CV",
+      "Lettre de motivation",
+      "Autres documents selon les exigences spécifiques (non détaillés dans l'extrait)"
+    ],
+    "avantages": [
+      "Bourse Erasmus Mundus (montant non précisé dans l'extrait)",
+      "Prise en charge des frais de participation",
+      "Allocation mensuelle (montant non spécifié)",
+      "Couverture des frais de voyage et d'installation (selon les règles Erasmus Mundus)"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un Bachelor (ou équivalent) d'une institution accréditée dans un domaine pertinent (sciences humaines et sociales)",
+      "Le diplôme doit être équivalent en durée, niveau et qualité à un Bachelor européen",
+      "Les diplômes en économie, psychologie, management, éducation, travail social, administration des affaires, comptabilité, traduction/interprétation, tourisme, ingénierie ou sciences exactes ne sont généralement pas éligibles (sauf exception pour les diplômes interdisciplinaires avec une composante suffisante en sciences humaines)",
+      "Maîtrise de l'anglais : IELTS Academic 6.5 (aucune section <6.5), TOEFL iBT <2026 : 93, TOEFL iBT >2026 : aucune section <5.0, Cambridge CAE/CPE (moins de 5 ans), PTE Academic 71 (écriture min 61, moins de 2 ans), LanguageCert Academic 75 (moins de 2 ans, non reconnu à Uppsala Universitet)",
+      "Exemption de test possible si diplôme enseigné entièrement en anglais ou une année complète d'études universitaires (60 ECTS) dans un pays anglophone (preuve requise)",
+      "Pas de note minimale fixe mais les résultats académiques et la qualité de l'écriture sont pris en compte",
+      "Les expériences professionnelles ne compensent pas un manque dans les critères obligatoires"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'admission (section 1.1 à 1.3) et les critères de sélection (1.4)",
+      "2. Préparer les documents requis (diplôme, relevés, test d'anglais, CV, lettre de motivation, etc.)",
+      "3. Pour les candidats à la bourse Erasmus Mundus : soumettre la preuve d'obtention du Bachelor avant le 15 janvier",
+      "4. Remplir le formulaire de candidature en ligne (lien non fourni dans l'extrait)",
+      "5. Respecter la date limite de candidature (non précisée dans l'extrait, consulter le site officiel)",
+      "6. Contacter le secrétariat pour toute question non résolue par les informations publiées : euroculture@rug.nl"
+    ],
+    "contacts": [
+      "euroculture@rug.nl"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page d'accueil du programme Euroculture",
+        "url": "https://www.euroculturemaster.eu/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.euroculturemaster.eu/faq"
+      },
+      {
+        "label": "Procédure de candidature (page actuelle)",
+        "url": "https://www.euroculturemaster.eu/application-procedure"
+      },
+      {
+        "label": "Aperçu des systèmes éducatifs internationaux (Nuffic)",
+        "url": "https://www.nuffic.nl/en/study-and-work-abroad/education-systems"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "Euroculture master",
+      "bourse master Europe",
+      "études européennes bourse",
+      "bourse sciences humaines",
+      "candidature Euroculture",
+      "bourse internationale 2027"
+    ],
+    "lien_candidature": "https://www.euroculturemaster.eu/application-procedure",
+    "source_url": "https://www.euroculturemaster.eu/application-procedure?fbclid=IwY2xjawVe0xRleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfeBvAwnNBC3xl-7oUi8IrFVJ3ZIzJRh8farRNIiF4rsxtF2sjNB0XVyXcSOQ_aem_xtod9yATrTnRriNOjt7TTg",
+    "statut": "ouvert",
+    "resume": "Le programme Euroculture est un Master conjoint Erasmus Mundus interdisciplinaire en sciences humaines et sociales, proposé par un consortium d'universités européennes. Les candidats titulaires d'un Bachelor pertinent et maîtrisant l'anglais peuvent postuler pour la rentrée 2027-2029. Une bourse Erasmus Mundus couvre les frais de participation et offre une allocation mensuelle, mais les détails financiers ne sont pas précisés dans cet extrait. Les candidatures pour la bourse doivent être soumises avant le 15 janvier (date à confirmer) avec preuve d'obtention du diplôme.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:26:17",
+    "slug": "bourse-erasmus-mundus-euroculture-2027"
+  },
+  {
     "titre": "Master Européen en Linguistique Clinique (EMCL)",
     "seo_slug": "bourse-emcl-master-linguistique-clinique-2027",
     "organisation": "Erasmus Mundus Joint Master Degree (EMJMD) - Universités de Finlande orientale, Gand et Groningue",
@@ -18559,6 +20349,110 @@
     "slug": "bourse-ersu-catania-2026"
   },
   {
+    "titre": "Programmes de bourses d'excellence de l'Université Emory (Woodruff Scholars)",
+    "seo_slug": "bourse-woodruff-emory-licence-2026",
+    "organisation": "Emory University",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse partielle à complète (mérite)",
+    "deadline": "2025-11-15",
+    "deadline_texte": "15 novembre 2025 pour les candidatures Early Decision II et Regular Decision ; 1er novembre 2025 pour Early Decision I",
+    "niveau_etudes": [
+      "Licence (undergraduate)"
+    ],
+    "domaines": [
+      "Toutes disciplines"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Dossier de candidature à l'admission (tous les éléments requis par le plan d'admission choisi)",
+      "Réponse 'Oui' à la question sur les programmes de bourses dans la demande Emory"
+    ],
+    "avantages": [
+      "Bourse au mérite (partielle à complète)",
+      "Accès à des ressources, programmes et communauté dédiés",
+      "Inscription anticipée aux cours (Emory College)",
+      "Programmation exclusive (Emory College)",
+      "Mentorat précoce avec le corps professoral (Oxford College)",
+      "Transition facilitée vers le campus d'Atlanta en troisième année (Oxford College)",
+      "Visite sur le campus pour les finalistes (prise en charge, pour ceux situés aux États-Unis)",
+      "Renouvelable pour huit semestres académiques réguliers"
+    ],
+    "eligibilite": [
+      "Être candidat de première année, scolarisé à domicile ou international, sans restriction de citoyenneté",
+      "Sélectionner un plan d'admission (Early Decision I, Early Decision II ou Regular Decision) et soumettre tous les documents requis avant la date limite correspondante",
+      "Répondre 'Oui' à la question sur l'intérêt pour les programmes de bourses dans la demande Emory",
+      "Maintenir des normes élevées d'excellence personnelle et académique et satisfaire aux exigences semestrielles et annuelles du programme (détails fournis à l'acceptation)"
+    ],
+    "procedure_etapes": [
+      "1. Choisir son plan d'admission (Early Decision I, Early Decision II ou Regular Decision) et soumettre tous les documents requis avant la date limite correspondante.",
+      "2. Répondre 'Oui' à la question 'Are you interested in being considered for the Emory University Scholar Programs?' dans la demande Emory.",
+      "3. Les candidatures sont examinées de fin novembre à janvier.",
+      "4. Les finalistes sont sélectionnés et notifiés avant fin février.",
+      "5. Les finalistes situés aux États-Unis participent à la visite des finalistes sur le campus au printemps (prise en charge).",
+      "6. Les bourses sont attribuées fin mars.",
+      "7. Verser l'acompte d'inscription avant le 1er mai."
+    ],
+    "contacts": [
+      "admission@emory.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel des programmes de bourses",
+        "url": "http://apply.emory.edu/financial-aid/scholar-program"
+      },
+      {
+        "label": "Plans d'admission et dates limites",
+        "url": "https://admissions.drupal.emory.edu/apply/plans-deadlines"
+      },
+      {
+        "label": "Bourses Woodruff - Emory College",
+        "url": "https://oue.college.emory.edu/scholars/"
+      },
+      {
+        "label": "Bourses Woodruff - Oxford College",
+        "url": "https://oxford.emory.edu/catalog/admission-and-aid/scholarships.html"
+      },
+      {
+        "label": "FAQ des bourses",
+        "url": "/apply/faqs#scholars"
+      },
+      {
+        "label": "Aide financière - International",
+        "url": "https://studentaid.emory.edu/undergraduate/apply/new-students/international.html"
+      },
+      {
+        "label": "Types d'aide",
+        "url": "https://studentaid.emory.edu/undergraduate/types/index.html"
+      },
+      {
+        "label": "Demande d'aide financière",
+        "url": "https://studentaid.emory.edu/undergraduate/apply/index.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse Emory",
+      "Woodruff Scholars",
+      "bourse licence États-Unis",
+      "bourse mérite international",
+      "Emory University scholarship",
+      "bourse undergraduate",
+      "programme bourses Emory",
+      "bourse excellence Emory"
+    ],
+    "lien_candidature": "http://apply.emory.edu/financial-aid/scholar-program",
+    "source_url": "http://apply.emory.edu/financial-aid/scholar-program?fbclid=IwY2xjawVeyulleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf0pefHi-s5SruIMaHBWjAUWrJXyW-Yspb17MZLa0G72uObybLtmiZWW4BHLE_aem_Lthn08iuYB2xkcskM3tTRA",
+    "statut": "fermé",
+    "resume": "L'Université Emory propose des bourses d'excellence pouvant couvrir partiellement ou totalement les frais de scolarité pour les étudiants de licence, y compris les internationaux. Le programme Woodruff Scholars offre un soutien financier mais aussi un accès à des ressources, un mentorat et une communauté dynamique. Les candidats doivent postuler via l'un des plans d'admission (EDI, EDII ou RD) et répondre 'Oui' à la question sur les programmes de bourses. Les finalistes sont invités à une visite sur le campus et les bourses sont renouvelables pour huit semestres.",
+    "imageUrl": "/docs/Programmes-pour-tudiants.png",
+    "extrait_le": "2026-11-09T16:52:55",
+    "slug": "bourse-woodruff-emory-licence-2026"
+  },
+  {
     "titre": "Bourse Eric Bleumink",
     "seo_slug": "bourse-eric-bleumink-master-pays-bas-2026",
     "organisation": "Université de Groningue",
@@ -18823,6 +20717,176 @@
     "imageUrl": null,
     "extrait_le": "2026-09-11T12:52:02",
     "slug": "master-informatique-asu-2026"
+  },
+  {
+    "titre": "Bourse d'études Prospective Scholars de l'Université de Richmond",
+    "seo_slug": "bourse-prospective-scholars-richmond-2026",
+    "organisation": "University of Richmond",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2025-12-01",
+    "deadline_texte": "1er décembre 2025 (date limite de candidature à l'admission)",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Toutes disciplines"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Dossier de candidature à l'admission"
+    ],
+    "avantages": [
+      "Frais de scolarité complets",
+      "Logement et repas inclus",
+      "Bourse renouvelable jusqu'à huit semestres consécutifs",
+      "Éligibilité à une subvention unique de 5 500 $ pour une activité choisie par l'étudiant",
+      "Inscription prioritaire aux cours",
+      "Logement sur le campus garanti",
+      "Mentors académiques spécialement sélectionnés",
+      "Billets pour des événements culturels au Modlin Center for the Arts",
+      "Programmes académiques, sociaux et professionnels",
+      "Soutien du personnel du Bureau des bourses et fellowships"
+    ],
+    "eligibilite": [
+      "Tous les candidats à l'admission qui postulent avant le 1er décembre sont automatiquement considérés",
+      "Aucune candidature séparée n'est requise"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre une demande d'admission à l'Université de Richmond avant le 1er décembre",
+      "2. Être automatiquement considéré pour la bourse Prospective Scholars"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel des Prospective Scholars",
+        "url": "https://scholars.richmond.edu/prospective-scholars/index.html"
+      },
+      {
+        "label": "Bureau des admissions",
+        "url": "https://admission.richmond.edu"
+      },
+      {
+        "label": "Autres sources d'aide financière",
+        "url": "https://financialaid.richmond.edu/types-of-aid/index.html"
+      },
+      {
+        "label": "Bourses au mérite",
+        "url": "https://financialaid.richmond.edu/types-of-aid/merit-based/index.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse Richmond",
+      "Prospective Scholars",
+      "bourse complète États-Unis",
+      "bourse licence internationale",
+      "University of Richmond",
+      "bourse études supérieures",
+      "bourse mérite",
+      "bourse logement repas"
+    ],
+    "lien_candidature": "https://scholars.richmond.edu/prospective-scholars/index.html",
+    "source_url": "https://scholars.richmond.edu/prospective-scholars/index.html?fbclid=IwY2xjawVezEZleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf5LdvYYTqs-3QOBSmPIR5-BrFfE6cerMITlcoFhJqX0ZdP9aKo1myhi8cps8_aem_B-J19PNdEtFNqjjKwwAH1A",
+    "statut": "fermé",
+    "resume": "La bourse Prospective Scholars de l'Université de Richmond est l'une des récompenses académiques les plus prestigieuses, offerte à 25 étudiants entrants. Elle couvre intégralement les frais de scolarité, le logement et les repas, et est renouvelable jusqu'à huit semestres. Les candidats doivent simplement postuler à l'admission avant le 1er décembre pour être automatiquement considérés. Des avantages supplémentaires incluent des subventions pour des activités enrichissantes, un mentorat personnalisé et un accès prioritaire aux cours.",
+    "imageUrl": "/docs/Candidats-boursiers.png",
+    "extrait_le": "2026-11-09T16:57:08",
+    "slug": "bourse-prospective-scholars-richmond-2026"
+  },
+  {
+    "titre": "Bourses d'excellence EPFL pour le Master",
+    "seo_slug": "bourse-excellence-epfl-master-2026",
+    "organisation": "EPFL (École Polytechnique Fédérale de Lausanne)",
+    "montant": 10000,
+    "devise": "CHF",
+    "type_financement": "bourse partielle",
+    "deadline": "2025-12-15",
+    "deadline_texte": "15 décembre 2025 (pour les candidats externes et les étudiants EPFL changeant de domaine)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Tous les domaines de Master proposés à l'EPFL"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Non spécifiée (probablement anglais ou français selon le programme)",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Relevé de notes de tous les grades obtenus à l'EPFL (pour les candidats internes)",
+      "Deux lettres de recommandation de professeurs (pour les candidats internes et les étudiants EPFL changeant de domaine)",
+      "Documents requis pour l'admission (pour les candidats externes et les étudiants EPFL changeant de domaine)"
+    ],
+    "avantages": [
+      "Bourse de 10 000 CHF par semestre, pour un maximum de 4 semestres",
+      "Réservation d'une chambre en résidence étudiante (pour les candidats externes uniquement)",
+      "Certificat d'excellence à la fin du Master",
+      "La bourse couvre deux à trois semestres du cycle de Master (selon la durée du programme) plus un semestre pour le projet de Master",
+      "Les boursiers sont responsables de la gestion de toutes les dépenses de vie, y compris les frais de scolarité et le loyer",
+      "La bourse est versée sur un compte bancaire ou postal suisse, que le boursier doit ouvrir à son arrivée en Suisse",
+      "La bourse ne peut pas être cumulée avec d'autres bourses substantielles ; les candidats doivent déclarer toutes les bourses reçues pendant leur Master",
+      "Renouvellement de la bourse pour une deuxième année conditionné à d'excellents résultats académiques : moyenne pondérée d'au moins 5,0 (sur 6, avec 4 = passage) et au moins 50 crédits obtenus (hors stages), sans exception"
+    ],
+    "eligibilite": [
+      "Toute personne postulant à un programme de Master à l'EPFL est éligible",
+      "Un nombre limité de bourses sont attribuées aux candidats les plus méritants, sur la base de l'excellence académique, des qualifications et de la motivation",
+      "Chaque étudiant ne peut postuler qu'à un seul programme de Master par an",
+      "Les candidats qui détiennent déjà un Master ou qui sont actuellement inscrits dans un programme de Master à l'EPFL ne sont pas éligibles"
+    ],
+    "procedure_etapes": [
+      "1. Les candidats externes et les étudiants EPFL changeant de domaine doivent soumettre leur candidature via le formulaire en ligne d'admission au Master de l'EPFL.",
+      "2. Cocher la case indiquant que le profil doit également être considéré pour la bourse d'excellence.",
+      "3. Payer et valider la candidature avant le 15 décembre.",
+      "4. Les lettres de recommandation doivent être téléchargées dans le système une semaine après la date limite de candidature (la date exacte est indiquée dans l'email de confirmation).",
+      "5. Pour les étudiants EPFL poursuivant un Master dans le même domaine : soumettre la candidature directement à la section, avec copie à [email protected], sans passer par IS-Academia.",
+      "6. Pour les étudiants EPFL poursuivant un Master dans le même domaine : les deux lettres de recommandation doivent être envoyées directement par les référents à [email protected].",
+      "7. Pour les étudiants EPFL poursuivant un Master dans le même domaine : la date limite est le 31 janvier (candidature et lettres de recommandation).",
+      "8. Pour les étudiants EPFL changeant de domaine : la date limite de candidature est le 15 décembre ; la date limite pour compléter les lettres de recommandation est le 31 janvier.",
+      "9. Après une première sélection par les sections, le comité des bourses d'excellence attribue les bourses ; les candidats sélectionnés sont notifiés fin mars.",
+      "10. Si un candidat sélectionné se retire ou ne répond pas, la bourse est proposée au candidat suivant sur la liste d'attente, qui reçoit une nouvelle date limite pour confirmer son inscription."
+    ],
+    "contacts": [
+      "[email protected]"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature en ligne pour le Master",
+        "url": "https://www.epfl.ch/education/admission/admission-2/master-admission-criteria-application/online-application/"
+      },
+      {
+        "label": "Documents requis pour l'admission",
+        "url": "https://www.epfl.ch/education/admission/admission-2/master-admission-criteria-application/online-application/#faq-item-8b886f255658efae7d54d8ee51b2d635"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.epfl.ch/education/master/?page_id=12266"
+      }
+    ],
+    "mots_cles": [
+      "bourse EPFL",
+      "bourse excellence master",
+      "bourse Suisse",
+      "financement master EPFL",
+      "bourse études Lausanne",
+      "bourse master 2026",
+      "bourse internationale",
+      "EPFL excellence fellowship"
+    ],
+    "lien_candidature": "https://www.epfl.ch/education/admission/admission-2/master-admission-criteria-application/online-application/",
+    "source_url": "https://www.epfl.ch/education/master/master-excellence-fellowships/how-to-apply/?fbclid=IwY2xjawVe0fpleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf6Oq7LotkMvzyUNwXmQcc9wzjIAjPBQm3zc3OLaHD1806AjY6gv4C_YhZxeE_aem_e88ri9SGZ_8I7B-oqpRjGA",
+    "statut": "fermé",
+    "resume": "L'EPFL propose des bourses d'excellence pour ses programmes de Master, ouvertes aux candidats externes et aux étudiants EPFL. Les bourses couvrent 10 000 CHF par semestre, pour un maximum de 4 semestres, et incluent la réservation d'une chambre en résidence étudiante pour les candidats externes ainsi qu'un certificat d'excellence. La sélection est basée sur l'excellence académique, les qualifications et la motivation. Les candidatures doivent être soumises avant le 15 décembre pour les candidats externes et les étudiants changeant de domaine, et avant le 31 janvier pour les étudiants EPFL poursuivant dans le même domaine.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:20:45",
+    "slug": "bourse-excellence-epfl-master-2026"
   },
   {
     "titre": "Master en Production d'Énergie Moderne et Utilisation Durable",
@@ -35412,6 +37476,189 @@
     "imageUrl": "/docs/Opportunit-s-postdoctorales-au-KIPAC.webp",
     "extrait_le": "2026-10-13T00:29:41",
     "slug": "bourse-postdoctorale-kipac-stanford-2027"
+  },
+  {
+    "titre": "Bourses d'études internationales Lester B. Pearson",
+    "seo_slug": "bourse-pearson-international-2027",
+    "organisation": "University of Toronto",
+    "montant": null,
+    "devise": "CAD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-06",
+    "deadline_texte": "6 novembre 2026",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Tous pays sauf Canada"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Dossier de candidature à l'admission",
+      "Lettre de nomination de l'école"
+    ],
+    "avantages": [
+      "Frais de scolarité",
+      "Livres",
+      "Frais accessoires",
+      "Résidence complète pendant 4 ans"
+    ],
+    "eligibilite": [
+      "Être un étudiant international (non canadien nécessitant un permis d'études)",
+      "Être en dernière année d'études secondaires en 2026/2027 ou diplômé au plus tôt en juin 2026",
+      "Commencer ses études à l'Université de Toronto en septembre 2027",
+      "Ne pas être déjà inscrit dans un programme postsecondaire",
+      "Ne pas commencer ses études postsecondaires en janvier 2027"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier votre éligibilité (étudiant international, dernière année secondaire, début des études en septembre 2027).",
+      "2. Demander à votre école secondaire de vous nommer (la nomination doit être soumise par l'école entre le 6 juillet et le 9 octobre 2026).",
+      "3. Soumettre une demande d'admission à au moins un programme de premier cycle à l'Université de Toronto avant le 16 octobre 2026.",
+      "4. Après avoir été nommé et avoir soumis votre demande d'admission, vous recevrez un lien privé pour remplir le formulaire de candidature à la bourse Pearson avant le 6 novembre 2026."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de participation pour les écoles",
+        "url": "https://apply.adm.utoronto.ca/register/pearson-participate"
+      },
+      {
+        "label": "Formulaire de demande de renseignements",
+        "url": "https://apply.adm.utoronto.ca/register/pearson-inquiry"
+      },
+      {
+        "label": "Bureau du programme Pearson",
+        "url": "https://internationalexperience.utoronto.ca/global-experiences/global-scholarships/lester-b-pearson-scholarship"
+      },
+      {
+        "label": "Site sur l'intégrité académique",
+        "url": "https://www.academicintegrity.utoronto.ca/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Pearson",
+      "bourse internationale Canada",
+      "bourse Université de Toronto",
+      "bourse premier cycle",
+      "bourse complète 4 ans"
+    ],
+    "lien_candidature": "https://future.utoronto.ca/pearson-scholarships?fbclid=IwY2xjawTTn81leHRuA2FlbQIxMABicmlkETE5WXZWdjJLRVB6WEdjWXU4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpZxdDHTNlpvwEawM-hbf41TEL8w9TGIqnC2ZC_E5Cmm0J7bfDnhkiQ2gC15_aem_VDUTK-s9KHYGXJs2B_8GiA#about",
+    "source_url": "https://future.utoronto.ca/pearson-scholarships?fbclid=IwY2xjawTTn81leHRuA2FlbQIxMABicmlkETE5WXZWdjJLRVB6WEdjWXU4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpZxdDHTNlpvwEawM-hbf41TEL8w9TGIqnC2ZC_E5Cmm0J7bfDnhkiQ2gC15_aem_VDUTK-s9KHYGXJs2B_8GiA#about",
+    "statut": "fermé",
+    "resume": "La bourse Lester B. Pearson est la bourse la plus prestigieuse de l'Université de Toronto pour les étudiants internationaux. Elle offre une prise en charge complète des frais de scolarité, des livres, des frais accessoires et de la résidence pendant quatre ans. Environ 37 boursiers sont sélectionnés chaque année parmi les candidats nommés par leur école secondaire.",
+    "imageUrl": "/docs/Bourses-d_-tudes-internationales-Lester-B.-Pearson.webp",
+    "extrait_le": "2026-07-27T02:29:10",
+    "slug": "bourse-pearson-international-2027"
+  },
+  {
+    "titre": "Bourses postdoctorales en sciences de la Terre, de l'environnement et du climat - Lamont-Doherty Earth Observatory",
+    "seo_slug": "bourse-postdoctorale-lamont-terre-climat-2027",
+    "organisation": "Lamont-Doherty Earth Observatory, Columbia University",
+    "montant": 72116,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-06",
+    "deadline_texte": "6 novembre 2026 (date limite de soumission des candidatures). Les lettres de recommandation doivent être soumises avant le 13 novembre 2026.",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Dynamique de la Terre solide",
+      "Systèmes océaniques, atmosphériques et climatiques",
+      "Dynamique de la cryosphère",
+      "Paléoclimat",
+      "Biogéoscience",
+      "Solutions à la contamination de l'air, de l'eau ou du sol",
+      "Écologie forestière"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV incluant une liste de publications",
+      "Proposition de recherche (max 3 pages, hors références, police 12 points, avec titre et nom sur la première page)",
+      "Liste de trois arbitres avec leurs adresses email",
+      "Déclaration sur l'utilisation de l'intelligence artificielle générative"
+    ],
+    "avantages": [
+      "Salaire annuel de 72 116 USD",
+      "Allocation de recherche unique de 12 000 USD",
+      "Frais de déménagement de 1 500 USD",
+      "Soutien institutionnel pour 24 mois",
+      "Possibilité de demander un logement universitaire (places limitées, liste d'attente possible)",
+      "Possibilité de postuler à des financements externes et à des prix/positions internes supplémentaires"
+    ],
+    "eligibilite": [
+      "Avoir récemment obtenu un doctorat (Ph.D.) ou prévoir de terminer les exigences du diplôme avant septembre 2027",
+      "Excellence scientifique et proposition de recherche clairement exprimée sur des problèmes à la pointe des sciences de la Terre",
+      "Les candidats avec une expérience en apprentissage automatique et en IA sont encouragés à postuler",
+      "Limite de 5 ans d'expérience postdoctorale totale autorisée par l'Université Columbia"
+    ],
+    "procedure_etapes": [
+      "1. Lire attentivement toutes les instructions sur le site de candidature.",
+      "2. Contacter dès que possible les mentors potentiels au Lamont pour discuter des possibilités de collaboration.",
+      "3. Préparer les documents requis : CV, proposition de recherche, liste de trois arbitres avec emails, déclaration sur l'utilisation de l'IA générative.",
+      "4. Soumettre la candidature en ligne via le système de candidature de l'Université Columbia avant le 6 novembre 2026.",
+      "5. S'assurer que les arbitres reçoivent la demande automatique et soumettent leurs lettres de recommandation avant le 13 novembre 2026.",
+      "6. Sélectionner l'un des sept domaines de recherche principaux lors de la soumission.",
+      "7. Attendre les résultats de la sélection."
+    ],
+    "contacts": [
+      "pdfellowship@ldeo.columbia.edu",
+      "845-365-8546"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel des bourses postdoctorales",
+        "url": "https://lamont.columbia.edu/about/postdoctoral-fellowships"
+      },
+      {
+        "label": "Détails de la bourse en écologie forestière à Black Rock Forest",
+        "url": "https://www.blackrockforest.org/black-rock-forest-postdoctoral-fellowship-program"
+      },
+      {
+        "label": "Divisions de recherche du Lamont",
+        "url": "https://lamont.columbia.edu/research-divisions"
+      },
+      {
+        "label": "Liste des mentors potentiels",
+        "url": "https://lamont.columbia.edu/postdoctoral-fellowships-prospective-mentors"
+      },
+      {
+        "label": "Opportunités postdoctorales associées à la Columbia Climate School",
+        "url": "https://www.climate.columbia.edu/postdoctoral-research-program"
+      },
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://academic.careers.columbia.edu/#!/190847"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "sciences de la Terre",
+      "changement climatique",
+      "Lamont-Doherty",
+      "Columbia University",
+      "recherche postdoctorale",
+      "bourse climat",
+      "bourse environnement",
+      "financement postdoc",
+      "bourse États-Unis"
+    ],
+    "lien_candidature": "https://academic.careers.columbia.edu/#!/190847",
+    "source_url": "https://lamont.columbia.edu/about/postdoctoral-fellowships?fbclid=IwY2xjawU6P4FleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEey5R74wE2RMsP5LbsSDgob5dmwBrbN6U8hTWDsYPLU-nCFkBD9iCMW3sJHpM_aem_OtzEpOB_-omOAcwbR1smdw",
+    "statut": "fermé",
+    "resume": "Le Lamont-Doherty Earth Observatory de l'Université Columbia propose des bourses postdoctorales prestigieuses en sciences de la Terre, de l'environnement et du climat. Les candidats doivent avoir récemment obtenu leur doctorat ou prévoir de le terminer avant septembre 2027. Les bourses offrent un salaire annuel de 72 116 USD, une allocation de recherche de 12 000 USD et une aide au déménagement de 1 500 USD, pour une durée de 24 mois. La date limite de candidature est le 6 novembre 2026, et les lettres de recommandation doivent être soumises avant le 13 novembre 2026.",
+    "imageUrl": "/docs/Bourses-postdoctorales-en-sciences-de-la-Terre-de-l-environnement-et-du-climat.webp",
+    "extrait_le": "2026-10-13T00:36:58",
+    "slug": "bourse-postdoctorale-lamont-terre-climat-2027"
   },
   {
     "titre": "Bourse Rhodes 2027 pour les candidats internationaux (hors pays spécifiques)",

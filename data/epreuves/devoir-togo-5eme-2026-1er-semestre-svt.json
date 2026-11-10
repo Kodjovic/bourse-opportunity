@@ -1,0 +1,19 @@
+{
+  "type": "devoir",
+  "pays": "togo",
+  "matiere": "svt",
+  "annee": 2026,
+  "session": "1er semestre",
+  "contenu_texte": null,
+  "fichiers": {
+    "sujet": "/docs/DEVOIR-SVT-5-me-LYCEE-TOKOIN-2.pdf",
+    "corrige": null
+  },
+  "nb_exercices": null,
+  "classe": "5ème",
+  "duree_minutes": null,
+  "coefficient": null,
+  "slug": "/devoirs/togo/5eme/2026/1er-semestre/svt",
+  "id": "devoir-togo-5eme-2026-1er-semestre-svt",
+  "created_at": "2026-11-10T18:54:33.435122Z"
+}

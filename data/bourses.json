@@ -35057,98 +35057,6 @@
     "slug": "bourse-commonwealth-doctorat-royaume-uni-2027"
   },
   {
-    "titre": "Bourses Jean Monnet du Centre Robert Schuman",
-    "seo_slug": "bourse-jean-monnet-postdoctorat-2027",
-    "organisation": "Centre Robert Schuman d'études avancées, Institut universitaire européen (IUE)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-10-23",
-    "deadline_texte": "23 octobre 2026 à 14h00 (CEST)",
-    "niveau_etudes": [
-      "Post-doctorat"
-    ],
-    "domaines": [
-      "Études européennes",
-      "Sciences sociales",
-      "Recherche"
-    ],
-    "pays_eligibles": [
-      "Toutes nationalités"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais (recommandé) ou autre langue",
-    "documents_requis": [
-      "CV avec liste de publications (PDF)",
-      "Lettre de motivation (1 à 2 pages, PDF)",
-      "Proposition de recherche (2 à 4 pages, PDF)",
-      "Copie du passeport (JPG)",
-      "Deux lettres de recommandation (soumises en ligne par les référents)"
-    ],
-    "avantages": [
-      "Bourse d'un an",
-      "Participation à la vie académique du Centre",
-      "Collaboration avec des chercheurs et postdoctorants",
-      "Possibilité de participer au programme postdoctoral de l'IUE"
-    ],
-    "eligibilite": [
-      "Avoir obtenu un doctorat plus de 5 ans avant le début de la bourse (pour 2027-2028, doctorat obtenu avant le 1er septembre 2022)",
-      "Projet de recherche s'inscrivant dans les thèmes du Centre",
-      "Toutes nationalités éligibles",
-      "Les candidats polonais titulaires d'un doctorat depuis plus de 5 ans sont éligibles à une bourse spécifique du ministère polonais"
-    ],
-    "procedure_etapes": [
-      "1. Enregistrer votre candidature en ligne le plus tôt possible (fournir vos informations personnelles et celles de vos référents)",
-      "2. Les référents soumettent leurs lettres de recommandation en ligne avant la date limite",
-      "3. Compléter et soumettre la candidature en ligne avec les pièces justificatives avant le 23 octobre 2026 à 14h00 CEST",
-      "4. Les candidatures sont examinées sur la base du projet de recherche et du CV"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Page du programme de bourses",
-        "url": "https://www.eui.eu/apply?id=jean-monnet-fellowships"
-      },
-      {
-        "label": "Section Recherche du Centre Robert Schuman",
-        "url": "https://www.eui.eu/en/academic-units/robert-schuman-centre-for-advanced-studies/research-at-the-robert-schuman-centre-for-advanced-studies"
-      },
-      {
-        "label": "Programme Max Weber pour les études postdoctorales",
-        "url": "https://www.eui.eu/en/academic-units/max-weber-programme-for-postdoctoral-studies"
-      },
-      {
-        "label": "Déclaration de confidentialité - Candidatures et admissions - Postgraduate",
-        "url": "https://www.eui.eu/Documents/ServicesAdmin/AcademicService/DoctoralProgramme/PrivacyStatement-ApplicationsandAdmissions-Postgraduate.pdf"
-      },
-      {
-        "label": "Politique de protection des données de l'IUE",
-        "url": "https://www.eui.eu/Documents/AboutEUI/Organization/PresidentDecisionOnPrivacy.pdf"
-      },
-      {
-        "label": "Lignes directrices de l'IUE sur l'utilisation responsable de l'IA dans la recherche",
-        "url": "https://www.eui.eu/Documents/ServicesAdmin/DeanOfStudies/ResearchEthics/2024.06-Ethics-Commitee-EUI-GENAI-DIGITAL.pdf"
-      }
-    ],
-    "mots_cles": [
-      "bourse Jean Monnet",
-      "post-doctorat",
-      "Centre Robert Schuman",
-      "IUE",
-      "bourse recherche",
-      "études européennes",
-      "bourse 2027-2028",
-      "bourse postdoctorale"
-    ],
-    "lien_candidature": "https://www.eui.eu/apply?id=jean-monnet-fellowships",
-    "source_url": "manuel",
-    "statut": "fermé",
-    "resume": "Le Centre Robert Schuman d'études avancées offre jusqu'à 20 bourses Jean Monnet d'un an pour des chercheurs postdoctoraux ayant obtenu leur doctorat depuis plus de cinq ans. Les boursiers sont sélectionnés sur la base d'un projet de recherche et de leur CV, et doivent s'engager activement dans la vie académique du Centre. La date limite de candidature est le 23 octobre 2026 à 14h00 CEST. Toutes les nationalités sont éligibles, avec une opportunité spécifique pour les candidats polonais.",
-    "imageUrl": null,
-    "extrait_le": "2026-10-05T01:07:49",
-    "slug": "bourse-jean-monnet-postdoctorat-2027"
-  },
-  {
     "titre": "Bourses de voyage de The Company of Biologists",
     "seo_slug": "bourse-voyage-biologistes-2026",
     "organisation": "The Company of Biologists",
@@ -38657,6 +38565,63 @@
     "imageUrl": null,
     "extrait_le": "2026-09-17T02:21:24",
     "slug": "bourse-erasmus-mundus-nucphys-2027-2029"
+  },
+  {
+    "titre": "Programme de bourses de la FAO",
+    "seo_slug": "bourse-fao-2026",
+    "organisation": "Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
+    "niveau_etudes": [],
+    "domaines": [],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": null,
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [],
+    "procedure_etapes": [],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Instructions pour les candidats (PDF)",
+        "url": "http://www.fao.org/3/CA0378EN/ca0378en.PDF"
+      },
+      {
+        "label": "Page d'accueil de la FAO",
+        "url": "http://www.fao.org/home/en"
+      },
+      {
+        "label": "Emplois à la FAO",
+        "url": "http://www.fao.org/employment/en/"
+      },
+      {
+        "label": "Nous contacter",
+        "url": "http://www.fao.org/contact-us/en/"
+      },
+      {
+        "label": "Conditions d'utilisation",
+        "url": "http://www.fao.org/contact-us/terms/en/"
+      }
+    ],
+    "mots_cles": [
+      "bourse FAO",
+      "bourse alimentation",
+      "bourse agriculture",
+      "bourse Nations Unies",
+      "bourse internationale",
+      "programme de bourses FAO"
+    ],
+    "lien_candidature": "http://www.fao.org/employment/en/",
+    "source_url": "manuel",
+    "statut": "non spécifié",
+    "resume": "Le texte fourni correspond à une page de portail d'emploi de la FAO et ne contient pas les détails d'un programme de bourses d'études spécifique. Les informations sur les montants, critères d'éligibilité, dates limites et procédures de candidature ne sont pas présentes. Pour obtenir des détails complets, il est recommandé de consulter les instructions pour les candidats et la page des emplois de la FAO.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-11T14:51:36",
+    "slug": "bourse-fao-2026"
   },
   {
     "titre": "Propositions de recherche réussies - Cours de rhétorique du modernisme",

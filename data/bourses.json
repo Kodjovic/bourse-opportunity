@@ -2800,6 +2800,123 @@
     "slug": "bourse-postgraduate-cambridge-2027"
   },
   {
+    "titre": "Bourses MOPGA 2027 : séjour de recherche pour jeunes chercheurs",
+    "seo_slug": "bourse-mopga-recherche-france-2027",
+    "organisation": "Ministère de l'Europe et des Affaires étrangères (MEAE), en partenariat avec le MESRE et Campus France",
+    "montant": 2500,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-12-15",
+    "deadline_texte": "15 décembre 2026 (clôture de l'appel à candidatures)",
+    "niveau_etudes": [
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Sciences du système terrestre",
+      "Sciences du changement climatique et science de la durabilité",
+      "Transition énergétique",
+      "Enjeux sociétaux des questions environnementales",
+      "Santé humaine, animale et environnementale (approche One Health)"
+    ],
+    "pays_eligibles": [
+      "Toutes les nationalités sauf française"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais ou français",
+    "documents_requis": [
+      "CV avec liste des publications (4 pages max.)",
+      "Diplôme de doctorat (ou attestation de diplôme)",
+      "CV du référent scientifique au sein du laboratoire d'accueil (2 pages max.)",
+      "Lettre de soutien du référent scientifique, co-signée par le directeur du laboratoire ou accompagnée d'une lettre d'engagement de ce dernier, attestant de la mise à disposition de l'environnement scientifique et des moyens nécessaires à la bonne conduite du projet de recherche et de la cohérence avec les objectifs du laboratoire",
+      "Lettre de recommandation (1 minimum - 3 maximum)",
+      "Copie du passeport ou document national d'identité"
+    ],
+    "avantages": [
+      "Allocation mensuelle de 2 500 €",
+      "Allocation d'installation de 500 €",
+      "Couverture santé : assurance santé, responsabilité civile et assistance rapatriement (puis complémentaire santé une fois l'affiliation à la sécurité sociale effectuée)",
+      "Statut de boursier du gouvernement français (BGF)",
+      "Bourse versée directement par Campus France",
+      "Convention de séjour de recherche à établir entre l'institution d'accueil en France et le chercheur",
+      "Environnement scientifique adapté fourni par le laboratoire d'accueil pendant toute la durée du séjour"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un diplôme de doctorat obtenu depuis moins de 5 ans à la date de dépôt du dossier (thèse soutenue entre décembre 2021 et décembre 2026 inclus)",
+      "Être exclusivement de nationalité étrangère (toutes les nationalités sont éligibles à l'exception de la nationalité française)",
+      "Candidater dans le cadre d'une mobilité internationale vers la France",
+      "Ne pas résider ni exercer son activité professionnelle en France au moment de la candidature",
+      "Ne pas avoir déjà bénéficié d'une bourse MOPGA"
+    ],
+    "procedure_etapes": [
+      "Vérifier son éligibilité (doctorat obtenu depuis moins de 5 ans, nationalité étrangère non française, mobilité internationale, non-résidence en France, ne pas avoir déjà bénéficié de MOPGA)",
+      "Trouver un laboratoire d'accueil en France et obtenir une lettre de soutien du référent scientifique co-signée par le directeur du laboratoire",
+      "Préparer le projet de recherche (titre, mots-clés, résumé, contexte et motivation, objectifs scientifiques, méthodologie et calendrier, positionnement par rapport à MOPGA, collaboration internationale/retombées)",
+      "Rassembler les documents requis (CV avec publications, diplôme de doctorat, CV du référent, lettre de soutien, lettres de recommandation, copie du passeport)",
+      "Soumettre la candidature en ligne sur la plateforme Campus France Smapply",
+      "Consulter la FAQ et télécharger le guide de candidature",
+      "Attendre les résultats (notification en mai-juin 2027)",
+      "Si sélectionné, arriver en France entre septembre et décembre 2027 pour débuter le séjour de recherche"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://campusfrance.smapply.io/prog/mopga_2027/"
+      },
+      {
+        "label": "Guide de candidature (PDF)",
+        "url": "https://www.campusfrance.org/system/files/medias/documents/2026-09/MOPGA%202027%20-%20Application%20Guide.pdf"
+      },
+      {
+        "label": "Thématiques MOPGA",
+        "url": "https://www.campusfrance.org/fr/les-thematiques-mopga-make-our-planet-great-again"
+      },
+      {
+        "label": "Circulaire MESRE sur la mise en œuvre du séjour de recherche",
+        "url": "https://www.enseignementsup-recherche.gouv.fr/fr/bo/22/Hebdo19/ESRS2207381C.htm#item5%C2%A0%C2%A0"
+      },
+      {
+        "label": "Programme de bourses France Excellence Eiffel",
+        "url": "https://www.campusfrance.org/fr/le-programme-de-bourses-france-excellence-eiffel"
+      },
+      {
+        "label": "Campus Bourse - bourses pour étudiants étrangers",
+        "url": "https://www.campusfrance.org/fr/bourses-etudiants-etrangers"
+      },
+      {
+        "label": "Portail de la recherche en France",
+        "url": "https://www.campusfrance.org/fr/portail-Recherche-en-France"
+      },
+      {
+        "label": "Plateforme doctorat.gouv.fr",
+        "url": "http://doctorat.gouv.fr"
+      },
+      {
+        "label": "Annuaires des laboratoires",
+        "url": "https://www.campusfrance.org/fr/trouver-laboratoire-recherche-France"
+      }
+    ],
+    "mots_cles": [
+      "bourse MOPGA",
+      "bourse recherche France",
+      "bourse postdoctorale",
+      "Make Our Planet Great Again",
+      "bourse gouvernement français",
+      "recherche climat",
+      "transition énergétique",
+      "One Health",
+      "Campus France",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://campusfrance.smapply.io/prog/mopga_2027/",
+    "source_url": "manuel",
+    "statut": "ouvert",
+    "resume": "Le programme MOPGA (Make Our Planet Great Again) lance son dixième appel à candidatures pour 2027, offrant des bourses de séjour de recherche postdoctorale en France. Financé par le ministère de l'Europe et des Affaires étrangères et mis en œuvre par Campus France, il vise à accueillir de jeunes chercheurs internationaux travaillant sur les enjeux environnementaux et climatiques. Les lauréats bénéficient d'une allocation mensuelle de 2 500 € pendant 12 mois, d'une allocation d'installation de 500 € et d'une couverture santé. Les candidatures sont ouvertes du 15 septembre au 15 décembre 2026, pour un début de séjour entre septembre et décembre 2027.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-11T15:19:15",
+    "slug": "bourse-mopga-recherche-france-2027"
+  },
+  {
     "titre": "Bourses d'entrée pour étudiants de premier cycle (USES) - Université Simon Fraser",
     "seo_slug": "bourse-uses-sfu-premier-cycle-2027",
     "organisation": "Simon Fraser University (SFU)",
@@ -3049,6 +3166,131 @@
     "imageUrl": null,
     "extrait_le": "2026-11-09T17:34:22",
     "slug": "bourse-mbzuai-intelligence-artificielle-2027"
+  },
+  {
+    "titre": "Bourses de recherche doctorale et postdoctorale « Eugen Ionescu » 2026-2027",
+    "seo_slug": "bourse-eugen-ionescu-doctorat-postdoctorat-roumanie-2026",
+    "organisation": "Agence Universitaire de la Francophonie (AUF) et Gouvernement roumain",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse de mobilité",
+    "deadline": "2026-12-15",
+    "deadline_texte": "15 décembre 2026 à 23h59 (heure de Bucarest, GMT+2)",
+    "niveau_etudes": [
+      "Doctorat",
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Tous domaines prioritaires pour le développement",
+      "Recherche scientifique"
+    ],
+    "pays_eligibles": [
+      "États et gouvernements membres et observateurs de l'OIF",
+      "Algérie"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français",
+    "documents_requis": [
+      "Attestation d'accueil délivrée par un établissement partenaire roumain",
+      "Formulaire de candidature en ligne (doctorat ou postdoctorat)",
+      "Fiche signalétique (modèle AUF)",
+      "Projet de recherche (modèle AUF)",
+      "Attestation d'accord de l'établissement d'origine (modèle AUF)",
+      "Attestation d'accord de l'établissement d'accueil (modèle AUF)",
+      "Toutes les pièces constitutives du dossier doivent être rédigées en français"
+    ],
+    "avantages": [
+      "Séjour de recherche de trois mois en Roumanie",
+      "Prise en charge de la mobilité (selon règlement du programme)",
+      "Perfectionnement scientifique",
+      "Consolidation des partenariats entre établissements"
+    ],
+    "eligibilite": [
+      "Être doctorant ou enseignant-chercheur affilié à un établissement d'enseignement supérieur membre de l'AUF",
+      "L'établissement doit être situé dans un État ou gouvernement membre ou observateur de l'OIF, ou en Algérie",
+      "Obtenir une attestation d'accueil d'un établissement partenaire roumain",
+      "Présenter un projet de recherche dans un domaine prioritaire pour le développement du pays d'origine",
+      "Le projet doit s'articuler avec les axes de recherche de l'établissement d'accueil"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier son éligibilité en consultant la liste des États et gouvernements membres et observateurs de l'OIF et la liste des établissements membres de l'AUF",
+      "2. Obtenir une attestation d'accueil délivrée par l'un des établissements d'enseignement supérieur partenaires du programme (les modalités de présélection sont précisées dans le règlement du programme)",
+      "3. Préparer les documents requis en utilisant les modèles fournis par l'AUF (fiche signalétique, projet de recherche, attestations d'accord)",
+      "4. Soumettre la candidature exclusivement en ligne via la plateforme dédiée, en sélectionnant le formulaire correspondant au type de mobilité (doctorat ou postdoctorat), au plus tard le 15 décembre 2026 à 23h59 (heure de Bucarest, GMT+2)",
+      "5. Veiller à ce que le dossier soit complet et rédigé en français ; aucune pièce complémentaire ne pourra être ajoutée après la validation du formulaire"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de demande de bourse doctorale « Eugen Ionescu » 2026-2027",
+        "url": "https://appels-propositions.auf.org/doctorat-eugen-ionescu-2026"
+      },
+      {
+        "label": "Formulaire de demande de bourse postdoctorale « Eugen Ionescu » 2026-2027",
+        "url": "https://appels-propositions.auf.org/postdoctorat-eugen-ionescu-2026"
+      },
+      {
+        "label": "Liste des États et gouvernements membres et observateurs de l'OIF",
+        "url": "https://www.francophonie.org/90-etats-et-gouvernements-125"
+      },
+      {
+        "label": "Liste des établissements membres de l'AUF",
+        "url": "https://www.auf.org/nos-membres/"
+      },
+      {
+        "label": "Présentation du Programme « Eugen Ionescu » (PDF)",
+        "url": "https://www.auf.org/wp-content/uploads/2026/11/1.-presentation-du-programme-eugen-ionescu-2026-2027.pdf"
+      },
+      {
+        "label": "Liste des établissements roumains d'accueil et de leurs thématiques de recherche (PDF)",
+        "url": "https://www.auf.org/wp-content/uploads/2026/11/2.-liste-des-etablissements-daccueil-et-de-leurs-thematiques-de-recherche-2026-2027-v2-1.pdf"
+      },
+      {
+        "label": "Liste des responsables du programme au sein des établissements roumains d'accueil (PDF)",
+        "url": "https://www.auf.org/wp-content/uploads/2026/11/3.-liste-des-responsables-au-sein-des-etablissements-roumains-daccueil-2026-2027-v2-1.pdf"
+      },
+      {
+        "label": "Règlement pour les bourses de doctorat (PDF)",
+        "url": "https://www.auf.org/wp-content/uploads/2026/11/4.-reglement-pour-les-bourses-de-doctorat-2026-2027.pdf"
+      },
+      {
+        "label": "Règlement pour les bourses de postdoctorat (PDF)",
+        "url": "https://www.auf.org/wp-content/uploads/2026/11/5.-reglement-pour-les-bourses-de-postdoctorat-2026-2027.pdf"
+      },
+      {
+        "label": "Modèle de fiche signalétique (DOCX)",
+        "url": "https://www.auf.org/wp-content/uploads/2026/11/1.-modele-de-fiche-signaletique-2026-2027.docx"
+      },
+      {
+        "label": "Modèle de projet de recherche (DOCX)",
+        "url": "https://www.auf.org/wp-content/uploads/2026/11/2.-modele-de-projet-de-recherche-2026-2027.docx"
+      },
+      {
+        "label": "Modèle d'attestation d'accord de l'établissement d'origine (DOCX)",
+        "url": "https://www.auf.org/wp-content/uploads/2026/11/4.-modele-attestation-daccord-origine-2026-2027-2.docx"
+      },
+      {
+        "label": "Modèle d'attestation d'accord de l'établissement d'accueil (DOCX)",
+        "url": "https://www.auf.org/wp-content/uploads/2026/11/3.-modele-attestation-daccord-accueil-2026-2027-2.docx"
+      }
+    ],
+    "mots_cles": [
+      "bourse Eugen Ionescu",
+      "bourse doctorat Roumanie",
+      "bourse postdoctorat Roumanie",
+      "bourse recherche AUF",
+      "mobilité académique Roumanie",
+      "bourse francophonie 2026",
+      "séjour recherche Roumanie",
+      "bourse enseignant-chercheur"
+    ],
+    "lien_candidature": "https://appels-propositions.auf.org/doctorat-eugen-ionescu-2026",
+    "source_url": "https://www.auf.org/bourses-de-recherche-doctorale-et-postdoctorale-eugen-ionescu-2026-2027/",
+    "statut": "ouvert",
+    "resume": "Le Programme de Bourses « Eugen Ionescu » 2026-2027, porté par le Gouvernement roumain et coordonné par l'Agence Universitaire de la Francophonie (AUF), offre aux doctorants et enseignants-chercheurs des pays francophones la possibilité d'effectuer un séjour de recherche de trois mois en Roumanie. Ce programme vise à renforcer la coopération universitaire et la diplomatie scientifique entre la Roumanie et les pays membres de l'OIF. Les candidats doivent obtenir une attestation d'accueil d'un établissement partenaire roumain et soumettre leur dossier en ligne avant le 15 décembre 2026. En 2027, le programme célébrera son 20e anniversaire, marquant vingt années d'engagement pour la mobilité académique.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-11T15:15:32",
+    "slug": "bourse-eugen-ionescu-doctorat-postdoctorat-roumanie-2026"
   },
   {
     "titre": "Bourse EMMIR - Master Européen en Migrations et Relations Interculturelles",
@@ -38565,63 +38807,6 @@
     "imageUrl": null,
     "extrait_le": "2026-09-17T02:21:24",
     "slug": "bourse-erasmus-mundus-nucphys-2027-2029"
-  },
-  {
-    "titre": "Programme de bourses de la FAO",
-    "seo_slug": "bourse-fao-2026",
-    "organisation": "Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "non spécifié",
-    "deadline": null,
-    "deadline_texte": "Non spécifiée dans le texte fourni",
-    "niveau_etudes": [],
-    "domaines": [],
-    "pays_eligibles": [],
-    "age_maximum": null,
-    "langue_requise": null,
-    "documents_requis": [],
-    "avantages": [],
-    "eligibilite": [],
-    "procedure_etapes": [],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Instructions pour les candidats (PDF)",
-        "url": "http://www.fao.org/3/CA0378EN/ca0378en.PDF"
-      },
-      {
-        "label": "Page d'accueil de la FAO",
-        "url": "http://www.fao.org/home/en"
-      },
-      {
-        "label": "Emplois à la FAO",
-        "url": "http://www.fao.org/employment/en/"
-      },
-      {
-        "label": "Nous contacter",
-        "url": "http://www.fao.org/contact-us/en/"
-      },
-      {
-        "label": "Conditions d'utilisation",
-        "url": "http://www.fao.org/contact-us/terms/en/"
-      }
-    ],
-    "mots_cles": [
-      "bourse FAO",
-      "bourse alimentation",
-      "bourse agriculture",
-      "bourse Nations Unies",
-      "bourse internationale",
-      "programme de bourses FAO"
-    ],
-    "lien_candidature": "http://www.fao.org/employment/en/",
-    "source_url": "manuel",
-    "statut": "non spécifié",
-    "resume": "Le texte fourni correspond à une page de portail d'emploi de la FAO et ne contient pas les détails d'un programme de bourses d'études spécifique. Les informations sur les montants, critères d'éligibilité, dates limites et procédures de candidature ne sont pas présentes. Pour obtenir des détails complets, il est recommandé de consulter les instructions pour les candidats et la page des emplois de la FAO.",
-    "imageUrl": null,
-    "extrait_le": "2026-11-11T14:51:36",
-    "slug": "bourse-fao-2026"
   },
   {
     "titre": "Propositions de recherche réussies - Cours de rhétorique du modernisme",

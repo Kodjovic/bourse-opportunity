@@ -5465,6 +5465,108 @@
     "slug": "bourse-um-nl-brightlands-talent-2027"
   },
   {
+    "titre": "Programme de doctorat en Innovation, Économie, Gouvernance et Développement Durable (IEGSD) - UNU-MERIT",
+    "seo_slug": "bourse-doctorat-innovation-gouvernance-unu-merit-2027",
+    "organisation": "UNU-MERIT (Université des Nations Unies - Institut de recherche sur l'innovation et la technologie)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse de recherche (financement à rechercher par le candidat via des subventions ou bourses)",
+    "deadline": "2027-02-15",
+    "deadline_texte": "15 février 2027 (date de clôture de l'appel à candidatures ouvert le 1er novembre 2026)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Économie de l'innovation",
+      "Politiques publiques",
+      "Gouvernance",
+      "Développement durable"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement, non spécifié explicitement)",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "CV",
+      "Lettre de motivation",
+      "Projet de recherche",
+      "Diplômes et relevés de notes",
+      "Lettres de recommandation"
+    ],
+    "avantages": [
+      "Formation de classe mondiale",
+      "Encadrement par des experts",
+      "Accès aux ressources et réseaux de l'UNU et de l'Université de Maastricht",
+      "Diplôme de doctorat de l'Université de Maastricht",
+      "Possibilité de financement via des subventions ou bourses (non garanti par le programme)"
+    ],
+    "eligibilite": [
+      "Être fortement motivé par la recherche dans les domaines clés",
+      "Pour la voie à temps plein : engagement à temps plein à Maastricht",
+      "Pour la voie double carrière : professionnels avec une forte ambition de recherche, capacité à équilibrer travail et recherche",
+      "Diplôme de master (non spécifié mais implicite pour un doctorat)"
+    ],
+    "procedure_etapes": [
+      "1. Consulter les pages web des programmes respectifs pour les formulaires de candidature et les critères de sélection",
+      "2. Participer aux sessions de consultation organisées pendant la période d'appel",
+      "3. Soumettre la candidature via le formulaire en ligne (dates : 1er novembre 2026 - 15 février 2027)",
+      "4. Sélection en mars et avril 2027",
+      "5. Début du programme en septembre 2027"
+    ],
+    "contacts": [
+      "info@merit.unu.edu",
+      "phdprogramme@merit.unu.edu",
+      "+31 (0)43 388 4400"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page officielle du programme de doctorat",
+        "url": "https://unu.edu/merit/phd-programme/phd-programme-innovation-economics-governance-and-sustainable-development"
+      },
+      {
+        "label": "Programme de doctorat à temps plein",
+        "url": "https://unu.edu/merit/doctorate-degree/full-time-phd-programme"
+      },
+      {
+        "label": "Programme de doctorat en double carrière",
+        "url": "https://unu.edu/merit/doctorate-degree/dual-career-phd-programme"
+      },
+      {
+        "label": "Inscription à la newsletter",
+        "url": "https://unu-merit.nl/signup/education.html"
+      },
+      {
+        "label": "Axe de recherche : Économie de l'innovation et de la technologie",
+        "url": "https://unu.edu/merit/research-agenda/economics-innovation-and-technology"
+      },
+      {
+        "label": "Axe de recherche : Politiques publiques et gouvernance",
+        "url": "https://unu.edu/merit/research-agenda/public-policy-and-governance-innovation"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat",
+      "UNU-MERIT",
+      "innovation",
+      "gouvernance",
+      "développement durable",
+      "économie",
+      "doctorat Pays-Bas",
+      "recherche",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://unu.edu/merit/phd-programme/phd-programme-innovation-economics-governance-and-sustainable-development",
+    "source_url": "https://unu.edu/merit/phd-programme/phd-programme-innovation-economics-governance-and-sustainable-development?fbclid=IwY2xjawVjIAhleHRuA2FlbQIxMABwZG9mAWJyaWQRMW1mUXpJVzg5Mmh0TTFxSk5zcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfHCmHUx_BkYATm0SL9OY7p3VtQuIh_pYvMAU0nCFKDHeoV9j-HcQIcd7wWJ4_aem_I_PU8kWF_v7F7Xr8_wG2VQ",
+    "statut": "ouvert",
+    "resume": "Le programme de doctorat en Innovation, Économie, Gouvernance et Développement Durable (IEGSD) de l'UNU-MERIT offre une formation de classe mondiale et un encadrement expert pour les candidats souhaitant explorer les effets transformateurs des technologies innovantes, des politiques publiques et de la gouvernance sur le développement mondial. Les boursiers contribuent à des axes de recherche de pointe, avec deux voies possibles : à temps plein ou en double carrière. L'appel à candidatures est ouvert du 1er novembre 2026 au 15 février 2027, pour un début en septembre 2027. Les candidats sélectionnés bénéficient d'un environnement académique rigoureux et d'un réseau international, avec un diplôme délivré par l'Université de Maastricht.",
+    "adresse": "Boschstraat 24 6211 AX Maastricht The Netherlands",
+    "imageUrl": "/docs/Master-of-Science-in-Public-Policy-and-Human-Development.png",
+    "extrait_le": "2026-11-12T23:48:45",
+    "slug": "bourse-doctorat-innovation-gouvernance-unu-merit-2027"
+  },
+  {
     "titre": "Bourses de doctorat du Président de l'Imperial College London",
     "seo_slug": "bourse-president-phd-imperial-2027",
     "organisation": "Imperial College London",

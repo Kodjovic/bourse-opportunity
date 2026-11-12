@@ -1,103 +1,5 @@
 [
   {
-    "titre": "Bourse postdoctorale internationale Azrieli",
-    "seo_slug": "bourse-azrieli-postdoctorat-israel-2027",
-    "organisation": "Azrieli Foundation",
-    "montant": 14000,
-    "devise": "ILS",
-    "type_financement": "bourse complète",
-    "deadline": "2026-11-11",
-    "deadline_texte": "11 novembre 2026",
-    "niveau_etudes": [
-      "Postdoctorat"
-    ],
-    "domaines": [
-      "Toutes disciplines",
-      "Sciences exactes",
-      "Sciences de la vie",
-      "Sciences humaines",
-      "Sciences sociales"
-    ],
-    "pays_eligibles": [
-      "Tous les pays sauf Israël"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Diplôme de doctorat",
-      "Documentation officielle de l'université indiquant la date de soutenance",
-      "Formulaire de candidature en ligne",
-      "CV",
-      "Lettre de motivation",
-      "Proposition de recherche",
-      "Lettres de recommandation"
-    ],
-    "avantages": [
-      "Allocation mensuelle de 14 000 ILS",
-      "20 000 ILS annuels pour frais de recherche et voyages liés à la recherche",
-      "Développement professionnel",
-      "Opportunités de réseautage",
-      "Formation au leadership",
-      "Échanges interdisciplinaires et interculturels"
-    ],
-    "eligibilite": [
-      "Avoir obtenu un doctorat (date sur le diplôme) au plus tôt le 1er novembre 2023, dans tous les pays sauf Israël",
-      "Les candidats actuellement inscrits en doctorat peuvent postuler s'ils soutiennent leur thèse au plus tard le 1er juin 2027",
-      "Ne pas avoir obtenu de diplôme universitaire (licence, master, doctorat) dans un établissement israélien",
-      "Ne pas avoir commencé un postdoctorat en Israël avant le 1er septembre 2026",
-      "Avoir obtenu un sponsor académique et effectuer la recherche postdoctorale dans l'une des institutions israéliennes suivantes : Bar-Ilan University, Ben-Gurion University of the Negev, Reichman University, Technion – Israel Institute of Technology, Tel Aviv University, The Hebrew University of Jerusalem, University of Haifa, Weizmann Institute of Science"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier l'éligibilité et les conditions",
-      "2. Télécharger et lire les directives de sélection (PDF)",
-      "3. Lire attentivement les instructions de candidature (PDF)",
-      "4. Préparer les documents requis",
-      "5. Soumettre la candidature en ligne via le portail",
-      "6. Présélection par des équipes académiques",
-      "7. Examen académique par des comités multidisciplinaires",
-      "8. Entretien avec un panel",
-      "9. Notification d'attribution avant le 31 mars 2027"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Directives de sélection (PDF)",
-        "url": "https://azrielifoundation.org/wp-content/uploads/2026/08/Guidelines-2027-28.pdf"
-      },
-      {
-        "label": "Instructions de candidature (PDF)",
-        "url": "https://azrielifoundation.org/wp-content/uploads/2026/07/Application-Instructions-2027-2028.docx.pdf"
-      },
-      {
-        "label": "Portail de candidature",
-        "url": "https://azrieli.smapply.io/prog/international_postdoctoral_fellowship_2027-2028/"
-      },
-      {
-        "label": "Page du programme",
-        "url": "https://azrielifoundation.org/fellows/internationalpostdoctoral/"
-      }
-    ],
-    "mots_cles": [
-      "bourse postdoctorale",
-      "bourse Israël",
-      "Azrieli Foundation",
-      "bourse internationale",
-      "postdoctorat Israël",
-      "financement recherche",
-      "bourse 2027",
-      "bourse sciences",
-      "bourse sciences humaines",
-      "bourse sciences sociales"
-    ],
-    "lien_candidature": "https://azrieli.smapply.io/prog/international_postdoctoral_fellowship_2027-2028/",
-    "source_url": "https://azrielifoundation.org/fellows/internationalpostdoctoral/?fbclid=IwY2xjawU6QjRleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEey5R74wE2RMsP5LbsSDgob5dmwBrbN6U8hTWDsYPLU-nCFkBD9iCMW3sJHpM_aem_OtzEpOB_-omOAcwbR1smdw",
-    "statut": "ouvert",
-    "resume": "La Fondation Azrieli offre des bourses postdoctorales internationales prestigieuses pour l'année académique 2027-2028. Les boursiers reçoivent une allocation mensuelle de 14 000 ILS et 20 000 ILS annuels pour frais de recherche, ainsi qu'un accompagnement professionnel personnalisé. Le programme est ouvert aux chercheurs de toutes disciplines ayant obtenu leur doctorat après le 1er novembre 2023 et souhaitant poursuivre leurs recherches dans l'une des huit institutions israéliennes partenaires. Les candidatures sont ouvertes du 9 août au 11 novembre 2026.",
-    "imageUrl": "/docs/International-Postdoctoral-Fellowship-1500x630.webp",
-    "extrait_le": "2026-10-13T00:49:00",
-    "slug": "bourse-azrieli-postdoctorat-israel-2027"
-  },
-  {
     "titre": "Bourse ALCHE - African Leadership College of Higher Education",
     "seo_slug": "bourse-alche-maurice-2027",
     "organisation": "African Leadership College of Higher Education (ALCHE)",
@@ -37926,6 +37828,104 @@
     "imageUrl": "/docs/Bourses-postdoctorales-en-sciences-de-la-Terre-de-l-environnement-et-du-climat.webp",
     "extrait_le": "2026-10-13T00:36:58",
     "slug": "bourse-postdoctorale-lamont-terre-climat-2027"
+  },
+  {
+    "titre": "Bourse postdoctorale internationale Azrieli",
+    "seo_slug": "bourse-azrieli-postdoctorat-israel-2027",
+    "organisation": "Azrieli Foundation",
+    "montant": 14000,
+    "devise": "ILS",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-11",
+    "deadline_texte": "11 novembre 2026",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Toutes disciplines",
+      "Sciences exactes",
+      "Sciences de la vie",
+      "Sciences humaines",
+      "Sciences sociales"
+    ],
+    "pays_eligibles": [
+      "Tous les pays sauf Israël"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Diplôme de doctorat",
+      "Documentation officielle de l'université indiquant la date de soutenance",
+      "Formulaire de candidature en ligne",
+      "CV",
+      "Lettre de motivation",
+      "Proposition de recherche",
+      "Lettres de recommandation"
+    ],
+    "avantages": [
+      "Allocation mensuelle de 14 000 ILS",
+      "20 000 ILS annuels pour frais de recherche et voyages liés à la recherche",
+      "Développement professionnel",
+      "Opportunités de réseautage",
+      "Formation au leadership",
+      "Échanges interdisciplinaires et interculturels"
+    ],
+    "eligibilite": [
+      "Avoir obtenu un doctorat (date sur le diplôme) au plus tôt le 1er novembre 2023, dans tous les pays sauf Israël",
+      "Les candidats actuellement inscrits en doctorat peuvent postuler s'ils soutiennent leur thèse au plus tard le 1er juin 2027",
+      "Ne pas avoir obtenu de diplôme universitaire (licence, master, doctorat) dans un établissement israélien",
+      "Ne pas avoir commencé un postdoctorat en Israël avant le 1er septembre 2026",
+      "Avoir obtenu un sponsor académique et effectuer la recherche postdoctorale dans l'une des institutions israéliennes suivantes : Bar-Ilan University, Ben-Gurion University of the Negev, Reichman University, Technion – Israel Institute of Technology, Tel Aviv University, The Hebrew University of Jerusalem, University of Haifa, Weizmann Institute of Science"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et les conditions",
+      "2. Télécharger et lire les directives de sélection (PDF)",
+      "3. Lire attentivement les instructions de candidature (PDF)",
+      "4. Préparer les documents requis",
+      "5. Soumettre la candidature en ligne via le portail",
+      "6. Présélection par des équipes académiques",
+      "7. Examen académique par des comités multidisciplinaires",
+      "8. Entretien avec un panel",
+      "9. Notification d'attribution avant le 31 mars 2027"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Directives de sélection (PDF)",
+        "url": "https://azrielifoundation.org/wp-content/uploads/2026/08/Guidelines-2027-28.pdf"
+      },
+      {
+        "label": "Instructions de candidature (PDF)",
+        "url": "https://azrielifoundation.org/wp-content/uploads/2026/07/Application-Instructions-2027-2028.docx.pdf"
+      },
+      {
+        "label": "Portail de candidature",
+        "url": "https://azrieli.smapply.io/prog/international_postdoctoral_fellowship_2027-2028/"
+      },
+      {
+        "label": "Page du programme",
+        "url": "https://azrielifoundation.org/fellows/internationalpostdoctoral/"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "bourse Israël",
+      "Azrieli Foundation",
+      "bourse internationale",
+      "postdoctorat Israël",
+      "financement recherche",
+      "bourse 2027",
+      "bourse sciences",
+      "bourse sciences humaines",
+      "bourse sciences sociales"
+    ],
+    "lien_candidature": "https://azrieli.smapply.io/prog/international_postdoctoral_fellowship_2027-2028/",
+    "source_url": "https://azrielifoundation.org/fellows/internationalpostdoctoral/?fbclid=IwY2xjawU6QjRleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEey5R74wE2RMsP5LbsSDgob5dmwBrbN6U8hTWDsYPLU-nCFkBD9iCMW3sJHpM_aem_OtzEpOB_-omOAcwbR1smdw",
+    "statut": "fermé",
+    "resume": "La Fondation Azrieli offre des bourses postdoctorales internationales prestigieuses pour l'année académique 2027-2028. Les boursiers reçoivent une allocation mensuelle de 14 000 ILS et 20 000 ILS annuels pour frais de recherche, ainsi qu'un accompagnement professionnel personnalisé. Le programme est ouvert aux chercheurs de toutes disciplines ayant obtenu leur doctorat après le 1er novembre 2023 et souhaitant poursuivre leurs recherches dans l'une des huit institutions israéliennes partenaires. Les candidatures sont ouvertes du 9 août au 11 novembre 2026.",
+    "imageUrl": "/docs/International-Postdoctoral-Fellowship-1500x630.webp",
+    "extrait_le": "2026-10-13T00:49:00",
+    "slug": "bourse-azrieli-postdoctorat-israel-2027"
   },
   {
     "titre": "Bourse Rhodes 2027 pour les candidats internationaux (hors pays spécifiques)",

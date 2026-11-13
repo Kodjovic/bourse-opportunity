@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import ReactMarkdown from "react-markdown";
+import { DocumentPdf } from "@/components/DocumentPdf";
 import { guides } from "@/lib/guides";
 
 type Props = {
@@ -85,6 +86,9 @@ export default async function GuidePage({ params }: Props) {
             ))}
           </div>
         </header>
+
+        {/* Document PDF joint depuis l'interface d'administration */}
+        <DocumentPdf url={guide.pdfUrl} label={guide.pdfLabel} />
 
         <div className="max-w-none border-t border-gray-100 pt-10">
           <div className="markdown-content text-gray-700 leading-relaxed">

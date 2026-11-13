@@ -5,6 +5,7 @@ import { Breadcrumb } from "@/components/epreuves/Breadcrumb";
 import { ConversionBox } from "@/components/epreuves/ConversionBox";
 import { YearGroup } from "@/components/epreuves/YearGroup";
 import { getAllDocuments } from "@/lib/epreuves";
+import { SITE_NAME } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Épreuves scolaires togolaises : BAC 1, BAC 2, BEPC, BTS",
@@ -12,6 +13,20 @@ export const metadata: Metadata = {
     "Accédez gratuitement aux sujets et corrigés des examens nationaux togolais (BAC 1, BAC 2, BEPC, BTS) " +
     "ainsi qu'aux devoirs et compositions de classe pour exceller dans vos études.",
   alternates: { canonical: "/epreuves" },
+  // OpenGraph de la page : sans ce bloc, le layout racine ferait hériter les
+  // valeurs de l'accueil (/). Seuls og:title, og:description et og:url changent ;
+  // type/siteName/locale reprennent ceux du layout (un `openGraph` de page
+  // remplace entièrement celui du parent au lieu de le fusionner).
+  openGraph: {
+    title: "Épreuves scolaires togolaises : BAC 1, BAC 2, BEPC, BTS",
+    description:
+      "Accédez gratuitement aux sujets et corrigés des examens nationaux togolais (BAC 1, BAC 2, BEPC, BTS) " +
+      "ainsi qu'aux devoirs et compositions de classe pour exceller dans vos études.",
+    url: "/epreuves",
+    type: "website",
+    siteName: SITE_NAME,
+    locale: "fr_FR",
+  },
 };
 
 export default async function PageEpreuvesLanding() {

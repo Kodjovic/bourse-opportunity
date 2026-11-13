@@ -9,4 +9,6 @@ export type Guide = {
   isFeatured: boolean;    // true = affiché en grande carte "À la une"
   publishedAt: string;    // date ISO
   content: string;        // contenu markdown
+  pdfUrl?: string | null; // Document PDF joint (/docs/...) ou null
+  pdfLabel?: string | null; // Libellé affiché pour le PDF
 };

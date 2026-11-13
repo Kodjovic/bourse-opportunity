@@ -4,6 +4,8 @@ export type Actualite = {
   subtitle: string;              // Meta description / Résumé court
   category: string;              // ex: "Annonce de bourse", "Changement de règles"
   imageUrl: string | null;       // URL de l'image d'illustration si fournie, sinon null
+  pdfUrl?: string | null;        // Document PDF joint (/docs/...) ou null
+  pdfLabel?: string | null;      // Libellé affiché pour le PDF
   icon: string | null;           // Emoji pertinent généré par l'IA
   readingTime: number;           // en minutes
   tags: string[];                // tags associés

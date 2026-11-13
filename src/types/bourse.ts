@@ -44,5 +44,9 @@ export interface Bourse {
   adresse?: string | null;
   imageUrl?: string | null;
 
+  // Document PDF joint depuis l'interface d'administration (/docs/...)
+  pdfUrl?: string | null;
+  pdfLabel?: string | null;
+
   extrait_le: string;               // ISO 8601 datetime
 }

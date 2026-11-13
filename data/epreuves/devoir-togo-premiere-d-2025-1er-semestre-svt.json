@@ -1,0 +1,19 @@
+{
+  "type": "devoir",
+  "pays": "togo",
+  "matiere": "svt",
+  "annee": 2025,
+  "session": "1er semestre",
+  "contenu_texte": null,
+  "fichiers": {
+    "sujet": "/docs/devoir-svt-premier-semestre-togo.pdf",
+    "corrige": null
+  },
+  "nb_exercices": 3,
+  "classe": "Première D",
+  "duree_minutes": 240,
+  "coefficient": null,
+  "slug": "/devoirs/togo/premiere-d/2025/1er-semestre/svt",
+  "id": "devoir-togo-premiere-d-2025-1er-semestre-svt",
+  "created_at": "2026-11-13T11:30:33.474350Z"
+}

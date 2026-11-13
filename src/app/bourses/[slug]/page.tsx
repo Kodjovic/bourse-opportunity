@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 
 import { BoursesSimilaires } from "@/components/BoursesSimilaires";
 import { ContactEmail } from "@/components/ContactEmail";
+import { DocumentPdf } from "@/components/DocumentPdf";
 import { PartageSocial } from "@/components/PartageSocial";
 import { getAllBourses, getAllSlugs, getBourseBySlug } from "@/lib/bourses";
 import { boursesSimilaires } from "@/lib/scoring";
@@ -126,6 +127,9 @@ export default async function PageBourse({ params }: Props) {
             />
           </div>
         )}
+
+        {/* Document PDF joint depuis l'interface d'administration */}
+        <DocumentPdf url={bourse.pdfUrl} label={bourse.pdfLabel} />
 
         {/* Carte deadline + countdown */}
         <CarteDeadline bourse={bourse} />

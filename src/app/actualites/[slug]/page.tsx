@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 import { getActualites } from "@/lib/actualites";
+import { DocumentPdf } from "@/components/DocumentPdf";
 import { PartageSocial } from "@/components/PartageSocial";
 import { SITE_NAME, SITE_URL } from "@/lib/site";
 
@@ -158,6 +159,9 @@ export default async function ActualitePage({ params }: Props) {
             />
           </div>
         )}
+
+        {/* Document PDF joint depuis l'interface d'administration */}
+        <DocumentPdf url={actu.pdfUrl} label={actu.pdfLabel} />
 
         <div className="max-w-none border-t border-stone-200 pt-8">
           <div className="markdown-content text-stone-700 leading-relaxed font-sans text-sm sm:text-base">

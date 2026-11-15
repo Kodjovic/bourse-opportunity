@@ -997,6 +997,113 @@
     "slug": "bourse-royal-society-career-development-2026"
   },
   {
+    "titre": "Cycles internationaux 2027-2028 de l'INSP et des ISP (ex IRA)",
+    "seo_slug": "insp-cycles-internationaux-2027-2028",
+    "organisation": "Institut national du service public (INSP)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "formation",
+    "deadline": "2026-11-20",
+    "deadline_texte": "20 novembre 2026 (clôture des inscriptions en ligne)",
+    "niveau_etudes": [
+      "Master 1 ou équivalent"
+    ],
+    "domaines": [
+      "Administration publique",
+      "Service public",
+      "Gouvernance"
+    ],
+    "pays_eligibles": [
+      "Tous les pays sauf la France (candidats non français)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français (excellente maîtrise à l'oral et à l'écrit) et anglais (bonne maîtrise)",
+    "documents_requis": [
+      "Photo d'identité",
+      "CV",
+      "Copie du passeport ou carte d'identité",
+      "Copie du diplôme de niveau le plus élevé et sa traduction en français le cas échéant",
+      "Lettre de motivation"
+    ],
+    "avantages": [
+      "Formation au sein de l'INSP ou des ISP",
+      "Possibilité de bourse (non spécifiée dans le texte)"
+    ],
+    "eligibilite": [
+      "Ne pas avoir la nationalité française ni être en cours d'acquisition de la nationalité française",
+      "Disposer de ressources mensuelles au moins égales à 1 800 euros par mois, bourses comprises le cas échéant",
+      "Posséder une excellente maîtrise de la langue française tant à l'oral qu'à l'écrit",
+      "Disposer d'un diplôme de niveau master 1 ou d'un cursus équivalent",
+      "Être fonctionnaire, agent public ou exceptionnellement, ne pas encore être entré dans la vie professionnelle et se destiner à une carrière dans le service public au bénéfice de son pays d'origine",
+      "Exercer des responsabilités de niveau supérieur (pour les fonctionnaires ou agents publics)",
+      "Satisfaire aux épreuves de sélection organisées par l'Institut",
+      "Avoir une bonne maîtrise de l'anglais",
+      "Avoir informé sa hiérarchie de ses démarches et de la certitude d'être libéré ou mis à disposition par celui-ci en cas de réussite à l'ensemble du processus de sélection"
+    ],
+    "procedure_etapes": [
+      "Consulter la FAQ 2027-28 et le calendrier de la sélection 2027-2028",
+      "Vérifier les conditions d'admission au cycle choisi (CIL, CIP ou CiISP)",
+      "Rassembler les pièces complémentaires requises",
+      "S'inscrire en ligne sur le site de l'INSP entre le 21 septembre 2026 et le 20 novembre 2026",
+      "Valider l'inscription en ligne (environ 30 minutes)",
+      "Conserver le numéro de dossier reçu par email",
+      "Attendre l'examen de la candidature par l'INSP et l'ambassade de France"
+    ],
+    "contacts": [
+      "cyclesinternationaux2027@insp.gouv.fr",
+      "DelegueProtectionDonnees@insp.gouv.fr"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de l'INSP",
+        "url": "https://www.insp.gouv.fr"
+      },
+      {
+        "label": "Calendrier de la sélection 2027-2028 (PDF)",
+        "url": "https://www.insp.gouv.fr/registration/session/download/?name=840/I/Calendrier%20session%202027-2028%20portail%20INSP.pdf"
+      },
+      {
+        "label": "FAQ 2027-2028 (PDF)",
+        "url": "https://www.insp.gouv.fr/registration/session/download/?name=840/I/FAQ_recrutement_cycles_internationaux_INSP_ISP_2027-2028.pdf"
+      },
+      {
+        "label": "Facebook INSP",
+        "url": "https://www.facebook.com/insp.gouv.fr"
+      },
+      {
+        "label": "X (Twitter) INSP",
+        "url": "https://twitter.com/INSP_Fr"
+      },
+      {
+        "label": "LinkedIn INSP",
+        "url": "https://www.linkedin.com/company/insp-institut-national-du-service-public"
+      },
+      {
+        "label": "YouTube INSP",
+        "url": "https://www.youtube.com/channel/UCFaF0xJcTDYgKoeP_4mK7gg"
+      }
+    ],
+    "mots_cles": [
+      "bourse INSP",
+      "cycles internationaux INSP",
+      "formation service public",
+      "bourse master administration",
+      "bourse France",
+      "ISP ex IRA",
+      "cycle international long",
+      "cycle international de perfectionnement"
+    ],
+    "lien_candidature": "https://candidature-formation.insp.gouv.fr/registration/action840/info/",
+    "source_url": "https://candidature-formation.insp.gouv.fr/registration/action840/info/?fbclid=IwY2xjawVl9gtleHRuA2FlbQIxMABwZG9mAWJyaWQRMU5VUEJ5dUREaWZjTWRRbHZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfb91dOaKr5PPZII2YmUqEgFUVh6KB5KYNdDqnmOHs3nnv8nRYt3wokVYVGrs_aem_42sQJQd3QUNCcIzzjt8UKA",
+    "statut": "ouvert",
+    "resume": "L'Institut national du service public (INSP) ouvre les candidatures pour ses cycles internationaux 2027-2028, destinés aux fonctionnaires et agents publics étrangers souhaitant se perfectionner dans le service public. La formation se déroule sur une année académique à partir d'août 2027 et offre trois parcours : le Cycle International Long (CIL), le Cycle International de Perfectionnement (CIP) et le Cycle International des ISP (CiISP). Les candidats doivent être non-français, titulaires d'un master 1, maîtriser le français et l'anglais, et disposer de ressources financières suffisantes. Les inscriptions en ligne sont ouvertes du 21 septembre au 20 novembre 2026.",
+    "imageUrl": "/docs/cycles-internationaux-2027-2028-de-l-insp-et-des-isp.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T04:06:22",
+    "slug": "insp-cycles-internationaux-2027-2028"
+  },
+  {
     "titre": "Bourses de recherche Monica Cole et Henrietta Hutton",
     "seo_slug": "bourse-monica-cole-henrietta-hutton-2026",
     "organisation": "Royal Geographical Society (avec l'Institute of British Geographers)",

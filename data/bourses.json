@@ -1,82 +1,5 @@
 [
   {
-    "titre": "Bourse ALCHE - African Leadership College of Higher Education",
-    "seo_slug": "bourse-alche-maurice-2027",
-    "organisation": "African Leadership College of Higher Education (ALCHE)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "non spécifié",
-    "deadline": "2026-11-14",
-    "deadline_texte": "14 novembre 2026 pour les étudiants internationaux, 23 janvier 2027 pour les étudiants mauriciens",
-    "niveau_etudes": [
-      "Licence"
-    ],
-    "domaines": [
-      "Non spécifié"
-    ],
-    "pays_eligibles": [
-      "International",
-      "Maurice"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Relevés de notes des examens nationaux",
-      "Relevés de notes du secondaire",
-      "Preuve de maîtrise de l'anglais",
-      "Documents d'identification",
-      "Passeport valide (pour les étudiants internationaux)"
-    ],
-    "avantages": [],
-    "eligibilite": [
-      "Répondre aux critères d'éligibilité d'ALCHE",
-      "Étudiants internationaux : visa étudiant requis"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier l'éligibilité",
-      "2. Fournir des informations personnelles et contextuelles",
-      "3. Soumettre l'historique académique (programmes souhaités, langue d'enseignement, notes)",
-      "4. Télécharger les documents requis",
-      "5. Attendre la décision d'admission (2 à 4 semaines)"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://alueducation.formtitan.com/ftproject/alche_apply/register"
-      },
-      {
-        "label": "Programmes de diplôme ALCHE",
-        "url": "https://alcheducation.com/"
-      },
-      {
-        "label": "Frais de scolarité pour les étudiants mauriciens",
-        "url": "https://drive.google.com/file/d/19Rf9Xvg0iYkavvlewx406e6B6fRu108W/view"
-      },
-      {
-        "label": "Frais de scolarité pour les étudiants internationaux",
-        "url": "https://drive.google.com/file/d/1H-mMg85HT1YLToz6eAoPSQeBVbvGpxOQ/view"
-      }
-    ],
-    "mots_cles": [
-      "bourse ALCHE",
-      "bourse Maurice",
-      "bourse licence",
-      "bourse études Afrique",
-      "bourse 2027",
-      "African Leadership College",
-      "bourse internationale",
-      "candidature ALCHE"
-    ],
-    "lien_candidature": "https://alueducation.formtitan.com/ftproject/alche_apply/register",
-    "source_url": "https://alcheducation.com/apply-now/?fbclid=IwY2xjawUeztRwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeGmM9QTPIn9aXc72td1ClQvNIkskfrNgSZwEsv99f-CX55iJgKfkBGtlbQ3Y_aem_4j5b4V9rwirchRNAkMyybg",
-    "statut": "ouvert",
-    "resume": "ALCHE (African Leadership College of Higher Education) ouvre ses candidatures pour la prochaine rentrée en février 2027. Les étudiants internationaux ont jusqu'au 14 novembre 2026 pour postuler, tandis que les étudiants mauriciens ont jusqu'au 23 janvier 2027. Le processus de candidature en 5 étapes permet de soumettre son dossier en ligne. Rejoignez une communauté de leaders créatifs et façonnez votre avenir dès aujourd'hui.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-22T03:03:12",
-    "slug": "bourse-alche-maurice-2027"
-  },
-  {
     "titre": "Bourse de recherche pour doctorants en géochimie de l'IAGC (sponsorisée par Elsevier)",
     "seo_slug": "bourse-iagc-doctorat-geochimie-2027",
     "organisation": "International Association of GeoChemistry (IAGC)",
@@ -606,6 +529,89 @@
     "slug": "bourse-postdoctorale-junior-fwo-2027"
   },
   {
+    "titre": "Bourse postdoctorale de l'Initiative sur les trous noirs (BHI) de l'Université Harvard",
+    "seo_slug": "bourse-bhi-postdoctorat-harvard-2026",
+    "organisation": "Black Hole Initiative (BHI), Harvard University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-16",
+    "deadline_texte": "16 novembre 2026 à 17h00 EST (heure de l'Est)",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Physique",
+      "Astronomie",
+      "Astrophysique",
+      "Philosophie",
+      "Histoire des sciences"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Candidature en ligne",
+      "CV",
+      "Lettre de motivation",
+      "Projet de recherche",
+      "Lettres de recommandation"
+    ],
+    "avantages": [
+      "Financement pour trois ans (sous réserve de performance et de financement)",
+      "Accès aux ressources informatiques",
+      "Prise en charge des frais de publication",
+      "Prise en charge des voyages liés aux conférences",
+      "Opportunités d'interaction avec des chercheurs de premier plan"
+    ],
+    "eligibilite": [
+      "Titre de docteur (PhD) ou équivalent",
+      "Recherche en lien avec les trous noirs ou domaines connexes",
+      "Excellence académique"
+    ],
+    "procedure_etapes": [
+      "1. Préparer le dossier de candidature (CV, projet de recherche, lettres de recommandation, etc.)",
+      "2. Soumettre la candidature en ligne via le lien fourni",
+      "3. Les candidatures sont examinées au fur et à mesure jusqu'à ce que les postes soient pourvus"
+    ],
+    "contacts": [
+      "nicole.grenier@cfa.harvard.edu",
+      "617-496-8956"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://bit.ly/4As5xVF"
+      },
+      {
+        "label": "Site officiel de l'Université Harvard",
+        "url": "https://www.harvard.edu/"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "Harvard",
+      "trous noirs",
+      "astrophysique",
+      "physique",
+      "recherche postdoctorale",
+      "BHI",
+      "bourse internationale"
+    ],
+    "lien_candidature": "https://bit.ly/4As5xVF",
+    "source_url": "https://bhi.fas.harvard.edu/news-articles/bhi-postdoctoral-fellowship-applications-are-open-2/?fbclid=IwY2xjawVl5LpleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfZ0JPGkO5rWcU_8A7_ghlpX972hdpvKyNinKVrY5nbkZbGGbU7tYhpj_OfQM_aem_3CgZPeBsPZgU0b1RcwbRwQ",
+    "statut": "ouvert",
+    "resume": "L'Université Harvard, à travers son Black Hole Initiative (BHI), invite les candidatures pour des bourses postdoctorales en recherche sur les trous noirs. Ce programme interdisciplinaire unique offre un environnement de recherche exceptionnel avec des chercheurs de renommée mondiale. Les boursiers bénéficieront d'un financement pour trois ans, de ressources pour la recherche et d'opportunités de collaboration. Date limite de candidature : 16 novembre 2026.",
+    "adresse": "20 Garden Street, 2e étage, Cambridge, MA 02138",
+    "imageUrl": "/docs/les-candidatures-pour-les-bourses-postdoctorales-du-bhi-sont-ouvertes.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:09:23",
+    "slug": "bourse-bhi-postdoctorat-harvard-2026"
+  },
+  {
     "titre": "Bourse Mastercard Foundation Scholars Program - Université de Cambridge",
     "seo_slug": "bourse-mastercard-cambridge-2026",
     "organisation": "Mastercard Foundation & University of Cambridge",
@@ -844,6 +850,153 @@
     "slug": "bourse-mastercard-cambridge-2026"
   },
   {
+    "titre": "Bourse de développement de carrière de la Royal Society",
+    "seo_slug": "bourse-royal-society-career-development-2026",
+    "organisation": "Royal Society",
+    "montant": 703800,
+    "devise": "GBP",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-18",
+    "deadline_texte": "18 novembre 2026",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Sciences naturelles",
+      "Biologie",
+      "Sciences biomédicales",
+      "Chimie",
+      "Ingénierie",
+      "Mathématiques",
+      "Physique"
+    ],
+    "pays_eligibles": [
+      "Royaume-Uni"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Notes du programme",
+      "Conditions d'attribution",
+      "Formulaire de candidature en ligne",
+      "CV",
+      "Proposition de recherche",
+      "Lettres de recommandation"
+    ],
+    "avantages": [
+      "Contribution au salaire du chercheur et coûts associés (à 80%)",
+      "Coûts directs alloués (à 80%)",
+      "Dépenses de recherche (à 100%)",
+      "Frais de déménagement et de visa pour le chercheur et ses personnes à charge (partenaire et enfants) en plus du plafond de subvention",
+      "Programme sur mesure de formation, mentorat et engagement",
+      "Possibilité de travail à temps partiel, congés sabbatiques et détachements",
+      "Dispositions pour congé de maternité, paternité, parental partagé, adoption ou congé maladie prolongé",
+      "Soutien financier pour les frais de garde d'enfants lors de conférences et visites de recherche",
+      "Accès à des opportunités de développement de carrière et d'engagement (leadership, communication scientifique, engagement public)",
+      "Visa Global Talent avec processus d'endossement accéléré pour les candidats nécessitant un visa"
+    ],
+    "eligibilite": [
+      "S'identifier comme étant d'origine noire, y compris métis noir",
+      "Être ressortissant britannique OU avoir complété une partie de ses études au Royaume-Uni (licence, master ou doctorat) OU avoir occupé/occuper un poste de chercheur postdoctoral au Royaume-Uni",
+      "Avoir un doctorat ou l'obtenir avant le début du financement, avec moins de 24 mois d'expérience postdoctorale",
+      "Recherche dans le domaine des sciences naturelles (biologie, sciences biomédicales, chimie, ingénierie, mathématiques, physique, etc.)"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier son éligibilité et lire les notes du programme",
+      "2. Préparer sa candidature (CV, proposition de recherche, etc.)",
+      "3. Soumettre sa candidature en ligne via Flexi-Grant®",
+      "4. Les candidats présélectionnés sont invités à un entretien en personne à la Royal Society",
+      "5. Les résultats sont annoncés (décision d'attribution)"
+    ],
+    "contacts": [
+      "adjustments@royalsociety.org",
+      "CDF@royalsociety.org",
+      "+44 20 7451 2666"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature Flexi-Grant®",
+        "url": "https://grants.royalsociety.org/"
+      },
+      {
+        "label": "Notes du programme (PDF)",
+        "url": "https://royalsociety.org/-/media/grants/career-development-fellowship/career-development-fellowship-scheme-notes.pdf"
+      },
+      {
+        "label": "Conditions d'attribution (PDF)",
+        "url": "https://royalsociety.org/-/media/grants/standard-conditions-of-award.pdf"
+      },
+      {
+        "label": "Diapositives du webinaire (PDF)",
+        "url": "https://royalsociety.org/-/media/grants/career-development-fellowship/career-development-fellowship-webinar-slides.pdf"
+      },
+      {
+        "label": "Guide de financement de la Royal Society",
+        "url": "https://royalsociety.org/grants/about-grants/"
+      },
+      {
+        "label": "Groupes de matières soutenus",
+        "url": "https://royalsociety.org/grants/subject-groups/"
+      },
+      {
+        "label": "Page de contact",
+        "url": "https://royalsociety.org/grants/contact-details-grants-programmes/"
+      },
+      {
+        "label": "Processus de candidature et d'évaluation",
+        "url": "https://royalsociety.org/grants/applications/"
+      },
+      {
+        "label": "Visa Global Talent",
+        "url": "https://royalsociety.org/grants/global-talent-visa-overview/"
+      },
+      {
+        "label": "Rapport sur les tendances des minorités ethniques dans les STEM (PDF)",
+        "url": "https://royalsociety.org/-/media/policy/publications/2021/trends-ethnic-minorities-stem/ethnicity-stem-data-for-students-and-academic-staff-in-higher-education.pdf"
+      },
+      {
+        "label": "Profil des chercheurs postdoctoraux éligibles (PDF)",
+        "url": "https://royalsociety.org/-/media/policy/publications/2021/trends-ethnic-minorities-stem/profile-of-postdoctoral-researchers-in-uk-eligible-for-rs-early-career-fellowship-programmes.pdf"
+      },
+      {
+        "label": "Opportunités de développement de carrière et d'engagement",
+        "url": "https://royalsociety.org/grants/training-networking-opportunities/"
+      },
+      {
+        "label": "Programmes de formation, mentorat et partenariat",
+        "url": "https://royalsociety.org/grants/training-mentoring-partnership-schemes/"
+      },
+      {
+        "label": "Troisième cohorte de boursiers",
+        "url": "https://royalsociety.org/news/2026/09/royal-society-announces-third-cohort-of-career-development-fellowships/"
+      },
+      {
+        "label": "Comité de sélection",
+        "url": "https://royalsociety.org/about-us/committees/career-development-fellowships-selection-committee-292"
+      }
+    ],
+    "mots_cles": [
+      "bourse Royal Society",
+      "bourse postdoctorale",
+      "bourse sciences naturelles",
+      "bourse Royaume-Uni",
+      "bourse chercheurs noirs",
+      "financement recherche postdoctorale",
+      "bourse développement de carrière",
+      "bourse 2026",
+      "bourse diversité STEM"
+    ],
+    "lien_candidature": "https://grants.royalsociety.org/",
+    "source_url": "https://royalsociety.org/grants/career-development-fellowship/?fbclid=IwY2xjawVl66BleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf7Wdqxs4kF2FLmIZeOsgbBE3QhPBj-JHujsM5cJX1RVbd0qSKR2pacZEcS6U_aem_AelRYO-L8OydtmOtoNW1bw",
+    "statut": "ouvert",
+    "resume": "La Royal Society offre une bourse de développement de carrière de quatre ans destinée aux chercheurs postdoctoraux issus de groupes sous-représentés en STEM, en particulier d'origine noire. Ce programme vise à soutenir la rétention de ces chercheurs dans les sciences au Royaume-Uni en leur fournissant un financement pouvant atteindre 703 800 £ sur quatre ans, ainsi qu'un programme complet de mentorat, de formation et de réseautage. Les candidats doivent avoir un doctorat et moins de 24 mois d'expérience postdoctorale, et mener des recherches dans le domaine des sciences naturelles. La date limite de candidature est fixée au 18 novembre 2026.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:38:55",
+    "slug": "bourse-royal-society-career-development-2026"
+  },
+  {
     "titre": "Bourses de recherche Monica Cole et Henrietta Hutton",
     "seo_slug": "bourse-monica-cole-henrietta-hutton-2026",
     "organisation": "Royal Geographical Society (avec l'Institute of British Geographers)",
@@ -929,6 +1082,121 @@
     "imageUrl": null,
     "extrait_le": "2026-09-27T23:40:30",
     "slug": "bourse-monica-cole-henrietta-hutton-2026"
+  },
+  {
+    "titre": "Bourse postdoctorale Eric et Wendy Schmidt en IA pour la science",
+    "seo_slug": "bourse-schmidt-ia-science-postdoctorat-2027",
+    "organisation": "University of Michigan - MIDAS",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-23",
+    "deadline_texte": "23 novembre 2026",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Science biologique et biomédicale",
+      "Science de la Terre et de l'environnement",
+      "Ingénierie",
+      "Science physique et mathématiques",
+      "Intelligence artificielle"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Mots-clés IA (jusqu'à 3)",
+      "Slogan de recherche (max 8 mots)",
+      "Description de la recherche (max 300 mots)",
+      "Déclaration de recherche (max 2 pages)",
+      "Plan de développement individualisé (max 2 pages)",
+      "Déclaration sur l'IA responsable (max ½ page)",
+      "Trois meilleurs articles"
+    ],
+    "avantages": [
+      "Bourse postdoctorale",
+      "Prise en charge des frais de recherche par les mentors (espace de recherche, laboratoire, ordinateurs, ressources informatiques, accès aux données)",
+      "Frais de voyage pour au moins deux conférences par an",
+      "Frais de publication",
+      "Frais de visa"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un doctorat conféré avant la date de début de la bourse (août ou septembre 2027)",
+      "Avoir obtenu le doctorat après le 1er septembre 2022",
+      "Le doctorat peut être dans n'importe quel domaine",
+      "Ne pas avoir occupé un poste de professeur équivalent à un poste tenure-track en Amérique du Nord",
+      "Avoir une expertise approfondie dans au moins un des deux domaines : méthodologies d'IA ou discipline scientifique, avec un intérêt démontré pour l'autre",
+      "Fournir une preuve d'excellence et une passion pour la recherche à l'intersection des deux disciplines",
+      "Identifier deux mentors facultaires de l'Université du Michigan (un mentor IA et un mentor scientifique) qui acceptent de soutenir le candidat pendant deux ans",
+      "Les mentors ne doivent pas être les mentors actuels ou antérieurs du candidat (pour les candidats internes à l'U-M)",
+      "Les mentors doivent avoir des nominations dans deux départements différents (souhaitable)"
+    ],
+    "procedure_etapes": [
+      "1. Identifier et contacter deux professeurs de l'Université du Michigan pour qu'ils acceptent d'être mentors (un mentor IA et un mentor scientifique).",
+      "2. Consulter les mentors pour discuter de la déclaration de recherche et des objectifs de carrière.",
+      "3. Préparer tous les documents requis au format PDF avec une marge d'un pouce.",
+      "4. Soumettre la candidature via le portail de candidature en ligne.",
+      "5. Les candidatures seront évaluées selon les critères de sélection.",
+      "6. Les candidats retenus seront contactés."
+    ],
+    "contacts": [
+      "[email protected]"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://midas.infoready4.com/#freeformCompetitionDetail/2027384"
+      },
+      {
+        "label": "Aperçu du programme",
+        "url": "https://midas.umich.edu/training/postdoctoral-programs/schmidt-ai-in-science-postdoctoral-fellowship/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://midas.umich.edu/training/postdoctoral-programs/schmidt-ai-in-science-postdoctoral-fellowship/faq/"
+      },
+      {
+        "label": "Mentors potentiels",
+        "url": "https://midas.umich.edu/training/postdoctoral-programs/schmidt-ai-in-science-postdoctoral-fellowship/mentors/"
+      },
+      {
+        "label": "Liste des mentors IA potentiels",
+        "url": "https://midas.umich.edu/people/affiliated-faculty/?_program_roles=ais-ai-mentor-candidate"
+      },
+      {
+        "label": "Annuaire des mentors facultaires",
+        "url": "https://midas.umich.edu/training/postdoctoral-programs/faculty-mentors/"
+      },
+      {
+        "label": "Programme frère : Michigan Data Science Fellows",
+        "url": "https://midas.umich.edu/training/postdoctoral-programs/michigan-data-science-fellowship/"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "intelligence artificielle",
+      "science",
+      "ingénierie",
+      "University of Michigan",
+      "MIDAS",
+      "bourse de recherche",
+      "postdoc",
+      "IA en science",
+      "bourse Schmidt"
+    ],
+    "lien_candidature": "https://midas.infoready4.com/#freeformCompetitionDetail/2027384",
+    "source_url": "https://midas.umich.edu/training/postdoctoral-programs/schmidt-ai-in-science-postdoctoral-fellowship/apply/?utm_id=97758_v0_s00_e0_tv1&fbclid=IwY2xjawVl60dleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf7Wdqxs4kF2FLmIZeOsgbBE3QhPBj-JHujsM5cJX1RVbd0qSKR2pacZEcS6U_aem_AelRYO-L8OydtmOtoNW1bw",
+    "statut": "ouvert",
+    "resume": "La bourse postdoctorale Eric et Wendy Schmidt en IA pour la science, offerte par l'Université du Michigan via MIDAS, soutient des chercheurs en début de carrière qui appliquent des méthodologies d'intelligence artificielle à des questions scientifiques majeures. Les boursiers bénéficient d'un environnement de recherche collaboratif et de l'encadrement de deux mentors facultaires. La date limite de candidature pour la cohorte 2027 est le 23 novembre 2026. Il s'agit du dernier cycle de candidatures pour ce programme.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:35:01",
+    "slug": "bourse-schmidt-ia-science-postdoctorat-2027"
   },
   {
     "titre": "Bourses et récompenses pour étudiants internationaux à l'Université de la Colombie-Britannique (UBC)",
@@ -1584,6 +1852,336 @@
     "imageUrl": null,
     "extrait_le": "2026-11-09T17:16:13",
     "slug": "bourse-yenching-academy-pekin-2027"
+  },
+  {
+    "titre": "Programme postdoctoral ICTS 2027 (cycle d'automne)",
+    "seo_slug": "bourse-postdoctorale-icts-2027",
+    "organisation": "International Centre for Theoretical Sciences, Tata Institute of Fundamental Research (ICTS-TIFR)",
+    "montant": null,
+    "devise": "INR",
+    "type_financement": "bourse postdoctorale",
+    "deadline": "2026-11-30",
+    "deadline_texte": "30 novembre 2026, 17h00 IST (heure indienne)",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Systèmes complexes",
+      "Physique statistique",
+      "Dynamique des fluides et turbulence",
+      "Physique de la matière condensée",
+      "Physique biologique",
+      "Théorie des cordes",
+      "Théorie quantique des champs",
+      "Relativité astrophysique",
+      "Géométrie différentielle",
+      "Physique mathématique",
+      "Systèmes dynamiques",
+      "Assimilation de données",
+      "Dynamique de la mousson",
+      "Analyse des équations aux dérivées partielles",
+      "Cosmologie",
+      "Systèmes multi-échelles",
+      "Interfaces avec la biologie théorique",
+      "Informatique",
+      "Sciences computationnelles",
+      "Astrophysique",
+      "Relativité",
+      "Intelligence artificielle en biologie"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Liste des publications",
+      "Proposition de recherche (max. 2 pages)",
+      "Lettre de motivation",
+      "Au moins deux lettres de recommandation"
+    ],
+    "avantages": [
+      "Bourse postdoctorale (montant selon les normes de l'agence de financement)",
+      "Indemnité de logement (HRA) ou logement sur le campus",
+      "Avantages médicaux",
+      "Accès à des installations de calcul haute performance",
+      "Bibliothèque interne et accès à la plupart des revues scientifiques",
+      "Soutien pour les déplacements lors de conférences internationales",
+      "Possibilité de participer à l'enseignement de cours pour étudiants diplômés",
+      "Pour la bourse CALIBRE : bourse mensuelle jusqu'à 125 000 INR et soutien à la recherche/voyage jusqu'à 300 000 INR par an"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un doctorat (PhD) au moment de la prise de fonction",
+      "Les candidats doivent postuler en ligne",
+      "Pour la bourse N-PDF : être citoyen indien",
+      "Pour le poste Simons : indiquer son intérêt dans la lettre de motivation ou la déclaration de recherche",
+      "Pour CALIBRE : cocher la case correspondante dans le portail de candidature et mentionner son intérêt dans la lettre de motivation"
+    ],
+    "procedure_etapes": [
+      "1. Préparer le CV, la liste des publications, une proposition de recherche (max. 2 pages) et une lettre de motivation.",
+      "2. Obtenir au moins deux lettres de recommandation.",
+      "3. Postuler en ligne via le portail de candidature ICTS.",
+      "4. Alternative : postuler via Academic Jobs Online (AJO).",
+      "5. Pour les postes Simons ou CALIBRE, indiquer clairement son intérêt dans la lettre de motivation ou la déclaration de recherche.",
+      "6. Soumettre la candidature avant la date limite : 30 novembre 2026, 17h00 IST."
+    ],
+    "contacts": [
+      "pallavi.bhat@icts.res.in",
+      "+91 80 4653 6000"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://anrfonline.in/ANRF/npdf"
+      },
+      {
+        "label": "Portail de candidature en ligne",
+        "url": "https://applications.icts.res.in/postdoc/node/add/postdoc-application/7630"
+      },
+      {
+        "label": "Academic Jobs Online (AJO) - lien de candidature",
+        "url": "https://academicjobsonline.org/ajo/jobs/32100"
+      },
+      {
+        "label": "Recherche à l'ICTS",
+        "url": "https://www.icts.res.in/research"
+      },
+      {
+        "label": "Programmes à venir de l'ICTS",
+        "url": "https://www.icts.res.in/programs/upcoming"
+      },
+      {
+        "label": "Bangalore (Wikipédia)",
+        "url": "http://en.wikipedia.org/wiki/Bangalore"
+      },
+      {
+        "label": "Poste spécial Simons en magnétisme cosmique",
+        "url": "https://alpha.icts.res.in/opportunities/simons-doc2027"
+      },
+      {
+        "label": "Bourse postdoctorale CALIBRE (IA en biologie)",
+        "url": "https://alpha.icts.res.in/opportunities/calibre-prog2027"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "ICTS",
+      "TIFR",
+      "Inde",
+      "physique théorique",
+      "mathématiques",
+      "recherche postdoctorale",
+      "bourse internationale",
+      "CALIBRE",
+      "Simons"
+    ],
+    "lien_candidature": "https://applications.icts.res.in/postdoc/node/add/postdoc-application/7630",
+    "source_url": "https://www.icts.res.in/opportunities/postdoc-prog2027?fbclid=IwY2xjawVl5lRleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfoWP49gH1LeeFDayaoXc3XIDMiisGUvYDhO2Zi9AgCltbNGtEkw_JTxYtzjY_aem_KbxlYZITejiU6YyLqbm0og",
+    "statut": "ouvert",
+    "resume": "L'ICTS-TIFR de Bangalore invite les candidatures pour son programme postdoctoral 2027 (cycle d'automne). Les chercheurs en physique théorique, mathématiques et domaines connexes peuvent postuler pour des séjours de deux ans, renouvelables, avec des bourses et avantages compétitifs. Des opportunités spéciales incluent la bourse Ashok & Gita Vaish, le programme Simons en magnétisme cosmique et la bourse CALIBRE en IA et biologie. Date limite : 30 novembre 2026.",
+    "adresse": "Survey No. 151, Shivakote, Hesaraghatta Hobli, Bengaluru - 560 089, India.",
+    "imageUrl": "/docs/icts-postdoctoral-program-2027-fall-cycle.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:15:30",
+    "slug": "bourse-postdoctorale-icts-2027"
+  },
+  {
+    "titre": "Bourses postdoctorales GLAM 2027-2029",
+    "seo_slug": "bourse-glam-postdoctorat-stanford-2027",
+    "organisation": "Geballe Laboratory for Advanced Materials (GLAM), Stanford University",
+    "montant": 80000,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-30",
+    "deadline_texte": "30 novembre 2026 à 23h59 PST (heure du Pacifique)",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Science des matériaux",
+      "Sciences de l'ingénieur",
+      "Physique",
+      "Chimie",
+      "Sciences appliquées"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Curriculum vitae incluant la liste des publications",
+      "Exposé de recherche (2 pages)",
+      "Nom et email du professeur hôte proposé au sein du GLAM",
+      "Lettre de nomination du professeur hôte (soumise par le corps professoral du GLAM)",
+      "Noms, institutions et adresses email de 2 référents",
+      "2 lettres de recommandation (soumises par les référents)",
+      "Optionnel : copie ou préimpression de la publication récente la plus pertinente",
+      "Nom",
+      "Poste actuel",
+      "Institution actuelle",
+      "Diplôme de licence (sujet/institution/date d'obtention)",
+      "Si applicable : doctorat (titre de la thèse/institution/département/directeur de thèse/date d'obtention)"
+    ],
+    "avantages": [
+      "Salaire annuel initial de 80 000 $",
+      "Avantages sociaux",
+      "5 000 $ par an de fonds discrétionnaires pour couvrir les dépenses de recherche et/ou de voyage",
+      "Soutien pour 2 ans"
+    ],
+    "eligibilite": [
+      "Scientifiques en début de carrière",
+      "Capacité exceptionnelle",
+      "Aptitude à s'épanouir dans un environnement de recherche interactif et collaboratif",
+      "Volonté de contribuer à l'environnement du GLAM",
+      "Avoir identifié un professeur hôte au sein du GLAM avec qui le projet de recherche a été discuté"
+    ],
+    "procedure_etapes": [
+      "1. Identifier un professeur hôte au sein du GLAM et discuter du projet de recherche proposé.",
+      "2. Préparer le curriculum vitae incluant la liste des publications.",
+      "3. Rédiger un exposé de recherche de 2 pages détaillant la recherche proposée et les collaborations possibles au sein du GLAM.",
+      "4. Obtenir les noms, institutions et adresses email de 2 référents.",
+      "5. S'assurer que le professeur hôte soumette une lettre de nomination en votre nom.",
+      "6. S'assurer que les 2 référents soumettent leurs lettres de recommandation en ligne.",
+      "7. Optionnel : préparer une copie ou préimpression de la publication récente la plus pertinente.",
+      "8. Soumettre tous les documents en ligne via le portail de candidature avant le 30 novembre 2026 à 23h59 PST."
+    ],
+    "contacts": [
+      "glamfellowships@stanford.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://glamfellowships.slideroom.com/#/permalink/program/91357"
+      },
+      {
+        "label": "Page des questions fréquentes",
+        "url": "https://glam.stanford.edu/glam-fellowships-frequenty-asked-questions"
+      },
+      {
+        "label": "Page des bourses GLAM (actuels et anciens)",
+        "url": "/fellowships/fellowships/fellowships/fellowships/fellowships/fellowships/fellowships/fellowships-0"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "GLAM Stanford",
+      "bourse science des matériaux",
+      "bourse postdoc États-Unis",
+      "financement recherche postdoctorale",
+      "bourse Stanford 2027",
+      "fellowship postdoctoral",
+      "bourse internationale postdoctorat"
+    ],
+    "lien_candidature": "https://glamfellowships.slideroom.com/#/permalink/program/91357",
+    "source_url": "https://glam.stanford.edu/fellowships?utm_id=97758_v0_s00_e0_tv1&fbclid=IwY2xjawVl66dleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf0UjYovpqlF3qs1V-MOjamkJt8jk5jfTOef3g7um9G1SRsbqOot5kbPzXJXU_aem_dwBa3-ealuWsGo5C9QeWgw",
+    "statut": "ouvert",
+    "resume": "Le Geballe Laboratory for Advanced Materials (GLAM) de l'Université Stanford propose des bourses postdoctorales pour la période 2027-2029, destinées aux scientifiques en début de carrière exceptionnellement talentueux. Les boursiers bénéficieront d'un salaire annuel de 80 000 $, d'avantages sociaux et de 5 000 $ par an pour la recherche et les déplacements, sur deux ans. Les candidats doivent soumettre un CV, un exposé de recherche de deux pages, et identifier un professeur hôte au sein du GLAM qui soumettra une lettre de nomination. La date limite de candidature est le 30 novembre 2026 à 23h59 PST.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:39:26",
+    "slug": "bourse-glam-postdoctorat-stanford-2027"
+  },
+  {
+    "titre": "Bourses de recherche pré-doctorales et post-doctorales du CDDRL 2027-2028",
+    "seo_slug": "bourse-cddrl-pre-postdoctorale-stanford-2027",
+    "organisation": "Center on Democracy, Development and the Rule of Law (CDDRL), Stanford University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse de recherche",
+    "deadline": "2026-11-30",
+    "deadline_texte": "30 novembre 2026 (date limite de dépôt des candidatures pour l'année académique 2027-2028)",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat"
+    ],
+    "domaines": [
+      "Démocratie",
+      "Développement",
+      "État de droit",
+      "Évaluation de l'efficacité de la promotion de la démocratie",
+      "Politique judiciaire",
+      "Justice pénale",
+      "Politisation des institutions judiciaires",
+      "Études israéliennes modernes",
+      "Politique israélienne",
+      "Constitutionnalisme",
+      "Économie",
+      "Société",
+      "Diplomatie",
+      "Affaires internationales"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (compétence non spécifiée mais nécessaire pour le programme)",
+    "documents_requis": [],
+    "avantages": [
+      "Environnement intellectuel dynamique",
+      "Échanges avec les membres du Centre",
+      "Travail sur la recherche et l'analyse de données",
+      "Finalisation et publication de la recherche doctorale",
+      "Connexion avec les professeurs et le personnel de recherche du CDDRL",
+      "Bourse résidentielle de 9 mois (pour les bourses spécifiques Gerhard Casper et Jan Koum)"
+    ],
+    "eligibilite": [
+      "Pour les pré-doctoraux : être actuellement inscrit dans un programme doctoral ou équivalent jusqu'à la résidence prévue à Stanford",
+      "Pour les pré-doctoraux : être en phase de rédaction de thèse (après les cours)",
+      "Pour les post-doctoraux : avoir obtenu son doctorat dans les 3 ans précédant le début de la bourse, ou prévoir de soutenir avec succès sa thèse avant le 31 juillet 2027",
+      "Recherche dans l'un des quatre domaines du CDDRL : démocratie, développement, évaluation de l'efficacité de la promotion de la démocratie, et État de droit",
+      "Pour la bourse Gerhard Casper en État de droit : recherche sur tout aspect de l'État de droit, y compris la politique judiciaire, la justice pénale et la politisation des institutions judiciaires ; ouvert aux candidats de toute discipline pertinente (sciences sociales, droit)",
+      "Pour la bourse Jan Koum en études israéliennes : recherche sur tout aspect d'Israël moderne, y compris la politique israélienne, le constitutionnalisme, l'économie, la société, la diplomatie et les affaires internationales ; ouvert aux candidats de toute discipline pertinente (sciences sociales et droit)"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier son éligibilité (statut doctoral ou post-doctoral, domaine de recherche)",
+      "2. Préparer son dossier de candidature (documents non spécifiés dans le texte)",
+      "3. Se rendre sur le portail de candidature : https://stanfordcddrl.slideroom.com/#/Login",
+      "4. Soumettre sa candidature entre le 21 septembre 2026 et le 30 novembre 2026",
+      "5. Pour les bourses spécifiques (Gerhard Casper ou Jan Koum), indiquer dans la candidature que l'on souhaite être considéré pour ces bourses"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://stanfordcddrl.slideroom.com/#/Login"
+      },
+      {
+        "label": "Site officiel du programme de bourses",
+        "url": "https://cddrl.fsi.stanford.edu/cddrl-pre-doctoral-and-postdoctoral-fellowships"
+      },
+      {
+        "label": "Page d'accueil du CDDRL",
+        "url": "http://cddrl.fsi.stanford.edu/"
+      },
+      {
+        "label": "Actualités du FSI",
+        "url": "http://fsi.stanford.edu/news"
+      }
+    ],
+    "mots_cles": [
+      "bourse CDDRL",
+      "bourse Stanford",
+      "bourse pré-doctorale",
+      "bourse post-doctorale",
+      "bourse démocratie",
+      "bourse état de droit",
+      "bourse études israéliennes",
+      "bourse recherche Stanford",
+      "bourse 2027-2028"
+    ],
+    "lien_candidature": "https://stanfordcddrl.slideroom.com/#/Login",
+    "source_url": "https://reap.fsi.stanford.edu/news/call-applications-cddrl-2027-28-pre-postdoctoral-fellowships?utm_id=97758_v0_s00_e0_tv1&fbclid=IwY2xjawVl66NleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfx20d1J59cUegs_jsAh8zxzyA7O9UZJS70YU_p1sAWR3CNRqO4fCwG0z5DvM_aem_EsVfXaoGq3PN_VvSgFWkQw",
+    "statut": "ouvert",
+    "resume": "Le Center on Democracy, Development and the Rule of Law (CDDRL) de l'Université Stanford invite les étudiants pré-doctoraux en phase de rédaction de thèse et les chercheurs post-doctoraux à candidater pour des bourses de recherche pour l'année académique 2027-2028. Les boursiers passeront l'année à Stanford pour mener des recherches et publier leurs travaux dans l'un des quatre domaines du centre : démocratie, développement, évaluation de la promotion de la démocratie et État de droit. Des bourses spécifiques sont également proposées, notamment la bourse Gerhard Casper en État de droit et la bourse Jan Koum en études israéliennes. La période de candidature s'étend du 21 septembre au 30 novembre 2026.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:39:53",
+    "slug": "bourse-cddrl-pre-postdoctorale-stanford-2027"
   },
   {
     "titre": "Programme de bourses environnementales de Harvard 2027 aux États-Unis (entièrement financé)",
@@ -2336,6 +2934,292 @@
     "imageUrl": null,
     "extrait_le": "2026-11-09T17:30:08",
     "slug": "bourse-doctorat-hong-kong-2027"
+  },
+  {
+    "titre": "Bourses postdoctorales Bakar en IA, matériaux avancés et santé planétaire",
+    "seo_slug": "bourse-bakar-postdoc-berkeley-2026",
+    "organisation": "Bakar Institute of Digital Materials for the Planet (BIDMaP), UC Berkeley",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse postdoctorale",
+    "deadline": "2026-12-01",
+    "deadline_texte": "1er décembre 2026 pour un examen complet, les candidatures seront examinées jusqu'à ce que toutes les bourses disponibles soient pourvues",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Intelligence artificielle",
+      "Apprentissage automatique",
+      "Science des matériaux",
+      "Chimie",
+      "Physique",
+      "Sciences biologiques",
+      "Informatique",
+      "Statistiques",
+      "Science des données"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Curriculum Vitae (CV) incluant une liste complète des publications",
+      "Déclaration de recherche (2-3 pages) décrivant les réalisations de recherche antérieures, les objectifs proposés pour la bourse et l'alignement avec la mission scientifique de BIDMaP",
+      "Trois lettres de recommandation confidentielles soumises directement par les recommandataires via le portail de candidature"
+    ],
+    "avantages": [
+      "Bourse postdoctorale",
+      "Nommé Bakar Postdoctoral Fellow",
+      "Durée initiale de 2 ans, renouvelable pour une 3ème année sur accord mutuel",
+      "Intégration dans un environnement de recherche de pointe à UC Berkeley",
+      "Bâtiment Barbara and Gerson Gateway (nouveau bâtiment)"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un doctorat (PhD) ou d'un diplôme équivalent obtenu entre janvier 2025 et août 2027",
+      "Démontrer l'un des deux profils de recherche principaux :",
+      "Profil quantitatif : formation avancée en IA/ML, informatique, statistiques ou science des données avec une forte motivation pour appliquer des méthodes computationnelles à des problèmes de science physique",
+      "Profil en science du domaine : formation avancée en chimie, physique, sciences biologiques ou science des matériaux avec une vision forte pour intégrer l'IA/apprentissage automatique dans les flux de découverte"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier son éligibilité (doctorat obtenu entre janvier 2025 et août 2027)",
+      "2. Préparer le CV complet avec liste des publications",
+      "3. Rédiger la déclaration de recherche (2-3 pages)",
+      "4. Identifier trois recommandataires qui soumettront des lettres confidentielles",
+      "5. Soumettre la candidature via le portail en ligne avant le 1er décembre 2026 pour un examen complet",
+      "6. Les candidatures seront examinées jusqu'à ce que toutes les bourses soient pourvues"
+    ],
+    "contacts": [
+      "bidmap_admin@berkeley.edu",
+      "(510) 643-9681"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://vspa.berkeley.edu/"
+      },
+      {
+        "label": "Portail de candidature",
+        "url": "https://berkeley.infoready4.com/#freeformCompetitionDetail/2040027"
+      },
+      {
+        "label": "Bâtiment Barbara and Gerson Gateway",
+        "url": "https://cdss.berkeley.edu/gateway"
+      },
+      {
+        "label": "Politique de non-discrimination de l'Université de Californie",
+        "url": "http://policy.ucop.edu/doc/4000376/NondiscrimAffirmAct"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "Bakar Postdoctoral Fellows",
+      "BIDMaP",
+      "UC Berkeley",
+      "intelligence artificielle",
+      "science des matériaux",
+      "santé planétaire",
+      "bourse de recherche",
+      "postdoc États-Unis",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://berkeley.infoready4.com/#freeformCompetitionDetail/2040027",
+    "source_url": "https://bidmap.berkeley.edu/fellowship-opportunities/postdoctoral-fellowships?fbclid=IwY2xjawVl5zdleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfZ0JPGkO5rWcU_8A7_ghlpX972hdpvKyNinKVrY5nbkZbGGbU7tYhpj_OfQM_aem_3CgZPeBsPZgU0b1RcwbRwQ",
+    "statut": "ouvert",
+    "resume": "Le Bakar Institute of Digital Materials for the Planet (BIDMaP) de l'UC Berkeley offre des bourses postdoctorales d'excellence pour les jeunes chercheurs travaillant à l'intersection de l'intelligence artificielle et des sciences naturelles. Les fellows Bakar bénéficieront d'un environnement de recherche unique pour développer des matériaux innovants et des solutions aux défis climatiques et planétaires. La bourse d'une durée initiale de deux ans, renouvelable, cible des profils quantitatifs ou en science du domaine, avec un doctorat obtenu entre janvier 2025 et août 2027. Les candidatures sont ouvertes jusqu'au 1er décembre 2026 pour un examen complet.",
+    "adresse": "Barbara and Gerson Bakar Gateway Building 2300 Hearst Avenue Berkeley, CA 94703",
+    "imageUrl": "/docs/boursiers-postdoctoraux-bakar-au-bidmap.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:21:15",
+    "slug": "bourse-bakar-postdoc-berkeley-2026"
+  },
+  {
+    "titre": "Bourses postdoctorales Simons en biologie végétale",
+    "seo_slug": "bourse-simons-biologie-vegetale-postdoc-2027",
+    "organisation": "Simons Foundation",
+    "montant": 85000,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-12-03",
+    "deadline_texte": "3 décembre 2026 à 12h00 (midi) heure de l'Est",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Biologie végétale",
+      "Ingénierie",
+      "Modélisation computationnelle",
+      "Théorie",
+      "Chimie",
+      "Biologie synthétique",
+      "Physique"
+    ],
+    "pays_eligibles": [
+      "États-Unis"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Candidature complète via le Simons Award Manager (SAM)"
+    ],
+    "avantages": [
+      "Allocation annuelle de 85 000 USD",
+      "Indemnité annuelle pouvant atteindre 35 000 USD",
+      "Assurance santé pour le boursier et sa famille",
+      "Frais de recherche, petit équipement (y compris ordinateurs), coûts de séquençage",
+      "Participation à des réunions scientifiques et autres voyages liés à la recherche",
+      "Assistants de recherche undergraduates (si justifié)",
+      "Jusqu'à 2 000 USD pour les frais de déménagement du boursier et de sa famille",
+      "Durée de trois ans",
+      "Aucun coût indirect ou frais généraux ne peut être facturé"
+    ],
+    "eligibilite": [
+      "Avoir obtenu un doctorat (Ph.D.) ou un diplôme équivalent depuis au plus trois (3) ans avant la date limite de candidature",
+      "Les candidats qui n'ont pas encore obtenu leur doctorat mais qui l'obtiendront avant la date de début de la bourse sont éligibles",
+      "Les citoyens américains et les candidats étrangers sont invités à postuler pour travailler avec un ou des sponsors de recherche postdoctorale aux États-Unis",
+      "Les bourses ne peuvent être attribuées qu'à des universités ou institutions de recherche à but non lucratif aux États-Unis",
+      "Le(s) sponsor(s) de recherche postdoctorale ne peu(ven)t pas être le directeur de thèse du candidat",
+      "Une seule candidature par sponsor de recherche postdoctorale sera considérée par an",
+      "Les employés de la Simons Foundation (y compris ceux de l'Institut Flatiron) ne peuvent pas postuler en tant que chercheur principal",
+      "Les candidats doivent s'inscrire dans l'une des deux voies : (i) déjà en biologie végétale et cherchant à acquérir de nouvelles compétences auprès de mentors hors biologie végétale, ou (ii) venant d'un autre domaine et appliquant leur expertise à la biologie végétale",
+      "Chaque voie peut avoir un ou deux mentors ; si deux mentors, l'un d'eux doit faire de la recherche en biologie végétale"
+    ],
+    "procedure_etapes": [
+      "Vérifier son éligibilité (doctorat récent, sponsor(s) aux États-Unis, etc.)",
+      "Identifier un ou deux sponsors de recherche postdoctorale aux États-Unis (ne pas inclure son directeur de thèse)",
+      "Préparer une candidature complète",
+      "Soumettre la candidature électroniquement via le Simons Award Manager (SAM) avant le 3 décembre 2026, 12h00 (midi) heure de l'Est",
+      "Les candidatures seront examinées par le personnel scientifique de la Simons Foundation et un comité d'examen expert"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature (Simons Award Manager)",
+        "url": "https://sam.simonsfoundation.org/"
+      },
+      {
+        "label": "Politiques et procédures de la Simons Foundation",
+        "url": "https://www.simonsfoundation.org/funding-opportunities/policies-and-procedures/"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "biologie végétale",
+      "Simons Foundation",
+      "recherche fondamentale",
+      "États-Unis",
+      "bourse de recherche",
+      "postdoc",
+      "sciences végétales"
+    ],
+    "lien_candidature": "https://sam.simonsfoundation.org/",
+    "source_url": "https://www.simonsfoundation.org/funding/simons-postdoctoral-fellowships-in-plant-biology-2027/?fbclid=IwY2xjawVl6E5leHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfu9SXnqaCmYc4fL_-Y8RhZ-3w9b4fj7eu2DJ80KaN3isrZxtrbyEz9k-o3ps_aem_kf0MtBGlRyjoj36PaEnE2g",
+    "statut": "ouvert",
+    "resume": "La Simons Foundation offre des bourses postdoctorales pour soutenir des chercheurs souhaitant mener une carrière en recherche fondamentale sur des problèmes fondamentaux de biologie végétale. Le programme est flexible et encourage les candidats de disciplines variées (ingénierie, modélisation, chimie, physique, etc.) à appliquer leurs compétences à la biologie végétale. Les bourses, d'une durée de trois ans, comprennent un salaire annuel de 85 000 USD et une allocation de recherche pouvant atteindre 35 000 USD par an. Les candidatures sont à soumettre via le Simons Award Manager avant le 3 décembre 2026.",
+    "imageUrl": "/docs/bourses-postdoctorales-simons-en-biologie-v-g-tale-appel-candidatures-2027.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:24:58",
+    "slug": "bourse-simons-biologie-vegetale-postdoc-2027"
+  },
+  {
+    "titre": "Programme de bourses postdoctorales et de recherche 2027-2028 du Center for Information Technology Policy (CITP) de l'Université de Princeton",
+    "seo_slug": "bourse-citp-princeton-2027-2028",
+    "organisation": "Center for Information Technology Policy (CITP), Princeton University",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-12-07",
+    "deadline_texte": "7 décembre 2026 à 23h59 EST",
+    "niveau_etudes": [
+      "Doctorat",
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Technologie",
+      "Politique publique",
+      "Sciences sociales",
+      "Informatique",
+      "Intelligence artificielle",
+      "Science des données",
+      "Confidentialité et sécurité"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Programme entièrement financé",
+      "Recherche en personne à Princeton, New Jersey",
+      "Collaboration avec des professeurs, chercheurs, étudiants et autres fellows",
+      "Participation aux programmes publics (ateliers, séminaires, conférences)",
+      "Poste de postdoctorant ou de chercheur plus senior",
+      "Nomination typique de 12 mois, renouvelable une seconde année selon performance et financement",
+      "Option d'enseignement pour les postdoctorants, sous réserve d'inscriptions suffisantes et d'approbation du doyen de la faculté"
+    ],
+    "eligibilite": [
+      "Pour la piste Postdoctoral Research Associate : avoir récemment obtenu ou être sur le point d'obtenir un doctorat (Ph.D.)",
+      "Travailler sur la compréhension et l'amélioration de la relation entre technologie et société",
+      "Les candidats doivent être en mesure de participer en personne au CITP sur le campus de l'Université de Princeton à Princeton, New Jersey",
+      "Les candidats peuvent postuler à plusieurs pistes"
+    ],
+    "procedure_etapes": [
+      "1. Choisir la ou les pistes de bourse (Postdoctoral Research Associate, Visiting Research Scholar, Microsoft Visiting Research Scholar)",
+      "2. Préparer les documents requis (non spécifiés dans le texte)",
+      "3. Soumettre la candidature via le lien Interfolio correspondant à chaque piste",
+      "4. Respecter la date limite du 7 décembre 2026, 23h59 EST pour une considération complète"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Candidature Postdoctoral Research Associate",
+        "url": "https://apply.interfolio.com/194712"
+      },
+      {
+        "label": "Candidature Visiting Research Scholar (Visiting Professional)",
+        "url": "https://apply.interfolio.com/194737"
+      },
+      {
+        "label": "Candidature Microsoft Visiting Research Scholar (Visiting Professor)",
+        "url": "https://apply.interfolio.com/194745"
+      },
+      {
+        "label": "Site officiel du CITP",
+        "url": "https://citp.princeton.edu"
+      },
+      {
+        "label": "Blog du CITP",
+        "url": "https://blog.citp.princeton.edu"
+      },
+      {
+        "label": "DeCenter (embauche conjointe)",
+        "url": "https://decenter.princeton.edu/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Princeton",
+      "CITP fellowship",
+      "bourse postdoctorale",
+      "bourse technologie et société",
+      "bourse politique publique",
+      "bourse intelligence artificielle",
+      "bourse science des données",
+      "bourse confidentialité et sécurité",
+      "bourse États-Unis",
+      "bourse 2027-2028"
+    ],
+    "lien_candidature": "https://apply.interfolio.com/194712",
+    "source_url": "https://blog.citp.princeton.edu/2026/11/03/2027-28-fellows-applications-are-now-open/?fbclid=IwY2xjawVl6UJleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfoWP49gH1LeeFDayaoXc3XIDMiisGUvYDhO2Zi9AgCltbNGtEkw_JTxYtzjY_aem_KbxlYZITejiU6YyLqbm0og",
+    "statut": "ouvert",
+    "resume": "Le Center for Information Technology Policy (CITP) de l'Université de Princeton ouvre les candidatures pour son programme de bourses 2027-2028, destiné aux chercheurs et praticiens travaillant à l'intersection de la technologie, de la politique publique et de la société. Ce programme compétitif et entièrement financé offre un environnement de recherche interdisciplinaire à Princeton, New Jersey, avec trois pistes : chercheur postdoctoral, chercheur invité et chercheur invité Microsoft. Les candidats doivent soumettre leur dossier via Interfolio avant le 7 décembre 2026 à 23h59 EST pour une considération complète.",
+    "imageUrl": "/docs/le-programme-fellows-au-citp.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:27:08",
+    "slug": "bourse-citp-princeton-2027-2028"
   },
   {
     "titre": "Bourses de l'Université de Maastricht pour étudiants internationaux",
@@ -3293,6 +4177,108 @@
     "imageUrl": null,
     "extrait_le": "2026-11-11T15:15:32",
     "slug": "bourse-eugen-ionescu-doctorat-postdoctorat-roumanie-2026"
+  },
+  {
+    "titre": "Bourse postdoctorale Society of Science Fellows de l'Université de Notre Dame",
+    "seo_slug": "bourse-notre-dame-science-fellows-2026",
+    "organisation": "University of Notre Dame",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-12-15",
+    "deadline_texte": "15 décembre 2026 à 23h59 EST",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Sciences",
+      "Mathématiques",
+      "Physique",
+      "Chimie",
+      "Biologie",
+      "Informatique"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Lettre de motivation",
+      "Curriculum vitae",
+      "Déclaration de recherche (max 5 pages)",
+      "Trois lettres de recommandation"
+    ],
+    "avantages": [
+      "Financement pour trois ans",
+      "Salaire au moins égal à l'échelle NRSA NIH",
+      "10 000 $ pour formation et développement professionnel",
+      "Mentorat individualisé",
+      "Opportunités de réseautage",
+      "Accès à des ateliers et séminaires"
+    ],
+    "eligibilite": [
+      "Avoir obtenu ou prévoir d'obtenir un doctorat après juin 2025 (ou avant en cas de congé maternité/paternité ou FMLA dans les deux dernières années)",
+      "Identifier un mentor principal parmi les cinq départements du College of Science",
+      "Le mentor principal doit fournir l'espace de recherche, les fournitures et le soutien financier pour la troisième année"
+    ],
+    "procedure_etapes": [
+      "1. Identifier un mentor principal et des co-mentors",
+      "2. Préparer la lettre de motivation, le CV et la déclaration de recherche",
+      "3. Soumettre la candidature via Interfolio",
+      "4. Demander à trois référents de soumettre leurs lettres via Interfolio"
+    ],
+    "contacts": [
+      "sciencepostdocs@nd.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site de candidature Interfolio",
+        "url": "https://apply.interfolio.com/192011"
+      },
+      {
+        "label": "Page d'information sur la bourse",
+        "url": "https://sciencepostdocs.nd.edu/jobs/university-of-notre-dames-society-of-science-fellows/"
+      },
+      {
+        "label": "Faculté de Mathématiques Appliquées et Computationnelles et Statistiques",
+        "url": "https://acms.nd.edu/people/faculty/"
+      },
+      {
+        "label": "Faculté de Sciences Biologiques",
+        "url": "https://biology.nd.edu/faculty-research/faculty-listing/"
+      },
+      {
+        "label": "Faculté de Chimie et Biochimie",
+        "url": "https://chemistry.nd.edu/faculty-research/"
+      },
+      {
+        "label": "Faculté de Mathématiques",
+        "url": "https://math.nd.edu/people/regular-faculty/"
+      },
+      {
+        "label": "Faculté de Physique et Astronomie",
+        "url": "https://physics.nd.edu/people/faculty/"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "University of Notre Dame",
+      "Society of Science Fellows",
+      "bourse sciences",
+      "postdoc États-Unis",
+      "bourse recherche",
+      "financement postdoctorat"
+    ],
+    "lien_candidature": "https://apply.interfolio.com/192011",
+    "source_url": "https://sciencepostdocs.nd.edu/jobs/university-of-notre-dames-society-of-science-fellows/?fbclid=IwY2xjawVl6a5leHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfCfE5iEvXpJpqE7eWiAK4mhVfbOrbLcMbKm--o7WeH8MIz3ylHEzCvw9N_Wc_aem_gu_HBsj09JU0Cl4VYxBS3Q",
+    "statut": "ouvert",
+    "resume": "L'Université de Notre Dame offre des bourses postdoctorales prestigieuses aux jeunes scientifiques talentueux. Les boursiers bénéficient d'un financement pour trois ans, d'un salaire compétitif, d'un budget de 10 000 $ pour le développement professionnel et d'un mentorat personnalisé. Le programme vise à soutenir des projets de recherche ambitieux et à préparer les boursiers à des carrières académiques ou industrielles. Date limite de candidature : 15 décembre 2026.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:28:06",
+    "slug": "bourse-notre-dame-science-fellows-2026"
   },
   {
     "titre": "Bourse EMMIR - Master Européen en Migrations et Relations Interculturelles",
@@ -4649,6 +5635,120 @@
     "slug": "bourse-postdoctorale-embo-2027"
   },
   {
+    "titre": "Bourses postdoctorales EMBO",
+    "seo_slug": "bourse-postdoctorale-embo-2027",
+    "organisation": "EMBO (European Molecular Biology Organization)",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2027-01-22",
+    "deadline_texte": "Vendredi 22 janvier 2027 à 14h00 CET (date limite absolue)",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Sciences de la vie"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Soutien aux chercheurs postdoctoraux internationalement mobiles",
+      "Financement de la recherche",
+      "Indemnités de voyage et de réinstallation",
+      "Possibilité de renouvellement"
+    ],
+    "eligibilite": [
+      "Chercheur postdoctoral internationalement mobile",
+      "Projet de recherche en sciences de la vie",
+      "Mobilité internationale"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité",
+      "2. Préparer le dossier de candidature",
+      "3. S'inscrire et soumettre la candidature en ligne",
+      "4. Respecter la date limite"
+    ],
+    "contacts": [
+      "+49 6221 8891 122",
+      "+49 6221 8891 409",
+      "+49 6221 8891 117",
+      "+49 6221 8891 561",
+      "+49 6221 8891 502"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page de candidature",
+        "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/application/"
+      },
+      {
+        "label": "Vérifier l'éligibilité",
+        "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/eligibility/"
+      },
+      {
+        "label": "Directives des bourses postdoctorales (PDF)",
+        "url": "http://www.embo.org/documents/PDF/Postdoctoral_Fellowships_guidelines.pdf"
+      },
+      {
+        "label": "Taux de contrat (PDF)",
+        "url": "http://www.embo.org/documents/PDF/Postdoctoral_Fellowships_ContractRates.pdf"
+      },
+      {
+        "label": "Politique de voyage et de réinstallation (PDF)",
+        "url": "https://www.embo.org/documents/PDF/EMBO_Postdoctoral_Fellowships-Travel_and_relocation_policy.pdf"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/faqs/"
+      },
+      {
+        "label": "Processus de sélection",
+        "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/selection/"
+      },
+      {
+        "label": "Bénéfices",
+        "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/benefits/"
+      },
+      {
+        "label": "Intégrité scientifique",
+        "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/research-integrity/"
+      },
+      {
+        "label": "États membres de l'EMBC",
+        "url": "https://www.embo.org/about-embo/embc/#member-states"
+      },
+      {
+        "label": "Boursiers EMBO",
+        "url": "https://www.embo.org/the-embo-communities/embo-fellows/"
+      },
+      {
+        "label": "Comité des bourses EMBO",
+        "url": "https://www.embo.org/about-embo/leadership-and-governance/committees/#Fellowship_Committee"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "EMBO",
+      "sciences de la vie",
+      "recherche",
+      "mobilité internationale",
+      "financement postdoc",
+      "Europe"
+    ],
+    "lien_candidature": "http://applications.embo.org/01/register.php?reg=S019",
+    "source_url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/application/?fbclid=IwY2xjawVl6h1leHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfUXBCGR1N-WDk1ETtrp0n_9LCNVFUg1mR76Hca5kbdYmIaLtDELbNo-wMW78_aem_bV8xYQN-CaMMd3JMVDr13A",
+    "statut": "ouvert",
+    "resume": "Les bourses postdoctorales EMBO soutiennent des chercheurs postdoctoraux internationalement mobiles en sciences de la vie, en Europe et dans le monde. Elles offrent un financement complet pour la recherche, incluant des indemnités de voyage et de réinstallation. Les candidatures sont acceptées tout au long de l'année, avec une date limite absolue fixée au 22 janvier 2027 à 14h00 CET. Ce programme prestigieux est idéal pour les jeunes chercheurs souhaitant développer leur carrière dans un environnement scientifique de premier plan.",
+    "imageUrl": "/docs/bourses-postdoctorales-embo.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:31:10",
+    "slug": "bourse-postdoctorale-embo-2027"
+  },
+  {
     "titre": "Bourses pour étudiants internationaux à l'Université Charles Darwin",
     "seo_slug": "bourses-cdu-international-2027",
     "organisation": "Charles Darwin University",
@@ -5563,6 +6663,197 @@
     "imageUrl": null,
     "extrait_le": "2026-11-09T17:24:19",
     "slug": "bourse-um-nl-brightlands-talent-2027"
+  },
+  {
+    "titre": "Bourse postdoctorale Jane Coffin Childs 2027",
+    "seo_slug": "bourse-jane-coffin-childs-postdoc-2027",
+    "organisation": "Jane Coffin Childs Fund",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2027-02-01",
+    "deadline_texte": "1er février 2027 à 15h00 EST (heure de l'Est)",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Recherche biomédicale"
+    ],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Trois lettres de recommandation",
+      "Formulaire du conseiller postdoctoral proposé",
+      "Formulaire de signature du responsable financier"
+    ],
+    "avantages": [
+      "Bourse de recherche postdoctorale",
+      "Financement pour la recherche biomédicale"
+    ],
+    "eligibilite": [
+      "Être un chercheur postdoctoral proposant un projet de recherche biomédicale",
+      "Les lettres de recommandation doivent provenir de personnes qualifiées autres que le conseiller postdoctoral (et co-conseiller)",
+      "Le conseiller postdoctoral proposé (et co-conseiller) ne peut pas être arbitre",
+      "Un officier financier de l'institution doit signer pour confirmer la connaissance de la soumission et des conditions"
+    ],
+    "procedure_etapes": [
+      "1. Créer un compte individuel sur la plateforme Temelio (ne pas sélectionner 'Organisation')",
+      "2. Remplir le formulaire de candidature en ligne",
+      "3. Inviter trois arbitres à soumettre des lettres de recommandation via Temelio",
+      "4. Inviter le conseiller postdoctoral proposé à remplir le formulaire correspondant",
+      "5. Inviter le responsable financier de l'institution à signer le formulaire de signature",
+      "6. Soumettre la candidature et tous les documents justificatifs avant la date limite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.jccfund.org"
+      },
+      {
+        "label": "Portail de candidature Temelio",
+        "url": "https://www.jccfund.org"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "Jane Coffin Childs",
+      "recherche biomédicale",
+      "bourse États-Unis",
+      "financement postdoc",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://www.jccfund.org",
+    "source_url": "https://www.jccfund.org/eligibilty-criteria/important-dates-and-documents/?fbclid=IwY2xjawVl6plleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf0UjYovpqlF3qs1V-MOjamkJt8jk5jfTOef3g7um9G1SRsbqOot5kbPzXJXU_aem_dwBa3-ealuWsGo5C9QeWgw",
+    "statut": "ouvert",
+    "resume": "La bourse postdoctorale Jane Coffin Childs 2027 est destinée aux chercheurs en recherche biomédicale. Les candidatures sont ouvertes jusqu'au 1er février 2027 à 15h00 EST. Les candidats doivent soumettre leur dossier via la plateforme Temelio, avec trois lettres de recommandation et un formulaire du conseiller postdoctoral. Les décisions seront annoncées à la mi-mai 2027 pour un début de bourse le 1er juillet 2027.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:32:49",
+    "slug": "bourse-jane-coffin-childs-postdoc-2027"
+  },
+  {
+    "titre": "Master of Public Administration (MPA) - Columbia SIPA",
+    "seo_slug": "bourse-mpa-columbia-sipa-2027",
+    "organisation": "Columbia University - School of International and Public Affairs (SIPA)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse partielle (fellowship)",
+    "deadline": "2027-02-05",
+    "deadline_texte": "5 février 2027 (date limite finale pour la session d'automne 2027). Les candidatures pour une consideration de bourse (fellowship) doivent être soumises avant le 20 décembre 2026. Pour la session de printemps 2027, la date limite finale est le 15 octobre 2026.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Administration publique",
+      "Politiques publiques",
+      "Affaires internationales",
+      "Gestion",
+      "Économie",
+      "Analyse de données"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement, non spécifié explicitement)",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Relevés de notes",
+      "Scores TOEFL/IELTS (pour les non-anglophones)",
+      "Scores GRE/GMAT (optionnel)",
+      "Lettres de recommandation"
+    ],
+    "avantages": [
+      "Bourse d'études (fellowship) pour les candidats retenus",
+      "Possibilité de stage OPT prolongé grâce à la désignation STEM"
+    ],
+    "eligibilite": [
+      "Diplôme de premier cycle",
+      "Expérience professionnelle pertinente (non spécifiée)",
+      "Maîtrise de l'anglais",
+      "Candidats de tous les pays"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'admission et les documents requis sur le site de SIPA.",
+      "2. Préparer les tests standardisés (TOEFL/IELTS, GRE/GMAT si nécessaire).",
+      "3. Remplir le formulaire de candidature en ligne.",
+      "4. Soumettre la candidature avant la date limite (5 février 2027 pour l'automne 2027, ou 20 décembre 2026 pour une consideration de bourse).",
+      "5. Pour la session de printemps 2027, soumettre avant le 15 octobre 2026."
+    ],
+    "contacts": [
+      "+1 212-854-6216",
+      "+1 212-854-3010"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme MPA",
+        "url": "https://www.sipa.columbia.edu/sipa-education/masters-programs/master-public-administration"
+      },
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://apply.sipa.columbia.edu/apply/"
+      },
+      {
+        "label": "Informations sur les frais de scolarité",
+        "url": "https://www.sipa.columbia.edu/office-financial-aid/tuition-and-fees"
+      },
+      {
+        "label": "Exemple de plan de cours",
+        "url": "https://www.sipa.columbia.edu/sipa-education/masters-programs/sample-course-plan"
+      },
+      {
+        "label": "Concentrations et spécialisations",
+        "url": "https://www.sipa.columbia.edu/sipa-education/masters-programs/miampa-concentrations-specializations"
+      },
+      {
+        "label": "Programmes de double diplôme",
+        "url": "https://www.sipa.columbia.edu/sipa-education/dual-degree-programs"
+      },
+      {
+        "label": "Programmes de double diplôme internationaux",
+        "url": "https://www.sipa.columbia.edu/sipa-education/dual-degree-programs/international-dual-degrees"
+      },
+      {
+        "label": "Critères d'admission",
+        "url": "https://www.sipa.columbia.edu/admissions/apply"
+      },
+      {
+        "label": "Dates limites de candidature",
+        "url": "https://www.sipa.columbia.edu/admissions/applying-sipa/application-deadlines"
+      },
+      {
+        "label": "FAQ MPA",
+        "url": "https://www.sipa.columbia.edu/sipa-education/masters-programs/master-international-affairs/frequently-asked-questions"
+      },
+      {
+        "label": "Ateliers Capstone",
+        "url": "https://www.sipa.columbia.edu/sipa-education/capstone-workshops"
+      }
+    ],
+    "mots_cles": [
+      "bourse MPA",
+      "Columbia SIPA",
+      "master administration publique",
+      "bourse États-Unis",
+      "financement études",
+      "fellowship Columbia",
+      "MPA STEM",
+      "bourse master 2027"
+    ],
+    "lien_candidature": "https://apply.sipa.columbia.edu/apply/",
+    "source_url": "https://www.sipa.columbia.edu/sipa-education/masters-programs/master-public-administration",
+    "statut": "ouvert",
+    "resume": "Le Master of Public Administration (MPA) de Columbia SIPA est un programme de 21 mois désormais désigné STEM, offrant une formation intensive en leadership, économie, analyse de données et gestion financière. Les étudiants peuvent bénéficier d'une bourse (fellowship) en soumettant leur candidature avant le 20 décembre 2026 pour l'automne 2027. Ce programme prépare à des carrières dans les secteurs public, privé et à but non lucratif, avec la possibilité de prolonger l'OPT grâce à la désignation STEM. Les candidatures pour l'automne 2027 sont ouvertes, avec une date limite finale au 5 février 2027.",
+    "imageUrl": "/docs/ma-trise-en-administration-publique.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-13T16:11:13",
+    "slug": "bourse-mpa-columbia-sipa-2027"
   },
   {
     "titre": "Programme de doctorat en Innovation, Économie, Gouvernance et Développement Durable (IEGSD) - UNU-MERIT",
@@ -19586,6 +20877,752 @@
     "slug": "master-gestion-environnement-developpement-anu-2027"
   },
   {
+    "titre": "Master of Public Policy - Université Nationale Australienne",
+    "seo_slug": "master-public-policy-anu-2027",
+    "organisation": "Australian National University (ANU)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Politiques publiques",
+      "Études politiques",
+      "Administration publique"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Diplôme de bachelor ou équivalent",
+      "Relevés de notes",
+      "Preuve de maîtrise de l'anglais",
+      "CV",
+      "Lettre de motivation",
+      "GRE (si applicable)"
+    ],
+    "avantages": [
+      "Programme de 2 ans à temps plein",
+      "96 unités",
+      "Spécialisations disponibles",
+      "Possibilité de crédit pour études antérieures"
+    ],
+    "eligibilite": [
+      "Bachelor ou équivalent avec GPA 5/7, ou",
+      "Bachelor ou équivalent avec GPA 4/7 et 3 ans d'expérience professionnelle pertinente, ou",
+      "Bachelor ou équivalent avec GPA 4/7 et Graduate Certificate avec GPA 4/7, ou",
+      "Graduate Diploma ou équivalent avec GPA 4/7, ou",
+      "48 unités de cours de troisième cycle avec GPA 4/7, ou",
+      "Graduate Certificate ou équivalent avec GPA 4/7 et 3 ans d'expérience professionnelle pertinente, ou",
+      "GRE General test avec scores minimum de 155 Verbal, 155 Quantitative, 4.0 Analytical Writing et 3 ans d'expérience professionnelle pertinente, ou",
+      "10 ans d'expérience professionnelle pertinente au niveau OSCA 1"
+    ],
+    "procedure_etapes": [
+      "Vérifier les conditions d'admission et les exigences linguistiques",
+      "Préparer les documents requis (diplômes, relevés de notes, preuve d'anglais, CV, lettre de motivation, etc.)",
+      "Soumettre une demande en ligne via le portail de candidature de l'ANU",
+      "Payer les frais de candidature (si applicables)",
+      "Attendre la décision d'admission"
+    ],
+    "contacts": [
+      "head.pogo.crawford@anu.edu.au"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page du programme",
+        "url": "https://programsandcourses.anu.edu.au/2027/program/MPUPP"
+      },
+      {
+        "label": "Portail de candidature",
+        "url": "https://programsandcourses.anu.edu.au/2027/program/MPUPP/apply"
+      },
+      {
+        "label": "Contact pour futurs étudiants",
+        "url": "http://www.anu.edu.au/contact/"
+      },
+      {
+        "label": "Exigences linguistiques",
+        "url": "https://policies.anu.edu.au/ppl/document/ANUP_6546951"
+      },
+      {
+        "label": "Frais et paiements",
+        "url": "https://www.anu.edu.au/students/program-administration/fees-payments"
+      },
+      {
+        "label": "Frais de scolarité internationaux",
+        "url": "https://www.anu.edu.au/students/program-administration/fees-payments/international-tuition-fees"
+      },
+      {
+        "label": "Bourses ANU",
+        "url": "http://students.anu.edu.au/scholarships/"
+      },
+      {
+        "label": "Australian Qualifications Framework",
+        "url": "http://www.aqf.edu.au"
+      },
+      {
+        "label": "Calcul du GPA",
+        "url": "http://www.uac.edu.au/future-applicants/admission-criteria/tertiary-qualifications"
+      }
+    ],
+    "mots_cles": [
+      "master politiques publiques",
+      "ANU",
+      "bourse Australie",
+      "études supérieures",
+      "Crawford School",
+      "admission master",
+      "relations internationales"
+    ],
+    "lien_candidature": "https://programsandcourses.anu.edu.au/2027/program/MPUPP/apply",
+    "source_url": "https://programsandcourses.anu.edu.au/2027/program/MPUPP",
+    "statut": "ouvert",
+    "resume": "Le Master of Public Policy de l'Université Nationale Australienne (ANU) est un programme de deux ans à temps plein offert par la Crawford School of Public Policy. Il vise à former des professionnels capables d'analyser et de concevoir des politiques publiques efficaces. Les étudiants peuvent choisir parmi plusieurs spécialisations, notamment en régulation, politique économique, environnement, politique étrangère et développement. L'admission est compétitive et repose sur les résultats académiques, l'expérience professionnelle et la maîtrise de l'anglais. Des bourses sont disponibles pour les étudiants internationaux.",
+    "imageUrl": "/docs/master-en-politiques-publiques.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-13T16:01:01",
+    "slug": "master-public-policy-anu-2027"
+  },
+  {
+    "titre": "Bourse d'excellence pour le Master en Politique et Gestion de la Durabilité Mondiale (GSPM) à la Heller School, Université Brandeis",
+    "seo_slug": "bourse-gspm-brandeis-2026",
+    "organisation": "Heller School for Social Policy and Management, Brandeis University",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse partielle",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Politique de durabilité",
+      "Gestion",
+      "Développement international",
+      "Résolution de conflits",
+      "Politique mondiale"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Relevés de notes",
+      "Lettres de recommandation",
+      "Score TOEFL/IELTS (pour les non-anglophones)"
+    ],
+    "avantages": [
+      "Bourse d'excellence",
+      "Possibilité de stage pratique",
+      "Programme accéléré de 9 à 12 mois",
+      "Réseau d'anciens élèves",
+      "Accès aux organisations internationales à Boston"
+    ],
+    "eligibilite": [
+      "Diplôme de bachelor",
+      "Expérience professionnelle (pour l'option 9 mois)",
+      "Engagement pour le développement durable",
+      "Maîtrise de l'anglais"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les conditions d'admission sur le site de l'université",
+      "2. Préparer les documents requis (CV, lettre de motivation, relevés de notes, etc.)",
+      "3. Soumettre la candidature en ligne via le portail de candidature",
+      "4. Passer un entretien si nécessaire",
+      "5. Attendre la décision d'admission et les informations sur la bourse"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://www.brandeis.edu/graduate-admissions/apply/index.html"
+      },
+      {
+        "label": "Contact Admissions",
+        "url": "https://www.brandeis.edu/graduate-admissions/contact/index.html"
+      },
+      {
+        "label": "Demande d'information",
+        "url": "https://apply.grad.brandeis.edu/register/?id=e186c631-d334-453a-aadf-a8d7707b0878&form_sys:field:inq_degree_lvl=52d66b2b-babf-456c-b179-e7a3739df52a&form_sys:field:inq_modality=8cf195c9-4476-4dc3-a3cb-15f1df603607&form_sys:field:area_of_study=69c81e6e-5f8c-47ec-9a9c-3921deec95c0&form_sys:field:academic_interest=311cb150-426f-4159-8beb-71c7e4df22ce"
+      },
+      {
+        "label": "Événements de rencontre",
+        "url": "https://www.brandeis.edu/graduate-admissions/events.html"
+      },
+      {
+        "label": "Fondation Alan B. Slifka",
+        "url": "https://slifkafoundation.org/"
+      }
+    ],
+    "mots_cles": [
+      "bourse master durabilité",
+      "bourse Brandeis University",
+      "bourse Heller School",
+      "bourse politique environnementale",
+      "bourse développement durable",
+      "bourse études supérieures États-Unis"
+    ],
+    "lien_candidature": "https://www.brandeis.edu/graduate-admissions/apply/index.html",
+    "source_url": "https://heller.brandeis.edu/global-policy/index.html",
+    "statut": "ouvert",
+    "resume": "Le Master of Arts in Global Sustainability Policy and Management (GSPM) de la Heller School de l'Université Brandeis offre une formation interdisciplinaire axée sur le développement international durable, la résolution de conflits et la politique mondiale. Ce programme accéléré de 9 à 12 mois est aligné sur les Objectifs de Développement Durable des Nations Unies et comprend un stage pratique. Les étudiants bénéficient d'une bourse d'excellence et d'un réseau professionnel à Boston. Préparez-vous à devenir un leader du changement durable.",
+    "imageUrl": "/docs/ma-trise-s-arts-en-politique-et-gestion-du-d-veloppement-durable-mondial.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-13T16:02:34",
+    "slug": "bourse-gspm-brandeis-2026"
+  },
+  {
+    "titre": "Master of Science en Politique et Gestion de la Santé Mondiale",
+    "seo_slug": "bourse-ms-ghpm-sante-mondiale-2026",
+    "organisation": "The Heller School for Social Policy and Management, Brandeis University",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse partielle au mérite",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Politique de santé mondiale",
+      "Gestion de la santé",
+      "Santé publique"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse partielle au mérite couvrant une partie des frais de scolarité",
+      "Plus de 95% des étudiants reçoivent une bourse"
+    ],
+    "eligibilite": [
+      "Tous les candidats sont automatiquement considérés pour la bourse lors de la candidature au programme",
+      "Aucune démarche supplémentaire n'est requise"
+    ],
+    "procedure_etapes": [
+      "1. Soumettre une candidature au programme MS GHPM via le portail de candidature des études supérieures de Brandeis University",
+      "2. Toutes les candidatures sont automatiquement examinées pour l'attribution de la bourse au mérite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page de candidature",
+        "url": "https://www.brandeis.edu/graduate-admissions/apply/index.html"
+      },
+      {
+        "label": "Contact des admissions",
+        "url": "https://www.brandeis.edu/graduate-admissions/contact/index.html"
+      },
+      {
+        "label": "Demande d'information",
+        "url": "https://apply.grad.brandeis.edu/register/?id=e186c631-d334-453a-aadf-a8d7707b0878&form_sys:field:inq_degree_lvl=52d66b2b-babf-456c-b179-e7a3739df52a&form_sys:field:inq_modality=8cf195c9-4476-4dc3-a3cb-15f1df603607&form_sys:field:area_of_study=430d2230-e1bf-4a4c-a3fa-0d01d33779b1&form_sys:field:academic_interest=5a388dc8-af52-49ef-832f-4789531ca6fd"
+      },
+      {
+        "label": "Événements de rencontre",
+        "url": "https://www.brandeis.edu/graduate-admissions/events.html"
+      },
+      {
+        "label": "Programme d'études",
+        "url": "https://www.brandeis.edu/graduate-admissions/index.html"
+      },
+      {
+        "label": "Frais de scolarité et aide financière",
+        "url": "https://www.brandeis.edu/graduate-admissions/tuition-financial-aid/index.html"
+      },
+      {
+        "label": "Carrières",
+        "url": "https://www.brandeis.edu/graduate-admissions/careers/index.html"
+      },
+      {
+        "label": "Profils étudiants",
+        "url": "https://www.brandeis.edu/graduate-admissions/about/student-profiles.html"
+      },
+      {
+        "label": "Programme d'études détaillé",
+        "url": "https://www.brandeis.edu/graduate-admissions/curriculum/index.html"
+      },
+      {
+        "label": "Classements",
+        "url": "https://www.brandeis.edu/graduate-admissions/about/rankings.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse santé mondiale",
+      "master politique santé",
+      "bourse Brandeis University",
+      "bourse Heller School",
+      "bourse master santé publique",
+      "bourse études supérieures santé",
+      "bourse mérite international",
+      "MS GHPM bourse"
+    ],
+    "lien_candidature": "https://www.brandeis.edu/graduate-admissions/apply/index.html",
+    "source_url": "https://heller.brandeis.edu/global-health-masters-program/index.html",
+    "statut": "ouvert",
+    "resume": "Le Master of Science en Politique et Gestion de la Santé Mondiale (MS GHPM) de la Heller School de l'Université Brandeis est un programme accéléré de neuf mois axé sur le renforcement des systèmes de santé et les politiques de santé mondiales. Ce programme certifié STEM offre une expertise complète et des techniques de pointe pour former les futurs professionnels de la santé mondiale. Plus de 95% des étudiants reçoivent une bourse partielle au mérite, attribuée automatiquement lors de la candidature. Les diplômés poursuivent des carrières dans des organisations internationales, des ministères de la santé et des institutions académiques.",
+    "imageUrl": "/docs/ma-trise-s-sciences-en-politiques-et-gestion-de-la-sant-mondiale.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-13T16:03:55",
+    "slug": "bourse-ms-ghpm-sante-mondiale-2026"
+  },
+  {
+    "titre": "Master of Public Policy (MPP) - Heller School, Brandeis University",
+    "seo_slug": "bourse-mpp-heller-brandeis-2026",
+    "organisation": "The Heller School for Social Policy and Management, Brandeis University",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse partielle (plus de 95% des étudiants reçoivent une bourse)",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte. Consulter la page des dates limites de candidature.",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Politique publique",
+      "Politique sociale",
+      "Équité économique et raciale",
+      "Politique de santé",
+      "Femmes, genre et sexualité"
+    ],
+    "pays_eligibles": [
+      "Non spécifié (programme international, ouvert aux candidats du monde entier)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement, non explicitement mentionné)",
+    "documents_requis": [
+      "Non détaillés dans le texte (voir procédure de candidature)"
+    ],
+    "avantages": [
+      "Bourse d'études (plus de 95% des étudiants reçoivent une bourse)",
+      "Aide financière disponible"
+    ],
+    "eligibilite": [
+      "Candidats au master en politique publique",
+      "Engagement pour la justice sociale",
+      "Capacité à analyser les inégalités et proposer des solutions"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page 'How to Apply to Heller MPP' pour connaître les exigences.",
+      "2. Vérifier les dates limites de candidature sur la page des deadlines.",
+      "3. Préparer les documents requis (non spécifiés dans le texte).",
+      "4. Soumettre la candidature en ligne via le portail d'admission.",
+      "5. Contacter le bureau des admissions pour toute question."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Comment postuler au MPP de Heller",
+        "url": "https://www.brandeis.edu/graduate-admissions/apply/index.html"
+      },
+      {
+        "label": "Dates limites de candidature",
+        "url": "https://www.brandeis.edu/graduate-admissions/apply/index.html#deadlines"
+      },
+      {
+        "label": "Contacter les admissions",
+        "url": "https://www.brandeis.edu/graduate-admissions/contact/index.html"
+      },
+      {
+        "label": "Demander des informations",
+        "url": "https://apply.grad.brandeis.edu/register/?id=e186c631-d334-453a-aadf-a8d7707b0878&form_sys:field:inq_degree_lvl=52d66b2b-babf-456c-b179-e7a3739df52a&form_sys:field:inq_modality=8cf195c9-4476-4dc3-a3cb-15f1df603607&form_sys:field:area_of_study=69c81e6e-5f8c-47ec-9a9c-3921deec95c0&form_sys:field:academic_interest=f935c27f-566d-411a-93d5-25821ac49391"
+      },
+      {
+        "label": "Rencontrer l'équipe",
+        "url": "https://www.brandeis.edu/graduate-admissions/events.html"
+      },
+      {
+        "label": "Visiter Heller MPP",
+        "url": "http://brandeis.edu/graduate-admissions/contact/visit.html"
+      },
+      {
+        "label": "Télécharger la brochure du MPP (PDF)",
+        "url": "pdfs/mpp-brochure-june-2025.pdf"
+      },
+      {
+        "label": "Financement des études master",
+        "url": "https://www.brandeis.edu/graduate-admissions/tuition-financial-aid/index.html"
+      },
+      {
+        "label": "Carrières des diplômés MPP",
+        "url": "careers/index.html"
+      },
+      {
+        "label": "Instituts et centres de recherche",
+        "url": "../research/index.html"
+      },
+      {
+        "label": "Concentrations du MPP",
+        "url": "concentrations/index.html"
+      },
+      {
+        "label": "Équité économique et raciale",
+        "url": "concentrations/economic-racial-equity.html"
+      },
+      {
+        "label": "Politique de santé",
+        "url": "concentrations/health-policy.html"
+      },
+      {
+        "label": "Politique sociale",
+        "url": "concentrations/social-policy.html"
+      },
+      {
+        "label": "Femmes, genre et sexualité",
+        "url": "concentrations/women-gender-sexuality.html"
+      },
+      {
+        "label": "Classement US News 2026",
+        "url": "../news/items/releases/2026/us-news-rankings-2026.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse master politique publique",
+      "bourse Heller School",
+      "bourse Brandeis University",
+      "bourse études supérieures États-Unis",
+      "bourse politique sociale",
+      "financement master politique publique",
+      "bourse université américaine"
+    ],
+    "lien_candidature": "https://www.brandeis.edu/graduate-admissions/apply/index.html",
+    "source_url": "https://heller.brandeis.edu/mpp/",
+    "statut": "ouvert",
+    "resume": "Le Master of Public Policy (MPP) de la Heller School for Social Policy and Management de l'Université Brandeis est un programme de deux ans axé sur la justice sociale et l'analyse des politiques publiques. Plus de 95% des étudiants reçoivent une bourse, ce qui rend ce programme accessible. Les étudiants peuvent se spécialiser dans des domaines tels que l'équité économique et raciale, la politique de santé, la politique sociale, ou les questions de genre et de sexualité. Les diplômés poursuivent des carrières à fort impact dans le gouvernement, les organisations de plaidoyer et les think tanks.",
+    "imageUrl": "/docs/ma-trise-en-politiques-publiques-mpp.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-13T16:06:24",
+    "slug": "bourse-mpp-heller-brandeis-2026"
+  },
+  {
+    "titre": "Master en Changement Urbain Global (anciennement Gestion et Développement Urbains)",
+    "seo_slug": "master-changement-urbain-global-ihs-2026",
+    "organisation": "IHS, Institut d'Études Urbaines (Erasmus University Rotterdam)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Études urbaines",
+      "Développement urbain",
+      "Gestion urbaine",
+      "Changement climatique",
+      "Développement durable"
+    ],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [],
+    "procedure_etapes": [
+      "1. Consulter la page Admission & Application",
+      "2. Remplir le formulaire de candidature en ligne",
+      "3. Soumettre les documents requis (non spécifiés dans le texte)",
+      "4. Consulter la FAQ pour toute question"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://app.superoffice.com/Cust25326/CS/scripts/customer.fcgi?action=formFrame&formId=F-jKUPNKOS"
+      },
+      {
+        "label": "Admission & Application",
+        "url": "https://www.ihs.nl/en/admissions-application-masters-urban-management-and-development"
+      },
+      {
+        "label": "Foire aux questions (FAQ)",
+        "url": "https://www.ihs.nl/en/global-urban-change-faq"
+      },
+      {
+        "label": "Communiqué de presse sur le changement de nom",
+        "url": "https://www.ihs.nl/en/news/ihs-introduces-msc-global-urban-change-and-its-updated-structure"
+      },
+      {
+        "label": "Interview de la directrice du programme",
+        "url": "https://www.ihs.nl/en/news/central-message-urban-change-global-not-uniform"
+      },
+      {
+        "label": "Spécialisation Transformations socio-spatiales urbaines",
+        "url": "https://www.ihs.nl/en/post-master/urban-socio-spatial-transformation"
+      },
+      {
+        "label": "Spécialisation Environnement urbain et changement climatique",
+        "url": "https://www.ihs.nl/en/post-master/urban-environment-and-climate-change"
+      },
+      {
+        "label": "Article sur l'atelier de résilience urbaine",
+        "url": "https://www.ihs.nl/en/news/how-urban-resilience-workshop-prepares-students-global-challenges"
+      },
+      {
+        "label": "Thèse d'Ahmed Mouhsen",
+        "url": "https://www.ihs.nl/en/news/beyond-classroom"
+      },
+      {
+        "label": "Vidéo de témoignages d'anciens élèves",
+        "url": "https://www.youtube.com/watch?v=VOCEamzl_N0"
+      },
+      {
+        "label": "Classement Shanghai 2025 (Administration publique)",
+        "url": "https://www.shanghairanking.com/rankings/gras/2025/AS0512"
+      },
+      {
+        "label": "Classement QS WUR 2026 (Études du développement)",
+        "url": "https://www.topuniversities.com/universities/erasmus-university-rotterdam#subject"
+      },
+      {
+        "label": "Classement Times Higher Education 2026",
+        "url": "https://www.timeshighereducation.com/world-university-rankings/erasmus-university-rotterdam"
+      }
+    ],
+    "mots_cles": [
+      "bourse master changement urbain",
+      "IHS Erasmus University Rotterdam",
+      "master études urbaines",
+      "bourse Pays-Bas",
+      "financement master urbanisme",
+      "bourse développement durable",
+      "master en anglais Rotterdam",
+      "bourse gestion urbaine"
+    ],
+    "lien_candidature": "https://app.superoffice.com/Cust25326/CS/scripts/customer.fcgi?action=formFrame&formId=F-jKUPNKOS",
+    "source_url": "https://www.ihs.nl/en/global-urban-change",
+    "statut": "ouvert",
+    "resume": "Le Master en Changement Urbain Global de l'IHS (Institut d'Études Urbaines) à Rotterdam est un programme post-master international d'un an, enseigné en anglais, qui forme les étudiants à comprendre et à façonner les transformations urbaines à l'échelle mondiale. Anciennement Gestion et Développement Urbains, ce master offre deux spécialisations : Transformations Socio-Spatiales Urbaines et Environnement Urbain & Changement Climatique. Les étudiants acquièrent des compétences interdisciplinaires pour analyser les défis urbains complexes et proposer des solutions durables et justes. Le programme met l'accent sur une perspective globale et une approche flexible, avec un corps étudiant diversifié et un réseau d'anciens élèves influents dans le monde entier.",
+    "imageUrl": "/docs/changement-urbain-mondial.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-13T16:16:01",
+    "slug": "master-changement-urbain-global-ihs-2026"
+  },
+  {
+    "titre": "Bourse de recherche postdoctorale de l'Université de Malaya",
+    "seo_slug": "bourse-postdoctorale-malaya-2026",
+    "organisation": "University of Malaya (UM)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse de recherche",
+    "deadline": null,
+    "deadline_texte": "Candidatures ouvertes en continu (sans date limite fixe)",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Sciences et technologies",
+      "Sciences sociales",
+      "Arts et sciences humaines"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (présumé pour la recherche)",
+    "documents_requis": [
+      "Formulaire de candidature PDRF (financé par subvention ou autres)",
+      "Formulaire de vérification (financé par subventions ou autres)",
+      "Rapport de référence (Referee Report)"
+    ],
+    "avantages": [
+      "Bourse de recherche postdoctorale",
+      "Collaboration avec des universitaires de classe mondiale",
+      "Contribution à des recherches à fort impact",
+      "KPI de la bourse PDRF : pour les sciences et technologies (S&T), 5 publications Q1/Q2 WoS (minimum 3 Q1 / 2 Q2) en tant que premier auteur ; pour les sciences sociales, arts et sciences humaines (SSAH), 5 publications Scopus/WoS en tant que premier auteur"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un doctorat (PhD)",
+      "Avoir un minimum de quatre (4) publications en tant que premier auteur",
+      "Pour les sciences et technologies (S&T) : minimum 4 publications indexées Q1 WoS",
+      "Pour les sciences sociales, arts et sciences humaines (SSAH) : minimum 4 publications indexées Scopus/ISI",
+      "Démontrer un fort potentiel de recherche aligné avec les priorités de recherche de l'UM",
+      "S'engager à mener des recherches à temps plein à l'Université de Malaya",
+      "Le superviseur doit avoir un H-index minimum de 20 (S&T) ou 15 (SSAH) ou au moins six publications Q1 WoS (S&T) ou Scopus (SSAH) au cours des trois dernières années"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité",
+      "2. Préparer les documents requis (formulaire de candidature, formulaire de vérification, rapport de référence)",
+      "3. Soumettre la candidature via le lien fourni (https://shorturl.at/GEJR3) ou en scannant le QR code",
+      "4. Attendre la notification de statut par email",
+      "5. Si présélectionné, participer à une interview",
+      "6. Recevoir l'offre finale dans les 1 à 2 mois suivant l'entretien"
+    ],
+    "contacts": [
+      "sumi@um.edu.my",
+      "mahfuzahmdyasin@um.edu.my",
+      "mashitoh@um.edu.my",
+      "postdoc_recruitment@um.edu.my",
+      "+60 3-7967 4698"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://shorturl.at/GEJR3"
+      },
+      {
+        "label": "FAQ - Postdoctoral Research Fellow (PDRF)",
+        "url": "https://umresearch.um.edu.my/faq-postdoctoral-research-fellow/"
+      },
+      {
+        "label": "Formulaire de candidature PDRF (financé par subvention ou autres)",
+        "url": "https://umresearch.um.edu.my/wp-content/uploads/2024/11/1.-PDRF-application-form-updated_Oct-2024_Funded-by-grant-or-Others-1.docx"
+      },
+      {
+        "label": "Formulaire de vérification (financé par subventions ou autres)",
+        "url": "https://umresearch.um.edu.my/wp-content/uploads/2024/11/3.-Verification-Form-Funded-by-Grants-or-Others_Oct-2024.pdf"
+      },
+      {
+        "label": "Rapport de référence (Referee Report)",
+        "url": "https://umresearch.um.edu.my/wp-content/uploads/2024/11/2.-Referee-report_Oct-2024.pdf"
+      },
+      {
+        "label": "Rapport de référence (Google Drive)",
+        "url": "https://drive.google.com/file/d/1pJymsRpEAgcA0pitvxRHNZe06Xb-tJtv/view?usp=sharing"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "University of Malaya",
+      "recherche postdoctorale",
+      "bourse Malaisie",
+      "postdoctoral fellowship",
+      "bourse de recherche",
+      "PhD",
+      "publications Q1"
+    ],
+    "lien_candidature": "https://shorturl.at/GEJR3",
+    "source_url": "https://umresearch.um.edu.my/join-us/post-doctoral-fellowship/?fbclid=IwY2xjawVl5LZleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf0UjYovpqlF3qs1V-MOjamkJt8jk5jfTOef3g7um9G1SRsbqOot5kbPzXJXU_aem_dwBa3-ealuWsGo5C9QeWgw",
+    "statut": "ouvert",
+    "resume": "L'Université de Malaya (UM), classée 58e mondiale et 12e en Asie selon le QS World University Rankings, propose une bourse de recherche postdoctorale pour attirer des chercheurs exceptionnels et visionnaires. Ce programme permet de collaborer avec des universitaires de classe mondiale, de contribuer à des recherches à fort impact et de faire avancer les connaissances dans diverses disciplines. Les candidats doivent être titulaires d'un doctorat et avoir un minimum de quatre publications en tant que premier auteur, avec des exigences spécifiques selon le domaine. Les candidatures sont ouvertes en continu et les entretiens sont organisés par le bureau postdoctoral.",
+    "adresse": "📍 Niveau 7, Complexe de gestion de la recherche et de l’innovation, Université de Malaya, 50603 Kuala Lumpur, Malaisie",
+    "imageUrl": "/docs/programme-de-bourses-de-recherche-postdoctorales-de-l-um.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:12:23",
+    "slug": "bourse-postdoctorale-malaya-2026"
+  },
+  {
+    "titre": "Bourse Branco Weiss Fellowship – Society in Science",
+    "seo_slug": "bourse-branco-weiss-2027",
+    "organisation": "ETH Zurich – Branco Weiss Fellowship",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse de recherche postdoctorale",
+    "deadline": null,
+    "deadline_texte": "Date limite non précisée dans le texte (les candidatures pour la bourse 2027 sont ouvertes ; consultez la page Timelines pour les dates exactes)",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Toutes disciplines",
+      "Recherche interdisciplinaire",
+      "Sciences et société"
+    ],
+    "pays_eligibles": [
+      "Non spécifié (international)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (les documents doivent être soumis en anglais)",
+    "documents_requis": [
+      "Lettre de motivation incluant une déclaration expliquant en quoi votre recherche diffère de la recherche dominante (max. 1 page)",
+      "Proposition de projet de recherche (max. 5 pages, incluant calendrier, jalons provisoires et références)",
+      "CV (max. 4 pages)",
+      "Lettre d'invitation de l'hôte potentiel, précisant pourquoi vous êtes invité et pourquoi votre projet de recherche est soutenu",
+      "Copies de vos trois meilleures publications (pas de thèses de doctorat, pas de livres, uniquement des articles de revues à comité de lecture ou des chapitres d'ouvrages individuels)",
+      "5 suggestions de réviseurs (à saisir directement dans la candidature en ligne)",
+      "Scan de votre certificat de doctorat ou confirmation de réussite à l'examen. Le certificat officiel de doctorat doit être fourni sur demande en avril."
+    ],
+    "avantages": [
+      "Bourse de recherche postdoctorale",
+      "Financement de la recherche",
+      "Indépendance dans le choix du sujet et de l'institution d'accueil"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un doctorat (ou avoir réussi l'examen de doctorat)",
+      "Projet de recherche innovant et non conventionnel",
+      "Recherche en lien avec la société et la science",
+      "Avoir un hôte potentiel disposé à fournir une lettre d'invitation",
+      "Soumettre les documents en anglais"
+    ],
+    "procedure_etapes": [
+      "Lire attentivement la FAQ et les directives sur le site officiel",
+      "Préparer tous les documents requis au format PDF (max. 5 Mo par fichier, 15 Mo au total)",
+      "Soumettre la candidature via le système en ligne eResearch de l'ETH Zurich",
+      "Soumettre la candidature au moins 1 à 2 jours avant la date limite pour éviter la surcharge du serveur"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page de candidature",
+        "url": "https://brancoweissfellowship.org/who-should-apply/application/"
+      },
+      {
+        "label": "Formulaire de candidature en ligne (eResearch)",
+        "url": "https://eresearch-next.ethz.ch/s_Login.jsp"
+      },
+      {
+        "label": "Foire aux questions (FAQ)",
+        "url": "https://brancoweissfellowship.org/who-should-apply/frequently-asked-questions/"
+      },
+      {
+        "label": "Directives (Guidelines)",
+        "url": "https://brancoweissfellowship.org/who-should-apply/guidelines/"
+      },
+      {
+        "label": "Éligibilité, durée et financement",
+        "url": "https://brancoweissfellowship.org/who-should-apply/eligibility-duration-and-funding/"
+      },
+      {
+        "label": "Calendrier (Timelines)",
+        "url": "https://brancoweissfellowship.org/who-should-apply/timelines/"
+      },
+      {
+        "label": "Guide de soumission (PDF)",
+        "url": "https://brancoweissfellowship.org/wp-content/uploads/2026/08/BWF_HowToSubmit_20260722.pdf"
+      },
+      {
+        "label": "Qui peut postuler",
+        "url": "https://brancoweissfellowship.org/who-should-apply/"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "Branco Weiss Fellowship",
+      "bourse recherche",
+      "ETH Zurich",
+      "society in science",
+      "bourse internationale",
+      "financement postdoc",
+      "recherche interdisciplinaire"
+    ],
+    "lien_candidature": "https://eresearch-next.ethz.ch/s_Login.jsp",
+    "source_url": "https://brancoweissfellowship.org/who-should-apply/application/?fbclid=IwY2xjawVl6eBleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfwmaG8WKpr5ZmO2FyvA298xJIa4lGOTXJGIyWJ5fWeitprbpJU1TGPjfLSJE_aem_qm1kB5GTGbYS_-hF-mbBwQ",
+    "statut": "ouvert",
+    "resume": "La Branco Weiss Fellowship – Society in Science offre un financement postdoctoral unique à des chercheurs exceptionnels du monde entier, leur permettant de poursuivre leurs propres idées de recherche dans l'institution de leur choix. Ce programme s'adresse aux scientifiques souhaitant explorer des pistes non conventionnelles et établir des liens entre science et société. Les candidats doivent soumettre un projet de recherche innovant, une lettre de motivation, un CV, des publications et une lettre d'invitation d'un hôte. Les candidatures pour la bourse 2027 sont ouvertes et se font via le système en ligne eResearch de l'ETH Zurich.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:28:39",
+    "slug": "bourse-branco-weiss-2027"
+  },
+  {
     "titre": "Master Européen en Linguistique Clinique (EMCL)",
     "seo_slug": "bourse-emcl-master-linguistique-clinique-2027",
     "organisation": "Erasmus Mundus Joint Master Degree (EMJMD) - Universités de Finlande orientale, Gand et Groningue",
@@ -25322,6 +27359,107 @@
     "slug": "bourse-imprs-trust-doctorat-informatique-2026"
   },
   {
+    "titre": "Bourse de la Fondation MasterCard pour les jeunes leaders africains",
+    "seo_slug": "bourse-mastercard-afrique-2026",
+    "organisation": "Mastercard Foundation",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-06-30",
+    "deadline_texte": "30 juin 2026",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Développement",
+      "Gouvernance",
+      "Économie",
+      "Santé",
+      "Agriculture",
+      "Éducation"
+    ],
+    "pays_eligibles": [
+      "Afrique"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "CV",
+      "Lettre de motivation",
+      "Relevés de notes",
+      "Diplômes",
+      "Passeport",
+      "Lettre de recommandation"
+    ],
+    "avantages": [
+      "Frais de scolarité",
+      "Hébergement",
+      "Repas",
+      "Assurance santé",
+      "Transport",
+      "Allocation mensuelle",
+      "Matériel d'étude",
+      "Accompagnement professionnel"
+    ],
+    "eligibilite": [
+      "Être ressortissant d'un pays d'Afrique subsaharienne",
+      "Avoir moins de 30 ans",
+      "Être titulaire d'un diplôme de premier cycle",
+      "Avoir une expérience professionnelle",
+      "Démontrer un engagement pour le développement de l'Afrique",
+      "Maîtriser l'anglais"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité",
+      "2. Préparer les documents requis",
+      "3. Remplir le formulaire de candidature en ligne",
+      "4. Soumettre la candidature avant la date limite",
+      "5. Passer les entretiens de sélection",
+      "6. Recevoir la décision d'admission"
+    ],
+    "contacts": [
+      "info@mastercardfdn.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse",
+        "url": "https://mastercardfdn.org/all/scholars/"
+      },
+      {
+        "label": "Guide de candidature",
+        "url": "https://mastercardfdn.org/all/scholars/application-guide/"
+      },
+      {
+        "label": "Liste des universités partenaires",
+        "url": "https://mastercardfdn.org/all/scholars/partner-universities/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://mastercardfdn.org/all/scholars/faq/"
+      }
+    ],
+    "mots_cles": [
+      "bourse MasterCard",
+      "bourse Afrique",
+      "bourse master",
+      "bourse développement",
+      "bourse 2026",
+      "bourse complète",
+      "MasterCard Foundation",
+      "jeunes leaders africains"
+    ],
+    "lien_candidature": "https://mastercardfdn.org/all/scholars/",
+    "source_url": "https://www.sipa.columbia.edu/sipa-education/masters-programs/mpa-development-practice",
+    "statut": "fermé",
+    "resume": "La bourse de la Fondation MasterCard offre aux jeunes leaders africains une opportunité unique de poursuivre des études supérieures de qualité. Elle couvre l'intégralité des frais de scolarité, d'hébergement, de repas, d'assurance santé, de transport et fournit une allocation mensuelle. Les candidats doivent démontrer un engagement pour le développement de l'Afrique et posséder un excellent dossier académique. Cette bourse vise à former la prochaine génération de leaders qui contribueront à la transformation sociale et économique du continent.",
+    "imageUrl": "/docs/mpa-en-pratique-du-d-veloppement.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-13T16:13:00",
+    "slug": "bourse-mastercard-afrique-2026"
+  },
+  {
     "titre": "Bourse Data Analytics (En ligne) de la Business School",
     "seo_slug": "bourse-data-analytics-online-edimbourg-2026",
     "organisation": "University of Edinburgh Business School",
@@ -30543,6 +32681,127 @@
     "imageUrl": null,
     "extrait_le": "2026-08-16T11:59:45",
     "slug": "subvention-fondation-halton-2026"
+  },
+  {
+    "titre": "Bourses de recherche sur l'immunothérapie du cancer - Cancer Research Institute (CRI)",
+    "seo_slug": "bourses-cri-cancer-immunotherapie-2026",
+    "organisation": "Cancer Research Institute (CRI)",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse de recherche",
+    "deadline": "2026-09-01",
+    "deadline_texte": "1er septembre 2026 (date limite pour la plupart des programmes, sauf indication contraire)",
+    "niveau_etudes": [
+      "Postdoctorat",
+      "Doctorat",
+      "Chercheur junior",
+      "Chercheur confirmé"
+    ],
+    "domaines": [
+      "Immunologie",
+      "Immunothérapie du cancer",
+      "Science des données",
+      "Recherche translationnelle",
+      "Oncologie"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Financement total de 243 000 $ pour les bourses postdoctorales",
+      "Financement total de 1,05 M$ pour le programme IGNITE",
+      "Financement total de 1,25 M$ pour le programme Lloyd J. Old STAR",
+      "Financement total de 1 M$ pour le programme CLIP",
+      "Financement total de 600 000 $ pour le Technology Impact Award",
+      "Financement total de 1 M$ pour le Clinical Innovator",
+      "Financement total de 300 000 $ pour l'Impact Grant",
+      "Mentorat et opportunités de collaboration",
+      "Ressources pour la recherche"
+    ],
+    "eligibilite": [
+      "Chercheurs en début de carrière (postdoctorants) pour les bourses Irvington et Immuno-Informatics",
+      "Chercheurs en transition vers un poste de titulaire (IGNITE)",
+      "Chercheurs en milieu de carrière (Lloyd J. Old STAR)",
+      "Équipes de recherche pour le programme CLIP",
+      "Concepts précoces de pré-développement pour le Technology Impact Award",
+      "Essais cliniques innovants en immunothérapie pour le Clinical Innovator",
+      "Recherche translationnelle pour le chordome pour l'Impact Grant"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page du programme spécifique pour connaître les détails et les exigences",
+      "2. Préparer les documents nécessaires (CV, proposition de recherche, etc.)",
+      "3. Soumettre la candidature en ligne avant la date limite indiquée",
+      "4. Pour certains programmes, soumettre une lettre d'intention (LOI) avant la date limite spécifiée"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page principale des subventions",
+        "url": "https://www.cancerresearch.org/apply-for-grants"
+      },
+      {
+        "label": "Bourse postdoctorale Irvington",
+        "url": "https://www.cancerresearch.org/cri-irvington-postdoctoral-fellowship"
+      },
+      {
+        "label": "Bourse postdoctorale Immuno-Informatique",
+        "url": "https://www.cancerresearch.org/immuno-informatics-postdoctoral-fellowship"
+      },
+      {
+        "label": "Prix IGNITE",
+        "url": "https://www.cancerresearch.org/ignite"
+      },
+      {
+        "label": "Programme Lloyd J. Old STAR",
+        "url": "https://www.cancerresearch.org/lloyd-j-old-star-program"
+      },
+      {
+        "label": "Programme CLIP",
+        "url": "https://www.cancerresearch.org/clip"
+      },
+      {
+        "label": "Prix Technology Impact",
+        "url": "https://www.cancerresearch.org/technology-impact-award"
+      },
+      {
+        "label": "Clinical Innovator",
+        "url": "https://www.cancerresearch.org/clinical-innovator"
+      },
+      {
+        "label": "Bourse Impact",
+        "url": "https://www.cancerresearch.org/cri-impact-grant"
+      },
+      {
+        "label": "Scientifiques financés par le CRI",
+        "url": "https://www.cancerresearch.org/cri-funded-scientists"
+      },
+      {
+        "label": "Prix et distinctions du CRI",
+        "url": "https://www.cancerresearch.org/awards-honors"
+      }
+    ],
+    "mots_cles": [
+      "bourse cancer",
+      "immunothérapie",
+      "recherche cancer",
+      "bourse postdoctorale",
+      "financement recherche",
+      "CRI",
+      "bourse internationale",
+      "oncologie"
+    ],
+    "lien_candidature": "https://www.cancerresearch.org/apply-for-grants",
+    "source_url": "https://www.cancerresearch.org/apply-for-grants?fbclid=IwY2xjawVl6wNleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfZ0JPGkO5rWcU_8A7_ghlpX972hdpvKyNinKVrY5nbkZbGGbU7tYhpj_OfQM_aem_3CgZPeBsPZgU0b1RcwbRwQ",
+    "statut": "fermé",
+    "resume": "Le Cancer Research Institute (CRI) propose plusieurs programmes de financement pour la recherche en immunothérapie du cancer, destinés aux scientifiques à différents stades de leur carrière. Les bourses couvrent des domaines allant de la recherche fondamentale à la recherche translationnelle et clinique, avec des financements allant de 243 000 $ à 1,25 million de dollars. Les candidatures sont acceptées selon des dates limites spécifiques à chaque programme, principalement en 2026 et 2027. Ces opportunités offrent un soutien financier substantiel, du mentorat et des ressources pour faire avancer la recherche et accélérer le développement de thérapies immunitaires.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:34:23",
+    "slug": "bourses-cri-cancer-immunotherapie-2026"
   },
   {
     "titre": "Fonds de Recherche Cambridge-Afrique ALBORADA 2026",
@@ -37903,6 +40162,128 @@
     "slug": "bourse-sir-paul-callaghan-master-physique-2026"
   },
   {
+    "titre": "Bourse d'études MPA en Gestion de la Politique Économique - Columbia SIPA",
+    "seo_slug": "bourse-mpa-columbia-2027",
+    "organisation": "Columbia University - School of International and Public Affairs (SIPA)",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-01",
+    "deadline_texte": "1er novembre 2026 (date limite prioritaire pour les candidatures aux bourses et pour les candidats JJ/WBGSP)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Économie",
+      "Finance",
+      "Politique économique",
+      "Gestion",
+      "Développement international"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Diplôme de premier cycle avec un excellent dossier académique",
+      "Preuve d'expérience professionnelle pertinente en élaboration de politiques économiques",
+      "Au moins deux ans d'expérience professionnelle (de préférence)",
+      "CV",
+      "Lettre de motivation",
+      "Lettres de recommandation",
+      "Scores de tests standardisés (GRE/GMAT, TOEFL/IELTS) selon les exigences générales de SIPA"
+    ],
+    "avantages": [
+      "Frais de scolarité pris en charge",
+      "Indemnité de subsistance mensuelle",
+      "Billet d'avion aller-retour",
+      "Assurance santé",
+      "Allocation de voyage"
+    ],
+    "eligibilite": [
+      "Expérience professionnelle significative en élaboration de politiques économiques, de préférence dans une agence publique ou une organisation non gouvernementale",
+      "Au moins deux ans d'expérience professionnelle (de préférence)",
+      "Diplôme de premier cycle avec un record de réussite académique supérieure, de préférence avec un contenu solide en économie",
+      "Maîtrise de l'anglais",
+      "Répondre aux exigences générales d'admission de SIPA"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les exigences d'admission générales de SIPA et les exigences spécifiques du programme MPA-EPM",
+      "2. Préparer les documents requis (diplômes, relevés de notes, CV, lettres de recommandation, scores de tests, etc.)",
+      "3. Soumettre la candidature en ligne via le portail d'admission de SIPA avant la date limite (1er novembre 2026 pour les bourses prioritaires et JJ/WBGSP)",
+      "4. Pour les candidats internationaux, soumettre avant le 20 décembre 2026 pour permettre le traitement du visa",
+      "5. Date limite finale pour tous les candidats : 15 janvier 2027",
+      "6. Les candidats au JJ/WBGSP doivent également postuler séparément au programme de bourses de la Banque mondiale"
+    ],
+    "contacts": [
+      "+1 212-854-6982"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://apply.sipa.columbia.edu/apply/"
+      },
+      {
+        "label": "Programme de bourses JJ/WBGSP",
+        "url": "https://www.worldbank.org/en/programs/scholarships/jj-wbgsp"
+      },
+      {
+        "label": "Curriculum MPA-EPM",
+        "url": "/sipa-education/bulletin/MPA-EPM"
+      },
+      {
+        "label": "Frais de scolarité et dépenses",
+        "url": "/office-financial-aid/tuition-and-fees"
+      },
+      {
+        "label": "Newsletter Automne 2025 - Hiver 2026 (PDF)",
+        "url": "/sites/default/files/2026-02/MPA-EPM_Newsletter_Fall25_Winter26.pdf"
+      },
+      {
+        "label": "Exigences d'admission générales de SIPA",
+        "url": "/admissions/apply"
+      },
+      {
+        "label": "Dates limites de candidature",
+        "url": "/admissions/applying-sipa/application-deadlines"
+      },
+      {
+        "label": "FAQ MPA-EPM",
+        "url": "/sipa-education/masters-programs/mpa-economic-policy-management/frequently-asked-questions"
+      },
+      {
+        "label": "Demande d'information",
+        "url": "https://apply.sipa.columbia.edu/register/inquire"
+      },
+      {
+        "label": "Bulletin SIPA (détails du programme)",
+        "url": "http://bulletin.columbia.edu/sipa/programs/pepm"
+      }
+    ],
+    "mots_cles": [
+      "bourse MPA Columbia",
+      "bourse politique économique",
+      "bourse SIPA",
+      "bourse JJ/WBGSP",
+      "bourse master économie",
+      "bourse études supérieures",
+      "bourse internationale",
+      "bourse Columbia University",
+      "bourse gestion politique économique",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://apply.sipa.columbia.edu/apply/",
+    "source_url": "https://www.sipa.columbia.edu/sipa-education/masters-programs/mpa-economic-policy-management?utm_source=google&utm_medium=search&utm_campaign=PEPM_google_search&gclid=CjwKCAjwxuuCBhATEiwAIIIz0UocpuMVjFQiSJz3BOqBaamjwvibefdi-DP4e60aEa8lL8vqnvmoLRoC5fIQAvD_BwE",
+    "statut": "fermé",
+    "resume": "Le MPA en Gestion de la Politique Économique de Columbia SIPA est un programme d'un an désigné STEM qui forme des professionnels de haut niveau en économie, finance et politiques publiques. Les étudiants acquièrent des compétences analytiques rigoureuses et une expertise pratique à travers trois spécialisations : Gestion de la Politique Économique, Climat, Énergie et Environnement, et Banque Centrale et Marchés Financiers. Le programme offre des opportunités de bourses complètes via le programme JJ/WBGSP de la Banque mondiale, couvrant les frais de scolarité, une indemnité mensuelle, le billet d'avion, l'assurance santé et une allocation de voyage. Les candidatures sont ouvertes avec une date limite prioritaire pour les bourses au 1er novembre 2026.",
+    "imageUrl": "/docs/mpa-en-gestion-des-politiques-conomiques.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-13T16:07:39",
+    "slug": "bourse-mpa-columbia-2027"
+  },
+  {
     "titre": "Bourse internationale de premier cycle du vice-chancelier de l'UTS",
     "seo_slug": "bourse-uts-vice-chancelier-premier-cycle-2027",
     "organisation": "University of Technology Sydney (UTS)",
@@ -38522,6 +40903,83 @@
     "imageUrl": "/docs/International-Postdoctoral-Fellowship-1500x630.webp",
     "extrait_le": "2026-10-13T00:49:00",
     "slug": "bourse-azrieli-postdoctorat-israel-2027"
+  },
+  {
+    "titre": "Bourse ALCHE - African Leadership College of Higher Education",
+    "seo_slug": "bourse-alche-maurice-2027",
+    "organisation": "African Leadership College of Higher Education (ALCHE)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2026-11-14",
+    "deadline_texte": "14 novembre 2026 pour les étudiants internationaux, 23 janvier 2027 pour les étudiants mauriciens",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Non spécifié"
+    ],
+    "pays_eligibles": [
+      "International",
+      "Maurice"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Relevés de notes des examens nationaux",
+      "Relevés de notes du secondaire",
+      "Preuve de maîtrise de l'anglais",
+      "Documents d'identification",
+      "Passeport valide (pour les étudiants internationaux)"
+    ],
+    "avantages": [],
+    "eligibilite": [
+      "Répondre aux critères d'éligibilité d'ALCHE",
+      "Étudiants internationaux : visa étudiant requis"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité",
+      "2. Fournir des informations personnelles et contextuelles",
+      "3. Soumettre l'historique académique (programmes souhaités, langue d'enseignement, notes)",
+      "4. Télécharger les documents requis",
+      "5. Attendre la décision d'admission (2 à 4 semaines)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://alueducation.formtitan.com/ftproject/alche_apply/register"
+      },
+      {
+        "label": "Programmes de diplôme ALCHE",
+        "url": "https://alcheducation.com/"
+      },
+      {
+        "label": "Frais de scolarité pour les étudiants mauriciens",
+        "url": "https://drive.google.com/file/d/19Rf9Xvg0iYkavvlewx406e6B6fRu108W/view"
+      },
+      {
+        "label": "Frais de scolarité pour les étudiants internationaux",
+        "url": "https://drive.google.com/file/d/1H-mMg85HT1YLToz6eAoPSQeBVbvGpxOQ/view"
+      }
+    ],
+    "mots_cles": [
+      "bourse ALCHE",
+      "bourse Maurice",
+      "bourse licence",
+      "bourse études Afrique",
+      "bourse 2027",
+      "African Leadership College",
+      "bourse internationale",
+      "candidature ALCHE"
+    ],
+    "lien_candidature": "https://alueducation.formtitan.com/ftproject/alche_apply/register",
+    "source_url": "https://alcheducation.com/apply-now/?fbclid=IwY2xjawUeztRwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMWdkR2cyWGhxZGpoMnBWSFVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeGmM9QTPIn9aXc72td1ClQvNIkskfrNgSZwEsv99f-CX55iJgKfkBGtlbQ3Y_aem_4j5b4V9rwirchRNAkMyybg",
+    "statut": "fermé",
+    "resume": "ALCHE (African Leadership College of Higher Education) ouvre ses candidatures pour la prochaine rentrée en février 2027. Les étudiants internationaux ont jusqu'au 14 novembre 2026 pour postuler, tandis que les étudiants mauriciens ont jusqu'au 23 janvier 2027. Le processus de candidature en 5 étapes permet de soumettre son dossier en ligne. Rejoignez une communauté de leaders créatifs et façonnez votre avenir dès aujourd'hui.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-22T03:03:12",
+    "slug": "bourse-alche-maurice-2027"
   },
   {
     "titre": "Bourse Rhodes 2027 pour les candidats internationaux (hors pays spécifiques)",

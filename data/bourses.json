@@ -21718,6 +21718,104 @@
     "slug": "hzdr-summer-student-program-2027"
   },
   {
+    "titre": "Bourse de recherche pour étudiants diplômés en télédétection de la forêt boréale (PhD et MSc) - University of Calgary",
+    "seo_slug": "bourse-recherche-teledetection-foret-boreale-calgary-2027",
+    "organisation": "University of Calgary - Applied Geospatial Research Group",
+    "montant": 33000,
+    "devise": "CAD",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Date non spécifiée (l'examen des candidatures commence à une date non précisée et se poursuit jusqu'à ce que les postes soient pourvus)",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Géographie",
+      "Science environnementale",
+      "Écologie",
+      "Télédétection",
+      "SIG",
+      "Programmation"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (compétence non explicitement requise mais les études se déroulent en anglais)",
+    "documents_requis": [
+      "CV",
+      "Relevés de notes",
+      "Noms de références"
+    ],
+    "avantages": [
+      "Bourse annuelle de 33 000 $ pour le PhD pendant quatre ans",
+      "Bourse annuelle de 28 000 $ pour le MSc pendant deux ans",
+      "Travail de terrain dans les forêts boréales et tourbières du nord-est de l'Alberta",
+      "Formation au pilotage de drones (certificat avancé)",
+      "Participation à des campagnes de drones",
+      "Travail avec de grands ensembles de données spatiales",
+      "Préparation au travail de terrain lors du retraite annuel de printemps de BERA",
+      "Possibilité de séjour en camps industriels",
+      "Horaires de terrain flexibles pour les étudiants ayant des responsabilités de soins",
+      "Hébergement sur demande"
+    ],
+    "eligibilite": [
+      "Diplôme en géographie, science environnementale, écologie ou domaine connexe",
+      "Les candidats d'autres domaines sont considérés s'ils ont une expérience en écologie ou sur le terrain",
+      "Expérience ou fort intérêt pour la télédétection, les SIG et la programmation en Python ou R",
+      "Preuve de capacité à travailler dur dans des conditions exigeantes (tout type d'expérience professionnelle, pas seulement académique)",
+      "Fort dossier académique",
+      "Pour le PhD : être titulaire ou en voie d'obtenir un master avec mémoire"
+    ],
+    "procedure_etapes": [
+      "1. Remplir le formulaire de candidature en ligne du Applied Geospatial Research Group",
+      "2. Ne pas envoyer de documents par email",
+      "3. Les candidats présélectionnés seront invités à fournir un CV, des relevés de notes et les noms de références",
+      "4. L'examen des candidatures commence à une date non précisée et se poursuit jusqu'à ce que les postes soient pourvus"
+    ],
+    "contacts": [
+      "mcdermid@ucalgary.ca"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://forms.cloud.microsoft/r/eFuN8WK7yk"
+      },
+      {
+        "label": "Calculateur du coût de la vie de la Graduate Students’ Association",
+        "url": "https://gsa.ucalgary.ca/costoflivingcalculator/"
+      },
+      {
+        "label": "Estimateur des coûts étudiants de l'UCalgary",
+        "url": "https://www.ucalgary.ca/registrar/finances/understanding-your-fees/undergraduate-student-cost-estimator"
+      },
+      {
+        "label": "Frais de scolarité et frais pour les étudiants diplômés",
+        "url": "https://calendar.ucalgary.ca/pages/bdf3d650a14247e4912def1671b7ba09"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat Canada",
+      "bourse master télédétection",
+      "bourse forêt boréale",
+      "University of Calgary bourse",
+      "bourse recherche géospatiale",
+      "financement PhD Canada",
+      "bourse MSc écologie",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://forms.cloud.microsoft/r/eFuN8WK7yk",
+    "source_url": "http://beraproject.org/prospective-students?fbclid=IwY2xjawVoDhVleHRuA2FlbQIxMABwZG9mAWJyaWQRMU53MUU5cGFuOHIwUlpJMjBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfk2YiZ4_6NQvViXruqmiAxiodzq7uXgj_sOFQPMX9-GFQh15lDTpDDeYkIhE_aem_8fJ1lTJf1x7EUbycxDpL_A",
+    "statut": "ouvert",
+    "resume": "L'Université de Calgary, au sein du Applied Geospatial Research Group du Département de Géographie, recrute un étudiant au doctorat et un étudiant à la maîtrise pour des projets de recherche en télédétection de la récupération des forêts boréales, avec un début en septembre 2027. Les projets portent sur l'évaluation de la récupération de la végétation sur les lignes sismiques et autres perturbations industrielles à l'aide de drones et de données LiDAR, ainsi que sur la cartographie de la microtopographie dans les tourbières. Les étudiants sélectionnés bénéficieront d'une bourse annuelle de 33 000 $ (PhD, 4 ans) ou 28 000 $ (MSc, 2 ans) et participeront à des travaux de terrain dans les forêts boréales et tourbières du nord-est de l'Alberta. Les candidatures sont évaluées selon des critères académiques, d'expérience et de recherche, et les candidats de tous horizons sont encouragés à postuler, en particulier les étudiants autochtones, ruraux et de première génération.",
+    "imageUrl": "/docs/postes-de-doctorat-et-de-ma-trise-en-t-l-d-tection-de-la-restauration-de-la-for-t-bor-ale-universit-de-calgary.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-16T18:02:31",
+    "slug": "bourse-recherche-teledetection-foret-boreale-calgary-2027"
+  },
+  {
     "titre": "Master Européen en Linguistique Clinique (EMCL)",
     "seo_slug": "bourse-emcl-master-linguistique-clinique-2027",
     "organisation": "Erasmus Mundus Joint Master Degree (EMJMD) - Universités de Finlande orientale, Gand et Groningue",

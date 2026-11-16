@@ -1,386 +1,5 @@
 [
   {
-    "titre": "Bourse de recherche pour doctorants en géochimie de l'IAGC (sponsorisée par Elsevier)",
-    "seo_slug": "bourse-iagc-doctorat-geochimie-2027",
-    "organisation": "International Association of GeoChemistry (IAGC)",
-    "montant": 2300,
-    "devise": "USD",
-    "type_financement": "bourse partielle",
-    "deadline": "2026-11-15",
-    "deadline_texte": "15 novembre 2026",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Géochimie"
-    ],
-    "pays_eligibles": [
-      "Tous les pays sauf Russie, Iran, Irak, Cuba"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature (IAGC_Student_Research_Grant_Application_2027.doc)"
-    ],
-    "avantages": [
-      "Subvention jusqu'à 2300 USD pour les analyses géochimiques",
-      "Article de profil dans le magazine Elements et la newsletter de l'IAGC",
-      "Adhésion gratuite d'un an à l'IAGC pour l'année suivant la réception du prix"
-    ],
-    "eligibilite": [
-      "Être inscrit dans un programme de doctorat reconnu dans une institution délivrant des diplômes de doctorat, dans n'importe quel pays",
-      "Mener des recherches dans un domaine de la géochimie",
-      "Ne pas travailler dans les pays suivants : Russie, Iran, Irak, Cuba (en raison de restrictions bancaires)"
-    ],
-    "procedure_etapes": [
-      "Télécharger le formulaire de candidature à l'adresse : /resources/SRGs/IAGC_Student_Research_Grant_Application_2027.doc",
-      "Suivre les instructions du formulaire",
-      "Soumettre la candidature avant le 15 novembre 2026",
-      "Les décisions seront annoncées le 1er mai 2027"
-    ],
-    "contacts": [
-      "businessoffice@iagc-society.org"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://www.iagc-society.org/resources/SRGs/IAGC_Student_Research_Grant_Application_2027.doc"
-      },
-      {
-        "label": "Site officiel de l'IAGC",
-        "url": "https://www.iagc-society.org/"
-      },
-      {
-        "label": "Page des bourses étudiantes",
-        "url": "https://www.iagc-society.org/Student-Grants"
-      },
-      {
-        "label": "Site d'Elsevier",
-        "url": "http://www.elsevier.com/"
-      },
-      {
-        "label": "Journal Applied Geochemistry",
-        "url": "https://www.journals.elsevier.com/applied-geochemistry"
-      },
-      {
-        "label": "Magazine Elements",
-        "url": "http://elementsmagazine.org/"
-      },
-      {
-        "label": "Newsletters de l'IAGC",
-        "url": "http://www.iagc-society.org/newsletters.html"
-      }
-    ],
-    "mots_cles": [
-      "bourse doctorat géochimie",
-      "bourse IAGC",
-      "bourse Elsevier",
-      "financement thèse géochimie",
-      "bourse recherche géochimie",
-      "bourse internationale doctorat",
-      "subvention analyse géochimique",
-      "bourse 2027"
-    ],
-    "lien_candidature": "https://www.iagc-society.org/Student-Grants",
-    "source_url": "https://www.iagc-society.org/Student-Grants?fbclid=IwY2xjawUmghlleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEedSSh3mO9sdO9wv-tqMqTd9UDgiApNFhUqycrYhQ-wjKsxIo8PZLJjOmeV5M_aem_3hADZ9phFwuqGnGc0ZSxXQ",
-    "statut": "ouvert",
-    "resume": "L'International Association of GeoChemistry (IAGC), avec le soutien d'Elsevier, propose des bourses de recherche pouvant atteindre 2 300 USD pour les doctorants en géochimie. Ces subventions visent à financer les analyses géochimiques essentielles à leurs travaux de thèse. Les lauréats bénéficient également d'une visibilité dans le magazine Elements et la newsletter de l'IAGC, ainsi que d'une adhésion gratuite d'un an. Les candidatures pour l'édition 2027 sont ouvertes jusqu'au 15 novembre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-27T23:13:50",
-    "slug": "bourse-iagc-doctorat-geochimie-2027"
-  },
-  {
-    "titre": "Programme international des boursiers de l'Université de la Colombie-Britannique (UBC) 2027",
-    "seo_slug": "bourse-ubc-international-scholars-2027",
-    "organisation": "The University of British Columbia (UBC)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-11-15",
-    "deadline_texte": "15 novembre 2026 à 23h59 (heure du Pacifique, PST)",
-    "niveau_etudes": [
-      "Licence"
-    ],
-    "domaines": [],
-    "pays_eligibles": [
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature",
-      "Formulaire de nomination",
-      "Formulaire de recommandation d'un enseignant"
-    ],
-    "avantages": [
-      "Soutien financier significatif pour couvrir les frais de scolarité et les frais de subsistance"
-    ],
-    "eligibilite": [
-      "Être un étudiant international",
-      "Avoir démontré des qualités de leadership",
-      "Avoir apporté des contributions exceptionnelles à sa communauté",
-      "Avoir de solides performances académiques",
-      "Avoir besoin d'un soutien financier significatif pour étudier à UBC"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier l'éligibilité et les étapes de candidature sur le site du programme.",
-      "2. Initier la demande de bourse.",
-      "3. Demander une nomination à son établissement.",
-      "4. Demander une recommandation à un enseignant.",
-      "5. Rassembler les informations requises.",
-      "6. S'assurer que le fuseau horaire de l'application est réglé sur l'heure du Pacifique (PCT).",
-      "7. Inviter le nominateur et l'enseignant référent à remplir leurs formulaires via les tâches (Nomination form, Request a Recommendation).",
-      "8. Remplir le formulaire de candidature (Application form) dans les tâches.",
-      "9. Soumettre la candidature complète avant la date limite."
-    ],
-    "contacts": [
-      "international.awards@ubc.ca"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel du programme",
-        "url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/"
-      },
-      {
-        "label": "Formulaire de candidature",
-        "url": "https://undergraduatescholarships.ubc.ca/prog/294977/apply/?next=/prog/2027_international_scholars_program_application/"
-      },
-      {
-        "label": "Assistance technique (Survey Monkey Apply)",
-        "url": "https://undergraduatescholarships.ubc.ca/helpdesk/"
-      }
-    ],
-    "mots_cles": [
-      "bourse UBC",
-      "bourse internationale",
-      "bourse licence Canada",
-      "bourse études Canada",
-      "programme international boursiers UBC",
-      "bourse 2027",
-      "bourse étudiants internationaux",
-      "bourse leadership",
-      "bourse Colombie-Britannique"
-    ],
-    "lien_candidature": "https://undergraduatescholarships.ubc.ca/prog/294977/apply/?next=/prog/2027_international_scholars_program_application/",
-    "source_url": "https://undergraduatescholarships.ubc.ca/prog/2027_international_scholars_program_application/?fbclid=IwY2xjawU7uHNleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe7CdG1J7mKHsAL3f-THa6a94hzrZ35q1gtwMW-zRVLJ1NkyaQj-gzSI6eD3M_aem_VsVPcCeRlrZfjFlf-NmWAw",
-    "statut": "ouvert",
-    "resume": "Le Programme international des boursiers de l'UBC offre un soutien financier significatif aux étudiants internationaux exceptionnels qui font preuve de leadership, s'engagent dans leur communauté et obtiennent d'excellents résultats académiques. Les candidats doivent être nommés par leur établissement et fournir une recommandation d'un enseignant. La date limite de candidature est le 15 novembre 2026 à 23h59 (heure du Pacifique). Pour plus d'informations, consultez le site officiel du programme.",
-    "imageUrl": null,
-    "extrait_le": "2026-10-14T03:23:36",
-    "slug": "bourse-ubc-international-scholars-2027"
-  },
-  {
-    "titre": "Bourses d'études pour les programmes MS et PhD à la COMSATS University Islamabad (CUI)",
-    "seo_slug": "bourse-comsats-ms-phd-pakistan-2027",
-    "organisation": "COMSATS University Islamabad (CUI)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse partielle ou complète (non spécifié)",
-    "deadline": "2026-11-15",
-    "deadline_texte": "15 novembre 2026",
-    "niveau_etudes": [
-      "Master",
-      "Doctorat"
-    ],
-    "domaines": [
-      "Non spécifié"
-    ],
-    "pays_eligibles": [
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Non spécifié",
-    "documents_requis": [
-      "Non spécifié"
-    ],
-    "avantages": [
-      "Non spécifié"
-    ],
-    "eligibilite": [
-      "Non spécifié"
-    ],
-    "procedure_etapes": [
-      "1. Consulter la page des bourses pour les programmes MS et PhD",
-      "2. Vérifier les critères d'éligibilité pour le programme choisi",
-      "3. Remplir le formulaire de candidature en ligne pour l'admission Spring 2027",
-      "4. Soumettre la candidature avant la date limite du 15 novembre 2026"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Page des bourses pour étudiants internationaux",
-        "url": "http://ww2.comsats.edu.pk/internationaloffice/international-students-scholarships.aspx"
-      },
-      {
-        "label": "Détails des programmes de premier cycle",
-        "url": "https://internationaladmissions.comsats.edu.pk/Home/ProgramDetails#panel-undergrad"
-      },
-      {
-        "label": "Critères d'éligibilité pour le premier cycle",
-        "url": "https://internationaladmissions.comsats.edu.pk/Home/EligibilityCriteria?pt=BS"
-      },
-      {
-        "label": "Détails des programmes de cycles supérieurs",
-        "url": "https://internationaladmissions.comsats.edu.pk/Home/ProgramDetails#panel-grad"
-      },
-      {
-        "label": "Critères d'éligibilité pour les cycles supérieurs",
-        "url": "https://internationaladmissions.comsats.edu.pk/Home/EligibilityCriteria?pt=MS"
-      },
-      {
-        "label": "Détails des programmes de doctorat",
-        "url": "https://internationaladmissions.comsats.edu.pk/Home/ProgramDetails#panel-phd"
-      },
-      {
-        "label": "Critères d'éligibilité pour le doctorat",
-        "url": "https://internationaladmissions.comsats.edu.pk/Home/EligibilityCriteria?pt=PHD"
-      },
-      {
-        "label": "Tous les programmes",
-        "url": "https://internationaladmissions.comsats.edu.pk/Home/ProgramDetails#panel-undergrad"
-      },
-      {
-        "label": "Étudiants internationaux",
-        "url": "http://ww3.comsats.edu.pk/internationalstudents/"
-      },
-      {
-        "label": "Classements internationaux",
-        "url": "https://www.timeshighereducation.com/world-university-rankings/2019/world-ranking#!/page/0/length/-1/sort_by/rank/sort_order/asc/cols/stats"
-      }
-    ],
-    "mots_cles": [
-      "bourse Pakistan",
-      "COMSATS University Islamabad",
-      "bourse MS",
-      "bourse PhD",
-      "études au Pakistan",
-      "bourse internationale",
-      "admission Spring 2027"
-    ],
-    "lien_candidature": "http://ww2.comsats.edu.pk/internationaloffice/international-students-scholarships.aspx",
-    "source_url": "https://internationaladmissions.comsats.edu.pk/",
-    "statut": "ouvert",
-    "resume": "La COMSATS University Islamabad (CUI) offre des bourses d'études pour les programmes de MS et PhD aux étudiants internationaux. Les candidatures pour l'admission au semestre de printemps 2027 sont ouvertes du 4 septembre 2026 au 15 novembre 2026. Les bourses sont détaillées sur la page dédiée aux bourses pour étudiants internationaux. Les cours débutent en février 2027. Pour plus d'informations sur les programmes et les critères d'éligibilité, consultez les liens fournis.",
-    "imageUrl": null,
-    "extrait_le": "2026-10-26T15:02:02",
-    "slug": "bourse-comsats-ms-phd-pakistan-2027"
-  },
-  {
-    "titre": "Programme de doctorat de l'OIST",
-    "seo_slug": "bourse-doctorat-oist-japon-2027",
-    "organisation": "Okinawa Institute of Science and Technology Graduate University (OIST)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "non spécifié",
-    "deadline": "2026-11-15",
-    "deadline_texte": "15 novembre 2026 à 23h59 (JST UTC+9)",
-    "niveau_etudes": [
-      "Doctorat"
-    ],
-    "domaines": [
-      "Sciences",
-      "Ingénierie",
-      "Sciences de la vie",
-      "Sciences physiques",
-      "Sciences de l'environnement",
-      "Informatique",
-      "Mathématiques",
-      "Neurosciences",
-      "Chimie",
-      "Physique",
-      "Biologie"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Relevés de notes et diplômes (licence, master, etc.) en PDF",
-      "Relevé de notes non officiel accepté",
-      "Explication en anglais pour les relevés non rédigés en anglais",
-      "Certificat de scolarité si non diplômé (avec date de fin d'études prévue)",
-      "Déclaration d'intention (Statement of Purpose) de 800 mots maximum (3000 caractères)",
-      "Curriculum Vitae (CV)",
-      "2 à 5 lettres de recommandation en anglais de professeurs",
-      "Score TOEFL iBT ou IELTS de moins de 2 ans (si la langue d'enseignement n'est pas l'anglais)",
-      "Passeport (numéro et copie de la page photo) ou autre pièce d'identité officielle",
-      "Photo d'identité récente (moins de 3 mois)",
-      "Documents optionnels : scores GRE, titres et résumés de publications, présentations orales, autres preuves de réussite"
-    ],
-    "avantages": [
-      "Formation de haut niveau avec un faible ratio étudiants/enseignants",
-      "Participation à un atelier d'admission en ligne",
-      "Processus d'admission sans examen écrit",
-      "Environnement inclusif et diversifié",
-      "Possibilité de bourse (non spécifiée dans le texte)"
-    ],
-    "eligibilite": [
-      "Être titulaire d'une licence, d'un master ou d'un diplôme équivalent avant la date d'admission",
-      "Les candidats peuvent postuler avant l'obtention du diplôme mais doivent le terminer avant l'admission",
-      "Participation obligatoire à l'atelier d'admission (en ligne)",
-      "Les candidatures de femmes et de groupes sous-représentés sont fortement encouragées",
-      "Aucune discrimination fondée sur le genre, l'âge, l'orientation sexuelle, le handicap, la race, l'origine ethnique, la religion, etc."
-    ],
-    "procedure_etapes": [
-      "1. Vérifier la liste des professeurs et unités de recherche pour trouver un domaine correspondant à vos intérêts",
-      "2. Vérifier la disponibilité des professeurs pour encadrer des doctorants",
-      "3. Lire la FAQ pour éviter les erreurs critiques",
-      "4. Créer un compte sur le site de candidature",
-      "5. Préparer tous les documents requis en anglais et les sauvegarder au format PDF",
-      "6. Téléverser les documents sur le site de candidature",
-      "7. Payer les frais de candidature de 5 000 JPY (non remboursables)",
-      "8. Soumettre la candidature avant la date limite",
-      "9. Participer à l'atelier d'admission (en ligne) si présélectionné"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Site de candidature",
-        "url": "https://graduateschool.oist.jp/apply/"
-      },
-      {
-        "label": "Politiques de l'école doctorale",
-        "url": "https://www.oist.jp/education/policies-regulations/three-policies"
-      },
-      {
-        "label": "Liste des professeurs et unités de recherche",
-        "url": "https://www.oist.jp/research/faculty-members"
-      },
-      {
-        "label": "Disponibilité des professeurs pour l'encadrement",
-        "url": "https://www.oist.jp/admissions/phd-program/phd-supervision-availability"
-      },
-      {
-        "label": "FAQ",
-        "url": "https://www.oist.jp/admissions/faq"
-      },
-      {
-        "label": "Page de contact",
-        "url": "https://www.oist.jp/admissions/contact-admissions"
-      }
-    ],
-    "mots_cles": [
-      "bourse doctorat Japon",
-      "OIST PhD program",
-      "bourse OIST",
-      "doctorat Japon",
-      "bourse recherche Japon",
-      "OIST graduate school",
-      "bourse sciences Japon",
-      "PhD OIST",
-      "bourse internationale Japon",
-      "études doctorales Japon"
-    ],
-    "lien_candidature": "https://graduateschool.oist.jp/apply/",
-    "source_url": "https://www.oist.jp/admissions/phd-program/apply-phd?fbclid=IwY2xjawVe1GlleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfSdNXh9kuqfnO8YUNawWUbrvaprpIMUMr12U2YLXYK-C8VaQKDykq-H-5gw4_aem_jsYV58rIM_j9ryIGdB4H1A",
-    "statut": "ouvert",
-    "resume": "L'OIST Graduate School au Japon propose un programme de doctorat de haut niveau, avec environ 60 étudiants admis chaque année pour garantir un encadrement personnalisé. Les candidats doivent être titulaires d'une licence ou d'un master avant l'admission et soumettre un dossier complet en anglais, incluant relevés de notes, déclaration d'intention, CV, lettres de recommandation et preuve de maîtrise de l'anglais. La sélection se fait sur dossier et via un atelier d'admission en ligne, sans examen écrit. Les frais de candidature sont de 5 000 JPY, et la date limite pour la session 2027 est fixée au 15 novembre 2026.",
-    "imageUrl": null,
-    "extrait_le": "2026-11-09T17:31:41",
-    "slug": "bourse-doctorat-oist-japon-2027"
-  },
-  {
     "titre": "Bourse postdoctorale junior FWO",
     "seo_slug": "bourse-postdoctorale-junior-fwo-2027",
     "organisation": "FWO (Fonds voor Wetenschappelijk Onderzoek - Vlaanderen)",
@@ -1396,6 +1015,85 @@
     "imageUrl": null,
     "extrait_le": "2026-11-09T16:49:38",
     "slug": "bourse-ubc-international-2027"
+  },
+  {
+    "titre": "Stage d'hiver au Japon - Pratique d'enseignement TEFL",
+    "seo_slug": "stage-tefl-japon-hiver-2027",
+    "organisation": "GHJ International",
+    "montant": null,
+    "devise": null,
+    "type_financement": "programme sans frais",
+    "deadline": "2026-11-29",
+    "deadline_texte": "29 novembre 2026",
+    "niveau_etudes": [
+      "Licence",
+      "Diplômé"
+    ],
+    "domaines": [
+      "Enseignement",
+      "Langues"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais courant",
+    "documents_requis": [
+      "Formulaire de candidature"
+    ],
+    "avantages": [
+      "Aucun frais de programme",
+      "Certificat TEFL",
+      "Expérience d'enseignement",
+      "Expérience de la culture japonaise",
+      "Opportunité de découvrir la vie d'enseignant au Japon"
+    ],
+    "eligibilite": [
+      "Avoir au moins 18 ans au 1er septembre 2026",
+      "Étudiant actuel ou diplômé (certaines exceptions possibles, nous contacter)",
+      "Maîtrise de l'anglais",
+      "Expérience et/ou fort désir de travailler avec des enfants (avantage)",
+      "Fort intérêt pour la culture japonaise (avantage)",
+      "Intérêt pour devenir enseignant, particulièrement pour enseigner l'anglais au Japon (avantage)"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le site officiel pour plus d'informations et les formulaires de candidature",
+      "2. Remplir le formulaire de candidature",
+      "3. Postuler via le lien Handshake"
+    ],
+    "contacts": [
+      "developpementdecarriere@soka.edu",
+      "careerdevelopment@soka.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://www.ghjinternational.com/tefl-winter-2027"
+      },
+      {
+        "label": "Formulaire de candidature (Handshake)",
+        "url": "https://soka.joinhandshake.com/jobs/11827033"
+      }
+    ],
+    "mots_cles": [
+      "stage Japon",
+      "TEFL",
+      "enseignement anglais",
+      "bourse Japon",
+      "stage hiver Japon",
+      "certificat TEFL",
+      "GHJ International"
+    ],
+    "lien_candidature": "https://soka.joinhandshake.com/jobs/11827033",
+    "source_url": "https://career.soka.edu/jobs/ghj-international-winter-term-internship-in-japan-tefl-teaching-practicum/",
+    "statut": "ouvert",
+    "resume": "GHJ International propose un stage d'hiver au Japon du 13 janvier au 6 mars 2027, offrant une expérience pratique en enseignement de l'anglais (TEFL) dans la préfecture de Fukuoka. Les participants acquièrent une expérience précieuse et obtiennent un certificat TEFL, sans frais de programme, mais doivent prendre en charge leur billet d'avion. Ouvert aux étudiants et diplômés de tous pays, âgés d'au moins 18 ans, avec une maîtrise de l'anglais. Une occasion unique de découvrir la culture japonaise et de se préparer à une carrière d'enseignant.",
+    "adresse": "Ikeda - 3e étage, Affaires étudiantes 1 University Drive Aliso Viejo, CA 92656",
+    "imageUrl": "/docs/ghj--stage-pratique-d-enseignement-de-l-anglais.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-16T12:07:36",
+    "slug": "stage-tefl-japon-hiver-2027"
   },
   {
     "titre": "Bourse d'excellence et programme d'opportunités (ESOP) de l'ETH Zurich",
@@ -7063,6 +6761,100 @@
     "imageUrl": "/docs/Master-of-Science-in-Public-Policy-and-Human-Development.png",
     "extrait_le": "2026-11-12T23:48:45",
     "slug": "bourse-doctorat-innovation-gouvernance-unu-merit-2027"
+  },
+  {
+    "titre": "Programme de gestion mondiale 2027 de Fast Retailing",
+    "seo_slug": "bourse-fast-retailing-gmp-2027",
+    "organisation": "Fast Retailing Co., Ltd.",
+    "montant": null,
+    "devise": null,
+    "type_financement": "programme intensif avec prise en charge des frais",
+    "deadline": "2027-02-28",
+    "deadline_texte": "28 février 2027 à 9h00 (UTC/GMT+9)",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Commerce",
+      "Gestion",
+      "Mode",
+      "Business"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Candidature en ligne",
+      "CV",
+      "Réponses aux questions"
+    ],
+    "avantages": [
+      "Transport aller-retour au Japon pris en charge",
+      "Frais d'hôtel couverts",
+      "Assurance pendant la durée du programme",
+      "Soutien pour l'obtention du visa",
+      "Sessions avec des dirigeants mondiaux",
+      "Visite de magasin",
+      "Recherche",
+      "Présentation au conseil d'administration",
+      "Activités d'engagement",
+      "Mentorat par des leaders mondiaux",
+      "Opportunité d'être considéré pour un recrutement futur",
+      "Session d'orientation en ligne avant le début du programme"
+    ],
+    "eligibilite": [
+      "Étudiants en licence ou en master du monde entier",
+      "Aspirer à devenir des leaders mondiaux",
+      "Posséder des compétences en leadership et en travail d'équipe",
+      "Être disposé à travailler dans un environnement multiculturel",
+      "Être disponible pour participer au programme de 6 jours à Tokyo"
+    ],
+    "procedure_etapes": [
+      "1. Candidature en ligne",
+      "2. Évaluation en ligne",
+      "3. Entretiens"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Postuler maintenant",
+        "url": "https://fastretailing.wd3.myworkdayjobs-impl.com/gmp2026/job/XMLNAME--Global--Fast-Retailing-s-Global-Management-Program-2027_R00000004183460"
+      },
+      {
+        "label": "Site officiel de Fast Retailing",
+        "url": "https://www.fastretailing.com/eng/group/"
+      },
+      {
+        "label": "Durabilité UNIQLO",
+        "url": "https://www.uniqlo.com/jp/en/contents/sustainability/"
+      },
+      {
+        "label": "LinkedIn Fast Retailing",
+        "url": "https://www.linkedin.com/company/66256/"
+      }
+    ],
+    "mots_cles": [
+      "bourse Fast Retailing",
+      "programme gestion mondiale",
+      "GMP 2027",
+      "bourse Japon",
+      "bourse Tokyo",
+      "programme intensif",
+      "leadership",
+      "business mondial"
+    ],
+    "lien_candidature": "https://fastretailing.wd3.myworkdayjobs-impl.com/gmp2026/job/XMLNAME--Global--Fast-Retailing-s-Global-Management-Program-2027_R00000004183460",
+    "source_url": "https://www.fastretailing.com/employment/en/uniqlo/graduate/gmp/",
+    "statut": "ouvert",
+    "resume": "Le Global Management Program (GMP) de Fast Retailing est un programme intensif de 6 jours qui se déroulera du 25 au 30 juillet 2027 au siège mondial de Fast Retailing à Tokyo. Il offre aux étudiants du monde entier l'opportunité d'interagir avec des leaders mondiaux, de découvrir l'industrie de la mode et de la vente au détail, et de développer leurs compétences en leadership et en travail d'équipe. Les participants travailleront sur des études de cas et présenteront leurs résultats au conseil d'administration. Fast Retailing prend en charge le transport aller-retour au Japon, l'hébergement, l'assurance et le soutien pour le visa. Les candidatures sont ouvertes jusqu'au 28 février 2027.",
+    "imageUrl": "/docs/programme-de-gestion-mondiale-2027.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-16T16:15:01",
+    "slug": "bourse-fast-retailing-gmp-2027"
   },
   {
     "titre": "Bourses de doctorat du Président de l'Imperial College London",
@@ -21728,6 +21520,202 @@
     "pdfLabel": null,
     "extrait_le": "2026-11-15T02:28:39",
     "slug": "bourse-branco-weiss-2027"
+  },
+  {
+    "titre": "Exonération des frais de candidature aux études supérieures de l'Université Coastal Carolina",
+    "seo_slug": "exoneration-frais-candidature-coastal-carolina-2026",
+    "organisation": "Coastal Carolina University",
+    "montant": 45,
+    "devise": "USD",
+    "type_financement": "exonération des frais de candidature",
+    "deadline": null,
+    "deadline_texte": "Période de novembre : du 1er au 30 novembre de chaque année. Les étudiants actuels de premier cycle de CCU bénéficient d'une exonération toute l'année.",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat",
+      "Spécialiste",
+      "Certificat"
+    ],
+    "domaines": [
+      "Commerce",
+      "Éducation",
+      "Sciences",
+      "Communication",
+      "Technologie",
+      "Rédaction",
+      "et autres"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (présumé, car les programmes sont en anglais)",
+    "documents_requis": [
+      "Relevés de notes",
+      "Documents de candidature spécifiques au programme"
+    ],
+    "avantages": [
+      "Exonération des frais de candidature de 45 $",
+      "Aucun code promotionnel nécessaire en novembre",
+      "Exonération toute l'année pour les étudiants actuels de premier cycle de CCU"
+    ],
+    "eligibilite": [
+      "Tous les candidats aux programmes d'études supérieures pendant la période de novembre",
+      "Étudiants actuels de premier cycle de CCU pour l'exonération toute l'année",
+      "Doivent satisfaire à toutes les exigences d'admission"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les programmes disponibles via le Program Finder",
+      "2. Préparer les documents de candidature requis",
+      "3. Soumettre la candidature en ligne via le portail de candidature",
+      "4. L'exonération est appliquée automatiquement après soumission (vérification des transcripts pour les étudiants CCU)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://apply.coastal.edu/portal/gr_app"
+      },
+      {
+        "label": "Programmes d'études supérieures",
+        "url": "/academics/academicprograms/graduate-programs/"
+      },
+      {
+        "label": "Program Finder",
+        "url": "https://www.coastal.edu/academics/academicprograms/academicprogramfinder/"
+      },
+      {
+        "label": "Programmes en ligne",
+        "url": "https://www.coastal.edu/academics/academicprograms/academicprogramfinder/?search=&type=Master+of+Arts&type=Master+of+Business+Administration&type=Master+of+Education&type=Master+of+Science&type=Ph.D.&type=Specialization&method=Online"
+      },
+      {
+        "label": "Programmes hybrides",
+        "url": "https://www.coastal.edu/academics/academicprograms/academicprogramfinder/?search=&type=Master+of+Arts&type=Master+of+Business+Administration&type=Master+of+Education&type=Master+of+Science&type=Ph.D.&type=Specialization&method=Hybrid"
+      },
+      {
+        "label": "Annonce pour les étudiants de premier cycle",
+        "url": "/news/fall2026/coastalcarolinauniversitywaivesgraduateapplicationfeesforundergraduates/"
+      },
+      {
+        "label": "Dates limites de candidature",
+        "url": "/academics/colleges/graduate-school/apply-now/deadlines-and-requirements/"
+      },
+      {
+        "label": "Frais de scolarité et frais",
+        "url": "/studentaccounts/tuitionfees/"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "exonération frais de candidature",
+      "études supérieures",
+      "Coastal Carolina University",
+      "master",
+      "doctorat",
+      "novembre",
+      "États-Unis"
+    ],
+    "lien_candidature": "https://apply.coastal.edu/portal/gr_app",
+    "source_url": "https://www.coastal.edu/academics/colleges/graduate-school/prospective-students/fee-waivers/?fbclid=IwY2xjawVnxGZleHRuA2FlbQIxMABwZG9mAWJyaWQRMXJRNks4ZzdyQUwxRjZpdWFzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfireJVmM5l5F7j3A0AOf4g9KkOJFsL-u0oPZ61vIUPmuF3g0Da1tdIKPxJCY_aem_YSo88pNMqZjBEaEZ41ziSw",
+    "statut": "ouvert",
+    "resume": "La Coastal Carolina University offre une exonération des frais de candidature de 45 $ pour tous les programmes d'études supérieures durant le mois de novembre, sans code promotionnel. Les étudiants actuels de premier cycle de CCU bénéficient d'une exonération toute l'année. Cette opportunité facilite l'accès aux études supérieures en réduisant les barrières financières. Les candidats doivent néanmoins satisfaire à toutes les exigences d'admission et soumettre les documents requis.",
+    "imageUrl": "/docs/coastal-calorina-university.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-16T12:16:34",
+    "slug": "exoneration-frais-candidature-coastal-carolina-2026"
+  },
+  {
+    "titre": "Programme d'été pour étudiants du HZDR 2027",
+    "seo_slug": "hzdr-summer-student-program-2027",
+    "organisation": "Helmholtz-Zentrum Dresden-Rossendorf (HZDR)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "programme de recherche d'été",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée sur cette page. Consultez la page 'Dates importantes' pour plus de détails.",
+    "niveau_etudes": [
+      "Licence (niveau avancé)",
+      "Master"
+    ],
+    "domaines": [
+      "Sciences naturelles",
+      "Sciences de la vie",
+      "Médecine",
+      "Ingénierie",
+      "Domaines connexes"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Travail sur un projet de recherche",
+      "Encadrement par des chercheurs",
+      "Cours et visites de laboratoires",
+      "Échange international"
+    ],
+    "eligibilite": [
+      "Étudiants de niveau avancé (upper-level) inscrits dans un programme en sciences naturelles, sciences de la vie, médecine, ingénierie ou domaines connexes."
+    ],
+    "procedure_etapes": [
+      "Consulter la page 'About the program' pour plus d'informations",
+      "Consulter la page 'Application' pour les détails de candidature",
+      "Consulter la page 'Important dates' pour les dates limites",
+      "Soumettre la candidature selon les instructions"
+    ],
+    "contacts": [
+      "summer@hzdr.de",
+      "kontakt@hzdr.de",
+      "+49 351 260 - 0"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Page d'accueil du programme",
+        "url": "https://www.hzdr.de/db/Cms?pNid=2519"
+      },
+      {
+        "label": "À propos du programme",
+        "url": "https://www.hzdr.de/db/Cms?pNid=2527"
+      },
+      {
+        "label": "Candidature",
+        "url": "https://www.hzdr.de/db/Cms?pNid=2914"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.hzdr.de/db/Cms?pOid=70775&pNid=243"
+      },
+      {
+        "label": "Dates importantes",
+        "url": "https://www.hzdr.de/db/Cms?pNid=2538"
+      },
+      {
+        "label": "Cours et événements",
+        "url": "https://www.hzdr.de/db/Cms?pNid=2540"
+      }
+    ],
+    "mots_cles": [
+      "bourse été",
+      "programme d'été",
+      "recherche Allemagne",
+      "HZDR",
+      "Dresde",
+      "stage recherche",
+      "sciences naturelles",
+      "ingénierie"
+    ],
+    "lien_candidature": "https://www.hzdr.de/db/Cms?pNid=2914",
+    "source_url": "https://www.hzdr.de/db/Cms?pNid=2519",
+    "statut": "ouvert",
+    "resume": "Le Helmholtz-Zentrum Dresden-Rossendorf (HZDR) propose un programme d'été de huit semaines pour les étudiants internationaux de niveau avancé en sciences naturelles, sciences de la vie, médecine, ingénierie et domaines connexes. Les participants rejoignent des équipes de recherche, travaillent sur des projets encadrés et participent à des cours et visites de laboratoires. Ce programme favorise l'échange international et la collaboration scientifique. Les candidatures se font en ligne via le site du HZDR.",
+    "imageUrl": "/docs/programme-d-t-pour-tudiants-du-hzdr-2027.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-16T16:08:36",
+    "slug": "hzdr-summer-student-program-2027"
   },
   {
     "titre": "Master Européen en Linguistique Clinique (EMCL)",
@@ -41087,6 +41075,387 @@
     "imageUrl": null,
     "extrait_le": "2026-09-22T03:03:12",
     "slug": "bourse-alche-maurice-2027"
+  },
+  {
+    "titre": "Bourse de recherche pour doctorants en géochimie de l'IAGC (sponsorisée par Elsevier)",
+    "seo_slug": "bourse-iagc-doctorat-geochimie-2027",
+    "organisation": "International Association of GeoChemistry (IAGC)",
+    "montant": 2300,
+    "devise": "USD",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-11-15",
+    "deadline_texte": "15 novembre 2026",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Géochimie"
+    ],
+    "pays_eligibles": [
+      "Tous les pays sauf Russie, Iran, Irak, Cuba"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature (IAGC_Student_Research_Grant_Application_2027.doc)"
+    ],
+    "avantages": [
+      "Subvention jusqu'à 2300 USD pour les analyses géochimiques",
+      "Article de profil dans le magazine Elements et la newsletter de l'IAGC",
+      "Adhésion gratuite d'un an à l'IAGC pour l'année suivant la réception du prix"
+    ],
+    "eligibilite": [
+      "Être inscrit dans un programme de doctorat reconnu dans une institution délivrant des diplômes de doctorat, dans n'importe quel pays",
+      "Mener des recherches dans un domaine de la géochimie",
+      "Ne pas travailler dans les pays suivants : Russie, Iran, Irak, Cuba (en raison de restrictions bancaires)"
+    ],
+    "procedure_etapes": [
+      "Télécharger le formulaire de candidature à l'adresse : /resources/SRGs/IAGC_Student_Research_Grant_Application_2027.doc",
+      "Suivre les instructions du formulaire",
+      "Soumettre la candidature avant le 15 novembre 2026",
+      "Les décisions seront annoncées le 1er mai 2027"
+    ],
+    "contacts": [
+      "businessoffice@iagc-society.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://www.iagc-society.org/resources/SRGs/IAGC_Student_Research_Grant_Application_2027.doc"
+      },
+      {
+        "label": "Site officiel de l'IAGC",
+        "url": "https://www.iagc-society.org/"
+      },
+      {
+        "label": "Page des bourses étudiantes",
+        "url": "https://www.iagc-society.org/Student-Grants"
+      },
+      {
+        "label": "Site d'Elsevier",
+        "url": "http://www.elsevier.com/"
+      },
+      {
+        "label": "Journal Applied Geochemistry",
+        "url": "https://www.journals.elsevier.com/applied-geochemistry"
+      },
+      {
+        "label": "Magazine Elements",
+        "url": "http://elementsmagazine.org/"
+      },
+      {
+        "label": "Newsletters de l'IAGC",
+        "url": "http://www.iagc-society.org/newsletters.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat géochimie",
+      "bourse IAGC",
+      "bourse Elsevier",
+      "financement thèse géochimie",
+      "bourse recherche géochimie",
+      "bourse internationale doctorat",
+      "subvention analyse géochimique",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://www.iagc-society.org/Student-Grants",
+    "source_url": "https://www.iagc-society.org/Student-Grants?fbclid=IwY2xjawUmghlleHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEedSSh3mO9sdO9wv-tqMqTd9UDgiApNFhUqycrYhQ-wjKsxIo8PZLJjOmeV5M_aem_3hADZ9phFwuqGnGc0ZSxXQ",
+    "statut": "fermé",
+    "resume": "L'International Association of GeoChemistry (IAGC), avec le soutien d'Elsevier, propose des bourses de recherche pouvant atteindre 2 300 USD pour les doctorants en géochimie. Ces subventions visent à financer les analyses géochimiques essentielles à leurs travaux de thèse. Les lauréats bénéficient également d'une visibilité dans le magazine Elements et la newsletter de l'IAGC, ainsi que d'une adhésion gratuite d'un an. Les candidatures pour l'édition 2027 sont ouvertes jusqu'au 15 novembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:13:50",
+    "slug": "bourse-iagc-doctorat-geochimie-2027"
+  },
+  {
+    "titre": "Programme international des boursiers de l'Université de la Colombie-Britannique (UBC) 2027",
+    "seo_slug": "bourse-ubc-international-scholars-2027",
+    "organisation": "The University of British Columbia (UBC)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-15",
+    "deadline_texte": "15 novembre 2026 à 23h59 (heure du Pacifique, PST)",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Formulaire de nomination",
+      "Formulaire de recommandation d'un enseignant"
+    ],
+    "avantages": [
+      "Soutien financier significatif pour couvrir les frais de scolarité et les frais de subsistance"
+    ],
+    "eligibilite": [
+      "Être un étudiant international",
+      "Avoir démontré des qualités de leadership",
+      "Avoir apporté des contributions exceptionnelles à sa communauté",
+      "Avoir de solides performances académiques",
+      "Avoir besoin d'un soutien financier significatif pour étudier à UBC"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et les étapes de candidature sur le site du programme.",
+      "2. Initier la demande de bourse.",
+      "3. Demander une nomination à son établissement.",
+      "4. Demander une recommandation à un enseignant.",
+      "5. Rassembler les informations requises.",
+      "6. S'assurer que le fuseau horaire de l'application est réglé sur l'heure du Pacifique (PCT).",
+      "7. Inviter le nominateur et l'enseignant référent à remplir leurs formulaires via les tâches (Nomination form, Request a Recommendation).",
+      "8. Remplir le formulaire de candidature (Application form) dans les tâches.",
+      "9. Soumettre la candidature complète avant la date limite."
+    ],
+    "contacts": [
+      "international.awards@ubc.ca"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/"
+      },
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://undergraduatescholarships.ubc.ca/prog/294977/apply/?next=/prog/2027_international_scholars_program_application/"
+      },
+      {
+        "label": "Assistance technique (Survey Monkey Apply)",
+        "url": "https://undergraduatescholarships.ubc.ca/helpdesk/"
+      }
+    ],
+    "mots_cles": [
+      "bourse UBC",
+      "bourse internationale",
+      "bourse licence Canada",
+      "bourse études Canada",
+      "programme international boursiers UBC",
+      "bourse 2027",
+      "bourse étudiants internationaux",
+      "bourse leadership",
+      "bourse Colombie-Britannique"
+    ],
+    "lien_candidature": "https://undergraduatescholarships.ubc.ca/prog/294977/apply/?next=/prog/2027_international_scholars_program_application/",
+    "source_url": "https://undergraduatescholarships.ubc.ca/prog/2027_international_scholars_program_application/?fbclid=IwY2xjawU7uHNleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZuWllWdDlJZ1l5bU9ydVBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe7CdG1J7mKHsAL3f-THa6a94hzrZ35q1gtwMW-zRVLJ1NkyaQj-gzSI6eD3M_aem_VsVPcCeRlrZfjFlf-NmWAw",
+    "statut": "fermé",
+    "resume": "Le Programme international des boursiers de l'UBC offre un soutien financier significatif aux étudiants internationaux exceptionnels qui font preuve de leadership, s'engagent dans leur communauté et obtiennent d'excellents résultats académiques. Les candidats doivent être nommés par leur établissement et fournir une recommandation d'un enseignant. La date limite de candidature est le 15 novembre 2026 à 23h59 (heure du Pacifique). Pour plus d'informations, consultez le site officiel du programme.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-14T03:23:36",
+    "slug": "bourse-ubc-international-scholars-2027"
+  },
+  {
+    "titre": "Bourses d'études pour les programmes MS et PhD à la COMSATS University Islamabad (CUI)",
+    "seo_slug": "bourse-comsats-ms-phd-pakistan-2027",
+    "organisation": "COMSATS University Islamabad (CUI)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse partielle ou complète (non spécifié)",
+    "deadline": "2026-11-15",
+    "deadline_texte": "15 novembre 2026",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Non spécifié"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Non spécifié",
+    "documents_requis": [
+      "Non spécifié"
+    ],
+    "avantages": [
+      "Non spécifié"
+    ],
+    "eligibilite": [
+      "Non spécifié"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page des bourses pour les programmes MS et PhD",
+      "2. Vérifier les critères d'éligibilité pour le programme choisi",
+      "3. Remplir le formulaire de candidature en ligne pour l'admission Spring 2027",
+      "4. Soumettre la candidature avant la date limite du 15 novembre 2026"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page des bourses pour étudiants internationaux",
+        "url": "http://ww2.comsats.edu.pk/internationaloffice/international-students-scholarships.aspx"
+      },
+      {
+        "label": "Détails des programmes de premier cycle",
+        "url": "https://internationaladmissions.comsats.edu.pk/Home/ProgramDetails#panel-undergrad"
+      },
+      {
+        "label": "Critères d'éligibilité pour le premier cycle",
+        "url": "https://internationaladmissions.comsats.edu.pk/Home/EligibilityCriteria?pt=BS"
+      },
+      {
+        "label": "Détails des programmes de cycles supérieurs",
+        "url": "https://internationaladmissions.comsats.edu.pk/Home/ProgramDetails#panel-grad"
+      },
+      {
+        "label": "Critères d'éligibilité pour les cycles supérieurs",
+        "url": "https://internationaladmissions.comsats.edu.pk/Home/EligibilityCriteria?pt=MS"
+      },
+      {
+        "label": "Détails des programmes de doctorat",
+        "url": "https://internationaladmissions.comsats.edu.pk/Home/ProgramDetails#panel-phd"
+      },
+      {
+        "label": "Critères d'éligibilité pour le doctorat",
+        "url": "https://internationaladmissions.comsats.edu.pk/Home/EligibilityCriteria?pt=PHD"
+      },
+      {
+        "label": "Tous les programmes",
+        "url": "https://internationaladmissions.comsats.edu.pk/Home/ProgramDetails#panel-undergrad"
+      },
+      {
+        "label": "Étudiants internationaux",
+        "url": "http://ww3.comsats.edu.pk/internationalstudents/"
+      },
+      {
+        "label": "Classements internationaux",
+        "url": "https://www.timeshighereducation.com/world-university-rankings/2019/world-ranking#!/page/0/length/-1/sort_by/rank/sort_order/asc/cols/stats"
+      }
+    ],
+    "mots_cles": [
+      "bourse Pakistan",
+      "COMSATS University Islamabad",
+      "bourse MS",
+      "bourse PhD",
+      "études au Pakistan",
+      "bourse internationale",
+      "admission Spring 2027"
+    ],
+    "lien_candidature": "http://ww2.comsats.edu.pk/internationaloffice/international-students-scholarships.aspx",
+    "source_url": "https://internationaladmissions.comsats.edu.pk/",
+    "statut": "fermé",
+    "resume": "La COMSATS University Islamabad (CUI) offre des bourses d'études pour les programmes de MS et PhD aux étudiants internationaux. Les candidatures pour l'admission au semestre de printemps 2027 sont ouvertes du 4 septembre 2026 au 15 novembre 2026. Les bourses sont détaillées sur la page dédiée aux bourses pour étudiants internationaux. Les cours débutent en février 2027. Pour plus d'informations sur les programmes et les critères d'éligibilité, consultez les liens fournis.",
+    "imageUrl": null,
+    "extrait_le": "2026-10-26T15:02:02",
+    "slug": "bourse-comsats-ms-phd-pakistan-2027"
+  },
+  {
+    "titre": "Programme de doctorat de l'OIST",
+    "seo_slug": "bourse-doctorat-oist-japon-2027",
+    "organisation": "Okinawa Institute of Science and Technology Graduate University (OIST)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": "2026-11-15",
+    "deadline_texte": "15 novembre 2026 à 23h59 (JST UTC+9)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences",
+      "Ingénierie",
+      "Sciences de la vie",
+      "Sciences physiques",
+      "Sciences de l'environnement",
+      "Informatique",
+      "Mathématiques",
+      "Neurosciences",
+      "Chimie",
+      "Physique",
+      "Biologie"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Relevés de notes et diplômes (licence, master, etc.) en PDF",
+      "Relevé de notes non officiel accepté",
+      "Explication en anglais pour les relevés non rédigés en anglais",
+      "Certificat de scolarité si non diplômé (avec date de fin d'études prévue)",
+      "Déclaration d'intention (Statement of Purpose) de 800 mots maximum (3000 caractères)",
+      "Curriculum Vitae (CV)",
+      "2 à 5 lettres de recommandation en anglais de professeurs",
+      "Score TOEFL iBT ou IELTS de moins de 2 ans (si la langue d'enseignement n'est pas l'anglais)",
+      "Passeport (numéro et copie de la page photo) ou autre pièce d'identité officielle",
+      "Photo d'identité récente (moins de 3 mois)",
+      "Documents optionnels : scores GRE, titres et résumés de publications, présentations orales, autres preuves de réussite"
+    ],
+    "avantages": [
+      "Formation de haut niveau avec un faible ratio étudiants/enseignants",
+      "Participation à un atelier d'admission en ligne",
+      "Processus d'admission sans examen écrit",
+      "Environnement inclusif et diversifié",
+      "Possibilité de bourse (non spécifiée dans le texte)"
+    ],
+    "eligibilite": [
+      "Être titulaire d'une licence, d'un master ou d'un diplôme équivalent avant la date d'admission",
+      "Les candidats peuvent postuler avant l'obtention du diplôme mais doivent le terminer avant l'admission",
+      "Participation obligatoire à l'atelier d'admission (en ligne)",
+      "Les candidatures de femmes et de groupes sous-représentés sont fortement encouragées",
+      "Aucune discrimination fondée sur le genre, l'âge, l'orientation sexuelle, le handicap, la race, l'origine ethnique, la religion, etc."
+    ],
+    "procedure_etapes": [
+      "1. Vérifier la liste des professeurs et unités de recherche pour trouver un domaine correspondant à vos intérêts",
+      "2. Vérifier la disponibilité des professeurs pour encadrer des doctorants",
+      "3. Lire la FAQ pour éviter les erreurs critiques",
+      "4. Créer un compte sur le site de candidature",
+      "5. Préparer tous les documents requis en anglais et les sauvegarder au format PDF",
+      "6. Téléverser les documents sur le site de candidature",
+      "7. Payer les frais de candidature de 5 000 JPY (non remboursables)",
+      "8. Soumettre la candidature avant la date limite",
+      "9. Participer à l'atelier d'admission (en ligne) si présélectionné"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site de candidature",
+        "url": "https://graduateschool.oist.jp/apply/"
+      },
+      {
+        "label": "Politiques de l'école doctorale",
+        "url": "https://www.oist.jp/education/policies-regulations/three-policies"
+      },
+      {
+        "label": "Liste des professeurs et unités de recherche",
+        "url": "https://www.oist.jp/research/faculty-members"
+      },
+      {
+        "label": "Disponibilité des professeurs pour l'encadrement",
+        "url": "https://www.oist.jp/admissions/phd-program/phd-supervision-availability"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.oist.jp/admissions/faq"
+      },
+      {
+        "label": "Page de contact",
+        "url": "https://www.oist.jp/admissions/contact-admissions"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat Japon",
+      "OIST PhD program",
+      "bourse OIST",
+      "doctorat Japon",
+      "bourse recherche Japon",
+      "OIST graduate school",
+      "bourse sciences Japon",
+      "PhD OIST",
+      "bourse internationale Japon",
+      "études doctorales Japon"
+    ],
+    "lien_candidature": "https://graduateschool.oist.jp/apply/",
+    "source_url": "https://www.oist.jp/admissions/phd-program/apply-phd?fbclid=IwY2xjawVe1GlleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfSdNXh9kuqfnO8YUNawWUbrvaprpIMUMr12U2YLXYK-C8VaQKDykq-H-5gw4_aem_jsYV58rIM_j9ryIGdB4H1A",
+    "statut": "fermé",
+    "resume": "L'OIST Graduate School au Japon propose un programme de doctorat de haut niveau, avec environ 60 étudiants admis chaque année pour garantir un encadrement personnalisé. Les candidats doivent être titulaires d'une licence ou d'un master avant l'admission et soumettre un dossier complet en anglais, incluant relevés de notes, déclaration d'intention, CV, lettres de recommandation et preuve de maîtrise de l'anglais. La sélection se fait sur dossier et via un atelier d'admission en ligne, sans examen écrit. Les frais de candidature sont de 5 000 JPY, et la date limite pour la session 2027 est fixée au 15 novembre 2026.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T17:31:41",
+    "slug": "bourse-doctorat-oist-japon-2027"
   },
   {
     "titre": "Bourse Rhodes 2027 pour les candidats internationaux (hors pays spécifiques)",

@@ -1,236 +1,5 @@
 [
   {
-    "titre": "Bourse postdoctorale junior FWO",
-    "seo_slug": "bourse-postdoctorale-junior-fwo-2027",
-    "organisation": "FWO (Fonds voor Wetenschappelijk Onderzoek - Vlaanderen)",
-    "montant": 5616.81,
-    "devise": "EUR",
-    "type_financement": "bourse complète",
-    "deadline": "2026-11-16",
-    "deadline_texte": "16 novembre 2026 à 17h00 (heure locale)",
-    "niveau_etudes": [
-      "Postdoctorat"
-    ],
-    "domaines": [
-      "Recherche scientifique",
-      "Sciences biomédicales",
-      "STEM",
-      "Oncologie"
-    ],
-    "pays_eligibles": [
-      "Belgique (Flandre)"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais (probablement, car le site est en anglais, mais pas explicitement mentionné)",
-    "documents_requis": [
-      "Formulaire de candidature en ligne",
-      "Lettre de recommandation du superviseur (obligatoire)",
-      "CV",
-      "Diplôme de doctorat ou équivalent",
-      "Preuve de la date de soutenance (si le doctorat est obtenu après la date limite)"
-    ],
-    "avantages": [
-      "Salaire mensuel brut de 5 616,81 € (indice 2,1647 au 1er mars 2026)",
-      "Frais de fonctionnement (bench fee) de 4 000 € à 10 000 € par an",
-      "Durée de 3 ans",
-      "Possibilité de financement supplémentaire via le Fonds Suzanne Duchesne (50 000 € pour l'appel 2027, frais de bench spéciaux en oncologie)",
-      "Bourse de recherche supplémentaire L'Oréal-UNESCO de 20 000 € (non disponible pour l'appel en cours, prochaine édition en 2028)"
-    ],
-    "eligibilite": [
-      "Être titulaire d'un doctorat (PhD) par thèse ou d'un diplôme reconnu équivalent selon les directives de l'Union européenne ou un accord bilatéral",
-      "Avoir obtenu le doctorat depuis moins de 3 ans avant le 1er octobre de l'année de début de la bourse, ou le soutenir au plus tard le 15 septembre de cette année (dans ce cas, informer le FWO de la date de soutenance avant le 1er juillet)",
-      "Ne pas avoir déjà bénéficié de cette bourse, même partiellement",
-      "Pouvoir postuler maximum deux fois pour la même bourse",
-      "Accepter la clause d'intégrité scientifique",
-      "Avoir un superviseur dans une institution d'accueil flamande",
-      "Pour une deuxième candidature au même type de bourse postdoctorale, la première candidature doit avoir été classée parmi les 50% supérieurs lors de la présélection du printemps 2026"
-    ],
-    "procedure_etapes": [
-      "Trouver un superviseur dans une institution d'accueil flamande (article 3 du règlement sur les chercheurs postdoctoraux)",
-      "Préparer le dossier de candidature avec le superviseur",
-      "Soumettre la candidature via le portail en ligne (https://fwoweb.fwo.be/) avant le 16 novembre 2026 à 17h00",
-      "Le superviseur doit soumettre une lettre de recommandation (partie obligatoire de la candidature)",
-      "Présélection en ligne par le panel d'experts (18-25 mars 2027)",
-      "Notification d'invitation à l'entretien (26 mars 2027)",
-      "Entretiens physiques (14 avril - 5 mai 2027)",
-      "Annonce des résultats (13 mai 2027)",
-      "Début de la bourse (1er octobre ou 1er novembre 2027)"
-    ],
-    "contacts": [
-      "FWOhelpdesk@fwo.be"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Portail de candidature en ligne",
-        "url": "https://fwoweb.fwo.be/"
-      },
-      {
-        "label": "Règlement du programme (junior et senior postdoc)",
-        "url": "https://www.fwo.be/en/support-programmes/regulations/junior-and-senior-postdoc/"
-      },
-      {
-        "label": "Règlement général",
-        "url": "https://www.fwo.be/en/support-programmes/regulations/general-regulations/"
-      },
-      {
-        "label": "Règlement sur les frais de bench",
-        "url": "https://www.fwo.be/en/support-programmes/regulations/regulations-for-the-bench-fee-of-fwo-fellows/"
-      },
-      {
-        "label": "Règlement sur l'évaluation par les pairs",
-        "url": "https://www.fwo.be/en/support-programmes/regulations/internal-and-external-peer-review/"
-      },
-      {
-        "label": "Formulaire de recommandation du superviseur (PDF)",
-        "url": "https://www.fwo.be/media/azthivhi/advies-formulier-postdoc.pdf"
-      },
-      {
-        "label": "Dates des entretiens (PDF)",
-        "url": "https://www.fwo.be/media/dv5nuyag/postdoc-fellowship-call-interview-dates.pdf"
-      },
-      {
-        "label": "Présentation d'information (PDF)",
-        "url": "https://www.fwo.be/media/1025137/postdoc-call-infosessie.pdf"
-      },
-      {
-        "label": "Vidéo explicative du formulaire de candidature",
-        "url": "https://youtu.be/BuVa4_0WYAY"
-      },
-      {
-        "label": "Exemple de formulaire de candidature (PDF)",
-        "url": "https://www.fwo.be/media/1025145/application-form-for-a-junior-postdoctoral-fellow.pdf"
-      },
-      {
-        "label": "Page des résultats",
-        "url": "https://www.fwo.be/en/results-outreach/"
-      },
-      {
-        "label": "Contact pour les chercheurs",
-        "url": "https://www.fwo.be/en/contact/for-the-researcher/"
-      },
-      {
-        "label": "Fonds Suzanne Duchesne - frais de bench spéciaux",
-        "url": "https://www.fwo.be/en/support-programmes/postdoctoral-fellowships/special-bench-fee-from-the-fund-suzanne-duchesne/"
-      },
-      {
-        "label": "Bourse L'Oréal-UNESCO pour les femmes en science",
-        "url": "https://www.fwo.be/en/support-programmes/postdoctoral-fellowships/special-bench-fee-loreal-unesco-for-women-in-science/"
-      },
-      {
-        "label": "Bourses FWO - Plantentuin Meise",
-        "url": "https://www.fwo.be/en/support-programmes/phd-fellowships/meise-botanic-garden-fwo-fellowships/"
-      },
-      {
-        "label": "Bourses FWO - VITO",
-        "url": "https://www.fwo.be/en/support-programmes/phd-fellowships/vito-fwo-fellowships/"
-      },
-      {
-        "label": "Bourses FWO - Flanders Hydraulics",
-        "url": "https://www.fwo.be/en/support-programmes/phd-fellowships/wl-fwo-fellowships/"
-      }
-    ],
-    "mots_cles": [
-      "bourse postdoctorale",
-      "FWO",
-      "bourse Belgique",
-      "recherche postdoctorale",
-      "financement recherche",
-      "bourse junior postdoc",
-      "bourse Flandre",
-      "bourse 2027"
-    ],
-    "lien_candidature": "https://fwoweb.fwo.be/",
-    "source_url": "https://fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/?fbclid=IwY2xjawU6QFlleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe4mwnvajzIHrc6qFxoopjVn6UReRkeGD_0y0pLFZxxpxTdpCgXtyhc8NpYfs_aem_pLy-uA0vajBiT_NL83XOnw",
-    "statut": "ouvert",
-    "resume": "La bourse postdoctorale junior du FWO soutient les chercheurs ayant récemment obtenu leur doctorat et souhaitant développer une carrière de recherche indépendante. Elle offre un salaire mensuel brut de 5 616,81 € et des frais de fonctionnement annuels de 4 000 à 10 000 € pour une durée de trois ans. Les candidats doivent trouver un superviseur dans une institution flamande et soumettre leur dossier avant le 16 novembre 2026. Cette bourse est une opportunité exceptionnelle pour les jeunes chercheurs en sciences biomédicales, STEM et autres disciplines.",
-    "imageUrl": "/docs/bourse-postdoctorale-junior.webp",
-    "extrait_le": "2026-10-13T00:41:06",
-    "slug": "bourse-postdoctorale-junior-fwo-2027"
-  },
-  {
-    "titre": "Bourse postdoctorale de l'Initiative sur les trous noirs (BHI) de l'Université Harvard",
-    "seo_slug": "bourse-bhi-postdoctorat-harvard-2026",
-    "organisation": "Black Hole Initiative (BHI), Harvard University",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse complète",
-    "deadline": "2026-11-16",
-    "deadline_texte": "16 novembre 2026 à 17h00 EST (heure de l'Est)",
-    "niveau_etudes": [
-      "Postdoctorat"
-    ],
-    "domaines": [
-      "Physique",
-      "Astronomie",
-      "Astrophysique",
-      "Philosophie",
-      "Histoire des sciences"
-    ],
-    "pays_eligibles": [
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Candidature en ligne",
-      "CV",
-      "Lettre de motivation",
-      "Projet de recherche",
-      "Lettres de recommandation"
-    ],
-    "avantages": [
-      "Financement pour trois ans (sous réserve de performance et de financement)",
-      "Accès aux ressources informatiques",
-      "Prise en charge des frais de publication",
-      "Prise en charge des voyages liés aux conférences",
-      "Opportunités d'interaction avec des chercheurs de premier plan"
-    ],
-    "eligibilite": [
-      "Titre de docteur (PhD) ou équivalent",
-      "Recherche en lien avec les trous noirs ou domaines connexes",
-      "Excellence académique"
-    ],
-    "procedure_etapes": [
-      "1. Préparer le dossier de candidature (CV, projet de recherche, lettres de recommandation, etc.)",
-      "2. Soumettre la candidature en ligne via le lien fourni",
-      "3. Les candidatures sont examinées au fur et à mesure jusqu'à ce que les postes soient pourvus"
-    ],
-    "contacts": [
-      "nicole.grenier@cfa.harvard.edu",
-      "617-496-8956"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel",
-        "url": "https://bit.ly/4As5xVF"
-      },
-      {
-        "label": "Site officiel de l'Université Harvard",
-        "url": "https://www.harvard.edu/"
-      }
-    ],
-    "mots_cles": [
-      "bourse postdoctorale",
-      "Harvard",
-      "trous noirs",
-      "astrophysique",
-      "physique",
-      "recherche postdoctorale",
-      "BHI",
-      "bourse internationale"
-    ],
-    "lien_candidature": "https://bit.ly/4As5xVF",
-    "source_url": "https://bhi.fas.harvard.edu/news-articles/bhi-postdoctoral-fellowship-applications-are-open-2/?fbclid=IwY2xjawVl5LpleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfZ0JPGkO5rWcU_8A7_ghlpX972hdpvKyNinKVrY5nbkZbGGbU7tYhpj_OfQM_aem_3CgZPeBsPZgU0b1RcwbRwQ",
-    "statut": "ouvert",
-    "resume": "L'Université Harvard, à travers son Black Hole Initiative (BHI), invite les candidatures pour des bourses postdoctorales en recherche sur les trous noirs. Ce programme interdisciplinaire unique offre un environnement de recherche exceptionnel avec des chercheurs de renommée mondiale. Les boursiers bénéficieront d'un financement pour trois ans, de ressources pour la recherche et d'opportunités de collaboration. Date limite de candidature : 16 novembre 2026.",
-    "adresse": "20 Garden Street, 2e étage, Cambridge, MA 02138",
-    "imageUrl": "/docs/les-candidatures-pour-les-bourses-postdoctorales-du-bhi-sont-ouvertes.png",
-    "pdfUrl": null,
-    "pdfLabel": null,
-    "extrait_le": "2026-11-15T02:09:23",
-    "slug": "bourse-bhi-postdoctorat-harvard-2026"
-  },
-  {
     "titre": "Bourse Mastercard Foundation Scholars Program - Université de Cambridge",
     "seo_slug": "bourse-mastercard-cambridge-2026",
     "organisation": "Mastercard Foundation & University of Cambridge",
@@ -5552,6 +5321,104 @@
     "pdfLabel": null,
     "extrait_le": "2026-11-15T02:31:10",
     "slug": "bourse-postdoctorale-embo-2027"
+  },
+  {
+    "titre": "Ouverture des candidatures pour des Bourse d’études complètes au Japon- Bourse jjwbsp",
+    "seo_slug": "bourse-jjwbgsp-politiques-publiques-fiscalite-japon-2027",
+    "organisation": "Yokohama National University (YNU) et World Bank (JJ/WBGSP)",
+    "type_financement": "bourse complète",
+    "deadline": "2027-01-29",
+    "deadline_texte": "29 janvier 2027 (heure du Japon)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Économie",
+      "Politiques publiques",
+      "Fiscalité"
+    ],
+    "pays_eligibles": [
+      "Pays éligibles au programme JJ/WBGSP (voir liste officielle)"
+    ],
+    "langue_requise": "Anglais (TOEFL iBT minimum 4, IELTS 6.5, Duolingo 105, ou TOEFL papier 550)",
+    "documents_requis": [
+      "Formulaire de candidature",
+      "Déclaration d'objectif (1 200 mots maximum)",
+      "3 lettres de recommandation confidentielles (2 professionnelles, 1 académique ou plus)",
+      "Relevés de notes officiels (licence et supérieur) sous enveloppe scellée",
+      "Score officiel TOEFL/IELTS/Duolingo obtenu après le 29 janvier 2025, ou lettre officielle confirmant que l'anglais était la langue d'enseignement",
+      "Score officiel GRE (facultatif mais recommandé)",
+      "Certificat médical (lors de la procédure en ligne avec la Banque mondiale)"
+    ],
+    "avantages": [
+      "Bourse complète (frais de scolarité, allocation mensuelle, etc. selon les conditions du JJ/WBGSP)"
+    ],
+    "eligibilite": [
+      "Être ressortissant d'un pays éligible au JJ/WBGSP",
+      "Ne pas avoir la double nationalité d'un pays développé",
+      "Être en bonne santé certifiée par un médecin",
+      "Être titulaire d'une licence (ou équivalent) avec d'excellents résultats académiques obtenue plus de 3 ans avant la date limite de candidature",
+      "Être fonctionnaire des impôts au sein du gouvernement (en principe) et avoir au moins 3 ans d'expérience professionnelle en politique ou administration fiscale dans son pays d'origine",
+      "Ne pas avoir reçu de financement de la part du gouvernement japonais ou de ses agences (JICA, Banque centrale, collectivités locales) pour un diplôme d'études supérieures ou professionnel"
+    ],
+    "procedure_etapes": [
+      "Télécharger la description du programme et le formulaire de candidature depuis les liens fournis",
+      "Préparer tous les documents requis (déclaration d'objectif, lettres de recommandation, relevés de notes, scores de tests d'anglais, score GRE si disponible)",
+      "Envoyer le dossier complet par courrier aérien ou service de messagerie à l'adresse indiquée (PPT Office, Graduate School of International Social Sciences, Yokohama National University, 79-3 Tokiwadai, Hodogaya-ku, Yokohama, 240-8501 JAPON)",
+      "Les candidats présélectionnés peuvent être contactés pour un entretien téléphonique ou en ligne",
+      "Les candidats retenus par l'université doivent ensuite postuler en ligne auprès de la Banque mondiale (JJ/WBGSP) et fournir un certificat médical"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Description du programme (PDF)",
+        "url": "https://www.economics.ynu.ac.jp/ppt/apply/pdf/ProgramDescription2027.pdf"
+      },
+      {
+        "label": "Formulaire de candidature (PDF)",
+        "url": "https://www.economics.ynu.ac.jp/ppt/apply/pdf/ApplicationForm2027.pdf"
+      },
+      {
+        "label": "Politique de l'YNU sur l'utilisation de ChatGPT et autres outils d'IA générative",
+        "url": "https://www.ynu.ac.jp/hus/nyushi/30294/detail.html"
+      },
+      {
+        "label": "Liste officielle des pays éligibles au JJ/WBGSP",
+        "url": "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship"
+      },
+      {
+        "label": "Page TOEFL (ETS)",
+        "url": "http://www.ets.org/toefl"
+      },
+      {
+        "label": "Page IELTS (British Council)",
+        "url": "http://www.britishcouncil.org/exam"
+      },
+      {
+        "label": "Test Duolingo English",
+        "url": "https://englishtest.duolingo.com/applicants"
+      }
+    ],
+    "mots_cles": [
+      "bourse Japon",
+      "bourse master économie",
+      "bourse politiques publiques",
+      "bourse fiscalité",
+      "bourse JJ/WBGSP",
+      "bourse Yokohama National University",
+      "bourse Japon 2027",
+      "bourse master Japon",
+      "bourse fonctionnaire impôts"
+    ],
+    "lien_candidature": "https://www.economics.ynu.ac.jp/ppt/apply/pdf/ApplicationForm2027.pdf",
+    "source_url": "https://www.economics.ynu.ac.jp/ppt/apply/?utm_source=chatgpt.com",
+    "statut": "ouvert",
+    "resume": "L'Université nationale de Yokohama (Japon) offre, dans le cadre du programme de bourses JJ/WBGSP de la Banque mondiale, un master en économie avec une spécialisation en politiques publiques et fiscalité. Ce programme s'adresse aux fonctionnaires des impôts des pays éligibles, ayant au moins trois ans d'expérience et une licence obtenue depuis plus de trois ans. Les candidats doivent démontrer un excellent niveau d'anglais et soumettre un dossier complet avant le 29 janvier 2027. La bourse couvre l'intégralité des frais de scolarité et offre une allocation mensuelle, ainsi qu'un stage obligatoire à l'Agence nationale des impôts du Japon.",
+    "imageUrl": "/docs/jj-wggp-bourse-d-tude-japon.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-17T11:39:34",
+    "slug": "bourse-jjwbgsp-politiques-publiques-fiscalite-japon-2027"
   },
   {
     "titre": "Bourses pour étudiants internationaux à l'Université Charles Darwin",
@@ -21814,6 +21681,80 @@
     "pdfLabel": null,
     "extrait_le": "2026-11-16T18:02:31",
     "slug": "bourse-recherche-teledetection-foret-boreale-calgary-2027"
+  },
+  {
+    "titre": "Programme de bourses ICANN",
+    "seo_slug": "bourse-icann-fellowship-2026",
+    "organisation": "ICANN (Internet Corporation for Assigned Names and Numbers)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
+    "niveau_etudes": [],
+    "domaines": [
+      "Gouvernance de l'Internet",
+      "Politiques Internet",
+      "DNS"
+    ],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Prise en charge des frais de voyage",
+      "Prise en charge de l'hébergement",
+      "Participation aux réunions ICANN"
+    ],
+    "eligibilite": [
+      "Intérêt pour la gouvernance de l'Internet",
+      "Capacité à participer aux réunions ICANN"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page du programme de bourses ICANN",
+      "2. Vérifier les conditions générales (Terms & Conditions)",
+      "3. Soumettre la candidature via le portail officiel"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Programme de bourses ICANN",
+        "url": "https://www.icann.org/resources/pages/fellowships-2012-02-25-en"
+      },
+      {
+        "label": "Conditions générales (Terms & Conditions)",
+        "url": "https://www.icann.org/resources/pages/terms-conditions-2012-02-25-en"
+      },
+      {
+        "label": "Comité du programme de bourses",
+        "url": "https://www.icann.org/resources/pages/committee-2012-02-25-en"
+      },
+      {
+        "label": "Programme NextGen@ICANN",
+        "url": "https://www.icann.org/public-responsibility-support/nextgen"
+      },
+      {
+        "label": "Soutien au voyage (Travel Support)",
+        "url": "https://www.icann.org/resources/pages/travel-support-2012-02-25-en"
+      }
+    ],
+    "mots_cles": [
+      "bourse ICANN",
+      "fellowship ICANN",
+      "bourse gouvernance internet",
+      "bourse DNS",
+      "programme bourses internationales",
+      "bourse voyage ICANN"
+    ],
+    "lien_candidature": "https://www.icann.org/resources/pages/fellowships-2012-02-25-en",
+    "source_url": "https://www.icann.org/fellowshipprogram",
+    "statut": "ouvert",
+    "resume": "Le Programme de bourses ICANN (ICANN Fellowship Program) offre aux personnes intéressées par la gouvernance de l'Internet l'opportunité de participer aux réunions internationales de l'ICANN. Les boursiers bénéficient d'une prise en charge des frais de voyage et d'hébergement, ainsi que d'un accompagnement pour comprendre les enjeux du DNS et des politiques Internet. Ce programme vise à renforcer la diversité et l'inclusion au sein de la communauté multipartite de l'ICANN. Les candidats doivent manifester un intérêt pour la gouvernance de l'Internet et s'engager à participer activement aux réunions.",
+    "imageUrl": "/docs/programme-de-bourses-de-l-icann.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-17T10:50:42",
+    "slug": "bourse-icann-fellowship-2026"
   },
   {
     "titre": "Master Européen en Linguistique Clinique (EMCL)",
@@ -41554,6 +41495,237 @@
     "imageUrl": null,
     "extrait_le": "2026-11-09T17:31:41",
     "slug": "bourse-doctorat-oist-japon-2027"
+  },
+  {
+    "titre": "Bourse postdoctorale junior FWO",
+    "seo_slug": "bourse-postdoctorale-junior-fwo-2027",
+    "organisation": "FWO (Fonds voor Wetenschappelijk Onderzoek - Vlaanderen)",
+    "montant": 5616.81,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-16",
+    "deadline_texte": "16 novembre 2026 à 17h00 (heure locale)",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Recherche scientifique",
+      "Sciences biomédicales",
+      "STEM",
+      "Oncologie"
+    ],
+    "pays_eligibles": [
+      "Belgique (Flandre)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement, car le site est en anglais, mais pas explicitement mentionné)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Lettre de recommandation du superviseur (obligatoire)",
+      "CV",
+      "Diplôme de doctorat ou équivalent",
+      "Preuve de la date de soutenance (si le doctorat est obtenu après la date limite)"
+    ],
+    "avantages": [
+      "Salaire mensuel brut de 5 616,81 € (indice 2,1647 au 1er mars 2026)",
+      "Frais de fonctionnement (bench fee) de 4 000 € à 10 000 € par an",
+      "Durée de 3 ans",
+      "Possibilité de financement supplémentaire via le Fonds Suzanne Duchesne (50 000 € pour l'appel 2027, frais de bench spéciaux en oncologie)",
+      "Bourse de recherche supplémentaire L'Oréal-UNESCO de 20 000 € (non disponible pour l'appel en cours, prochaine édition en 2028)"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un doctorat (PhD) par thèse ou d'un diplôme reconnu équivalent selon les directives de l'Union européenne ou un accord bilatéral",
+      "Avoir obtenu le doctorat depuis moins de 3 ans avant le 1er octobre de l'année de début de la bourse, ou le soutenir au plus tard le 15 septembre de cette année (dans ce cas, informer le FWO de la date de soutenance avant le 1er juillet)",
+      "Ne pas avoir déjà bénéficié de cette bourse, même partiellement",
+      "Pouvoir postuler maximum deux fois pour la même bourse",
+      "Accepter la clause d'intégrité scientifique",
+      "Avoir un superviseur dans une institution d'accueil flamande",
+      "Pour une deuxième candidature au même type de bourse postdoctorale, la première candidature doit avoir été classée parmi les 50% supérieurs lors de la présélection du printemps 2026"
+    ],
+    "procedure_etapes": [
+      "Trouver un superviseur dans une institution d'accueil flamande (article 3 du règlement sur les chercheurs postdoctoraux)",
+      "Préparer le dossier de candidature avec le superviseur",
+      "Soumettre la candidature via le portail en ligne (https://fwoweb.fwo.be/) avant le 16 novembre 2026 à 17h00",
+      "Le superviseur doit soumettre une lettre de recommandation (partie obligatoire de la candidature)",
+      "Présélection en ligne par le panel d'experts (18-25 mars 2027)",
+      "Notification d'invitation à l'entretien (26 mars 2027)",
+      "Entretiens physiques (14 avril - 5 mai 2027)",
+      "Annonce des résultats (13 mai 2027)",
+      "Début de la bourse (1er octobre ou 1er novembre 2027)"
+    ],
+    "contacts": [
+      "FWOhelpdesk@fwo.be"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature en ligne",
+        "url": "https://fwoweb.fwo.be/"
+      },
+      {
+        "label": "Règlement du programme (junior et senior postdoc)",
+        "url": "https://www.fwo.be/en/support-programmes/regulations/junior-and-senior-postdoc/"
+      },
+      {
+        "label": "Règlement général",
+        "url": "https://www.fwo.be/en/support-programmes/regulations/general-regulations/"
+      },
+      {
+        "label": "Règlement sur les frais de bench",
+        "url": "https://www.fwo.be/en/support-programmes/regulations/regulations-for-the-bench-fee-of-fwo-fellows/"
+      },
+      {
+        "label": "Règlement sur l'évaluation par les pairs",
+        "url": "https://www.fwo.be/en/support-programmes/regulations/internal-and-external-peer-review/"
+      },
+      {
+        "label": "Formulaire de recommandation du superviseur (PDF)",
+        "url": "https://www.fwo.be/media/azthivhi/advies-formulier-postdoc.pdf"
+      },
+      {
+        "label": "Dates des entretiens (PDF)",
+        "url": "https://www.fwo.be/media/dv5nuyag/postdoc-fellowship-call-interview-dates.pdf"
+      },
+      {
+        "label": "Présentation d'information (PDF)",
+        "url": "https://www.fwo.be/media/1025137/postdoc-call-infosessie.pdf"
+      },
+      {
+        "label": "Vidéo explicative du formulaire de candidature",
+        "url": "https://youtu.be/BuVa4_0WYAY"
+      },
+      {
+        "label": "Exemple de formulaire de candidature (PDF)",
+        "url": "https://www.fwo.be/media/1025145/application-form-for-a-junior-postdoctoral-fellow.pdf"
+      },
+      {
+        "label": "Page des résultats",
+        "url": "https://www.fwo.be/en/results-outreach/"
+      },
+      {
+        "label": "Contact pour les chercheurs",
+        "url": "https://www.fwo.be/en/contact/for-the-researcher/"
+      },
+      {
+        "label": "Fonds Suzanne Duchesne - frais de bench spéciaux",
+        "url": "https://www.fwo.be/en/support-programmes/postdoctoral-fellowships/special-bench-fee-from-the-fund-suzanne-duchesne/"
+      },
+      {
+        "label": "Bourse L'Oréal-UNESCO pour les femmes en science",
+        "url": "https://www.fwo.be/en/support-programmes/postdoctoral-fellowships/special-bench-fee-loreal-unesco-for-women-in-science/"
+      },
+      {
+        "label": "Bourses FWO - Plantentuin Meise",
+        "url": "https://www.fwo.be/en/support-programmes/phd-fellowships/meise-botanic-garden-fwo-fellowships/"
+      },
+      {
+        "label": "Bourses FWO - VITO",
+        "url": "https://www.fwo.be/en/support-programmes/phd-fellowships/vito-fwo-fellowships/"
+      },
+      {
+        "label": "Bourses FWO - Flanders Hydraulics",
+        "url": "https://www.fwo.be/en/support-programmes/phd-fellowships/wl-fwo-fellowships/"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "FWO",
+      "bourse Belgique",
+      "recherche postdoctorale",
+      "financement recherche",
+      "bourse junior postdoc",
+      "bourse Flandre",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://fwoweb.fwo.be/",
+    "source_url": "https://fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/?fbclid=IwY2xjawU6QFlleHRuA2FlbQIxMABwZG9mAWJyaWQRMWFMZ2pIelJnWnJzNDRxMjVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe4mwnvajzIHrc6qFxoopjVn6UReRkeGD_0y0pLFZxxpxTdpCgXtyhc8NpYfs_aem_pLy-uA0vajBiT_NL83XOnw",
+    "statut": "fermé",
+    "resume": "La bourse postdoctorale junior du FWO soutient les chercheurs ayant récemment obtenu leur doctorat et souhaitant développer une carrière de recherche indépendante. Elle offre un salaire mensuel brut de 5 616,81 € et des frais de fonctionnement annuels de 4 000 à 10 000 € pour une durée de trois ans. Les candidats doivent trouver un superviseur dans une institution flamande et soumettre leur dossier avant le 16 novembre 2026. Cette bourse est une opportunité exceptionnelle pour les jeunes chercheurs en sciences biomédicales, STEM et autres disciplines.",
+    "imageUrl": "/docs/bourse-postdoctorale-junior.webp",
+    "extrait_le": "2026-10-13T00:41:06",
+    "slug": "bourse-postdoctorale-junior-fwo-2027"
+  },
+  {
+    "titre": "Bourse postdoctorale de l'Initiative sur les trous noirs (BHI) de l'Université Harvard",
+    "seo_slug": "bourse-bhi-postdoctorat-harvard-2026",
+    "organisation": "Black Hole Initiative (BHI), Harvard University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-16",
+    "deadline_texte": "16 novembre 2026 à 17h00 EST (heure de l'Est)",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Physique",
+      "Astronomie",
+      "Astrophysique",
+      "Philosophie",
+      "Histoire des sciences"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Candidature en ligne",
+      "CV",
+      "Lettre de motivation",
+      "Projet de recherche",
+      "Lettres de recommandation"
+    ],
+    "avantages": [
+      "Financement pour trois ans (sous réserve de performance et de financement)",
+      "Accès aux ressources informatiques",
+      "Prise en charge des frais de publication",
+      "Prise en charge des voyages liés aux conférences",
+      "Opportunités d'interaction avec des chercheurs de premier plan"
+    ],
+    "eligibilite": [
+      "Titre de docteur (PhD) ou équivalent",
+      "Recherche en lien avec les trous noirs ou domaines connexes",
+      "Excellence académique"
+    ],
+    "procedure_etapes": [
+      "1. Préparer le dossier de candidature (CV, projet de recherche, lettres de recommandation, etc.)",
+      "2. Soumettre la candidature en ligne via le lien fourni",
+      "3. Les candidatures sont examinées au fur et à mesure jusqu'à ce que les postes soient pourvus"
+    ],
+    "contacts": [
+      "nicole.grenier@cfa.harvard.edu",
+      "617-496-8956"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel",
+        "url": "https://bit.ly/4As5xVF"
+      },
+      {
+        "label": "Site officiel de l'Université Harvard",
+        "url": "https://www.harvard.edu/"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "Harvard",
+      "trous noirs",
+      "astrophysique",
+      "physique",
+      "recherche postdoctorale",
+      "BHI",
+      "bourse internationale"
+    ],
+    "lien_candidature": "https://bit.ly/4As5xVF",
+    "source_url": "https://bhi.fas.harvard.edu/news-articles/bhi-postdoctoral-fellowship-applications-are-open-2/?fbclid=IwY2xjawVl5LpleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfZ0JPGkO5rWcU_8A7_ghlpX972hdpvKyNinKVrY5nbkZbGGbU7tYhpj_OfQM_aem_3CgZPeBsPZgU0b1RcwbRwQ",
+    "statut": "fermé",
+    "resume": "L'Université Harvard, à travers son Black Hole Initiative (BHI), invite les candidatures pour des bourses postdoctorales en recherche sur les trous noirs. Ce programme interdisciplinaire unique offre un environnement de recherche exceptionnel avec des chercheurs de renommée mondiale. Les boursiers bénéficieront d'un financement pour trois ans, de ressources pour la recherche et d'opportunités de collaboration. Date limite de candidature : 16 novembre 2026.",
+    "adresse": "20 Garden Street, 2e étage, Cambridge, MA 02138",
+    "imageUrl": "/docs/les-candidatures-pour-les-bourses-postdoctorales-du-bhi-sont-ouvertes.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:09:23",
+    "slug": "bourse-bhi-postdoctorat-harvard-2026"
   },
   {
     "titre": "Bourse Rhodes 2027 pour les candidats internationaux (hors pays spécifiques)",

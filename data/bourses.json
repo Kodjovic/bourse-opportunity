@@ -21566,6 +21566,86 @@
     "slug": "bourse-icann-fellowship-2026"
   },
   {
+    "titre": "Programme d'enseignement de l'anglais (ESL) à Taïwan",
+    "seo_slug": "bourse-enseignement-anglais-taiwan-2026",
+    "organisation": "Teach in Taiwan (Foresight)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "emploi rémunéré",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Enseignement de l'anglais (ESL)"
+    ],
+    "pays_eligibles": [
+      "Pays anglophones"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Diplôme de licence ou supérieur",
+      "Certification d'enseignement (TESL/CELTA) avec stage pratique en présentiel",
+      "Passeport d'un pays anglophone",
+      "CV",
+      "Références"
+    ],
+    "avantages": [
+      "Salaire compétitif",
+      "Aide à la demande de visa et de permis de travail",
+      "Orientation des enseignants",
+      "Excursions",
+      "Soutien continu",
+      "Aide à la recherche de logement"
+    ],
+    "eligibilite": [
+      "Diplôme de licence ou supérieur (éducation préférée)",
+      "Certification d'enseignement valide ou TESL/CELTA d'une institution reconnue avec stage pratique en présentiel",
+      "Citoyenneté d'un pays anglophone",
+      "Expérience en enseignement ESL (un plus)",
+      "Expérience avec les enfants (préféré)",
+      "État d'esprit professionnel : collaboratif, adaptable et respectueux des cultures"
+    ],
+    "procedure_etapes": [
+      "1. Postuler et soumettre les documents via le formulaire de candidature en ligne",
+      "2. Premier entretien (en ligne ou avec un directeur ontarien) et vérification des références",
+      "3. Deuxième entretien avec un représentant des RH pour discuter du placement et des détails du contrat",
+      "4. Offre de contrat envoyée par email ; après signature, collecte des documents pour le visa et le permis de travail"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://forms.gle/f6SZqQTCSgA2fuPDA"
+      },
+      {
+        "label": "Formulaire de candidature (Google Forms)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSebTcsz6bQt4kfsmLNSuHCoEojTe2m9toatCh-rm0p8DJkBuQ/viewform"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "enseignement anglais",
+      "Taïwan",
+      "ESL",
+      "emploi enseignant",
+      "certification TESL",
+      "CELTA",
+      "pays anglophones"
+    ],
+    "lien_candidature": "https://forms.gle/f6SZqQTCSgA2fuPDA",
+    "source_url": "https://teachintaiwan.com/apply-now/",
+    "statut": "ouvert",
+    "resume": "Teach in Taiwan (Foresight) recrute des enseignants d'anglais (ESL) pour des postes à Taïwan. Les candidats doivent être titulaires d'une licence, d'une certification d'enseignement (TESL/CELTA) avec stage pratique, et être citoyens d'un pays anglophone. Le processus de sélection comprend deux entretiens et une vérification des références. Les enseignants bénéficient d'un salaire compétitif, d'une aide pour le visa et le permis de travail, ainsi que d'un accompagnement à l'installation.",
+    "imageUrl": "/docs/postulez-pour-des-emplois-d-enseignant-d-anglais-langue-trang-re-ta-wan.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-20T10:10:18",
+    "slug": "bourse-enseignement-anglais-taiwan-2026"
+  },
+  {
     "titre": "Master Européen en Linguistique Clinique (EMCL)",
     "seo_slug": "bourse-emcl-master-linguistique-clinique-2027",
     "organisation": "Erasmus Mundus Joint Master Degree (EMJMD) - Universités de Finlande orientale, Gand et Groningue",

@@ -1,112 +1,5 @@
 [
   {
-    "titre": "Cycles internationaux 2027-2028 de l'INSP et des ISP (ex IRA)",
-    "seo_slug": "insp-cycles-internationaux-2027-2028",
-    "organisation": "Institut national du service public (INSP)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "formation",
-    "deadline": "2026-11-20",
-    "deadline_texte": "20 novembre 2026 (clôture des inscriptions en ligne)",
-    "niveau_etudes": [
-      "Master 1 ou équivalent"
-    ],
-    "domaines": [
-      "Administration publique",
-      "Service public",
-      "Gouvernance"
-    ],
-    "pays_eligibles": [
-      "Tous les pays sauf la France (candidats non français)"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Français (excellente maîtrise à l'oral et à l'écrit) et anglais (bonne maîtrise)",
-    "documents_requis": [
-      "Photo d'identité",
-      "CV",
-      "Copie du passeport ou carte d'identité",
-      "Copie du diplôme de niveau le plus élevé et sa traduction en français le cas échéant",
-      "Lettre de motivation"
-    ],
-    "avantages": [
-      "Formation au sein de l'INSP ou des ISP",
-      "Possibilité de bourse (non spécifiée dans le texte)"
-    ],
-    "eligibilite": [
-      "Ne pas avoir la nationalité française ni être en cours d'acquisition de la nationalité française",
-      "Disposer de ressources mensuelles au moins égales à 1 800 euros par mois, bourses comprises le cas échéant",
-      "Posséder une excellente maîtrise de la langue française tant à l'oral qu'à l'écrit",
-      "Disposer d'un diplôme de niveau master 1 ou d'un cursus équivalent",
-      "Être fonctionnaire, agent public ou exceptionnellement, ne pas encore être entré dans la vie professionnelle et se destiner à une carrière dans le service public au bénéfice de son pays d'origine",
-      "Exercer des responsabilités de niveau supérieur (pour les fonctionnaires ou agents publics)",
-      "Satisfaire aux épreuves de sélection organisées par l'Institut",
-      "Avoir une bonne maîtrise de l'anglais",
-      "Avoir informé sa hiérarchie de ses démarches et de la certitude d'être libéré ou mis à disposition par celui-ci en cas de réussite à l'ensemble du processus de sélection"
-    ],
-    "procedure_etapes": [
-      "Consulter la FAQ 2027-28 et le calendrier de la sélection 2027-2028",
-      "Vérifier les conditions d'admission au cycle choisi (CIL, CIP ou CiISP)",
-      "Rassembler les pièces complémentaires requises",
-      "S'inscrire en ligne sur le site de l'INSP entre le 21 septembre 2026 et le 20 novembre 2026",
-      "Valider l'inscription en ligne (environ 30 minutes)",
-      "Conserver le numéro de dossier reçu par email",
-      "Attendre l'examen de la candidature par l'INSP et l'ambassade de France"
-    ],
-    "contacts": [
-      "cyclesinternationaux2027@insp.gouv.fr",
-      "DelegueProtectionDonnees@insp.gouv.fr"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Site officiel de l'INSP",
-        "url": "https://www.insp.gouv.fr"
-      },
-      {
-        "label": "Calendrier de la sélection 2027-2028 (PDF)",
-        "url": "https://www.insp.gouv.fr/registration/session/download/?name=840/I/Calendrier%20session%202027-2028%20portail%20INSP.pdf"
-      },
-      {
-        "label": "FAQ 2027-2028 (PDF)",
-        "url": "https://www.insp.gouv.fr/registration/session/download/?name=840/I/FAQ_recrutement_cycles_internationaux_INSP_ISP_2027-2028.pdf"
-      },
-      {
-        "label": "Facebook INSP",
-        "url": "https://www.facebook.com/insp.gouv.fr"
-      },
-      {
-        "label": "X (Twitter) INSP",
-        "url": "https://twitter.com/INSP_Fr"
-      },
-      {
-        "label": "LinkedIn INSP",
-        "url": "https://www.linkedin.com/company/insp-institut-national-du-service-public"
-      },
-      {
-        "label": "YouTube INSP",
-        "url": "https://www.youtube.com/channel/UCFaF0xJcTDYgKoeP_4mK7gg"
-      }
-    ],
-    "mots_cles": [
-      "bourse INSP",
-      "cycles internationaux INSP",
-      "formation service public",
-      "bourse master administration",
-      "bourse France",
-      "ISP ex IRA",
-      "cycle international long",
-      "cycle international de perfectionnement"
-    ],
-    "lien_candidature": "https://candidature-formation.insp.gouv.fr/registration/action840/info/",
-    "source_url": "https://candidature-formation.insp.gouv.fr/registration/action840/info/?fbclid=IwY2xjawVl9gtleHRuA2FlbQIxMABwZG9mAWJyaWQRMU5VUEJ5dUREaWZjTWRRbHZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfb91dOaKr5PPZII2YmUqEgFUVh6KB5KYNdDqnmOHs3nnv8nRYt3wokVYVGrs_aem_42sQJQd3QUNCcIzzjt8UKA",
-    "statut": "ouvert",
-    "resume": "L'Institut national du service public (INSP) ouvre les candidatures pour ses cycles internationaux 2027-2028, destinés aux fonctionnaires et agents publics étrangers souhaitant se perfectionner dans le service public. La formation se déroule sur une année académique à partir d'août 2027 et offre trois parcours : le Cycle International Long (CIL), le Cycle International de Perfectionnement (CIP) et le Cycle International des ISP (CiISP). Les candidats doivent être non-français, titulaires d'un master 1, maîtriser le français et l'anglais, et disposer de ressources financières suffisantes. Les inscriptions en ligne sont ouvertes du 21 septembre au 20 novembre 2026.",
-    "imageUrl": "/docs/cycles-internationaux-2027-2028-de-l-insp-et-des-isp.png",
-    "pdfUrl": null,
-    "pdfLabel": null,
-    "extrait_le": "2026-11-15T04:06:22",
-    "slug": "insp-cycles-internationaux-2027-2028"
-  },
-  {
     "titre": "Bourses de recherche Monica Cole et Henrietta Hutton",
     "seo_slug": "bourse-monica-cole-henrietta-hutton-2026",
     "organisation": "Royal Geographical Society (avec l'Institute of British Geographers)",
@@ -2875,123 +2768,6 @@
     "slug": "bourse-mastercard-foundation-sciences-po-2026"
   },
   {
-    "titre": "Bourses MOPGA 2027 : séjour de recherche pour jeunes chercheurs",
-    "seo_slug": "bourse-mopga-recherche-france-2027",
-    "organisation": "Ministère de l'Europe et des Affaires étrangères (MEAE), en partenariat avec le MESRE et Campus France",
-    "montant": 2500,
-    "devise": "EUR",
-    "type_financement": "bourse complète",
-    "deadline": "2026-12-15",
-    "deadline_texte": "15 décembre 2026 (clôture de l'appel à candidatures)",
-    "niveau_etudes": [
-      "Post-doctorat"
-    ],
-    "domaines": [
-      "Sciences du système terrestre",
-      "Sciences du changement climatique et science de la durabilité",
-      "Transition énergétique",
-      "Enjeux sociétaux des questions environnementales",
-      "Santé humaine, animale et environnementale (approche One Health)"
-    ],
-    "pays_eligibles": [
-      "Toutes les nationalités sauf française"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais ou français",
-    "documents_requis": [
-      "CV avec liste des publications (4 pages max.)",
-      "Diplôme de doctorat (ou attestation de diplôme)",
-      "CV du référent scientifique au sein du laboratoire d'accueil (2 pages max.)",
-      "Lettre de soutien du référent scientifique, co-signée par le directeur du laboratoire ou accompagnée d'une lettre d'engagement de ce dernier, attestant de la mise à disposition de l'environnement scientifique et des moyens nécessaires à la bonne conduite du projet de recherche et de la cohérence avec les objectifs du laboratoire",
-      "Lettre de recommandation (1 minimum - 3 maximum)",
-      "Copie du passeport ou document national d'identité"
-    ],
-    "avantages": [
-      "Allocation mensuelle de 2 500 €",
-      "Allocation d'installation de 500 €",
-      "Couverture santé : assurance santé, responsabilité civile et assistance rapatriement (puis complémentaire santé une fois l'affiliation à la sécurité sociale effectuée)",
-      "Statut de boursier du gouvernement français (BGF)",
-      "Bourse versée directement par Campus France",
-      "Convention de séjour de recherche à établir entre l'institution d'accueil en France et le chercheur",
-      "Environnement scientifique adapté fourni par le laboratoire d'accueil pendant toute la durée du séjour"
-    ],
-    "eligibilite": [
-      "Être titulaire d'un diplôme de doctorat obtenu depuis moins de 5 ans à la date de dépôt du dossier (thèse soutenue entre décembre 2021 et décembre 2026 inclus)",
-      "Être exclusivement de nationalité étrangère (toutes les nationalités sont éligibles à l'exception de la nationalité française)",
-      "Candidater dans le cadre d'une mobilité internationale vers la France",
-      "Ne pas résider ni exercer son activité professionnelle en France au moment de la candidature",
-      "Ne pas avoir déjà bénéficié d'une bourse MOPGA"
-    ],
-    "procedure_etapes": [
-      "Vérifier son éligibilité (doctorat obtenu depuis moins de 5 ans, nationalité étrangère non française, mobilité internationale, non-résidence en France, ne pas avoir déjà bénéficié de MOPGA)",
-      "Trouver un laboratoire d'accueil en France et obtenir une lettre de soutien du référent scientifique co-signée par le directeur du laboratoire",
-      "Préparer le projet de recherche (titre, mots-clés, résumé, contexte et motivation, objectifs scientifiques, méthodologie et calendrier, positionnement par rapport à MOPGA, collaboration internationale/retombées)",
-      "Rassembler les documents requis (CV avec publications, diplôme de doctorat, CV du référent, lettre de soutien, lettres de recommandation, copie du passeport)",
-      "Soumettre la candidature en ligne sur la plateforme Campus France Smapply",
-      "Consulter la FAQ et télécharger le guide de candidature",
-      "Attendre les résultats (notification en mai-juin 2027)",
-      "Si sélectionné, arriver en France entre septembre et décembre 2027 pour débuter le séjour de recherche"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Formulaire de candidature en ligne",
-        "url": "https://campusfrance.smapply.io/prog/mopga_2027/"
-      },
-      {
-        "label": "Guide de candidature (PDF)",
-        "url": "https://www.campusfrance.org/system/files/medias/documents/2026-09/MOPGA%202027%20-%20Application%20Guide.pdf"
-      },
-      {
-        "label": "Thématiques MOPGA",
-        "url": "https://www.campusfrance.org/fr/les-thematiques-mopga-make-our-planet-great-again"
-      },
-      {
-        "label": "Circulaire MESRE sur la mise en œuvre du séjour de recherche",
-        "url": "https://www.enseignementsup-recherche.gouv.fr/fr/bo/22/Hebdo19/ESRS2207381C.htm#item5%C2%A0%C2%A0"
-      },
-      {
-        "label": "Programme de bourses France Excellence Eiffel",
-        "url": "https://www.campusfrance.org/fr/le-programme-de-bourses-france-excellence-eiffel"
-      },
-      {
-        "label": "Campus Bourse - bourses pour étudiants étrangers",
-        "url": "https://www.campusfrance.org/fr/bourses-etudiants-etrangers"
-      },
-      {
-        "label": "Portail de la recherche en France",
-        "url": "https://www.campusfrance.org/fr/portail-Recherche-en-France"
-      },
-      {
-        "label": "Plateforme doctorat.gouv.fr",
-        "url": "http://doctorat.gouv.fr"
-      },
-      {
-        "label": "Annuaires des laboratoires",
-        "url": "https://www.campusfrance.org/fr/trouver-laboratoire-recherche-France"
-      }
-    ],
-    "mots_cles": [
-      "bourse MOPGA",
-      "bourse recherche France",
-      "bourse postdoctorale",
-      "Make Our Planet Great Again",
-      "bourse gouvernement français",
-      "recherche climat",
-      "transition énergétique",
-      "One Health",
-      "Campus France",
-      "bourse 2027"
-    ],
-    "lien_candidature": "https://campusfrance.smapply.io/prog/mopga_2027/",
-    "source_url": "manuel",
-    "statut": "ouvert",
-    "resume": "Le programme MOPGA (Make Our Planet Great Again) lance son dixième appel à candidatures pour 2027, offrant des bourses de séjour de recherche postdoctorale en France. Financé par le ministère de l'Europe et des Affaires étrangères et mis en œuvre par Campus France, il vise à accueillir de jeunes chercheurs internationaux travaillant sur les enjeux environnementaux et climatiques. Les lauréats bénéficient d'une allocation mensuelle de 2 500 € pendant 12 mois, d'une allocation d'installation de 500 € et d'une couverture santé. Les candidatures sont ouvertes du 15 septembre au 15 décembre 2026, pour un début de séjour entre septembre et décembre 2027.",
-    "imageUrl": null,
-    "extrait_le": "2026-11-11T15:19:15",
-    "slug": "bourse-mopga-recherche-france-2027"
-  },
-  {
     "titre": "Bourses d'entrée pour étudiants de premier cycle (USES) - Université Simon Fraser",
     "seo_slug": "bourse-uses-sfu-premier-cycle-2027",
     "organisation": "Simon Fraser University (SFU)",
@@ -4048,6 +3824,112 @@
     "imageUrl": null,
     "extrait_le": "2026-11-09T17:32:17",
     "slug": "bourse-doctorat-ista-autriche-2027"
+  },
+  {
+    "titre": "Master conjoint Erasmus Mundus en Imagerie",
+    "seo_slug": "bourse-erasmus-mundus-imagerie-2027",
+    "organisation": "Erasmus Mundus Joint Master in Imaging (Consortium : Politecnico di Milano, Mid Sweden University, Tampere University)",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2027-01-12",
+    "deadline_texte": "12 janvier 2027 à 15h00 UTC+2 (premier tour)",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Imagerie",
+      "Traitement du signal visuel",
+      "Apprentissage automatique",
+      "Apprentissage profond"
+    ],
+    "pays_eligibles": [
+      "Union européenne",
+      "Espace économique européen",
+      "Suisse",
+      "Pays tiers"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse complète (montant non précisé dans le texte)",
+      "Prise en charge des frais de participation",
+      "Possibilité de mobilité dans trois universités"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un diplôme de premier cycle (licence) ou équivalent",
+      "Pour le premier tour : ouvert aux citoyens de l'UE/EEE et hors UE/EEE",
+      "Pour le deuxième tour : réservé aux citoyens de l'UE/EEE, suisses ou titulaires d'un statut de résidence permettant d'étudier sans permis",
+      "Maîtrise de l'anglais (niveau non précisé)"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page 'Candidature et admission' pour les détails",
+      "2. Préparer les documents requis (non listés dans le texte)",
+      "3. Soumettre la candidature via le portail en ligne pendant la période d'ouverture (23 novembre 2026 - 12 janvier 2027 pour le premier tour)",
+      "4. Attendre les résultats finaux annoncés en avril 2027"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel du programme",
+        "url": "https://www.emjm-imaging.eu/"
+      },
+      {
+        "label": "À propos du programme",
+        "url": "https://www.emjm-imaging.eu/about-the-programme/"
+      },
+      {
+        "label": "Candidature et admission",
+        "url": "https://www.emjm-imaging.eu/application-and-admission/"
+      },
+      {
+        "label": "Coûts et bourses",
+        "url": "https://www.emjm-imaging.eu/costs-and-scholarship/"
+      },
+      {
+        "label": "Consortium",
+        "url": "https://www.emjm-imaging.eu/consortium/"
+      },
+      {
+        "label": "Partenaires associés",
+        "url": "https://www.emjm-imaging.eu/associated-partners/"
+      },
+      {
+        "label": "Témoignages d'étudiants",
+        "url": "https://www.emjm-imaging.eu/student-interviews/"
+      },
+      {
+        "label": "Politecnico di Milano",
+        "url": "https://www.polimi.it/en"
+      },
+      {
+        "label": "Mid Sweden University",
+        "url": "https://www.miun.se"
+      },
+      {
+        "label": "Tampere University",
+        "url": "https://www.tuni.fi/en"
+      }
+    ],
+    "mots_cles": [
+      "bourse Erasmus Mundus",
+      "master imagerie",
+      "bourse master Europe",
+      "Erasmus Mundus Imaging",
+      "bourse 2027",
+      "étude imagerie",
+      "bourse union européenne"
+    ],
+    "lien_candidature": "https://www.emjm-imaging.eu/application-and-admission/",
+    "source_url": "https://www.emjm-imaging.eu/",
+    "statut": "ouvert",
+    "resume": "Le Master conjoint Erasmus Mundus en Imagerie offre une formation d'excellence en traitement du signal visuel, apprentissage automatique et apprentissage profond. Ce programme international, coordonné par un consortium de trois universités européennes, prépare les étudiants à devenir des experts recherchés dans des secteurs comme la santé, l'éducation, la défense, le divertissement et la technologie. Les candidatures pour l'année académique 2027/2028 sont ouvertes en deux tours, avec un premier tour du 23 novembre 2026 au 12 janvier 2027 pour les étudiants du monde entier. Les bourses couvrent probablement les frais de scolarité et de subsistance, mais les détails financiers ne sont pas précisés dans le texte.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-23T19:11:09",
+    "slug": "bourse-erasmus-mundus-imagerie-2027"
   },
   {
     "titre": "Bourses internationales du Vice-Chancelier de l'Université de Newcastle",
@@ -8568,6 +8450,148 @@
     "resume": "L'Université de Tasmanie propose des bourses de recherche pour les étudiants de master et doctorat. Les candidats doivent trouver un projet et un superviseur, puis soumettre une proposition de recherche. Les bourses incluent une allocation de subsistance et une exonération des frais de scolarité. Les candidatures sont ouvertes toute l'année avec des dates limites spécifiques selon les projets.",
     "extrait_le": "2026-06-15T03:27:30",
     "slug": "bourse-recherche-tasmanie-2026"
+  },
+  {
+    "titre": "Programme doctoral TERRA-MED : 33 postes de doctorat entièrement financés entre la France et l'Espagne",
+    "seo_slug": "bourse-doctorat-terra-med-2026",
+    "organisation": "TERRA-MED (Euroregió) - Programme MSCA",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Gestion de l'eau",
+      "Traitement de l'eau",
+      "Énergie",
+      "Environnement",
+      "Climat",
+      "Géographie",
+      "Sociologie",
+      "Économie politique",
+      "Ingénierie",
+      "Biotechnologie",
+      "Océanographie",
+      "Hydrologie",
+      "Télédétection",
+      "Intelligence artificielle",
+      "Agriculture durable"
+    ],
+    "pays_eligibles": [
+      "France",
+      "Espagne",
+      "Union européenne",
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement) et français/espagnol selon l'institution",
+    "documents_requis": [
+      "CV",
+      "Lettre de motivation",
+      "Diplômes et relevés de notes",
+      "Proposition de recherche (selon l'offre)",
+      "Références",
+      "Preuve de niveau d'anglais"
+    ],
+    "avantages": [
+      "Financement complet pour 3 ans",
+      "Salaire compétitif selon les normes MSCA",
+      "Couverture sociale",
+      "Indemnité de mobilité",
+      "Frais de voyage",
+      "Formation et développement de carrière",
+      "Double diplôme de doctorat possible",
+      "Mobilité internationale"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un master ou équivalent",
+      "Ne pas avoir résidé plus de 12 mois dans le pays d'accueil au cours des 3 dernières années (règle de mobilité MSCA)",
+      "Respecter les conditions MSCA",
+      "Anglais courant",
+      "Motivation pour la recherche interdisciplinaire"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la liste des 33 offres de doctorat",
+      "2. Vérifier les conditions d'éligibilité MSCA",
+      "3. Préparer les documents requis",
+      "4. Postuler en ligne via le portail de candidature",
+      "5. Suivre les instructions spécifiques à chaque offre"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel TERRA-MED",
+        "url": "https://terra-med.euroregio.eu/"
+      },
+      {
+        "label": "Liste complète des offres de doctorat (PDF)",
+        "url": "https://terra-med.euroregio.eu/phd-offer-list"
+      },
+      {
+        "label": "Conditions MSCA et éligibilité",
+        "url": "https://terra-med.euroregio.eu/msca-conditions-and-eligibility"
+      },
+      {
+        "label": "Comment postuler",
+        "url": "https://terra-med.euroregio.eu/how-to-apply"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://terra-med.euroregio.eu/faq"
+      },
+      {
+        "label": "Offre UOC4 (PDF)",
+        "url": "https://terra-med.euroregio.eu/wp-content/uploads/2026/10/UOC4_PhD_offer_UOC_H.pdf"
+      },
+      {
+        "label": "Offre UDG1 (PDF)",
+        "url": "https://terra-med.euroregio.eu/wp-content/uploads/2026/10/UDG1_PhD-offer-template-UdG-UIB.pdf"
+      },
+      {
+        "label": "Offre UDG3 (PDF)",
+        "url": "https://terra-med.euroregio.eu/wp-content/uploads/2026/10/UDG3_PhD-offer_.pdf"
+      },
+      {
+        "label": "Offre UDG4 (PDF)",
+        "url": "https://terra-med.euroregio.eu/wp-content/uploads/2026/10/UDG4_-PhD-offer-UdG4-TB-gl.pdf"
+      },
+      {
+        "label": "Offre UM5 (PDF)",
+        "url": "https://terra-med.euroregio.eu/wp-content/uploads/2026/10/UM5_MICHEL_PhD-offer-template.pdf"
+      },
+      {
+        "label": "Offre UIB4 (PDF)",
+        "url": "https://terra-med.euroregio.eu/wp-content/uploads/2026/10/UIB4-PhD-offer-TERRA-MED.pdf"
+      },
+      {
+        "label": "Offre UPVD2 (PDF)",
+        "url": "https://terra-med.euroregio.eu/wp-content/uploads/2026/10/UPVD2_PhD_research_challenge_ECCOFI.pdf"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat",
+      "TERRA-MED",
+      "MSCA",
+      "France Espagne",
+      "doctorat financé",
+      "gestion de l'eau",
+      "changement climatique",
+      "recherche",
+      "euroregio",
+      "PhD"
+    ],
+    "lien_candidature": "https://terra-med.euroregio.eu/how-to-apply",
+    "source_url": "manuel",
+    "statut": "ouvert",
+    "resume": "Le programme doctoral TERRA-MED offre 33 postes de doctorat entièrement financés dans le cadre des actions MSCA, répartis entre des universités et centres de recherche de France (Occitanie) et d'Espagne (Catalogne et îles Baléares). Les recherches portent sur des thématiques variées telles que la gestion de l'eau, l'énergie, le climat, l'environnement et les sciences sociales. Les candidats bénéficient d'un financement complet, d'une formation de haut niveau et de possibilités de double diplôme. Les candidatures sont à déposer via le portail en ligne, après avoir consulté les offres spécifiques et vérifié les conditions d'éligibilité MSCA.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-23T19:12:27",
+    "slug": "bourse-doctorat-terra-med-2026"
   },
   {
     "titre": "Programme de Bourses Karsh International",
@@ -21566,19 +21590,19 @@
     "slug": "bourse-icann-fellowship-2026"
   },
   {
-    "titre": "Programme d'enseignement de l'anglais (ESL) à Taïwan",
-    "seo_slug": "bourse-enseignement-anglais-taiwan-2026",
+    "titre": "Programme d'enseignement de l'anglais à Taïwan",
+    "seo_slug": "enseignement-anglais-taiwan-2026",
     "organisation": "Teach in Taiwan (Foresight)",
     "montant": null,
     "devise": null,
-    "type_financement": "emploi rémunéré",
+    "type_financement": "emploi avec salaire compétitif",
     "deadline": null,
     "deadline_texte": "Non spécifiée",
     "niveau_etudes": [
       "Licence"
     ],
     "domaines": [
-      "Enseignement de l'anglais (ESL)"
+      "Enseignement de l'anglais"
     ],
     "pays_eligibles": [
       "Pays anglophones"
@@ -21586,32 +21610,31 @@
     "age_maximum": null,
     "langue_requise": "Anglais",
     "documents_requis": [
-      "Diplôme de licence ou supérieur",
-      "Certification d'enseignement (TESL/CELTA) avec stage pratique en présentiel",
-      "Passeport d'un pays anglophone",
+      "Diplôme de licence",
+      "Certification d'enseignement (TESL/CELTA)",
+      "Passeport",
       "CV",
       "Références"
     ],
     "avantages": [
       "Salaire compétitif",
-      "Aide à la demande de visa et de permis de travail",
+      "Aide au visa et permis de travail",
       "Orientation des enseignants",
       "Excursions",
-      "Soutien continu",
-      "Aide à la recherche de logement"
+      "Soutien pour le logement"
     ],
     "eligibilite": [
       "Diplôme de licence ou supérieur (éducation préférée)",
-      "Certification d'enseignement valide ou TESL/CELTA d'une institution reconnue avec stage pratique en présentiel",
+      "Licence d'enseignement valide ou certification TESL/CELTA avec stage en présentiel",
       "Citoyenneté d'un pays anglophone",
-      "Expérience en enseignement ESL (un plus)",
-      "Expérience avec les enfants (préféré)",
-      "État d'esprit professionnel : collaboratif, adaptable et respectueux des cultures"
+      "Expérience en enseignement de l'anglais (souhaitée)",
+      "Expérience avec les enfants (souhaitée)",
+      "État d'esprit professionnel collaboratif, adaptable et respectueux culturellement"
     ],
     "procedure_etapes": [
-      "1. Postuler et soumettre les documents via le formulaire de candidature en ligne",
+      "1. Postuler en ligne et soumettre les documents via le formulaire de candidature",
       "2. Premier entretien (en ligne ou avec un directeur ontarien) et vérification des références",
-      "3. Deuxième entretien avec un représentant des RH pour discuter du placement et des détails du contrat",
+      "3. Deuxième entretien avec un représentant des ressources humaines pour discuter du placement et des détails du contrat",
       "4. Offre de contrat envoyée par email ; après signature, collecte des documents pour le visa et le permis de travail"
     ],
     "contacts": [],
@@ -21623,27 +21646,304 @@
       {
         "label": "Formulaire de candidature (Google Forms)",
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSebTcsz6bQt4kfsmLNSuHCoEojTe2m9toatCh-rm0p8DJkBuQ/viewform"
+      },
+      {
+        "label": "Site officiel Teach in Taiwan",
+        "url": "https://teachintaiwan.com"
       }
     ],
     "mots_cles": [
-      "bourse",
-      "enseignement anglais",
-      "Taïwan",
-      "ESL",
-      "emploi enseignant",
+      "enseignement anglais Taïwan",
+      "emploi ESL Taïwan",
+      "bourse Taïwan",
+      "travailler à Taïwan",
+      "programme d'enseignement",
+      "Teach in Taiwan",
       "certification TESL",
       "CELTA",
-      "pays anglophones"
+      "poste enseignant anglais"
     ],
     "lien_candidature": "https://forms.gle/f6SZqQTCSgA2fuPDA",
     "source_url": "https://teachintaiwan.com/apply-now/",
     "statut": "ouvert",
-    "resume": "Teach in Taiwan (Foresight) recrute des enseignants d'anglais (ESL) pour des postes à Taïwan. Les candidats doivent être titulaires d'une licence, d'une certification d'enseignement (TESL/CELTA) avec stage pratique, et être citoyens d'un pays anglophone. Le processus de sélection comprend deux entretiens et une vérification des références. Les enseignants bénéficient d'un salaire compétitif, d'une aide pour le visa et le permis de travail, ainsi que d'un accompagnement à l'installation.",
+    "resume": "Teach in Taiwan (Foresight) recrute des enseignants d'anglais pour des postes dans des écoles taïwanaises. Les candidats doivent être titulaires d'une licence, d'une certification d'enseignement (TESL/CELTA) et être citoyens d'un pays anglophone. Le processus de sélection comprend deux entretiens et une vérification des références. Les enseignants bénéficient d'un salaire compétitif, d'une aide pour le visa et le permis de travail, ainsi que d'un accompagnement pour leur installation à Taïwan.",
     "imageUrl": "/docs/postulez-pour-des-emplois-d-enseignant-d-anglais-langue-trang-re-ta-wan.png",
+    "pdfUrl": "/docs/join_taiwan-s_bilingual_education_efforts_moe_to_continue_recruiting_foreign_english_teaching_talent_in_2026.pdf",
+    "pdfLabel": null,
+    "extrait_le": "2026-11-20T10:24:20",
+    "slug": "enseignement-anglais-taiwan-2026"
+  },
+  {
+    "titre": "Master conjoint Erasmus Mundus NOHA en Action Humanitaire Internationale",
+    "seo_slug": "bourse-noha-master-action-humanitaire-2027",
+    "organisation": "NOHA Network on Humanitarian Action",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Action humanitaire",
+      "Relations internationales",
+      "Développement"
+    ],
+    "pays_eligibles": [
+      "Monde entier"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Prise en charge des frais de scolarité",
+      "Bourse mensuelle de subsistance",
+      "Couverture des frais de voyage",
+      "Assurance maladie"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un diplôme de premier cycle (licence) ou équivalent",
+      "Justifier d'une expérience ou d'un intérêt pour l'action humanitaire",
+      "Maîtrise de l'anglais (niveau requis non précisé)"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le site officiel de NOHA pour les détails de candidature",
+      "2. Préparer les documents requis (CV, lettre de motivation, diplômes, etc.)",
+      "3. Soumettre la candidature en ligne via le portail prévu à cet effet",
+      "4. Suivre les instructions supplémentaires fournies par le consortium"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de NOHA",
+        "url": "https://nohanet.org/"
+      },
+      {
+        "label": "Page de candidature",
+        "url": "https://nohanet.org/apply"
+      },
+      {
+        "label": "Programme de master",
+        "url": "https://nohanet.org/education"
+      },
+      {
+        "label": "Journal of International Humanitarian Action",
+        "url": "http://www.jhumanitarianaction.com/"
+      },
+      {
+        "label": "Page de contact",
+        "url": "https://nohanet.org/contact"
+      }
+    ],
+    "mots_cles": [
+      "bourse NOHA",
+      "master action humanitaire",
+      "Erasmus Mundus",
+      "bourse master international",
+      "action humanitaire",
+      "bourse études Europe",
+      "NOHA master",
+      "bourse 2027"
+    ],
+    "lien_candidature": "https://nohanet.org/apply",
+    "source_url": "https://www.nohanet.org/?fbclid=IwY2xjawVu-w1leHRuA2FlbQIxMABwZG9mAWJyaWQRMVVLUDJVbzJBY25wRDBnaEpzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfMJNBtHGkW2DrxvHliLGQsY46TO6jkCq39TfLSm8RVNVVHv8F7nzglEtJ4tc_aem_h97C1fiVMhhzEAMCoSXsjA",
+    "statut": "ouvert",
+    "resume": "Le programme de master conjoint Erasmus Mundus NOHA en Action Humanitaire Internationale est une opportunité unique pour les étudiants souhaitant se spécialiser dans le secteur humanitaire. Ce master, coordonné par un réseau de neuf universités européennes et de onze partenaires mondiaux, offre une formation d'excellence et une bourse complète couvrant les frais de scolarité, la subsistance et les voyages. Les candidatures pour la cohorte 2027-2029 sont ouvertes. Rejoignez un réseau de plus de 3 500 diplômés à travers le monde.",
+    "imageUrl": "/docs/programme-de-master-conjoint-erasmus-mundus-en-action-humanitaire-internationale.png",
     "pdfUrl": null,
     "pdfLabel": null,
-    "extrait_le": "2026-11-20T10:10:18",
-    "slug": "bourse-enseignement-anglais-taiwan-2026"
+    "extrait_le": "2026-11-21T23:37:03",
+    "slug": "bourse-noha-master-action-humanitaire-2027"
+  },
+  {
+    "titre": "Master of Science in Management (MScM) - Programme de recherche en gestion",
+    "seo_slug": "mscm-management-recherche-canada-2026",
+    "organisation": "Ted Rogers School of Management, Toronto Metropolitan University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée",
+    "niveau_etudes": [
+      "Master"
+    ],
+    "domaines": [
+      "Gestion",
+      "Recherche en gestion"
+    ],
+    "pays_eligibles": [
+      "Non spécifié"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Non spécifiée",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [
+      "Être titulaire d'un diplôme de premier cycle",
+      "Avoir un intérêt pour la recherche",
+      "Faire preuve d'excellence académique"
+    ],
+    "procedure_etapes": [
+      "1. Consulter les conditions d'admission sur la page des admissions",
+      "2. Trouver un superviseur parmi les professeurs",
+      "3. Préparer et soumettre la demande en ligne"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page d'admission du programme",
+        "url": "https://www.torontomu.ca/tedrogersschool/master-science-management/admissions/"
+      },
+      {
+        "label": "Conditions d'admission",
+        "url": "https://www.torontomu.ca/tedrogersschool/master-science-management/admissions/requirements/"
+      },
+      {
+        "label": "Liste des professeurs et superviseurs potentiels",
+        "url": "https://www.torontomu.ca/tedrogersschool/master-science-management/faculty#supervisors"
+      },
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://www.torontomu.ca/graduate/future-students/apply/online/"
+      },
+      {
+        "label": "Programme d'études",
+        "url": "https://www.torontomu.ca/tedrogersschool/master-science-management/program.html"
+      },
+      {
+        "label": "Recherche",
+        "url": "https://www.torontomu.ca/tedrogersschool/master-science-management/research/"
+      },
+      {
+        "label": "Sessions d'information à venir",
+        "url": "https://www.torontomu.ca/tedrogersschool/master-science-management/news-events/"
+      },
+      {
+        "label": "Initiatives autochtones",
+        "url": "https://www.torontomu.ca/tedrogersschool/equity-diversity-inclusion-accessibility/indigenous-initiatives/"
+      },
+      {
+        "label": "Mandat de la Standing Strong Task Force",
+        "url": "https://www.torontomu.ca/standing-strong-task-force/"
+      }
+    ],
+    "mots_cles": [
+      "bourse MScM",
+      "master gestion Canada",
+      "recherche en gestion",
+      "Ted Rogers School of Management",
+      "Toronto Metropolitan University",
+      "programme de maîtrise recherche",
+      "bourse études Canada",
+      "admission master gestion"
+    ],
+    "lien_candidature": "https://www.torontomu.ca/graduate/future-students/apply/online/",
+    "source_url": "https://www.torontomu.ca/tedrogersschool/master-science-management/?fbclid=IwY2xjawVxXbZleHRuA2FlbQIxMABwZG9mAWJyaWQRMUxrTEt3cjladjRHSmpVQ0tzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfZAfi4FXvVpKaWP7CKeeXTKpW0ooh_KgcTLbH5rcOHohuhbFuImP61hnvo_Q_aem_dIHl6b2Lpai_Y6TQrAqKEg",
+    "statut": "ouvert",
+    "resume": "Le Master of Science in Management (MScM) de la Ted Rogers School of Management est un programme de maîtrise basé sur la recherche, conçu pour les étudiants souhaitant poursuivre une carrière académique ou de recherche en gestion. D'une durée de 16 mois, il permet de travailler avec des professeurs renommés sur des problématiques complexes des organisations modernes. Les étudiants développent des compétences en recherche qualitative et quantitative dans diverses disciplines de gestion. Ce programme est idéal pour ceux qui visent un doctorat ou une carrière dans la recherche en entreprise.",
+    "imageUrl": "/docs/master-of-science-in-management.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-23T19:03:04",
+    "slug": "mscm-management-recherche-canada-2026"
+  },
+  {
+    "titre": "Doctorat en gestion - Ted Rogers School of Management",
+    "seo_slug": "doctorat-gestion-ted-rogers-canada-2026",
+    "organisation": "Ted Rogers School of Management, Toronto Metropolitan University",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Entreprise numérique et médias sociaux",
+      "Études immobilières",
+      "Commerce de détail et services aux consommateurs",
+      "Stratégie, innovation et entrepreneuriat",
+      "Gestion"
+    ],
+    "pays_eligibles": [],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Programme à temps plein ou à temps partiel",
+      "Accès à 18 centres, instituts et laboratoires de recherche",
+      "Encadrement par un superviseur de faculté",
+      "Réseau de 170 praticiens bien connectés",
+      "Partenaires industriels : conférenciers invités, séries de conférences, ateliers et séminaires",
+      "Projets de recherche collaboratifs expérientiels",
+      "Possibilité d'enseigner ses propres cours après la formation",
+      "Accréditation AACSB"
+    ],
+    "eligibilite": [
+      "Être passionné par la recherche",
+      "Souhaiter investiguer des sujets à impact réel",
+      "Être désireux d'influencer les pratiques commerciales",
+      "Capacité à mener des recherches scientifiques rigoureuses",
+      "Aptitude à une carrière académique (recherche, enseignement, service)"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page de contact pour en savoir plus",
+      "2. Suivre le processus de candidature sur la page dédiée",
+      "3. Explorer les recherches et les superviseurs de faculté",
+      "4. Soumettre sa candidature"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Nous contacter",
+        "url": "https://www.torontomu.ca/tedrogersschool/phd-management/contact/"
+      },
+      {
+        "label": "Processus de candidature",
+        "url": "https://www.torontomu.ca/tedrogersschool/phd-management/admissions/applications-process/"
+      },
+      {
+        "label": "Nos recherches",
+        "url": "https://www.torontomu.ca/tedrogersschool/phd-management/research/"
+      },
+      {
+        "label": "Superviseurs de faculté",
+        "url": "https://www.torontomu.ca/tedrogersschool/phd-management/faculty-supervisors/"
+      },
+      {
+        "label": "Initiatives autochtones",
+        "url": "https://www.torontomu.ca/content/ryerson/tedrogersschool/equity-diversity-inclusion-accessibility/indigenous-initiatives/"
+      },
+      {
+        "label": "Mandat de la Standing Strong Task Force",
+        "url": "https://www.torontomu.ca/content/ryerson/standing-strong-task-force/"
+      },
+      {
+        "label": "Accréditations",
+        "url": "https://www.torontomu.ca/tedrogersschool/about/accreditations/"
+      }
+    ],
+    "mots_cles": [
+      "doctorat gestion Canada",
+      "PhD management Toronto",
+      "Ted Rogers School PhD",
+      "bourse doctorat gestion",
+      "recherche en gestion Toronto",
+      "doctorat entrepreneuriat",
+      "études immobilières doctorat",
+      "stratégie innovation doctorat"
+    ],
+    "lien_candidature": "https://www.torontomu.ca/tedrogersschool/phd-management/admissions/applications-process/",
+    "source_url": "https://www.torontomu.ca/tedrogersschool/phd-management/?fbclid=IwY2xjawVxXu5leHRuA2FlbQIxMABwZG9mAWJyaWQRMUxrTEt3cjladjRHSmpVQ0tzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfnq8AHsaRyklgUgfRgjPhOplu6IaZO4pcW3FN_LDBERwtAyYkTgvMJ3ArUhQ_aem_xryvnbSzXZN3bWWSoFNplg",
+    "statut": "ouvert",
+    "resume": "Le Ted Rogers School of Management de la Toronto Metropolitan University propose un doctorat (PhD) en gestion au cœur du quartier des affaires de Toronto. Le programme offre quatre domaines de spécialisation interdisciplinaires : entreprise numérique et médias sociaux, études immobilières, commerce de détail et services aux consommateurs, ainsi que stratégie, innovation et entrepreneuriat. Les étudiants bénéficient d'un encadrement par un superviseur de faculté, d'un accès à 18 centres de recherche et d'un réseau de 170 praticiens. Des options d'études flexibles à temps plein ou à temps partiel permettent d'équilibrer vie professionnelle et académique.",
+    "imageUrl": "/docs/phd-in-management.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-23T19:06:04",
+    "slug": "doctorat-gestion-ted-rogers-canada-2026"
   },
   {
     "titre": "Master Européen en Linguistique Clinique (EMCL)",
@@ -42000,6 +42300,113 @@
     "pdfLabel": null,
     "extrait_le": "2026-11-15T02:38:55",
     "slug": "bourse-royal-society-career-development-2026"
+  },
+  {
+    "titre": "Cycles internationaux 2027-2028 de l'INSP et des ISP (ex IRA)",
+    "seo_slug": "insp-cycles-internationaux-2027-2028",
+    "organisation": "Institut national du service public (INSP)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "formation",
+    "deadline": "2026-11-20",
+    "deadline_texte": "20 novembre 2026 (clôture des inscriptions en ligne)",
+    "niveau_etudes": [
+      "Master 1 ou équivalent"
+    ],
+    "domaines": [
+      "Administration publique",
+      "Service public",
+      "Gouvernance"
+    ],
+    "pays_eligibles": [
+      "Tous les pays sauf la France (candidats non français)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Français (excellente maîtrise à l'oral et à l'écrit) et anglais (bonne maîtrise)",
+    "documents_requis": [
+      "Photo d'identité",
+      "CV",
+      "Copie du passeport ou carte d'identité",
+      "Copie du diplôme de niveau le plus élevé et sa traduction en français le cas échéant",
+      "Lettre de motivation"
+    ],
+    "avantages": [
+      "Formation au sein de l'INSP ou des ISP",
+      "Possibilité de bourse (non spécifiée dans le texte)"
+    ],
+    "eligibilite": [
+      "Ne pas avoir la nationalité française ni être en cours d'acquisition de la nationalité française",
+      "Disposer de ressources mensuelles au moins égales à 1 800 euros par mois, bourses comprises le cas échéant",
+      "Posséder une excellente maîtrise de la langue française tant à l'oral qu'à l'écrit",
+      "Disposer d'un diplôme de niveau master 1 ou d'un cursus équivalent",
+      "Être fonctionnaire, agent public ou exceptionnellement, ne pas encore être entré dans la vie professionnelle et se destiner à une carrière dans le service public au bénéfice de son pays d'origine",
+      "Exercer des responsabilités de niveau supérieur (pour les fonctionnaires ou agents publics)",
+      "Satisfaire aux épreuves de sélection organisées par l'Institut",
+      "Avoir une bonne maîtrise de l'anglais",
+      "Avoir informé sa hiérarchie de ses démarches et de la certitude d'être libéré ou mis à disposition par celui-ci en cas de réussite à l'ensemble du processus de sélection"
+    ],
+    "procedure_etapes": [
+      "Consulter la FAQ 2027-28 et le calendrier de la sélection 2027-2028",
+      "Vérifier les conditions d'admission au cycle choisi (CIL, CIP ou CiISP)",
+      "Rassembler les pièces complémentaires requises",
+      "S'inscrire en ligne sur le site de l'INSP entre le 21 septembre 2026 et le 20 novembre 2026",
+      "Valider l'inscription en ligne (environ 30 minutes)",
+      "Conserver le numéro de dossier reçu par email",
+      "Attendre l'examen de la candidature par l'INSP et l'ambassade de France"
+    ],
+    "contacts": [
+      "cyclesinternationaux2027@insp.gouv.fr",
+      "DelegueProtectionDonnees@insp.gouv.fr"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de l'INSP",
+        "url": "https://www.insp.gouv.fr"
+      },
+      {
+        "label": "Calendrier de la sélection 2027-2028 (PDF)",
+        "url": "https://www.insp.gouv.fr/registration/session/download/?name=840/I/Calendrier%20session%202027-2028%20portail%20INSP.pdf"
+      },
+      {
+        "label": "FAQ 2027-2028 (PDF)",
+        "url": "https://www.insp.gouv.fr/registration/session/download/?name=840/I/FAQ_recrutement_cycles_internationaux_INSP_ISP_2027-2028.pdf"
+      },
+      {
+        "label": "Facebook INSP",
+        "url": "https://www.facebook.com/insp.gouv.fr"
+      },
+      {
+        "label": "X (Twitter) INSP",
+        "url": "https://twitter.com/INSP_Fr"
+      },
+      {
+        "label": "LinkedIn INSP",
+        "url": "https://www.linkedin.com/company/insp-institut-national-du-service-public"
+      },
+      {
+        "label": "YouTube INSP",
+        "url": "https://www.youtube.com/channel/UCFaF0xJcTDYgKoeP_4mK7gg"
+      }
+    ],
+    "mots_cles": [
+      "bourse INSP",
+      "cycles internationaux INSP",
+      "formation service public",
+      "bourse master administration",
+      "bourse France",
+      "ISP ex IRA",
+      "cycle international long",
+      "cycle international de perfectionnement"
+    ],
+    "lien_candidature": "https://candidature-formation.insp.gouv.fr/registration/action840/info/",
+    "source_url": "https://candidature-formation.insp.gouv.fr/registration/action840/info/?fbclid=IwY2xjawVl9gtleHRuA2FlbQIxMABwZG9mAWJyaWQRMU5VUEJ5dUREaWZjTWRRbHZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfb91dOaKr5PPZII2YmUqEgFUVh6KB5KYNdDqnmOHs3nnv8nRYt3wokVYVGrs_aem_42sQJQd3QUNCcIzzjt8UKA",
+    "statut": "fermé",
+    "resume": "L'Institut national du service public (INSP) ouvre les candidatures pour ses cycles internationaux 2027-2028, destinés aux fonctionnaires et agents publics étrangers souhaitant se perfectionner dans le service public. La formation se déroule sur une année académique à partir d'août 2027 et offre trois parcours : le Cycle International Long (CIL), le Cycle International de Perfectionnement (CIP) et le Cycle International des ISP (CiISP). Les candidats doivent être non-français, titulaires d'un master 1, maîtriser le français et l'anglais, et disposer de ressources financières suffisantes. Les inscriptions en ligne sont ouvertes du 21 septembre au 20 novembre 2026.",
+    "imageUrl": "/docs/cycles-internationaux-2027-2028-de-l-insp-et-des-isp.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T04:06:22",
+    "slug": "insp-cycles-internationaux-2027-2028"
   },
   {
     "titre": "Bourse Rhodes 2027 pour les candidats internationaux (hors pays spécifiques)",

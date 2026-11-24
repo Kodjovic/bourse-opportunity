@@ -1,207 +1,5 @@
 [
   {
-    "titre": "Bourses de recherche Monica Cole et Henrietta Hutton",
-    "seo_slug": "bourse-monica-cole-henrietta-hutton-2026",
-    "organisation": "Royal Geographical Society (avec l'Institute of British Geographers)",
-    "montant": 1000,
-    "devise": "GBP",
-    "type_financement": "bourse partielle",
-    "deadline": "2026-11-23",
-    "deadline_texte": "23 novembre 2026 à 23h59 (heure de Londres)",
-    "niveau_etudes": [
-      "Licence",
-      "Master"
-    ],
-    "domaines": [
-      "Géographie physique",
-      "Géographie sociale",
-      "Environnement",
-      "Sciences de la Terre"
-    ],
-    "pays_eligibles": [
-      "Royaume-Uni"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne complété",
-      "CV d'une page (PDF, nommé NOM_CV)",
-      "Deux références (soumises directement par les référents à grants@rgs.org)",
-      "Optionnel : jusqu'à deux pages A4 de cartes et figures (PDF, nommé NOM_Figures and Maps)"
-    ],
-    "avantages": [
-      "Bourse de 1 000 £",
-      "Deux bourses pour la géographie physique (une pour licence, une pour master) soutenues par le legs Monica Cole",
-      "Deux bourses pour des projets à fort impact social ou environnemental (une pour licence, une pour master) soutenues par le fonds commémoratif Henrietta Hutton"
-    ],
-    "eligibilite": [
-      "Être inscrit dans un établissement d'enseignement supérieur au Royaume-Uni",
-      "Entreprendre un projet de recherche sur le terrain indépendant",
-      "Si le candidat fait partie d'une expédition organisée plus large, il doit clairement démontrer en quoi sa recherche de terrain est distincte de celle du projet global",
-      "Fournir des preuves solides de la participation du pays d'accueil"
-    ],
-    "procedure_etapes": [
-      "1. Vérifier l'éligibilité et les conditions sur le site du RGS",
-      "2. Créer un compte ou se connecter sur le portail RGS",
-      "3. Accéder à 'My Grants' dans le tableau de bord",
-      "4. Remplir le formulaire de candidature en ligne (voir le modèle pour les champs)",
-      "5. Télécharger le CV d'une page au format PDF (nommé NOM_CV)",
-      "6. Optionnel : télécharger jusqu'à deux pages A4 de cartes et figures (PDF, nommé NOM_Figures and Maps)",
-      "7. Demander à deux référents de soumettre directement le formulaire de référence à grants@rgs.org avant la date limite",
-      "8. Soumettre la candidature en ligne avant le 23 novembre 2026 à 23h59"
-    ],
-    "contacts": [
-      "grants@rgs.org"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Portail de candidature",
-        "url": "https://portal.rgs.org/account/dashboard/myGrants"
-      },
-      {
-        "label": "Modèle de formulaire de candidature (PDF)",
-        "url": "/media/ab5nokxf/rgs-grant-application-questions.pdf"
-      },
-      {
-        "label": "Formulaire de référence (DOCX)",
-        "url": "/media/oozhwsx4/rgs-ibg-grants-reference-form.docx"
-      }
-    ],
-    "mots_cles": [
-      "bourse géographie",
-      "bourse recherche terrain",
-      "bourse Royaume-Uni",
-      "bourse licence",
-      "bourse master",
-      "Monica Cole",
-      "Henrietta Hutton",
-      "RGS-IBG",
-      "financement recherche"
-    ],
-    "lien_candidature": "https://portal.rgs.org/account/dashboard/myGrants",
-    "source_url": "https://www.rgs.org/exploration/grants/student-grants/undergraduate-grants/monica-cole-research-grant?fbclid=IwY2xjawUmiD9leHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeDKirpGQ0bNhgoVsLwac-NbaQQZ_6vCRzaIGYJdcivSAO7WseXYP88NWTxkY_aem_Z_0akOwglKcd7JnJLYdoVA",
-    "statut": "ouvert",
-    "resume": "La Royal Geographical Society (RGS) offre chaque année quatre bourses de 1 000 £ pour soutenir des projets de recherche sur le terrain à l'étranger menés par des étudiants de licence et de master inscrits dans un établissement d'enseignement supérieur au Royaume-Uni. Deux bourses sont dédiées à la géographie physique (soutenues par le legs Monica Cole) et deux à des projets à dimension sociale ou environnementale (soutenues par le fonds Henrietta Hutton). Les candidats doivent démontrer l'originalité de leur recherche et une forte implication du pays d'accueil. La date limite de candidature est fixée au 23 novembre 2026 à 23h59.",
-    "imageUrl": null,
-    "extrait_le": "2026-09-27T23:40:30",
-    "slug": "bourse-monica-cole-henrietta-hutton-2026"
-  },
-  {
-    "titre": "Bourse postdoctorale Eric et Wendy Schmidt en IA pour la science",
-    "seo_slug": "bourse-schmidt-ia-science-postdoctorat-2027",
-    "organisation": "University of Michigan - MIDAS",
-    "montant": null,
-    "devise": "USD",
-    "type_financement": "bourse complète",
-    "deadline": "2026-11-23",
-    "deadline_texte": "23 novembre 2026",
-    "niveau_etudes": [
-      "Postdoctorat"
-    ],
-    "domaines": [
-      "Science biologique et biomédicale",
-      "Science de la Terre et de l'environnement",
-      "Ingénierie",
-      "Science physique et mathématiques",
-      "Intelligence artificielle"
-    ],
-    "pays_eligibles": [
-      "Tous les pays"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "CV",
-      "Mots-clés IA (jusqu'à 3)",
-      "Slogan de recherche (max 8 mots)",
-      "Description de la recherche (max 300 mots)",
-      "Déclaration de recherche (max 2 pages)",
-      "Plan de développement individualisé (max 2 pages)",
-      "Déclaration sur l'IA responsable (max ½ page)",
-      "Trois meilleurs articles"
-    ],
-    "avantages": [
-      "Bourse postdoctorale",
-      "Prise en charge des frais de recherche par les mentors (espace de recherche, laboratoire, ordinateurs, ressources informatiques, accès aux données)",
-      "Frais de voyage pour au moins deux conférences par an",
-      "Frais de publication",
-      "Frais de visa"
-    ],
-    "eligibilite": [
-      "Être titulaire d'un doctorat conféré avant la date de début de la bourse (août ou septembre 2027)",
-      "Avoir obtenu le doctorat après le 1er septembre 2022",
-      "Le doctorat peut être dans n'importe quel domaine",
-      "Ne pas avoir occupé un poste de professeur équivalent à un poste tenure-track en Amérique du Nord",
-      "Avoir une expertise approfondie dans au moins un des deux domaines : méthodologies d'IA ou discipline scientifique, avec un intérêt démontré pour l'autre",
-      "Fournir une preuve d'excellence et une passion pour la recherche à l'intersection des deux disciplines",
-      "Identifier deux mentors facultaires de l'Université du Michigan (un mentor IA et un mentor scientifique) qui acceptent de soutenir le candidat pendant deux ans",
-      "Les mentors ne doivent pas être les mentors actuels ou antérieurs du candidat (pour les candidats internes à l'U-M)",
-      "Les mentors doivent avoir des nominations dans deux départements différents (souhaitable)"
-    ],
-    "procedure_etapes": [
-      "1. Identifier et contacter deux professeurs de l'Université du Michigan pour qu'ils acceptent d'être mentors (un mentor IA et un mentor scientifique).",
-      "2. Consulter les mentors pour discuter de la déclaration de recherche et des objectifs de carrière.",
-      "3. Préparer tous les documents requis au format PDF avec une marge d'un pouce.",
-      "4. Soumettre la candidature via le portail de candidature en ligne.",
-      "5. Les candidatures seront évaluées selon les critères de sélection.",
-      "6. Les candidats retenus seront contactés."
-    ],
-    "contacts": [
-      "[email protected]"
-    ],
-    "liens_utiles": [
-      {
-        "label": "Portail de candidature",
-        "url": "https://midas.infoready4.com/#freeformCompetitionDetail/2027384"
-      },
-      {
-        "label": "Aperçu du programme",
-        "url": "https://midas.umich.edu/training/postdoctoral-programs/schmidt-ai-in-science-postdoctoral-fellowship/"
-      },
-      {
-        "label": "FAQ",
-        "url": "https://midas.umich.edu/training/postdoctoral-programs/schmidt-ai-in-science-postdoctoral-fellowship/faq/"
-      },
-      {
-        "label": "Mentors potentiels",
-        "url": "https://midas.umich.edu/training/postdoctoral-programs/schmidt-ai-in-science-postdoctoral-fellowship/mentors/"
-      },
-      {
-        "label": "Liste des mentors IA potentiels",
-        "url": "https://midas.umich.edu/people/affiliated-faculty/?_program_roles=ais-ai-mentor-candidate"
-      },
-      {
-        "label": "Annuaire des mentors facultaires",
-        "url": "https://midas.umich.edu/training/postdoctoral-programs/faculty-mentors/"
-      },
-      {
-        "label": "Programme frère : Michigan Data Science Fellows",
-        "url": "https://midas.umich.edu/training/postdoctoral-programs/michigan-data-science-fellowship/"
-      }
-    ],
-    "mots_cles": [
-      "bourse postdoctorale",
-      "intelligence artificielle",
-      "science",
-      "ingénierie",
-      "University of Michigan",
-      "MIDAS",
-      "bourse de recherche",
-      "postdoc",
-      "IA en science",
-      "bourse Schmidt"
-    ],
-    "lien_candidature": "https://midas.infoready4.com/#freeformCompetitionDetail/2027384",
-    "source_url": "https://midas.umich.edu/training/postdoctoral-programs/schmidt-ai-in-science-postdoctoral-fellowship/apply/?utm_id=97758_v0_s00_e0_tv1&fbclid=IwY2xjawVl60dleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf7Wdqxs4kF2FLmIZeOsgbBE3QhPBj-JHujsM5cJX1RVbd0qSKR2pacZEcS6U_aem_AelRYO-L8OydtmOtoNW1bw",
-    "statut": "ouvert",
-    "resume": "La bourse postdoctorale Eric et Wendy Schmidt en IA pour la science, offerte par l'Université du Michigan via MIDAS, soutient des chercheurs en début de carrière qui appliquent des méthodologies d'intelligence artificielle à des questions scientifiques majeures. Les boursiers bénéficient d'un environnement de recherche collaboratif et de l'encadrement de deux mentors facultaires. La date limite de candidature pour la cohorte 2027 est le 23 novembre 2026. Il s'agit du dernier cycle de candidatures pour ce programme.",
-    "imageUrl": null,
-    "pdfUrl": null,
-    "pdfLabel": null,
-    "extrait_le": "2026-11-15T02:35:01",
-    "slug": "bourse-schmidt-ia-science-postdoctorat-2027"
-  },
-  {
     "titre": "Bourses et récompenses pour étudiants internationaux à l'Université de la Colombie-Britannique (UBC)",
     "seo_slug": "bourse-ubc-international-2027",
     "organisation": "University of British Columbia (UBC)",
@@ -1264,6 +1062,99 @@
     "pdfLabel": null,
     "extrait_le": "2026-11-15T02:39:53",
     "slug": "bourse-cddrl-pre-postdoctorale-stanford-2027"
+  },
+  {
+    "titre": "Bourses postdoctorales de l'Institut de l'informatique quantique (IQC) de l'Université de Waterloo",
+    "seo_slug": "bourse-postdoctorale-iqc-waterloo",
+    "organisation": "Institute for Quantum Computing (IQC), University of Waterloo",
+    "type_financement": "bourse de recherche",
+    "deadline": "2026-11-30",
+    "deadline_texte": "30 novembre 2026 (pour les postes de chercheur postdoctoral en circuits quantiques supraconducteurs et en optomécanique quantique théorique). Les autres bourses sont en candidature continue.",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Informatique quantique",
+      "Physique quantique",
+      "Circuits quantiques supraconducteurs",
+      "Optomécanique quantique théorique",
+      "Cryptographie"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [],
+    "eligibilite": [
+      "Les candidats ne peuvent postuler qu'à un seul des trois programmes de financement de Waterloo (Provost’s Program for Interdisciplinary Postdoctoral Scholars, Provost’s Program for Black and Indigenous Postdoctoral Scholars, et un troisième non nommé).",
+      "Les critères d'éligibilité spécifiques à chaque programme doivent être vérifiés avant de postuler."
+    ],
+    "procedure_etapes": [
+      "1. Consulter les opportunités de financement spécifiques à Waterloo.",
+      "2. Vérifier les critères d'éligibilité des trois programmes.",
+      "3. Choisir un seul programme de financement.",
+      "4. Soumettre la candidature via le lien approprié (SlideRoom pour les bourses IQC, ou directement sur le site pour les autres)."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Bourse postdoctorale IQC (candidature continue)",
+        "url": "https://iqc-uwaterloo.slideroom.com/#/permalink/program/64947"
+      },
+      {
+        "label": "Bourse postdoctorale distinguée en théorie quantique IQC (candidature continue)",
+        "url": "https://iqc-uwaterloo.slideroom.com/#/login/program/87399"
+      },
+      {
+        "label": "Chercheur postdoctoral en circuits quantiques supraconducteurs (date limite : 30 novembre 2026)",
+        "url": "https://uwaterloo.ca/institute-for-quantum-computing/research/available-positions/postdoctoral-researcher-superconducting-group"
+      },
+      {
+        "label": "Chercheur postdoctoral en optomécanique quantique théorique (date limite : 30 novembre 2026)",
+        "url": "https://uwaterloo.ca/institute-for-quantum-computing/postdoctoral-researcher-theoretical-quantum-optomechanics"
+      },
+      {
+        "label": "Bourse postdoctorale CryptoWorks21",
+        "url": "https://uwaterloo.ca/cryptoworks/apply/postdoctoral-program"
+      },
+      {
+        "label": "Opportunités de financement postdoctoral à Waterloo",
+        "url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/welcome-postdoctoral-affairs/find-postdoc-funding/university-waterloo-postdoctoral-funding-opportunities"
+      },
+      {
+        "label": "Programme Provost pour chercheurs postdoctoraux interdisciplinaires",
+        "url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/welcome-postdoctoral-affairs/find-postdoc-funding/provosts-program-interdisciplinary-postdoctoral-scholars"
+      },
+      {
+        "label": "Programme Provost pour chercheurs postdoctoraux noirs et autochtones",
+        "url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/welcome-postdoctoral-affairs/find-postdoc-funding/provosts-program-black-and-indigenous-postdoctoral-scholars"
+      },
+      {
+        "label": "Bourse postdoctorale Banting (NSERC)",
+        "url": "http://banting.fellowships-bourses.gc.ca/en/home-accueil.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "informatique quantique",
+      "physique quantique",
+      "IQC Waterloo",
+      "bourse Canada",
+      "recherche postdoctorale",
+      "financement postdoctoral",
+      "bourse internationale"
+    ],
+    "lien_candidature": "https://uwaterloo.ca/institute-for-quantum-computing/research/available-positions",
+    "source_url": "https://uwaterloo.ca/institute-for-quantum-computing/research/available-positions?fbclid=IwY2xjawVxxQ9leHRuA2FlbQIxMABwZG9mAWJyaWQRMXVxOHN1M1pIa1g4eVBNdFlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf8SuZc7_cMHVYFvifqdolNAE6Do3nF81nvUJgsJxF97pdl0YS8EoK0DQeZGs_aem_757MN_QRsyIfnsLcgqLzaA",
+    "statut": "ouvert",
+    "resume": "L'Institut de l'informatique quantique (IQC) de l'Université de Waterloo propose plusieurs bourses postdoctorales prestigieuses dans le domaine de la recherche quantique. Les candidatures sont ouvertes en continu pour la bourse postdoctorale IQC et la bourse distinguée en théorie quantique, tandis que deux postes spécifiques ont une date limite au 30 novembre 2026. Les candidats peuvent également postuler à des programmes de financement internes à Waterloo, mais ne peuvent choisir qu'un seul programme parmi les trois proposés. Des opportunités supplémentaires existent via la bourse CryptoWorks21 et la bourse Banting du CRSNG.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-24T02:20:55",
+    "slug": "bourse-postdoctorale-iqc-waterloo"
   },
   {
     "titre": "Programme de bourses environnementales de Harvard 2027 aux États-Unis (entièrement financé)",
@@ -23893,6 +23784,133 @@
     "slug": "bourse-prospective-scholars-richmond-2026"
   },
   {
+    "titre": "Doctorat en linguistique appliquée à l'Université du Massachusetts à Boston",
+    "seo_slug": "bourse-doctorat-linguistique-appliquee-umb-2026",
+    "organisation": "University of Massachusetts Boston",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète (frais de scolarité, allocation de subsistance et assurance maladie)",
+    "deadline": "2025-12-01",
+    "deadline_texte": "1er décembre pour l'admission au semestre d'automne",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Linguistique appliquée",
+      "Éducation bilingue/multilingue",
+      "Politique linguistique",
+      "Sociolinguistique",
+      "Acquisition des langues secondes"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (preuve de maîtrise requise pour les étudiants internationaux)",
+    "documents_requis": [
+      "Formulaire de candidature en ligne de l'UMass Boston",
+      "Relevés de notes officiels de chaque collège et université fréquentés (incluant la preuve d'un master en linguistique appliquée ou domaine connexe avec une moyenne minimale de 3.0)",
+      "Curriculum Vitae à jour",
+      "Trois lettres de recommandation (dont au moins deux de personnes pouvant évaluer la préparation académique)",
+      "Un échantillon de travail académique bien rédigé (mémoire de master, article de cours, projet de recherche, article publié, etc.)",
+      "Déclaration d'objectif (1500 mots maximum) répondant aux questions spécifiées",
+      "Preuve de maîtrise de l'anglais (pour les étudiants internationaux n'ayant pas complété deux années d'études à temps plein dans un établissement anglophone)"
+    ],
+    "avantages": [
+      "Prise en charge des frais de scolarité",
+      "Allocation de subsistance",
+      "Assurance maladie",
+      "Financement disponible jusqu'à trois ans sur base compétitive",
+      "Possibilité d'assistanat diplômé (Graduate Assistantships)"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un master en linguistique appliquée ou dans un domaine connexe",
+      "Avoir une moyenne minimale de 3.0 au niveau graduate",
+      "Les candidats internationaux doivent fournir une preuve de maîtrise de l'anglais (sauf s'ils ont complété au moins deux années académiques à temps plein dans un établissement anglophone approuvé, hors ESL ou préparation aux tests)",
+      "Le programme encourage fortement les candidatures de groupes historiquement sous-représentés (première génération, étudiants internationaux, étudiants racisés, étudiants linguistiquement divers)"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier que tous les documents sont prêts et que la candidature sera complète avant le 1er décembre.",
+      "2. Remplir la demande d'admission en ligne de l'UMass Boston.",
+      "3. Rassembler les relevés de notes officiels de tous les établissements fréquentés.",
+      "4. Préparer un CV à jour.",
+      "5. Obtenir trois lettres de recommandation (dont au moins deux académiques).",
+      "6. Sélectionner un échantillon de travail académique représentatif.",
+      "7. Rédiger la déclaration d'objectif (1500 mots maximum) en répondant aux questions posées.",
+      "8. Pour les étudiants internationaux, fournir la preuve de maîtrise de l'anglais.",
+      "9. Soumettre la candidature complète avant le 1er décembre.",
+      "10. Confirmer auprès des admissions que le dossier est complet bien avant la date limite.",
+      "11. (Optionnel) Demander une exonération des frais de candidature en cas de difficultés financières : compléter la demande sans la soumettre, puis envoyer un email au directeur du programme avec l'objet 'PhD Fee Waiver Request' en joignant une lettre de l'advisor attestant du besoin financier."
+    ],
+    "contacts": [
+      "jennifer.sclafani@umb.edu",
+      "bursar@umb.edu",
+      "Avary.CarhillPoza@umb.edu"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://go.umb.edu/portal/gr_app"
+      },
+      {
+        "label": "Page d'admission aux études supérieures",
+        "url": "https://www.umb.edu/admissions/apply/#grad"
+      },
+      {
+        "label": "Informations sur les frais de scolarité (Bursar's Office)",
+        "url": "/bursar/"
+      },
+      {
+        "label": "Aide financière pour étudiants diplômés",
+        "url": "/financial-aid/graduate-student-financial-aid/"
+      },
+      {
+        "label": "Preuve de maîtrise de l'anglais pour étudiants internationaux",
+        "url": "/admissions/graduate-students/apply/international-graduate-applicants/"
+      },
+      {
+        "label": "Projets de recherche des professeurs",
+        "url": "/liberal-arts/academic-departments/appling/student-resources/#d.en.205308"
+      },
+      {
+        "label": "Communauté doctorale et ressources étudiantes",
+        "url": "/liberal-arts/academic-departments/appling/student-resources/#d.en.156977"
+      },
+      {
+        "label": "Blog de linguistique de l'UMass Boston",
+        "url": "https://blogs.umb.edu/umasslinguistics/"
+      },
+      {
+        "label": "Domaines d'enquête",
+        "url": "/liberal-arts/academic-departments/appling/student-resources/#d.en.205291"
+      },
+      {
+        "label": "Catalogue académique",
+        "url": "https://catalog.umb.edu/"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat linguistique appliquée",
+      "bourse UMass Boston",
+      "financement doctorat États-Unis",
+      "bourse études linguistiques",
+      "bourse internationale linguistique",
+      "doctorat linguistique appliquée bourse",
+      "bourse recherche linguistique",
+      "bourse master linguistique",
+      "bourse États-Unis 2026"
+    ],
+    "lien_candidature": "https://go.umb.edu/portal/gr_app",
+    "source_url": "https://www.umb.edu/academics/program-finder/applied-linguistics-phd/?fbclid=IwY2xjawVxxYtleHRuA2FlbQIxMABwZG9mAWJyaWQRMXVxOHN1M1pIa1g4eVBNdFlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfpBYWe3iHeDW4CN0v_QJdYt9igOanLxK_l8G-v74ZEJmfshkVn_52KOtrTPc_aem_rkr9-YBN9qTmnUkc0ioAaA",
+    "statut": "fermé",
+    "resume": "L'Université du Massachusetts à Boston propose un doctorat en linguistique appliquée unique, axé sur la diversité linguistique et l'engagement communautaire. Ce programme forme des chercheurs et des activistes capables d'analyser le langage en société et de lutter contre les systèmes de pouvoir. Un financement compétitif couvrant les frais de scolarité, une allocation de subsistance et l'assurance maladie est disponible pour trois ans. Les candidatures sont à soumettre avant le 1er décembre pour une admission à l'automne.",
+    "imageUrl": "/docs/doctorat-en-linguistique-appliqu-e.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-24T02:28:30",
+    "slug": "bourse-doctorat-linguistique-appliquee-umb-2026"
+  },
+  {
     "titre": "Bourses d'excellence EPFL pour le Master",
     "seo_slug": "bourse-excellence-epfl-master-2026",
     "organisation": "EPFL (École Polytechnique Fédérale de Lausanne)",
@@ -42407,6 +42425,208 @@
     "pdfLabel": null,
     "extrait_le": "2026-11-15T04:06:22",
     "slug": "insp-cycles-internationaux-2027-2028"
+  },
+  {
+    "titre": "Bourses de recherche Monica Cole et Henrietta Hutton",
+    "seo_slug": "bourse-monica-cole-henrietta-hutton-2026",
+    "organisation": "Royal Geographical Society (avec l'Institute of British Geographers)",
+    "montant": 1000,
+    "devise": "GBP",
+    "type_financement": "bourse partielle",
+    "deadline": "2026-11-23",
+    "deadline_texte": "23 novembre 2026 à 23h59 (heure de Londres)",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Géographie physique",
+      "Géographie sociale",
+      "Environnement",
+      "Sciences de la Terre"
+    ],
+    "pays_eligibles": [
+      "Royaume-Uni"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne complété",
+      "CV d'une page (PDF, nommé NOM_CV)",
+      "Deux références (soumises directement par les référents à grants@rgs.org)",
+      "Optionnel : jusqu'à deux pages A4 de cartes et figures (PDF, nommé NOM_Figures and Maps)"
+    ],
+    "avantages": [
+      "Bourse de 1 000 £",
+      "Deux bourses pour la géographie physique (une pour licence, une pour master) soutenues par le legs Monica Cole",
+      "Deux bourses pour des projets à fort impact social ou environnemental (une pour licence, une pour master) soutenues par le fonds commémoratif Henrietta Hutton"
+    ],
+    "eligibilite": [
+      "Être inscrit dans un établissement d'enseignement supérieur au Royaume-Uni",
+      "Entreprendre un projet de recherche sur le terrain indépendant",
+      "Si le candidat fait partie d'une expédition organisée plus large, il doit clairement démontrer en quoi sa recherche de terrain est distincte de celle du projet global",
+      "Fournir des preuves solides de la participation du pays d'accueil"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier l'éligibilité et les conditions sur le site du RGS",
+      "2. Créer un compte ou se connecter sur le portail RGS",
+      "3. Accéder à 'My Grants' dans le tableau de bord",
+      "4. Remplir le formulaire de candidature en ligne (voir le modèle pour les champs)",
+      "5. Télécharger le CV d'une page au format PDF (nommé NOM_CV)",
+      "6. Optionnel : télécharger jusqu'à deux pages A4 de cartes et figures (PDF, nommé NOM_Figures and Maps)",
+      "7. Demander à deux référents de soumettre directement le formulaire de référence à grants@rgs.org avant la date limite",
+      "8. Soumettre la candidature en ligne avant le 23 novembre 2026 à 23h59"
+    ],
+    "contacts": [
+      "grants@rgs.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://portal.rgs.org/account/dashboard/myGrants"
+      },
+      {
+        "label": "Modèle de formulaire de candidature (PDF)",
+        "url": "/media/ab5nokxf/rgs-grant-application-questions.pdf"
+      },
+      {
+        "label": "Formulaire de référence (DOCX)",
+        "url": "/media/oozhwsx4/rgs-ibg-grants-reference-form.docx"
+      }
+    ],
+    "mots_cles": [
+      "bourse géographie",
+      "bourse recherche terrain",
+      "bourse Royaume-Uni",
+      "bourse licence",
+      "bourse master",
+      "Monica Cole",
+      "Henrietta Hutton",
+      "RGS-IBG",
+      "financement recherche"
+    ],
+    "lien_candidature": "https://portal.rgs.org/account/dashboard/myGrants",
+    "source_url": "https://www.rgs.org/exploration/grants/student-grants/undergraduate-grants/monica-cole-research-grant?fbclid=IwY2xjawUmiD9leHRuA2FlbQIxMABwZG9mAWJyaWQRMXRqbmlCQWZxdHllenpzYkdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeDKirpGQ0bNhgoVsLwac-NbaQQZ_6vCRzaIGYJdcivSAO7WseXYP88NWTxkY_aem_Z_0akOwglKcd7JnJLYdoVA",
+    "statut": "fermé",
+    "resume": "La Royal Geographical Society (RGS) offre chaque année quatre bourses de 1 000 £ pour soutenir des projets de recherche sur le terrain à l'étranger menés par des étudiants de licence et de master inscrits dans un établissement d'enseignement supérieur au Royaume-Uni. Deux bourses sont dédiées à la géographie physique (soutenues par le legs Monica Cole) et deux à des projets à dimension sociale ou environnementale (soutenues par le fonds Henrietta Hutton). Les candidats doivent démontrer l'originalité de leur recherche et une forte implication du pays d'accueil. La date limite de candidature est fixée au 23 novembre 2026 à 23h59.",
+    "imageUrl": null,
+    "extrait_le": "2026-09-27T23:40:30",
+    "slug": "bourse-monica-cole-henrietta-hutton-2026"
+  },
+  {
+    "titre": "Bourse postdoctorale Eric et Wendy Schmidt en IA pour la science",
+    "seo_slug": "bourse-schmidt-ia-science-postdoctorat-2027",
+    "organisation": "University of Michigan - MIDAS",
+    "montant": null,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-11-23",
+    "deadline_texte": "23 novembre 2026",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Science biologique et biomédicale",
+      "Science de la Terre et de l'environnement",
+      "Ingénierie",
+      "Science physique et mathématiques",
+      "Intelligence artificielle"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV",
+      "Mots-clés IA (jusqu'à 3)",
+      "Slogan de recherche (max 8 mots)",
+      "Description de la recherche (max 300 mots)",
+      "Déclaration de recherche (max 2 pages)",
+      "Plan de développement individualisé (max 2 pages)",
+      "Déclaration sur l'IA responsable (max ½ page)",
+      "Trois meilleurs articles"
+    ],
+    "avantages": [
+      "Bourse postdoctorale",
+      "Prise en charge des frais de recherche par les mentors (espace de recherche, laboratoire, ordinateurs, ressources informatiques, accès aux données)",
+      "Frais de voyage pour au moins deux conférences par an",
+      "Frais de publication",
+      "Frais de visa"
+    ],
+    "eligibilite": [
+      "Être titulaire d'un doctorat conféré avant la date de début de la bourse (août ou septembre 2027)",
+      "Avoir obtenu le doctorat après le 1er septembre 2022",
+      "Le doctorat peut être dans n'importe quel domaine",
+      "Ne pas avoir occupé un poste de professeur équivalent à un poste tenure-track en Amérique du Nord",
+      "Avoir une expertise approfondie dans au moins un des deux domaines : méthodologies d'IA ou discipline scientifique, avec un intérêt démontré pour l'autre",
+      "Fournir une preuve d'excellence et une passion pour la recherche à l'intersection des deux disciplines",
+      "Identifier deux mentors facultaires de l'Université du Michigan (un mentor IA et un mentor scientifique) qui acceptent de soutenir le candidat pendant deux ans",
+      "Les mentors ne doivent pas être les mentors actuels ou antérieurs du candidat (pour les candidats internes à l'U-M)",
+      "Les mentors doivent avoir des nominations dans deux départements différents (souhaitable)"
+    ],
+    "procedure_etapes": [
+      "1. Identifier et contacter deux professeurs de l'Université du Michigan pour qu'ils acceptent d'être mentors (un mentor IA et un mentor scientifique).",
+      "2. Consulter les mentors pour discuter de la déclaration de recherche et des objectifs de carrière.",
+      "3. Préparer tous les documents requis au format PDF avec une marge d'un pouce.",
+      "4. Soumettre la candidature via le portail de candidature en ligne.",
+      "5. Les candidatures seront évaluées selon les critères de sélection.",
+      "6. Les candidats retenus seront contactés."
+    ],
+    "contacts": [
+      "[email protected]"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://midas.infoready4.com/#freeformCompetitionDetail/2027384"
+      },
+      {
+        "label": "Aperçu du programme",
+        "url": "https://midas.umich.edu/training/postdoctoral-programs/schmidt-ai-in-science-postdoctoral-fellowship/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://midas.umich.edu/training/postdoctoral-programs/schmidt-ai-in-science-postdoctoral-fellowship/faq/"
+      },
+      {
+        "label": "Mentors potentiels",
+        "url": "https://midas.umich.edu/training/postdoctoral-programs/schmidt-ai-in-science-postdoctoral-fellowship/mentors/"
+      },
+      {
+        "label": "Liste des mentors IA potentiels",
+        "url": "https://midas.umich.edu/people/affiliated-faculty/?_program_roles=ais-ai-mentor-candidate"
+      },
+      {
+        "label": "Annuaire des mentors facultaires",
+        "url": "https://midas.umich.edu/training/postdoctoral-programs/faculty-mentors/"
+      },
+      {
+        "label": "Programme frère : Michigan Data Science Fellows",
+        "url": "https://midas.umich.edu/training/postdoctoral-programs/michigan-data-science-fellowship/"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "intelligence artificielle",
+      "science",
+      "ingénierie",
+      "University of Michigan",
+      "MIDAS",
+      "bourse de recherche",
+      "postdoc",
+      "IA en science",
+      "bourse Schmidt"
+    ],
+    "lien_candidature": "https://midas.infoready4.com/#freeformCompetitionDetail/2027384",
+    "source_url": "https://midas.umich.edu/training/postdoctoral-programs/schmidt-ai-in-science-postdoctoral-fellowship/apply/?utm_id=97758_v0_s00_e0_tv1&fbclid=IwY2xjawVl60dleHRuA2FlbQIxMABwZG9mAWJyaWQRMTJlUlNzczJtYm93dU5SZTVzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf7Wdqxs4kF2FLmIZeOsgbBE3QhPBj-JHujsM5cJX1RVbd0qSKR2pacZEcS6U_aem_AelRYO-L8OydtmOtoNW1bw",
+    "statut": "fermé",
+    "resume": "La bourse postdoctorale Eric et Wendy Schmidt en IA pour la science, offerte par l'Université du Michigan via MIDAS, soutient des chercheurs en début de carrière qui appliquent des méthodologies d'intelligence artificielle à des questions scientifiques majeures. Les boursiers bénéficient d'un environnement de recherche collaboratif et de l'encadrement de deux mentors facultaires. La date limite de candidature pour la cohorte 2027 est le 23 novembre 2026. Il s'agit du dernier cycle de candidatures pour ce programme.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-15T02:35:01",
+    "slug": "bourse-schmidt-ia-science-postdoctorat-2027"
   },
   {
     "titre": "Bourse Rhodes 2027 pour les candidats internationaux (hors pays spécifiques)",

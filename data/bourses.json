@@ -1,97 +1,5 @@
 [
   {
-    "titre": "Bourses et récompenses pour étudiants internationaux à l'Université de la Colombie-Britannique (UBC)",
-    "seo_slug": "bourse-ubc-international-2027",
-    "organisation": "University of British Columbia (UBC)",
-    "montant": null,
-    "devise": null,
-    "type_financement": "bourse partielle",
-    "deadline": "2026-11-25",
-    "deadline_texte": "25 novembre 2026 à 12h00 (heure du Pacifique) - date limite étendue pour les candidatures internationales et les demandes de bourses",
-    "niveau_etudes": [
-      "Licence"
-    ],
-    "domaines": [
-      "Tous les domaines"
-    ],
-    "pays_eligibles": [
-      "International"
-    ],
-    "age_maximum": null,
-    "langue_requise": "Anglais",
-    "documents_requis": [
-      "Formulaire de candidature en ligne",
-      "Demande de bourse"
-    ],
-    "avantages": [
-      "Prise en charge partielle des frais de scolarité",
-      "Récompenses financières"
-    ],
-    "eligibilite": [
-      "Être un étudiant international",
-      "Souhaiter être considéré pour la bourse internationale UBC",
-      "Postuler pour la session d'hiver 2027-2028 ou la session d'été 2027"
-    ],
-    "procedure_etapes": [
-      "1. Créer un compte sur le portail de candidature UBC",
-      "2. Remplir la demande d'admission en ligne pour la session souhaitée",
-      "3. Soumettre une demande de bourse dans le cadre de la candidature",
-      "4. Respecter la date limite du 25 novembre 2026 à 12h00 (heure du Pacifique)"
-    ],
-    "contacts": [],
-    "liens_utiles": [
-      {
-        "label": "Portail de candidature UBC",
-        "url": "https://myapplication.ubc.ca/apply"
-      },
-      {
-        "label": "Bourses pour étudiants internationaux",
-        "url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/"
-      },
-      {
-        "label": "Bourses d'entrée internationales",
-        "url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-entrance-scholarships/"
-      },
-      {
-        "label": "Programme International Scholars",
-        "url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/"
-      },
-      {
-        "label": "Dates et échéances",
-        "url": "https://you.ubc.ca/applying-ubc/dates-deadlines/"
-      },
-      {
-        "label": "Comment postuler",
-        "url": "https://you.ubc.ca/applying-ubc/how-to-apply/"
-      },
-      {
-        "label": "Exigences d'admission",
-        "url": "https://you.ubc.ca/applying-ubc/requirements/"
-      },
-      {
-        "label": "Contact",
-        "url": "https://you.ubc.ca/contact-us/"
-      }
-    ],
-    "mots_cles": [
-      "bourse UBC",
-      "bourse Canada",
-      "bourse internationale",
-      "étudier au Canada",
-      "bourse licence Canada",
-      "UBC International Scholars",
-      "bourse université Colombie-Britannique",
-      "candidature UBC 2027"
-    ],
-    "lien_candidature": "https://myapplication.ubc.ca/apply",
-    "source_url": "https://you.ubc.ca/applying-ubc/dates-deadlines/?fbclid=IwY2xjawVeyopleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf0pefHi-s5SruIMaHBWjAUWrJXyW-Yspb17MZLa0G72uObybLtmiZWW4BHLE_aem_Lthn08iuYB2xkcskM3tTRA",
-    "statut": "ouvert",
-    "resume": "L'Université de la Colombie-Britannique (UBC), l'une des meilleures universités canadiennes, offre des bourses et récompenses aux étudiants internationaux souhaitant poursuivre un programme de licence. Les candidats doivent postuler à l'admission et soumettre une demande de bourse avant le 25 novembre 2026 à 12h00 (heure du Pacifique). Ces bourses permettent de financer partiellement les frais de scolarité et sont accessibles à tous les domaines d'études. Une opportunité exceptionnelle pour les étudiants internationaux visant une formation de premier cycle au Canada.",
-    "imageUrl": null,
-    "extrait_le": "2026-11-09T16:49:38",
-    "slug": "bourse-ubc-international-2027"
-  },
-  {
     "titre": "Stage d'hiver au Japon - Pratique d'enseignement TEFL",
     "seo_slug": "stage-tefl-japon-hiver-2027",
     "organisation": "GHJ International",
@@ -45439,6 +45347,98 @@
     "pdfLabel": null,
     "extrait_le": "2026-11-15T02:35:01",
     "slug": "bourse-schmidt-ia-science-postdoctorat-2027"
+  },
+  {
+    "titre": "Bourses et récompenses pour étudiants internationaux à l'Université de la Colombie-Britannique (UBC)",
+    "seo_slug": "bourse-ubc-international-2027",
+    "organisation": "University of British Columbia (UBC)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse partielle",
+    "deadline": "2026-11-25",
+    "deadline_texte": "25 novembre 2026 à 12h00 (heure du Pacifique) - date limite étendue pour les candidatures internationales et les demandes de bourses",
+    "niveau_etudes": [
+      "Licence"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Demande de bourse"
+    ],
+    "avantages": [
+      "Prise en charge partielle des frais de scolarité",
+      "Récompenses financières"
+    ],
+    "eligibilite": [
+      "Être un étudiant international",
+      "Souhaiter être considéré pour la bourse internationale UBC",
+      "Postuler pour la session d'hiver 2027-2028 ou la session d'été 2027"
+    ],
+    "procedure_etapes": [
+      "1. Créer un compte sur le portail de candidature UBC",
+      "2. Remplir la demande d'admission en ligne pour la session souhaitée",
+      "3. Soumettre une demande de bourse dans le cadre de la candidature",
+      "4. Respecter la date limite du 25 novembre 2026 à 12h00 (heure du Pacifique)"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature UBC",
+        "url": "https://myapplication.ubc.ca/apply"
+      },
+      {
+        "label": "Bourses pour étudiants internationaux",
+        "url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/"
+      },
+      {
+        "label": "Bourses d'entrée internationales",
+        "url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-entrance-scholarships/"
+      },
+      {
+        "label": "Programme International Scholars",
+        "url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/"
+      },
+      {
+        "label": "Dates et échéances",
+        "url": "https://you.ubc.ca/applying-ubc/dates-deadlines/"
+      },
+      {
+        "label": "Comment postuler",
+        "url": "https://you.ubc.ca/applying-ubc/how-to-apply/"
+      },
+      {
+        "label": "Exigences d'admission",
+        "url": "https://you.ubc.ca/applying-ubc/requirements/"
+      },
+      {
+        "label": "Contact",
+        "url": "https://you.ubc.ca/contact-us/"
+      }
+    ],
+    "mots_cles": [
+      "bourse UBC",
+      "bourse Canada",
+      "bourse internationale",
+      "étudier au Canada",
+      "bourse licence Canada",
+      "UBC International Scholars",
+      "bourse université Colombie-Britannique",
+      "candidature UBC 2027"
+    ],
+    "lien_candidature": "https://myapplication.ubc.ca/apply",
+    "source_url": "https://you.ubc.ca/applying-ubc/dates-deadlines/?fbclid=IwY2xjawVeyopleHRuA2FlbQIxMABwZG9mAWJyaWQRMWR2TU9IdUozd1Y2M1pwcFNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf0pefHi-s5SruIMaHBWjAUWrJXyW-Yspb17MZLa0G72uObybLtmiZWW4BHLE_aem_Lthn08iuYB2xkcskM3tTRA",
+    "statut": "fermé",
+    "resume": "L'Université de la Colombie-Britannique (UBC), l'une des meilleures universités canadiennes, offre des bourses et récompenses aux étudiants internationaux souhaitant poursuivre un programme de licence. Les candidats doivent postuler à l'admission et soumettre une demande de bourse avant le 25 novembre 2026 à 12h00 (heure du Pacifique). Ces bourses permettent de financer partiellement les frais de scolarité et sont accessibles à tous les domaines d'études. Une opportunité exceptionnelle pour les étudiants internationaux visant une formation de premier cycle au Canada.",
+    "imageUrl": null,
+    "extrait_le": "2026-11-09T16:49:38",
+    "slug": "bourse-ubc-international-2027"
   },
   {
     "titre": "Bourse Rhodes 2027 pour les candidats internationaux (hors pays spécifiques)",

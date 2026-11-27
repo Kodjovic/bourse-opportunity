@@ -1269,6 +1269,284 @@
     "slug": "bourse-yenching-academie-pekin-2027"
   },
   {
+    "titre": "Bourse RISE Germany - Stages de recherche en sciences et ingénierie",
+    "seo_slug": "bourse-rise-germany-stage-recherche-2026",
+    "organisation": "DAAD (Deutscher Akademischer Austauschdienst)",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse mensuelle",
+    "deadline": "2026-11-30",
+    "deadline_texte": "30 novembre 2026 à 23h59 CET (heure d'Europe centrale)",
+    "niveau_etudes": [
+      "Licence (undergraduate)"
+    ],
+    "domaines": [
+      "Biologie",
+      "Chimie",
+      "Physique",
+      "Sciences de la Terre",
+      "Ingénierie",
+      "Domaines connexes"
+    ],
+    "pays_eligibles": [
+      "États-Unis",
+      "Canada",
+      "Royaume-Uni",
+      "Irlande"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (langue de travail), allemand non requis",
+    "documents_requis": [
+      "Lettre de recommandation"
+    ],
+    "avantages": [
+      "Bourse mensuelle pour trois mois",
+      "Aide au logement fournie par l'université d'accueil",
+      "Mentorat par des doctorants ou chercheurs",
+      "Stage de recherche d'été dans une université ou institution allemande de premier plan"
+    ],
+    "eligibilite": [
+      "Être étudiant undergraduate (licence) dans une université nord-américaine, britannique ou irlandaise",
+      "Domaine d'études en biologie, chimie, physique, sciences de la Terre, ingénierie ou domaine étroitement lié",
+      "Avoir un intérêt pour la recherche",
+      "La langue allemande n'est pas requise"
+    ],
+    "procedure_etapes": [
+      "1. Consulter le portail de candidature RISE Germany",
+      "2. Créer un compte sur le portail de candidature",
+      "3. Remplir le formulaire de candidature en ligne",
+      "4. Soumettre les documents requis (dont lettre de recommandation)",
+      "5. Les candidatures sont examinées et les étudiants sont mis en relation avec une université ou un institut d'accueil",
+      "6. Les fournisseurs de stage classent les candidats",
+      "7. Annonce des positions de stage vers février/mars 2027"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel RISE Germany",
+        "url": "https://www.daad.de/rise/en/rise-germany/"
+      },
+      {
+        "label": "Portail de candidature RISE Germany",
+        "url": "https://www.daad.de/rise/en/rise-germany/find-an-internship/application-portal/"
+      },
+      {
+        "label": "FAQ",
+        "url": "https://www.daad.de/rise/en/rise-germany/find-an-internship/what-applicants-need-to-know/faq/"
+      },
+      {
+        "label": "Téléchargements",
+        "url": "https://www.daad.de/rise/en/rise-germany/about-the-program/downloads/"
+      },
+      {
+        "label": "Contact",
+        "url": "https://www.daad.de/rise/en/contact/"
+      },
+      {
+        "label": "Webinaire d'expérience étudiante (inscription)",
+        "url": "https://rdir.inxmail.com/daad/d?_ild=l00mbzxy000dqu00d0000000000000000bdtevzz2io4hgjj2pyzsfdy0000dq00b000000cw6ild2"
+      }
+    ],
+    "mots_cles": [
+      "bourse RISE Germany",
+      "stage de recherche Allemagne",
+      "bourse DAAD",
+      "stage été recherche",
+      "bourse undergraduate",
+      "sciences et ingénierie",
+      "bourse Allemagne 2026"
+    ],
+    "lien_candidature": "https://www.daad.de/rise/en/rise-germany/find-an-internship/application-portal/",
+    "source_url": "https://www.daad.de/rise/en/rise-germany/",
+    "statut": "ouvert",
+    "resume": "La bourse RISE Germany du DAAD offre aux étudiants de licence nord-américains, britanniques et irlandais la possibilité d'effectuer un stage de recherche d'été dans des universités et institutions allemandes de premier plan. Les participants reçoivent une bourse mensuelle pour trois mois, une aide au logement et un mentorat par des doctorants ou chercheurs. Les domaines couverts incluent la biologie, la chimie, la physique, les sciences de la Terre et l'ingénierie. La langue de travail est l'anglais et aucune connaissance de l'allemand n'est requise. Les candidatures sont ouvertes du 15 octobre au 30 novembre 2026.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-27T23:48:32",
+    "slug": "bourse-rise-germany-stage-recherche-2026"
+  },
+  {
+    "titre": "Programme d'experts visiteurs de la TWAS",
+    "seo_slug": "bourse-twas-experts-visiteurs-2026",
+    "organisation": "The World Academy of Sciences (TWAS)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse de voyage",
+    "deadline": "2026-11-30",
+    "deadline_texte": "30 novembre 2026",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences naturelles (hors mathématiques et physique)"
+    ],
+    "pays_eligibles": [
+      "Pays en développement",
+      "Pays les moins avancés (PMA)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "CV bref de l'expert visiteur (maximum 10 pages) et liste des publications",
+      "Lettre de l'expert visiteur détaillant le programme de recherche et d'enseignement (modèle disponible dans le formulaire en ligne)",
+      "Déclaration de soutien du chef de l'institution d'accueil (modèle disponible dans le formulaire en ligne)"
+    ],
+    "avantages": [
+      "Billet d'avion aller-retour en classe économique",
+      "Prise en charge des dépenses locales par l'institution d'accueil"
+    ],
+    "eligibilite": [
+      "Institutions et groupes de recherche dans les pays en développement, en particulier les PMA",
+      "Expert invité de renommée internationale dans le domaine des sciences naturelles (hors mathématiques et physique)",
+      "Diplôme minimum : doctorat (PhD)",
+      "Aucune limite d'âge",
+      "Les candidatures de femmes sont particulièrement encouragées",
+      "Seules les personnes ayant acquis une reconnaissance internationale dans leur domaine scientifique seront considérées"
+    ],
+    "procedure_etapes": [
+      "1. L'institution d'accueil identifie un expert international renommé dans les sciences naturelles (hors mathématiques et physique).",
+      "2. L'institution d'accueil prépare les documents requis : CV de l'expert, lettre de l'expert détaillant le programme, déclaration de soutien du chef de l'institution.",
+      "3. L'institution d'accueil soumet la candidature en ligne via le portail de candidature TWAS.",
+      "4. La visite doit durer au minimum deux semaines.",
+      "5. À l'issue de la visite, l'expert et l'institution d'accueil fournissent des rapports détaillés sur l'impact de la visite."
+    ],
+    "contacts": [
+      "exchanges@twas.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature en ligne",
+        "url": "https://onlineforms.twas.org/apply/311"
+      },
+      {
+        "label": "Programme Visiting Scholar/Consultant de l'ICTP (pour les mathématiques et la physique)",
+        "url": "http://oea.ictp.it/oea/programmes/vs/"
+      },
+      {
+        "label": "Bureau des activités externes de l'ICTP",
+        "url": "http://oea.ictp.it/"
+      },
+      {
+        "label": "Liste des pays en développement du Sud",
+        "url": "https://twas.org/developing-countries-south"
+      },
+      {
+        "label": "Liste des pays les moins avancés (PMA)",
+        "url": "/least-developed-countries-ldcs"
+      },
+      {
+        "label": "Programme Visiting Professor (pour les chefs d'institution)",
+        "url": "https://twas.org/opportunities/visiting-scientist/professors"
+      }
+    ],
+    "mots_cles": [
+      "bourse TWAS",
+      "experts visiteurs",
+      "sciences naturelles",
+      "pays en développement",
+      "PMA",
+      "recherche",
+      "visite scientifique",
+      "bourse de voyage"
+    ],
+    "lien_candidature": "https://onlineforms.twas.org/apply/311",
+    "source_url": "https://twas.org/opportunity/twas-visiting-expert-programme?fbclid=IwY2xjawV27HZleHRuA2FlbQIxMABwZG9mAWJyaWQRMVg3VEZJNjBIVGxLUjFvVHZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfI3FMPpK_dyfOIwf5LRhzM_O4LnjBOmAPzWmTtDDdv-gnUKtZeS6wb84UcwQ_aem_LacIeodGanWkmIhc3CJOLw",
+    "statut": "ouvert",
+    "resume": "Le Programme d'experts visiteurs de la TWAS offre aux institutions et groupes de recherche des pays en développement, en particulier les pays les moins avancés, la possibilité d'inviter des scientifiques de renommée internationale pour des visites de 2 à 4 semaines. L'objectif est d'établir des liens durables avec des leaders mondiaux dans les sciences naturelles (hors mathématiques et physique) et de renforcer les capacités locales. La TWAS prend en charge le voyage aller-retour en classe économique, tandis que l'institution d'accueil couvre les dépenses locales. Les candidatures doivent être soumises en ligne par l'institution d'accueil avant le 30 novembre 2026.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-28T00:08:42",
+    "slug": "bourse-twas-experts-visiteurs-2026"
+  },
+  {
+    "titre": "Professeurs de recherche TWAS dans les PMA",
+    "seo_slug": "bourse-twas-professeurs-recherche-pma-2026",
+    "organisation": "Académie mondiale des sciences (TWAS)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse de mobilité",
+    "deadline": "2026-11-30",
+    "deadline_texte": "30 novembre 2026 (date limite prolongée)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences naturelles"
+    ],
+    "pays_eligibles": [
+      "Pays les moins avancés (PMA)"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Billet d'avion aller-retour en classe économique",
+      "Frais de voyage supplémentaires",
+      "Honoraires",
+      "Frais de séjour locaux couverts par l'institution hôte"
+    ],
+    "eligibilite": [
+      "Être membre de TWAS (Fellow) ou Young Affiliate/Alumni",
+      "Être titulaire d'un doctorat (PhD)",
+      "La demande doit être soumise par un groupe de recherche ou une institution scientifique située dans un PMA",
+      "Les candidats ne peuvent postuler qu'à un seul programme du portefeuille TWAS/OWSD par année civile",
+      "Les candidats ne peuvent pas visiter une autre institution la même année dans le cadre des programmes de professeurs invités de TWAS (sauf exception pour les chefs d'institution qui invitent un chercheur externe)"
+    ],
+    "procedure_etapes": [
+      "Vérifier que le groupe de recherche ou l'institution est situé dans un PMA",
+      "S'assurer que le candidat est membre de TWAS ou Young Affiliate/Alumni",
+      "Remplir le formulaire de candidature en ligne",
+      "Soumettre la demande avant le 30 novembre 2026"
+    ],
+    "contacts": [
+      "exchanges@twas.org"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature",
+        "url": "https://onlineforms.twas.org/apply/312"
+      },
+      {
+        "label": "Liste des pays les moins avancés (PMA)",
+        "url": "https://twas.org/least-developed-countries-ldcs"
+      },
+      {
+        "label": "Annuaire des membres TWAS",
+        "url": "https://twas.org/network/members"
+      },
+      {
+        "label": "Annuaire des Young Affiliates/Alumni",
+        "url": "https://twas.org/directory?members-type=young-affiliates"
+      },
+      {
+        "label": "Programmes de professeurs invités",
+        "url": "https://twas.org/opportunities/visiting-scientist/professors"
+      }
+    ],
+    "mots_cles": [
+      "bourse TWAS",
+      "professeurs de recherche",
+      "pays les moins avancés",
+      "sciences naturelles",
+      "mobilité scientifique",
+      "TWAS Research Professors",
+      "bourse de recherche",
+      "doctorat",
+      "PMA"
+    ],
+    "lien_candidature": "https://onlineforms.twas.org/apply/312",
+    "source_url": "https://twas.org/opportunity/twas-research-professors-ldcs?fbclid=IwY2xjawV27L1leHRuA2FlbQIxMABwZG9mAWJyaWQRMVg3VEZJNjBIVGxLUjFvVHZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfwzhrwNHiyxlI3ehfqlPyJyyy7q0FAzYacUoaVC95DsnCbtiQpVUFSezxGYM_aem_wlrZsilxqelIpITMSz6ePQ",
+    "statut": "ouvert",
+    "resume": "Le programme TWAS Research Professors in LDCs offre à des membres de TWAS et à des Young Affiliates/Alumni la possibilité d'effectuer une visite de deux à quatre semaines dans une institution de recherche située dans un pays moins avancé (PMA). Les professeurs bénéficient d'une prise en charge des frais de voyage et d'un honoraire, tandis que l'institution hôte couvre les frais de séjour. L'objectif est de renforcer les capacités scientifiques locales et d'établir des liens durables. Les candidatures doivent être soumises par des groupes de recherche ou des institutions des PMA avant le 30 novembre 2026.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-28T00:09:00",
+    "slug": "bourse-twas-professeurs-recherche-pma-2026"
+  },
+  {
     "titre": "Programme de bourses environnementales de Harvard 2027 aux États-Unis (entièrement financé)",
     "seo_slug": "bourse-harvard-environnement-2027",
     "organisation": "Harvard University Center for the Environment (HUCE)",
@@ -3188,6 +3466,103 @@
     "slug": "bourse-mastercard-foundation-sciences-po-2026"
   },
   {
+    "titre": "Programme de résidence Humboldt 2027",
+    "seo_slug": "bourse-residence-humboldt-2027",
+    "organisation": "Alexander von Humboldt Foundation",
+    "montant": null,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-12-14",
+    "deadline_texte": "14 décembre 2026",
+    "niveau_etudes": [
+      "Doctorat",
+      "Post-doctorat",
+      "Professionnel"
+    ],
+    "domaines": [
+      "Océanographie",
+      "Écologie",
+      "Sciences politiques",
+      "Économie",
+      "Journalisme",
+      "Arts",
+      "Entrepreneuriat social"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Curriculum Vitae (max. 3 pages, PDF)",
+      "Vidéo de présentation (max. 60 secondes)"
+    ],
+    "avantages": [
+      "Allocation mensuelle pendant la période de résidence de six semaines à Berlin/Brandebourg",
+      "Indemnité de voyage pour le trajet aller-retour vers l'Allemagne",
+      "Hébergement au Schloss Wiepersdorf (2 semaines) et dans un aparthotel à Berlin (4 semaines)",
+      "Budget pour organiser des formats d'événements publics ou des productions de fin d'année",
+      "Pour les participants voyageant avec des membres de leur famille dépendants : hébergement familial adapté et aide à l'organisation de la garde d'enfants"
+    ],
+    "eligibilite": [
+      "5 anciens boursiers de la Fondation Humboldt : expertise académique ou professionnelle pertinente liée au thème annuel, capacité à communiquer au-delà du monde académique, avoir reçu une bourse ou un prix par le passé mais ne pas être financé par un autre programme de la fondation au début de la résidence (août 2027), occuper un poste académique et ne pas être basé en Allemagne.",
+      "3 chercheurs en début de carrière : expérience préalable en communication scientifique ou en lien entre recherche et contextes sociaux/politiques, être en cours de doctorat ou avoir obtenu son doctorat depuis moins de quatre ans au début de la résidence (août 2027), occuper un poste académique et ne pas être basé en Allemagne, avoir un profil académique clair lié au thème annuel et démontrer un potentiel de carrière académique.",
+      "4 praticiens de la société civile : lien clair avec le thème annuel démontré par leurs travaux antérieurs, potentiel à agir comme multiplicateurs des idées et impulsions générées pendant la résidence, correspondre à l'un des deux profils suivants : créatifs (journalistes, auteurs, cinéastes, conservateurs, artistes ou designers) ou praticiens avec un lien professionnel au thème annuel (politique, entrepreneurs sociaux, représentants de campagnes sociales ou politiques ou ONG, consultants), ne pas occuper actuellement un poste académique."
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les critères d'éligibilité et le thème annuel.",
+      "2. Préparer le Curriculum Vitae (max. 3 pages, PDF).",
+      "3. Enregistrer une vidéo de présentation (max. 60 secondes) en suivant les directives.",
+      "4. Télécharger la vidéo sur Smash (https://fromsmash.com/) et obtenir le lien.",
+      "5. Remplir le formulaire de candidature en ligne et télécharger les documents.",
+      "6. Soumettre la candidature avant le 14 décembre 2026."
+    ],
+    "contacts": [
+      "residency@avh.de"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Formulaire de candidature en ligne",
+        "url": "https://service.humboldt-foundation.de/pls/web/pub_register.main?p_package=res&p_lang=en"
+      },
+      {
+        "label": "Document FAQ (PDF)",
+        "url": "/fileadmin/Bewerben/Programme/Humboldt_Residency-Programm/Residency_2027/Residency_Application_FAQ_2027.pdf"
+      },
+      {
+        "label": "Vidéo documentaire de l'année précédente",
+        "url": "https://www.youtube.com/watch?v=gr37WTxmoqo"
+      },
+      {
+        "label": "Session d'information (inscription Zoom)",
+        "url": "https://avh-de.zoom.us/meeting/register/Q3e3EKP_SjeZHuSto_vwzw"
+      },
+      {
+        "label": "Plateforme Smash pour héberger la vidéo",
+        "url": "https://fromsmash.com/"
+      }
+    ],
+    "mots_cles": [
+      "bourse",
+      "résidence Humboldt",
+      "programme Humboldt 2027",
+      "bourse Allemagne",
+      "recherche océanique",
+      "communication scientifique",
+      "société civile",
+      "bourse internationale"
+    ],
+    "lien_candidature": "https://service.humboldt-foundation.de/pls/web/pub_register.main?p_package=res&p_lang=en",
+    "source_url": "https://www.humboldt-foundation.de/bewerben/foerderprogramme/humboldt-residency-programm/humboldt-residency-programme-call-for-applications",
+    "statut": "ouvert",
+    "resume": "Le Programme de résidence Humboldt 2027 offre à douze participants internationaux l'opportunité de participer à une résidence transdisciplinaire de six semaines à Berlin et Brandebourg sur le thème « Horizons océaniques : naviguer vers l'avenir de notre planète bleue ». Les participants, qu'ils soient chercheurs, artistes ou acteurs de la société civile, bénéficieront d'une allocation mensuelle, d'un voyage pris en charge, d'un hébergement et d'un budget pour des événements publics. Les candidatures sont ouvertes jusqu'au 14 décembre 2026 et doivent être soumises en ligne avec un CV et une vidéo de présentation.",
+    "imageUrl": "/docs/programme-de-r-sidence-humboldt-appel-candidatures.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-27T23:53:43",
+    "slug": "bourse-residence-humboldt-2027"
+  },
+  {
     "titre": "Bourses d'entrée pour étudiants de premier cycle (USES) - Université Simon Fraser",
     "seo_slug": "bourse-uses-sfu-premier-cycle-2027",
     "organisation": "Simon Fraser University (SFU)",
@@ -3771,6 +4146,109 @@
     "pdfLabel": null,
     "extrait_le": "2026-11-24T23:33:23",
     "slug": "doctorat-linguistique-uconn-2026"
+  },
+  {
+    "titre": "Bourse KFUPM pour études supérieures (MS et PhD)",
+    "seo_slug": "bourse-kfupm-master-doctorat-arabie-saoudite-2026",
+    "organisation": "King Fahd University of Petroleum and Minerals (KFUPM)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": "2026-12-15",
+    "deadline_texte": "15 décembre 2026 (date de clôture des candidatures pour MS (Thesis-Based) et PhD)",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Ingénierie",
+      "Sciences",
+      "Gestion",
+      "Études interdisciplinaires"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse complète pour les étudiants exceptionnels",
+      "Prise en charge des frais de scolarité",
+      "Possibilité de recherche de pointe",
+      "Mentorat par des experts"
+    ],
+    "eligibilite": [
+      "Diplôme antérieur pertinent",
+      "Excellentes qualifications académiques",
+      "Haut GPA",
+      "Performance exceptionnelle"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les programmes disponibles et les conditions d'admission",
+      "2. Préparer les documents requis (relevés de notes, diplômes, etc.)",
+      "3. Soumettre la candidature en ligne via le portail de candidature",
+      "4. Suivre l'état de la candidature"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://nabegh.kfupm.edu.sa/cycle/32/apply"
+      },
+      {
+        "label": "Suivi de candidature",
+        "url": "https://nabegh.kfupm.edu.sa/"
+      },
+      {
+        "label": "Programmes d'études supérieures",
+        "url": "https://bulletin.kfupm.edu.sa/programs/graduate-programs/"
+      },
+      {
+        "label": "Programmes MS (Project-Based)",
+        "url": "https://ms.kfupm.edu.sa/"
+      },
+      {
+        "label": "Programme BS-X",
+        "url": "https://bulletin.kfupm.edu.sa/programs/bs-x-program/"
+      },
+      {
+        "label": "Pourquoi choisir KFUPM",
+        "url": "http://cgis.kfupm.edu.sa/why-choose-kfupm/why-choose-kfupm"
+      },
+      {
+        "label": "Détails et avantages de la bourse KFUPM",
+        "url": "/admission/kfupm-scholarship"
+      },
+      {
+        "label": "Executive Master of Business Administration",
+        "url": "https://kbs.kfupm.edu.sa/"
+      },
+      {
+        "label": "Executive Master of Engineering in Sustainable and Renewable Energy",
+        "url": "https://ee.kfupm.edu.sa/academics/Graduate_Programs/meg-in-sustainable-and-renewable-energy"
+      }
+    ],
+    "mots_cles": [
+      "bourse KFUPM",
+      "bourse Arabie Saoudite",
+      "bourse master",
+      "bourse doctorat",
+      "bourse complète",
+      "études supérieures",
+      "ingénierie",
+      "pétrole",
+      "gestion"
+    ],
+    "lien_candidature": "https://nabegh.kfupm.edu.sa/cycle/32/apply",
+    "source_url": "https://cgis.kfupm.edu.sa/",
+    "statut": "ouvert",
+    "resume": "La KFUPM offre une bourse complète aux étudiants exceptionnels souhaitant poursuivre un Master (avec thèse) ou un Doctorat. Cette opportunité couvre les frais de scolarité et offre un environnement de recherche de pointe avec un mentorat d'experts. Les candidatures sont ouvertes du 1er novembre au 15 décembre 2026. Rejoignez une institution classée parmi les meilleures mondiales en ingénierie pétrolière et chimique.",
+    "imageUrl": "/docs/screshot-2026-11-27-22-57-50.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-27T23:58:57",
+    "slug": "bourse-kfupm-master-doctorat-arabie-saoudite-2026"
   },
   {
     "titre": "Bourse EMMIR - Master Européen en Migrations et Relations Interculturelles",
@@ -8336,6 +8814,118 @@
     "pdfLabel": null,
     "extrait_le": "2026-11-16T16:15:01",
     "slug": "bourse-fast-retailing-gmp-2027"
+  },
+  {
+    "titre": "Bourse de doctorat ANSO-CAS-TWAS/UNESCO",
+    "seo_slug": "bourse-anso-cas-twas-unesco-doctorat-chine-2027",
+    "organisation": "Alliance des organisations internationales pour la science (ANSO), Académie chinoise des sciences (CAS) et Académie mondiale des sciences (TWAS/UNESCO)",
+    "montant": 7000,
+    "devise": "CNY",
+    "type_financement": "bourse complète",
+    "deadline": "2027-02-28",
+    "deadline_texte": "28 février 2027 (heure de Pékin)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences agricoles",
+      "Biologie structurale, cellulaire et moléculaire",
+      "Systèmes et organismes biologiques",
+      "Sciences médicales et de la santé, y compris neurosciences",
+      "Sciences chimiques",
+      "Sciences de l'ingénieur",
+      "Astronomie, sciences spatiales et de la Terre",
+      "Sciences mathématiques",
+      "Physique",
+      "Sciences sociales et économiques"
+    ],
+    "pays_eligibles": [
+      "Pays en développement du Sud (liste TWAS)"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Anglais ou Chinois",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "Documents académiques (selon les directives de l'USTC ou de l'UCAS)",
+      "Lettres de recommandation (selon les directives)"
+    ],
+    "avantages": [
+      "Exonération des frais de scolarité",
+      "Indemnité mensuelle de 6 000 ou 7 000 CNY (selon la réussite au test de qualification), jusqu'à 48 mois",
+      "Assurance maladie",
+      "Exonération des frais de candidature",
+      "Allocation de voyage international du pays d'origine vers la Chine (un aller-retour par candidat retenu)",
+      "Visa unique"
+    ],
+    "eligibilite": [
+      "Ne pas avoir la nationalité chinoise",
+      "Être ressortissant d'un pays en développement du Sud éligible (liste TWAS)",
+      "Maîtriser l'anglais ou le chinois",
+      "Être né après le 1er janvier 1992 (inclus)",
+      "Répondre aux critères d'admission pour étudiants internationaux de l'USTC/UCAS",
+      "Ne pas occuper d'autres fonctions pendant la bourse",
+      "Ne pas être actuellement inscrit en doctorat dans une université/institution chinoise",
+      "Ne pas postuler simultanément à l'USTC et à l'UCAS pour la bourse ANSO"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les directives de candidature spécifiques à l'USTC ou à l'UCAS.",
+      "2. Créer un compte sur le portail d'admission de l'USTC ou de l'UCAS.",
+      "3. Remplir le formulaire de candidature en ligne et téléverser les documents requis.",
+      "4. Dans le formulaire, sélectionner 'CAS-ANSO Scholarship' et cocher la case pour être considéré pour la 'ANSO-CAS-TWAS/UNESCO PhD Scholarship'.",
+      "5. Soumettre la candidature avant la date limite du 28 février 2027 (heure de Pékin).",
+      "6. S'assurer que les arbitres soumettent leurs recommandations avant la même date limite."
+    ],
+    "contacts": [
+      "isa@ustc.edu.cn"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail d'admission USTC",
+        "url": "https://isa.ustc.edu.cn/#/"
+      },
+      {
+        "label": "Portail d'admission UCAS",
+        "url": "https://is.ucas.ac.cn/#/login"
+      },
+      {
+        "label": "Directives de candidature pour l'USTC",
+        "url": "https://ic.ustc.edu.cn/en/v7info.php?Nav_x=9"
+      },
+      {
+        "label": "Appel à candidatures pour les programmes doctoraux de l'UCAS",
+        "url": "https://english.ucas.ac.cn/index.php/admission/international-students/financial-aid"
+      },
+      {
+        "label": "Liste des pays en développement du Sud (TWAS)",
+        "url": "https://twas.org/developing-countries-south"
+      },
+      {
+        "label": "Site officiel de l'ANSO",
+        "url": "http://www.anso.org.cn"
+      },
+      {
+        "label": "Site officiel de l'Académie chinoise des sciences",
+        "url": "http://english.cas.cn"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat Chine",
+      "bourse ANSO CAS TWAS UNESCO",
+      "bourse pour pays en développement",
+      "bourse doctorat 2027",
+      "bourse sciences Chine",
+      "financement études doctorales",
+      "bourse internationale Chine"
+    ],
+    "lien_candidature": "https://isa.ustc.edu.cn/#/",
+    "source_url": "https://twas.org/opportunity/anso-cas-twasunesco-phd-scholarship?fbclid=IwY2xjawV27DtleHRuA2FlbQIxMABwZG9mAWJyaWQRMVg3VEZJNjBIVGxLUjFvVHZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfbdc2sxVWQoCEQ7R5ILg6q4vJ2n7unWg3HicYAoDYNRYdpzbNCqh7OdNDxX4_aem_jTd0rQZLrFo-3Zl-NvjWZQ",
+    "statut": "ouvert",
+    "resume": "La bourse de doctorat ANSO-CAS-TWAS/UNESCO offre jusqu'à 40 places par an à des étudiants de pays en développement pour poursuivre un doctorat en Chine, avec une priorité pour les recherches liées au climat. Financée par l'Académie chinoise des sciences (CAS) et TWAS/UNESCO, elle couvre les frais de scolarité, une indemnité mensuelle pouvant atteindre 7 000 CNY, l'assurance maladie, les frais de candidature, le voyage international et le visa. Les candidats doivent être nés après le 1er janvier 1992, ne pas avoir la nationalité chinoise et maîtriser l'anglais ou le chinois. Les candidatures sont ouvertes du 17 novembre 2026 au 28 février 2027 (heure de Pékin) via les portails de l'USTC ou de l'UCAS.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-28T00:07:06",
+    "slug": "bourse-anso-cas-twas-unesco-doctorat-chine-2027"
   },
   {
     "titre": "Bourses de doctorat du Président de l'Imperial College London",
@@ -24123,6 +24713,639 @@
     "slug": "admission-sjtu-master-doctorat-chine-2027"
   },
   {
+    "titre": "Bourse Maurice-Afrique (Mauritius Africa Scholarship Scheme) - Édition 2027",
+    "seo_slug": "bourse-maurice-afrique-2027",
+    "organisation": "Ministry of Tertiary Education, Science and Research (Maurice)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni (se référer au document 'Call for Applications 2027')",
+    "niveau_etudes": [
+      "Diplôme",
+      "Licence",
+      "Master",
+      "MPhil",
+      "PhD"
+    ],
+    "domaines": [
+      "Tous domaines"
+    ],
+    "pays_eligibles": [
+      "Pays africains"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (probablement, non spécifié)",
+    "documents_requis": [
+      "Formulaire de candidature (undergraduate ou postgraduate)",
+      "Formulaire d'approbation nationale (National Endorsement Form)",
+      "Documents supplémentaires selon les directives (non détaillés dans le texte)"
+    ],
+    "avantages": [
+      "Prise en charge des frais de scolarité",
+      "Allocation mensuelle",
+      "Frais de voyage",
+      "Assurance",
+      "Autres avantages selon les directives"
+    ],
+    "eligibilite": [
+      "Être ressortissant d'un pays africain éligible",
+      "Répondre aux critères académiques du niveau visé",
+      "Être nommé par une agence de nomination (voir liste)",
+      "Respecter les directives spécifiques à chaque programme"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la liste des agences de nomination 2027",
+      "2. Télécharger le formulaire de candidature approprié (undergraduate ou postgraduate)",
+      "3. Lire les directives pour les candidats (MPhil/PhD ou Diplôme/Licence)",
+      "4. Remplir le formulaire de candidature",
+      "5. Obtenir le formulaire d'approbation nationale (National Endorsement Form) signé",
+      "6. Soumettre la candidature via l'agence de nomination ou selon les instructions du 'Call for Applications'"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Liste des agences de nomination 2027 (PDF)",
+        "url": "https://tertiaryeducation.govmu.org/te/wp-content/uploads/2026/10/Nominating-Agencies-2027.pdf"
+      },
+      {
+        "label": "Appel à candidatures 2027 (PDF)",
+        "url": "https://tertiaryeducation.govmu.org/te/wp-content/uploads/2026/10/Call-for-Application-2027.pdf"
+      },
+      {
+        "label": "Formulaire de candidature pour les programmes de premier cycle 2027 (PDF)",
+        "url": "https://tertiaryeducation.govmu.org/te/wp-content/uploads/2026/10/APPLICATION-FORM-MASS-2027-final-1.pdf"
+      },
+      {
+        "label": "Formulaire de candidature pour les programmes de troisième cycle 2027 (PDF)",
+        "url": "https://tertiaryeducation.govmu.org/te/wp-content/uploads/2026/10/APPLICATION-FORM-MASS-2027-final-1.pdf"
+      },
+      {
+        "label": "Directives pour les candidats MPhil, MPhil/PhD et PhD (PDF)",
+        "url": "https://tertiaryeducation.govmu.org/te/wp-content/uploads/2026/10/Guidelines-MASS-2027.pdf"
+      },
+      {
+        "label": "Directives pour les candidats Diplôme et Licence (PDF)",
+        "url": "https://tertiaryeducation.govmu.org/te/wp-content/uploads/2026/10/Guidelines-MASS-2027.pdf"
+      },
+      {
+        "label": "Directives pour la participation aux conférences et séminaires 2027 (PDF)",
+        "url": "https://tertiaryeducation.govmu.org/te/wp-content/uploads/2026/10/Guidelines-for-attendance-to-Conferences-and-Seminars-2027.pdf"
+      },
+      {
+        "label": "Directives pour les superviseurs MPhil/PhD 2027 (PDF)",
+        "url": "https://tertiaryeducation.govmu.org/te/wp-content/uploads/2026/10/Guidelines-for-MPhil-PhD-Supervisors-2027.pdf"
+      },
+      {
+        "label": "Directives pour les agences de nomination 2027 (PDF)",
+        "url": "https://tertiaryeducation.govmu.org/te/wp-content/uploads/2026/10/Guidelines-Nominating-Agencies-MASS-2027.pdf"
+      },
+      {
+        "label": "Directives pour voyager à l'étranger pendant la période de bourse 2027 (PDF)",
+        "url": "https://tertiaryeducation.govmu.org/te/wp-content/uploads/2026/10/Guidelines-for-travelling-abroad-during-the-Scholarship-period-2027.pdf"
+      },
+      {
+        "label": "Formulaire d'approbation nationale (DOCX)",
+        "url": "https://tertiaryeducation.govmu.org/te/wp-content/uploads/2026/10/National-Endorsement-Form-2027.docx"
+      }
+    ],
+    "mots_cles": [
+      "bourse Maurice Afrique",
+      "bourse 2027",
+      "étudier à Maurice",
+      "bourse pour Africains",
+      "bourse licence",
+      "bourse master",
+      "bourse doctorat",
+      "Mauritius Africa Scholarship"
+    ],
+    "lien_candidature": "https://tertiaryeducation.govmu.org/te/index.php/mass/",
+    "source_url": "https://tertiaryeducation.govmu.org/te/index.php/mass/",
+    "statut": "ouvert",
+    "resume": "La Bourse Maurice-Afrique (Mauritius Africa Scholarship Scheme) édition 2027 offre aux étudiants africains la possibilité de poursuivre des études de diplôme, licence, master, MPhil ou PhD à Maurice. Cette bourse complète prend en charge les frais de scolarité, une allocation mensuelle, les frais de voyage et l'assurance. Les candidats doivent être nommés par une agence de nomination agréée et soumettre leur dossier selon les directives fournies. Les dates limites et les montants exacts sont détaillés dans l'appel à candidatures 2027.",
+    "imageUrl": "/docs/screshot-2026-11-27-17-48-49.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-27T18:56:23",
+    "slug": "bourse-maurice-afrique-2027"
+  },
+  {
+    "titre": "E-admission - Formulaires de candidature et guide de candidature (BME)",
+    "seo_slug": "e-admission-bme-candidature-2026",
+    "organisation": "BME (Budapest University of Technology and Economics) - E-admission",
+    "montant": null,
+    "devise": null,
+    "type_financement": "non spécifié",
+    "deadline": null,
+    "deadline_texte": "Non spécifiée dans le texte fourni",
+    "niveau_etudes": [
+      "Licence (BSc)",
+      "Master (MSc)",
+      "Doctorat (PhD)",
+      "Échange/Erasmus"
+    ],
+    "domaines": [
+      "Non spécifié"
+    ],
+    "pays_eligibles": [
+      "Non spécifié"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaires de candidature",
+      "Guide de candidature"
+    ],
+    "avantages": [
+      "Non spécifié (aucune bourse mentionnée dans le texte)"
+    ],
+    "eligibilite": [
+      "Non spécifiée dans le texte fourni"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page E-admission du BME",
+      "2. Télécharger le guide de candidature et les formulaires de candidature",
+      "3. Choisir le parcours correspondant (BSc, MSc, PhD, Erasmus, etc.)",
+      "4. Passer le test d'admission en ligne correspondant au niveau visé",
+      "5. Soumettre la candidature via la page de candidature payante"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page principale E-admission",
+        "url": "https://e-admission.bme.hu/"
+      },
+      {
+        "label": "Tests d'entraînement et pratique 2026",
+        "url": "https://e-admission.bme.hu/course/view.php?id=32"
+      },
+      {
+        "label": "Page de candidature payante - Guide et formulaires",
+        "url": "https://e-admission.bme.hu/course/view.php?id=106"
+      },
+      {
+        "label": "Test d'anglais 2026",
+        "url": "https://e-admission.bme.hu/course/view.php?id=133"
+      },
+      {
+        "label": "Étudiants Erasmus/Échange/Free mover - Printemps 2027",
+        "url": "https://e-admission.bme.hu/course/view.php?id=141"
+      },
+      {
+        "label": "Test d'admission BSc et OTM 2026",
+        "url": "https://e-admission.bme.hu/course/view.php?id=130"
+      },
+      {
+        "label": "Test d'admission MSc 2026",
+        "url": "https://e-admission.bme.hu/course/view.php?id=134"
+      },
+      {
+        "label": "Test d'admission PhD 2026",
+        "url": "https://e-admission.bme.hu/course/view.php?id=135"
+      },
+      {
+        "label": "Candidature de transfert SH/DFP - Printemps 2027",
+        "url": "https://e-admission.bme.hu/course/view.php?id=144"
+      },
+      {
+        "label": "Parcourir tous les cours",
+        "url": "https://e-admission.bme.hu/course/"
+      }
+    ],
+    "mots_cles": [
+      "e-admission BME",
+      "candidature BME",
+      "université Budapest",
+      "admission BSc MSc PhD",
+      "test admission BME",
+      "guide candidature BME",
+      "Erasmus BME"
+    ],
+    "lien_candidature": "https://e-admission.bme.hu/",
+    "source_url": "https://e-admission.bme.hu/",
+    "statut": "ouvert",
+    "resume": "La page E-admission du BME (Budapest University of Technology and Economics) centralise les formulaires de candidature et le guide de candidature pour les futurs étudiants internationaux. Elle propose des parcours dédiés aux niveaux Licence (BSc), Master (MSc), Doctorat (PhD) ainsi qu'aux étudiants Erasmus et en échange. Les candidats y trouvent les tests d'admission en ligne, les tests d'anglais et les ressources d'entraînement pour l'année 2026. Attention : ce texte ne mentionne aucune bourse ni montant financier, il s'agit uniquement d'une plateforme d'admission.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-27T23:27:35",
+    "slug": "e-admission-bme-candidature-2026"
+  },
+  {
+    "titre": "Bourse Gates Cambridge",
+    "seo_slug": "bourse-gates-cambridge-2026",
+    "organisation": "Gates Cambridge Trust",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "La date limite varie selon le cours et le cycle d'admission. Consultez la page du cours pour connaître la date exacte.",
+    "niveau_etudes": [
+      "Master",
+      "Doctorat"
+    ],
+    "domaines": [
+      "Tous les domaines"
+    ],
+    "pays_eligibles": [
+      "International"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [
+      "Formulaire de candidature en ligne",
+      "2 références (3 pour Gates Cambridge)",
+      "Relevés de notes et certificats de tous les diplômes",
+      "CV",
+      "Résultats de test d'anglais (si nécessaire)",
+      "Déclaration personnelle",
+      "Proposition de recherche (pour les programmes de recherche)",
+      "Échantillon de travaux écrits (si demandé)",
+      "Scores GRE (si demandé)",
+      "Documents financiers (si applicable)"
+    ],
+    "avantages": [
+      "Prise en charge complète des frais de scolarité",
+      "Allocation de subsistance",
+      "Frais de voyage",
+      "Autres allocations"
+    ],
+    "eligibilite": [
+      "Être admis à l'Université de Cambridge",
+      "Faire preuve d'excellence académique",
+      "Démontrer un potentiel de leadership",
+      "Avoir un engagement envers l'amélioration de la société"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les documents requis sur la page du cours",
+      "2. Préparer les relevés de notes et certificats",
+      "3. Identifier 2 arbitres (3 pour Gates Cambridge)",
+      "4. Rédiger une déclaration personnelle",
+      "5. Rédiger une proposition de recherche (si applicable)",
+      "6. Passer les tests d'anglais (si nécessaire)",
+      "7. Créer un compte sur le portail de candidature",
+      "8. Téléverser les documents en format PDF (max 2 Mo, non cryptés)",
+      "9. Soumettre la candidature avant la date limite",
+      "10. S'assurer que les arbitres soumettent leurs références avant la date limite"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://apply.postgraduate.study.cam.ac.uk/applicant/login"
+      },
+      {
+        "label": "Site officiel de Gates Cambridge",
+        "url": "https://www.gatescambridge.org/"
+      },
+      {
+        "label": "Page des références",
+        "url": "https://www.postgraduate.study.cam.ac.uk/node/36578"
+      },
+      {
+        "label": "Exigences linguistiques en anglais",
+        "url": "https://www.postgraduate.study.cam.ac.uk/node/137"
+      },
+      {
+        "label": "Guide pour rédiger une déclaration personnelle",
+        "url": "https://www.postgraduate.study.cam.ac.uk/node/42037"
+      },
+      {
+        "label": "Guide pour rédiger une proposition de recherche",
+        "url": "https://www.postgraduate.study.cam.ac.uk/node/9482"
+      },
+      {
+        "label": "Dates limites de candidature",
+        "url": "https://www.postgraduate.study.cam.ac.uk/node/154"
+      },
+      {
+        "label": "Demande d'exemption des frais de candidature",
+        "url": "https://www.postgraduate.study.cam.ac.uk/node/36587"
+      }
+    ],
+    "mots_cles": [
+      "bourse Gates Cambridge",
+      "bourse Cambridge",
+      "bourse études supérieures",
+      "bourse internationale",
+      "financement master",
+      "financement doctorat",
+      "bourse complète",
+      "Gates Cambridge Trust"
+    ],
+    "lien_candidature": "https://apply.postgraduate.study.cam.ac.uk/applicant/login",
+    "source_url": "https://www.postgraduate.study.cam.ac.uk/apply/how/supporting-documents?utm_source=townflex.com",
+    "statut": "ouvert",
+    "resume": "La bourse Gates Cambridge est une bourse d'excellence destinée aux étudiants internationaux souhaitant poursuivre un master ou un doctorat à l'Université de Cambridge. Elle couvre l'intégralité des frais de scolarité, une allocation de subsistance et d'autres avantages. Les candidats doivent faire preuve d'un excellent parcours académique, d'un potentiel de leadership et d'un engagement social. La sélection est très compétitive et nécessite une candidature complète avec des documents spécifiques.",
+    "imageUrl": "/docs/screshot-2026-11-27-23-02-38.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-28T00:06:25",
+    "slug": "bourse-gates-cambridge-2026"
+  },
+  {
+    "titre": "Bourses de doctorat TWAS pour les pays en développement",
+    "seo_slug": "bourse-doctorat-twas-2026",
+    "organisation": "The World Academy of Sciences (TWAS/UNESCO)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète",
+    "deadline": null,
+    "deadline_texte": "Les dates d'ouverture et de clôture sont mentionnées sur chaque page de programme individuelle. Aucune date limite unique n'est fournie dans le texte.",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Sciences agricoles",
+      "Biologie structurale, cellulaire et moléculaire",
+      "Systèmes biologiques et organismes",
+      "Sciences médicales et de la santé, y compris neurosciences",
+      "Sciences chimiques",
+      "Sciences de l'ingénieur",
+      "Astronomie, sciences spatiales et de la Terre",
+      "Sciences mathématiques",
+      "Physique",
+      "Sciences sociales et économiques",
+      "Interdisciplinaire"
+    ],
+    "pays_eligibles": [
+      "Pays en développement du Sud (liste complète dans le texte)"
+    ],
+    "age_maximum": 35,
+    "langue_requise": "Non spécifié",
+    "documents_requis": [
+      "Lettre d'acceptation préliminaire (datée de l'année de candidature)",
+      "CV",
+      "Diplômes et relevés de notes",
+      "Proposition de recherche",
+      "Lettres de recommandation"
+    ],
+    "avantages": [
+      "Prise en charge des frais de scolarité",
+      "Allocation mensuelle",
+      "Frais de voyage",
+      "Assurance maladie"
+    ],
+    "eligibilite": [
+      "Être ressortissant d'un pays en développement du Sud",
+      "Détenir un MSc (ou équivalent)",
+      "Avoir moins de 35 ans",
+      "Soumettre une lettre d'acceptation préliminaire d'une institution d'accueil",
+      "Ne postuler qu'à un seul programme par année civile dans le portefeuille TWAS et OWSD"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la page du programme spécifique pour connaître les dates d'ouverture et de clôture.",
+      "2. Obtenir une lettre d'acceptation préliminaire de l'institution d'accueil (possible avant l'ouverture de l'appel).",
+      "3. Préparer les documents requis (CV, diplômes, proposition de recherche, lettres de recommandation).",
+      "4. Soumettre la candidature via le portail en ligne une fois l'appel ouvert, en utilisant le bouton 'Apply now'.",
+      "5. Attendre les résultats."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page des bourses de doctorat TWAS",
+        "url": "https://twas.org/opportunities/fellowships/phd"
+      },
+      {
+        "label": "Bourse de doctorat ANSO-CAS-TWAS/UNESCO",
+        "url": "https://twas.org/opportunity/anso-cas-twasunesco-phd-scholarship"
+      },
+      {
+        "label": "Programme de bourses postdoctorales TWAS-CSIR",
+        "url": "https://twas.org/opportunity/twas-csir-postgraduate-fellowship-programme"
+      },
+      {
+        "label": "Programme de bourses postdoctorales TWAS-CUI",
+        "url": "https://twas.org/opportunity/twas-cui-postgraduate-fellowship-programme"
+      },
+      {
+        "label": "Programme de bourses postdoctorales TWAS-TÜBİTAK",
+        "url": "https://twas.org/opportunity/twas-tubitak-postgraduate-fellowship-programme"
+      },
+      {
+        "label": "Programme de bourses postdoctorales TWAS-SN Bose",
+        "url": "https://twas.org/opportunity/twas-sn-bose-postgraduate-fellowship-programme"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat",
+      "TWAS",
+      "pays en développement",
+      "bourse Chine",
+      "bourse Inde",
+      "bourse Pakistan",
+      "bourse Brésil",
+      "bourse Afrique du Sud",
+      "bourse recherche",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://twas.org/opportunities/fellowships/phd",
+    "source_url": "https://twas.org/opportunities/fellowships/phd?fbclid=IwY2xjawV27OFleHRuA2FlbQIxMABwZG9mAWJyaWQRMVg3VEZJNjBIVGxLUjFvVHZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfetTINnU6JN4BxeEKhFNK7CzCfhVrhMluFuR_ZwhEcTO357KmFFpRaPwXj6I_aem_x0TwbqRZe_TWy3Q2I4jnjQ",
+    "statut": "ouvert",
+    "resume": "TWAS propose chaque année entre 100 et 160 bourses de doctorat dans des institutions renommées des pays en développement, notamment au Brésil, en Chine, en Inde, au Pakistan et en Afrique du Sud. Ces bourses visent à renforcer les capacités scientifiques des pays du Sud en offrant un financement complet pour des études doctorales. Les candidats doivent être titulaires d'un MSc, avoir moins de 35 ans et obtenir une lettre d'acceptation préliminaire d'une institution d'accueil. Les dates limites varient selon les programmes, il est donc essentiel de consulter chaque page individuelle.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-28T00:09:37",
+    "slug": "bourse-doctorat-twas-2026"
+  },
+  {
+    "titre": "Bourses postdoctorales TWAS",
+    "seo_slug": "bourse-postdoctorale-twas-2026",
+    "organisation": "Académie mondiale des sciences (TWAS)",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse de recherche",
+    "deadline": null,
+    "deadline_texte": "Les dates limites varient selon le programme. Par exemple, le programme TWAS-FAPESP a une date limite au 1er avril 2027.",
+    "niveau_etudes": [
+      "Postdoctorat"
+    ],
+    "domaines": [
+      "Sciences naturelles",
+      "Sciences appliquées",
+      "Sciences sociales"
+    ],
+    "pays_eligibles": [
+      "Pays en développement"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Non spécifiée",
+    "documents_requis": [
+      "Lettre d'acceptation préliminaire de l'institution d'accueil",
+      "Candidature en ligne"
+    ],
+    "avantages": [
+      "Expérience de recherche avec des collègues éminents",
+      "Durée de la bourse de trois mois à trois ans"
+    ],
+    "eligibilite": [
+      "Être un scientifique d'un pays en développement",
+      "Avoir récemment obtenu un doctorat",
+      "Candidater à un seul programme par année civile",
+      "Ne pas visiter une autre institution la même année dans le cadre d'un autre programme TWAS"
+    ],
+    "procedure_etapes": [
+      "1. Consulter la liste des programmes ouverts et leurs dates",
+      "2. Obtenir une lettre d'acceptation préliminaire de l'institution d'accueil",
+      "3. Soumettre la candidature via le portail en ligne une fois l'appel ouvert",
+      "4. Utiliser le bouton 'Apply now' sur la page du programme choisi"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Portail des bourses TWAS",
+        "url": "https://twas.org/opportunities/fellowships/postdoctoral"
+      },
+      {
+        "label": "Liste des pays en développement éligibles",
+        "url": "https://twas.org/subset/all-developing-countries"
+      },
+      {
+        "label": "Programme TWAS-FAPESP",
+        "url": "https://twas.org/opportunity/twas-fapesp-postdoctoral-fellowship-programme-developing-countries"
+      },
+      {
+        "label": "Programme TWAS-CUI",
+        "url": "https://twas.org/opportunity/twas-cui-postdoctoral-fellowship-programme"
+      },
+      {
+        "label": "Programme TWAS-TÜBİTAK",
+        "url": "https://twas.org/opportunity/twas-tubitak-postdoctoral-fellowship-programme"
+      },
+      {
+        "label": "Programme TWAS-SN Bose",
+        "url": "https://twas.org/opportunity/twas-sn-bose-postdoctoral-fellowship-programme"
+      },
+      {
+        "label": "Programme TWAS-NCP",
+        "url": "https://twas.org/opportunity/twas-ncp-postdoctoral-fellowship-programme"
+      }
+    ],
+    "mots_cles": [
+      "bourse postdoctorale",
+      "TWAS",
+      "pays en développement",
+      "recherche scientifique",
+      "FAPESP",
+      "TÜBİTAK",
+      "bourse de recherche"
+    ],
+    "lien_candidature": "https://twas.org/opportunities/fellowships/postdoctoral",
+    "source_url": "https://twas.org/opportunities/fellowships/postdoctoral?fbclid=IwY2xjawV27PZleHRuA2FlbQIxMABwZG9mAWJyaWQRMVg3VEZJNjBIVGxLUjFvVHZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfsin0xtDi50_T7quNypBtKtVTZzxksJxrVEeM088RDmTZ2fyPRo3hpZ0gfoY_aem_82CyrIVP-bFs3UynDE21qA",
+    "statut": "ouvert",
+    "resume": "Les bourses postdoctorales TWAS offrent aux scientifiques des pays en développement ayant récemment obtenu leur doctorat la possibilité d'acquérir une expérience précieuse en travaillant avec des collègues éminents dans d'autres pays en développement. D'une durée de trois mois à trois ans, ces bourses sont proposées dans le cadre de plusieurs programmes partenaires, chacun ayant ses propres conditions d'éligibilité et dates limites. Les candidats doivent postuler via le portail en ligne une fois l'appel ouvert et fournir une lettre d'acceptation préliminaire de l'institution d'accueil. Les domaines couverts incluent les sciences naturelles, appliquées et sociales.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-28T00:10:03",
+    "slug": "bourse-postdoctorale-twas-2026"
+  },
+  {
+    "titre": "Bourse Skoll pour entrepreneurs sociaux - MBA à Oxford",
+    "seo_slug": "bourse-skoll-mba-oxford-2026",
+    "organisation": "Skoll Centre for Social Entrepreneurship, Saïd Business School, Université d'Oxford",
+    "montant": null,
+    "devise": null,
+    "type_financement": "bourse complète (frais de scolarité) + frais de vie partiels",
+    "deadline": null,
+    "deadline_texte": "Les dates limites dépendent des étapes d'admission au MBA (étapes 1, 2, 3 ou 4). Consultez le site du MBA pour les dates exactes.",
+    "niveau_etudes": [
+      "MBA"
+    ],
+    "domaines": [
+      "Entrepreneuriat social",
+      "Innovation sociale",
+      "Impact social",
+      "Gestion"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (le programme MBA est en anglais)",
+    "documents_requis": [
+      "Candidature au MBA de Saïd Business School",
+      "Réponses aux questions de dissertation de la bourse Skoll",
+      "Formulaire de logistique et de référence (si présélectionné)"
+    ],
+    "avantages": [
+      "Prise en charge complète des frais de scolarité du MBA",
+      "Contribution partielle aux frais de vie",
+      "Accès à la communauté Skoll Scholar pour un apprentissage tout au long de la vie",
+      "Possibilité de networking avec d'autres innovateurs sociaux"
+    ],
+    "eligibilite": [
+      "Entrepreneur social avec un fort engagement à créer et diriger des entreprises sociales",
+      "Approche systémique du changement social",
+      "Au moins trois ans d'expérience dans la construction et la direction d'une entreprise sociale avec un impact social significatif",
+      "Qualités de changement : curiosité, humilité, persévérance",
+      "Expérience vécue ou engagement significatif avec la problématique abordée",
+      "Conscience de soi concernant sa position, ses privilèges et ses limites",
+      "Volonté d'apprendre, d'écouter et de s'adapter",
+      "Intention claire de poursuivre une carrière axée sur l'impact social ou environnemental systémique",
+      "Capacité à démontrer comment le MBA d'Oxford et la communauté Skoll contribueront à leur croissance professionnelle et à leur impact",
+      "Besoin démontré de la bourse pour atteindre ces ambitions (situation financière, expériences passées, circonstances personnelles)"
+    ],
+    "procedure_etapes": [
+      "1. Postuler directement au MBA d'Oxford à Saïd Business School lors des étapes 1, 2, 3 ou 4 du processus d'admission.",
+      "2. Téléverser vos réponses aux questions de dissertation de la bourse Skoll dans le cadre de votre candidature au MBA.",
+      "3. L'équipe d'admission du MBA évalue votre candidature pour l'admission au MBA. Si vous êtes accepté, votre candidature est automatiquement transmise au comité de sélection de la bourse Skoll.",
+      "4. Les candidatures à la bourse sont examinées après l'étape d'admission au MBA correspondante. Vous recevrez des mises à jour sur le statut de votre candidature à la bourse peu après les décisions d'admission au MBA.",
+      "5. Si vous êtes présélectionné, attendez-vous à recevoir un email du Skoll Centre décrivant les prochaines étapes, y compris un formulaire de logistique et de référence à remplir.",
+      "6. Les candidats finalistes présélectionnés seront informés des entretiens en ligne de première étape avec le comité de sélection de la bourse Skoll.",
+      "7. Les candidats retenus passeront à un entretien final en ligne."
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Site officiel de la bourse Skoll",
+        "url": "https://www.skollcentre.org/skoll-scholarship"
+      },
+      {
+        "label": "Programme MBA d'Oxford (Saïd Business School)",
+        "url": "https://www.sbs.ox.ac.uk/programmes/mbas/oxford-mba"
+      },
+      {
+        "label": "Webinaire d'information (1er décembre)",
+        "url": "https://www.sbs.ox.ac.uk/events/skoll-scholarships-and-oxford-mba"
+      },
+      {
+        "label": "Foire aux questions (FAQ)",
+        "url": "https://www.skollcentre.org/scholarship-faqs"
+      },
+      {
+        "label": "Communauté des anciens boursiers Skoll",
+        "url": "https://www.skollcentre.org/skoll-scholar-alumni"
+      },
+      {
+        "label": "Page de contact du Skoll Centre",
+        "url": "https://www.skollcentre.org/contact"
+      }
+    ],
+    "mots_cles": [
+      "bourse Skoll",
+      "MBA Oxford",
+      "entrepreneuriat social",
+      "bourse MBA",
+      "impact social",
+      "Saïd Business School",
+      "bourse études Royaume-Uni",
+      "bourse entrepreneur social",
+      "Oxford MBA scholarship",
+      "bourse 2026"
+    ],
+    "lien_candidature": "https://www.sbs.ox.ac.uk/programmes/mbas/oxford-mba",
+    "source_url": "https://www.skollcentre.org/skoll-scholarship?fbclid=IwY2xjawV27U5leHRuA2FlbQIxMABwZG9mAWJyaWQRMVg3VEZJNjBIVGxLUjFvVHZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfsin0xtDi50_T7quNypBtKtVTZzxksJxrVEeM088RDmTZ2fyPRo3hpZ0gfoY_aem_82CyrIVP-bFs3UynDE21qA",
+    "statut": "ouvert",
+    "resume": "La bourse Skoll est une opportunité prestigieuse pour les entrepreneurs sociaux de poursuivre un MBA à l'Université d'Oxford avec une prise en charge complète des frais de scolarité et une contribution aux frais de vie. Elle s'adresse aux leaders engagés dans la résolution de problèmes sociaux et environnementaux profonds, avec au moins trois ans d'expérience à la tête d'une entreprise sociale. Les boursiers rejoignent une communauté dynamique d'innovateurs sociaux et bénéficient d'un apprentissage continu. Les candidatures se font via le processus d'admission au MBA de Saïd Business School, avec des dates limites aux étapes 1 à 4.",
+    "imageUrl": "/docs/screshot-2026-11-27-23-12-12.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-28T00:13:13",
+    "slug": "bourse-skoll-mba-oxford-2026"
+  },
+  {
     "titre": "Master Européen en Linguistique Clinique (EMCL)",
     "seo_slug": "bourse-emcl-master-linguistique-clinique-2027",
     "organisation": "Erasmus Mundus Joint Master Degree (EMJMD) - Universités de Finlande orientale, Gand et Groningue",
@@ -26718,6 +27941,252 @@
     "imageUrl": null,
     "extrait_le": "2026-09-22T03:22:27",
     "slug": "bourse-ertegun-sciences-humaines-oxford-2026"
+  },
+  {
+    "titre": "Doctorat en Management - Université de Binghamton",
+    "seo_slug": "bourse-doctorat-management-binghamton-2026",
+    "organisation": "Binghamton University School of Management",
+    "montant": 27500,
+    "devise": "USD",
+    "type_financement": "bourse complète",
+    "deadline": "2026-01-10",
+    "deadline_texte": "10 janvier (année non précisée, probablement 2026 pour la rentrée d'automne 2026)",
+    "niveau_etudes": [
+      "Doctorat"
+    ],
+    "domaines": [
+      "Finance",
+      "Leadership et science organisationnelle",
+      "Marketing",
+      "Systèmes d'information de gestion"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais (TOEFL minimum 100 iBT ou IELTS 5.0)",
+    "documents_requis": [
+      "Diplôme de master d'une institution accréditée (ou équivalent)",
+      "Relevés de notes officiels de tous les travaux universitaires antérieurs",
+      "Trois lettres de recommandation",
+      "CV détaillant l'expérience éducative et professionnelle",
+      "Déclaration personnelle décrivant les objectifs de carrière",
+      "Scores GMAT (préféré) ou GRE",
+      "Score TOEFL (pour les candidats internationaux) ou IELTS"
+    ],
+    "avantages": [
+      "Prise en charge à 100% des frais de scolarité",
+      "Bourse annuelle de 27 500 $",
+      "Financement de recherche d'été de 6 000 $ (avec plan de recherche approuvé par le directeur)",
+      "Assurance santé",
+      "Soutien garanti pendant 4 ans"
+    ],
+    "eligibilite": [
+      "Diplôme de master d'une institution accréditée, complété avant l'inscription",
+      "Domaine de spécialisation en commerce ou domaine connexe préféré, mais autres domaines acceptés",
+      "GPA minimum de 3,2 en undergraduate et 3,5 en graduate (moyenne des admis : 3,71)",
+      "Trois lettres de recommandation de personnes vous connaissant",
+      "CV détaillant l'expérience éducative et professionnelle",
+      "Déclaration personnelle décrivant les objectifs de carrière",
+      "Scores GMAT (fortement préféré) ou GRE : au moins 80e percentile",
+      "TOEFL minimum 100 (iBT) ou IELTS 5.0 (pour les candidats internationaux, sauf exemption)",
+      "Admission uniquement pour l'automne"
+    ],
+    "procedure_etapes": [
+      "Vérifier les conditions d'admission et les documents requis",
+      "Préparer les tests standardized (GMAT/GRE, TOEFL/IELTS si applicable)",
+      "Rassembler les relevés de notes officiels, lettres de recommandation, CV et déclaration personnelle",
+      "Soumettre la candidature en ligne via le portail de candidature",
+      "Respecter la date limite du 10 janvier"
+    ],
+    "contacts": [
+      "ctsai@binghamton.edu",
+      "ksotak2@binghamton.edu",
+      "607-777-3385",
+      "607-777-2290"
+    ],
+    "liens_utiles": [
+      {
+        "label": "Portail de candidature",
+        "url": "https://gograd.binghamton.edu/apply/"
+      },
+      {
+        "label": "Page des exigences pour étudiants internationaux",
+        "url": "https://www.binghamton.edu/admissions/graduate/apply/international-application-requirements.html"
+      },
+      {
+        "label": "Manuel de l'étudiant PhD",
+        "url": "https://www.binghamton.edu/som/academics/phd-handbook.html"
+      },
+      {
+        "label": "Spécialisation Finance",
+        "url": "https://www.binghamton.edu/som/academics/phd-specializations/finance.html"
+      },
+      {
+        "label": "Spécialisation Leadership et Science Organisationnelle",
+        "url": "https://www.binghamton.edu/som/academics/phd-specializations/los.html"
+      },
+      {
+        "label": "Spécialisation Marketing",
+        "url": "https://www.binghamton.edu/som/academics/phd-specializations/marketing.html"
+      },
+      {
+        "label": "Spécialisation Systèmes d'Information de Gestion",
+        "url": "https://www.binghamton.edu/som/academics/phd-specializations/mis.html"
+      }
+    ],
+    "mots_cles": [
+      "bourse doctorat management",
+      "PhD management bourse",
+      "bourse États-Unis",
+      "financement doctoral",
+      "bourse université Binghamton",
+      "doctorat en gestion",
+      "bourse recherche management",
+      "bourse internationale USA"
+    ],
+    "lien_candidature": "https://gograd.binghamton.edu/apply/",
+    "source_url": "https://www.binghamton.edu/som/academics/phd-management.html",
+    "statut": "fermé",
+    "resume": "L'Université de Binghamton propose un programme de doctorat en management entièrement financé, avec une prise en charge complète des frais de scolarité, une bourse annuelle de 27 500 $, un financement de recherche d'été de 6 000 $, une assurance santé et un soutien garanti sur quatre ans. Ce programme STEM désigné offre quatre spécialisations : finance, leadership et science organisationnelle, marketing, et systèmes d'information de gestion. Les candidats doivent posséder un master, un excellent dossier académique, et des scores élevés au GMAT/GRE. La date limite de candidature est fixée au 10 janvier pour une admission à l'automne.",
+    "imageUrl": "/docs/doctorat-en-gestion-l-universit-de-binghamton.png",
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-27T23:34:27",
+    "slug": "bourse-doctorat-management-binghamton-2026"
+  },
+  {
+    "titre": "École d'été du Vienna BioCenter",
+    "seo_slug": "bourse-vienna-biocenter-summer-school-2026",
+    "organisation": "Vienna BioCenter Summer School",
+    "montant": 820,
+    "devise": "EUR",
+    "type_financement": "bourse complète",
+    "deadline": "2026-01-11",
+    "deadline_texte": "11 janvier 2026",
+    "niveau_etudes": [
+      "Licence",
+      "Master"
+    ],
+    "domaines": [
+      "Sciences de la vie",
+      "Biologie",
+      "Informatique",
+      "Domaines connexes"
+    ],
+    "pays_eligibles": [
+      "Tous les pays"
+    ],
+    "age_maximum": null,
+    "langue_requise": "Anglais",
+    "documents_requis": [],
+    "avantages": [
+      "Bourse mensuelle d'environ 820 € net",
+      "Logement étudiant entièrement financé à Vienne",
+      "Carte de transport public de Vienne",
+      "Remboursement des frais de voyage aller-retour à Vienne",
+      "Frais de visa couverts",
+      "Assurance médicale couverte",
+      "Aucun frais de candidature"
+    ],
+    "eligibilite": [
+      "Étudiants exceptionnels en licence ou au début du master en sciences de la vie ou dans un domaine informatique ou connexe directement lié",
+      "Avoir complété au moins deux années d'études universitaires",
+      "Ouvert aux étudiants du monde entier",
+      "Le programme Talents-for-Future encourage particulièrement les candidatures d'étudiants talentueux issus de milieux défavorisés"
+    ],
+    "procedure_etapes": [
+      "1. Vérifier les détails d'éligibilité sur la page 'How to Apply'",
+      "2. Préparer les documents requis (non spécifiés dans le texte)",
+      "3. Soumettre la candidature avant la date limite du 11 janvier 2026"
+    ],
+    "contacts": [],
+    "liens_utiles": [
+      {
+        "label": "Page de candidature (How to Apply)",
+        "url": "https://www.viennabiocenter.org/how-to-apply/"
+      },
+      {
+        "label": "Programme général",
+        "url": "https://www.viennabiocenter.org/summer-school/programme-description/"
+      },
+      {
+        "label": "Talents for Future",
+        "url": "https://www.viennabiocenter.org/summer-school/talents-for-future/"
+      },
+      {
+        "label": "Laboratoires participants",
+        "url": "https://www.viennabiocenter.org/summer-school/participating-labs/"
+      },
+      {
+        "label": "Avantages et vie à Vienne",
+        "url": "https://www.viennabiocenter.org/summer-school/housing/benefits/"
+      },
+      {
+        "label": "Anciens et prix",
+        "url": "https://www.viennabiocenter.org/summer-school/testimonials/"
+      },
+      {
+        "label": "Aithyra",
+        "url": "https://www.oeaw.ac.at/aithyra/"
+      },
+      {
+        "label": "CEMM",
+        "url": "https://cemm.at/"
+      },
+      {
+        "label": "GMI",
+        "url": "http://www.gmi.oeaw.ac.at"
+      },
+      {
+        "label": "IMBA",
+        "url": "http://www.imba.oeaw.ac.at"
+      },
+      {
+        "label": "IMP",
+        "url": "http://www.imp.ac.at"
+      },
+      {
+        "label": "Max Perutz Labs",
+        "url": "https://www.maxperutzlabs.ac.at/"
+      },
+      {
+        "label": "Boehringer Ingelheim Stiftung",
+        "url": "https://boehringer-ingelheim-stiftung.de/en/index.html"
+      },
+      {
+        "label": "Témoignage d'Ersi Retounioti",
+        "url": "https://www.imp.ac.at/career/summer-school/interview-ersi-retounioti"
+      },
+      {
+        "label": "Témoignage de Georgina Gutiérrez Candia",
+        "url": "https://www.oeaw.ac.at/imba/career-education/career-education/life-at-imba/georgina-gutierrez-candia-vbc-summer-school-student"
+      },
+      {
+        "label": "Mentions légales",
+        "url": "https://www.viennabiocenter.org/legal-notice-imprint/"
+      }
+    ],
+    "mots_cles": [
+      "bourse été recherche",
+      "Vienna BioCenter",
+      "stage recherche biologie",
+      "bourse sciences de la vie",
+      "école d'été Vienne",
+      "bourse Autriche",
+      "recherche biomédicale",
+      "bourse master biologie",
+      "Talents for Future"
+    ],
+    "lien_candidature": "https://www.viennabiocenter.org/how-to-apply/",
+    "source_url": "https://training.vbc.ac.at/summer-school/",
+    "statut": "fermé",
+    "resume": "L'École d'été du Vienna BioCenter offre une expérience de recherche de 9 semaines sur l'un des campus de sciences de la vie les plus exceptionnels d'Europe. Entièrement financée, cette école d'été internationale et diversifiée est une occasion unique de développer votre carrière. Les participants reçoivent une bourse mensuelle d'environ 820 € net, un logement étudiant financé à Vienne, une carte de transport public, le remboursement des frais de voyage et de visa, ainsi qu'une assurance médicale. Ouvert aux étudiants exceptionnels en licence ou au début du master en sciences de la vie ou dans des domaines connexes, ayant complété au moins deux années d'études universitaires. Date limite de candidature : 11 janvier 2026.",
+    "imageUrl": null,
+    "pdfUrl": null,
+    "pdfLabel": null,
+    "extrait_le": "2026-11-27T23:44:23",
+    "slug": "bourse-vienna-biocenter-summer-school-2026"
   },
   {
     "titre": "Master conjoint Erasmus Mundus en transports durables et systèmes d'énergie électrique - STEPS",
